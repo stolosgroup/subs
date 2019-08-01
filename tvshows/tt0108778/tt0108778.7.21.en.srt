@@ -1,0 +1,283 @@
+{1}{1}25.000
+{100}{183}Do you realize we're|getting married in four weeks?
+{189}{260}Four weeks, baby. Four weeks!
+{274}{330}You realize you get louder each week?
+{353}{439}There's still so much to do!|Have you written your vows?
+{444}{553}I figured I'd just buy those.|"Pat, I'd like to buy a vow. "
+{569}{652}You know I've no sense of humor|when it comes to this.
+{687}{804}- Right. Have you written yours yet?|- No, but I know what I'm gonna say.
+{827}{900}Do you happen to know|what I'm gonna say?
+{948}{1006}Let's do it now. It won't be hard.
+{1012}{1057}Say what's in your heart.
+{1218}{1306}{Y:i}Look at her go. She must|love me more than I love her! 
+{1323}{1423}{Y:i}What's wrong with me? |Oh, don 't open that door. 
+{1457}{1509}The One with the Vows
+{1573}{1598}English Subtitles by|SDI Media Group
+{2438}{2548}"Monica, there are no words..."
+{2607}{2686}There are no words!|This shouldn't be this hard!
+{2712}{2808}You've done this before.|What did you say in your vows?
+{2814}{2919}With Carol I promised never|to love another woman until I die.
+{2925}{2968}She made no such promise.
+{2990}{3099}I'm pathetic. Monica knows what|to say, you should have seen her.
+{3170}{3211}What's the emergency?
+{3217}{3311}You have to help me write my vows.|All I have is this.
+{3317}{3406}I like the pretty drawing|of you in the wedding dress.
+{3429}{3528}- Thank you.|- Except your breasts look small.
+{3554}{3608}Those are my eyes!
+{3649}{3737}- Those are my breasts.|- Oh, yeah.
+{3803}{3883}Why don't you start|with something simple?
+{3889}{4014}"Monica, from the moment I met you|I knew I loved you. "
+{4020}{4058}I can't do that.
+{4064}{4124}Everyone, this is Chandler.
+{4129}{4178}Hi, I'm Ross' little sister.
+{4197}{4233}Okay.
+{4293}{4371}Okay, okay.|Maybe you could start with:
+{4376}{4444}"Chandler, even though|we were friends...
+{4450}{4530}...there was a part of me|that knew I wanted more. "
+{4535}{4649}All right, there's a nuclear|holocaust. I'm the last man on Earth.
+{4654}{4703}Would you go out with me?
+{4825}{4883}Are we allowed to lie in the vows?
+{4917}{5023}Okay, don't talk about those feelings.|Just say something about...
+{5028}{5103}...all the things|he's taught you, like...
+{5248}{5306}Or all the things you taught him.
+{5325}{5419}Everybody knows the erogenous zones.|One, two, three...
+{5437}{5549}...four, five, six and seven.
+{5554}{5598}There are seven?
+{5662}{5748}- That's one?|- Kind of an important one.
+{5768}{5822}I was looking at it upside down.
+{5892}{5953}You know, sometimes that helps.
+{6062}{6139}Okay, start out with a little one...
+{6145}{6212}...a two, a one-two-three...
+{6237}{6318}...a three, a five...
+{6345}{6409}...a four, a three-two...
+{6415}{6464}...two, a two-four-six.
+{6491}{6575}Two-four-six, four, two...
+{6580}{6643}...two, four-seven...
+{6673}{6733}...five-seven, six-seven...
+{6739}{6799}...seven, seven...
+{6805}{6884}...seven, seven, seven...
+{6889}{6923}...seven!
+{7135}{7186}How about something like:
+{7192}{7303}"Monica, when I look back|over our time together... . "
+{7418}{7464}- Yeah?|- I can't do all of it.
+{7470}{7525}Look back over your time together.
+{7599}{7639}Oh, look, twins!
+{7645}{7733}No fair! I don't even have one,|how come they get two?
+{7745}{7808}- You'll get one.|- Yeah, when?
+{7814}{7904}When we're 40,|if neither of us are married...
+{7925}{8024}...what do you say we have one?|- Why wouldn't I be married?
+{8054}{8104}I just meant hypothetically.
+{8109}{8181}Hypothetically,|why won't I be married?
+{8186}{8213}No, no.
+{8218}{8304}What is it? Is there|something unmarriable about me?
+{8346}{8383}Well?
+{8390}{8468}Dear God, this parachute|is a knapsack!
+{8527}{8579}I'm getting married today!
+{8642}{8683}Think he knew I was here?
+{8864}{8889}Nice try.
+{8894}{8938}Wait, wait, wait.
+{9010}{9038}Look, Monica...
+{9146}{9228}- This is not gonna work.|- I bet this'll work.
+{9429}{9493}You are so great! I love you.
+{9725}{9756}What?
+{9762}{9851}I said you're so great,|and then I stopped talking.
+{9905}{9982}- You said you love me!|- No, I didn't.
+{10028}{10085}- Yes, you did.|- No, I didn't!
+{10111}{10172}- You love me!|- No, I don't!
+{10177}{10219}Stop it! Stop it!
+{10322}{10418}You know, I was thinking,|what if I unpack here?
+{10423}{10480}Then all your stuff would be here.
+{10520}{10553}Well... .
+{10617}{10658}What if it was here?
+{10675}{10748}Then you'd be going back|and forth all the time.
+{10762}{10798}Doesn't make any sense.
+{10810}{10848}Okay.
+{10901}{10998}What if we live together,|and you understand what I'm saying?
+{11211}{11257}We wanted to surprise you.
+{11507}{11544}Oh, my God!
+{11700}{11738}Chandler...
+{11773}{11813}...in all my life...
+{11834}{11898}...I never thought I'd be so lucky...
+{11982}{12068}...as to fall in love with my best...
+{12103}{12201}My best... There's a reason|why girls don't do this!
+{12206}{12257}Okay, okay, okay! I'll do it.
+{12285}{12328}I thought...
+{12431}{12467}I can do this.
+{12560}{12598}I thought...
+{12603}{12728}...that it mattered what I said|or where I said it.
+{12743}{12868}Then I realized the only thing|that matters is that you...
+{12966}{13068}You make me happier|than I ever thought I could be.
+{13140}{13185}And if you let me...
+{13190}{13303}...I'll spend the rest of my life|trying to make you feel the same way.
+{13520}{13556}Monica?
+{13603}{13639}Will you marry me?
+{13692}{13733}Yes.
+{14045}{14107}Can we come in?|We're dying out here!
+{14135}{14173}Come in! Come in!
+{14213}{14258}- We're engaged!|- Yes!
+{14515}{14591}- Hi.|- What have you guys been up to?
+{14596}{14676}Helping Chandler write his vows.|He kicked us out.
+{14681}{14747}Joey kept making|inappropriate suggestions.
+{14795}{14888}How is "Monica, I love|your sweet ass" inappropriate?
+{14933}{14971}How's Monica doing?
+{14976}{15070}Lucky she's got a sweet ass.|She's not so good at writing.
+{15104}{15171}In four weeks|they're gonna be married!
+{15179}{15228}Let's just hope it works.
+{15233}{15299}Nine out of 10 marriages|end in divorce.
+{15304}{15340}That's not true.
+{15345}{15398}You're right. How's the missis?
+{15444}{15470}I can't believe...
+{15475}{15531}...they're together 3 years.|- That long?
+{15536}{15619}It seems like less|because they hid it from us.
+{15647}{15708}Hey, it's me. Coming in.
+{15865}{15928}I've had a very long, hard day.
+{15944}{16030}- I'm getting some chicken. Want some?|- No. Bye, then.
+{16147}{16233}He wouldn't leave.|He kept asking if I wanted chicken.
+{16264}{16294}Chicken?
+{16322}{16363}I could eat some chicken.
+{16398}{16433}Hey, Joe!
+{16496}{16590}Can I get a three-piece,|coleslaw, beans and a Coke?
+{16613}{16648}Diet Coke.
+{16749}{16848}- Why didn't they tell us?|- I know, we were cool about it.
+{16854}{16923}You? And you?
+{16945}{17002}You cannot tell. No one knows.
+{17007}{17051}How? When?
+{17062}{17118}- It happened in London.|- In London?!
+{17188}{17274}We didn't want to make|a big deal out of it.
+{17279}{17333}But it is a big deal!
+{17344}{17403}- I have to tell someone.|- No, no!
+{17414}{17451}- You can't.|- Please!
+{17457}{17573}We don't want to deal with telling|them. Just promise you won't tell.
+{17659}{17691}All right!
+{17708}{17814}{Y:i}I can 't wait to be with you. |I'll tell Rachel I'm doing laundry. 
+{17820}{17888}{Y:i}Laundry? Is that my new nickname? 
+{18000}{18064}{Y:i}You know your nickname, Mr. Big... 
+{18102}{18224}Oh, look, there's Monica and Chandler.|Hey! Hey, you guys! Hey!
+{18478}{18529}Chandler and Monica!
+{18535}{18573}Oh, my God!
+{18579}{18648}- Chandler and Monica!|- Oh, my God!
+{18655}{18741}- Oh, my eyes! My eyes!|- Phoebe! Phoebe!
+{18747}{18834}- It's okay! It's okay!|- No! They're doing it!
+{18839}{18868}I know! I know!
+{18874}{18904}- You know?|- Yes!
+{18909}{18985}And Joey, but Ross doesn't,|so stop screaming!
+{19004}{19058}- Hey, what's going on?|- Oh, hi!
+{19097}{19129}What? What?
+{19135}{19207}We're excited that you|might get this place!
+{19220}{19322}- Actually, it looks really good.|- It looks pretty good!
+{19327}{19393}Get in here! Come on!
+{19464}{19523}So they don't know|that Rachel knows?
+{19552}{19623}Yes, but it doesn't matter|who knows what.
+{19629}{19708}Enough of us know.|We can just tell them we know.
+{19714}{19782}The lying and the secrets|will be over.
+{19787}{19898}Or, we can not tell them we know|and have a little fun of our own.
+{19918}{19992}We better go if we're gonna|catch that movie.
+{19997}{20039}- Bye.|- Bye.
+{20044}{20108}Bye, Chandler. I miss you already.
+{20235}{20304}Did you see|the inappropriate pinching?
+{20309}{20336}Actually, I did.
+{20341}{20423}So now do you believe|that she's attracted to me?
+{20454}{20523}Oh, my God!|My God, she knows about us!
+{20529}{20611}- Phoebe knows about us!|- I didn't tell them.
+{20620}{20685}Them? Who's them?
+{20715}{20776}Phoebe and Joey.
+{20820}{20850}Joey!
+{20859}{20889}And Rachel.
+{20899}{20966}They made me promise not to tell.
+{20971}{21053}They think they are so slick,|messing with us!
+{21059}{21133}They don't know that we know|that they know.
+{21167}{21213}- So... .|- Ah, yes!
+{21219}{21288}The messers become the messees!
+{21314}{21398}My God, he wants me to come|over and feel his biceps!
+{21424}{21453}Are you kidding?
+{21458}{21518}I can't believe he'd do that to Mo...
+{21732}{21794}Joey? Do they know that we know?
+{21808}{21859}- No.|- Joey!
+{21864}{21928}- They know you know.|- I knew it!
+{21951}{22002}I cannot believe those two!
+{22007}{22093}They thought that they could|mess with us? With us?
+{22153}{22236}They don't know that we know|they know we know.
+{22268}{22314}Joey, you can't say anything.
+{22319}{22365}Couldn't if I wanted to.
+{22414}{22483}She wants me to put lotion on her!
+{22489}{22523}She's bluffing!
+{22528}{22598}She's not backing down.|She went like this.
+{22659}{22740}He's not backing down.|He went to get lotion.
+{22795}{22842}Aren't you guys done yet?
+{22847}{22957}The sooner Phoebe breaks Chandler|the sooner this is all over.
+{22975}{23008}- I like that.|- Okay.
+{23014}{23128}Okay, show him your bra.|He's afraid of bras. Can't work them.
+{23308}{23368}Wow! You didn't rip off|any buttons.
+{23374}{23412}It's not my first time.
+{23469}{23529}You go seduce her until she cracks.
+{23535}{23578}Okay, give me a second.
+{23598}{23668}- Did you clean up in here?|- Of course.
+{23809}{23839}Oh, you're going?
+{23849}{23898}Not without you, lover.
+{24020}{24095}So, this is my bra.
+{24183}{24233}It's very, very nice.
+{24285}{24346}Well, come here.
+{24351}{24415}I'm happy we're gonna|have all the sex.
+{24460}{24535}You should be. I'm very bendy.
+{24654}{24731}- I'm gonna kiss you.|- Not if I kiss you first.
+{25217}{25287}There's nothing left|for us to do but kiss.
+{25308}{25353}Here it comes.
+{25379}{25415}Our first kiss.
+{25633}{25713}- Okay, okay, okay, fine, you win!|- Ha!
+{25719}{25760}- I can't have sex.|- Why not?
+{25765}{25831}- I'm in love with Monica.|- You're what?
+{25894}{26013}Love her! That's right, I love her!|I love her!
+{26125}{26168}I love you, Monica.
+{26190}{26243}I love you too, Chandler.
+{26375}{26475}I thought you guys were doing it,|I didn't know you were in love.
+{26506}{26567}That's it, it's over.|Everybody knows.
+{26572}{26668}- Well, Ross doesn't.|- We'd like it if no one told him yet.
+{26674}{26708}No.
+{26764}{26818}What are you doing?
+{26835}{26903}Get off my sister!
+{26958}{27039}Friends getting married,|it's gotta change things.
+{27045}{27084}Think it'll be different?
+{27090}{27163}How can it not be?|They're gonna have kids...
+{27169}{27249}...and hang out with other couples|who have kids.
+{27255}{27315}And maybe they'll leave the city...
+{27320}{27388}...to be near a Volvo dealership.
+{27454}{27495}Things change.
+{27500}{27577}I don't want them|to move to a Volvo dealership.
+{27617}{27651}It'll be okay, Joe.
+{27670}{27754}Sorry. I just...|I like things the way they are.
+{27770}{27819}Who's this little naked guy?
+{27825}{27874}That naked guy would be me.
+{27912}{27953}Look at the little thing.
+{27959}{27993}Yes.
+{28023}{28126}Yes, fine, that is my penis.|Can we be grownups now?
+{28165}{28225}- Who are those people?|- Got me.
+{28230}{28283}Oh, that's Nana right there.
+{28289}{28348}- Wow.|- Let's see.
+{28353}{28417}"Me and the gang at Java Joe's. "
+{28422}{28507}Monica, you look like your grandma.|How old was she?
+{28520}{28558}Let's see, 1939.
+{28563}{28613}Yeah, 24, 25.
+{28647}{28688}Looks like a fun gang.
+{28830}{28908}Look, look, look!|I got Monica naked.
+{28914}{28957}Let me see.
+{28998}{29043}No, that would be me again.
+{29176}{29244}- Hey, you guys.|- What's going on?
+{29249}{29308}Well, we were just talking about...
+{29313}{29391}...you guys getting married|and how great it is.
+{29396}{29493}Yeah, you can get a Volvo.|If that's what you really want.
+{29523}{29557}That's so sweet.
+{29590}{29680}- So, we both finished our vows.|- Can we read them?
+{29685}{29773}As long as I don't hear his|and he doesn't hear mine.
+{29990}{30038}Oh, that's beautiful.
+{30072}{30106}Funny one! Good!
+{30159}{30195}Will you marry me?
+{30265}{30309}What? I don't get it.
+{30319}{30358}Oh, yeah!
+{30422}{30485}- Man, this is hilarious!|- Chandler!
+{30515}{30578}Don't worry, we'll make yours funnier.
+{30747}{30793}Okay, what do you think?
+{30850}{30958}- Dude... .|- I have never known love like this.
+{30978}{31039}- You really like it?|- Dude!
+{31075}{31116}How did you write this?
+{31121}{31183}I stole Monica's|and changed the name.
+{31242}{31323}- You can't do that!|- Lf he goes first he can!

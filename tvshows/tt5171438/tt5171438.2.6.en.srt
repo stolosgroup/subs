@@ -1,0 +1,4584 @@
+1
+00:00:08,307 --> 00:00:10,343
+<i>Previously
+on</i>
+
+2
+00:00:08,307 --> 00:00:10,343
+Star Trek: Discovery...
+
+3
+00:00:10,377 --> 00:00:12,679
+Section 31?
+
+4
+00:00:10,377 --> 00:00:12,679
+Shes tracking
+a suspected murderer.
+
+5
+00:00:12,711 --> 00:00:14,147
+Mr. Spock is one of mine.
+
+6
+00:00:14,179 --> 00:00:15,414
+I think there may be
+a connection between Spock
+
+7
+00:00:15,448 --> 00:00:17,449
+<i>and the signals
+around the universe.</i>
+
+8
+00:00:17,484 --> 00:00:20,420
+AMANDA:
+Spock drew those images.
+
+9
+00:00:17,484 --> 00:00:20,420
+What is it?
+
+10
+00:00:20,452 --> 00:00:22,222
+<i>AMANDA:
+He called it the Red Angel.</i>
+
+11
+00:00:22,254 --> 00:00:24,157
+<i>That vision changed him
+forever.</i>
+
+12
+00:00:24,190 --> 00:00:25,492
+Ive seen this angel, too.
+
+13
+00:00:25,524 --> 00:00:26,859
+<i>STAMETS:
+I watched Tyler kill you.</i>
+
+14
+00:00:26,893 --> 00:00:28,561
+<i>I held your body.</i>
+
+15
+00:00:28,594 --> 00:00:30,163
+<i>BURNHAM:
+He is alive.</i>
+
+16
+00:00:30,196 --> 00:00:32,531
+<i>STAMETS:
+Were getting you out of here.</i>
+
+17
+00:00:34,801 --> 00:00:36,368
+(low rumbling)
+
+18
+00:00:36,402 --> 00:00:38,170
+DETMER:
+Something has grabbed us
+out of warp, sir.
+
+19
+00:00:38,204 --> 00:00:39,238
+Were locked into place.
+
+20
+00:00:39,271 --> 00:00:41,707
+Some kind of a life-form?
+
+21
+00:00:39,271 --> 00:00:41,707
+It must need something.
+
+22
+00:00:41,740 --> 00:00:43,308
+Its trying to send
+us a message.
+
+23
+00:00:43,343 --> 00:00:45,512
+Because it wants
+to be remembered, preserve
+
+24
+00:00:45,545 --> 00:00:47,414
+its history using
+
+25
+00:00:45,545 --> 00:00:47,414
+<i>Discovery.</i>
+
+26
+00:00:49,783 --> 00:00:51,384
+Its final act was to save us.
+
+27
+00:00:51,417 --> 00:00:52,851
+We have recorded
+everything
+
+28
+00:00:52,886 --> 00:00:54,720
+it has seen and experienced.
+
+29
+00:00:54,753 --> 00:00:56,856
+<i>SARU:
+The Sphere is triggering
+the Kelpien biological</i>
+
+30
+00:00:56,890 --> 00:00:58,892
+<i>process known as</i>
+
+31
+00:00:56,890 --> 00:00:58,892
+Vaharai.
+
+32
+00:00:58,924 --> 00:01:00,627
+Signals when Kelpiens are
+
+33
+00:01:00,659 --> 00:01:02,594
+ready for slaughter
+by the Baul,
+
+34
+00:01:02,628 --> 00:01:03,862
+the predator species
+
+35
+00:01:03,896 --> 00:01:05,465
+on my homeworld of Kaminar.
+
+36
+00:01:05,498 --> 00:01:08,233
+You are the only one
+who knows me.
+
+37
+00:01:08,268 --> 00:01:10,302
+You replaced the sister I had
+on Kaminar.
+
+38
+00:01:10,335 --> 00:01:12,171
+<i>POLLARD:
+Your vital signs
+have returned to normal.</i>
+
+39
+00:01:12,204 --> 00:01:14,674
+I have never felt
+this way before.
+
+40
+00:01:14,706 --> 00:01:16,909
+Fear is gone.
+
+41
+00:01:16,942 --> 00:01:22,248
+What my people have accepted
+as the truth is a lie?
+
+42
+00:01:25,251 --> 00:01:28,555
+(wind whooshing)
+
+43
+00:01:28,587 --> 00:01:31,724
+(birds chirping)
+
+44
+00:01:31,757 --> 00:01:35,462
+<i>SARU:
+We all come from somewhere.</i>
+
+45
+00:01:41,700 --> 00:01:45,371
+<i>We carry that place with us
+wherever we go.</i>
+
+46
+00:01:58,984 --> 00:02:02,721
+<i>That never leaves our hearts.</i>
+
+47
+00:02:02,754 --> 00:02:04,757
+<i>Not entirely.</i>
+
+48
+00:02:14,266 --> 00:02:15,401
+Hows it going in here?
+
+49
+00:02:15,435 --> 00:02:16,802
+TILLY:
+Oh, my-- well,
+
+50
+00:02:16,836 --> 00:02:18,638
+without Airiam, we
+would have spent months
+
+51
+00:02:18,670 --> 00:02:20,306
+trying to sort through
+the Spheres data.
+
+52
+00:02:20,340 --> 00:02:21,674
+<i>SARU:
+But none of us can predict...</i>
+
+53
+00:02:21,707 --> 00:02:22,975
+Okay, look at this.
+This is incredible.
+
+54
+00:02:23,009 --> 00:02:24,544
+<i>...where our voyage will lead.</i>
+
+55
+00:02:24,576 --> 00:02:26,312
+The data collection of
+the Sphere isnt random.
+
+56
+00:02:26,346 --> 00:02:27,813
+Oh, no,
+its not random at all.
+
+57
+00:02:27,847 --> 00:02:31,283
+Its actually an impossibly
+sophisticated repository
+
+58
+00:02:31,317 --> 00:02:35,687
+of... like, a slice
+of the galaxys history.
+
+59
+00:02:35,722 --> 00:02:38,258
+Its like this delicious slice
+of galaxy pie.
+
+60
+00:02:38,290 --> 00:02:41,927
+<i>SARU:
+We may suffer losses
+along the way,</i>
+
+61
+00:02:41,961 --> 00:02:46,199
+<i>but we can hope to learn and
+grow from those experiences.</i>
+
+62
+00:02:48,735 --> 00:02:53,239
+<i>And from those who accompany us</i>
+
+63
+00:02:48,735 --> 00:02:53,239
+<i>on our journey.</i>
+
+64
+00:03:08,987 --> 00:03:10,956
+It is almost inconceivable
+
+65
+00:03:10,990 --> 00:03:15,027
+to have you back
+with us, Dr. Culber.
+
+66
+00:03:15,061 --> 00:03:18,531
+Inconceivable, yeah.
+
+67
+00:03:18,564 --> 00:03:23,002
+There isnt a test or a, a scan
+Dr. Pollard hasnt run on me.
+
+68
+00:03:23,036 --> 00:03:24,537
+Well, you appear yourself.
+
+69
+00:03:24,570 --> 00:03:26,573
+Well, I dont feel
+like myself.
+
+70
+00:03:30,475 --> 00:03:34,479
+Enduring something no
+one thought possible
+
+71
+00:03:34,514 --> 00:03:39,651
+can be transformative.
+
+72
+00:03:39,686 --> 00:03:42,354
+Perhaps,
+
+73
+00:03:42,388 --> 00:03:46,859
+perhaps, in feeling
+less like you were,
+
+74
+00:03:46,893 --> 00:03:52,564
+you are more like who
+you were meant to become.
+
+75
+00:03:52,598 --> 00:03:54,667
+Commander Saru?
+
+76
+00:03:54,700 --> 00:03:57,670
+Your results.
+
+77
+00:03:57,704 --> 00:04:00,806
+The most evident anatomical
+change from the Kelpien advent
+
+78
+00:04:00,840 --> 00:04:02,342
+of your
+
+79
+00:04:00,840 --> 00:04:02,342
+<i>Vahar...</i>
+
+80
+00:04:02,375 --> 00:04:03,643
+<i>Vaharai.</i>
+
+81
+00:04:02,375 --> 00:04:03,643
+<i>Thank you.</i>
+
+82
+00:04:03,675 --> 00:04:05,411
+With the loss of
+your threat ganglia,
+
+83
+00:04:05,444 --> 00:04:08,480
+the cartilage that housed it
+is reorganizing to accommodate
+
+84
+00:04:08,514 --> 00:04:10,616
+a new type of
+keratin-based tissue.
+
+85
+00:04:10,650 --> 00:04:12,752
+It looks like spikes
+growing in like teeth.
+
+86
+00:04:12,784 --> 00:04:14,787
+Does that sound right?
+
+87
+00:04:15,955 --> 00:04:18,057
+I would not know.
+
+88
+00:04:19,826 --> 00:04:24,529
+Did you discover anything that
+might affect me psychologically?
+
+89
+00:04:24,564 --> 00:04:27,466
+These are your neurotransmitter
+expression patterns,
+
+90
+00:04:27,500 --> 00:04:28,867
+last year versus today.
+
+91
+00:04:28,901 --> 00:04:30,937
+With you as
+my only Kelpien specimen--
+
+92
+00:04:30,970 --> 00:04:33,538
+forgive the term--
+its difficult to say
+
+93
+00:04:33,572 --> 00:04:34,906
+with certainty
+what these changes mean.
+
+94
+00:04:34,941 --> 00:04:36,608
+But if I had to guess,
+
+95
+00:04:36,643 --> 00:04:38,978
+Id say your fear responses
+are being repressed.
+
+96
+00:04:46,853 --> 00:04:50,689
+<i>SARU:What is a Kelpien without fear?</i>
+
+97
+00:04:50,723 --> 00:04:54,060
+<i>I am losing the very thing
+that defines me.</i>
+
+98
+00:04:56,095 --> 00:04:58,697
+<i>I am stumbling in the dark.</i>
+
+99
+00:04:58,730 --> 00:05:00,833
+<i>And yet I cannot help but feel</i>
+
+100
+00:05:00,867 --> 00:05:03,836
+<i>that somewhere
+within the unknown,</i>
+
+101
+00:05:03,870 --> 00:05:07,572
+<i>there is purpose.</i>
+
+102
+00:05:07,607 --> 00:05:11,644
+<i>And that we are being
+guided toward it.</i>
+
+103
+00:05:11,677 --> 00:05:13,646
+TYLER:
+Its Section 31s position
+
+104
+00:05:13,680 --> 00:05:15,915
+that if the entity
+were calling the Red Angel
+
+105
+00:05:15,947 --> 00:05:17,582
+is in fact generating
+these signals,
+
+106
+00:05:17,617 --> 00:05:20,720
+its also capable
+of time incursions.
+
+107
+00:05:20,752 --> 00:05:23,588
+And should be
+considered dangerous.
+
+108
+00:05:23,622 --> 00:05:25,524
+So far, these signals
+have led the
+
+109
+00:05:23,622 --> 00:05:25,524
+<i>Discovery</i>
+
+110
+00:05:25,557 --> 00:05:26,992
+on two rescue missions.
+
+111
+00:05:27,026 --> 00:05:28,860
+Or two catastrophic events.
+
+112
+00:05:28,894 --> 00:05:30,762
+Does the Angel merely appear
+at these crisis points,
+
+113
+00:05:30,797 --> 00:05:32,865
+or is it creating them?
+
+114
+00:05:32,899 --> 00:05:34,766
+We have to consider
+both options.
+
+115
+00:05:34,800 --> 00:05:36,468
+So lets consider.
+
+116
+00:05:36,502 --> 00:05:39,072
+The Red Angel appeared on Earth
+and transported people
+
+117
+00:05:39,105 --> 00:05:41,641
+to Terralysium
+only moments before
+
+118
+00:05:41,673 --> 00:05:43,909
+they would have died
+in a nuclear blast.
+
+119
+00:05:43,942 --> 00:05:45,644
+It also guided Spock
+to rescue me when I was
+
+120
+00:05:45,677 --> 00:05:47,480
+a child on Vulcan.
+
+121
+00:05:45,677 --> 00:05:47,480
+TYLER:
+Ive seen the drawings
+
+122
+00:05:47,512 --> 00:05:50,149
+from Spocks time
+in the psychiatric unit.
+
+123
+00:05:50,182 --> 00:05:52,819
+Look, can either of you
+say for sure
+
+124
+00:05:52,851 --> 00:05:54,887
+this thing didnt cause
+his nervous breakdown?
+
+125
+00:05:54,920 --> 00:05:56,656
+Spock made no mention
+of the Red Angel
+
+126
+00:05:56,689 --> 00:05:58,624
+when he asked for leave
+from the
+
+127
+00:05:56,689 --> 00:05:58,624
+<i>Enterprise.</i>
+
+128
+00:05:58,658 --> 00:06:00,892
+But Agent Tylers
+correct, Captain.
+
+129
+00:06:00,927 --> 00:06:02,627
+With so few data points,
+it is impossible
+
+130
+00:06:02,661 --> 00:06:06,499
+to draw conclusions based
+on its nature and motivations.
+
+131
+00:06:06,531 --> 00:06:07,834
+We need more
+information.
+
+132
+00:06:07,867 --> 00:06:09,468
+What we need is Spock.
+
+133
+00:06:09,502 --> 00:06:11,536
+TYLER:
+Captain Leland
+has devoted significant
+
+134
+00:06:11,571 --> 00:06:13,673
+Section 31 resources
+to finding him.
+
+135
+00:06:13,706 --> 00:06:16,709
+But were coming up
+empty-handed.
+
+136
+00:06:16,742 --> 00:06:18,577
+As his sister,
+can you think of anywhere
+
+137
+00:06:18,610 --> 00:06:19,978
+Spock might have gone?
+
+138
+00:06:20,012 --> 00:06:21,848
+Someplace we might not
+have thought to look?
+
+139
+00:06:21,880 --> 00:06:23,548
+SARU (over comm):
+Captain,
+
+140
+00:06:23,582 --> 00:06:25,184
+you are needed on the bridge.
+
+141
+00:06:23,582 --> 00:06:25,184
+What is it?
+
+142
+00:06:25,218 --> 00:06:27,420
+We have detected a new signal.
+
+143
+00:06:32,225 --> 00:06:34,526
+Where is it this time?
+
+144
+00:06:34,560 --> 00:06:37,096
+Outside of Federation space.
+
+145
+00:06:41,100 --> 00:06:42,468
+Ah.
+
+146
+00:06:44,137 --> 00:06:45,605
+OWOSEKUN:
+Acquiring coordinates.
+
+147
+00:06:45,637 --> 00:06:47,206
+On screen.
+
+148
+00:06:47,240 --> 00:06:49,074
+We have a lock, sir.
+
+149
+00:06:49,108 --> 00:06:51,543
+The signal is over
+an M-class planet.
+
+150
+00:06:51,576 --> 00:06:53,980
+Its listed in the
+Federation database as...
+
+151
+00:06:51,576 --> 00:06:53,980
+Kaminar.
+
+152
+00:06:55,081 --> 00:06:57,216
+Commander Saru, thats...
+
+153
+00:06:55,081 --> 00:06:57,216
+Yes.
+
+154
+00:06:57,250 --> 00:07:00,952
+Kaminar is my homeworld.
+
+155
+00:07:16,269 --> 00:07:18,471
+♪
+
+156
+00:07:45,898 --> 00:07:48,768
+♪
+
+157
+00:08:16,127 --> 00:08:18,930
+♪
+
+158
+00:08:32,979 --> 00:08:35,947
+(original
+
+159
+00:08:32,979 --> 00:08:35,947
+<i>Star Trek</i>
+
+160
+00:08:32,979 --> 00:08:35,947
+theme
+plays)
+
+161
+00:08:56,369 --> 00:09:00,306
+Kaminar is populated
+by two sentient species:
+
+162
+00:09:00,339 --> 00:09:03,676
+my people-- the Kelpiens--
+and the Baul.
+
+163
+00:09:03,708 --> 00:09:05,711
+The Baul are your predators.
+
+164
+00:09:07,145 --> 00:09:09,615
+The Baul achieved warp
+capability 20 years ago.
+
+165
+00:09:09,649 --> 00:09:12,250
+The USS
+
+166
+00:09:09,649 --> 00:09:12,250
+<i>Archimedes</i>
+
+167
+00:09:09,649 --> 00:09:12,250
+made
+first contact with them
+
+168
+00:09:12,284 --> 00:09:14,253
+after receiving
+a transmission from Kaminar.
+
+169
+00:09:14,287 --> 00:09:16,187
+But once communication
+was established,
+
+170
+00:09:16,221 --> 00:09:17,756
+the Baul High Council
+proved hostile.
+
+171
+00:09:17,789 --> 00:09:19,158
+TYLER:
+So why did the Baul send
+
+172
+00:09:19,191 --> 00:09:20,993
+a transmission
+in the first place?
+
+173
+00:09:21,027 --> 00:09:22,161
+They...
+
+174
+00:09:22,193 --> 00:09:24,163
+did not.
+
+175
+00:09:24,196 --> 00:09:27,933
+That transmission was from me.
+
+176
+00:09:27,966 --> 00:09:30,336
+<i>I coopted
+the Bauls technology</i>
+
+177
+00:09:30,369 --> 00:09:33,739
+<i>in order to send a message,
+with the hope</i>
+
+178
+00:09:33,773 --> 00:09:36,642
+that someone, somewhere,
+would receive it.
+
+179
+00:09:36,676 --> 00:09:38,844
+And that someone
+was Captain Georgiou.
+
+180
+00:09:40,046 --> 00:09:41,080
+<i>SARU:
+She was a lieutenant then,</i>
+
+181
+00:09:41,113 --> 00:09:43,950
+<i>serving on the</i>
+
+182
+00:09:41,113 --> 00:09:43,950
+Archimedes.
+
+183
+00:09:43,982 --> 00:09:45,817
+<i>Were it not for her,
+I would have been unable</i>
+
+184
+00:09:45,850 --> 00:09:49,054
+<i>to flee Kaminar
+or be granted asylum.</i>
+
+185
+00:09:50,088 --> 00:09:53,359
+I promised never to return.
+
+186
+00:09:54,360 --> 00:09:56,361
+That was the price of knowledge.
+
+187
+00:09:56,394 --> 00:09:58,331
+PIKE:
+And now,
+of the billions of planets
+
+188
+00:09:58,364 --> 00:10:00,332
+in our galaxy, the
+signal just happens
+
+189
+00:10:00,365 --> 00:10:04,169
+to show up above the homeworld
+of my first officer.
+
+190
+00:10:04,202 --> 00:10:07,306
+What are the odds?
+
+191
+00:10:04,202 --> 00:10:07,306
+It certainly isnt random.
+
+192
+00:10:07,340 --> 00:10:10,308
+<i>Discoverys</i>
+
+193
+00:10:07,340 --> 00:10:10,308
+taken a serious
+interest in the Red Angel.
+
+194
+00:10:10,342 --> 00:10:11,844
+Could be
+its returning the favor.
+
+195
+00:10:11,876 --> 00:10:13,778
+TYLER:
+Thats a leap.
+Commander Saru,
+
+196
+00:10:13,812 --> 00:10:16,081
+are there angels
+of any sort in Kelpien culture?
+
+197
+00:10:16,115 --> 00:10:19,317
+Kelpiens believe only
+in the Great Balance,
+
+198
+00:10:19,351 --> 00:10:21,253
+which, if upset, would devastate
+
+199
+00:10:21,287 --> 00:10:24,090
+the fragile ecosystem
+of our planet.
+
+200
+00:10:24,123 --> 00:10:29,361
+And we are taught that the Baul
+are the keepers of this balance.
+
+201
+00:10:29,394 --> 00:10:32,197
+Do the Kelpiens worship
+the Baul?
+
+202
+00:10:32,230 --> 00:10:35,201
+It is their superior technology,
+of which Kelpiens live in awe,
+
+203
+00:10:35,234 --> 00:10:38,037
+that allows the Baul mastery
+over my people.
+
+204
+00:10:38,070 --> 00:10:40,105
+They hide behind it.
+
+205
+00:10:40,139 --> 00:10:43,075
+No Kelpien has even seen
+a Baul in living memory.
+
+206
+00:10:43,109 --> 00:10:44,943
+BURNHAM:
+It is the same technology
+
+207
+00:10:44,976 --> 00:10:47,078
+they use to keep
+Starfleet at arms length.
+
+208
+00:10:47,113 --> 00:10:49,248
+So we shouldnt expect
+a warm welcome.
+
+209
+00:10:49,280 --> 00:10:51,116
+The Baul are, by nature,
+isolationist.
+
+210
+00:10:51,149 --> 00:10:52,985
+And theyre committed
+to preserving
+
+211
+00:10:53,019 --> 00:10:55,354
+the status quo on Kaminar.
+
+212
+00:10:53,019 --> 00:10:55,354
+TYLER:
+Well, they must have seen
+
+213
+00:10:55,388 --> 00:10:58,323
+the signal, too.
+
+214
+00:10:55,388 --> 00:10:58,323
+Maybe they wouldnt mind an
+offer to share information.
+
+215
+00:10:58,356 --> 00:10:59,557
+Depending on
+how theyre approached.
+
+216
+00:10:59,591 --> 00:11:02,394
+Well, lets knock on the front
+door and see if they answer.
+
+217
+00:11:02,427 --> 00:11:05,264
+And then what? Just ask nicely?
+
+218
+00:11:05,297 --> 00:11:09,100
+Well, as unexpected guests,
+it never hurts to be polite.
+
+219
+00:11:13,339 --> 00:11:15,441
+(indistinct chatter)
+
+220
+00:11:15,474 --> 00:11:18,144
+MAN:
+Prepare to disengage
+warp power.
+
+221
+00:11:18,177 --> 00:11:20,779
+DETMER:
+Sir, stopping out of
+warp above Kaminar.
+
+222
+00:11:27,219 --> 00:11:28,888
+The signal disappeared
+
+223
+00:11:28,921 --> 00:11:30,355
+before we arrived.
+
+224
+00:11:30,389 --> 00:11:31,923
+What else is new?
+
+225
+00:11:31,956 --> 00:11:34,293
+Mr. Bryce, hail the Baul
+on all channels.
+
+226
+00:11:34,326 --> 00:11:37,296
+Commander Burnham, run planetary
+and full-spectrum scans
+
+227
+00:11:37,328 --> 00:11:39,164
+on anything resembling
+our elusive angel.
+
+228
+00:11:39,197 --> 00:11:41,299
+And any power source capable
+of generating these signals.
+
+229
+00:11:41,332 --> 00:11:43,068
+The Baul are not
+responding, sir.
+
+230
+00:11:43,101 --> 00:11:45,171
+Thats not entirely true, sir.
+
+231
+00:11:45,203 --> 00:11:47,505
+Theyre scanning
+our weapons systems.
+
+232
+00:11:47,539 --> 00:11:49,908
+Just our weapons systems.
+
+233
+00:11:49,942 --> 00:11:52,845
+So much for knocking
+on the front door.
+
+234
+00:11:49,942 --> 00:11:52,845
+PIKE: Maybe the Baul just
+
+235
+00:11:52,878 --> 00:11:54,480
+havent learned the importance
+of a good first impression.
+
+236
+00:11:54,513 --> 00:11:57,048
+Burnham?
+
+237
+00:11:54,513 --> 00:11:57,048
+I see no indication
+the Red Angel was here.
+
+238
+00:11:57,082 --> 00:12:00,186
+Or any immediate danger
+to the planet.
+
+239
+00:11:57,082 --> 00:12:00,186
+Then why are we here? Anybody?
+
+240
+00:12:00,219 --> 00:12:02,187
+Youre assuming the signals
+only appear for a reason.
+
+241
+00:12:02,221 --> 00:12:04,190
+Yes, Mr. Tyler, thats
+exactly what Im assuming.
+
+242
+00:12:04,222 --> 00:12:06,826
+Why wont the Baul respond?
+
+243
+00:12:04,222 --> 00:12:06,826
+SARU:
+Perhaps,
+
+244
+00:12:06,859 --> 00:12:09,928
+as I have said, it is
+because they are oppressors.
+
+245
+00:12:09,961 --> 00:12:12,264
+And even had the Baul
+answered our hails,
+
+246
+00:12:12,298 --> 00:12:14,799
+why would you trust those
+who have enslaved my people
+
+247
+00:12:14,833 --> 00:12:16,402
+for centuries
+with fear and lies?
+
+248
+00:12:18,169 --> 00:12:20,105
+PIKE:
+Your insights
+are invaluable,
+
+249
+00:12:20,139 --> 00:12:21,807
+Mr. Saru.
+
+250
+00:12:21,841 --> 00:12:23,408
+But the signal appeared here.
+
+251
+00:12:23,442 --> 00:12:25,344
+And maybe the Red Angel, too.
+
+252
+00:12:25,376 --> 00:12:27,379
+If you have any idea how I could
+make inquiries without...
+
+253
+00:12:27,413 --> 00:12:29,380
+There is a Kelpien priest
+in every village.
+
+254
+00:12:29,414 --> 00:12:31,549
+Priests not only serve
+as intermediaries
+
+255
+00:12:31,583 --> 00:12:34,385
+between us and the Baul,
+but they also connect
+
+256
+00:12:34,419 --> 00:12:37,255
+all of our extended
+communities together.
+
+257
+00:12:37,288 --> 00:12:38,923
+So if the Red Angel
+appeared on Kaminar,
+
+258
+00:12:38,957 --> 00:12:41,159
+then a priest might be able
+to tell us about it.
+
+259
+00:12:41,192 --> 00:12:43,229
+Wouldnt that be a violation
+of General Order 1?
+
+260
+00:12:41,192 --> 00:12:43,229
+BURNHAM: Though the Kelpiens
+
+261
+00:12:43,261 --> 00:12:45,197
+arent warp capable, theyve
+seen warp-capable technology
+
+262
+00:12:45,230 --> 00:12:46,365
+through the Baul,
+
+263
+00:12:46,398 --> 00:12:48,834
+and they know about spaceflight.
+
+264
+00:12:48,868 --> 00:12:51,070
+First contact with the Kelpiens
+by Starfleet
+
+265
+00:12:51,102 --> 00:12:52,571
+is a judgment call,
+
+266
+00:12:52,605 --> 00:12:54,572
+but our mission
+to investigate these signals
+
+267
+00:12:54,606 --> 00:12:56,075
+would seem to require it.
+
+268
+00:12:56,107 --> 00:12:57,375
+We can stretch
+General Order 1,
+
+269
+00:12:57,408 --> 00:12:58,911
+but lets try not to break it
+in the process.
+
+270
+00:12:58,943 --> 00:12:59,912
+Burnham,
+
+271
+00:12:59,945 --> 00:13:01,113
+as a xenoanthropologist,
+
+272
+00:13:01,147 --> 00:13:02,347
+I think youre
+uniquely qualified
+
+273
+00:13:02,380 --> 00:13:04,082
+to talk
+to a village priest.
+
+274
+00:13:04,115 --> 00:13:05,451
+SARU:
+Sir,
+
+275
+00:13:05,484 --> 00:13:07,485
+I am the logical choice.
+
+276
+00:13:07,519 --> 00:13:09,187
+I offer my experience.
+
+277
+00:13:09,221 --> 00:13:10,623
+To disregard it
+is to disregard the suffering
+
+278
+00:13:10,655 --> 00:13:12,625
+of generations of Kelpiens.
+
+279
+00:13:12,658 --> 00:13:14,527
+PIKE:
+Given all that suffering,
+
+280
+00:13:14,559 --> 00:13:16,528
+youre the most
+complicated choice.
+
+281
+00:13:16,562 --> 00:13:19,365
+Do you doubt my ability
+to carry out the mission?
+
+282
+00:13:19,398 --> 00:13:20,566
+PIKE:
+Of course not.
+
+283
+00:13:20,599 --> 00:13:22,033
+But at present, we lack
+a full understanding
+
+284
+00:13:22,067 --> 00:13:23,869
+of the biological...
+
+285
+00:13:23,903 --> 00:13:26,404
+and behavioral changes
+youre undergoing.
+
+286
+00:13:26,437 --> 00:13:30,275
+I can assure you, Captain,
+I am still very much myself.
+
+287
+00:13:30,308 --> 00:13:32,110
+I can only imagine the pressure
+you might feel to share
+
+288
+00:13:32,144 --> 00:13:34,279
+the truth with your people
+about
+
+289
+00:13:32,144 --> 00:13:34,279
+<i>Vaharai.</i>
+
+290
+00:13:34,312 --> 00:13:35,581
+Are you suggesting
+that I might be incapable
+
+291
+00:13:35,614 --> 00:13:37,149
+of following Starfleet
+regulations?
+
+292
+00:13:37,182 --> 00:13:39,418
+Or that I would
+disobey your orders?
+
+293
+00:13:44,056 --> 00:13:45,323
+Captain.
+
+294
+00:13:47,927 --> 00:13:49,461
+Kelpiens have no knowledge
+of Starfleet
+
+295
+00:13:49,495 --> 00:13:52,163
+or any other
+inhabited worlds.
+
+296
+00:13:52,197 --> 00:13:53,932
+Even though General Order 1
+allows contact,
+
+297
+00:13:53,966 --> 00:13:57,036
+my arrival could come as
+a complete shock to them.
+
+298
+00:13:57,068 --> 00:14:01,273
+Commander Saru would be
+invaluable to have by my side.
+
+299
+00:14:01,307 --> 00:14:03,609
+All right.
+
+300
+00:14:03,642 --> 00:14:07,046
+But Ill remind you both, were
+here to gather information
+
+301
+00:14:07,078 --> 00:14:08,913
+about the signals
+and the Red Angel,
+
+302
+00:14:08,947 --> 00:14:12,384
+not start a war between
+the Kelpiens and the Baul.
+
+303
+00:14:14,220 --> 00:14:17,288
+Mr. Saru?
+
+304
+00:14:17,322 --> 00:14:21,659
+My duty, first and foremost,
+is to
+
+305
+00:14:17,322 --> 00:14:21,659
+<i>Discoverys</i>
+
+306
+00:14:17,322 --> 00:14:21,659
+mission, sir.
+
+307
+00:14:21,693 --> 00:14:23,428
+I never doubt that.
+
+308
+00:14:25,397 --> 00:14:26,932
+Start in your
+own village.
+
+309
+00:14:26,966 --> 00:14:28,333
+Maybe theyll be
+glad to see you.
+
+310
+00:14:35,006 --> 00:14:36,609
+CULBER:
+So, uh,
+
+311
+00:14:36,642 --> 00:14:39,945
+what did the scan say?
+
+312
+00:14:39,979 --> 00:14:42,514
+Read em yourself.
+
+313
+00:14:45,683 --> 00:14:48,220
+All normal.
+
+314
+00:14:48,254 --> 00:14:49,488
+Youre you.
+
+315
+00:14:49,520 --> 00:14:51,322
+POLLARD:
+Yes and no.
+
+316
+00:14:51,356 --> 00:14:53,658
+Brain patterns and neural
+impulses are identical,
+
+317
+00:14:53,692 --> 00:14:55,027
+but this body
+
+318
+00:14:55,059 --> 00:14:57,495
+was entirely reconstituted
+from your DNA.
+
+319
+00:14:57,528 --> 00:15:01,634
+Its brand-new down to the
+last molecule. You are,
+
+320
+00:15:01,667 --> 00:15:04,702
+for lack of a better word,
+pristine.
+
+321
+00:15:09,475 --> 00:15:13,044
+My scar, its gone.
+
+322
+00:15:13,077 --> 00:15:14,245
+STAMETS:
+It is?
+
+323
+00:15:14,279 --> 00:15:16,514
+I hadnt noticed that.
+
+324
+00:15:14,279 --> 00:15:16,514
+What scar?
+
+325
+00:15:16,548 --> 00:15:18,650
+Oh, the scar
+he chose to keep.
+
+326
+00:15:18,683 --> 00:15:20,184
+You never told her
+the story?
+
+327
+00:15:20,219 --> 00:15:24,657
+He was hiking the cliffs
+of Cabo Rojo, alone.
+
+328
+00:15:24,690 --> 00:15:26,225
+I was 16...
+
+329
+00:15:26,258 --> 00:15:28,494
+STAMETS:
+And apparently indestructible.
+
+330
+00:15:28,527 --> 00:15:30,062
+The path he
+was on gave way,
+
+331
+00:15:30,095 --> 00:15:31,697
+and he fell 30 meters.
+
+332
+00:15:32,630 --> 00:15:33,765
+15, actually.
+
+333
+00:15:33,798 --> 00:15:35,466
+Well, enough to puncture
+your shoulder.
+
+334
+00:15:35,500 --> 00:15:37,201
+He wouldve bled out, too,
+
+335
+00:15:37,235 --> 00:15:39,138
+if it werent for a
+certain Dr. Kashkooli,
+
+336
+00:15:39,171 --> 00:15:41,005
+who was half a
+kilometer behind him.
+
+337
+00:15:41,039 --> 00:15:43,609
+She risked her own life
+to climb down and help him.
+
+338
+00:15:43,642 --> 00:15:45,610
+She stitched his wound up
+with a fishing line.
+
+339
+00:15:45,644 --> 00:15:47,379
+Gave him a very
+
+340
+00:15:47,413 --> 00:15:49,380
+sexy scar
+
+341
+00:15:49,414 --> 00:15:51,417
+and inspired him to go
+to medical school
+
+342
+00:15:51,450 --> 00:15:54,519
+and become the man he is today.
+
+343
+00:15:57,322 --> 00:15:58,657
+It is weird not
+seeing it on you.
+
+344
+00:15:59,692 --> 00:16:01,460
+So, um...
+
+345
+00:16:03,328 --> 00:16:05,431
+...i-if my senses feel
+a little off, its...
+
+346
+00:16:05,464 --> 00:16:07,633
+Its because your new nervous
+system is still adjusting.
+
+347
+00:16:07,666 --> 00:16:11,135
+Id like to continue
+monitoring you, but I believe
+
+348
+00:16:11,169 --> 00:16:14,072
+youre ready to resume
+your normal life soon.
+
+349
+00:16:26,618 --> 00:16:28,620
+(animals chittering)
+
+350
+00:16:36,427 --> 00:16:37,696
+That pylon.
+
+351
+00:16:37,730 --> 00:16:40,432
+It isnt Kelpien,
+is it?
+
+352
+00:16:41,432 --> 00:16:43,201
+No.
+
+353
+00:16:43,235 --> 00:16:47,673
+The Baul have erected one
+in each village to observe us.
+
+354
+00:16:47,706 --> 00:16:50,542
+It has earned them a fitting
+name among my people:
+
+355
+00:16:50,576 --> 00:16:53,445
+the Watchful Eye.
+
+356
+00:16:53,479 --> 00:16:56,849
+This pylon is connected
+to an incredibly vast network.
+
+357
+00:16:56,881 --> 00:16:59,751
+Must have taken
+the Baul generations
+
+358
+00:16:59,784 --> 00:17:02,153
+to integrate their
+technology and ideology
+
+359
+00:17:02,187 --> 00:17:03,855
+into Kelpien society.
+
+360
+00:17:03,889 --> 00:17:07,092
+Our two species have become
+so intertwined that,
+
+361
+00:17:07,125 --> 00:17:09,094
+outside their
+technology,
+
+362
+00:17:09,127 --> 00:17:11,529
+it is difficult to
+discern what is purely us
+
+363
+00:17:11,563 --> 00:17:14,199
+and what is distinctly them.
+
+364
+00:17:14,232 --> 00:17:16,701
+Where is everyone?
+
+365
+00:17:16,734 --> 00:17:19,505
+The days work is done.
+
+366
+00:17:19,538 --> 00:17:21,740
+It will soon be nightfall.
+
+367
+00:17:21,773 --> 00:17:24,777
+Kelpiens rarely venture
+out in the dark.
+
+368
+00:17:26,678 --> 00:17:28,180
+(sighs)
+
+369
+00:17:28,212 --> 00:17:30,348
+I led this life once.
+
+370
+00:17:30,382 --> 00:17:33,352
+If I didnt know
+your people were oppressed,
+
+371
+00:17:33,384 --> 00:17:35,653
+Id think Kaminar
+was a paradise.
+
+372
+00:17:35,686 --> 00:17:37,522
+Well, in many ways, it is.
+
+373
+00:17:37,556 --> 00:17:40,259
+We live in harmony
+with each other,
+
+374
+00:17:40,291 --> 00:17:42,427
+in a world without
+hunger or poverty.
+
+375
+00:17:43,929 --> 00:17:45,530
+The only violence we
+know is the culling,
+
+376
+00:17:45,564 --> 00:17:48,333
+which Kelpiens have
+been misled to accept
+
+377
+00:17:48,366 --> 00:17:51,403
+as a mercy
+by the Baul.
+
+378
+00:17:51,436 --> 00:17:56,375
+And our priests
+sustain that belief.
+
+379
+00:17:56,407 --> 00:17:59,144
+Didnt you say
+your father was a priest?
+
+380
+00:17:59,177 --> 00:18:01,547
+Yes, he was
+a collaborator,
+
+381
+00:18:01,579 --> 00:18:05,150
+albeit an
+unwitting one,
+
+382
+00:18:05,183 --> 00:18:08,319
+enforcing the grip
+the Baul had on my people.
+
+383
+00:18:14,358 --> 00:18:16,394
+Saru...
+
+384
+00:18:17,395 --> 00:18:21,599
+For 18 years,
+
+385
+00:18:21,633 --> 00:18:24,536
+I dreamt of returning
+to my village.
+
+386
+00:18:24,569 --> 00:18:28,272
+It has not changed at all.
+
+387
+00:18:28,307 --> 00:18:31,375
+But I see it...
+
+388
+00:18:31,410 --> 00:18:33,412
+quite differently now.
+
+389
+00:18:38,416 --> 00:18:40,419
+(beeping)
+
+390
+00:18:41,819 --> 00:18:44,690
+(whirring)
+
+391
+00:18:53,699 --> 00:18:55,800
+These are the same flowers
+from your quarters.
+
+392
+00:18:55,834 --> 00:18:57,769
+Fredalia, yes.
+
+393
+00:18:57,802 --> 00:19:00,404
+They do not grow quite
+so well on a starship.
+
+394
+00:19:30,602 --> 00:19:32,570
+Brother?
+
+395
+00:19:32,604 --> 00:19:34,205
+Siranna!
+
+396
+00:19:35,807 --> 00:19:37,910
+Saru!
+
+397
+00:19:37,942 --> 00:19:40,546
+Youre alive.
+
+398
+00:19:40,578 --> 00:19:42,980
+Oh, but how?
+
+399
+00:19:43,015 --> 00:19:44,583
+We thought
+you were dead.
+
+400
+00:19:44,615 --> 00:19:46,317
+Taken by the Watchful Eye
+for questions
+
+401
+00:19:46,351 --> 00:19:47,486
+you should not
+have asked.
+
+402
+00:19:47,519 --> 00:19:49,654
+Oh...
+
+403
+00:19:49,688 --> 00:19:52,758
+Where have you been
+all this time?
+
+404
+00:19:52,790 --> 00:19:57,729
+Siranna, 18 years ago,
+
+405
+00:19:57,762 --> 00:20:00,365
+I thought I could find
+my future in the stars,
+
+406
+00:20:00,398 --> 00:20:04,036
+and I did. Uh...
+
+407
+00:20:07,905 --> 00:20:11,876
+(gasps)
+I was welcomed
+
+408
+00:20:11,910 --> 00:20:14,512
+by an interstellar service
+called Starfleet,
+
+409
+00:20:14,546 --> 00:20:18,849
+committed to peace and the
+exploration of our galaxy.
+
+410
+00:20:18,884 --> 00:20:21,452
+An organization far more
+powerful than the Baul.
+
+411
+00:20:23,488 --> 00:20:25,324
+I found a new life.
+
+412
+00:20:32,830 --> 00:20:34,499
+What are you?
+
+413
+00:20:34,532 --> 00:20:38,436
+Im human. My name is Michael.
+
+414
+00:20:38,470 --> 00:20:41,640
+I come from a planet
+called Earth,
+
+415
+00:20:41,673 --> 00:20:44,843
+and I work with your brother
+on the starship
+
+416
+00:20:41,673 --> 00:20:44,843
+<i>Discovery.</i>
+
+417
+00:20:46,444 --> 00:20:49,748
+How is it that we can
+understand one another?
+
+418
+00:20:49,780 --> 00:20:51,983
+This device.
+
+419
+00:20:52,017 --> 00:20:54,353
+Its able to translate
+over a thousand languages.
+
+420
+00:20:54,385 --> 00:20:57,823
+You mean to say there are
+a thousand life-forms out there?
+
+421
+00:20:57,855 --> 00:21:01,593
+Oh, not just a thousand--
+hundreds of thousands.
+
+422
+00:21:28,119 --> 00:21:29,855
+So different and yet...
+
+423
+00:21:35,926 --> 00:21:38,763
+The galaxy?
+
+424
+00:21:38,797 --> 00:21:40,464
+Space travel?
+
+425
+00:21:45,836 --> 00:21:48,773
+Do humans from Earth drink tea?
+
+426
+00:21:48,807 --> 00:21:51,009
+(chuckles)
+
+427
+00:22:01,819 --> 00:22:05,457
+Oh, how I have missed
+the fredalia tea of home.
+
+428
+00:22:05,490 --> 00:22:08,993
+We were blessed with
+a bountiful harvest this year.
+
+429
+00:22:09,027 --> 00:22:11,430
+Oh, you sound
+just like Father.
+
+430
+00:22:13,632 --> 00:22:14,865
+Where is he?
+
+431
+00:22:14,900 --> 00:22:19,604
+Father reached his
+
+432
+00:22:14,900 --> 00:22:19,604
+<i>Vaharai
+and joined the Great Balance</i>
+
+433
+00:22:19,637 --> 00:22:24,041
+not long after you... left us.
+
+434
+00:22:25,676 --> 00:22:29,146
+How could you?
+
+435
+00:22:29,181 --> 00:22:32,416
+And never even let us know
+that you were still alive?
+
+436
+00:22:32,451 --> 00:22:34,885
+I thought it would be safer
+for you to believe I was dead.
+
+437
+00:22:34,920 --> 00:22:37,923
+Safer?
+
+438
+00:22:37,955 --> 00:22:40,759
+We believed you had outraged
+the Watchful Eye.
+
+439
+00:22:40,791 --> 00:22:43,894
+We spent years in agony,
+fearing retribution.
+
+440
+00:22:43,929 --> 00:22:46,565
+I dreamed of our
+reunion, brother.
+
+441
+00:22:46,597 --> 00:22:49,101
+I could not be
+more sorry, Siranna.
+
+442
+00:22:49,134 --> 00:22:51,502
+This is a longer conversation.
+
+443
+00:22:51,536 --> 00:22:55,941
+But I sense that is not
+the reason you are here.
+
+444
+00:22:57,843 --> 00:22:59,677
+I...
+
+445
+00:23:08,586 --> 00:23:11,522
+Were looking for an entity
+
+446
+00:23:11,556 --> 00:23:14,659
+that we call
+the Red Angel.
+
+447
+00:23:16,795 --> 00:23:21,165
+We have reason to believe that
+it appeared here on Kaminar.
+
+448
+00:23:21,199 --> 00:23:24,169
+Is it another life-form?
+
+449
+00:23:24,201 --> 00:23:27,071
+We do not yet know what it is,
+only that it appears
+
+450
+00:23:27,105 --> 00:23:29,775
+in conjunction with a red burst
+of light in the sky
+
+451
+00:23:29,807 --> 00:23:32,911
+and in places
+of crisis.
+
+452
+00:23:32,943 --> 00:23:36,515
+The fiery sign... I saw it.
+
+453
+00:23:37,949 --> 00:23:41,586
+Have you seen or heard anything
+that might be this Red Angel?
+
+454
+00:23:41,619 --> 00:23:43,188
+Maybe from
+the priests
+
+455
+00:23:43,221 --> 00:23:45,757
+in the other
+villages?
+
+456
+00:23:49,227 --> 00:23:50,261
+This is why you have returned?
+
+457
+00:23:53,798 --> 00:23:55,933
+I should have known
+you did not come back for me.
+
+458
+00:23:55,967 --> 00:23:58,903
+Siranna,
+I ask you to...
+
+459
+00:23:58,936 --> 00:24:00,905
+You ran away because you were
+
+460
+00:24:00,939 --> 00:24:03,974
+not brave enough to face the
+Balance as the rest of us do.
+
+461
+00:24:04,009 --> 00:24:05,777
+(rumbling)
+
+462
+00:24:05,810 --> 00:24:08,980
+(deep bellowing)
+
+463
+00:24:15,753 --> 00:24:17,087
+Whats happening?
+
+464
+00:24:17,122 --> 00:24:18,589
+The Baul.
+
+465
+00:24:18,623 --> 00:24:20,592
+They must have observed
+your return.
+
+466
+00:24:20,625 --> 00:24:22,760
+Once again you disturb
+the Great Balance
+
+467
+00:24:22,794 --> 00:24:24,695
+and put our village in danger.
+
+468
+00:24:24,729 --> 00:24:26,998
+You must leave now!
+
+469
+00:24:27,031 --> 00:24:28,500
+We wont be safe
+until youre gone.
+
+470
+00:24:30,935 --> 00:24:34,239
+Siranna, this might be the last
+time we ever see each other.
+
+471
+00:24:34,271 --> 00:24:37,142
+Return to the stars, Saru.
+There is no place for you here.
+
+472
+00:24:41,680 --> 00:24:43,682
+(deep bellowing)
+
+473
+00:24:49,921 --> 00:24:51,923
+SARU:
+Theyre coming.
+
+474
+00:24:52,958 --> 00:24:55,926
+<i>Discovery,</i>
+
+475
+00:24:52,958 --> 00:24:55,926
+beam us back.
+
+476
+00:25:00,798 --> 00:25:02,800
+(deep bellowing)
+
+477
+00:25:11,876 --> 00:25:13,878
+(panting)
+
+478
+00:25:15,980 --> 00:25:18,650
+(computer chimes)
+
+479
+00:25:18,682 --> 00:25:19,984
+COMPUTER:
+Yellow alert.
+
+480
+00:25:20,018 --> 00:25:21,819
+Commander Saru,
+Commander Burnham,
+
+481
+00:25:21,853 --> 00:25:23,788
+please report to the bridge.
+
+482
+00:25:23,821 --> 00:25:25,824
+(man speaking indistinctly
+over P.A.)
+
+483
+00:25:29,661 --> 00:25:33,632
+Whatever you did,
+the Baul are hailing us now.
+
+484
+00:25:33,664 --> 00:25:36,300
+Im going to guess its not
+to invite us to a welcome party.
+
+485
+00:25:36,334 --> 00:25:38,636
+BRYCE:
+Communication channel
+established.
+
+486
+00:25:38,670 --> 00:25:40,038
+Its audio-only.
+
+487
+00:25:40,070 --> 00:25:42,073
+Mr. Saru, I think
+it would be best
+
+488
+00:25:42,106 --> 00:25:43,807
+if you stay out
+of this conversation.
+
+489
+00:25:43,842 --> 00:25:46,744
+This is Captain Christopher Pike
+of the USS
+
+490
+00:25:43,842 --> 00:25:46,744
+<i>Discovery...</i>
+
+491
+00:25:46,778 --> 00:25:50,615
+BAUL:
+You have taken
+what belongs to us.
+
+492
+00:25:51,750 --> 00:25:52,951
+What have we taken, exactly?
+
+493
+00:25:52,983 --> 00:25:55,185
+A Kelpien.
+
+494
+00:25:55,220 --> 00:25:58,189
+Starfleet promised
+
+495
+00:25:58,222 --> 00:26:02,760
+that it would not meddle in the
+internal affairs of our planet.
+
+496
+00:26:02,794 --> 00:26:05,864
+Were investigating the signal
+that appeared over your planet,
+
+497
+00:26:05,896 --> 00:26:07,766
+which Im sure
+you noticed.
+
+498
+00:26:07,798 --> 00:26:09,800
+These signals are typically
+followed by the arrival
+
+499
+00:26:09,834 --> 00:26:12,069
+of an entity we call
+the Red Angel.
+
+500
+00:26:12,103 --> 00:26:13,704
+Are you familiar
+with it?
+
+501
+00:26:17,308 --> 00:26:21,011
+The Red Angel may pose a threat
+to Kaminars Great Balance.
+
+502
+00:26:21,046 --> 00:26:22,948
+Our mutual interest
+lies only
+
+503
+00:26:22,980 --> 00:26:24,281
+in keeping the peace,
+which we all...
+
+504
+00:26:24,316 --> 00:26:28,752
+No one is safer
+than under the Watchful Eye.
+
+505
+00:26:28,787 --> 00:26:30,221
+Return the Kelpien to us,
+
+506
+00:26:30,255 --> 00:26:33,692
+and we will allow you
+to leave without harm.
+
+507
+00:26:33,724 --> 00:26:35,125
+I am not yours to be returned!
+
+508
+00:26:35,160 --> 00:26:36,027
+Mr. Saru.
+
+509
+00:26:36,060 --> 00:26:37,429
+I am brother
+
+510
+00:26:37,461 --> 00:26:40,265
+to Siranna, who lives
+a life of oppression.
+
+511
+00:26:40,298 --> 00:26:41,900
+I am son of Aradar,
+
+512
+00:26:41,932 --> 00:26:44,769
+who died needlessly
+at your hands.
+
+513
+00:26:44,802 --> 00:26:46,770
+The Kelpien speaks.
+
+514
+00:26:46,805 --> 00:26:48,373
+I am Commander Saru,
+
+515
+00:26:48,405 --> 00:26:50,375
+the first and only Kelpien
+to join Starfleet,
+
+516
+00:26:50,407 --> 00:26:52,743
+and I know the truth
+about
+
+517
+00:26:50,407 --> 00:26:52,743
+<i>Vaharai.</i>
+
+518
+00:26:52,777 --> 00:26:54,980
+The Great Balance is
+the only truth,
+
+519
+00:26:55,012 --> 00:26:57,015
+and it must not be disturbed.
+
+520
+00:26:57,048 --> 00:27:00,018
+Your lies no longer work on me.
+
+521
+00:27:00,050 --> 00:27:01,920
+<i>I survived
+myVaharai</i>
+
+522
+00:27:01,952 --> 00:27:03,755
+and I know that
+it means not death
+
+523
+00:27:03,788 --> 00:27:07,459
+but evolution, an evolution you
+murder my people to suppress.
+
+524
+00:27:07,491 --> 00:27:08,859
+Commander...
+
+525
+00:27:08,893 --> 00:27:12,396
+You think you know everything,
+Kelpien,
+
+526
+00:27:12,430 --> 00:27:16,134
+but you do not even know
+what you are.
+
+527
+00:27:16,166 --> 00:27:17,701
+DETMER:
+Captain, I detect
+
+528
+00:27:17,736 --> 00:27:19,871
+ten Baul sentry ships
+on an intercept course.
+
+529
+00:27:19,903 --> 00:27:21,806
+Shields up. Red alert.
+Show me what were dealing with.
+
+530
+00:27:21,839 --> 00:27:23,974
+(alarms blaring)
+
+531
+00:27:27,112 --> 00:27:29,114
+♪
+
+532
+00:27:35,319 --> 00:27:36,820
+Baul ships are powering up
+their weapons.
+
+533
+00:27:36,855 --> 00:27:38,490
+Warm up the phasers.
+RHYS:
+Aye, Captain.
+
+534
+00:27:38,522 --> 00:27:39,990
+PIKE:
+Whoever is listening
+to my voice,
+
+535
+00:27:40,025 --> 00:27:41,358
+I advise that you consider
+
+536
+00:27:41,393 --> 00:27:42,861
+your next move very carefully.
+
+537
+00:27:42,894 --> 00:27:44,895
+Give us the Kelpien.
+
+538
+00:27:44,929 --> 00:27:46,897
+PIKE:
+Commander Saru is a
+political asylum seeker
+
+539
+00:27:46,931 --> 00:27:48,098
+and a Starfleet officer,
+
+540
+00:27:48,133 --> 00:27:50,367
+protected by the Federation.
+
+541
+00:27:50,402 --> 00:27:52,737
+You would risk the lives
+of your own people
+
+542
+00:27:52,770 --> 00:27:54,305
+for one Kelpien?
+
+543
+00:27:54,338 --> 00:27:55,306
+This Kelpien
+
+544
+00:27:55,339 --> 00:27:57,307
+<i>is</i>
+
+545
+00:27:55,339 --> 00:27:57,307
+our people.
+
+546
+00:27:57,342 --> 00:28:00,111
+And to defend him, I will do
+whatever I deem necessary.
+
+547
+00:28:00,144 --> 00:28:02,047
+As will we.
+
+548
+00:28:02,079 --> 00:28:03,448
+The Baul are activating
+the pylon
+
+549
+00:28:03,480 --> 00:28:04,449
+in Commander
+Sarus village.
+
+550
+00:28:04,481 --> 00:28:06,451
+You have interfered
+
+551
+00:28:06,483 --> 00:28:09,019
+in the affairs of this village.
+
+552
+00:28:09,054 --> 00:28:11,021
+If you do not return
+the Kelpien,
+
+553
+00:28:11,056 --> 00:28:12,356
+therell be blood on your hands.
+
+554
+00:28:12,390 --> 00:28:14,425
+The pylons are weaponized.
+
+555
+00:28:14,459 --> 00:28:16,361
+They mean to destroy my village.
+
+556
+00:28:16,394 --> 00:28:18,229
+We have to...
+
+557
+00:28:16,394 --> 00:28:18,229
+Mr. Saru!
+
+558
+00:28:18,262 --> 00:28:19,998
+You will remove yourself
+from the bridge.
+
+559
+00:28:20,030 --> 00:28:22,133
+But, Captain...
+
+560
+00:28:20,030 --> 00:28:22,133
+Thats an order.
+
+561
+00:28:38,982 --> 00:28:41,251
+(sighs)
+
+562
+00:28:41,286 --> 00:28:43,822
+(panting)
+
+563
+00:28:47,125 --> 00:28:48,859
+COMPUTER:
+Red alert.
+
+564
+00:28:48,893 --> 00:28:51,328
+All crew
+to their assigned stations.
+
+565
+00:28:51,362 --> 00:28:53,364
+(indistinct chatter)
+
+566
+00:29:00,305 --> 00:29:02,307
+♪
+
+567
+00:29:06,845 --> 00:29:08,846
+You are relieved from duty.
+
+568
+00:29:08,880 --> 00:29:10,048
+Sir?
+Get out.
+
+569
+00:29:21,992 --> 00:29:23,327
+Saru, I know what youre doing.
+
+570
+00:29:23,361 --> 00:29:25,430
+Move off the transporter pad
+now.
+
+571
+00:29:25,462 --> 00:29:28,098
+(phaser powers up)
+
+572
+00:29:34,506 --> 00:29:36,907
+Or what, Michael?
+
+573
+00:29:36,941 --> 00:29:39,344
+I dont want to use this.
+
+574
+00:29:39,376 --> 00:29:41,112
+But youre not
+thinking clearly, Saru.
+
+575
+00:29:41,145 --> 00:29:44,048
+I have never felt more clarity
+than in this moment.
+
+576
+00:29:44,082 --> 00:29:45,950
+This is the only way.
+
+577
+00:29:47,652 --> 00:29:50,855
+Would you not do the same
+for your own brother?
+
+578
+00:30:07,271 --> 00:30:10,875
+Sir, someone is beaming down
+to planet surface.
+
+579
+00:30:10,909 --> 00:30:12,943
+What? Who is it?
+
+580
+00:30:12,977 --> 00:30:14,945
+BURNHAM:
+Burnham to the bridge.
+Its Commander Saru.
+
+581
+00:30:14,979 --> 00:30:16,346
+Hes surrendering himself.
+
+582
+00:30:16,381 --> 00:30:17,515
+Damn it.
+
+583
+00:30:17,548 --> 00:30:20,050
+Captain, the sentry ships are
+powering down their weapons.
+
+584
+00:30:32,163 --> 00:30:34,464
+Ops, track Sarus signal.
+
+585
+00:30:37,000 --> 00:30:39,269
+A Baul ship has taken him.
+
+586
+00:30:39,304 --> 00:30:42,006
+Theyre traveling toward...
+Ive lost the signal, sir.
+
+587
+00:30:42,039 --> 00:30:44,576
+Hes gone.
+
+588
+00:30:58,288 --> 00:31:00,357
+Well, with 100,000 years worth
+of data,
+
+589
+00:31:00,391 --> 00:31:02,393
+there has to be some information
+about Kaminar
+
+590
+00:31:02,426 --> 00:31:04,628
+in the Spheres archive.
+
+591
+00:31:02,426 --> 00:31:04,628
+Well, what precisely
+are we looking for?
+
+592
+00:31:04,662 --> 00:31:06,230
+When the Baul
+learned that Saru
+
+593
+00:31:06,263 --> 00:31:07,498
+had survived his
+
+594
+00:31:06,263 --> 00:31:07,498
+<i>Vaharai,</i>
+
+595
+00:31:07,531 --> 00:31:09,233
+their determination
+to capture him increased.
+
+596
+00:31:09,267 --> 00:31:12,537
+It was as if his continued
+existence threatened them.
+
+597
+00:31:12,569 --> 00:31:14,204
+You think the Baul
+are hiding something?
+
+598
+00:31:14,239 --> 00:31:16,039
+I think they know
+more about the changes
+
+599
+00:31:16,074 --> 00:31:18,041
+brought on by
+
+600
+00:31:16,074 --> 00:31:18,041
+<i>Vaharai
+than the Kelpiens do.</i>
+
+601
+00:31:18,076 --> 00:31:19,210
+And I think
+theyre willing to do
+
+602
+00:31:19,243 --> 00:31:20,211
+almost anything
+to keep that secret.
+
+603
+00:31:20,244 --> 00:31:22,180
+Will they kill Saru?
+
+604
+00:31:22,212 --> 00:31:24,348
+Not if we can find out
+what theyre hiding in time.
+
+605
+00:31:24,382 --> 00:31:26,718
+And there has to be something
+in the Spheres archive.
+
+606
+00:31:26,750 --> 00:31:27,719
+There has to be.
+
+607
+00:31:27,751 --> 00:31:30,989
+Well, thats what
+Airiam and I are here for.
+
+608
+00:31:31,021 --> 00:31:32,155
+We will find it.
+
+609
+00:31:32,190 --> 00:31:33,057
+There it is.
+
+610
+00:31:33,090 --> 00:31:35,259
+When I said "we,"
+I just meant Airiam.
+
+611
+00:31:35,292 --> 00:31:37,060
+The Sphere did collect
+readings from Kaminar.
+
+612
+00:31:37,095 --> 00:31:39,396
+Thousands of years worth
+of statistical measurements.
+
+613
+00:31:39,430 --> 00:31:41,132
+Transfer it over
+to this station, please.
+
+614
+00:31:43,500 --> 00:31:46,436
+(exhales)
+
+615
+00:31:46,471 --> 00:31:50,441
+And when Saru challenged
+the Baul, they said,
+
+616
+00:31:50,474 --> 00:31:53,243
+"You do not even know
+what you are."
+
+617
+00:31:53,278 --> 00:31:56,314
+So, what is Saru?
+
+618
+00:32:05,222 --> 00:32:08,026
+(gasping)
+
+619
+00:32:09,059 --> 00:32:11,429
+(panting)
+
+620
+00:32:28,512 --> 00:32:30,580
+Siranna?!
+
+621
+00:32:30,615 --> 00:32:32,549
+Brother?
+
+622
+00:32:32,583 --> 00:32:34,285
+Oh, why did
+the Watchful Eye take me?
+
+623
+00:32:34,318 --> 00:32:36,554
+It is not yet my time.
+
+624
+00:32:36,586 --> 00:32:38,556
+My sister has nothing
+to do with this!
+
+625
+00:32:38,588 --> 00:32:40,590
+I am the one you wanted.
+
+626
+00:32:44,494 --> 00:32:46,364
+Why did you have to return?
+
+627
+00:32:46,396 --> 00:32:48,732
+Everyone else
+thought you were dead.
+
+628
+00:32:48,766 --> 00:32:50,201
+But the night you disappeared,
+
+629
+00:32:50,233 --> 00:32:52,202
+I saw the light
+rising into the sky.
+
+630
+00:32:57,141 --> 00:32:59,477
+I became a priest
+to seek that light.
+
+631
+00:32:59,509 --> 00:33:00,711
+To seek you.
+
+632
+00:33:00,744 --> 00:33:02,779
+Your face is beautiful to me,
+
+633
+00:33:02,814 --> 00:33:05,482
+but part of me hoped
+I would never see it again.
+
+634
+00:33:07,417 --> 00:33:10,288
+Because it might mean
+you were free.
+
+635
+00:33:13,223 --> 00:33:15,727
+(whirring)
+
+636
+00:33:23,101 --> 00:33:25,369
+(whimpering)
+
+637
+00:33:40,218 --> 00:33:41,451
+(yells)
+
+638
+00:33:41,486 --> 00:33:42,386
+No! No.
+
+639
+00:33:43,453 --> 00:33:46,423
+(grunting)
+
+640
+00:33:46,457 --> 00:33:48,125
+Stop!
+
+641
+00:33:50,894 --> 00:33:52,630
+♪
+
+642
+00:33:54,664 --> 00:33:58,236
+(distorted cries)
+
+643
+00:34:02,606 --> 00:34:04,608
+(whimpering)
+
+644
+00:34:06,510 --> 00:34:08,512
+(snarling)
+
+645
+00:34:19,824 --> 00:34:21,626
+(gasps)
+
+646
+00:34:19,824 --> 00:34:21,626
+(growling)
+
+647
+00:34:29,534 --> 00:34:30,635
+(gasps)
+
+648
+00:34:33,905 --> 00:34:36,106
+(shrieks)
+
+649
+00:34:36,940 --> 00:34:39,210
+Fascinating.
+
+650
+00:34:39,242 --> 00:34:41,211
+Airiam, can you identify
+
+651
+00:34:41,244 --> 00:34:43,347
+historical biological records
+from Kaminars surface?
+
+652
+00:34:43,380 --> 00:34:44,581
+Searching...
+
+653
+00:34:46,550 --> 00:34:50,153
+Yes, bio-signs were archived
+by the Sphere.
+
+654
+00:34:50,188 --> 00:34:52,657
+Um, actually, I can use those
+current readings of the Baul
+
+655
+00:34:52,690 --> 00:34:54,592
+to distinguish their bio-signs
+from the Kelpiens.
+
+656
+00:34:54,625 --> 00:34:55,693
+Right, and we can
+cross-reference
+
+657
+00:34:55,726 --> 00:34:57,461
+Sarus medical records
+
+658
+00:34:57,494 --> 00:34:59,896
+to isolate
+the
+
+659
+00:34:57,494 --> 00:34:59,896
+<i>post-Vaharai</i>
+
+660
+00:34:57,494 --> 00:34:59,896
+Kelpiens
+
+661
+00:34:59,931 --> 00:35:02,233
+historic bio-signs
+from the rest of their species.
+
+662
+00:35:02,266 --> 00:35:03,701
+The Baul could
+only know about
+
+663
+00:35:03,733 --> 00:35:05,802
+the evolutionary
+consequences of
+
+664
+00:35:03,733 --> 00:35:05,802
+<i>Vaharai</i>
+
+665
+00:35:05,836 --> 00:35:07,938
+if, at one time, they
+experienced them.
+
+666
+00:35:07,972 --> 00:35:09,907
+Otherwise, why does it
+threaten them?
+
+667
+00:35:09,940 --> 00:35:14,512
+Well, if we, uh,
+go back 2,300 years, uh,
+
+668
+00:35:14,545 --> 00:35:16,614
+theres a significant portion
+of the Kelpiens were like Saru.
+
+669
+00:35:16,646 --> 00:35:18,916
+They survived
+
+670
+00:35:16,646 --> 00:35:18,916
+<i>Vaharai?</i>
+
+671
+00:35:18,949 --> 00:35:20,650
+The blue represents
+evolved Kelpiens,
+
+672
+00:35:20,684 --> 00:35:23,554
+green unevolved, red Baul.
+
+673
+00:35:23,588 --> 00:35:25,755
+Sorry, that...
+
+674
+00:35:25,789 --> 00:35:27,557
+that doesnt look right.
+
+675
+00:35:27,592 --> 00:35:29,693
+The Baul narrowly escaped
+extinction.
+
+676
+00:35:29,726 --> 00:35:32,963
+Then they turned around
+
+677
+00:35:32,996 --> 00:35:34,798
+and wiped out the
+evolved Kelpiens.
+
+678
+00:35:34,831 --> 00:35:36,800
+Leaving only unevolved Kelpiens,
+but...
+
+679
+00:35:36,833 --> 00:35:38,802
+Wait, so all this
+would mean that...
+
+680
+00:35:38,835 --> 00:35:40,804
+The Baul were originally
+the prey species.
+
+681
+00:35:40,838 --> 00:35:42,940
+So they would think
+of Saru as a...
+
+682
+00:35:42,974 --> 00:35:44,976
+Predator.
+
+683
+00:35:45,009 --> 00:35:47,445
+♪
+
+684
+00:35:49,713 --> 00:35:51,715
+(grunting)
+
+685
+00:35:55,452 --> 00:35:57,454
+(groaning)
+
+686
+00:36:02,893 --> 00:36:04,896
+(gasping)
+
+687
+00:36:07,998 --> 00:36:09,967
+BAUL:
+The first Kelpien
+
+688
+00:36:10,001 --> 00:36:11,902
+to pass its
+
+689
+00:36:10,001 --> 00:36:11,902
+<i>Vaharai</i>
+
+690
+00:36:11,936 --> 00:36:13,938
+in over 2,000 years,
+
+691
+00:36:13,971 --> 00:36:16,974
+and your primal, feral responses
+
+692
+00:36:17,007 --> 00:36:20,010
+are the same as centuries ago.
+
+693
+00:36:20,043 --> 00:36:23,748
+Your kind can never govern
+itself.
+
+694
+00:36:23,780 --> 00:36:26,250
+The Federation has no idea
+
+695
+00:36:26,284 --> 00:36:30,387
+what they have welcomed
+into their ranks.
+
+696
+00:36:30,420 --> 00:36:32,923
+They gave me the chance
+stolen by the Baul.
+
+697
+00:36:32,956 --> 00:36:37,460
+Your species does not deserve
+a second chance.
+
+698
+00:36:37,494 --> 00:36:40,864
+The Great Balance
+is the only way to ensure
+
+699
+00:36:40,898 --> 00:36:44,534
+you do not destroy
+everything in your path.
+
+700
+00:36:44,568 --> 00:36:47,905
+The Great Balance is a lie
+
+701
+00:36:47,938 --> 00:36:51,509
+you created
+to defend yourselves from us,
+
+702
+00:36:51,541 --> 00:36:53,710
+and to absolve yourselves
+of murder.
+
+703
+00:36:53,744 --> 00:36:56,414
+In truth, you are frail.
+
+704
+00:36:56,447 --> 00:36:58,282
+You would be helpless
+without your technology.
+
+705
+00:36:58,315 --> 00:37:02,853
+We will never allow
+the past to be repeated.
+
+706
+00:37:02,887 --> 00:37:07,490
+No threat to the Great Balance
+will go unanswered.
+
+707
+00:37:07,525 --> 00:37:08,992
+You cannot maintain
+what you think of as peace
+
+708
+00:37:09,025 --> 00:37:10,695
+by continuing to cull us.
+
+709
+00:37:10,728 --> 00:37:13,463
+Kelpiens are more
+than our instincts.
+
+710
+00:37:13,496 --> 00:37:16,000
+You are the only two Kelpiens
+to know the truth.
+
+711
+00:37:16,032 --> 00:37:20,605
+You will undergo analysis
+and be neutralized.
+
+712
+00:37:20,637 --> 00:37:23,740
+The truth will be contained.
+
+713
+00:37:24,775 --> 00:37:25,775
+Wait!
+
+714
+00:37:30,447 --> 00:37:32,849
+(groaning)
+
+715
+00:37:39,590 --> 00:37:40,925
+No, please, stop!
+
+716
+00:37:48,798 --> 00:37:49,766
+Siranna!
+
+717
+00:37:49,800 --> 00:37:51,802
+(grunting)
+
+718
+00:37:59,943 --> 00:38:01,945
+(panting)
+
+719
+00:38:22,900 --> 00:38:24,969
+It is true, then.
+
+720
+00:38:25,001 --> 00:38:27,538
+You have survived
+
+721
+00:38:25,001 --> 00:38:27,538
+<i>Vaharai?</i>
+
+722
+00:38:27,570 --> 00:38:28,706
+Yes.
+(gasps)
+
+723
+00:38:28,739 --> 00:38:31,074
+I am what we
+used to become.
+
+724
+00:38:31,108 --> 00:38:33,476
+The form we were meant to take.
+
+725
+00:38:33,510 --> 00:38:34,978
+The Great Balance...
+
+726
+00:38:35,012 --> 00:38:36,981
+our sacrifice
+to the Watchful Eye...
+
+727
+00:38:37,014 --> 00:38:38,148
+It was all a lie.
+
+728
+00:38:38,181 --> 00:38:40,117
+Forced upon us by the Baul.
+
+729
+00:38:40,150 --> 00:38:42,853
+That stole our mother and father
+from us.
+
+730
+00:38:42,887 --> 00:38:45,989
+And generations of Kelpiens,
+beyond reckoning.
+
+731
+00:38:46,023 --> 00:38:48,793
+And it must end.
+
+732
+00:39:08,878 --> 00:39:11,882
+The Baul used their
+technological advantage
+
+733
+00:39:11,916 --> 00:39:14,751
+to lock the Kelpiens
+into subservience,
+
+734
+00:39:14,784 --> 00:39:16,086
+allowing them to live
+
+735
+00:39:16,119 --> 00:39:17,588
+while eliminating the threat
+they posed.
+
+736
+00:39:17,621 --> 00:39:19,523
+And thats why
+the Baul are afraid.
+
+737
+00:39:19,556 --> 00:39:21,157
+Well, if we can
+help them understand
+
+738
+00:39:21,192 --> 00:39:22,760
+that Saru is not a threat,
+
+739
+00:39:22,793 --> 00:39:24,594
+that his people
+need not be a threat...
+
+740
+00:39:24,628 --> 00:39:26,197
+BRYCE:
+Sir, were receiving a hail...
+
+741
+00:39:26,230 --> 00:39:28,431
+from the Baul.
+
+742
+00:39:31,068 --> 00:39:33,070
+We should accept it.
+
+743
+00:39:35,840 --> 00:39:37,708
+(static crackling)
+
+744
+00:39:40,110 --> 00:39:43,514
+<i>Discovery,
+this is Commander Saru.</i>
+
+745
+00:39:43,547 --> 00:39:45,181
+Its good to hear your voice,
+Commander.
+
+746
+00:39:45,215 --> 00:39:48,552
+I am with Siranna,
+inside a Baul structure.
+
+747
+00:39:48,585 --> 00:39:49,619
+But we have no
+other indicators
+
+748
+00:39:49,652 --> 00:39:51,755
+of our position.
+
+749
+00:39:51,789 --> 00:39:53,858
+We cant seem to get a lock
+on your coordinates either.
+
+750
+00:39:53,891 --> 00:39:55,960
+Your location must be shielded
+from our sensors.
+
+751
+00:39:55,992 --> 00:39:57,527
+Have you come in contact
+with the Baul?
+
+752
+00:39:57,561 --> 00:39:59,230
+Yes. It was...
+
+753
+00:39:59,262 --> 00:40:01,498
+enlightening.
+
+754
+00:40:01,532 --> 00:40:02,800
+BURNHAM:
+Commander Saru,
+
+755
+00:40:02,833 --> 00:40:04,601
+we used the
+Spheres archives
+
+756
+00:40:04,635 --> 00:40:06,036
+to analyze your
+planets history,
+
+757
+00:40:06,070 --> 00:40:08,005
+and its far more complex
+than we thought.
+
+758
+00:40:08,038 --> 00:40:10,206
+All evidence indicates that
+
+759
+00:40:10,240 --> 00:40:13,177
+Kelpiens, in
+
+760
+00:40:10,240 --> 00:40:13,177
+<i>post-Vaharai</i>
+
+761
+00:40:10,240 --> 00:40:13,177
+form,
+
+762
+00:40:13,210 --> 00:40:15,846
+were once the Bauls predators.
+
+763
+00:40:15,880 --> 00:40:17,981
+That confirms
+my suspicions.
+
+764
+00:40:18,014 --> 00:40:19,849
+And the Bauls
+belief that,
+
+765
+00:40:19,884 --> 00:40:21,184
+after passing
+
+766
+00:40:19,884 --> 00:40:21,184
+<i>Vaharai,</i>
+
+767
+00:40:21,217 --> 00:40:22,920
+my people can
+only be predators.
+
+768
+00:40:22,952 --> 00:40:25,755
+They will do anything
+to continue the culling.
+
+769
+00:40:25,789 --> 00:40:28,259
+And to keep more Kelpiens
+from learning the truth.
+
+770
+00:40:28,291 --> 00:40:30,760
+It will not be easy
+to convince my people
+
+771
+00:40:30,795 --> 00:40:33,063
+the Great Balance
+is a deception,
+
+772
+00:40:33,097 --> 00:40:35,199
+but we must find
+a way to save them.
+
+773
+00:40:35,231 --> 00:40:36,800
+Thousands of years
+of conditioning
+
+774
+00:40:36,833 --> 00:40:38,235
+will take time to undo.
+
+775
+00:40:38,268 --> 00:40:39,869
+SARU:
+But Siranna is right.
+
+776
+00:40:39,903 --> 00:40:41,938
+We must demonstrate to Kelpiens
+
+777
+00:40:41,972 --> 00:40:43,273
+and Baul alike
+what we could become.
+
+778
+00:40:43,306 --> 00:40:44,809
+The same way I was shown.
+
+779
+00:40:44,842 --> 00:40:47,077
+TILLY:
+The Sphere.
+
+780
+00:40:47,110 --> 00:40:48,746
+The Sphere triggered
+your
+
+781
+00:40:47,110 --> 00:40:48,746
+<i>Vaharai.</i>
+
+782
+00:40:48,778 --> 00:40:50,014
+Yes, but we need to
+accelerate the process.
+
+783
+00:40:50,047 --> 00:40:52,016
+We cannot allow the Baul
+
+784
+00:40:52,048 --> 00:40:55,518
+to take action before
+
+785
+00:40:52,048 --> 00:40:55,518
+<i>Vaharai
+is complete for all Kelpiens.</i>
+
+786
+00:40:55,552 --> 00:40:58,722
+If we isolate
+the active frequencies
+
+787
+00:40:58,755 --> 00:41:01,791
+in the Spheres transmission,
+the corresponding sound wave
+
+788
+00:41:01,826 --> 00:41:03,527
+should speed up
+the biological response, right?
+
+789
+00:41:01,826 --> 00:41:03,527
+I got it.
+
+790
+00:41:03,561 --> 00:41:05,195
+SARU:
+And the Baul
+will have no choice
+
+791
+00:41:05,228 --> 00:41:07,565
+but to face our evolved race.
+
+792
+00:41:07,597 --> 00:41:09,666
+What if history repeats itself?
+
+793
+00:41:09,699 --> 00:41:12,702
+We cant be responsible for the
+extinction of the Baul species.
+
+794
+00:41:12,735 --> 00:41:15,271
+But the Baul are still vastly
+technologically superior.
+
+795
+00:41:15,306 --> 00:41:17,208
+It would take the
+Kelpiens generations
+
+796
+00:41:17,240 --> 00:41:19,242
+to become a serious threat.
+
+797
+00:41:19,275 --> 00:41:21,244
+Generations during which
+the Baul could face
+
+798
+00:41:21,277 --> 00:41:23,246
+the thing they fear
+most about us.
+
+799
+00:41:23,280 --> 00:41:26,250
+Not our so-called
+baser instincts.
+
+800
+00:41:26,282 --> 00:41:27,952
+Our rage.
+
+801
+00:41:27,985 --> 00:41:32,822
+But we will prove to them
+that we can move beyond it.
+
+802
+00:41:32,856 --> 00:41:34,257
+We will not perpetuate
+the cycle.
+
+803
+00:41:34,291 --> 00:41:35,693
+We will create
+
+804
+00:41:35,726 --> 00:41:37,027
+a new balance.
+
+805
+00:41:38,628 --> 00:41:40,731
+Captain, I cannot prove it,
+
+806
+00:41:40,764 --> 00:41:44,300
+but I believe this is what the
+signal brought us here to do.
+
+807
+00:41:44,335 --> 00:41:45,835
+Very well, Commander.
+
+808
+00:41:45,869 --> 00:41:48,739
+<i>Discovery</i>
+
+809
+00:41:45,869 --> 00:41:48,739
+will help you
+amplify the signal.
+
+810
+00:41:48,771 --> 00:41:50,773
+BURNHAM:
+How will we broadcast
+the Spheres transmission
+
+811
+00:41:50,807 --> 00:41:52,108
+to all the Kelpiens at once?
+
+812
+00:41:52,141 --> 00:41:53,710
+The same way I made
+first contact
+
+813
+00:41:53,744 --> 00:41:55,012
+with Captain Georgiou.
+
+814
+00:41:55,045 --> 00:41:58,748
+By using the Bauls own
+technology against them.
+
+815
+00:41:58,782 --> 00:42:00,617
+That should do the trick.
+
+816
+00:42:00,650 --> 00:42:02,286
+Commander Saru,
+Im sending you the modified
+
+817
+00:42:02,318 --> 00:42:04,788
+Sphere transmissions now.
+
+818
+00:42:18,068 --> 00:42:20,603
+Once I do this,
+
+819
+00:42:20,637 --> 00:42:23,806
+all Kelpiens, including
+you, will begin
+
+820
+00:42:20,637 --> 00:42:23,806
+<i>Vaharai.</i>
+
+821
+00:42:23,840 --> 00:42:26,043
+Everything will change.
+
+822
+00:42:26,076 --> 00:42:31,114
+Im afraid itll be
+much more painful,
+
+823
+00:42:31,148 --> 00:42:33,751
+like being torn
+apart from within.
+
+824
+00:42:33,784 --> 00:42:35,152
+Just promise me, brother,
+
+825
+00:42:35,184 --> 00:42:37,621
+that this will not be
+the end of our people.
+
+826
+00:42:37,655 --> 00:42:41,625
+No. It will be a new beginning.
+
+827
+00:42:46,130 --> 00:42:48,197
+Then let it begin.
+
+828
+00:42:56,273 --> 00:42:57,708
+(grunts)
+
+829
+00:42:57,740 --> 00:42:59,876
+(energy surging)
+
+830
+00:42:59,909 --> 00:43:02,679
+(high-pitched whining)
+
+831
+00:43:02,713 --> 00:43:04,614
+(pained cries)
+
+832
+00:43:08,751 --> 00:43:09,753
+(screaming)
+
+833
+00:43:14,925 --> 00:43:16,893
+Bio-sign readings
+indicate that
+
+834
+00:43:14,925 --> 00:43:16,893
+<i>Vaharai</i>
+
+835
+00:43:16,927 --> 00:43:19,295
+has initiated in 63%
+of Kelpiens and rising.
+
+836
+00:43:19,329 --> 00:43:21,331
+(screaming)
+
+837
+00:43:25,802 --> 00:43:28,172
+(gasping)
+
+838
+00:43:28,204 --> 00:43:31,041
+Im sorry.
+It will be over soon.
+
+839
+00:43:31,074 --> 00:43:32,443
+(pained gasp)
+
+840
+00:43:32,476 --> 00:43:34,344
+(rumbling)
+
+841
+00:43:39,016 --> 00:43:41,184
+Sir, Im detecting
+massive activity
+
+842
+00:43:41,217 --> 00:43:42,452
+beneath the surface of the lake.
+
+843
+00:43:42,485 --> 00:43:44,021
+On screen.
+
+844
+00:43:44,054 --> 00:43:46,422
+Theres a structure
+rising above the water.
+
+845
+00:43:46,456 --> 00:43:48,192
+At least 50 kilometers
+in diameter.
+
+846
+00:43:55,298 --> 00:43:57,266
+(thunderous rumbling)
+
+847
+00:43:57,300 --> 00:43:59,702
+(alarm beeping)
+
+848
+00:44:24,128 --> 00:44:26,764
+A Baul stronghold.
+
+849
+00:44:26,797 --> 00:44:28,097
+Protected by a powerful
+force field.
+
+850
+00:44:28,132 --> 00:44:29,132
+That might be where
+theyre holding
+
+851
+00:44:29,166 --> 00:44:30,199
+Commander Saru and Siranna
+captive.
+
+852
+00:44:30,233 --> 00:44:32,835
+Red alert. Rhys, target
+that structures shields.
+
+853
+00:44:32,869 --> 00:44:34,838
+If we destroy them,
+maybe we can get a lock on Saru
+
+854
+00:44:34,871 --> 00:44:36,072
+and his sisters location.
+
+855
+00:44:39,043 --> 00:44:41,045
+(breathing normalizing)
+
+856
+00:44:44,313 --> 00:44:46,349
+You have survived.
+
+857
+00:44:48,018 --> 00:44:49,018
+(deep bellowing)
+
+858
+00:44:51,922 --> 00:44:53,157
+(whirring)
+
+859
+00:44:57,094 --> 00:44:58,929
+We have angered the Baul.
+
+860
+00:45:04,367 --> 00:45:06,335
+(alarm sounding)
+
+861
+00:45:06,369 --> 00:45:09,440
+Owosekun, tell me
+what Im looking at.
+
+862
+00:45:09,472 --> 00:45:11,041
+That Baul structure is
+activating pylons
+
+863
+00:45:11,074 --> 00:45:12,309
+across the planet,
+
+864
+00:45:12,342 --> 00:45:14,210
+with an energy buildup
+capable of destroying
+
+865
+00:45:14,244 --> 00:45:15,846
+every Kelpien village.
+
+866
+00:45:15,878 --> 00:45:17,514
+Rather than let
+them evolve,
+
+867
+00:45:17,547 --> 00:45:18,981
+the Baul are
+committing genocide?
+
+868
+00:45:19,016 --> 00:45:21,452
+Bryce, hail these bastards.
+
+869
+00:45:21,485 --> 00:45:23,286
+Rhys, forget the stronghold.
+Get a target lock
+
+870
+00:45:23,320 --> 00:45:24,554
+on those pylons.
+
+871
+00:45:24,588 --> 00:45:26,456
+Theyre not responding, sir.
+
+872
+00:45:24,588 --> 00:45:26,456
+Open a channel.
+
+873
+00:45:28,224 --> 00:45:30,893
+This is Captain Pike.
+I will not allow you
+
+874
+00:45:30,927 --> 00:45:33,297
+to wipe out an entire race.
+
+875
+00:45:33,329 --> 00:45:35,431
+Your fear of the Kelpiens
+has blinded you
+
+876
+00:45:35,465 --> 00:45:37,568
+to a peaceful solution.
+
+877
+00:45:37,601 --> 00:45:39,001
+Starfleet can help you
+negotiate a new balance
+
+878
+00:45:39,036 --> 00:45:40,436
+between your two species,
+
+879
+00:45:40,471 --> 00:45:42,472
+protecting everyone
+on your world.
+
+880
+00:45:42,505 --> 00:45:44,842
+However, if you choose
+
+881
+00:45:44,875 --> 00:45:47,043
+to murder the entire
+Kelpien population...
+
+882
+00:45:48,411 --> 00:45:51,581
+...you will become our enemies.
+
+883
+00:45:51,614 --> 00:45:53,851
+Choose wisely.
+
+884
+00:45:56,452 --> 00:46:00,923
+Sir, theyve activated
+all 4,056 pylons
+
+885
+00:46:00,958 --> 00:46:03,092
+in every Kelpien village.
+
+886
+00:46:00,958 --> 00:46:03,092
+Lieutenant Rhys?
+
+887
+00:46:03,126 --> 00:46:04,894
+There are too many pylons
+to target at once, sir.
+
+888
+00:46:04,927 --> 00:46:06,463
+Lets get started.
+
+889
+00:46:06,496 --> 00:46:07,797
+Arm photon torpedoes.
+
+890
+00:46:10,367 --> 00:46:11,534
+On my order.
+
+891
+00:46:14,371 --> 00:46:16,440
+(whirring)
+
+892
+00:46:16,472 --> 00:46:18,608
+The Baul mean to kill us all!
+
+893
+00:46:18,641 --> 00:46:20,244
+<i>Discovery</i>
+
+894
+00:46:18,641 --> 00:46:20,244
+will stop them.
+
+895
+00:46:23,112 --> 00:46:24,114
+No, no!
+
+896
+00:46:49,172 --> 00:46:52,141
+(powering down)
+
+897
+00:46:58,315 --> 00:47:00,250
+Sir, sensor readings
+indicate
+
+898
+00:47:00,284 --> 00:47:01,552
+a massive spike in
+electromagnetic radiation
+
+899
+00:47:01,585 --> 00:47:03,387
+in the Baul structure.
+
+900
+00:47:03,420 --> 00:47:05,989
+The pulse has deactivated
+all the pylons across Kaminar.
+
+901
+00:47:06,023 --> 00:47:06,989
+Rhys, hold your fire.
+
+902
+00:47:07,023 --> 00:47:08,358
+What the hell
+is happening?
+
+903
+00:47:08,391 --> 00:47:10,126
+The Baul weapons and shields
+have all been disabled,
+
+904
+00:47:10,159 --> 00:47:11,661
+but I cant get a reading
+on what caused it.
+
+905
+00:47:11,695 --> 00:47:13,664
+DETMER:
+The technology required
+to generate
+
+906
+00:47:13,697 --> 00:47:15,097
+electric and magnetic fields
+that wide...
+
+907
+00:47:15,132 --> 00:47:17,467
+This should be impossible.
+
+908
+00:47:31,114 --> 00:47:33,115
+(both breathing heavily)
+
+909
+00:47:42,992 --> 00:47:45,494
+That is what you came to find.
+
+910
+00:47:48,097 --> 00:47:50,367
+A savior.
+
+911
+00:47:51,635 --> 00:47:53,637
+(chittering)
+
+912
+00:47:55,672 --> 00:47:57,673
+(indistinct chatter)
+
+913
+00:48:26,068 --> 00:48:28,572
+Siranna, what has happened?
+
+914
+00:48:28,605 --> 00:48:31,742
+How have we
+survived
+
+915
+00:48:28,605 --> 00:48:31,742
+<i>Vaharai?</i>
+
+916
+00:48:31,775 --> 00:48:35,344
+The truth has survived.
+
+917
+00:48:35,378 --> 00:48:38,382
+It is time for a true balance
+to be restored.
+
+918
+00:48:39,750 --> 00:48:42,452
+(indistinct chatter)
+
+919
+00:48:49,726 --> 00:48:51,728
+You do not have to
+be afraid anymore.
+
+920
+00:49:06,342 --> 00:49:08,110
+MAN (over P.A.):
+Attention, all personnel...
+
+921
+00:49:08,144 --> 00:49:10,780
+(continues indistinctly)
+
+922
+00:49:10,813 --> 00:49:12,416
+(door whooshes open)
+
+923
+00:49:13,483 --> 00:49:15,719
+(door whooshes shut)
+
+924
+00:49:22,059 --> 00:49:23,460
+Whats this?
+
+925
+00:49:23,492 --> 00:49:25,661
+Commander Sarus report,
+
+926
+00:49:25,695 --> 00:49:27,431
+shared in the spirit
+of cooperation.
+
+927
+00:49:27,463 --> 00:49:30,266
+Thanks to Commander Sarus
+enhanced eyesight,
+
+928
+00:49:30,300 --> 00:49:33,670
+he was able to get a better look
+at the Red Angel.
+
+929
+00:49:33,704 --> 00:49:36,806
+"The entity appears
+to be a humanoid
+
+930
+00:49:36,840 --> 00:49:40,043
+"wearing a
+mechanized suit,
+
+931
+00:49:40,077 --> 00:49:41,744
+"exhibiting technology
+far beyond
+
+932
+00:49:41,777 --> 00:49:44,047
+present Federation
+capabilities."
+
+933
+00:49:44,081 --> 00:49:47,818
+So, its
+
+934
+00:49:44,081 --> 00:49:47,818
+<i>someone.</i>
+
+935
+00:49:47,851 --> 00:49:50,686
+And whether human
+or alien,
+
+936
+00:49:50,721 --> 00:49:52,755
+it has extremely
+advanced technology.
+
+937
+00:49:52,789 --> 00:49:56,059
+Someone who is manipulating
+the fates of entire species.
+
+938
+00:49:56,092 --> 00:49:58,494
+Control,
+
+939
+00:49:58,527 --> 00:50:00,063
+which models Section 31s
+threat assessments,
+
+940
+00:50:00,097 --> 00:50:02,431
+is probably rightfully
+alarmed by...
+
+941
+00:50:02,465 --> 00:50:04,201
+what is it? A...
+
+942
+00:50:04,233 --> 00:50:08,070
+a time-traveling being
+pursuing its own agenda?
+
+943
+00:50:11,474 --> 00:50:14,110
+When we forced the Baul
+to decentralize their power
+
+944
+00:50:14,143 --> 00:50:16,380
+across the entire planet,
+
+945
+00:50:16,413 --> 00:50:19,349
+the Red Angel took advantage
+of their temporary exposure
+
+946
+00:50:19,382 --> 00:50:22,219
+and used its advanced technology
+
+947
+00:50:22,251 --> 00:50:23,853
+to save the Kelpiens
+from genocide.
+
+948
+00:50:23,887 --> 00:50:25,454
+And what happens
+when that technology
+
+949
+00:50:25,489 --> 00:50:26,822
+is turned against us?
+
+950
+00:50:27,891 --> 00:50:31,762
+Section 31...
+
+951
+00:50:31,795 --> 00:50:35,097
+and Controls
+threat-assessment models...
+
+952
+00:50:35,132 --> 00:50:36,500
+seem a bit paranoid.
+
+953
+00:50:38,768 --> 00:50:40,737
+Youre aware were
+no longer at war?
+
+954
+00:50:40,771 --> 00:50:43,739
+And we dont want to
+end up in one again.
+
+955
+00:50:43,773 --> 00:50:46,543
+This last war, sir, took a toll
+
+956
+00:50:46,576 --> 00:50:48,878
+on those who fought it.
+
+957
+00:50:48,911 --> 00:50:52,114
+Some of us are still torn apart.
+
+958
+00:51:13,170 --> 00:51:14,804
+SARU:
+I felt the same way
+
+959
+00:51:14,838 --> 00:51:16,840
+the first time I saw it,
+
+960
+00:51:16,873 --> 00:51:21,378
+looking down on our
+planet, our home.
+
+961
+00:51:21,411 --> 00:51:23,512
+Well, you took home
+with you.
+
+962
+00:51:23,547 --> 00:51:25,849
+Well, seeds of it, yes.
+
+963
+00:51:25,882 --> 00:51:31,487
+This little garden was
+all I had for so many years.
+
+964
+00:51:31,521 --> 00:51:33,590
+But I realized
+
+965
+00:51:33,623 --> 00:51:37,360
+there was so much
+more out there.
+
+966
+00:51:40,530 --> 00:51:43,632
+You could come with me, Siranna,
+
+967
+00:51:43,666 --> 00:51:45,168
+if you wanted to see it.
+
+968
+00:51:45,202 --> 00:51:47,871
+Just for a while.
+
+969
+00:51:49,239 --> 00:51:51,273
+No.
+
+970
+00:51:51,307 --> 00:51:54,210
+I must stay for my people.
+
+971
+00:51:54,244 --> 00:51:56,480
+There is a long road ahead,
+
+972
+00:51:56,512 --> 00:51:58,715
+Our minds must truly be free
+
+973
+00:51:58,748 --> 00:52:01,318
+before Kelpien and Baul
+accept each other.
+
+974
+00:52:02,351 --> 00:52:03,686
+(clicks tongue)
+
+975
+00:52:03,719 --> 00:52:05,889
+But I am happy, brother.
+
+976
+00:52:05,922 --> 00:52:10,226
+I know you did not
+leave Kaminar in fear,
+
+977
+00:52:10,260 --> 00:52:12,963
+but in hope.
+
+978
+00:52:12,996 --> 00:52:15,431
+And you brought that hope
+back with you.
+
+979
+00:52:15,465 --> 00:52:17,733
+You and your Red Angel.
+
+980
+00:52:44,927 --> 00:52:46,896
+You are welcome
+to return home
+
+981
+00:52:46,929 --> 00:52:48,597
+whenever you would like,
+brother.
+
+982
+00:52:49,599 --> 00:52:52,735
+I will, sister.
+
+983
+00:53:03,914 --> 00:53:06,715
+(gasps)
+
+984
+00:53:06,750 --> 00:53:09,385
+(sighs)
+
+985
+00:53:24,333 --> 00:53:26,969
+Thank you, Michael.
+
+986
+00:53:28,972 --> 00:53:31,840
+Im reminded.
+Do you know Aeschylus?
+
+987
+00:53:31,875 --> 00:53:33,577
+An ancient Greek tragedian,
+
+988
+00:53:33,610 --> 00:53:35,978
+born circa 525 BC.
+
+989
+00:53:36,012 --> 00:53:38,815
+"He who learns must suffer.
+
+990
+00:53:38,847 --> 00:53:41,784
+And even in our sleep..."
+
+991
+00:53:41,818 --> 00:53:44,788
+"Pain that cannot forget
+
+992
+00:53:44,820 --> 00:53:48,525
+falls drop by drop
+upon the heart."
+
+993
+00:53:55,097 --> 00:54:01,003
+Knowing that my sister
+has a chance to evolve,
+
+994
+00:54:01,036 --> 00:54:03,940
+to live a full life,
+
+995
+00:54:03,974 --> 00:54:07,043
+it makes me feel I
+can endure anything.
+
+996
+00:54:09,045 --> 00:54:12,081
+I am sure, given
+the opportunity,
+
+997
+00:54:12,114 --> 00:54:15,452
+you would do the same
+for your own brother.
+
+998
+00:54:18,387 --> 00:54:19,989
+If I could find him.
+
+999
+00:54:26,396 --> 00:54:27,664
+But seeing you with Siranna
+
+1000
+00:54:27,697 --> 00:54:29,833
+has made one thing
+very clear to me.
+
+1001
+00:54:29,865 --> 00:54:32,768
+And that is?
+
+1002
+00:54:32,802 --> 00:54:35,572
+I need to go home as well.
+
+1003
+00:54:35,605 --> 00:54:37,072
+To Vulcan.										
+
+ 
+
+   
+  
+
+
+  
+
+
+ 
+
+ 
+
+ 
+   										
+ 
+
+ 
+  
+  
+
+   
+ 
+    

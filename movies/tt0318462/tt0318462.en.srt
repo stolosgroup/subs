@@ -1,0 +1,961 @@
+{1}{1}25.000
+{346}{649}THIS IS NOT THE TALE OF IMPRESSIVE DEEDS|IS A PIECE OF TWO LIVES TAKEN IN A MOMENT|WHEN THEY WERE CRUISING TOGETHER ALONG A GIVEN PATH|WITH THE SAME IDENTITY OF ASPIRATIONS AND DREAMS|Ernesto Guevara de la Serna, 1952
+{1402}{1474}{Y:i}The Plan:  To travel 8 thousand kilometers in four months
+{1531}{1593}{Y:i}The method: Improvisation
+{1765}{1882}{Y:i}Objective: Explore the Latin American continent|that we only know by books
+{1891}{1998}motorcycle diaries
+{2000}{2030}Good Night Granado
+{2069}{2127}{Y:i}Equipment: "La Poderosa" (The Powerful)
+{2167}{2253}{Y:i}A '39 Norton 500 that's battered and leaks
+{2440}{2478}{Y:i}The Pilot: Alberto Granado
+{2491}{2546}{Y:i}A chubby friend, 29 years old and biochemist 
+{2568}{2600}{Y:i}self proclaimed scientific vagabond
+{2627}{2712}{Y:i}The Pilot's dream: crown the trip with he's 30th birthday
+{2755}{2806}{Y:i}Copilot: That would be me
+{2821}{2854}{Y:i}Ernesto Guevara de la Serna
+{2861}{2912}{Y:i}"El Fuser", 23 years old
+{2913}{2980}- Ernesto is going away?|- No, Ernesto stays
+{2994}{3069}Ernesto, could you takes us with you, please
+{3069}{3111}Look dad, I'm sorry, but no matter how|many times you tell me...
+{3111}{3174}Please Ernesto, you are only 3 assignments|away from your MD title
+{3187}{3220}And that can wait
+{3280}{3318}{Y:i}MD student
+{3326}{3353}{Y:i}Leprosy specialist
+{3438}{3468}{Y:i}Amateur Rugby player
+{3514}{3559}Hey Fuser...nice Fuser!
+{3570}{3617}{Y:i}And occasionally, asthmatic
+{3908}{3941}Departure date... January 4th
+{3941}{4019}{Y:i}The route: from Buenos Aires to Patagonia|and then Chile
+{4058}{4193}{Y:i}then to the north up to 6 thousand meters|by the spine of the Andes to Machu Picchu
+{4193}{4286}{Y:i}From there, to the lepers home of San Pablo|in the Peruvian amazonia
+{4329}{4443}{Y:i}Final Destination: the Peninsula of Guajira in Venezuela|at the north point of the continent
+{4448}{4580}We settle at the Peninsula of Guajira, the point of this great continent
+{4580}{4660}Mouths full of wine, nice music
+{4667}{4694}That beer is good, ah?
+{4706}{4801}- Fuser, on January 4th, you should be done with all your exams, right?|- Yes
+{4820}{4966}- If you want, i can make a detour to Miramar to visit your little girlfriend|- "little girlfriend"
+{4976}{5018}A couple of days
+{5075}{5170}- Look Fuser, look at that guy over there|- What?
+{5184}{5228}Do you want your life to be like that?
+{5269}{5322}You don't want your life to be like that, Fuser
+{5348}{5404}What you want is to fuck in every country in South America
+{5408}{5521}Hey boy...and in every town if we are lucky enough|That's and extra ingredient, right
+{5526}{5658}{Y:i}What we had in common: our restlessness, our dreaming spirit
+{5690}{5746}{Y:i}and the untiring love for the route
+{5746}{5792}BUENOS AIRES, ARGENTINA|January 4th, 1952|Km 0
+{5808}{5876}Let's go Ernestito, we don't have the whole day
+{5890}{6001}- Isn't it too much Granado?|- Not enough chief.  Norton 500, "this" is a motorcycle
+{6006}{6079}Your son is in good wheels, don't worry
+{6208}{6274}You should expect some difficult times son
+{6288}{6366}But the truth is that i always dreamed of doing something like this
+{6373}{6495}And i have to confess that if i had a couple less years on me...|I would jump right along with you on that motorcycle
+{6500}{6543}Try to think that i do it for the both of us
+{6544}{6630}- 10 years planning this trip, uncle|- Since you were a kid
+{6631}{6729}Meanwhile...I trust you eh?
+{6774}{6812}And the revolution uncle, for when?
+{6812}{6874}Here? In a century
+{6941}{7005}- Are you already leaving?|- Yes, I’m off
+{7061}{7172}You should only worry about taking your medicines, nothing more, ok?
+{7202}{7223}And writing me...
+{7231}{7312}The most beautiful letters you have ever read mom
+{7317}{7376}- Bye, my love|- You'll see. Bye. I love you
+{7484}{7498}Bye
+{7536}{7594}Bye little sister, take care
+{7605}{7650}Bye man
+{7877}{7907}Send me postcards
+{7907}{7977}Ok, stop it or I’ll start crying. Please
+{7980}{8016}Take care, ok?
+{8037}{8129}Just like Don Quixote had Rocinante and Saint Martin had his mule
+{8135}{8176}We have "La Poderosa"
+{8176}{8301}- Yeah, that pisses oil|- Yes, pisses oil, but what I’m trying to say is that|in this precise moment
+{8303}{8435}The young Fuser and myself are embarking in a trip|to the most remote places of the human spirit
+{8441}{8536}where we will meet new lands, listen to new anthems, eat new fruits...
+{8538}{8682}Granado...I’m making you responsible. If something happens to Ernesto I’ll find you.|Put on the handkerchief darling
+{8700}{8773}Don't worry mam, he will come back to become|the doctor we all want him to be
+{8774}{8807}It better be
+{8815}{8860}Ok, is time to leave!
+{9350}{9387}Animal!
+{9534}{9577}Careful with that bike!
+{9920}{9997}{Y:i}Dear mom...Buenos Aires is behind us
+{10018}{10054}{Y:i}behind is as also the miserable life
+{10062}{10128}{Y:i}the faculty, the exams and the dissertations that make you sleepy
+{10167}{10222}{Y:i}Before us lies all of Latin America
+{10259}{10303}{Y:i}From now on we will only trust in "La Poderosa"
+{10857}{10992}{Y:i}I wish you could see us. We look like adventurers|and inspire admiration and envy everywhere
+{11327}{11405}Go Mial. Assume aerodynamic road position
+{11427}{11501}C'mon baby, don't fail me baby.|C'mon, c'mon
+{11536}{11582}What happened Mial?!
+{11778}{11911}{Y:i}I'm glad to have left behind civilization, and be closer to the earth
+{11954}{12042}Wait, something is coming out...something is coming out
+{12177}{12221}Fuser, are you alright?
+{12309}{12350}What happened puppy?
+{12507}{12527}Are you alright?
+{12563}{12635}- What the fuck is that?|- What the fuck does it look like?
+{12643}{12711}- A fucking dog?!|-  Oh fuck, you are a shitty driver...
+{12720}{12778}What the fuck is that dog doing on the bike?
+{12785}{12834}Is for Chichina and his name is Kamba
+{12920}{12950}Pick up the bike.
+{13228}{13344}Miramar, Argentina|January 13th, 1952|Km 601
+{13438}{13481}Where the fuck are we? Switzerland?
+{13608}{13668}- Good morning|- Good morning
+{13677}{13736}- Chichina?|- She's inside with the rest of the family
+{13786}{13816}That bike is giving you problems, uh?
+{13909}{13964}Esteban, please tell us about your trip
+{13976}{14079}It was great Don Horacio,|i had the opportunity to take a seminar in Cambridge
+{14110}{14186}and stay a couple of weeks in London,|a fascinating city
+{14188}{14261}- What a privilege!|- Yes it was
+{14274}{14340}-  Esteban is getting his PhD soon, right?|- Yes
+{14375}{14430}- Medicine?|- No, Law
+{14454}{14483}Ah, law
+{15422}{15455}Sorry.
+{15928}{15979}1, 2, 3, 4
+{16020}{16052}Is your turn, come
+{16066}{16114}I never saw a pig who wanted to dance, never.
+{16168}{16192}C'mon
+{16210}{16234}Knock it off!
+{16291}{16465}- With this hand...back...side|- What are you laughing at?|- I'm laughing at you.
+{16650}{16694}Tonight?
+{16704}{16772}My dad ask aunt Roxanna not to take her eyes off of me
+{16781}{16903}My mom promised the Lady of the Valley that she would|walk to her sanctuary if we broke up
+{16939}{17081}And your parents can't see that the more they bury the diamonds,|the more decided is the pirate to steal them?
+{17114}{17210}Believe me, this diamond wouldn't mind being stolen
+{17299}{17332}Dance
+{17510}{17535}Look
+{17831}{17868}Let me see your bathroom
+{17991}{18039}- Good night|- Good night ladies
+{18226}{18338}Aunt Roxanna, which room is mine?
+{18617}{18663}Get away Kamba!
+{19768}{19884}- How many days did you say we were staying here?|- You already know|- Two
+{19903}{20040}- And how many days have we been here?|- If you become a Doctor, will you operate with wire too?|- Six days, Fuser
+{20149}{20184}Someone will see us
+{20644}{20734}If you'd stay we could do many things, Ernesto,|but only if you'd stay
+{20831}{20865}I didn't like the sound of that
+{20877}{21014}- What do you want me to say? That I’m going to wait for you?|- I told you I’m coming back
+{21053}{21136}- Yes, i have the dog as proof|- You didn't like it?
+{21198}{21399}What do you want Ernesto, what do you want to hear?|That I’m going to wait forever,|that I’ll wait for months and months till you come back?
+{21527}{21663}- What's going on?|- What do you want? What do you want?
+{21729}{21807}I'd like you to stay like this forever. Quiet.
+{21883}{21967}I want to look at you, cause I’m not going|to see you for a long time
+{22186}{22295}Of course I’m going to wait for you,|but please don't take an eternity
+{22406}{22519}- And how long is an eternity?|- That's slippery ground mister
+{22681}{22723}I'm not going to touch you
+{22857}{23070}Did i hit you? Did i hurt you? Did i hurt you?|That was a trick, a very bad trick
+{23083}{23189}Ok lovebirds...is time to leave.|Fuser
+{23261}{23374}Miss Ferreira...|Thanks for everything
+{23865}{24001}{Y:i}"I used to listen the bare feet splashing in the ship|"And had a feeling of the faces darkened by hunger
+{24030}{24093}{Y:i}"My heart was a pendulum between her and the street
+{24126}{24234}{Y:i}"I don't know with what strength i freed myself from her eyes,|"I broke away from her arms
+{24243}{24326}{Y:i}"She was left clouding with tears her anguish|"Behind the rain and the glass
+{24346}{24386}- Lorca eh?|- No
+{24396}{24445}- Neruda|- No
+{24450}{24542}- Who?|- I don't remember
+{25215}{25271}- Good bye|- Bye
+{25382}{25428}Wait, wait. The snot is...
+{25482}{25555}And so...with Chichina, nothing...
+{25611}{25705}Not even after giving her the German shepherd with pedigree...nothing
+{25739}{25803}I mean, at least you saw a tit...one
+{25895}{25969}Ahhh....You saw her tits, Ernesto
+{25990}{26078}Scalpel, Scalpel
+{26123}{26166}North American Dollars?
+{26188}{26261}- Fifteen|- Chichina?|- Yes
+{26261}{26376}I like that girl for you, i always said that she was your girlfriend.|We will eat better now
+{26376}{26423}- No...|- Protein food
+{26420}{26544}No, she gave me this money for when we get to the US.|She asked me to buy her some pants.
+{26595}{26637}I told her i would
+{26660}{26742}- What?|- Forget about this money. It is out of our budget.
+{26757}{26875}- Fucking moron, he is testing me...|-  Che are you talking to the bike again
+{26881}{26973}Listen to me man, what is wrong with your head?|That chick's got you by the balls.
+{26992}{27056}Calm down
+{27076}{27116}- Good evening|- Hi
+{27382}{27514}Piedra de ֱguila, Argentina|January 29th, 1952|Km 1809
+{27574}{27678}- How do you feel the bike?|- The wire is making wonders, it works great
+{27868}{27918}- Son of a bitch...fuck
+{27962}{27997}Are you alright Fuser?
+{28053}{28085}It was the curve
+{28138}{28160}Son of a...
+{28263}{28323}Look at the pipe...|son of a bitch!
+{28336}{28409}Pass the stakes, I’m all out
+{28402}{28441}Wait, wait, don't fuck with me
+{28463}{28530}- You had to choose this place, you idiot...|- No you chose this place
+{28532}{28586}Hold that side
+{28806}{28848}- No...fuck|- Son of a...
+{28903}{28965}- The river is taking it|- Grab it, grab it
+{29016}{29053}It took it
+{29322}{29479}- Che and what if we go there?|- We should ask for help over here, with the common people
+{29607}{29723}- Which one are we doing? The broken headlight?|- No, Red October. You have the experience right?
+{29848}{29878}Good Night
+{29920}{29946}What do you want
+{29953}{30120}Maybe our appearance doesn't show it, but we are doctors|from Buenos Aires and Cףrdoba, respectively
+{30134}{30447}We are traveling all over the country, doing some research|with hopes of curing some of the worst diseases of the 20th century
+{30453}{30590}Plagues that not only consume our energy but that also|keeps Argentina in need
+{30598}{30699}When by just reading the medical literature, you could notice, just as us...
+{30705}{30797}What the fuck do you want, pair of bums?
+{30840}{30980}Look sir, the wind took our tent, we are starving|and we need a place to spend the night
+{30996}{31152}Ok, out there in the shed there's a good ground.|You can sleep with the workers
+{31158}{31399}- We are doctors...|- Hmm...i like your face a lot, but i don't like yours fatty
+{31454}{31508}- Fine?|- Yes, its fine|- Thank you.
+{31859}{32047}{Y:i}Dear Mom...we are still hitting the road,|but to tell you the truth, the bike is less powerful every day
+{32179}{32280}San Martםn de los Andes, Argentina|January 31st, 1952|Km 2051
+{32323}{32478}{Y:i}Money and food are scarce, but we manage to find opportunities|to eat and sleep for free
+{32544}{32629}{Y:i}Thanks to our secret weapon:|Alberto's infallible sweet talking
+{32630}{32737}...plagues that not only consume our energy but compromise|the modernization of Argentina
+{32740}{32982}- So, you are doctors|- Well, no. Alberto is a biochemist and I am an MD student|- He is practically graduated, we are like doctors
+{32982}{33133}- Then i would appreciate it if you could look at a swelling i have in the neck|- Gladly, eh...Mr.?
+{33133}{33157}Von Puttkamer
+{33289}{33315}Does it hurt?
+{33413}{33483}- This is a tumor|- What do you mean a tumor?|- Yes
+{33529}{33612}- Do you think so|- Yes|- Allow me
+{33679}{33782}I don't know Fuser, fat sedimentation|it could be a cyst
+{33790}{33938}No.  It is a tumor in the occipital area
+{33953}{34045}- Schatzie, these gentlemen say i have a tumor|- Tumor?
+{34054}{34180}Good morning mam, i sincerely don't believe it is a tumor|but a sebaceous cyst
+{34184}{34262}If you could give us a place where we could|eat and sleep we might be able to treat it
+{34263}{34417}No, no look...we can't treat it. You will have to go|to Buenos Aires. I can recommend you a specialist
+{34426}{34565}- Or we could try to help him, don't you think?|- Help with what? With the grass, with prayers?
+{34568}{34709}- I understand, you can't do anything for me|- Yes we can, if you give us a place where we could eat and sleep.
+{34727}{34955}- Around here there's a lake with lots of fish and a shed|- Sir, the diagnostic is very...|- We have nothing more to talk about, doctors. Let's go Schatzie
+{35063}{35221}- The next time could you try to help us a little|- Of course i can give you a hand, but never at the price of the health of a man
+{35228}{35354}- Ok, let's say that you are right and the old guy has a tumor,|how the fuck do you tell him like that?
+{35361}{35430}Is the truth, if he can't handle it he can go to hell
+{35430}{35568}- You can't treat a patient like that, you can't|- The guy has a serious problem,|the sooner he looks into it the better
+{35585}{35670}That's the proper treatment, didn't they teach you that|at biochemistry school?
+{35740}{35804}Don't talk to me about proper medicine
+{35827}{35931}Nurse. First graduate and then talk.|You think you know everything, moron
+{35948}{35988}I'm going to look for food
+{36006}{36078}Duck! duck! duck!. Give me gun, move it! move it!
+{36116}{36152}Son of a...
+{36281}{36310}Great Mial...
+{36316}{36340}I hit it, man
+{36379}{36431}- How did you do it?|- I can't fucking believe it...
+{36450}{36614}Well, there's no other choice but to get in the water|and pick up dinner, no?  Fuser, to the water to get the food!
+{36616}{36689}You are really crazy if you think I’m going to get in there.|Do you know how cold is that water?
+{36689}{36903}Yes, i know you are allergic to cold, water, hot and all that|but you know what, i am older, wiser and i shot the duck, so|you have to go
+{36906}{36998}- That shot came out of your ass, besides i have asthma|- Ok, you are right. If you can't I’ll do it
+{37041}{37119}- I didn't say i couldn't|- You can't or you don't want to|- I didn't say that i couldn't
+{37134}{37228}Or you don't want to and that is the same. Or you could give|me Chichina's fifteen bucks...
+{37254}{37309}...and we eat as God intended, c'mon.
+{37318}{37410}- Look if i get to find that fucking duck, I’ll eat it all by myself|- Ah! in the water, in the water, duck.
+{37475}{37570}- I'm going to get my balls frozen|- For the use you give them, Fuser...
+{37681}{37866}Good Fuser, good...bring on that duck with potatoes.|Is it cold Fuser? Hey! cold? Not over here.
+{37947}{37969}Duck
+{38070}{38176}- Are you feeling sick?|- No, I’m just perfect
+{38240}{38345}Bariloche Train Station, Argentina|3 days later|Km 2270
+{38509}{38579}Easy
+{38588}{38631}Fuser...
+{39125}{39273}Fuser, listen to me. Give me Chichina's fifteen dollars and let's|go to a hospital like the people
+{39309}{39384}If you say that to me again, I’ll throw up all over you.
+{40477}{40673}{Y:i}Dear mom...what is it that's lost when you cross a border.|Each moment seems to be split in two
+{40679}{40853}{Y:i}Melancholy for what was left behind and on the|other hand all the enthusiasm at entering new lands
+{40871}{40932}Frias Lake, Argentina|February 15th, 1952|Km 2306
+{40940}{41088}- Look Mial, Chile|- Chile! Viva Chile!
+{41143}{41240}- Is it your first time out of the country?|- Yes, of course
+{41243}{41288}You are almost a man, Che
+{41342}{41520}Look Mial, when we are old and tired of traveling, we|should come back and set a clinic on this lake
+{41581}{41623}That's a good idea
+{41631}{41698}Providing attention to everybody, if anyone ever comes
+{41704}{41756}Count on me, brother
+{41773}{41840}Hey, things are getting better Fuser, eh?|- Yeah
+{41877}{41972}- Hey, it is snowing|- No, is just frost
+{42511}{42683}- Help me|- On three, 1, 2, 3|- Done
+{42907}{42956}Go, go, go
+{43095}{43213}- Fuck is cold!|- Some summer, uh
+{43644}{43729}Che, you told me we would enter Chile like two conquerors.|Not on foot like a pair of losers
+{43730}{43782}If you don't like it, go fuck yourself Ernesto
+{43784}{43808}TEMUCO, CHILE|February 18th, 1952|Km 2772
+{43810}{43858}What if we dump this shit that gives us so much trouble
+{43876}{43935}And go on foot through the whole continent, you genius
+{43950}{44084}Yes, we would see more and meet more people...|you would lose weight
+{44104}{44178}You sissy, but if with a couple of dollars from|Chichina this gets fixed immediately
+{44185}{44240}And again with the same thing. Forget about that money
+{44286}{44405}Ok, perfect. If you get that mad then go all the way to Venezuela|walking and leave me here alone with the boss's money
+{44417}{44510}Know what? I would get there in half the time and stop|meddling with other people business
+{44514}{44535}Fuck you bastard!
+{44643}{44730}"Uy, Ernestito, bring me the little Yankee pants|from Miami"
+{44757}{44857}Can't you see that you will never see them on or off?|You wanker!
+{44930}{44953}Fuser..
+{45060}{45094}You know what your problem is?
+{45111}{45180}Your fucking honesty.
+{45183}{45254}You should tell a lie from now and then to help us.
+{45356}{45448}- Hold it for a second
+{45454}{45582}- Hey, hey, what are you doing?|- Come, Come
+{45795}{45808}Thank you
+{45876}{45920}- What? Do you have "mate"? Thank you.|- It has sugar
+{45931}{46039}- Excuse me, what's your name?|- Teresa|- Teresa, Ernesto, nice to meet you
+{46116}{46222}- It would be nice as a souvenir, eh?|- A souvenir? I'll take back to Argentina
+{46230}{46374}-You are traveling?|- Yes we are traveling, we are the owners of that old bike|- A the big one over there
+{46380}{46433}- What are these?|- This is "malton"
+{46438}{46503}- And This?|- These are oysters
+{46585}{46641}Maybe next time ,ok? next time...
+{46748}{46828}Austral Newspaper, 3 pesos,|Austral Newspaper, only 3 pesos
+{46877}{46959}Get informed about Chile and the world,|for only 3 pesos
+{47098}{47223}Yesterday evening, Temuco was honored by the arrival|of 2 of the most renowned leprosy specialists of Latin America
+{47239}{47363}- Dr. Alberto Granados from Cףrdoba|- What do you mean "Granados"|- That's what it says
+{47384}{47498}Dr. Alberto Granados from Cףrdoba and|Dr. Ernesto Guevara de la Serna from Buenos Aires
+{47501}{47593}They have embarked on an epic trip from their|homeland to the north point of Venezuela
+{47603}{47789}The charismatic adventurer scientists, experts in their field,|have treated three thousand patients in all the continent.
+{47840}{48037}They hope to complete their trip in a record time of|five months, just in time to celebrate the 30th birthday|of the youthful Dr. Granados
+{48045}{48122}- It says youthful, eh?|-  Yes, and so i get informed too.
+{48145}{48172}Do you think it will work?
+{48487}{48542}Hello, good evening
+{48579}{48756}My friend and i  have some problems with our bike|The direction is broken, the brakes are practically gone|and the shift box as always...
+{48764}{48809}And my backside is killing me...
+{48818}{48905}Let's see. I can fix the direction, the brakes and the shift box.
+{48919}{48992}But i can't do anything about your backside.
+{49042}{49073}We don't have any money
+{49117}{49198}What? You don't have any money?
+{49206}{49302}When we get to Valparaiso we will receive some money,|when we have it we will send it to you...
+{49309}{49417}You know, i wouldn't want to be rude, but if you|don't have any money,|you have nothing to do here, so please...
+{49418}{49603}Excuse me the interruption, but if you help us right now you will|contribute to the bilateral relationships between our countries
+{49605}{49662}If i understand correctly, you want me to fix it for free
+{49667}{49704}I think we are not making ourselves clear
+{49714}{49815}besides we can't expect everybody to know|who's who in the Latin-American medicine field
+{49819}{49986}- Please doctor, come on in|- Yes, precisely today there was an article|published on the paper...
+{50208}{50260}- Let me see...allow me|- Yes of course
+{50391}{50521}- Look Piedad, Tulio look...
+{50538}{50610}- Well the picture is not very good|- Yes we are not favorably depicted
+{50618}{50677}Look, is them...
+{50736}{50877}Gentlemen, for me it will be a great honor to fix your bike,|once i finish this card game with my wife
+{50890}{50930}Of course, there's no problem
+{50931}{50964}That's the main priority.
+{51002}{51127}Do you know that tonight there's a dance|and God willing, all the ladies of the town will be there
+{51128}{51145}Oh, what a shame.
+{51178}{51218}- Could you give me the paper back?|- Thanks a lot, you are very kind
+{51222}{51274}- I'll bring the bike over|- Please bring it over, we will fix it
+{51670}{51720}Could i have this dance?
+{51912}{51993}Cheers!
+{53074}{53124}You know, i was just thinking about you
+{53180}{53206}And why is that?
+{53254}{53307}You made quite an impression when i met you
+{53424}{53456}Thanks
+{53589}{53658}- Would you like to dance?|- No
+{53692}{53727}I don't dance
+{53761}{53902}My husband fell asleep, he's drunk.|I don't have a dance partner
+{53943}{54044}Well, if you teach me, yes?
+{54464}{54532}Hey, you finally remembered that you are a man?
+{54560}{54585}You had forgotten?
+{54625}{54746}It's been a long time since i danced,|but is coming back to me, is coming back...
+{55059}{55085}I can't dance here
+{55220}{55246}Would you like to keep dancing?
+{55308}{55346}Wouldn't you prefer to go out
+{55398}{55428}I would love to, yes
+{55485}{55519}Let's go
+{55622}{55674}- What's going on?|- No, we better stay
+{55746}{55769}Let me go!
+{55803}{55858}The Argentinean is leaving with your wife
+{55862}{55894}Let me go!
+{55897}{55939}Sorry, sorry...I’m sorry
+{55936}{55978}Argentinean mother fucker!!
+{57220}{57251}Aren't you tired?
+{57259}{57282}No
+{57292}{57348}- Don't you want to switch?|- No
+{57357}{57387}Are you sure?
+{57796}{57851}Cows! cows!
+{57894}{57929}I can't Stop, I can't stop!
+{57948}{57979}The brakes don't work
+{57991}{58015}Fucking mechanic
+{58406}{58466}- Are you ok?|- Perfect, what do you want me to tell you Fuser?
+{58653}{58681}Shitty mechanic
+{59454}{59504}Is he your father?
+{59543}{59574}Yes
+{59730}{59776}Hey, that cow is going blind
+{59861}{59902}...for the shit it's going to see
+{60226}{60312}Los Angeles, Chile|February 26th, 1952|Km 2940
+{60431}{60477}We are 25 days behind
+{60591}{60641}Wait wait wait wait
+{60726}{60755}Hello
+{60774}{60856}There's a rumor that the Chilean women are the most|daring in all the continent
+{60856}{60959}Well, the rumors have no scientific support Dr. Granado.|We have to make a field test
+{61030}{61052}You didn't like them, really?
+{61119}{61138}Here they come
+{61257}{61283}Hello girls
+{61293}{61330}- Excuse us, the place is packed...
+{61331}{61443}- Can we sit with you?|- Yes, of course|- Thanks
+{61497}{61550}- How are you?...Ernesto|- He is Alberto
+{61589}{61619}- Miss?|- Jazmםn
+{61626}{61647}Daniela
+{61663}{61698}- Nice to meet you|- Nice to meet you
+{61727}{61793}- So are you Argentineans?|- How did you know?
+{61812}{61904}I don't know...the accent,|because you say "Che", i don't know
+{61911}{61968}- Had you noticed that Che? i hadn't|- No me neither
+{62053}{62126}- Do you know what day is today?|- February 26th
+{62147}{62299}February 26th...we are going to seem like liars,|but it has been a year...
+{62305}{62344}A year? A year since when?
+{62354}{62437}- A year since we started this trip|- That's nice
+{62447}{62602}- Damn, one year and we don't have one cent to celebrate|- Wouldn't you like us to invite you a bottle of wine?
+{62615}{62650}- Wine?|- Yes...
+{62661}{62831}Lucho, bring a bottle of wine to our Argentinean visitors that|have made such an effort
+{62844}{62956}But ladies, please don't takes this the wrong way,|but i can't drink wine
+{62965}{63033}- But why, why can't you drink a little wine to celebrate?|- Exactly...
+{63049}{63180}- Well there is an old tradition in Argentina that...|- Please c'mon, don't...|- What?
+{63186}{63270}- I think they deserve and explanation|- Is adequate, yes
+{63299}{63512}Thanks Lucho...Well, there is a long costume in Argentina|that doesn't allow us to drink with empty stomachs
+{63523}{63689}And since we don't have any money at the moment, we can't|buy food and we must reject your generous offer
+{63745}{63965}Please, don't be like that...wait.|Lucho, could you bring us some empanadas
+{63972}{64025}- Do you like Chilean empanadas?|- I have never tried them
+{64032}{64108}- four, eight?|- They are really hungry.  Twelve.
+{64161}{64183}I've always liked that number
+{64185}{64313}- I would really like to stay here|- Too bad we don't have a place to stay,|but we can sleep at the plaza
+{64331}{64505}Hey, but my father loves Argentineans.|I think he can help you
+{64536}{64595}He is the chief of the fire department,|so he knows a lot of people
+{64596}{64659}Wait, are you sisters?
+{64666}{64741}Yes, of course, you hadn't noticed? Look...
+{64761}{64783}They hadn't noticed.
+{64812}{64884}- The mechanic doesn't come back until tomorrow,|but the bike can stay here
+{64884}{64909}- Thanks a lot
+{64938}{65085}Guys, let me introduce you to two Argentinean volunteers|that will be staying here with you
+{65096}{65263}- Let me introduce you to Dr. Che Skinny and Dr. Che Fatty|- Nice to meet you
+{65270}{65340}- Hey, would you like to see more of the town?|- Yes
+{65363}{65412}- But...|- Don't worry sir
+{65421}{65481}- Excuse me...|- Yes?
+{65571}{65633}I wouldn't like to bother you, but are you really doctors?
+{65635}{65685}- No|- Yes|- No
+{65694}{65722}I'm a biochemist
+{65731}{65814}- Could you visit a lady that is sick|- Yes, when you tell me...
+{65834}{65926}Could it be right now, cause she is really sick.|It's been a very long time since she saw a doctor
+{65940}{66015}Ok, let me pick up my things and we will go.
+{66026}{66091}Is nice to be faithful to the Hippocratic oath, Fuser
+{66260}{66288}Excuse me
+{66455}{66485}Look at my eyes
+{66685}{66715}I'm going to touch your neck a little
+{66933}{66966}Has she eaten?
+{67014}{67038}I don't know
+{67743}{67798}Look, Doסa Rosa, I’m going to leave you these pills
+{67852}{67894}Take one with each meal
+{67928}{67965}And one before bedtime.
+{67997}{68051}This will help you feel better
+{68244}{68384}{Y:i}Dear mom...I knew i wouldn't be able to help that poor woman
+{68389}{68480}{Y:i}That up to a month ago she had been serving|tables, panting like me
+{68495}{68537}{Y:i}Trying to live with dignity
+{68585}{68685}{Y:i}In those dying eyes, there was a humble|request for excuses
+{68700}{68818}{Y:i}And a desperate plea of consolation|that gets lost in the emptiness
+{68833}{68983}{Y:i}Just as her body will get lost very soon|in the magnitude of the mystery that surrounds us
+{69149}{69274}Fuser, you still haven't asked me how was the|field test with the Chilean sisters
+{69298}{69393}You know how i fear that you might become|the new sexual ambassador of Argentina
+{69424}{69487}Are you the two lazy asses that travel|on that piece of crap
+{69520}{69573}Her name is "La Poderosa"
+{69583}{69697}It was. But now we could name it The Dead One, The Paraplegic
+{69700}{69730}Oh yeah, why?
+{69749}{69816}What do you mean why? Because I’m|the mechanic, what else
+{69818}{69962}If you sell it per pound, you might obtain something,|but that piece of crap arrived dead here, really
+{70345}{70390}I'll be missing you Negra
+{70607}{70656}I'll take these, let's go
+{70828}{70867}What do we do? Should we go on?
+{70886}{70983}Yes, we go on.|You only reach 30 once in a lifetime
+{71183}{71242}You are really something|Ernesto Guevara de la Serna
+{71262}{71364}- If we change the dollars...|- No, don't even think about it
+{72356}{72403}We arrived at Valparaiso
+{72437}{72562}"I love Valparaiso. How much you encompass|and how much you irradiate bride of the ocean"
+{72581}{72636}"Even far away from your deaf halo..."
+{72638}{72722}- Federico Garcםa Lorca|- No|- No, it's Neruda
+{72792}{72878}Valparaםso, Chile|March 7th, 1952|Km 3573
+{73211}{73252}Thank you
+{73268}{73332}- From Chichina!|- Chichina, and the money?
+{73381}{73425}- Should i open it?|- Yes open it
+{73449}{73497}I leave you alone love bird
+{73745}{73784}How do i love you Celia de la Serna!
+{73980}{74010}What's going on?
+{74124}{74155}Fuser
+{75489}{75565}- Che, are you ready?|- Me?|- Yes you
+{75577}{75606}- Of course|- Let's go
+{75609}{75637}Right away sir
+{76391}{76497}Atacama Desert, Chile|March 11, 1952|Km 4960
+{76651}{76713}You know what, my plan was a lot better
+{76812}{76867}You are so fucking proud, at least answer me
+{76937}{76972}Do you want to go back?
+{76989}{77072}Go ahead...|I'll get to the mine and then I’ll tell you what it looks like
+{77105}{77168}Are you suggesting that i won't make it to the mine?
+{77199}{77271}If you can little doctor asthma, i can do it too
+{77313}{77331}Moron
+{77361}{77398}Oh, you want to win?
+{77552}{77599}Stop! Fuck!
+{77851}{77910}- Good evening, how are you?|- What's your name?
+{77913}{77976}- Ernesto|- Nice to meet you
+{78250}{78386}Yes, that's it, that's were we are from
+{78440}{78517}We didn't have much, just a dry and difficult land
+{78539}{78586}It belonged to his grandparents
+{78599}{78707}It was ours, until a landlord arrived and kicked us out
+{78718}{78899}- And that is what they call progress|- We had to leave our son with the family and travel to find job
+{78910}{79040}- Trying to escape from the police that wanted to catch us|- Why?
+{79072}{79124}Because we are communists
+{79147}{79230}We are going to the mine. If we are lucky I’ll find a job.
+{79265}{79342}Apparently they are so dangerous that they|don't care what party you belong to
+{79418}{79469}Are you looking for a job?
+{79483}{79528}No, we are not.
+{79564}{79689}No? And then why are you traveling?
+{79778}{79829}Just because
+{80008}{80166}Bless you, blessed be your travels
+{80282}{80315}Take this
+{80327}{80338}Thanks
+{80424}{80465}- Some "mate"|- Thanks
+{80528}{80594}{Y:i}Those eyes had a dark and tragic expression
+{80650}{80751}{Y:i}They told us about some friends that had disappeared|under mysterious circumstances
+{80758}{80834}{Y:i}And that apparently ended up in some|part on the bottom of the ocean
+{80936}{81005}{Y:i}That was one of the coldest nights of my life
+{81042}{81244}{Y:i}But meeting them made me feel closer to human kind.|Strange, so strange to me
+{81482}{81607}You...you too|You, the next one
+{81873}{81935}Move it, guys, move it
+{81977}{82060}Chuquicamata Mine, Chile|March 15th, 1952|Km 5122
+{82570}{82605}Move it, guys, move it
+{82675}{82731}Get in the truck. The rest go to your homes.|Out
+{83316}{83367}You two, what are doing here?
+{83394}{83416}Nothing, we are looking
+{83425}{83493}Looking at what, this is not a tourist attraction. Out
+{83511}{83600}Can't you see that these people are thirsty.|Give them some water damn it.
+{83656}{83694}I will call security so they will arrest you
+{83702}{83732}Oh yeah. Why?
+{83737}{83833}Invasion of property. This is the property of the|Anaconda Mining Company
+{83890}{83914}Let's go.
+{84032}{84048}Son of a bitch
+{84689}{84776}{Y:i}When we left the mine, we felt reality was changing
+{84783}{84814}{Y:i}...or were we the ones changing
+{84881}{84981}{Y:i}Going deeper and deeper into the mountain range|we found more natives
+{85012}{85086}{Y:i}that don't even have a roof in what used to be their own land
+{85249}{85297}{Y:i}Finally we entered Peru
+{85307}{85377}{Y:i}Thanks to a truck driver half blind, Felix
+{85414}{85539}{Y:i}I almost forgot...Today is Alberto's 30th birthday|but not in Venezuela, as he had envisioned
+{85603}{85701}{Y:i}We were so tired, mom|that we couldn't even celebrate
+{85819}{85850}Fuser
+{85933}{85979}This is humanly impossible
+{86628}{86672}{Y:i}Finally we arrived to the heart of America...
+{86689}{86720}{Y:i}Cuzco
+{86735}{86817}Cuzco, Peru|April 2, 1952|Km 6932
+{86832}{86886}{Y:i}After entering the city, we met Don Nestor
+{86928}{87010}{Y:i}A very wise man, mom|that ended up as our official guide
+{87031}{87094}I was wondering Sir, which one of this walls is Inca?
+{87100}{87162}This one should be the Inca wall, and that one is Spanish
+{87174}{87332}We, as a joke, call this one the Inca wall|and that one the wall of the Incapables, those were|the Spanish
+{87366}{87619}Cuzco was the capital of the Incas, but|when the Spanish came they destroyed everything,|and named Lima as the new capital
+{87631}{87660}- Lima?|- Yes
+{87775}{87799}- This is The Plaza?|- Yes
+{88123}{88421}She says that she has never been to a school because|she has always been near the cattle, that's why she doesn't|know how to speak Castilian only Quechua
+{88428}{88718}I think that before, there was enough money for everything,|but now there's little money and there are no jobs
+{88774}{88822}That is affecting us more and more
+{88828}{89114}Since i was little i have worked with crafts|and that's how i keep on level...regular
+{90087}{90125}With both hands, with both hands
+{90208}{90254}With both hands, Nestor
+{90576}{90602}Good evening
+{90721}{90744}Good evening
+{90841}{91019}When i was working, the owner came|and he threw me out of the land
+{91046}{91118}Once i was producing all the products|he threw me out
+{91133}{91188}He threw you out? How? Did he call the police?
+{91193}{91302}Yes, he brought the police.|He is a powerful man, he has a lot of money
+{91311}{91423}- He wanted me to leave the land|- Yes, once it was producing
+{91432}{91605}Yes, it was producing wheat, corn, potatoes, beans...|and i was meant to keep a part of it
+{91621}{91854}But i won't stay behind, i have to keep moving forward.|Working, looking for money to educate my children
+{91862}{91911}- How many kids do you have?|- I have five kids
+{91922}{92156}- Have you joined with other farmers of the area?|- Yes, in the community we are organized, we help each other
+{92163}{92256}We help each other, together
+{93232}{93380}Machu Picchu, Peru|April 5th, 1952|Km 7014
+{93891}{93980}Let's see how you behave Fuser, eh?|That's it, that's it
+{94016}{94057}For posterity
+{94173}{94312}{Y:i}The Incas had a high knowledge of astronomy, medicine,|math, among others
+{94324}{94385}{Y:i}But the Spanish invaders had powder
+{94425}{94510}{Y:i}How would America be today if things had been different?
+{94540}{94709}Fuser, look what i think. I should marry with an Inca descendant|and found an indigenous party
+{94743}{94780}We encourage everyone to vote
+{94813}{94931}Reactivate Tupac Amaru's revolution,|the indoamerican revolution, Fuser|What do you think?
+{94976}{95093}A revolution without gunshots?|You are crazy Mial
+{95444}{95538}{Y:i}How is it possible that i feel nostalgia for a world i never knew
+{95591}{95669}{Y:i}How do you explain that a civilization capable of building this
+{95702}{95736}{Y:i}is wiped out to build...
+{95763}{95805}{Y:i}...this
+{95828}{95897}Lima, Peru|May 12th, 1952|Km 8198
+{96305}{96348}- I know this is not the one|- No?
+{96548}{96612}Mercaderes 52, let's ask
+{96622}{96635}Mercaderes Street?
+{96639}{96785}Mercaderes?  2 blocks that way, then turn right and 6 or 7 blocks more
+{96793}{96895}- This one has to be Mercaderes|- That one too
+{96900}{96965}- Hey, is this one Mercaderes?      - Yes|- And that one too?       -Yes
+{97030}{97149}Count from down there...from down there are 2, 4...|What?
+{97166}{97204}Oh look
+{97295}{97336}Can i help you with something?
+{97421}{97516}This is the one from Mariategui...|and you should also read Cesar Vallejo
+{97522}{97581}{Y:i}The best part of Lima, mom, was Dr. Hugo Pesce
+{97590}{97649}{Y:i}The chief of the program for the treatment of leprosy in Peru
+{97665}{97718}{Y:i}Alberto had contacted him before starting the journey
+{97737}{97856}{Y:i}He fed us, gave us cloth, money and some very good ideas
+{97906}{98047}{Y:i}Mariategui talks about the revolutionary potential of the|natives and farmers of Latin America
+{98069}{98142}{Y:i}He says that the native main problem is the land
+{98156}{98289}{Y:i}and that the revolution will not be a copy|but a heroic creation of our people
+{98476}{98570}"7 ESSAYS OF INTERPRETATION OF THE PERUVIAN REALITY"
+{98909}{98966}{Y:i}"We are too few to be divided", he says
+{98997}{99030}{Y:i}Everything unites us
+{99064}{99093}{Y:i}nothing keeps us apart...
+{99100}{99141}Here's the main group of patients
+{99202}{99327}{Y:i}Pesce let us stay at the guide Hospital, were they|treat patients in the first stage of the disease
+{99368}{99470}{Y:i}The ones with more serious conditions are sent to San Pablo's|Leper’s center in the Amazon
+{99482}{99554}- Zoraida, this is Alberto, Ernesto|- How are you?|- Nice to meet you
+{99565}{99661}Well, i think we know each other well enough|so i will allow myself to tell you something
+{99669}{99852}I look into your eyes, Ernesto, Alberto, and i see|a great idealism, but also a lot of doubts
+{99886}{99937}That's why I’m glad that you are going to San Pablo
+{99952}{99995}I think you will find something important there
+{100023}{100059}Important for you
+{100096}{100121}Thanks a lot
+{100141}{100290}- Ok, if you excuse me, i will show you something, ok?|- Another surprise? How many surprises!
+{100318}{100360}- What is he bringing, little on?|- A book
+{100376}{100434}- A book, uh?|- Eat everything Tito, eh?
+{100466}{100514}This is the great love of my life...
+{100536}{100570}...after her of course
+{100576}{100606}Ah, ok
+{100618}{100661}It's my novel
+{100666}{100707}"The Stillness of Silence"
+{100740}{100781}I hope you give me the honor of reading it
+{100804}{100860}- Of course, of course|- The honor is ours
+{100886}{100938}You can tell me what you think after
+{100942}{100975}- Yes, of course. Can i open it?|- Yes, yes
+{100998}{101032}- Who dares read it first?
+{101064}{101157}- Both of us|- Besides he reads faster than i do, really.
+{101219}{101236}Ok guys...
+{101253}{101324}- ...that's the boat, "La Cenepa"                              Pucallpa, Peru|May 25th, 1952|Km 8983
+{101336}{101385}In five more days you'll be in San Pablo
+{101446}{101673}Teacher, thanks a lot for everything, for your kindness,|for the tickets, the cloths, for everything. It's been an honor
+{101678}{101727}Don't worry about anything
+{101742}{101803}Thanks Doctor, thanks a lot
+{101807}{101968}Don't you think you are forgetting something?|You've said nothing about my novel
+{101998}{102081}- The novel, Fuser|- Did you read it?|- Of course|-So?
+{102102}{102264}What can i say? I can sincerely tell you that|no one can tell a story like you
+{102302}{102342}It has taken a lot of effort
+{102363}{102419}- And what do you think Ernesto?|- He is fascinated!
+{102427}{102487}If he is fascinated, i would rather to hear it from him
+{102505}{102652}Look Doctor, I feel that your book is a little beaten
+{102665}{102729}I think there are many common places...
+{102796}{102888}- Well, that is not that bad|- No
+{102904}{102994}Basically is poorly written and that makes it hard to read
+{103064}{103159}It's a very good try doctor, but i think you should|focus on what you know best
+{103240}{103315}I'm sorry, teacher. You asked for my opinion|and I’m giving it to you
+{103399}{103591}Wao son! No one had been so blunt with me.|You have been the only one. The only one
+{103660}{103734}- Ok, i won't delay you any more, go on.|- Thanks
+{103738}{103801}Good bye and...eternally grateful and forgive me.
+{103828}{103854}Take care!
+{106651}{106729}- Have you seen a bag that was over there?|- No
+{106752}{106843}- It is brown and small|- If i see it I’ll let you know
+{107159}{107184}What is wrong with him?
+{107215}{107251}Ask for help! Ask for help!
+{107492}{107511}Pass me that pillow
+{107697}{107741}Be calm, Fuser
+{107915}{107960}Be calm, I’m going to give you the adrenalin
+{108352}{108399}Fuser... easy, easy...
+{108673}{108695}Fuser...easy
+{109136}{109158}Miss
+{109212}{109304}I came to thank you personally for the|help you offer to my friend and i. Thanks
+{109307}{109359}Don't worry, your friend got really sick
+{109369}{109409}- Yes he did|- He gave me quite a scare
+{109410}{109471}And i, thanks a lot, Miss.
+{109522}{109595}- You know, a minute ago i saw a "bufeo" around|- Bufeo?
+{109600}{109671}Well a river dolphin, but we call them "bufeo"
+{109695}{109726}Have you ever seen one?
+{109729}{109778}No, never. I heard it, but didn't see it
+{109831}{109889}- I'm going to tell you a secret|- Me?
+{109930}{110126}The bufeo's genitals look like a woman's|and the natives use it to relieve themselves
+{110133}{110358}But there's a little problem, when they are done|they have to kill the animal, because the suffer|contractions so strong that don't let them get out
+{110475}{110529}Miss, no offense but can i ask you something?
+{110541}{110557}Yes
+{110562}{110620}What brings you to these inhospitable waters?
+{110630}{110746}I work on the boat, I come and go between Pucallpa and Leticia.|I'm from Pucallpa, you know?
+{110750}{110788}- Pucallpenian?|- Pucallpian
+{110800}{110891}- Do you know it?|- It is full of beautiful women, but you are the best
+{110896}{110922}- Thanks|- You are welcome
+{110959}{110995}And how do you pay for your ticket?
+{110999}{111043}I give the captain part of what i make
+{111067}{111161}But...how do you earn the money?|Miss...
+{111234}{111352}Let's just say that, if we go to your room, I’ll show you
+{111364}{111489}My name is Luz, in case you want to|know who you make business with
+{111530}{111642}Lucecita, for a night with you i would|give a pile of gold as big as the Aconcagua
+{111644}{111722}But, darling i don't have a single coin
+{111730}{111787}Well, then my friend, you'll have to excuse me
+{111798}{111898}- But i have to go earn a living|- Are you going to leave me like this
+{112184}{112219}I need the fifteen dollars, Fuser
+{112225}{112367}Her name is Luz and she told me a story about a|fish that the natives fuck and she gave me a little kiss
+{112397}{112428}I already spent them
+{112452}{112625}C'mon Fuser, don't fuck with me.  We crossed the|desert together, we almost died of starvation and cold,|the accident
+{112643}{112757}- My needs have higher priority than Chichina's pants|- I don't have them anymore
+{112784}{112840}I gave them to the mining couple
+{113030}{113061}- Court her
+{113121}{113168}- Fuck you Fuser
+{113288}{113324}The house wins gentlemen.
+{113373}{113399}Mr. Lloyd retires
+{113411}{113457}- Good night|- Good night
+{113459}{113501}Make your bets gentlemen
+{113502}{113545}- 8 soles|-10 soles
+{113558}{113620}-  1 sol|- 1 sol? What?
+{113638}{113682}This is for men, not for school kids
+{113684}{113765}I didn't know that in Peru you measured a man balls in soles
+{113816}{113893}Ok, ok, let's play.|Cards gentlemen
+{113949}{113972}- Card?|- One
+{113992}{114015}- Sir?|- Nothing
+{114020}{114060}- Young man?|- One
+{114113}{114156}I stay
+{114166}{114200}- Card|- Of course
+{114315}{114380}Gentlemen, the house pays.
+{114396}{114493}Sir?  17. I'm sorry|Gentleman?|Thanks
+{114494}{114513}You young man?
+{114519}{114559}Pay!
+{114635}{114688}- How much did you bet?|- 1 sol
+{114703}{114733}The first one
+{114808}{114886}- Ok, gentlemen, your bets|- 2 soles
+{115336}{115435}- I want to see your bets. Your bet sir?|- 30 soles
+{115533}{115588}Gentlemen, again, Blackjack!
+{115639}{115678}- How much do i owe you?|- 30
+{115680}{115922}- 30 paid|- Thanks, yes sir. I will retire now. I think is very|clear who has more balls in this table. Excuse me gentlemen
+{115930}{116035}Son of a bitch. Now that we are millionaires|we will eat better
+{116036}{116086}Precisely, look at the mouthful I’m about to eat
+{116090}{116188}- What a night, we are very lucky|- How are you? Ernesto... Luz|- Hi
+{116197}{116226}- Luz|- At your service
+{116232}{116331}Burning light that blinds my dreams|Now hold on tight for what is coming for you
+{116334}{116373}- Ah, Neruda?|- No, Granado
+{117611}{117692}San Pablo, Peru|June 8th, 1952|Km 10223
+{117776}{117806}Are you Bresciani?
+{117813}{117844}How are you guys? How was the trip?
+{117850}{117898}- Long but good|- A little long
+{117949}{117974}No the other way
+{118017}{118054}- Nice to meet you.  Bresciani|- Nice to meet you
+{118122}{118188}Dr. Pesce has talked very enthusiastically about you|so, welcome to San Pablo
+{118198}{118274}By the way, i have a letter from Dr. Pesce for you|do you want it now?
+{118281}{118316}No, no, there'll be time for that
+{118356}{118430}Well, since we are here i can show you something
+{118443}{118506}The Amazon divides the colony in two
+{118515}{118768}The south part is where we keep the patients.|Here, in the north part is were the staff, the doctors and nurses live.|And a couple of nuns that are very efficient
+{118783}{118819}This is your room
+{118906}{118984}The beds are a little hard, but that is good for your spine
+{119099}{119141}You can see the hospital from here
+{119153}{119237}Over there|And that's the laboratory
+{119254}{119340}Doctor, let me introduce you to our Argentinean volunteers
+{119430}{119486}Alberto, i understand you have|some experience in baciloscopy
+{119492}{119572}- That's right|- I believe he could help us in the lab, why don't|you take him with you
+{119619}{119667}Ernesto, you are going to help me in the hospital
+{119760}{119837}Here we have the more serious cases,|we transfer them from the south area
+{119871}{119917}- Georgina|- Hello doctor
+{119939}{120046}- And do you make the operations on this side too?|- Yes, on that side we have an operating room
+{120139}{120233}She is Silvia, daughter of one of our patients|and a very good nurse
+{120337}{120399}- How is he?|- He's better, doctor
+{120429}{120505}- Then keep administering the same treatment|- Yes
+{120581}{120668}- Doctor, then how many patients live in the south area?|- Almost six hundred
+{120671}{120840}- All of them Peruvian?|- No, most of them yes, but there are some from|Colombia, Venezuela and other countries of South America
+{120975}{121122}I suggest you use these gloves. It's true that|leprosy under treatment is not contagious
+{121125}{121198}but the nuns are very strict about this
+{121283}{121428}- If it's not contagious, then this is purely symbolic|- Yes, but I’m telling you so you don't make mortal enemies over there
+{121443}{121552}- Well, you'll have to forgive us but we are not going to use them|- Yes, thanks doctor
+{121593}{121636}Don't say i didn't warn you
+{121819}{121857}Take out the boxes.|Come this way
+{122039}{122075}- Good evening|- Good evening
+{122104}{122210}- Good evening.  Welcome to San Pablo|- Thanks|- You are very kind
+{122219}{122287}- Papa Carlito, at your service|- Nemesio Reyna
+{122293}{122354}- Ernesto Guevara|- I'm Alberto Granado, a pleasure to meet you
+{122371}{122402}Nice to meet you
+{122464}{122532}Doctor, didn't you explain the rules to them?
+{122665}{122695}Nice to meet you
+{122710}{122826}- Don Nemesio, nice to meet you
+{122841}{122916}Papa Carlito is the head of the community.|They are Argentineans doctors
+{122922}{122995}Nice meeting you, bye
+{123033}{123075}They are real gentlemen
+{123080}{123158}Dr.  Bresciani, this gentlemen arrive and think|they can behave as they want?
+{123170}{123269}Mother San Alberto, this gentlemen have good|medical experience in Cordoba and Buenos Aires
+{123293}{123362}That doesn't give them the right to behave|like this and break the rules
+{123371}{123420}I suggest we leave this conversation for later, ok?
+{123455}{123492}Thanks Mother, you are very understanding
+{123516}{123550}She is the Mother Superior
+{123844}{123884}This is the dinning hall.
+{123892}{124007}The nuns make lunch on Sundays,|but only for those that come to mass
+{124076}{124229}The sad thing is that most of San Pablo's patients are here|because they have been abandoned by their families|or thrown out of their jobs
+{124232}{124358}That's why they try to adapt to their new life|building their own houses, seeding, caring for animals
+{124376}{124420}- Doctor, good morning|- How is Silvia?
+{124442}{124530}- She doesn't want to go to surgery|- Thanks doctor, I’ll go see her
+{124570}{124714}Silvia is a patient a little rebellious and if we don't|operate her ulna, she risks loosing her arm
+{124788}{124817}Hello Silvia
+{124911}{124950}She's very young
+{125025}{125069}Can i come inside to talk to her
+{125098}{125114}Yes
+{125569}{125605}Can i sit?
+{125801}{125847}Does your arm hurt?
+{126133}{126172}What is wrong with you?
+{126199}{126260}I was born with bad lungs
+{126329}{126365}What a shame
+{126383}{126520}No, is not that bad. Thanks to that|i skipped the military service
+{126545}{126612}I didn't have to shine anyone boots
+{126647}{126786}Is that why you became a doctor?|Because you are sick?
+{126807}{126969}Is possible.|The first word i learned was injection
+{127038}{127086}I want to be useful in some way
+{127169}{127256}- You are wasting your time|- Why?
+{127372}{127429}This life is hell
+{127456}{127717}Yes, it's really fucked up, but we have to|fight for every breath and tell Death to fuck off
+{128808}{129038}Hey Fuser,  Bresciani is going to write me a recommendation|for an internship in Cabo Blanco's Hospital, in Caracas|What do you think?
+{129089}{129113}That's nice.
+{129145}{129241}Nice?|What's going on Fuser?
+{129348}{129416}- Did you see the river?|- Yes
+{129496}{129564}It keeps away the sick from the healthy
+{129657}{129692}Yes
+{130479}{130548}That's it...|Just a quick...
+{131098}{131122}Are you ok?
+{131162}{131193}Scalpel
+{131226}{131318}It's ok, it's ok. Look at me
+{131382}{131515}That's it. The nerve is coming out
+{131525}{131567}It's thick
+{131650}{131815}I have four siblings, Celia, Ana Maria|Roberto and Juan Martin
+{131864}{132023}And they are the ones i miss the most actually.|And also my mom
+{132304}{132357}You have to tell us these things with time
+{132507}{132604}- Have you been playing soccer lately?|- Not lately
+{132613}{132750}For the next time, please wear some snickers|and invite me
+{132758}{132786}Gladly
+{134558}{134634}C'mon, C'mon
+{134915}{135020}North team!|Mark that one there!!
+{135195}{135229}Out, out
+{135233}{135339}Get out of there
+{135362}{135423}Mark that...|Out, out
+{135465}{135577}Gol! Gol!
+{135667}{135741}What happened? What happened?|They scored you one fatty!!
+{135807}{135831}Get out of here!
+{136017}{136067}Excuse me
+{136097}{136138}Sister, why you don't give us food?
+{136181}{136294}The rules of Mother San Alberto are very clear,|we only serve to those who go to Holy Mass
+{136305}{136384}- What is it?|- They won't give us food because we didn't go to mass
+{136389}{136457}- Says who?|- San Alberto
+{136480}{136527}- Mother|- Yes?
+{136537}{136603}- We want to eat|- We deserve to eat like everyone else
+{136614}{136664}- Yes but you didn't go to mass|- No
+{136672}{136797}Then, how do you expect to feed the body|if you didn't feed the soul first
+{136803}{136899}- Denying food is not very Christian-like|- Yes, i doubt Jesus would act like this
+{136903}{137003}In this house we have a set of rules|that have to be followed
+{137007}{137115}- I haven't read any rule book|- Neither did i. I think that if find it i would eat it
+{137288}{137316}Your lunch
+{137351}{137384}Did you steal it?
+{137426}{137474}- Yes|- Thanks
+{137597}{137657}- Did you took it from San Alberto?|- Yes
+{137668}{137691}Thanks
+{138088}{138127}- Is it deep?|- Yes
+{138471}{138522}- Do you want some "mate"?|- No thanks
+{138878}{138900}What?
+{138977}{139003}From Caracas?
+{139255}{139339}Great!|Great, isn't it?
+{139387}{139476}- Should i accept?|- What do you want to do?
+{139599}{139648}Maybe is time to settle down
+{139681}{139761}Yes, have a stable job, a girlfriend...
+{139789}{139819}Get a belly
+{139875}{139972}And you? Are you going back to finish school?
+{139982}{140067}I don't know. If i find a way to get|back to Buenos Aires, yes
+{140109}{140187}You're going to be 24 next week, Fuser
+{140234}{140314}I should be thinking on something, right?
+{140451}{140518}San Pablo, Peru|June 14th, 1952
+{140856}{140950}The Mother dances well, uh?|I like the way she dances
+{141449}{141482}No, I don't dance
+{141778}{141798}Thank you
+{141982}{142050}- It's good uh?|It's really good
+{142053}{142128}Listen, this is the tango that|Chichina's uncle played in Miramar
+{142135}{142181}- Ah yes, i like it|- You see|- Yes, yes
+{142181}{142215}- Do you know how to dance it?|- This one's a little faster,
+{142226}{142351}But you know how to dance it.|And there's a lady very interested in dancing with you
+{142388}{142460}- Should i ask her?|- The bird in the stories flies and never returns
+{142464}{142491}Fly, fly
+{142508}{142549}Do you want to dance?
+{142559}{142631}- Do you know how to dance?|- Yes
+{142717}{142771}Is just that this version is faster
+{143028}{143059}Dance Ernesto!
+{143074}{143128}Did you think it was a tango?
+{143136}{143190}Mambo, mambo, mambo
+{143252}{143400}Happy birthday to you! Happy birthday to you!
+{143401}{143583}Happy birthday, Ernesto, Happy birthday to you!
+{143585}{143650}Make three wishes Fuser
+{143865}{143904}Friends, one moment please...
+{143914}{144092}I believe this is a great opportunity to let Ernesto|and Alberto know, how grateful we are
+{144097}{144348}Not just for having gotten here, but also for their|commitment and enthusiasm to the patients of San Pablo|during the three weeks you have spent here
+{144362}{144459}For that reason, we have prepared|a little surprise
+{144476}{144571}Tomorrow you will receive a raft to|continue your journey
+{144578}{144730}and we will name it,|suggested by this night, The "Mambo Tango"
+{144852}{144879}Thanks a lot
+{144917}{145069}Speech! Speech!
+{145116}{145272}Well...I feel obligated to thank this toast with something|more than a conventional gesture
+{145298}{145439}But given the poor conditions in which we travel...|the only affectionate resource that we have is the word
+{145465}{145595}And is by using it, that i want to thank you all,|all the staff of the colony
+{145598}{145628}Thanks
+{145636}{145831}You, that give us this magnificent display of affection|by celebrating my birthday as you would celebrate one of yourselves
+{145866}{146077}And since we will leave Peru tomorrow, this|words also serve as a goodbye
+{146088}{146220}in which i want to put all my effort to give|a recognition to the people of this country
+{146267}{146380}that uninterruptedly have overwhelmed us with|nice gestures since we arrived
+{146404}{146494}And i would like to highlight something more,|a little off topic of this toast
+{146505}{146570}But don't worry, i won't dance
+{146702}{146884}Although our meager personalities prevent us|from being spokesmen of your cause
+{146912}{147150}We believe, even more after this journey, that the|separation of America in false and uncertain nationalities
+{147155}{147210}is completely fictitious
+{147237}{147383}We are a single mixed race, from Mexico|to the Strait of Magellan
+{147407}{147503}So, trying to free myself from any|nationality load
+{147528}{147653}I raise a toast for Peru and for America united
+{147826}{147940}Cheers
+{149290}{149343}What's up with you?
+{149390}{149430}Do you know where the boat is?
+{149470}{149512}No, i don't see it
+{149624}{149683}I'm going to celebrate my birthday on the other side
+{149726}{149806}Yes, of course, tomorrow when we find the boat|you will celebrate your birthday on the other side
+{149806}{149840}- No, now|- No you won't
+{149841}{149902}- My birthday is today not tomorrow|- I know Fuser but...are you crazy
+{149912}{149977}You can't cross the river at night with all|those animals that can eat you raw
+{149978}{150065}Mial, how many times in this journey did we thought|it was the end and look, here we are
+{150070}{150108}- This time is different Fuser|-Why?
+{150112}{150183}Because this time i won't be around to help you.|There's no way I’m getting in the river
+{150187}{150231}You will always be with me Mial, come
+{150236}{150336}Hey, come here you bastard mother fucker, come back here.|Think of me, your mom is going to kill me
+{150350}{150412}Fuser, come back here.|Ernesto! Listen!
+{150419}{150455}Son of a bitch
+{150496}{150577}Ernesto come back!|Son of a bitch
+{150599}{150641}Come back here!
+{150775}{150840}- What's going on?|- This crazy mother fucker wants to swim across the river
+{150849}{150912}- What?|- Please tell me that someone has cross this river
+{150921}{150953}No, no one in all the years I’ve been here
+{150956}{151001}Ernesto, come back damn it!
+{151008}{151088}- Hey kid, listen to your friend!|- No he won't listen
+{151096}{151130}- Come here kid!|- Come back Ernesto
+{151796}{151848}- What's going on?|- Something is moving
+{152056}{152098}The current is getting stronger
+{152099}{152199}- What's going on?|- That moron that is swimming across the river. Come back, Ernesto
+{152448}{152521}- Is that Ernesto?|- He is swimming this way
+{152546}{152572}There he is
+{152751}{152793}- He's tired|- You can do it Ernesto!
+{152989}{153013}There he is
+{153192}{153253}Come one. Come on. Come on.|Ernesto!!
+{154510}{154569}He made it?!|Son of a bitch, he made it!
+{154586}{154630}He made it! He made it!
+{155139}{155177}I always knew he would make it
+{155259}{155286}Son of a bitch
+{156094}{156170}I'm going to miss you. Take care, ok?
+{156284}{156411}- Papa Carlito is very sad|- Take care
+{156446}{156510}- Good luck|- We will miss you
+{156556}{156592}Thanks for everything
+{156657}{156732}- Take care, ok|- You too
+{157216}{157270}Take care kids
+{157360}{157450}- Good bye Mauro|- We will always remember you
+{159766}{159889}Near Leticia, Colombia|June 22nd, 1952|Km 10240
+{160468}{160586}Caracas, Venezuela|July 26th, 1952|Km 12425
+{160656}{160776}You know, i had memorized a speech filled with|anecdotes, and i can't remember a fucking thing
+{160790}{160863}- That happens|- Yeah
+{160948}{161025}You still have the chance to come and|work with me in Cabo Blanco, eh?
+{161060}{161098}You can graduate and I’ll wait for you
+{161133}{161175}I don't know
+{161221}{161250}I don't know
+{161316}{161476}Look Mial, all this time we spent on the route, something happened
+{161557}{161636}something that i have to think about long and hard
+{161877}{161931}So much injustice, eh?
+{162047}{162089}Come on, the plane is leaving!
+{162125}{162192}Wait, wait. This could be useful
+{162255}{162288}You kept it
+{162296}{162323}Is yours
+{162349}{162374}I'm off now
+{162655}{162694}I'll write you, ok?
+{162930}{162982}Fuser...
+{163121}{163173}I have to tell you something important.
+{163204}{163306}My birthday is not on April 2nd, it is on August 8th.|I told you only to motivate you
+{163318}{163388}- I knew|- You knew? Son of a bitch
+{163727}{163766}See you!
+{163772}{163811}See you friend!
+{164626}{164701}{Y:i}This is not the tale of impressive deeds
+{164721}{164843}{Y:i}Is a piece of two lives taken in a moment|when they were cruising together along a given path
+{164853}{164938}{Y:i}With identity of aspirations and a conjunction of dreams
+{164963}{165097}{Y:i}Was our vision too narrow, too partial, too rushed?
+{165109}{165169}{Y:i}Were our conclusions too rigid?
+{165197}{165235}{Y:i}Maybe...
+{165276}{165400}{Y:i}...but that aimless roaming through our enormous America|has changed me more than i thought
+{165433}{165454}{Y:i}I..
+{165468}{165495}{Y:i}...am not myself anymore
+{165502}{165615}{Y:i}At least, I’m not the same inside
+{167923}{167993}Eight years passed before the two of|them would meet again
+{168043}{168124}In 1960, Granado accepted an invitation to move|to Cuba to work as a researcher.
+{168125}{168291}The invitation came from his old friend Fuser,|that at the time was known as Commander Che Guevara,|one of the few influential and charismatic|leaders of the Cuban Revolution.
+{168367}{168542}Ernesto Che Guevara fought for his ideals in Congo|and Bolivia, where he was captured by the Regulation Army and,|with the consent of the CIA, was assassinated in October of 1967
+{168593}{168823}Alberto Granado, always faithful to his friend Fuser,|remained in Cuba, where he founded the "School of|Medicine of Santiago".  Today he lives in Havana|with his wife Delia, his three sons and grandsons.

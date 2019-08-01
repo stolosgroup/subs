@@ -1,0 +1,2950 @@
+﻿1
+00:02:06,708 --> 00:02:08,878
+<i>Sam? Just received a report...</i>
+
+2
+00:02:09,333 --> 00:02:11,793
+<i>...attacked a village
+near your location. Over.</i>
+
+3
+00:02:12,083 --> 00:02:12,963
+Go ahead.
+
+4
+00:02:13,042 --> 00:02:15,462
+<i>Satellite shows... heading south.</i>
+
+5
+00:02:15,542 --> 00:02:19,042
+<i>Expect fleeing villagers traveling on foot
+towards your location...</i>
+
+6
+00:02:30,667 --> 00:02:31,997
+<i>Sam...</i>
+
+7
+00:02:32,083 --> 00:02:34,833
+<i>Sam, do you copy? Over.</i>
+
+8
+00:02:56,125 --> 00:02:57,785
+Wait out! Turn around! Go!
+
+9
+00:02:58,750 --> 00:03:00,420
+Zero, this is four. Contact.
+
+10
+00:03:00,667 --> 00:03:02,787
+Wait out. Hostile! Reverse!
+
+11
+00:03:04,542 --> 00:03:06,502
+Golf alpha, requesting immediate evac.
+
+12
+00:03:06,583 --> 00:03:09,213
+We are under attack.
+I repeat, immediate evac.
+
+13
+00:03:09,292 --> 00:03:12,422
+<i>- Copy that. Send location.</i>
+<i>- </i>Location six-seven.
+
+14
+00:03:19,958 --> 00:03:21,418
+Get in the back. Move!
+
+15
+00:03:22,750 --> 00:03:24,130
+Move over. Fast!
+
+16
+00:03:46,750 --> 00:03:48,630
+- Scream.
+- Oh, my God.
+
+17
+00:03:48,708 --> 00:03:50,038
+I... I can't.
+
+18
+00:04:02,500 --> 00:04:05,460
+Help me! Please don't shoot me!
+
+19
+00:04:39,500 --> 00:04:41,330
+Stop the vehicle! Stop!
+
+20
+00:04:42,458 --> 00:04:44,708
+Get out of the car.
+Get out of the fucking car. Get out!
+
+21
+00:04:44,792 --> 00:04:46,422
+Move! Move! Move!
+
+22
+00:04:46,500 --> 00:04:47,920
+Keep moving.
+
+23
+00:04:48,000 --> 00:04:50,500
+Get down on your knees.
+Get down! Get down!
+
+24
+00:04:51,083 --> 00:04:53,253
+Sarah, Joe! Get out of the car.
+
+25
+00:04:53,750 --> 00:04:55,670
+Get out! Move!
+
+26
+00:04:55,750 --> 00:04:58,210
+Move! Faster! Move! Move!
+
+27
+00:04:58,958 --> 00:05:00,828
+Move!
+
+28
+00:08:04,792 --> 00:08:07,582
+You need to get ready, Zoe.
+
+29
+00:08:31,250 --> 00:08:32,710
+We gather here today
+
+30
+00:08:32,792 --> 00:08:35,502
+to celebrate the life of Eric Tanner.
+
+31
+00:08:35,833 --> 00:08:39,253
+Who leaves behind his only daughter,
+Zoe.
+
+32
+00:08:39,833 --> 00:08:44,503
+She has had more tragedy to bear
+than most at her young age.
+
+33
+00:08:45,625 --> 00:08:47,643
+Eric was responsible
+
+34
+00:08:47,667 --> 00:08:48,997
+for the lives of many...
+
+35
+00:08:49,875 --> 00:08:53,535
+both with his business...
+and extensive charity work.
+
+36
+00:08:54,500 --> 00:08:56,880
+He also leaves behind his wife, Rima,
+
+37
+00:08:57,625 --> 00:09:01,125
+with whom he shared ten wonderful years.
+
+38
+00:09:02,000 --> 00:09:06,460
+I know you will join with me
+in supporting them both at this time.
+
+39
+00:09:26,875 --> 00:09:30,995
+<i>Friday, 5:58 p.m.</i>
+
+40
+00:09:31,708 --> 00:09:35,538
+<i>Hello, my name is Derek Litman.
+I'm with Allstate Farmers Life Insurance.</i>
+
+41
+00:09:35,625 --> 00:09:38,325
+<i>Uh, the reason I'm calling today
+is that we are offering...</i>
+
+42
+00:09:39,917 --> 00:09:41,577
+<i>Hey, Sam. Justin.</i>
+
+43
+00:09:42,208 --> 00:09:44,208
+<i>That drink. Give me a call.</i>
+
+44
+00:09:46,500 --> 00:09:48,580
+<i>Hi, um...</i>
+
+45
+00:09:49,542 --> 00:09:52,462
+<i>I don't... I don't know if this is the...</i>
+
+46
+00:10:08,208 --> 00:10:11,958
+<i>Los Angeles, where any rain
+is considered a newsworthy novelty,</i>
+
+47
+00:10:12,042 --> 00:10:17,542
+<i>is caught in a genuine tropical downpour.
+It's currently 75 degrees.</i>
+
+48
+00:10:17,625 --> 00:10:19,415
+<i>Shareholders in Hassine Mining,</i>
+
+49
+00:10:19,500 --> 00:10:21,920
+<i>concerned by the death
+of CFO Eric Tanner,</i>
+
+50
+00:10:22,000 --> 00:10:24,210
+<i>were reassured by a billion-dollar deal</i>
+
+51
+00:10:24,292 --> 00:10:27,132
+<i>secured by his stand-in and widow,
+Rima Hassine.</i>
+
+52
+00:10:27,583 --> 00:10:30,633
+<i>Phosphate mining is known
+as the white gold of Africa,</i>
+
+53
+00:10:30,708 --> 00:10:33,878
+<i>a global industry fought over
+between giants Sikong</i>
+
+54
+00:10:33,958 --> 00:10:35,498
+<i>and rival, Hassine Mining.</i>
+
+55
+00:10:36,417 --> 00:10:38,827
+<i>- Shares of Hassine Mining...</i>
+- How did this leak?
+
+56
+00:10:39,208 --> 00:10:41,828
+Look at the stock. It's stable.
+
+57
+00:10:42,583 --> 00:10:44,423
+The deal's not done until it's signed.
+
+58
+00:10:44,500 --> 00:10:47,630
+This will provide confidence
+at a key time for us.
+
+59
+00:10:47,917 --> 00:10:50,327
+It shows you have not been weakened
+by Eric's death.
+
+60
+00:10:53,125 --> 00:10:56,035
+Let the story run. Follow my advice.
+
+61
+00:10:56,625 --> 00:10:58,745
+Bring my flight forward
+to tomorrow morning.
+
+62
+00:10:59,083 --> 00:11:01,673
+<i>...is worth over three billion dollars.</i>
+
+63
+00:11:06,417 --> 00:11:07,627
+What do you want?
+
+64
+00:11:09,750 --> 00:11:10,750
+Hi.
+
+65
+00:11:17,917 --> 00:11:19,247
+How are you feeling?
+
+66
+00:11:20,917 --> 00:11:21,917
+Pretty shitty.
+
+67
+00:11:23,375 --> 00:11:24,915
+I know. Me, too.
+
+68
+00:11:28,667 --> 00:11:29,917
+Where's Adam?
+
+69
+00:11:31,833 --> 00:11:32,963
+Oh, you don't know?
+
+70
+00:11:34,625 --> 00:11:35,625
+What?
+
+71
+00:11:36,417 --> 00:11:38,037
+He requested a transfer.
+
+72
+00:11:41,125 --> 00:11:44,415
+Zoe, the lawyers are waiting.
+
+73
+00:11:45,333 --> 00:11:46,383
+Will you be all right?
+
+74
+00:11:46,458 --> 00:11:48,708
+You're not gonna start pretending
+you care about me?
+
+75
+00:11:48,875 --> 00:11:49,875
+Oh, Zoe...
+
+76
+00:11:50,458 --> 00:11:51,998
+Make yourself presentable.
+
+77
+00:12:02,125 --> 00:12:03,535
+"I, Eric Tanner,
+
+78
+00:12:03,625 --> 00:12:06,165
+hereby bequeath all my shares
+in Hassine Mining...
+
+79
+00:12:06,250 --> 00:12:07,790
+to Zoe Tanner."
+
+80
+00:12:08,958 --> 00:12:10,328
+I will contest this.
+
+81
+00:12:11,167 --> 00:12:13,787
+Eric wanted me
+to present this to you personally.
+
+82
+00:12:13,875 --> 00:12:16,955
+He felt you might need our... guidance.
+
+83
+00:12:17,042 --> 00:12:18,962
+I can't believe he did this.
+
+84
+00:12:19,333 --> 00:12:22,268
+There are some terms I need to run through
+before we conclude this meeting.
+
+85
+00:12:22,292 --> 00:12:24,212
+My family founded Hassine Mining.
+
+86
+00:12:25,125 --> 00:12:26,455
+How much are they worth?
+
+87
+00:12:26,792 --> 00:12:28,382
+The shares?
+
+88
+00:12:28,917 --> 00:12:32,167
+Eric hoped that getting Zoe involved
+in the company...
+
+89
+00:12:33,000 --> 00:12:34,290
+would bring you closer.
+
+90
+00:12:35,208 --> 00:12:37,248
+I don't have time for this.
+
+91
+00:12:37,792 --> 00:12:41,502
+We anticipate it'll take three months
+for the share transfer to go through.
+
+92
+00:12:41,583 --> 00:12:44,293
+- So I can stay here for the summer?
+- No, I need you with me.
+
+93
+00:12:44,375 --> 00:12:45,785
+No. I hate it there.
+
+94
+00:12:45,875 --> 00:12:47,825
+We can meet there
+and discuss matters then.
+
+95
+00:12:47,917 --> 00:12:49,577
+Ladies, look...
+
+96
+00:12:51,375 --> 00:12:52,535
+Miss Tanner?
+
+97
+00:12:53,000 --> 00:12:55,330
+We need to assign you
+a new close protection officer.
+
+98
+00:12:55,417 --> 00:12:57,997
+Well, seeing as she's coming
+to the Azref residence next week,
+
+99
+00:12:58,083 --> 00:13:00,543
+I'm assuming one of my team
+can take it from there.
+
+100
+00:13:00,750 --> 00:13:02,250
+Yeah, that will be fine.
+
+101
+00:13:02,792 --> 00:13:04,252
+Find someone she can't fuck.
+
+102
+00:15:47,625 --> 00:15:48,785
+Let's go.
+
+103
+00:16:05,625 --> 00:16:06,745
+You coping?
+
+104
+00:16:06,958 --> 00:16:08,288
+With what exactly?
+
+105
+00:16:09,000 --> 00:16:11,710
+Work. Being based in an office.
+
+106
+00:16:13,000 --> 00:16:14,080
+Must be hard.
+
+107
+00:16:23,208 --> 00:16:24,418
+Looks cute.
+
+108
+00:16:25,750 --> 00:16:27,630
+You still get off on dodging bullets?
+
+109
+00:16:27,917 --> 00:16:29,457
+I had shitty intel.
+
+110
+00:16:30,417 --> 00:16:34,707
+- You could do with a rest.
+- That's none of your concern.
+
+111
+00:16:53,542 --> 00:16:55,882
+So Rima Hassine was his second wife.
+
+112
+00:16:56,375 --> 00:16:58,325
+Her real mother died when Zoe was ten.
+
+113
+00:16:59,083 --> 00:17:00,083
+Suicide.
+
+114
+00:17:01,250 --> 00:17:02,250
+Great.
+
+115
+00:17:03,292 --> 00:17:05,542
+A rich kid with mommy issues.
+
+116
+00:17:27,417 --> 00:17:28,768
+- Alik.
+- Pleasure to meet you.
+
+117
+00:17:28,792 --> 00:17:31,672
+You, too.
+Sam, this is Hassine's head of security.
+
+118
+00:17:32,042 --> 00:17:33,252
+Nice to meet you.
+
+119
+00:17:33,417 --> 00:17:35,726
+I advised the family not to work
+with your company again,
+
+120
+00:17:35,750 --> 00:17:38,330
+but Madame Hassine wanted a woman.
+
+121
+00:17:38,792 --> 00:17:41,422
+Happy to be of assistance.
+
+122
+00:17:42,083 --> 00:17:45,003
+We don't have female CPOs in Morocco.
+
+123
+00:17:52,042 --> 00:17:55,212
+Mr. Sinclair and Ms. Carlson.
+
+124
+00:17:55,958 --> 00:17:57,748
+Am I supposed to know who you are?
+
+125
+00:17:58,625 --> 00:18:00,535
+Ms. Carlson is Adam's replacement.
+
+126
+00:18:02,292 --> 00:18:04,042
+Sam. Nice to meet you.
+
+127
+00:18:08,708 --> 00:18:11,668
+Take him to the kitchen.
+He needs to be fed.
+
+128
+00:18:13,375 --> 00:18:14,745
+We leave in an hour.
+
+129
+00:18:15,250 --> 00:18:16,670
+You might want to change.
+
+130
+00:18:20,250 --> 00:18:23,830
+So they... hired me
+because Adam was fucking her.
+
+131
+00:18:24,083 --> 00:18:26,563
+Look at it this way.
+They actually want a woman. It's progress.
+
+132
+00:19:31,250 --> 00:19:33,130
+Who do you think you are? My mom?
+
+133
+00:19:35,167 --> 00:19:36,247
+Of course not.
+
+134
+00:19:38,667 --> 00:19:41,667
+- I could have you fired.
+- Be my guest.
+
+135
+00:19:43,292 --> 00:19:45,382
+I don't care
+what you think about me.
+
+136
+00:19:46,375 --> 00:19:48,495
+I don't think anything about you.
+
+137
+00:19:49,583 --> 00:19:50,883
+I'll wait outside.
+
+138
+00:20:18,750 --> 00:20:23,580
+<i>Our helicopter today
+is 20 miles north. That's 1,500...</i>
+
+139
+00:20:28,375 --> 00:20:30,705
+Have you been briefed
+on the risk factors here?
+
+140
+00:20:32,458 --> 00:20:35,708
+- Many times.
+- Including kidnap for ransom?
+
+141
+00:20:35,792 --> 00:20:38,382
+Look, they pretty much lock me away here.
+
+142
+00:20:42,042 --> 00:20:43,752
+What happened to your face?
+
+143
+00:20:44,042 --> 00:20:45,042
+Sorry?
+
+144
+00:20:46,292 --> 00:20:48,212
+What happened to your face?
+
+145
+00:20:49,208 --> 00:20:50,208
+Work.
+
+146
+00:21:09,875 --> 00:21:11,375
+My inheritance.
+
+147
+00:21:13,833 --> 00:21:15,673
+You should know there's been
+a recent increase
+
+148
+00:21:15,750 --> 00:21:19,460
+in high-net worth individuals
+being targeted for kidnap and ransom.
+
+149
+00:21:20,417 --> 00:21:23,707
+You're great company.
+I'm really gonna miss you.
+
+150
+00:21:24,667 --> 00:21:27,377
+Hassine Mining has
+a very suitable replacement.
+
+151
+00:21:28,042 --> 00:21:30,172
+Someone who knows the region better.
+
+152
+00:21:43,042 --> 00:21:44,632
+You know what a "kasbah" means?
+
+153
+00:21:45,583 --> 00:21:46,583
+No.
+
+154
+00:21:47,292 --> 00:21:48,752
+Fortified house.
+
+155
+00:21:49,750 --> 00:21:52,960
+<i>Prepare to land on helipad.</i>
+
+156
+00:21:56,458 --> 00:21:57,998
+Welcome to my prison.
+
+157
+00:22:50,208 --> 00:22:51,208
+Zoe.
+
+158
+00:22:51,708 --> 00:22:52,708
+Where's Rima?
+
+159
+00:22:53,208 --> 00:22:55,708
+She'll be a few days.
+She's held up in the mines.
+
+160
+00:22:58,292 --> 00:22:59,962
+We have a car on standby for you.
+
+161
+00:23:01,292 --> 00:23:02,922
+No. She's staying for the night.
+
+162
+00:23:03,833 --> 00:23:07,043
+Her contract is over.
+She's heading to the airport.
+
+163
+00:23:07,375 --> 00:23:09,495
+Her flight isn't till tomorrow morning.
+
+164
+00:23:10,208 --> 00:23:12,288
+She still has 12 hours on the clock.
+
+165
+00:23:13,750 --> 00:23:15,210
+You've been paid for it.
+
+166
+00:23:15,917 --> 00:23:16,917
+Fine.
+
+167
+00:26:02,292 --> 00:26:03,542
+Fuck.
+
+168
+00:26:26,375 --> 00:26:28,455
+Tactical defenses active, sir.
+
+169
+00:26:28,917 --> 00:26:30,497
+Get that camera back online.
+
+170
+00:26:36,417 --> 00:26:37,537
+Can I help you?
+
+171
+00:26:37,625 --> 00:26:39,785
+Was he like that when I took a shower?
+
+172
+00:26:42,917 --> 00:26:45,077
+Abdel, take a break.
+
+173
+00:26:47,542 --> 00:26:50,252
+There aren't as many boots on the ground
+as I expected.
+
+174
+00:26:51,083 --> 00:26:53,173
+This is a top-of-the-range safe house.
+
+175
+00:26:53,875 --> 00:26:55,705
+It supersedes the need for manpower.
+
+176
+00:26:56,583 --> 00:26:57,753
+You can relax.
+
+177
+00:26:58,000 --> 00:26:59,580
+Just wanted to see your setup.
+
+178
+00:27:20,042 --> 00:27:21,502
+You like what you see?
+
+179
+00:27:22,500 --> 00:27:24,670
+My sexual preferences aren't women.
+
+180
+00:27:26,458 --> 00:27:27,458
+Good night, Zoe.
+
+181
+00:27:57,333 --> 00:28:00,383
+<i>Hi, it's... it's Beth.</i>
+
+182
+00:28:01,125 --> 00:28:04,125
+<i>Um, I'm not sure
+if this is the right number.</i>
+
+183
+00:28:04,458 --> 00:28:05,458
+<i>Um...</i>
+
+184
+00:30:27,833 --> 00:30:29,518
+Get down! Get down!
+
+185
+00:30:34,417 --> 00:30:35,537
+What's in the walls?
+
+186
+00:30:35,875 --> 00:30:36,995
+Shells.
+
+187
+00:30:37,375 --> 00:30:38,375
+What the fuck?
+
+188
+00:30:40,958 --> 00:30:43,208
+Go to Alik.
+
+189
+00:30:44,000 --> 00:30:45,630
+Get access to the control room.
+
+190
+00:30:45,875 --> 00:30:48,575
+Someone has taken over the system.
+I'll go to Zoe.
+
+191
+00:31:12,958 --> 00:31:13,958
+Open the door.
+
+192
+00:31:14,000 --> 00:31:16,330
+<i>Be advised, hostile on exterior roof.</i>
+
+193
+00:31:16,417 --> 00:31:17,417
+Copy.
+
+194
+00:31:57,125 --> 00:31:58,455
+Approaching target.
+
+195
+00:31:58,833 --> 00:32:01,553
+<i>Her door
+is encrypted. Give me two minutes.</i>
+
+196
+00:32:01,583 --> 00:32:02,583
+Copy.
+
+197
+00:32:04,708 --> 00:32:05,958
+In position.
+
+198
+00:32:08,125 --> 00:32:11,245
+Sam... Sam to Alik. Sam to Alik.
+Do you copy?
+
+199
+00:32:11,625 --> 00:32:13,285
+I need backup.
+
+200
+00:32:15,792 --> 00:32:18,212
+Zoe? Zoe, it's Sam. I'm outside.
+
+201
+00:32:19,583 --> 00:32:21,463
+Sam! Sam, what do I do?
+
+202
+00:32:21,542 --> 00:32:23,752
+There are intruders.
+If they're coming for you,
+
+203
+00:32:23,833 --> 00:32:25,923
+they have to open the shutters
+to get in to you.
+
+204
+00:32:26,125 --> 00:32:27,705
+That will be your chance.
+
+205
+00:32:27,792 --> 00:32:30,422
+I want you to get down low,
+so you can roll out to me.
+
+206
+00:32:31,292 --> 00:32:33,502
+Alik? Alik, do you copy?
+
+207
+00:32:35,167 --> 00:32:38,627
+<i>I need backup.
+I repeat, backup is needed on terrace C.</i>
+
+208
+00:32:38,708 --> 00:32:40,628
+<i>Backup is needed...</i>
+
+209
+00:32:44,667 --> 00:32:46,917
+Zoe, I need you to get ready.
+
+210
+00:32:47,208 --> 00:32:48,828
+Sam, there won't be enough time.
+
+211
+00:32:48,917 --> 00:32:52,577
+There is enough time,
+so get down low, stay low, okay?
+
+212
+00:32:52,667 --> 00:32:55,457
+As soon as the shutters open,
+you roll out to me.
+
+213
+00:33:00,500 --> 00:33:01,790
+<i>One minute.</i>
+
+214
+00:33:04,333 --> 00:33:05,333
+Sam!
+
+215
+00:33:05,417 --> 00:33:07,247
+I'm right here. I need you to stay calm.
+
+216
+00:33:23,125 --> 00:33:24,745
+Sam! Sam!
+
+217
+00:33:26,792 --> 00:33:28,542
+Mark in position. Open it up.
+
+218
+00:33:31,167 --> 00:33:34,127
+Sam, the door's opening!
+This is not opening! Sam!
+
+219
+00:33:34,208 --> 00:33:36,038
+They will open. Just stay low.
+
+220
+00:33:36,125 --> 00:33:39,035
+Okay.
+
+221
+00:33:39,792 --> 00:33:41,422
+- Push!
+- Sam!
+
+222
+00:33:44,000 --> 00:33:47,960
+- Stay low!
+- They're coming! Sam, they're coming!
+
+223
+00:33:48,625 --> 00:33:50,165
+Come on. Come on!
+
+224
+00:33:52,042 --> 00:33:53,212
+Where's the girl?
+
+225
+00:33:53,292 --> 00:33:55,042
+- Fuck!
+- This way.
+
+226
+00:34:00,208 --> 00:34:01,488
+- Come on!
+- My feet!
+
+227
+00:34:01,542 --> 00:34:03,582
+We're nearly... We're nearly there.
+
+228
+00:35:00,250 --> 00:35:02,250
+Thank God you were there.
+
+229
+00:35:29,583 --> 00:35:30,633
+No phone, please.
+
+230
+00:35:44,583 --> 00:35:45,923
+Where are you taking us?
+
+231
+00:35:47,042 --> 00:35:48,292
+Police headquarter, madam.
+
+232
+00:35:55,500 --> 00:35:56,710
+How much longer?
+
+233
+00:35:57,292 --> 00:35:58,882
+English not good. Sorry.
+
+234
+00:36:05,583 --> 00:36:08,463
+- Sam.
+- Do you understand what they're saying?
+
+235
+00:36:08,542 --> 00:36:10,752
+It's an address.
+It's not the police station.
+
+236
+00:36:11,167 --> 00:36:12,877
+And they're talking about money.
+
+237
+00:36:57,792 --> 00:36:59,042
+Sam!
+
+238
+00:37:06,667 --> 00:37:08,577
+Sam!
+
+239
+00:37:26,625 --> 00:37:28,165
+Come on! Just come on!
+
+240
+00:37:53,667 --> 00:37:55,667
+Hey.
+
+241
+00:38:11,542 --> 00:38:14,832
+No passports. We got mugged.
+
+242
+00:39:03,042 --> 00:39:04,712
+We can't stay here.
+
+243
+00:39:06,708 --> 00:39:08,038
+I can't do this!
+
+244
+00:39:11,500 --> 00:39:12,580
+You shot a cop.
+
+245
+00:39:12,958 --> 00:39:14,458
+You made yourself a fugitive.
+
+246
+00:39:14,542 --> 00:39:16,832
+He... He was gonna kill you.
+
+247
+00:39:17,250 --> 00:39:19,380
+There was a reason I didn't use my gun.
+
+248
+00:39:30,167 --> 00:39:31,417
+What is he saying?
+
+249
+00:39:36,458 --> 00:39:38,828
+What is he saying?
+Zoe, what is he saying?
+
+250
+00:39:39,417 --> 00:39:40,667
+Calm down.
+
+251
+00:39:40,750 --> 00:39:42,210
+You need to calm down.
+
+252
+00:39:42,292 --> 00:39:46,712
+I... I... I...
+
+253
+00:39:47,500 --> 00:39:50,040
+Calm down. Calm down. Look at me.
+
+254
+00:39:50,125 --> 00:39:52,125
+Shh! Shh!
+
+255
+00:39:52,583 --> 00:39:54,583
+Shh! Shh!
+
+256
+00:39:54,667 --> 00:39:57,667
+Okay? No. Look at me. Look at me.
+
+257
+00:39:57,750 --> 00:39:59,330
+Calm... Shh!
+
+258
+00:39:59,417 --> 00:40:00,457
+Look at me.
+
+259
+00:40:00,750 --> 00:40:03,380
+Good. Good. Okay. Shh!
+
+260
+00:40:03,458 --> 00:40:05,418
+You're gonna... You're going to call Rima.
+
+261
+00:40:05,500 --> 00:40:06,880
+She's gonna get you out.
+
+262
+00:40:08,208 --> 00:40:11,038
+Okay? Okay?
+
+263
+00:40:11,625 --> 00:40:13,955
+Good. Good.
+
+264
+00:40:21,167 --> 00:40:23,327
+<i>Hassine Mining heiress, Zoe Tanner,</i>
+
+265
+00:40:23,417 --> 00:40:27,077
+<i>who is set to inherit the entirety
+of her late father's shares,</i>
+
+266
+00:40:27,167 --> 00:40:31,377
+<i>is wanted for questioning over the death
+of a local policeman in Casablanca.</i>
+
+267
+00:40:31,458 --> 00:40:34,828
+<i>Hassine's stocks are already dropping
+when they were forecast to increase</i>
+
+268
+00:40:34,917 --> 00:40:37,247
+<i>in the run-up
+to the signature of the deal.</i>
+
+269
+00:40:37,333 --> 00:40:40,833
+<i>Madame Hassine will be joining us
+on our business segment tomorrow.</i>
+
+270
+00:40:40,917 --> 00:40:42,417
+Get Alik on the phone.
+
+271
+00:40:45,833 --> 00:40:46,833
+Uh...
+
+272
+00:40:48,667 --> 00:40:50,037
+He didn't make it.
+
+273
+00:40:52,667 --> 00:40:53,827
+Who's left?
+
+274
+00:40:53,917 --> 00:40:56,667
+Three or four men.
+They are not contactable.
+
+275
+00:40:56,958 --> 00:40:58,748
+We believe they may have taken bribes.
+
+276
+00:41:01,917 --> 00:41:02,917
+Hello?
+
+277
+00:41:06,667 --> 00:41:07,707
+Who is this?
+
+278
+00:41:10,208 --> 00:41:11,288
+It's me.
+
+279
+00:41:11,583 --> 00:41:14,383
+<i>I need your help.</i>
+
+280
+00:41:14,792 --> 00:41:16,832
+Zoe, this is a huge mess.
+
+281
+00:41:18,250 --> 00:41:20,630
+I'm in real trouble.
+
+282
+00:41:20,708 --> 00:41:22,628
+Did you really kill that policeman?
+
+283
+00:41:27,250 --> 00:41:29,040
+Yes.
+
+284
+00:41:30,833 --> 00:41:31,883
+Were you high?
+
+285
+00:41:32,375 --> 00:41:35,125
+No. No, of course not.
+We were attacked.
+
+286
+00:41:35,208 --> 00:41:38,288
+<i>Zoe, it's all over the news.
+Our stocks are plummeting.</i>
+
+287
+00:41:38,375 --> 00:41:40,165
+Are you serious right now?
+
+288
+00:41:40,375 --> 00:41:41,455
+Someone tried to kill me,
+
+289
+00:41:41,542 --> 00:41:43,712
+and you're worried
+about your fucking shares?
+
+290
+00:41:44,583 --> 00:41:46,583
+You know,
+if your security hadn't been so shit,
+
+291
+00:41:46,667 --> 00:41:48,287
+<i>I wouldn't be in this mess.</i>
+
+292
+00:41:48,708 --> 00:41:50,708
+Alik died trying to protect you.
+
+293
+00:41:50,792 --> 00:41:52,252
+That was his job!
+
+294
+00:41:54,625 --> 00:41:56,125
+Zoe, that's enough, please.
+
+295
+00:41:56,208 --> 00:41:58,128
+You don't even care about me!
+
+296
+00:41:58,625 --> 00:42:00,125
+You never wanted me!
+
+297
+00:42:01,333 --> 00:42:03,434
+You know, it's a good thing
+you never could have kids,
+
+298
+00:42:03,458 --> 00:42:05,668
+because I wouldn't wish you on anybody!
+
+299
+00:42:13,583 --> 00:42:14,793
+Who else is there?
+
+300
+00:42:17,875 --> 00:42:18,875
+No one.
+
+301
+00:42:24,250 --> 00:42:27,460
+Your insurance policy dictates
+you send in a team.
+
+302
+00:42:28,833 --> 00:42:30,673
+I'm taking Zoe off the policy.
+
+303
+00:42:32,333 --> 00:42:33,713
+Effective immediately.
+
+304
+00:42:51,583 --> 00:42:52,673
+You're leaving.
+
+305
+00:42:55,000 --> 00:42:57,540
+I'm going out
+to get us some supplies.
+
+306
+00:42:57,833 --> 00:42:59,333
+You won't come back.
+
+307
+00:43:07,750 --> 00:43:09,630
+I'm gonna get you out of the country.
+
+308
+00:43:10,292 --> 00:43:12,132
+You're not leaving me here?
+
+309
+00:43:12,833 --> 00:43:14,503
+Let's get one thing straight.
+
+310
+00:43:15,083 --> 00:43:17,633
+I no longer work for you
+or the Hassines.
+
+311
+00:43:17,875 --> 00:43:21,535
+So from now on,
+you do as I say. Okay?
+
+312
+00:43:26,333 --> 00:43:27,423
+Stay here.
+
+313
+00:43:31,792 --> 00:43:33,462
+And don't open for anyone.
+
+314
+00:44:37,500 --> 00:44:38,630
+<i>Good evening.</i>
+
+315
+00:44:38,708 --> 00:44:42,288
+<i>Tonight, we will be talking
+to Hassine Mining CEO Rima Hassine,</i>
+
+316
+00:44:42,375 --> 00:44:46,035
+<i>and Watt Li,
+the deputy CEO of Sikong Industries.</i>
+
+317
+00:44:46,500 --> 00:44:48,500
+<i>Bids were placed by both companies</i>
+
+318
+00:44:48,583 --> 00:44:51,923
+<i>to purchase over 6,000 hectares
+of land in Zambia,</i>
+
+319
+00:44:52,000 --> 00:44:55,210
+<i>speculated to have
+the world's largest phosphate reserves.</i>
+
+320
+00:44:55,292 --> 00:44:58,252
+<i>A dramatic fall in share prices
+at Hassine Mining</i>
+
+321
+00:44:58,333 --> 00:45:01,793
+<i>has led to speculation Sikong
+could steal the deal from under them.</i>
+
+322
+00:45:01,875 --> 00:45:04,375
+<i>The deadline for closing is tomorrow.</i>
+
+323
+00:45:05,375 --> 00:45:08,875
+<i>Madame Hassine,
+it's been a difficult few weeks for you.</i>
+
+324
+00:45:08,958 --> 00:45:11,878
+<i>Is there anything you can say
+to your shareholders</i>
+
+325
+00:45:11,958 --> 00:45:13,248
+<i>that might reassure them?</i>
+
+326
+00:45:13,500 --> 00:45:16,210
+<i>Hassine Mining is doing everything
+in its power</i>
+
+327
+00:45:16,292 --> 00:45:18,882
+<i>to cooperate
+with the ongoing police investigation.</i>
+
+328
+00:45:18,958 --> 00:45:23,418
+<i>I, personally, have had no contact
+with Zoe, with... with Miss Tanner,</i>
+
+329
+00:45:23,500 --> 00:45:27,380
+<i>and my message to her would be
+to hand herself over to the authorities</i>
+
+330
+00:45:27,458 --> 00:45:29,498
+<i>as quickly as possible.</i>
+
+331
+00:45:29,958 --> 00:45:33,498
+<i>Hassine Mining is having
+one of its strongest years yet</i>
+
+332
+00:45:33,583 --> 00:45:37,963
+<i>and is confident in completing
+the Zambian phosphate deal tomorrow.</i>
+
+333
+00:45:38,542 --> 00:45:42,922
+<i>Well, surely a governmental organization,
+such as the Izwe Estate Group,</i>
+
+334
+00:45:43,000 --> 00:45:46,330
+<i>they must have a code of ethics
+they need to abide by.</i>
+
+335
+00:45:46,417 --> 00:45:49,787
+<i>Uh, how can they justify proceeding
+with Hassine Mining</i>
+
+336
+00:45:49,875 --> 00:45:51,495
+<i>when you're under police investigation?</i>
+
+337
+00:45:51,583 --> 00:45:55,463
+<i>Zoe Tanner is not a...
+is... is not an employee of Hassine Mining.</i>
+
+338
+00:45:55,708 --> 00:45:59,078
+<i>Has she not just inherited
+a large proportion of the company?</i>
+
+339
+00:45:59,875 --> 00:46:03,575
+<i>There are stipulations in place
+that would prevent Zoe's inheritance</i>
+
+340
+00:46:03,667 --> 00:46:06,037
+<i>during a police investigation
+into manslaughter.</i>
+
+341
+00:46:06,125 --> 00:46:07,535
+<i>Look, I see no reason</i>
+
+342
+00:46:07,625 --> 00:46:10,665
+<i>why my stepdaughter's
+personal circumstances</i>
+
+343
+00:46:10,750 --> 00:46:12,580
+<i>should affect a business deal.</i>
+
+344
+00:46:12,667 --> 00:46:17,877
+<i>What is Hassine Mining's policy
+as regards to their code of ethics?</i>
+
+345
+00:46:20,708 --> 00:46:22,828
+<i>Sikong is an international business,</i>
+
+346
+00:46:22,917 --> 00:46:26,497
+<i>which adheres to strict policies
+when it comes to our ethics code.</i>
+
+347
+00:46:26,583 --> 00:46:28,503
+<i>As one of the fastest growing...</i>
+
+348
+00:46:33,292 --> 00:46:34,962
+Oh, Mr. Kabila, how are you?
+
+349
+00:46:35,042 --> 00:46:37,832
+<i>I'm afraid
+we have to postpone our meeting.</i>
+
+350
+00:46:38,875 --> 00:46:40,535
+I don't understand.
+We were...
+
+351
+00:46:40,625 --> 00:46:42,325
+We were set to sign tonight.
+
+352
+00:46:42,417 --> 00:46:44,247
+<i>Oh, it can't come as a surprise.</i>
+
+353
+00:46:44,333 --> 00:46:47,543
+<i>Zoe Tanner is set to inherit
+a large proportion of your company.</i>
+
+354
+00:46:47,625 --> 00:46:50,035
+Approval has been given
+for the drilling sites.
+
+355
+00:46:50,125 --> 00:46:52,535
+<i>She is wanted on a murder charge.</i>
+
+356
+00:46:53,250 --> 00:46:56,540
+<i>Our board are concerned
+about accepting your offer.</i>
+
+357
+00:46:58,333 --> 00:47:01,003
+Is your board
+reconsidering Sikong's offer?
+
+358
+00:47:01,083 --> 00:47:04,333
+<i>You will need to increase your bid
+if you want to remain in the deal.</i>
+
+359
+00:47:18,875 --> 00:47:21,575
+- <i>Madame Hassine.</i>
+- I've decided to proceed.
+
+360
+00:47:23,500 --> 00:47:25,960
+Report only to me on this number.
+
+361
+00:47:26,125 --> 00:47:28,375
+No one else in my organization.
+Do you understand?
+
+362
+00:47:43,792 --> 00:47:45,292
+- Is that okay?
+- Yeah.
+
+363
+00:47:50,917 --> 00:47:53,827
+So, fingers under, just hold the top.
+
+364
+00:48:38,208 --> 00:48:42,578
+Okay. Be still.
+
+365
+00:48:44,583 --> 00:48:45,883
+Do you have kids?
+
+366
+00:48:48,333 --> 00:48:49,333
+No.
+
+367
+00:48:50,458 --> 00:48:52,168
+- Ah!
+- Be still.
+
+368
+00:48:59,750 --> 00:49:01,170
+I've organized an evac.
+
+369
+00:49:02,458 --> 00:49:04,918
+My guy is sending someone to get us out.
+
+370
+00:49:05,500 --> 00:49:06,500
+How?
+
+371
+00:49:06,583 --> 00:49:08,043
+We drive to Tangiers...
+
+372
+00:49:08,792 --> 00:49:10,212
+and take the ferry to Spain.
+
+373
+00:49:10,708 --> 00:49:13,288
+Won't there be checkpoints?
+
+374
+00:49:14,833 --> 00:49:17,753
+The guy they're sending
+will bring us new passports...
+
+375
+00:49:18,167 --> 00:49:19,827
+and he'll travel with us.
+
+376
+00:49:22,667 --> 00:49:23,917
+As my husband.
+
+377
+00:49:24,792 --> 00:49:25,792
+Your father.
+
+378
+00:49:29,417 --> 00:49:30,787
+Here, put these on.
+
+379
+00:49:31,792 --> 00:49:34,002
+Don't take them off.
+You sleep in them, okay?
+
+380
+00:49:34,292 --> 00:49:36,422
+You have the worst taste in shoes.
+
+381
+00:50:43,250 --> 00:50:44,500
+That's enough.
+
+382
+00:51:08,833 --> 00:51:10,173
+Where are we?
+
+383
+00:51:11,292 --> 00:51:13,502
+We think they're somewhere
+in Mellah district.
+
+384
+00:51:13,583 --> 00:51:15,503
+How many men have you got on this job?
+
+385
+00:51:16,583 --> 00:51:19,383
+Madame Hassine...
+I have this under control.
+
+386
+00:51:20,167 --> 00:51:21,957
+I hope so.
+
+387
+00:51:25,125 --> 00:51:27,406
+He's here.
+
+388
+00:51:30,417 --> 00:51:31,417
+Turn it off.
+
+389
+00:51:42,542 --> 00:51:44,422
+What the fuck?
+
+390
+00:51:45,083 --> 00:51:46,083
+Hey.
+
+391
+00:51:51,333 --> 00:51:52,923
+Hey.
+
+392
+00:51:54,042 --> 00:51:55,752
+This is a bad idea.
+
+393
+00:51:56,333 --> 00:51:58,133
+You're not reliable in the field.
+
+394
+00:52:00,792 --> 00:52:01,962
+Let's speak outside.
+
+395
+00:52:02,583 --> 00:52:03,583
+Sure.
+
+396
+00:52:17,292 --> 00:52:19,712
+There you go. Two passports.
+
+397
+00:52:23,250 --> 00:52:24,250
+How are you?
+
+398
+00:52:25,458 --> 00:52:29,168
+I mean,
+this is a fucking shitshow.
+
+399
+00:52:46,417 --> 00:52:48,037
+Mm...
+
+400
+00:52:48,792 --> 00:52:50,462
+You shouldn't have come here.
+
+401
+00:52:52,708 --> 00:52:55,418
+Because I'm unreliable?
+
+402
+00:52:55,958 --> 00:52:57,748
+- That what you really think?
+- Yeah.
+
+403
+00:53:00,375 --> 00:53:01,915
+What about you, Sam?
+
+404
+00:53:03,333 --> 00:53:05,633
+Job's over, contract's done.
+What're you still doing here?
+
+405
+00:53:07,250 --> 00:53:08,420
+She has no one.
+
+406
+00:53:11,042 --> 00:53:13,712
+Let's talk about
+what's really going on here.
+
+407
+00:53:14,667 --> 00:53:16,207
+I know about your kid...
+
+408
+00:53:17,583 --> 00:53:20,043
+and staying here isn't going to fix it
+in some weird way.
+
+409
+00:53:21,000 --> 00:53:23,170
+Fuck you.
+
+410
+00:53:24,250 --> 00:53:25,330
+Fuck you.
+
+411
+00:54:24,625 --> 00:54:25,995
+Do you have any jewelry on?
+
+412
+00:54:26,958 --> 00:54:27,958
+No.
+
+413
+00:54:29,042 --> 00:54:30,252
+Put your scarf on.
+
+414
+00:54:44,250 --> 00:54:45,500
+Hey.
+
+415
+00:54:53,792 --> 00:54:56,502
+Sam!
+
+416
+00:54:56,583 --> 00:54:57,883
+- Sam, get me...
+- Shut up!
+
+417
+00:54:57,958 --> 00:54:59,958
+- They're gonna take you.
+- What do I do?
+
+418
+00:55:00,042 --> 00:55:01,752
+- No!
+- You have to fight back.
+
+419
+00:55:02,583 --> 00:55:04,963
+- Sam!
+- Zoe, you have to fight them.
+
+420
+00:55:05,042 --> 00:55:06,518
+- Sam.
+- You have to fight back.
+
+421
+00:55:06,542 --> 00:55:08,582
+Don't let them take you into a car
+or a building.
+
+422
+00:55:08,667 --> 00:55:10,427
+That's your chance.
+You have to fight back...
+
+423
+00:55:10,458 --> 00:55:12,078
+Fuck the shut up!
+
+424
+00:55:19,875 --> 00:55:20,955
+Happy families.
+
+425
+00:55:21,708 --> 00:55:23,998
+- Sam.
+- Hey. Fight back.
+
+426
+00:55:24,208 --> 00:55:25,828
+Fight back.
+
+427
+00:55:27,250 --> 00:55:28,250
+Sam!
+
+428
+00:55:30,333 --> 00:55:32,293
+No, no, no! Sam!
+
+429
+00:55:32,375 --> 00:55:34,995
+Fight back, Zoe! Fight back...
+
+430
+00:55:36,667 --> 00:55:40,037
+Sam! Let me go! Help!
+
+431
+00:55:40,542 --> 00:55:41,922
+Shut up!
+
+432
+00:55:50,667 --> 00:55:53,268
+<i>Hassine Mining's $3 billion deal</i>
+
+433
+00:55:53,292 --> 00:55:56,582
+<i>to secure 6,000 hectares
+of phosphate reserves in Zambia</i>
+
+434
+00:55:56,667 --> 00:55:58,997
+<i>might still be going ahead
+at the end of the week.</i>
+
+435
+00:55:59,083 --> 00:56:00,543
+Rima Hassine.
+
+436
+00:57:10,125 --> 00:57:12,245
+Ow!
+
+437
+00:57:56,542 --> 00:57:59,292
+No, no, no, no, no! Stop! Stop!
+No! Let me go!
+
+438
+00:58:00,083 --> 00:58:01,713
+No! Stop!
+
+439
+00:58:02,958 --> 00:58:04,878
+No! Let me go!
+
+440
+00:58:04,958 --> 00:58:06,168
+Stop! Stop!
+
+441
+00:58:06,958 --> 00:58:08,498
+Stop! No!
+
+442
+00:58:10,167 --> 00:58:12,627
+No! No! Let me go! Let me go!
+
+443
+00:58:13,458 --> 00:58:14,458
+No!
+
+444
+00:58:38,083 --> 00:58:40,583
+Get off!
+
+445
+00:59:18,458 --> 00:59:23,168
+It's okay. It's okay. It's okay.
+
+446
+00:59:23,375 --> 00:59:25,535
+It's okay.
+
+447
+00:59:31,917 --> 00:59:33,577
+Okay? Okay?
+
+448
+00:59:33,750 --> 00:59:35,880
+Zoe, look at me. It's okay, yeah?
+
+449
+00:59:36,583 --> 00:59:37,923
+Put your head scarf on.
+
+450
+00:59:42,375 --> 00:59:46,375
+What's in the bag?
+
+451
+00:59:46,458 --> 00:59:48,298
+- Tell me what's in the bag.
+- There's...
+
+452
+00:59:49,500 --> 00:59:51,460
+- two phones, and there's...
+- Yeah?
+
+453
+00:59:51,542 --> 00:59:53,002
+- There's cash and a gun.
+- Yeah?
+
+454
+00:59:59,375 --> 01:00:00,495
+Okay, come on.
+
+455
+01:00:30,292 --> 01:00:31,832
+How much to buy your taxi?
+
+456
+01:00:37,667 --> 01:00:40,417
+He says it's not for sale.
+It's how he makes his living.
+
+457
+01:00:41,625 --> 01:00:43,785
+Tell him he can get a better one.
+A new one.
+
+458
+01:00:52,500 --> 01:00:53,920
+Get us out of the city.
+
+459
+01:01:06,708 --> 01:01:08,878
+Never before
+have I seen such incompetence.
+
+460
+01:01:10,083 --> 01:01:11,963
+This is a disgrace.
+
+461
+01:01:14,375 --> 01:01:20,745
+Yes, okay, my cell only.
+
+462
+01:03:24,292 --> 01:03:25,542
+I'm sorry...
+
+463
+01:03:27,292 --> 01:03:28,332
+about your friend.
+
+464
+01:03:38,208 --> 01:03:39,788
+Are we driving to the ferry?
+
+465
+01:03:41,208 --> 01:03:42,208
+No.
+
+466
+01:03:42,875 --> 01:03:44,125
+No passports.
+
+467
+01:03:44,750 --> 01:03:46,000
+No cover.
+
+468
+01:03:52,375 --> 01:03:53,955
+So what're we gonna do, then?
+
+469
+01:03:54,292 --> 01:03:55,382
+I don't know.
+
+470
+01:03:55,917 --> 01:03:57,577
+I'm... I'm trying to think.
+
+471
+01:03:58,000 --> 01:04:00,960
+What do you mean, you don't know?
+Isn't this your job?
+
+472
+01:04:01,167 --> 01:04:02,167
+I...
+
+473
+01:04:18,208 --> 01:04:19,578
+Can you take me to Rima?
+
+474
+01:04:22,375 --> 01:04:23,375
+Yeah.
+
+475
+01:04:38,958 --> 01:04:39,958
+Sir.
+
+476
+01:04:43,500 --> 01:04:44,710
+Excuse me, sir!
+
+477
+01:04:46,125 --> 01:04:47,285
+Excuse me.
+
+478
+01:05:49,000 --> 01:05:50,380
+That's the entrance.
+
+479
+01:05:51,625 --> 01:05:55,245
+- Do you think I'll get past security?
+- Yeah. I think you'll be fine.
+
+480
+01:05:56,625 --> 01:05:57,665
+That's Rima.
+
+481
+01:06:00,708 --> 01:06:01,918
+Oh, my God.
+
+482
+01:06:02,833 --> 01:06:06,423
+- That's the man from the hotel.
+- Yeah. Fuck.
+
+483
+01:06:07,750 --> 01:06:09,460
+She must really hate me.
+
+484
+01:06:11,542 --> 01:06:12,832
+We don't know that.
+
+485
+01:06:17,542 --> 01:06:19,832
+- Sam, let's go.
+- Stay down. Stay down.
+
+486
+01:06:19,917 --> 01:06:21,827
+We need to follow him.
+
+487
+01:06:21,917 --> 01:06:24,037
+This is our chance
+to find out what's going on.
+
+488
+01:06:57,250 --> 01:06:58,580
+Get what you need?
+
+489
+01:06:59,000 --> 01:07:00,000
+No.
+
+490
+01:07:00,333 --> 01:07:01,963
+What about the cash?
+
+491
+01:07:02,042 --> 01:07:03,792
+Client pays when the job's done.
+
+492
+01:07:05,583 --> 01:07:08,293
+It's not my problem. You hired me.
+
+493
+01:07:08,583 --> 01:07:09,793
+You didn't deliver.
+
+494
+01:07:11,125 --> 01:07:13,245
+I paid out a lot of money on this job.
+
+495
+01:07:13,333 --> 01:07:14,793
+I fronted your expenses.
+
+496
+01:07:15,917 --> 01:07:19,787
+When one of my men gets killed,
+I pay out to their family.
+
+497
+01:07:25,167 --> 01:07:28,627
+That's $10,000.
+You want the rest, you finish the job.
+
+498
+01:07:37,333 --> 01:07:39,503
+I heard about what happened downtown.
+
+499
+01:07:40,917 --> 01:07:42,247
+You should have called.
+
+500
+01:07:42,667 --> 01:07:45,457
+- I don't like working with you.
+- Then why are you here?
+
+501
+01:07:45,750 --> 01:07:47,790
+The girl and her minder saw my face.
+
+502
+01:07:48,583 --> 01:07:50,833
+If I'm identified, the client will spook.
+
+503
+01:07:52,083 --> 01:07:53,753
+There'll be no more money.
+
+504
+01:07:54,125 --> 01:07:55,375
+As I said...
+
+505
+01:07:56,167 --> 01:07:57,667
+not my problem.
+
+506
+01:07:57,750 --> 01:08:00,880
+It will be if I'm dead
+or in a police cell.
+
+507
+01:08:07,583 --> 01:08:08,833
+Where's the fat one?
+
+508
+01:08:09,167 --> 01:08:10,497
+He's running late.
+
+509
+01:08:12,083 --> 01:08:13,883
+You want me to kill the bodyguard?
+
+510
+01:08:15,375 --> 01:08:16,375
+If you can.
+
+511
+01:08:20,833 --> 01:08:23,753
+8521... That's his car.
+
+512
+01:08:31,125 --> 01:08:32,705
+This is the last of the cash.
+
+513
+01:08:35,750 --> 01:08:37,710
+If I'm not back in 20 minutes, you drive.
+
+514
+01:08:37,792 --> 01:08:40,832
+- What do you mean, if you're not back?
+- There's no time for this.
+
+515
+01:08:41,125 --> 01:08:42,125
+Please...
+
+516
+01:11:50,458 --> 01:11:51,538
+Move!
+
+517
+01:12:09,375 --> 01:12:10,415
+He's a cop.
+
+518
+01:12:10,917 --> 01:12:12,667
+Yeah. Yeah.
+
+519
+01:12:13,000 --> 01:12:14,000
+He was.
+
+520
+01:12:16,125 --> 01:12:18,245
+What's that?
+
+521
+01:12:20,042 --> 01:12:22,542
+It's Rima's username
+and password.
+
+522
+01:12:28,000 --> 01:12:29,580
+If Rima's behind this...
+
+523
+01:12:31,167 --> 01:12:32,917
+you won't be safe anywhere.
+
+524
+01:12:34,958 --> 01:12:36,458
+So this will never end.
+
+525
+01:12:37,333 --> 01:12:40,543
+We have to know if Rima is responsible.
+
+526
+01:12:41,875 --> 01:12:43,075
+And if she is?
+
+527
+01:12:43,875 --> 01:12:44,915
+We get proof...
+
+528
+01:12:46,250 --> 01:12:47,710
+we threaten to expose her...
+
+529
+01:12:49,917 --> 01:12:51,077
+and we negotiate.
+
+530
+01:12:55,042 --> 01:12:56,042
+Fuck!
+
+531
+01:12:56,667 --> 01:12:58,457
+I can get into her phone.
+
+532
+01:12:59,167 --> 01:13:00,167
+How?
+
+533
+01:13:00,667 --> 01:13:02,917
+It's linked to the control room
+at the kasbah.
+
+534
+01:13:03,208 --> 01:13:05,288
+Okay.
+
+535
+01:13:05,792 --> 01:13:07,382
+This password gets me in.
+
+536
+01:13:08,083 --> 01:13:10,383
+That's good. That's good.
+
+537
+01:13:13,750 --> 01:13:15,500
+<i>Mr. Kabila just confirmed</i>
+
+538
+01:13:15,583 --> 01:13:17,833
+<i>the Izwe Estate Group
+are remaining sympathetic.</i>
+
+539
+01:13:17,917 --> 01:13:19,747
+I'm heading into their offices now.
+
+540
+01:13:20,667 --> 01:13:24,127
+<i>Present the higher offer
+and we will be able to cut out Sikong</i>
+
+541
+01:13:24,208 --> 01:13:25,458
+<i>and close the deal today.</i>
+
+542
+01:13:25,542 --> 01:13:28,922
+I'm certain Sikong don't have the pockets
+to match our higher bid.
+
+543
+01:13:29,000 --> 01:13:31,420
+<i>Agreed. Good luck.</i>
+
+544
+01:14:01,167 --> 01:14:02,417
+What are you doing here?
+
+545
+01:14:09,875 --> 01:14:12,165
+This is ridiculous.
+
+546
+01:14:13,542 --> 01:14:16,332
+I think it would be in your best interest
+to let this one go.
+
+547
+01:14:19,875 --> 01:14:21,245
+You need to drop this deal.
+
+548
+01:14:24,292 --> 01:14:28,132
+This company is all I have left
+of my husband.
+
+549
+01:14:30,500 --> 01:14:34,080
+And if you think
+I'm going to let you destroy it,
+
+550
+01:14:34,500 --> 01:14:36,540
+you are deeply mistaken.
+
+551
+01:14:38,000 --> 01:14:41,000
+You're making a massive mistake.
+
+552
+01:14:41,083 --> 01:14:42,583
+No. We are the bigger company.
+
+553
+01:14:43,667 --> 01:14:45,957
+You can't match our deal. It's over.
+
+554
+01:14:50,875 --> 01:14:52,495
+Good luck finding your daughter.
+
+555
+01:14:53,917 --> 01:14:56,707
+It would be a pity
+if anything bad should happen to her.
+
+556
+01:15:00,083 --> 01:15:02,003
+Sikong wishes her well, of course.
+
+557
+01:15:27,458 --> 01:15:28,828
+It looks deserted.
+
+558
+01:15:29,250 --> 01:15:30,630
+Yeah. Let's do this.
+
+559
+01:16:25,417 --> 01:16:26,497
+Zoe?
+
+560
+01:16:27,083 --> 01:16:29,133
+Zoe?
+
+561
+01:16:32,917 --> 01:16:33,917
+You here?
+
+562
+01:16:35,875 --> 01:16:36,875
+Hey.
+
+563
+01:16:44,792 --> 01:16:46,002
+You lied to me.
+
+564
+01:16:47,458 --> 01:16:48,458
+What?
+
+565
+01:16:49,250 --> 01:16:51,040
+You said you didn't have a kid.
+
+566
+01:16:52,083 --> 01:16:53,423
+You have a kid.
+
+567
+01:16:56,917 --> 01:16:58,877
+My personal life is none of your business.
+
+568
+01:16:58,958 --> 01:17:00,878
+- Why do you do that?
+- Do what?
+
+569
+01:17:01,500 --> 01:17:03,380
+You shut people out.
+
+570
+01:17:08,667 --> 01:17:10,747
+I've never been able to trust anyone.
+
+571
+01:17:13,458 --> 01:17:15,958
+- I thought you were different.
+- Are you kidding me?
+
+572
+01:17:17,083 --> 01:17:19,213
+I lost everything for you.
+
+573
+01:17:20,042 --> 01:17:23,042
+- I killed a fucking cop.
+- That was your choice, Sam.
+
+574
+01:17:30,458 --> 01:17:32,418
+I got pregnant when I was 16.
+
+575
+01:17:34,625 --> 01:17:36,745
+I didn't have a choice.
+I couldn't take care of her.
+
+576
+01:17:36,833 --> 01:17:38,293
+I had to send her away.
+
+577
+01:17:39,333 --> 01:17:40,883
+I was just a kid myself.
+
+578
+01:17:41,292 --> 01:17:43,462
+Well, I was just a kid
+when my mom left me.
+
+579
+01:17:43,708 --> 01:17:45,578
+Yeah, I know. It's in your file.
+
+580
+01:17:46,000 --> 01:17:48,080
+She committed suicide
+when you were eight.
+
+581
+01:17:52,917 --> 01:17:54,747
+Friends are supposed to trust each other.
+
+582
+01:17:55,125 --> 01:17:56,375
+I'm not your friend.
+
+583
+01:17:58,583 --> 01:17:59,583
+Right.
+
+584
+01:18:00,917 --> 01:18:01,957
+Good to know.
+
+585
+01:18:41,458 --> 01:18:42,628
+Damn it.
+
+586
+01:18:42,875 --> 01:18:44,535
+Is there anything I can do?
+
+587
+01:18:45,125 --> 01:18:46,125
+No.
+
+588
+01:19:12,292 --> 01:19:13,882
+I do care about you, Zoe.
+
+589
+01:19:23,333 --> 01:19:24,753
+Do you regret giving her up?
+
+590
+01:19:29,167 --> 01:19:30,167
+She, um...
+
+591
+01:19:32,125 --> 01:19:34,875
+She found me.
+She... she calls me sometimes.
+
+592
+01:19:35,875 --> 01:19:37,285
+But you never answer.
+
+593
+01:19:38,583 --> 01:19:42,383
+Hmm. I'm...
+I'm waiting for the... the right time.
+
+594
+01:19:59,917 --> 01:20:01,207
+It's my birthday.
+
+595
+01:20:01,708 --> 01:20:02,708
+You're in?
+
+596
+01:20:04,083 --> 01:20:05,083
+- Yeah.
+- Yeah?
+
+597
+01:20:05,333 --> 01:20:06,383
+Okay.
+
+598
+01:20:12,292 --> 01:20:15,632
+We have decided to overlook
+the ongoing investigation.
+
+599
+01:20:15,708 --> 01:20:18,628
+The board agrees with me
+that yourself
+
+600
+01:20:18,708 --> 01:20:23,458
+and Hassine Mining's prior public record
+is exemplary.
+
+601
+01:20:24,042 --> 01:20:28,712
+We understand that Zoe Tanner
+will be treated, uh, accordingly.
+
+602
+01:20:29,958 --> 01:20:33,038
+I was able to persuade
+all parties to sign today,
+
+603
+01:20:33,125 --> 01:20:35,125
+if your offer is significantly...
+
+604
+01:20:36,833 --> 01:20:39,193
+I have the paperwork with me today...
+
+605
+01:20:45,417 --> 01:20:50,497
+Madame Hassine?
+Madame Hassine, what is your offer?
+
+606
+01:20:51,917 --> 01:20:54,377
+I'm so sorry.
+I... I can't proceed with this.
+
+607
+01:20:54,500 --> 01:20:55,670
+Excuse me.
+
+608
+01:21:00,333 --> 01:21:02,793
+Oh, fuck.
+
+609
+01:21:03,583 --> 01:21:05,083
+They know where we are.
+
+610
+01:21:05,542 --> 01:21:07,502
+She must have seen us on the cameras.
+
+611
+01:21:12,375 --> 01:21:15,035
+- What're you doing?
+- Locking us in. We'll be safe in here.
+
+612
+01:21:15,750 --> 01:21:17,500
+Fuck.
+
+613
+01:21:26,792 --> 01:21:28,476
+<i>This is Detective Zuberi.</i>
+
+614
+01:21:28,500 --> 01:21:32,380
+<i>Calling unit 367 to Kasbah residence.
+Hassine family.</i>
+
+615
+01:21:36,083 --> 01:21:37,253
+Get rid of her.
+
+616
+01:21:45,333 --> 01:21:46,673
+A car's coming up.
+
+617
+01:21:47,750 --> 01:21:49,460
+Can't you get the cameras back on?
+
+618
+01:21:49,625 --> 01:21:50,745
+Uh...
+
+619
+01:21:50,833 --> 01:21:51,833
+Yeah.
+
+620
+01:22:06,500 --> 01:22:07,540
+Where is Rima?
+
+621
+01:22:10,083 --> 01:22:12,963
+People like her don't do
+their own shitty work, Zoe.
+
+622
+01:22:14,542 --> 01:22:15,542
+Of course not.
+
+623
+01:22:25,708 --> 01:22:26,708
+Look.
+
+624
+01:22:27,250 --> 01:22:29,710
+And who the fuck are these guys?
+
+625
+01:22:34,667 --> 01:22:36,957
+Is there a camera out in this hallway?
+
+626
+01:22:37,042 --> 01:22:38,462
+Yeah, but they don't all work.
+
+627
+01:22:39,083 --> 01:22:41,213
+- Can you get it back on?
+- Yeah, I'm trying.
+
+628
+01:22:41,292 --> 01:22:43,382
+Okay. Take it easy. You can do it. Okay?
+
+629
+01:22:43,667 --> 01:22:45,077
+- Okay.
+- Okay.
+
+630
+01:22:46,583 --> 01:22:47,983
+I got it.
+
+631
+01:22:48,542 --> 01:22:49,542
+He's there.
+
+632
+01:22:50,917 --> 01:22:52,577
+Where's the other guy?
+
+633
+01:23:06,750 --> 01:23:09,170
+You are way out of your jurisdiction.
+
+634
+01:23:09,250 --> 01:23:11,330
+I'm under orders
+to search this property.
+
+635
+01:23:11,750 --> 01:23:12,750
+Who from?
+
+636
+01:23:16,083 --> 01:23:18,333
+I am not permitted
+to let anyone onto this property.
+
+637
+01:23:18,958 --> 01:23:20,578
+If you have a warrant,
+I need to see it,
+
+638
+01:23:20,667 --> 01:23:22,957
+or speak with your commander
+in Casablanca.
+
+639
+01:23:40,500 --> 01:23:41,630
+Copy that.
+
+640
+01:23:51,917 --> 01:23:55,207
+Fuck me. She's here.
+
+641
+01:24:18,750 --> 01:24:21,250
+Zoe... are you in there?
+
+642
+01:24:24,958 --> 01:24:27,328
+Zoe.
+
+643
+01:24:27,833 --> 01:24:29,633
+<i>Zoe, I have to talk to you.</i>
+
+644
+01:24:31,375 --> 01:24:34,035
+<i>Somebody's blackmailing me.
+Open the door.</i>
+
+645
+01:24:36,458 --> 01:24:38,078
+You left me here to die.
+
+646
+01:24:38,833 --> 01:24:40,633
+No. No!
+
+647
+01:24:40,917 --> 01:24:43,437
+<i>Is that
+why you called him here? You bitch.</i>
+
+648
+01:24:43,500 --> 01:24:46,170
+Madame Hassine, don't be alarmed.
+
+649
+01:24:47,458 --> 01:24:48,578
+Who are you?
+
+650
+01:24:49,625 --> 01:24:50,825
+What the fuck?
+
+651
+01:24:54,917 --> 01:24:57,077
+You're working for Sikong, aren't you?
+
+652
+01:24:59,917 --> 01:25:01,077
+What's going on?
+
+653
+01:25:09,458 --> 01:25:11,288
+Don't move.
+
+654
+01:25:21,917 --> 01:25:23,497
+What the fuck is going on?
+
+655
+01:25:23,875 --> 01:25:25,495
+This is not her people, is it?
+
+656
+01:25:25,792 --> 01:25:28,582
+- Obviously not.
+- She was telling the truth.
+
+657
+01:25:28,667 --> 01:25:30,997
+- This is my fault.
+- No, it's not your fault, Zoe.
+
+658
+01:25:34,708 --> 01:25:36,828
+Zoe! Zoe!
+
+659
+01:25:44,542 --> 01:25:45,542
+Fuck.
+
+660
+01:26:04,833 --> 01:26:06,583
+Come on, shoot. Shoot.
+
+661
+01:26:15,958 --> 01:26:18,538
+Can you stand?
+Rima, you need to stand up.
+
+662
+01:26:18,625 --> 01:26:20,325
+We need to get some help. Come on.
+
+663
+01:26:21,042 --> 01:26:22,252
+What'd she do?
+
+664
+01:26:26,500 --> 01:26:28,670
+What did you do? What was it?
+
+665
+01:26:33,750 --> 01:26:35,670
+What did she do?
+
+666
+01:26:38,375 --> 01:26:39,375
+Oh, no.
+
+667
+01:26:39,875 --> 01:26:41,665
+No, no, no, no, no, no, no...
+
+668
+01:26:42,708 --> 01:26:44,828
+Okay. Okay. Okay. Okay.
+
+669
+01:26:45,500 --> 01:26:47,920
+The gun. Give me the gun!
+
+670
+01:26:52,333 --> 01:26:54,963
+Shit. Okay. Okay. Calm down.
+
+671
+01:26:58,958 --> 01:27:00,418
+Oh, for fuck's sake.
+
+672
+01:27:08,792 --> 01:27:11,002
+It's her birthday, it's in the file.
+It's...
+
+673
+01:27:13,083 --> 01:27:14,333
+It's her birthday.
+
+674
+01:27:19,458 --> 01:27:21,458
+No!
+
+675
+01:27:22,292 --> 01:27:23,962
+No! Go! Rima, go...
+
+676
+01:27:25,292 --> 01:27:26,922
+Please! Please!
+
+677
+01:27:44,292 --> 01:27:46,002
+Sam, are you okay?
+
+678
+01:27:46,083 --> 01:27:47,673
+Yeah, I'm okay.
+
+679
+01:27:51,875 --> 01:27:53,205
+We need to get out.
+
+680
+01:27:54,208 --> 01:27:57,498
+Rima! Rima,
+we need to get outside! Come on!
+
+681
+01:28:23,000 --> 01:28:25,790
+It's Zuberi. I hired him.
+You can trust him.
+
+682
+01:28:37,542 --> 01:28:38,542
+Sam.
+
+683
+01:29:01,750 --> 01:29:02,880
+Call her.
+
+684
+01:29:03,083 --> 01:29:04,133
+Your daughter.
+
+685
+01:29:05,792 --> 01:29:07,332
+Okay? Promise me.
+
+686
+01:29:10,208 --> 01:29:11,288
+I promise.
+
+687
+01:29:17,000 --> 01:29:18,000
+You gotta go.
+
+688
+01:29:19,958 --> 01:29:20,958
+Yeah.

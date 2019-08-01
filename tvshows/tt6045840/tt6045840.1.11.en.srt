@@ -1,0 +1,2490 @@
+﻿1
+00:00:00,001 --> 00:00:01,765
+[JEFFERSON] <i>Previously on</i> Black Lightning...
+
+2
+00:00:01,768 --> 00:00:03,460
+Thirty years ago, I came to Freeland
+
+3
+00:00:03,463 --> 00:00:06,331
+as an agent for a government
+organization called the ASA.
+
+4
+00:00:06,334 --> 00:00:08,992
+<i>I helped them find young
+people with abilities.</i>
+
+5
+00:00:08,995 --> 00:00:12,507
+<i>But when I realized that the ASA's
+vaccine was killing children,</i>
+
+6
+00:00:12,510 --> 00:00:14,687
+I leaked the information to your father,
+
+7
+00:00:14,690 --> 00:00:16,724
+<i>and his investigation got him killed.</i>
+
+8
+00:00:16,727 --> 00:00:18,414
+<i>And they're doing it again.</i>
+
+9
+00:00:18,417 --> 00:00:21,063
+[TWO-BITS] <i>I saw one of your
+students get snatched last night.</i>
+
+10
+00:00:21,066 --> 00:00:22,687
+<i>Two men wearing black</i>
+
+11
+00:00:22,690 --> 00:00:25,057
+<i>jumped out of this van
+and they grabbed her.</i>
+
+12
+00:00:25,060 --> 00:00:26,734
+What's up?
+
+13
+00:00:28,041 --> 00:00:31,643
+The head of the thу ASA for this
+area, is looking for you.
+
+14
+00:00:31,645 --> 00:00:33,745
+If you use your powers,
+or you go out in the suit,
+
+15
+00:00:33,747 --> 00:00:36,381
+<i>he will find you, and
+they will kill you.</i>
+
+16
+00:00:36,383 --> 00:00:40,606
+The guys we're going after,
+they are beyond the law.
+
+17
+00:00:40,609 --> 00:00:44,890
+<i>When we take down their lab,
+it's like declaring war.</i>
+
+18
+00:00:44,892 --> 00:00:48,193
+- [PROCTOR] Jefferson Pierce is Black Lightning.
+- What?
+
+19
+00:00:48,195 --> 00:00:50,757
+[PROCTOR] <i>He's been hiding
+in plain sight all this time.</i>
+
+20
+00:00:50,760 --> 00:00:52,660
+Right under your nose.
+
+21
+00:00:52,663 --> 00:00:54,666
+Do you think you can take him down?
+
+22
+00:00:55,302 --> 00:00:56,968
+Yes.
+
+23
+00:01:09,416 --> 00:01:11,734
+Are they all stable after the move?
+
+24
+00:01:11,737 --> 00:01:13,984
+One of the older ones
+is showing abnormalities.
+
+25
+00:01:15,194 --> 00:01:17,788
+Internal temperature fluctuations
+are affecting vital signs.
+
+26
+00:01:17,791 --> 00:01:19,624
+How are you going to fix it?
+
+27
+00:01:19,626 --> 00:01:22,587
+I think it's a result of
+moving on back-to-back days.
+
+28
+00:01:22,590 --> 00:01:24,457
+But now that we're powered
+up in this location,
+
+29
+00:01:24,460 --> 00:01:28,166
+a consistent pod temperature should
+return the subject to a stable reading.
+
+30
+00:01:51,792 --> 00:01:54,059
+- Which way?
+- [GAMBI] <i>Go left.</i>
+
+31
+00:02:02,069 --> 00:02:05,770
+[KARA] I want the pods
+monitored 24 hours a day.
+
+32
+00:02:06,890 --> 00:02:08,403
+I'm already under my quota.
+
+33
+00:02:08,406 --> 00:02:11,710
+Lose one more, and I'll need
+to acquire more subjects.
+
+34
+00:02:11,712 --> 00:02:12,877
+Yes, ma'am.
+
+35
+00:02:19,812 --> 00:02:21,453
+[BLACK LIGHTNING] I can't see through it.
+
+36
+00:02:21,455 --> 00:02:24,155
+Or maybe there's still a
+problem with the electric vision.
+
+37
+00:02:24,157 --> 00:02:25,390
+[GAMBI] <i>The door's shielded.</i>
+
+38
+00:02:25,393 --> 00:02:28,036
+<i>But I know what I saw on the feed
+from that nuke tracker satellite.</i>
+
+39
+00:02:28,039 --> 00:02:31,062
+An abnormal energy field
+definitely moved in there yesterday.
+
+40
+00:02:31,064 --> 00:02:32,631
+Dad, I got this.
+
+41
+00:02:44,244 --> 00:02:45,310
+Kids aren't here.
+
+42
+00:02:45,312 --> 00:02:48,546
+Whoa! This is a whole
+lot of those pulse things.
+
+43
+00:02:48,548 --> 00:02:49,748
+Launchers.
+
+44
+00:02:49,751 --> 00:02:52,317
+That's a lot of weapons
+that can take you out.
+
+45
+00:02:52,319 --> 00:02:54,686
+<i>It must be what caused
+the abnormal energy hit.</i>
+
+46
+00:02:54,688 --> 00:02:57,922
+Jeff, if they're stockpiling
+anti-Black Lightning weapons...
+
+47
+00:02:57,924 --> 00:03:00,291
+Doesn't matter. Where's the next spot?
+
+48
+00:03:01,171 --> 00:03:03,528
+- I don't have one.
+- Why? Use the satellite.
+
+49
+00:03:03,530 --> 00:03:05,597
+<i>The ASA knows about the satellite, too.</i>
+
+50
+00:03:05,599 --> 00:03:06,731
+They must have found a way
+
+51
+00:03:06,733 --> 00:03:08,984
+to cloak the pods' energy in transit.
+
+52
+00:03:08,987 --> 00:03:11,802
+I have an idea, but it'll
+take me a day to set it up.
+
+53
+00:03:11,805 --> 00:03:13,538
+<i>Come on back.</i>
+
+54
+00:03:15,748 --> 00:03:17,048
+Not yet.
+
+55
+00:03:22,983 --> 00:03:28,353
+- <font color="#D81D1D">Synced and corrected by VitoSilans</font> -
+-- <font color="#138CE9">www.Addic7ed.com</font> --
+
+56
+00:03:29,336 --> 00:03:30,769
+[CELL PHONE VIBRATING]
+
+57
+00:03:32,592 --> 00:03:34,292
+Yes, I'm just leaving.
+
+58
+00:03:35,195 --> 00:03:36,920
+Most of them are stable.
+
+59
+00:03:36,923 --> 00:03:39,014
+We're in danger of losing one of them.
+
+60
+00:03:39,900 --> 00:03:41,299
+- [ALARM BEEPS]
+- [CAR UNLOCKS]
+
+61
+00:03:44,514 --> 00:03:46,871
+An armory was blown up?
+
+62
+00:03:46,873 --> 00:03:49,378
+No, I hadn't heard about that.
+
+63
+00:03:49,381 --> 00:03:51,810
+They're clearly looking for the pods.
+
+64
+00:03:52,975 --> 00:03:56,073
+I understand the orders, but, sir,
+
+65
+00:03:56,076 --> 00:03:58,116
+I've known Jefferson Pierce for years,
+
+66
+00:03:58,118 --> 00:04:01,453
+there is absolutely no
+way he's Black Lightning...
+
+67
+00:04:05,859 --> 00:04:07,559
+I understand.
+
+68
+00:04:09,262 --> 00:04:11,496
+Yes, sir. I'll take care of it.
+
+69
+00:04:19,740 --> 00:04:21,995
+I'm sorry that didn't pan
+out. I really thought...
+
+70
+00:04:21,998 --> 00:04:23,374
+Yeah, I know.
+
+71
+00:04:25,178 --> 00:04:28,480
+Look, even if they cloak the
+pods' energy, I can still find it.
+
+72
+00:04:28,482 --> 00:04:31,082
+I'll ping everything in the
+city with a radio signal,
+
+73
+00:04:31,084 --> 00:04:32,817
+and the energy signature from the pods
+
+74
+00:04:32,819 --> 00:04:34,886
+will light up when the
+radio pulse hits them.
+
+75
+00:04:35,822 --> 00:04:37,589
+Let me know if you find something.
+
+76
+00:04:37,591 --> 00:04:38,857
+I'm gonna get out of this suit.
+
+77
+00:04:46,700 --> 00:04:47,766
+[SIGHS]
+
+78
+00:04:47,768 --> 00:04:49,267
+God, look at you, you look awful.
+
+79
+00:04:49,269 --> 00:04:51,035
+[CHUCKLES]
+
+80
+00:04:51,037 --> 00:04:52,337
+Thanks for the compliment.
+
+81
+00:04:52,339 --> 00:04:54,506
+No. That's a subperiosteal hematoma.
+
+82
+00:04:54,508 --> 00:04:56,639
+It's good to know that you're
+paying attention in med school.
+
+83
+00:04:56,641 --> 00:04:58,541
+No, this is serious.
+Did you get it looked at?
+
+84
+00:04:58,544 --> 00:05:00,845
+I've had enough subperiosteal hematomas
+
+85
+00:05:00,847 --> 00:05:02,947
+to know when I actually
+need to get some help.
+
+86
+00:05:04,718 --> 00:05:06,384
+What happened?
+
+87
+00:05:08,655 --> 00:05:09,821
+The truth, please.
+
+88
+00:05:11,224 --> 00:05:12,657
+Ask your dad.
+
+89
+00:05:15,028 --> 00:05:17,695
+- I will.
+- The ASA will be looking for us.
+
+90
+00:05:19,065 --> 00:05:20,632
+All of us.
+
+91
+00:05:20,635 --> 00:05:23,602
+Those weapons he blew up
+are only good for one thing,
+
+92
+00:05:23,605 --> 00:05:25,737
+killing Black Lightning.
+
+93
+00:05:25,739 --> 00:05:27,806
+Make sure he makes good choices, okay?
+
+94
+00:05:27,808 --> 00:05:29,641
+How exactly am I supposed to do that?
+
+95
+00:05:29,643 --> 00:05:31,136
+Trust your instincts.
+
+96
+00:05:31,139 --> 00:05:32,877
+Come on. Make it plain, Uncle Gambi.
+
+97
+00:05:32,879 --> 00:05:36,597
+Anissa, look at your father
+and your father's father.
+
+98
+00:05:36,600 --> 00:05:39,017
+Protecting people is in your blood.
+
+99
+00:05:39,019 --> 00:05:41,619
+There are certain things
+no one can train you for.
+
+100
+00:05:42,556 --> 00:05:45,190
+Everything you need
+is already inside you.
+
+101
+00:05:47,162 --> 00:05:48,493
+[SIGHS]
+
+102
+00:05:48,496 --> 00:05:49,662
+Thanks.
+
+103
+00:06:07,162 --> 00:06:11,795
+It seems a little suspicious.
+Are you sure it's not a setup?
+
+104
+00:06:11,798 --> 00:06:14,897
+[WOMAN] If this was a
+setup, you'd already be dead.
+
+105
+00:06:15,617 --> 00:06:17,043
+Who the hell are you?
+
+106
+00:06:17,046 --> 00:06:19,686
+You'll find everything you need
+in the garbage can in front of you.
+
+107
+00:06:20,983 --> 00:06:23,194
+You're right, Glennon.
+It stinks. Come on.
+
+108
+00:06:25,198 --> 00:06:30,235
+Deputy Chief Cayman, I
+said in the garbage can.
+
+109
+00:06:30,837 --> 00:06:32,036
+Do it.
+
+110
+00:06:36,042 --> 00:06:37,542
+[GLENNON] Oh.
+
+111
+00:06:41,147 --> 00:06:45,183
+This needs to be legitimate,
+and fast. Tomorrow, if possible?
+
+112
+00:06:47,087 --> 00:06:51,222
+Okay, speedy warrants?
+Got it. Who's the target?
+
+113
+00:06:53,593 --> 00:06:54,959
+Jefferson Pierce.
+
+114
+00:07:02,402 --> 00:07:05,336
+So, Dad, what happened to Uncle Gambi?
+
+115
+00:07:07,082 --> 00:07:08,582
+[CLEARS THROAT]
+
+116
+00:07:08,585 --> 00:07:12,743
+He was tortured by his friends
+at the ASA in order to get to me.
+
+117
+00:07:12,746 --> 00:07:16,214
+Well, clearly, that didn't work
+because you wouldn't be here.
+
+118
+00:07:17,083 --> 00:07:18,425
+That is true.
+
+119
+00:07:18,428 --> 00:07:20,118
+So you can trust him.
+
+120
+00:07:22,022 --> 00:07:23,221
+Maybe.
+
+121
+00:07:24,424 --> 00:07:25,850
+No. I'm not sure.
+
+122
+00:07:25,853 --> 00:07:27,692
+Man, they did a good job.
+
+123
+00:07:27,694 --> 00:07:29,076
+Yeah. It's what they do.
+
+124
+00:07:29,079 --> 00:07:31,481
+I don't know. It's just weird
+right now, being around you two.
+
+125
+00:07:31,483 --> 00:07:34,999
+No, it is. It's like you're
+working together, but not really.
+
+126
+00:07:35,001 --> 00:07:36,968
+Yeah, I know. It's weird for me, too.
+
+127
+00:07:36,971 --> 00:07:38,870
+Mmm.
+
+128
+00:07:38,873 --> 00:07:42,907
+So, he says the ASA is
+gonna be looking to kill us.
+
+129
+00:07:43,877 --> 00:07:46,472
+- They are.
+- So then...
+
+130
+00:07:46,475 --> 00:07:49,480
+I don't know, shouldn't
+we all just get along?
+
+131
+00:07:51,201 --> 00:07:53,084
+"Can we all just get along?"
+
+132
+00:07:53,086 --> 00:07:54,252
+What?
+
+133
+00:07:54,254 --> 00:07:57,689
+No. Rodney King asked,
+"Can we all get along?"
+
+134
+00:07:57,691 --> 00:08:01,826
+See, it's an existential
+question rather than a directive.
+
+135
+00:08:01,828 --> 00:08:03,828
+Okay. So can we?
+
+136
+00:08:06,733 --> 00:08:07,966
+I don't know.
+
+137
+00:08:27,654 --> 00:08:30,021
+[SIREN BLARING]
+
+138
+00:08:33,626 --> 00:08:34,792
+[BEEPS]
+
+139
+00:08:53,279 --> 00:08:54,812
+Damn it!
+
+140
+00:08:57,455 --> 00:08:59,718
+- Good morning.
+- [GIRL] Good morning.
+
+141
+00:08:59,721 --> 00:09:01,191
+- Good morning.
+- Mr. Pierce.
+
+142
+00:09:01,193 --> 00:09:02,208
+Hey, Lexton.
+
+143
+00:09:02,211 --> 00:09:05,279
+Congratulations on the
+debate victory. All right.
+
+144
+00:09:05,282 --> 00:09:07,330
+You know what? Tomorrow, I'm driving.
+
+145
+00:09:07,333 --> 00:09:09,365
+Girl, that driver's
+license is brand-new.
+
+146
+00:09:09,368 --> 00:09:11,568
+And you are too hard on my nerves
+for first thing in the morning.
+
+147
+00:09:11,570 --> 00:09:12,728
+Shut up. I can drive.
+
+148
+00:09:12,731 --> 00:09:14,292
+- Girl... Okay, we'll see.
+- I'd get us here quicker.
+
+149
+00:09:14,294 --> 00:09:15,643
+- I know that much.
+- You try then.
+
+150
+00:09:15,645 --> 00:09:17,641
+All right, people,
+another day to make magic.
+
+151
+00:09:17,643 --> 00:09:18,809
+[LAUGHS]
+
+152
+00:09:18,811 --> 00:09:21,011
+Yes, it is. [LAUGHS]
+
+153
+00:09:21,013 --> 00:09:22,379
+- Hey, Dad.
+- Hey.
+
+154
+00:09:22,381 --> 00:09:23,480
+Hey, Dad, what's up?
+
+155
+00:09:23,482 --> 00:09:25,585
+- Keep an eye on your sister.
+- Uh-huh.
+
+156
+00:09:25,588 --> 00:09:28,318
+And make sure you touch
+base with me between classes.
+
+157
+00:09:28,320 --> 00:09:30,741
+All right. Got it. Anything else?
+
+158
+00:09:30,744 --> 00:09:32,956
+Remember, I love you.
+
+159
+00:09:33,793 --> 00:09:35,260
+- I'll see you.
+- All right.
+
+160
+00:09:35,263 --> 00:09:36,873
+Come on, people, let's not be late.
+
+161
+00:09:36,876 --> 00:09:37,843
+[BOY] What's up, Mr. Jefferson?
+
+162
+00:09:37,845 --> 00:09:39,595
+How are you doing? How are you doing?
+
+163
+00:09:39,605 --> 00:09:43,407
+All these young smiling faces,
+young minds to be molded.
+
+164
+00:09:44,036 --> 00:09:45,235
+Come on in.
+
+165
+00:09:45,237 --> 00:09:47,502
+Well, I'd like to give
+a shout-out to the MTA
+
+166
+00:09:47,505 --> 00:09:49,038
+for getting me here on time today.
+
+167
+00:09:49,041 --> 00:09:51,842
+- [ALL CHUCKLE]
+- Wait, wait. No. No, no, no, that's fair.
+
+168
+00:09:51,844 --> 00:09:53,835
+There are a lot of
+hardworking men and women
+
+169
+00:09:53,838 --> 00:09:57,929
+who keep a very overworked
+system running as best they can.
+
+170
+00:09:57,932 --> 00:09:59,716
+- Yeah.
+- [SIREN WAILING IN DISTANCE]
+
+171
+00:09:59,718 --> 00:10:00,984
+I've got a shout-out.
+
+172
+00:10:00,986 --> 00:10:04,688
+To Mr. Winston, who let me
+retake the Spanish mid-term.
+
+173
+00:10:05,524 --> 00:10:09,126
+Bless up. Or <i>bendiga.</i>
+
+174
+00:10:09,129 --> 00:10:10,794
+[SIRENS WAILING]
+
+175
+00:10:10,797 --> 00:10:12,728
+Tavon, you still with us?
+
+176
+00:10:12,731 --> 00:10:15,232
+- Five-O.
+- What?
+
+177
+00:10:31,951 --> 00:10:35,018
+[GLENNON] Blue Volvo wagon.
+Double-time, guys. Come on.
+
+178
+00:10:36,964 --> 00:10:39,603
+Damn, Mr. P. That's your car.
+
+179
+00:10:39,606 --> 00:10:41,425
+Tavon, language.
+
+180
+00:10:41,427 --> 00:10:44,760
+I mean, dang, Mr. P.
+That's still your car.
+
+181
+00:10:44,763 --> 00:10:47,521
+Homework out, everyone. Let's...
+
+182
+00:10:50,569 --> 00:10:53,713
+Let's focus, and exchange homework.
+
+183
+00:10:54,892 --> 00:10:56,440
+Girl, isn't that your dad's car?
+
+184
+00:11:13,058 --> 00:11:15,150
+Every crack, every crevice.
+
+185
+00:11:23,702 --> 00:11:24,835
+[OFFICER] Oh.
+
+186
+00:11:24,837 --> 00:11:26,837
+Surprise, surprise.
+
+187
+00:11:30,676 --> 00:11:35,546
+Deputy Chief Cayman, I would be happy
+to follow you to the police station
+
+188
+00:11:35,549 --> 00:11:39,014
+to straighten out whatever
+misunderstanding there seems to be.
+
+189
+00:11:39,017 --> 00:11:40,384
+We're almost done.
+
+190
+00:11:43,422 --> 00:11:45,502
+Look, if you could tell me
+what you're looking for...
+
+191
+00:11:46,558 --> 00:11:48,458
+We found Green Light in your car.
+
+192
+00:11:48,460 --> 00:11:50,827
+Wait, what? No. That's impossible.
+
+193
+00:11:50,829 --> 00:11:52,429
+Oh!
+
+194
+00:11:54,199 --> 00:11:56,033
+You got that Green Light, cuz?
+
+195
+00:11:56,035 --> 00:11:57,822
+That is not mine.
+
+196
+00:11:57,825 --> 00:12:00,070
+Mr. Pierce, you're under arrest.
+
+197
+00:12:00,072 --> 00:12:02,005
+Turn around, put your
+hands behind your back.
+
+198
+00:12:02,007 --> 00:12:03,740
+What? This is ridiculous.
+
+199
+00:12:03,743 --> 00:12:06,978
+- Are you resisting?
+- You can't come in here and just...
+
+200
+00:12:14,353 --> 00:12:16,033
+I am not resisting.
+
+201
+00:12:16,989 --> 00:12:18,755
+I am complying.
+
+202
+00:12:23,799 --> 00:12:25,529
+- [HANDCUFFS LOCKING]
+- [GRUNTS]
+
+203
+00:12:31,704 --> 00:12:32,803
+Dad.
+
+204
+00:12:32,805 --> 00:12:35,439
+No, honey, it's a
+misunderstanding, honey.
+
+205
+00:12:35,441 --> 00:12:38,608
+I just need to go with these
+men and straighten it out.
+
+206
+00:12:38,610 --> 00:12:40,110
+Everything will be fine.
+
+207
+00:12:42,748 --> 00:12:44,319
+Jennifer...
+
+208
+00:12:44,322 --> 00:12:49,886
+Jennifer, I need you to do
+something very important for me.
+
+209
+00:12:50,856 --> 00:12:52,289
+Jennifer.
+
+210
+00:12:53,659 --> 00:12:58,261
+I need you to be calm, really calm.
+
+211
+00:13:04,536 --> 00:13:06,636
+Call your mother, tell her what happened
+
+212
+00:13:06,638 --> 00:13:09,406
+and be strong for your
+mother. Can you do that for me?
+
+213
+00:13:14,346 --> 00:13:16,079
+Let's go.
+
+214
+00:13:17,983 --> 00:13:20,064
+Well, ya'll, not just
+gonna take Mr. Pierce.
+
+215
+00:13:20,067 --> 00:13:22,069
+Look, son, this ain't
+no rap video. Step aside.
+
+216
+00:13:22,072 --> 00:13:23,620
+Hey, look, my daddy name is Lamont,
+
+217
+00:13:23,622 --> 00:13:25,760
+and you damn sure don't
+look like a Lamont.
+
+218
+00:13:25,763 --> 00:13:26,996
+[JEFFERSON] Tavon.
+
+219
+00:13:28,160 --> 00:13:30,794
+No one wants to see another
+black man in cuffs today.
+
+220
+00:13:31,908 --> 00:13:34,630
+Well, you wanna help? Keep doing
+what you're supposed to be doing
+
+221
+00:13:34,633 --> 00:13:36,469
+and make sure all the
+other students do the same.
+
+222
+00:13:36,471 --> 00:13:37,901
+Can I count on you?
+
+223
+00:13:39,712 --> 00:13:41,745
+I didn't hear you, Tavon.
+
+224
+00:13:42,775 --> 00:13:45,075
+Yes, sir. You can count on me.
+
+225
+00:13:59,040 --> 00:14:00,172
+[ANISSA] Whoa, whoa, whoa!
+
+226
+00:14:00,175 --> 00:14:01,586
+- Stay back, miss.
+- Who do you think you are?
+
+227
+00:14:01,588 --> 00:14:02,922
+- You can't just take him...
+- Stand back.
+
+228
+00:14:02,924 --> 00:14:04,697
+- No. Anissa. Anissa...
+- Dad...
+
+229
+00:14:04,700 --> 00:14:08,498
+No! Get back in the school,
+take care of everyone.
+
+230
+00:14:12,669 --> 00:14:14,069
+Anissa.
+
+231
+00:14:16,575 --> 00:14:17,741
+Don't touch me.
+
+232
+00:15:03,200 --> 00:15:04,633
+[INDISTINCT CHATTER]
+
+233
+00:15:09,210 --> 00:15:10,879
+What the hell do you think you're doing?
+
+234
+00:15:10,882 --> 00:15:13,241
+My job. Yours, too, apparently.
+
+235
+00:15:13,244 --> 00:15:14,764
+Get him processed and put him in four.
+
+236
+00:15:18,749 --> 00:15:20,949
+I wanna see the search warrant.
+
+237
+00:15:23,721 --> 00:15:24,887
+[GRUNTS]
+
+238
+00:15:44,308 --> 00:15:45,474
+[SCOFFS]
+
+239
+00:15:48,479 --> 00:15:51,680
+Jefferson Pierce is one of the most
+distinguished members of this community.
+
+240
+00:15:51,682 --> 00:15:53,682
+Was. Then we discovered
+he's a drug dealer
+
+241
+00:15:53,684 --> 00:15:54,936
+operating out of a school.
+
+242
+00:15:54,939 --> 00:15:57,219
+I have to give him credit.
+Smart way to corner the market.
+
+243
+00:15:57,221 --> 00:15:59,154
+You don't believe that your damn self.
+
+244
+00:15:59,156 --> 00:16:01,957
+Tread lightly, Inspector. Don't
+be blinded by personal feelings.
+
+245
+00:16:01,959 --> 00:16:03,458
+My eyes are wide open.
+
+246
+00:16:03,467 --> 00:16:06,368
+Good. I'd hate to see
+anything happen to you.
+
+247
+00:16:10,401 --> 00:16:13,635
+You gotta bring ass to get ass.
+
+248
+00:16:15,039 --> 00:16:16,872
+Don't forget that.
+
+249
+00:16:33,057 --> 00:16:34,785
+[KARA OVER PA] <i>Thank you, students,</i>
+
+250
+00:16:34,788 --> 00:16:37,129
+<i>for returning to your
+lessons and activities.</i>
+
+251
+00:16:37,132 --> 00:16:39,861
+<i>The school day will continue as usual.</i>
+
+252
+00:16:41,031 --> 00:16:44,285
+<i>I am actively seeking an
+update on Principal Pierce</i>
+
+253
+00:16:44,288 --> 00:16:46,130
+<i>and will keep staff and students</i>
+
+254
+00:16:46,133 --> 00:16:48,706
+<i>informed as soon as we learn more.</i>
+
+255
+00:16:48,709 --> 00:16:51,043
+<i>Until then,</i>
+
+256
+00:16:51,046 --> 00:16:54,176
+please, let's get
+through this day in a way
+
+257
+00:16:54,178 --> 00:16:57,245
+that will make Principal Pierce proud.
+
+258
+00:16:58,379 --> 00:17:02,447
+Remember, you are the future.
+
+259
+00:18:17,127 --> 00:18:19,194
+Yeah, okay. Okay!
+
+260
+00:18:21,398 --> 00:18:22,798
+[GRUNTS]
+
+261
+00:18:27,303 --> 00:18:31,747
+[GROANS] I'm surrounded by
+cops. Is this really necessary?
+
+262
+00:18:41,351 --> 00:18:42,584
+[GRUNTS]
+
+263
+00:18:45,689 --> 00:18:47,122
+Open your mouth.
+
+264
+00:18:50,007 --> 00:18:51,193
+Lift your tongue.
+
+265
+00:18:54,598 --> 00:18:56,116
+Drop your clothes.
+
+266
+00:19:24,029 --> 00:19:25,395
+Assume the position.
+
+267
+00:19:32,102 --> 00:19:33,726
+Now cough twice.
+
+268
+00:19:54,939 --> 00:19:56,362
+<i>Local principal, Jefferson Pierce</i>
+
+269
+00:19:56,365 --> 00:19:58,955
+<i>was arrested today at Garfield High.</i>
+
+270
+00:19:58,958 --> 00:20:01,572
+<i>Sources confirmed large amounts
+of controlled substances</i>
+
+271
+00:20:01,575 --> 00:20:03,150
+<i>were confiscated from his vehicle.</i>
+
+272
+00:20:03,153 --> 00:20:05,447
+I need to see Jefferson Pierce.
+
+273
+00:20:05,450 --> 00:20:07,014
+And you are?
+
+274
+00:20:07,016 --> 00:20:08,582
+His wife.
+
+275
+00:20:09,418 --> 00:20:10,617
+ID.
+
+276
+00:20:14,857 --> 00:20:17,324
+His ex-wife, actually.
+
+277
+00:20:18,227 --> 00:20:19,726
+Then I can't help you, ma'am.
+
+278
+00:20:21,263 --> 00:20:24,064
+Can I speak to Inspector
+Henderson, please?
+
+279
+00:20:25,801 --> 00:20:27,000
+[INSPECTOR HENDERSON] Lynn...
+
+280
+00:20:35,376 --> 00:20:39,412
+Bill, you know Jeff. You know he
+would never ever do anything...
+
+281
+00:20:39,415 --> 00:20:40,647
+Of course I know, Lynn.
+
+282
+00:20:40,649 --> 00:20:43,350
+But now is not the time
+and this is not the place.
+
+283
+00:20:43,352 --> 00:20:46,019
+Well... he can't be
+here right now. He can't.
+
+284
+00:20:46,021 --> 00:20:48,121
+Something so bad could happen.
+
+285
+00:20:49,024 --> 00:20:51,625
+- Where's...
+- Lynn, look at me.
+
+286
+00:20:52,194 --> 00:20:53,928
+Do you trust me?
+
+287
+00:20:53,931 --> 00:20:55,295
+No.
+
+288
+00:20:57,666 --> 00:20:59,466
+But I know Jefferson does.
+
+289
+00:21:00,298 --> 00:21:03,437
+And I have to go set the record for
+speed-interviewing defense lawyers,
+
+290
+00:21:03,439 --> 00:21:05,038
+so I'll talk to you later.
+
+291
+00:21:05,040 --> 00:21:06,440
+All right.
+
+292
+00:21:29,231 --> 00:21:31,565
+[INDISTINCT CHATTER FROM COMPUTER]
+
+293
+00:21:32,797 --> 00:21:34,363
+So you know.
+
+294
+00:21:34,366 --> 00:21:37,204
+We knew the ASA was coming for
+us. I didn't expect this, though.
+
+295
+00:21:37,206 --> 00:21:38,772
+Okay. I'm suiting up and I'm going in.
+
+296
+00:21:38,774 --> 00:21:40,073
+No, you're not.
+
+297
+00:21:40,075 --> 00:21:42,676
+Yeah, I am. You can help
+me or not, but I'm going.
+
+298
+00:21:42,678 --> 00:21:45,545
+Anissa, if your father wanted out
+this way, he could do it himself.
+
+299
+00:21:45,548 --> 00:21:47,412
+If you don't maintain
+your secret identity,
+
+300
+00:21:47,415 --> 00:21:48,515
+it could endanger Jennifer.
+
+301
+00:21:48,517 --> 00:21:49,749
+Your mother, too.
+
+302
+00:21:49,751 --> 00:21:52,185
+How does it help the
+ASA to put Dad in jail?
+
+303
+00:21:52,187 --> 00:21:55,822
+The national security apparatus can
+push buttons in local law enforcement.
+
+304
+00:21:55,824 --> 00:21:57,390
+This is smoke.
+
+305
+00:21:57,392 --> 00:22:00,127
+The fire comes when he gets
+moved by an ASA collection team
+
+306
+00:22:00,129 --> 00:22:02,157
+that's equipped to
+neutralize his powers.
+
+307
+00:22:02,160 --> 00:22:05,294
+They'll throw him in a black site
+and confirm that he's Black Lightning.
+
+308
+00:22:05,297 --> 00:22:06,967
+And then what?
+
+309
+00:22:07,970 --> 00:22:09,269
+They'll kill him.
+
+310
+00:22:10,425 --> 00:22:12,358
+Okay. We've got to get him out of there.
+
+311
+00:22:12,361 --> 00:22:15,162
+No, that will only
+confirm their suspicions.
+
+312
+00:22:15,165 --> 00:22:17,811
+What we have to do is prove to the ASA
+
+313
+00:22:17,813 --> 00:22:20,380
+that Jefferson Pierce
+isn't Black Lightning.
+
+314
+00:22:21,917 --> 00:22:23,283
+Okay.
+
+315
+00:22:23,952 --> 00:22:25,752
+How do we do that?
+
+316
+00:22:34,630 --> 00:22:35,795
+[GRUNTS]
+
+317
+00:22:44,072 --> 00:22:45,672
+Henderson. Finally.
+
+318
+00:22:45,675 --> 00:22:47,892
+Afternoon, Mr. Pierce.
+
+319
+00:22:53,715 --> 00:22:56,650
+[WHISPERS] We're on tape.
+There's eyes and ears everywhere.
+
+320
+00:22:57,619 --> 00:22:59,678
+[IN NORMAL VOICE] How's that? Better?
+
+321
+00:22:59,681 --> 00:23:01,054
+Yeah.
+
+322
+00:23:04,826 --> 00:23:06,897
+They took my clothes.
+
+323
+00:23:06,900 --> 00:23:10,624
+They're being tested to see if they
+contain any traces of Green Light.
+
+324
+00:23:10,627 --> 00:23:13,200
+What? They're not gonna find anything.
+
+325
+00:23:13,202 --> 00:23:14,301
+[CHUCKLES]
+
+326
+00:23:14,303 --> 00:23:16,764
+You might be surprised what they find.
+
+327
+00:23:16,767 --> 00:23:18,772
+Now, we've known each other a long time,
+
+328
+00:23:18,774 --> 00:23:20,298
+so I'll shoot straight with you.
+
+329
+00:23:20,301 --> 00:23:21,541
+Um... [SCOFFS]
+
+330
+00:23:21,543 --> 00:23:23,410
+There's too much here to ignore.
+
+331
+00:23:23,412 --> 00:23:25,616
+What's your connection to this man?
+
+332
+00:23:25,619 --> 00:23:27,814
+He called himself Lala.
+
+333
+00:23:27,816 --> 00:23:29,811
+A murderer, drug dealer.
+
+334
+00:23:29,814 --> 00:23:32,615
+He was a student when
+I was a young teacher.
+
+335
+00:23:33,255 --> 00:23:34,621
+Nothing beyond that?
+
+336
+00:23:36,072 --> 00:23:38,491
+Despite my efforts, he
+joined The One Hundred.
+
+337
+00:23:38,500 --> 00:23:40,534
+He worked his way up the ranks.
+
+338
+00:23:41,496 --> 00:23:44,390
+So, I took advantage of my relationship
+
+339
+00:23:44,393 --> 00:23:46,960
+and got him to make
+Garfield High off-limits.
+
+340
+00:23:46,963 --> 00:23:49,102
+So why did members of The One Hundred
+
+341
+00:23:49,104 --> 00:23:51,471
+enter Garfield and
+kidnap your daughters?
+
+342
+00:23:51,473 --> 00:23:52,706
+I don't know.
+
+343
+00:23:54,891 --> 00:23:56,252
+Drug deal gone bad?
+
+344
+00:23:56,255 --> 00:23:57,321
+[SIGHS]
+
+345
+00:23:59,815 --> 00:24:01,581
+Henderson, I'm being set up.
+
+346
+00:24:04,620 --> 00:24:06,486
+Why would someone set you up?
+
+347
+00:24:09,224 --> 00:24:10,423
+I don't know.
+
+348
+00:24:11,994 --> 00:24:14,060
+- Interview's over.
+- No. It's not.
+
+349
+00:24:14,062 --> 00:24:16,371
+I have a transfer order
+above your pay grade and mine.
+
+350
+00:24:16,374 --> 00:24:17,874
+- From who?
+- Hell if I know.
+
+351
+00:24:17,877 --> 00:24:19,432
+It's a national security directive.
+
+352
+00:24:21,470 --> 00:24:22,836
+But I wouldn't wanna be you.
+
+353
+00:24:32,060 --> 00:24:35,169
+Our reporter in the field, John
+Webb, has been on the street,
+
+354
+00:24:35,172 --> 00:24:37,521
+talking to people about
+the shocking arrest
+
+355
+00:24:37,524 --> 00:24:41,459
+of nationally respected Garfield
+High Principal Jefferson Pierce.
+
+356
+00:24:41,462 --> 00:24:43,529
+Every time a brother
+tries to help his people,
+
+357
+00:24:43,532 --> 00:24:45,443
+they find a way to set
+him up and take him down.
+
+358
+00:24:45,446 --> 00:24:46,857
+It's a shame.
+
+359
+00:24:46,860 --> 00:24:50,929
+I heard he walks around and makes
+the students call him Black Jesus.
+
+360
+00:24:50,932 --> 00:24:53,419
+Imagine that. Black Jesus.
+
+361
+00:24:53,422 --> 00:24:55,522
+My niece went to Garfield.
+
+362
+00:24:55,525 --> 00:24:57,392
+That girl never would've graduated
+
+363
+00:24:57,395 --> 00:24:59,029
+if it wasn't for Principal Pierce.
+
+364
+00:24:59,032 --> 00:25:01,900
+The police know damn well Mr.
+Pierce ain't no drug dealer.
+
+365
+00:25:01,903 --> 00:25:04,568
+Any man who would do
+that could do anything.
+
+366
+00:25:04,571 --> 00:25:07,805
+He kept her focused and
+helped her get into college.
+
+367
+00:25:07,808 --> 00:25:10,747
+She graduates from Johns
+Hopkins next semester.
+
+368
+00:25:10,750 --> 00:25:11,974
+[JOHN WEBB] There you have it.
+
+369
+00:25:11,977 --> 00:25:13,825
+<i>Shock, disbelief, and for some,</i>
+
+370
+00:25:13,828 --> 00:25:16,521
+<i>disillusionment about
+this turn of events.</i>
+
+371
+00:25:16,524 --> 00:25:18,138
+<i>John Webb reporting.</i>
+
+372
+00:25:18,978 --> 00:25:20,444
+[CELL PHONE VIBRATING]
+
+373
+00:25:24,431 --> 00:25:25,797
+Dr. Lynn Stewart.
+
+374
+00:25:25,800 --> 00:25:28,673
+[INSPECTOR HENDERSON] <i>The Feds
+are transferring Jefferson.</i>
+
+375
+00:25:28,676 --> 00:25:31,977
+<i>Some kind of national security
+thing. There's nothing I can do.</i>
+
+376
+00:25:32,898 --> 00:25:35,933
+National security? What
+are the allegations?
+
+377
+00:25:36,818 --> 00:25:38,585
+<i>I've told you everything I know.</i>
+
+378
+00:25:40,432 --> 00:25:41,765
+Thank you.
+
+379
+00:25:47,338 --> 00:25:48,704
+[GAMBI] Your mother called.
+
+380
+00:25:48,707 --> 00:25:50,932
+The order came to move
+Jefferson. We're out of time.
+
+381
+00:25:50,935 --> 00:25:52,572
+Okay, we go with your plan.
+
+382
+00:25:52,575 --> 00:25:54,942
+Anissa, I want to save
+your dad as much as you,
+
+383
+00:25:54,945 --> 00:25:57,779
+but you need to understand the
+tech we're using is a prototype,
+
+384
+00:25:57,782 --> 00:26:01,217
+put together in half a day with
+parts I cannibalized from the sanctum.
+
+385
+00:26:01,228 --> 00:26:02,427
+And?
+
+386
+00:26:03,655 --> 00:26:05,088
+It's untested. It may not work.
+
+387
+00:26:05,090 --> 00:26:06,208
+But it might.
+
+388
+00:26:06,211 --> 00:26:07,557
+Look, I can't lose my dad.
+
+389
+00:26:07,582 --> 00:26:09,462
+And at this point, we're
+the only hope he's got.
+
+390
+00:26:10,561 --> 00:26:12,995
+You have to do exactly as
+I tell you. One misstep...
+
+391
+00:26:12,998 --> 00:26:15,231
+Ain't gonna be no missteps.
+
+392
+00:26:15,233 --> 00:26:17,167
+Just walk me through it. I got this.
+
+393
+00:26:21,973 --> 00:26:25,074
+I have one more lawyer to
+interview, and I'll get back to you.
+
+394
+00:26:25,810 --> 00:26:27,844
+Okay. Thank you.
+
+395
+00:26:30,291 --> 00:26:31,391
+[JENNIFER SIGHS]
+
+396
+00:26:31,394 --> 00:26:33,594
+Why can't he just Black
+Lightning his way out?
+
+397
+00:26:35,380 --> 00:26:37,697
+You know, you're gonna
+have to learn that you can't
+
+398
+00:26:37,700 --> 00:26:41,191
+punch or superpower your
+way out of every problem.
+
+399
+00:26:46,898 --> 00:26:50,166
+I know you're scared.
+It's okay to be scared.
+
+400
+00:26:51,292 --> 00:26:52,725
+I'm not. [SCOFFS]
+
+401
+00:26:54,239 --> 00:26:56,339
+Dad told me to be strong for you.
+
+402
+00:26:59,377 --> 00:27:02,478
+It's okay to be strong and
+scared at the same time.
+
+403
+00:27:03,481 --> 00:27:05,014
+It's called having sense.
+
+404
+00:27:09,721 --> 00:27:11,621
+Well, what if we can't get him out?
+
+405
+00:27:12,724 --> 00:27:15,725
+I mean, it does happen to
+people all the time, right?
+
+406
+00:27:20,036 --> 00:27:21,331
+[CRYING]
+
+407
+00:27:25,036 --> 00:27:27,170
+What if Daddy never comes home?
+
+408
+00:27:29,574 --> 00:27:30,873
+He will.
+
+409
+00:27:41,419 --> 00:27:42,819
+[INDISTINCT CHATTER]
+
+410
+00:27:50,304 --> 00:27:52,137
+You two, let's go.
+
+411
+00:27:52,140 --> 00:27:54,107
+No. Not you.
+
+412
+00:28:08,346 --> 00:28:11,481
+Hey, man, I'm trying to help you,
+but national security directives?
+
+413
+00:28:11,483 --> 00:28:14,083
+And top secret transfer
+orders? You a spy or something?
+
+414
+00:28:14,085 --> 00:28:15,302
+What? No, I'm not.
+
+415
+00:28:15,305 --> 00:28:18,020
+Look, Jeff, we're friends, we
+don't tell each other everything.
+
+416
+00:28:18,031 --> 00:28:22,133
+But if you know of any reason this
+is going down, now is the time.
+
+417
+00:28:27,125 --> 00:28:28,491
+I really don't know.
+
+418
+00:28:36,841 --> 00:28:39,042
+Yeah, I'm still gonna help you.
+
+419
+00:28:39,044 --> 00:28:41,711
+I was just hoping you would
+make it a little easier for me.
+
+420
+00:29:06,419 --> 00:29:07,670
+What do you want?
+
+421
+00:29:07,672 --> 00:29:09,339
+Come on in. Have a seat.
+
+422
+00:29:14,987 --> 00:29:17,287
+"Follow the money." Isn't
+that what they always say?
+
+423
+00:29:17,290 --> 00:29:19,490
+Henderson, I don't have
+time for whatever this is.
+
+424
+00:29:19,493 --> 00:29:21,060
+Oh, I think you do.
+
+425
+00:29:21,063 --> 00:29:23,526
+I called in a lifetime of favors,
+
+426
+00:29:23,529 --> 00:29:25,421
+but from what I could tell,
+
+427
+00:29:25,423 --> 00:29:27,161
+you hit the lottery.
+
+428
+00:29:29,517 --> 00:29:31,077
+I don't know what you're talking about.
+
+429
+00:29:32,197 --> 00:29:34,018
+Your son has himself a new house.
+
+430
+00:29:34,021 --> 00:29:36,699
+Contractor says he paid in cash.
+
+431
+00:29:36,701 --> 00:29:39,635
+I wonder what the IRS would
+have to say about that?
+
+432
+00:29:40,661 --> 00:29:44,055
+Now, look, I know there's a lot
+of money to be made with the badge.
+
+433
+00:29:44,058 --> 00:29:46,200
+I got you dead to rights.
+
+434
+00:29:47,812 --> 00:29:50,279
+But the good news is, I don't want you.
+
+435
+00:29:50,282 --> 00:29:52,048
+I want Cayman.
+
+436
+00:29:54,266 --> 00:29:55,815
+Now...
+
+437
+00:29:55,818 --> 00:29:57,720
+how about you sit down?
+
+438
+00:30:11,547 --> 00:30:14,481
+Monitoring three students
+who've ingested Green Light.
+
+439
+00:30:14,484 --> 00:30:16,751
+No enhanced abilities observed.
+
+440
+00:30:25,764 --> 00:30:27,197
+Whoa!
+
+441
+00:30:28,787 --> 00:30:31,664
+[GAMBI] <i>Don't let anything get
+between you and the hologram,</i>
+
+442
+00:30:31,667 --> 00:30:33,566
+or people will realize
+it's not really him.
+
+443
+00:30:33,569 --> 00:30:34,935
+Okay. I got it.
+
+444
+00:30:34,938 --> 00:30:36,271
+I'll turn it off for now.
+
+445
+00:30:37,010 --> 00:30:40,750
+Get as much attention as you
+can, and I'll turn it back on.
+
+446
+00:30:40,753 --> 00:30:41,952
+All right.
+
+447
+00:30:52,677 --> 00:30:55,044
+- Oh, my God. Look!
+- [MAN] It's Thunder!
+
+448
+00:30:55,046 --> 00:30:56,312
+[WOMAN] Look at her!
+
+449
+00:30:56,314 --> 00:30:57,647
+[MAN] Oh, my God.
+
+450
+00:31:02,754 --> 00:31:04,520
+[INDISTINCT SHOUTING]
+
+451
+00:31:05,929 --> 00:31:08,093
+[CHIMES] _
+
+452
+00:31:11,429 --> 00:31:14,096
+<i>Our reporters are on
+the ground in Zone Four,</i>
+
+453
+00:31:14,098 --> 00:31:17,433
+<i>where several residents
+have reported a disturbance.</i>
+
+454
+00:31:17,435 --> 00:31:19,135
+[CROWD EXCLAIMING]
+
+455
+00:31:31,906 --> 00:31:33,749
+- Black Lightning!
+- Look, look, look!
+
+456
+00:31:33,751 --> 00:31:35,918
+Look! It's Black Lightning and Thunder!
+
+457
+00:31:41,125 --> 00:31:43,759
+It's a good thing Freeland's
+power grid is so easy to hack.
+
+458
+00:31:49,167 --> 00:31:50,867
+[CROWD EXCLAIMING]
+
+459
+00:31:54,138 --> 00:31:56,939
+You're almost at the
+intersection. There.
+
+460
+00:31:57,976 --> 00:31:59,642
+[TIRES SCREECHING]
+
+461
+00:32:00,187 --> 00:32:01,310
+[CHEERING]
+
+462
+00:32:01,836 --> 00:32:04,313
+Damn! Don't let that
+car get between you.
+
+463
+00:32:04,315 --> 00:32:05,615
+I know.
+
+464
+00:32:09,120 --> 00:32:10,686
+[TIRES SCREECHING]
+
+465
+00:32:13,124 --> 00:32:14,257
+[PEOPLE CHEERING]
+
+466
+00:32:14,259 --> 00:32:15,939
+[MAN] Let's got, Black
+Lightning, let's go!
+
+467
+00:32:19,297 --> 00:32:20,696
+[CHEERING AND WHISTLING]
+
+468
+00:32:24,378 --> 00:32:25,677
+[MAN ON TV] <i>It's crazy, man.</i>
+
+469
+00:32:25,680 --> 00:32:28,436
+<i>I mean, it still bugs me
+when I see Black Lightning.</i>
+
+470
+00:32:28,439 --> 00:32:31,387
+<i>Negro running around looking
+like a modern-day George Clinton.</i>
+
+471
+00:32:31,390 --> 00:32:35,405
+But now he got that fine-ass
+woman running around with him.
+
+472
+00:32:35,408 --> 00:32:36,726
+Must be nice.
+
+473
+00:32:36,729 --> 00:32:39,145
+[WOMAN] <i>I'm happy to see them
+both out here trying to help.</i>
+
+474
+00:32:39,148 --> 00:32:40,449
+Since they showed up,
+
+475
+00:32:40,451 --> 00:32:42,785
+less of these kids out here
+trippin' on that Green Light,
+
+476
+00:32:42,787 --> 00:32:44,153
+- that's for sure.
+- Yeah.
+
+477
+00:32:44,155 --> 00:32:45,388
+For sure.
+
+478
+00:32:53,217 --> 00:32:54,516
+[CHIMES]
+
+479
+00:33:30,717 --> 00:33:34,846
+_
+
+480
+00:33:37,641 --> 00:33:41,675
+_
+
+481
+00:33:42,925 --> 00:33:46,942
+_
+
+482
+00:33:48,293 --> 00:33:50,793
+_
+
+483
+00:33:56,915 --> 00:33:58,148
+[SIGHS]
+
+484
+00:34:03,054 --> 00:34:04,287
+[CELL DOOR UNLOCKS]
+
+485
+00:34:10,362 --> 00:34:12,762
+Glennon admitted to
+planting the evidence.
+
+486
+00:34:12,764 --> 00:34:14,264
+You're being cleared for release.
+
+487
+00:34:14,266 --> 00:34:15,465
+[SIGHS]
+
+488
+00:34:17,235 --> 00:34:18,501
+Thanks, brother.
+
+489
+00:34:18,504 --> 00:34:20,637
+The next few rounds are on you.
+
+490
+00:34:21,642 --> 00:34:23,508
+[CHIEF CAYMAN] I was
+told you were down here.
+
+491
+00:34:24,342 --> 00:34:25,475
+What are you doing?
+
+492
+00:34:25,477 --> 00:34:28,769
+Police work. You should try it sometime.
+
+493
+00:34:28,772 --> 00:34:31,247
+You just flushed your badge
+down the toilet, Henderson.
+
+494
+00:34:31,249 --> 00:34:34,217
+Mr. Pierce, once you get
+dressed, you're free to go.
+
+495
+00:34:42,093 --> 00:34:43,226
+Hey!
+
+496
+00:34:44,296 --> 00:34:45,428
+[GRUNTS]
+
+497
+00:34:45,430 --> 00:34:46,996
+What the hell?
+
+498
+00:34:46,998 --> 00:34:49,566
+I'm embarrassed that it took me
+this long to do the right thing,
+
+499
+00:34:49,568 --> 00:34:50,533
+[GRUNTS]
+
+500
+00:34:50,535 --> 00:34:53,563
+start weeding this place of all the rot.
+
+501
+00:34:53,566 --> 00:34:56,539
+But once Detective Glennon got going,
+
+502
+00:34:56,541 --> 00:34:58,875
+he had an awful lot to
+say, mainly about you.
+
+503
+00:34:58,877 --> 00:35:00,810
+[CHIEF CAYMAN] Don't
+play cop games with me.
+
+504
+00:35:00,812 --> 00:35:01,754
+[GROANS]
+
+505
+00:35:01,757 --> 00:35:03,179
+You know, who knew you were smart enough
+
+506
+00:35:03,181 --> 00:35:05,215
+to seek out some shell corporations,
+
+507
+00:35:05,224 --> 00:35:07,964
+but dumb enough to leave
+the paperwork in your house?
+
+508
+00:35:07,967 --> 00:35:12,058
+You're under arrest. The officer
+will read you your rights.
+
+509
+00:35:13,091 --> 00:35:15,191
+You're making a mistake, Henderson.
+
+510
+00:35:15,193 --> 00:35:17,594
+Hey. You don't know how
+this town really works!
+
+511
+00:35:22,033 --> 00:35:23,733
+Actually, I do.
+
+512
+00:35:31,910 --> 00:35:33,176
+Daddy!
+
+513
+00:35:33,178 --> 00:35:34,493
+[LAUGHING]
+
+514
+00:35:34,496 --> 00:35:36,512
+I'm so happy you're home!
+
+515
+00:35:36,514 --> 00:35:39,957
+Oh. Me, too, sweetie. Me, too.
+
+516
+00:35:41,620 --> 00:35:44,487
+You know what? I'm hungry.
+Let's get some ice cream.
+
+517
+00:35:44,489 --> 00:35:47,790
+- [SIGHS] Well, I guess we had our moment.
+- Yeah.
+
+518
+00:35:51,730 --> 00:35:53,229
+[KNOCK AT DOOR]
+
+519
+00:36:02,340 --> 00:36:03,406
+[INHALES DEEPLY]
+
+520
+00:36:08,703 --> 00:36:09,802
+[ANISSA CHUCKLES]
+
+521
+00:36:09,805 --> 00:36:11,304
+It's Uncle Gambi.
+
+522
+00:36:11,307 --> 00:36:12,636
+[SIGHS]
+
+523
+00:36:12,639 --> 00:36:13,905
+[CHUCKLES]
+
+524
+00:36:18,628 --> 00:36:20,228
+Thanks for coming over.
+
+525
+00:36:22,127 --> 00:36:23,993
+Anissa told me what you did.
+
+526
+00:36:25,030 --> 00:36:27,664
+Did she tell you about
+the self-driving van?
+
+527
+00:36:27,666 --> 00:36:30,099
+I'm really proud of
+the self-driving van.
+
+528
+00:36:31,336 --> 00:36:34,137
+Do you think the ASA
+bought your hologram move?
+
+529
+00:36:34,139 --> 00:36:35,305
+For now.
+
+530
+00:36:38,007 --> 00:36:39,473
+Jefferson, I...
+
+531
+00:36:39,476 --> 00:36:44,207
+Look, I don't know how things
+are going to be, moving forward.
+
+532
+00:36:45,125 --> 00:36:47,025
+I don't expect you to forgive me.
+
+533
+00:36:48,746 --> 00:36:50,345
+I might not be able to.
+
+534
+00:36:51,156 --> 00:36:53,890
+But I still can't forget
+what you've done for me.
+
+535
+00:36:55,900 --> 00:36:57,500
+For my family.
+
+536
+00:37:02,634 --> 00:37:06,035
+I want to find a new balance.
+
+537
+00:37:07,231 --> 00:37:08,664
+Somehow.
+
+538
+00:37:12,310 --> 00:37:13,676
+Okay.
+
+539
+00:37:15,080 --> 00:37:17,547
+Just let me know what you need from me.
+
+540
+00:37:17,550 --> 00:37:21,152
+I need you to help me
+save those children.
+
+541
+00:37:23,054 --> 00:37:26,155
+Revelations that renowned Garfield
+High Principal, Jefferson Pierce
+
+542
+00:37:26,157 --> 00:37:29,459
+was framed by Freeland
+PD Deputy Chief Cayman.
+
+543
+00:37:29,461 --> 00:37:31,227
+He has been completely exonerated,
+
+544
+00:37:31,229 --> 00:37:33,896
+while Cayman and his
+cohorts are in custody.
+
+545
+00:37:33,898 --> 00:37:37,233
+We go live now to the
+Freeland PD press conference.
+
+546
+00:37:37,235 --> 00:37:40,269
+This is a new day in Freeland.
+
+547
+00:37:40,271 --> 00:37:45,041
+For years, good folk have suffered
+from over or under-policing,
+
+548
+00:37:45,043 --> 00:37:48,044
+from police brutality
+instead of public safety,
+
+549
+00:37:48,046 --> 00:37:51,481
+and from corruption rather
+than professionalism.
+
+550
+00:37:51,483 --> 00:37:53,616
+I am of this community,
+
+551
+00:37:53,618 --> 00:37:57,587
+from this community, and
+devoted to this community.
+
+552
+00:37:58,220 --> 00:38:00,721
+With the support of the Police Chief,
+
+553
+00:38:00,724 --> 00:38:04,125
+I embrace my new role as Deputy Chief.
+
+554
+00:38:06,764 --> 00:38:09,097
+And I promise the people of Freeland
+
+555
+00:38:09,100 --> 00:38:11,067
+a better police department.
+
+556
+00:38:13,897 --> 00:38:16,731
+So, Gambi, you're the eldest.
+
+557
+00:38:17,564 --> 00:38:18,930
+Lead us?
+
+558
+00:38:23,581 --> 00:38:28,484
+We are thankful for the
+companionship that warms our hearts,
+
+559
+00:38:28,486 --> 00:38:31,954
+for the food that we're about to
+eat that will nourish our bodies,
+
+560
+00:38:32,907 --> 00:38:37,022
+and we're thankful for your eternal
+protection which maintains our souls.
+
+561
+00:38:37,025 --> 00:38:38,368
+Amen.
+
+562
+00:38:38,431 --> 00:38:39,829
+[ALL] Amen.
+
+563
+00:38:39,831 --> 00:38:41,097
+Let's eat.
+
+564
+00:38:43,462 --> 00:38:44,534
+Here you go.
+
+565
+00:38:44,536 --> 00:38:45,568
+Thank you.
+
+566
+00:38:45,570 --> 00:38:46,803
+Yes.
+
+567
+00:38:46,908 --> 00:38:52,038
+- <font color="#D81D1D">Synced and corrected by VitoSilans</font> -
+-- <font color="#138CE9">www.Addic7ed.com</font> --
+

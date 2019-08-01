@@ -1,0 +1,300 @@
+{1}{1}25.000
+{89}{135}Guys, you won't believe this!
+{140}{209}-I just talked to my agent--|-Oh, my God!
+{261}{316}I'm sorry. Too soon. You go.
+{331}{391}I got nominated for|"Days of Our Lives"!
+{406}{464}-Good for you!|-Congratulations!
+{486}{538}I can't believe you're nominated|for an Emmy!
+{559}{648}-"Soap Opera Digest" Award?|-No. I'm up for a "Soapie."
+{697}{752}Is that something you're making up?
+{764}{865}No, no, no, it's real!|And it has been, since 1998.
+{918}{952}I'm up for a Soapie!
+{984}{1005}Oh, my God!
+{1011}{1124}My God! That's the third most|prestigious soap opera award there is!
+{1132}{1223}Thank you! I guess we know|who I'll take to the awards!
+{1229}{1305}Don't kid about that!|Will all the stars be there?
+{1310}{1363}Many are scheduled to appear.
+{1413}{1504}-I can't go. I'll be too nervous!|-I'll go.
+{1509}{1578}You're getting married.|This is all I have.
+{1619}{1671}The One With Joey's Award
+{1676}{1701}English Subtitles by|SDI Media Group
+{2564}{2678}Ernest Muhlbrat hypothesized that the|velociraptor, when threatened...
+{2684}{2785}...would expand its collar and|emit a high-pitched noise...
+{2790}{2836}...to frighten off predators.
+{2845}{2872}Mr. Lewis?
+{2894}{2932}What kind of noise?
+{2946}{3047}Just a high-pitched,|intimidating noise.
+{3061}{3092}But like how?
+{3122}{3183}Well, we don't know for sure.
+{3205}{3296}But in my head,|it sounded something like this:
+{3624}{3693}Of course, this is just conjecture.
+{3761}{3810}Okay. That's all for today.
+{3848}{3918}Mr. Morse,|can I see you for a moment?
+{3987}{4012}Yes, sir?
+{4024}{4113}I need to talk to you|about your midterm exam.
+{4134}{4223}-I'm afraid I had to fail you.|-Why?
+{4245}{4300}Well, you need 60%to pass.
+{4305}{4353}-What did I get?|-Seven.
+{4386}{4433}That's not so good.
+{4463}{4532}No, no, it's not.|What happened, Ned?
+{4546}{4658}Maybe you can cut me some slack.|I'm sort of in love.
+{4684}{4757}I'm sorry, but that's|really not my problem.
+{4772}{4813}I'm in love with you.
+{4863}{4928}That brings me in the loop a little.
+{4946}{5053}That's why I did so bad on this test.|I'm having a hard time concentrating.
+{5059}{5140}When you're up there|and you're teaching...
+{5145}{5201}...and your face gets all serious....
+{5207}{5322}You look so good. When you wear that|tight little turtleneck sweater--
+{5430}{5498}I'm your teacher. I'm sorry.
+{5504}{5541}You're a student.
+{5546}{5592}And I like women.
+{5599}{5698}In spite of what may be written|on the backs of these chairs.
+{5808}{5887}That guy at the counter's|totally checking you out.
+{5892}{5912}Really?
+{5944}{6030}-Oh, my God, he's really cute!|-Go for it.
+{6057}{6094}Phoebe, I'm engaged.
+{6099}{6162}I'm saying, get his number,|just in case.
+{6198}{6299}But if Chandler's in an accident|and can't perform sexually...
+{6305}{6424}...he'd want you to take a lover to|satisfy needs he'd no longer fulfill.
+{6547}{6598}Can I just tell you something?
+{6604}{6672}I'm very flattered, but I'm engaged.
+{6717}{6763}This is kind of embarrassing.
+{6768}{6840}I actually came over|to talk to your friend.
+{6908}{6951}You should be embarrassed.
+{7037}{7148}-I thought you knew I looked at you.|-I did, but that was really fun.
+{7203}{7277}"The winner is...Joey Tribbiani!"
+{7410}{7489}"I honestly never expected this.
+{7507}{7548}I didn't prepare a speech.
+{7553}{7656}I'd like to thank my parents,|who've always been there for me.
+{7662}{7784}Also like to thank my friends,|Chandler, Monica, Phoebe, Rachel--"
+{7789}{7828}-I'm fourth?|-Jeez!
+{7882}{7946}Look at you with your|maple syrup award!
+{7951}{8029}Maybe you don't tell anyone|about this?
+{8034}{8105}No big deal.|I do that with my shampoo bottle.
+{8110}{8131}-Really?|-Yeah.
+{8137}{8209}-What award are you practicing for?|-Grammy.
+{8245}{8285}For Best New Artist.
+{8324}{8434}The Soapies people called today.|I also get to present an award.
+{8439}{8513}So you'll get on stage|even if you don't win.
+{8611}{8678}-You don't think I'll win?|-Of course I do.
+{8702}{8793}But Favorite Returning Character?|That's a tough category.
+{8799}{8885}You're up against the guy who|survived his own cremation.
+{8908}{8988}No, I know I might not win.|But it's just....
+{8997}{9068}I've never been nominated.|I want it so much.
+{9074}{9110}You'll probably get it.
+{9116}{9204}But you should start practicing|your "gracious-loser" face.
+{9209}{9300}When the cameras are on you,|you want to look disappointed.
+{9305}{9393}But also that your colleague|deserved to win. Like:
+{9507}{9527}You know?
+{9532}{9655}-You practice losing the Grammys too?|-No, at the Grammys, I always win.
+{9795}{9857}-Hey!|-How'd your date go with Jake?
+{9863}{9934}Great. We couldn't keep|our eyes off each other.
+{9940}{10063}Every once in a while, he'd lean over,|stroke my hair, then touch my neck.
+{10072}{10142}Stop it. You're getting me|all tingly.
+{10156}{10225}All I could think of was,|is he gonna kiss me?
+{10230}{10295}-Did he?|-I'm a lady. I don't kiss and tell.
+{10300}{10354}But this hickey speaks for itself.
+{10359}{10407}Okay, I got it. I got it.
+{10418}{10516}I like him so much, I feel like|I've had 10 drinks today.
+{10521}{10552}I've only had six.
+{10606}{10697}I haven't had that feeling since|I first went out with Chandler.
+{10744}{10825}-I'll never have that feeling again.|-You sound like a guy.
+{10830}{10927}No, a guy would say, "I'll never|get to sleep with anyone else."
+{10935}{10992}I'll never sleep with anyone else!
+{11027}{11141}I'm so busy planning the wedding,|I forgot about what I'll give up.
+{11160}{11220}I'll never have a first kiss again.
+{11231}{11280}You'll have a last kiss.
+{11408}{11491}Can I ask you something? Has|a guy ever had a crush on you?
+{11498}{11546}Is that why you wanted to tie my tie?
+{11595}{11678}A kid in my class said|he's in love with me.
+{11683}{11707}Whoa!
+{11713}{11773}-Whoa, what?|-Ross has a boyfriend!
+{11795}{11846}I do not have a boyfriend.
+{11851}{11945}There's a guy in one of my classes|who has a crush on me.
+{11950}{11988}-Really?|-Yeah.
+{11993}{12057}Last year, Elizabeth, now this kid....
+{12063}{12150}What is it?|Am I giving out some kind of...
+{12155}{12219}...sexy-professor vibe?
+{12290}{12332}Not right now.
+{12342}{12465}The point is, my natural charisma has|made him fail his midterm.
+{12470}{12518}Now I feel bad for the kid.
+{12523}{12602}I had a crush on a teacher once,|and it was so hard.
+{12608}{12709}I couldn't concentrate.|I blushed every time he looked at me.
+{12714}{12792}You remember what it's like|to be 19 and in love.
+{12865}{12917}-I can cut him some slack.|-Yeah.
+{12926}{13047}-How'd you get over that teacher?|-I didn't. I got under him.
+{13086}{13115}Problem solved.
+{13203}{13261}-Bye, Phoebe.|-Okay, bye.
+{13388}{13458}-All right. Bye.|-Bye.
+{13615}{13714}We said goodbye at the door|so as not to flaunt our new love.
+{13719}{13809}It's okay.|You don't have to tiptoe around me.
+{13814}{13871}I've thought about it.|You know what?
+{13876}{13930}I'm okay, not having that|new-relationship feeling.
+{13941}{14024}-I miss you already!|-I miss you too!
+{14110}{14212}That's great, but I wouldn't|trade what I have for that.
+{14217}{14319}I'll be with Chandler the rest|of my life. That makes me happy.
+{14343}{14453}Come sit down. We're talking|about how our relationship's deep...
+{14458}{14523}...and meaningful.|It is, don't you think?
+{14528}{14557}Oh, totally.
+{14590}{14612}Pull my finger.
+{14758}{14884}-Favorite Returning Male--|-This is my category!
+{14889}{14929}-Got your speech?|-Got my speech.
+{14934}{14968}Got your gracious-loser face?
+{15037}{15108}Try to remember, if you win,|you have to hug me.
+{15117}{15159}Can I squeeze your ass?
+{15189}{15217}On TV?
+{15239}{15266}Yeah!
+{15295}{15376}In the Favorite Returning Male|character category, the nominees are:
+{15381}{15450}John Wheeler from "General Hospital."
+{15490}{15565}Gavin Graham from|{y:i}The Young and the Restless.
+{15590}{15664}Duncan Harrington from "Passions."
+{15676}{15760}And Joey Tribbiani from|{y:i}Days of Our Lives.
+{15793}{15848}And the Soapie goes to:
+{15895}{15970}Gavin Graham from|{y:i}The Young and the Restless.
+{16238}{16316}Presenting the Favorite Supporting|Actress award:
+{16321}{16384}Joey Tribbiani from|{y:i}Days of Our Lives.
+{16535}{16634}Any one of the brilliant actresses|nominated for this award...
+{16640}{16750}...deserves to take it home.|Unfortunately, only one can.
+{16804}{16864}The nominees for|Favorite Supporting Actress are:
+{16869}{16924}From "Passions", Erin Goff.
+{17038}{17147}From "One Life to Live," Mary Lauren|Bishop. "All My Children," Sarah Renee.
+{17153}{17220}And from "Days of Our Lives,"|Jessica Ashley.
+{17225}{17264}And the winner is:
+{17293}{17364}Jessica Ashley from "Days of Our Lives."
+{17404}{17482}Unfortunately, Jessica|couldn't be with us tonight...
+{17487}{17549}...so I'll accept this award|on her behalf.
+{17641}{17705}And I'm sure that Jessica...
+{17711}{17765}...wants to thank my parents...
+{17773}{17822}...who always believed in me.
+{17833}{17876}She'd also like to thank my friends:
+{17883}{17982}Chandler, Monica, Ross,|Phoebe and Rachel...
+{17987}{18037}...who's sitting right there.
+{18321}{18393}Why'd we rush out so fast?
+{18398}{18501}We had to get out of there|because-- Look what I won!
+{18547}{18623}Oh, my God. You stole her award!
+{18628}{18721}No, no, no. I'm accepting it|on her behalf.
+{18746}{18801}I don't think you know|what "behalf" means.
+{18807}{18906}Sure I do. It's a verb.|As in "I be half-in' it" !
+{19004}{19111}-You've got to take this back.|-I should've won. I really wanted it.
+{19117}{19223}She didn't care enough to come to the|thing. It could also be a Grammy.
+{19312}{19340}No, Joey.
+{19345}{19436}No one saw me take it.|There's a whole table of them.
+{19442}{19501}Do you want an award you didn't win?
+{19507}{19612}No, I want an award I did win.|But nobody's given me any of those!
+{19637}{19727}If I put it up, when people come over,|they'll see it...
+{19732}{19768}...and think I won it.
+{19773}{19846}Joey, it says|"Best Supporting Actress."
+{19851}{19905}I can scratch that right off.
+{19934}{19994}This is wrong.|You have to take it back.
+{19999}{20106}You don't want to win an award|this way. You're very talented.
+{20114}{20236}Someday you'll win one of these for|real and that one will mean something.
+{20297}{20366}-Oh, all right.|-All right? Thank you.
+{20391}{20441}I'll take it back tomorrow.
+{20730}{20792}If I can't have it,|you can't have it!
+{20955}{21051}-Professor Geller?|-Yes, Mr. Lewis? How can I help you?
+{21057}{21137}I know I didn't do well|on my midterms and stuff.
+{21142}{21218}But I was hoping you could|change my grade.
+{21223}{21282}And why, exactly, would I do that?
+{21294}{21340}Because I'm in love with you.
+{21410}{21430}What?
+{21458}{21547}Yeah. I'm all in love|with you and stuff.
+{21601}{21665}-So could you change my grade?|-No!
+{21691}{21741}Why not? You changed Ned's grade.
+{21747}{21844}That's different. Because he was|actually in love with me.
+{21850}{21921}No, he's not!|He's totally yanking your chain.
+{21926}{21990}He's done this with|three other teachers.
+{22036}{22087}-What?|-He's got a girlfriend.
+{22130}{22201}I can't believe someone|would do that for a grade.
+{22206}{22236}I know.
+{22241}{22274}It's awful.
+{22321}{22352}I love you.
+{22448}{22495}-Have you seen Chandler?|-No, why?
+{22500}{22573}I keep thinking about all|the things I won't have.
+{22579}{22648}It's freaking me out.|I don't know what to do.
+{22653}{22681}Don't sweat it.
+{22686}{22800}Chandler's not around, so get it|out of your system. That guy's cute.
+{22841}{22880}Come on, I'm serious.
+{22911}{23015}-I've got to talk to him about this.|-That's the last thing you want to do.
+{23025}{23110}-Why?|-Because you're marrying him!
+{23128}{23175}You gotta help me out here.
+{23190}{23269}I've never been engaged.|I've never really been married.
+{23274}{23338}I can only tell you|what my mother told me.
+{23344}{23446}When you have doubts or fears or|anxieties about a relationship...
+{23452}{23515}...don't communicate them|to your husband.
+{23556}{23629}I'm not supposed to share|my doubts and fears...
+{23634}{23707}...with the guy I'm spending|the rest of my life with?
+{23712}{23753}That is correct. Yes.
+{23759}{23862}You're supposed to put all that stuff|in a little box in your mind...
+{23867}{23897}...and lock it up.
+{23925}{23964}Your mother told you this?
+{23969}{24078}The woman who married a bunch of times|and killed herself when you were 13?
+{24110}{24148}Oh, my God, you're right.
+{24153}{24221}Tell Chandler.|Hurry, before it's too late!
+{24226}{24339}Wait! Does this also mean that|putting out doesn't get you love?
+{24467}{24539}-I'm gonna meet Jessica Ashley!|-Wait, wait.
+{24544}{24633}Rach, please be cool, okay?|I work with this woman.
+{24639}{24683}Okay, I'm totally cool.
+{24710}{24733}Come in.
+{24773}{24797}Hey, Jessica.
+{24803}{24829}Hey, Jess.
+{24860}{24891}This is my friend Rachel.
+{24896}{24934}-Hi.|-What's up?
+{25028}{25098}Here's your Soapie.|I accepted it for you.
+{25103}{25200}Oh, my God. I won?|Do you have any idea what this means?
+{25278}{25358}You're not gonna put it|on your shelf or anything?
+{25364}{25468}No, I try to save that for real|awards. Now if you'll excuse me?
+{25550}{25589}-Take it back?|-Absolutely.
+{25718}{25752}Yeah, you do!
+{25822}{25894}Honey?|As we get closer to the wedding...
+{25899}{25961}...is there anything|you'd like to share?
+{25967}{26060}Okay. I think the centerpieces|are too big.
+{26065}{26133}You're wrong.|The centerpieces are fine.
+{26172}{26268}-Do you ever get scared at all?|-Kind of. They're really big.
+{26314}{26437}Doesn't it freak you out that you'll|never be with anybody new again?
+{26461}{26481}What?
+{26522}{26555}I love you so much.
+{26588}{26683}Sometimes it bothers me that|I'll never have that feeling.
+{26688}{26738}When you first meet someone...
+{26744}{26828}...and it's new and exciting.|You know that rush?
+{26901}{26963}No, when I first meet somebody...
+{26968}{27073}...it's mostly panic, anxiety|and a great deal of sweating.
+{27111}{27153}Okay. But you're a guy.
+{27158}{27259}Aren't you freaked out that you'll|never sleep with anybody else?
+{27264}{27323}Sleeping with somebody, no.
+{27328}{27423}Anxiety, panic and, I'm afraid,|even more sweating.
+{27458}{27488}Even with me?
+{27493}{27603}I was dangerously dehydrated the|first six months of our relationship.
+{27638}{27761}For me, the rush is knowing that we'll|be together the rest of our lives.
+{27790}{27835}-Really?|-Well, yeah.
+{27850}{27960}Knowing you're having these thoughts,|we're back to panic, anxiety and...
+{27965}{28047}...l'll definitely need|some kind of sports drink.
+{28102}{28189}Come here. Oh, you don't|have to worry.
+{28194}{28308}Besides, you know what? I'll have|a lot of new things with you.
+{28313}{28421}The first time we buy a house. Our|first kid. Our first grandkid.
+{28426}{28485}Water. Water. Water.
+{28529}{28602}Mr. Morse? Can I speak to you|for a moment?
+{28672}{28779}That was a great lecture today.|Did you get a little haircut?
+{28784}{28870}Yeah, yeah. Do you like it?|Do you love it?
+{28907}{28976}I want you to know I'm|changing your grade back.
+{28981}{29038}What? Why?
+{29046}{29133}I know what you're trying|to pull here. It won't work.
+{29138}{29243}I'm not trying to pull anything.|Look, I love you, dude.
+{29269}{29373}I'm not even gonna talk about this.|This little "thing" is over.
+{29379}{29491}I know you have a girlfriend.|And I know about the other professors.
+{29497}{29579}How do you think that makes me feel?|You used me!
+{29584}{29642}You don't love me and you never did!
+{29722}{29784}Professor Winston.|Professor Frederickson.
+{29837}{29885}I'll be right with you.
+{29890}{29971}Don't make this worse and I'll|give you a "C." Shall we?
+{30152}{30194}I'll be out in a second.
+{30333}{30393}"It's just so unexpected!
+{30446}{30548}I'll tell you, it's such|an honor to just be nominated...
+{30553}{30610}...for a Nobel Prize.
+{30653}{30753}And, you know, to win one|for a massage!
+{30763}{30857}Especially just after winning a|Tony Award for Best Actress--"
+{30862}{30906}Our reservations are at 8.
+{30911}{30998}"--in "Reservations at Eight"|by Neil Simon.
+{31003}{31093}Thank you, Neil.|Thank you for the words."
+{31109}{31173}Finish this later.|We're gonna be late.
+{31178}{31258}Please don't play the music.|Just one more thing.
+{31263}{31353}Okay. "Live from New York,|it's "Saturday Night"!"

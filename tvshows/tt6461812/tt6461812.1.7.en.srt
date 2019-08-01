@@ -1,0 +1,3800 @@
+﻿1
+00:00:00,575 --> 00:00:02,023
+<i>I'm Cameron Black.</i>
+
+2
+00:00:02,079 --> 00:00:03,982
+<i>I was the world's greatest illusionist,</i>
+
+3
+00:00:04,053 --> 00:00:07,062
+<i>while nobody knew I had a twin
+brother behind the scenes.</i>
+
+4
+00:00:07,141 --> 00:00:09,421
+<i>Until the night
+he was framed for murder.</i>
+
+5
+00:00:09,500 --> 00:00:11,977
+The woman in the car
+with me had different color eyes.
+
+6
+00:00:12,039 --> 00:00:14,449
+<i>Now I've teamed up with the FBI.</i>
+
+7
+00:00:14,517 --> 00:00:17,039
+- You're Cameron Black.
+<i>- That's Agent Kay Daniels...</i>
+
+8
+00:00:17,102 --> 00:00:18,937
+- I know a few tricks, too.<i>
+- ...and we have a deal.</i>
+
+9
+00:00:18,971 --> 00:00:20,840
+<i>She helps me prove
+my brother's innocent.</i>
+
+10
+00:00:20,873 --> 00:00:22,641
+<i>I help her solve the kind of crimes</i>
+
+11
+00:00:22,675 --> 00:00:24,809
+<i>only a master of deception could crack.</i>
+
+12
+00:00:24,843 --> 00:00:26,178
+I feel like we should
+be chasing somebody.
+
+13
+00:00:26,210 --> 00:00:27,846
+<i>Thankfully, I don't work alone.</i>
+
+14
+00:00:27,879 --> 00:00:29,180
+<i>For my team of illusionists,</i>
+
+15
+00:00:29,213 --> 00:00:30,782
+<i>there's no criminal we can't trick,</i>
+
+16
+00:00:30,815 --> 00:00:32,651
+<i>no killer we can't track.</i>
+
+17
+00:00:32,684 --> 00:00:35,654
+<i>Like I always say, nothing's impossible.</i>
+
+18
+00:00:35,687 --> 00:00:36,922
+<i>Previously on "Deception"...</i>
+
+19
+00:00:36,955 --> 00:00:38,324
+We found Bishop's notebook.
+
+20
+00:00:38,357 --> 00:00:40,660
+Now, we think
+the mystery woman's next move
+
+21
+00:00:40,693 --> 00:00:42,794
+is gonna be in there somewhere,
+but it's written in a code
+
+22
+00:00:42,827 --> 00:00:45,297
+that the FBI's best
+cryptographers can't crack.
+
+23
+00:00:45,330 --> 00:00:46,866
+We figure out what's in there,
+
+24
+00:00:46,898 --> 00:00:49,102
+we're one step closer
+to getting you out of here.
+
+25
+00:01:17,211 --> 00:01:20,280
+It's right there in front of you.
+
+26
+00:01:20,314 --> 00:01:23,383
+You just can't see it.
+
+27
+00:01:23,448 --> 00:01:26,218
+You're not smart enough
+to catch me, Johnny.
+
+28
+00:01:26,252 --> 00:01:28,154
+I'm dreaming.
+
+29
+00:01:28,186 --> 00:01:30,222
+You can't stop thinking about me.
+
+30
+00:01:30,255 --> 00:01:32,191
+Because you destroyed my life.
+
+31
+00:01:33,993 --> 00:01:35,995
+What life?
+
+32
+00:01:36,028 --> 00:01:38,431
+Hiding in the shadows?
+
+33
+00:01:40,933 --> 00:01:44,103
+Cheating on your girlfriend with me?
+
+34
+00:01:48,507 --> 00:01:51,111
+I will find you.
+
+35
+00:01:54,046 --> 00:01:55,448
+What are you gonna do to me
+when you find me?
+
+36
+00:02:11,898 --> 00:02:13,132
+What are you after?
+
+37
+00:02:35,287 --> 00:02:36,555
+Cam.
+
+38
+00:02:36,589 --> 00:02:38,291
+Hey, man. Time for
+another therapy session?
+
+39
+00:02:38,323 --> 00:02:39,492
+I got a lot to analyze.
+
+40
+00:02:39,524 --> 00:02:41,426
+I cracked the Mystery Woman's code.
+
+41
+00:02:41,459 --> 00:02:43,462
+That's great, Johnny.
+We can talk about it later.
+
+42
+00:02:43,495 --> 00:02:45,665
+I'm kind of tired.
+
+43
+00:02:45,697 --> 00:02:47,132
+Figured out what the next target is.
+
+44
+00:02:47,166 --> 00:02:48,300
+- Cam, are you listening?
+- I...
+
+45
+00:02:48,333 --> 00:02:50,435
+Yeah.
+
+46
+00:02:51,637 --> 00:02:52,972
+Cam, it's you.
+
+47
+00:02:53,005 --> 00:02:54,240
+Johnny, there's something wrong.
+
+48
+00:02:54,273 --> 00:02:56,209
+There's all these people
+that are filming me.
+
+49
+00:02:56,242 --> 00:02:57,243
+Run.
+
+50
+00:02:57,275 --> 00:02:58,511
+Cam, you got to run.
+
+51
+00:03:06,351 --> 00:03:08,186
+Hello, Cameron.
+
+52
+00:03:09,322 --> 00:03:10,323
+Aah!
+
+53
+00:03:10,356 --> 00:03:12,659
+Cameron.
+
+54
+00:03:12,691 --> 00:03:15,627
+Cameron!
+
+55
+00:03:15,661 --> 00:03:17,196
+Hey!
+
+56
+00:03:17,228 --> 00:03:18,464
+You got to call the FBI.
+
+57
+00:03:18,496 --> 00:03:19,933
+I do?
+
+58
+00:03:19,965 --> 00:03:21,300
+Look, please... please, there's no time.
+
+59
+00:03:21,333 --> 00:03:23,101
+Warden only approved one call.
+
+60
+00:03:23,135 --> 00:03:24,971
+I get that, I do, but, please,
+my brother is in trouble.
+
+61
+00:03:25,004 --> 00:03:27,373
+- One call means one call.
+- I understand that.
+
+62
+00:03:27,405 --> 00:03:29,207
+If you would just...
+
+63
+00:03:29,240 --> 00:03:31,243
+5 goes in the corner, 2, 6, 8, 9.
+
+64
+00:03:31,276 --> 00:03:34,513
+All done. Would you please
+call the damn FBI right now?!
+
+65
+00:03:34,547 --> 00:03:36,416
+All right, all right, please!
+Just call...
+
+66
+00:03:36,448 --> 00:03:37,951
+Would you please?!
+
+67
+00:03:37,983 --> 00:03:41,186
+- Get him out of here.
+- All right, I'm going.
+
+68
+00:03:54,200 --> 00:03:55,567
+This is Jonathan Black.
+
+69
+00:03:55,601 --> 00:03:57,103
+I need to speak to
+Special Agent Kay Daniels.
+
+70
+00:03:57,136 --> 00:03:58,638
+Tell her my brother's in trouble.
+
+71
+00:03:58,671 --> 00:04:02,341
+GPS on Cameron's phone led us here.
+
+72
+00:04:02,375 --> 00:04:04,010
+Detective Bryan Weeks, NYPD.
+
+73
+00:04:04,042 --> 00:04:05,243
+My guys haven't found anything.
+
+74
+00:04:05,276 --> 00:04:06,612
+I want this area taped off.
+
+75
+00:04:06,644 --> 00:04:08,647
+- It's not a crime scene.
+- A man was abducted here.
+
+76
+00:04:08,680 --> 00:04:10,582
+- There's no evidence of that.
+- Then go find some.
+
+77
+00:04:14,185 --> 00:04:16,022
+Hey, ease up a bit. He didn't do it.
+
+78
+00:04:16,055 --> 00:04:18,490
+- We both know who did.
+- We don't know anything yet.
+
+79
+00:04:18,524 --> 00:04:21,094
+We'll find Cameron. Just take a breath.
+
+80
+00:04:35,274 --> 00:04:37,410
+Jonathan was right... she took him.
+
+81
+00:04:37,442 --> 00:04:39,678
+Detective Weeks!
+
+82
+00:04:39,712 --> 00:04:41,313
+I need you to pull
+
+83
+00:04:41,346 --> 00:04:43,181
+all the security-camera footage
+facing this alley.
+
+84
+00:04:43,214 --> 00:04:44,784
+With all due respect, Agent Daniels,
+
+85
+00:04:44,817 --> 00:04:47,387
+a civilian has to be missing 24
+hours before we can do anything.
+
+86
+00:04:47,420 --> 00:04:49,654
+- You know that.
+- He is one of us.
+
+87
+00:04:49,687 --> 00:04:51,224
+What?
+
+88
+00:04:51,257 --> 00:04:52,759
+You called him a civilian.
+He's one of us.
+
+89
+00:04:52,791 --> 00:04:54,092
+If one of your guys went missing,
+
+90
+00:04:54,125 --> 00:04:56,294
+would you wait 24 hours?
+
+91
+00:04:56,327 --> 00:04:58,630
+I'll get the footage myself.
+
+92
+00:04:58,663 --> 00:05:01,300
+Thank you.
+
+93
+00:05:01,332 --> 00:05:03,535
+Oh, God. What the hell happened here?
+
+94
+00:05:03,569 --> 00:05:05,038
+Cameron told Jonathan
+
+95
+00:05:05,070 --> 00:05:06,571
+that there was a large
+group of people filming.
+
+96
+00:05:06,604 --> 00:05:08,173
+Were they all working for her?
+
+97
+00:05:08,207 --> 00:05:09,675
+She steals random artifacts.
+
+98
+00:05:09,707 --> 00:05:13,145
+Now she kidnaps Cameron?
+
+99
+00:05:13,178 --> 00:05:15,214
+How did she do it?
+
+100
+00:05:15,247 --> 00:05:17,183
+Cameron would know.
+
+101
+00:05:17,216 --> 00:05:19,786
+He can't help us on this one.
+
+102
+00:05:19,819 --> 00:05:23,056
+So, what do you do when you lose
+your Master of Deception?
+
+103
+00:05:26,358 --> 00:05:29,262
+You get another one.
+
+104
+00:05:36,502 --> 00:05:37,737
+You sure about this?
+
+105
+00:05:37,769 --> 00:05:40,072
+Nope.
+
+106
+00:05:40,106 --> 00:05:41,274
+He's unpredictable.
+
+107
+00:05:41,307 --> 00:05:43,209
+Yep.
+
+108
+00:05:43,241 --> 00:05:45,111
+This could go sideways.
+
+109
+00:05:45,144 --> 00:05:47,447
+You have a better idea?
+
+110
+00:05:47,479 --> 00:05:49,414
+Just remember, he's not Cameron.
+
+111
+00:05:49,447 --> 00:05:51,116
+I know.
+
+112
+00:05:54,853 --> 00:05:57,423
+Let's go find my brother.
+
+113
+00:06:00,491 --> 00:06:03,562
+<font color="#0080ff">Synced & corrected by</font> kinglouisxx
+<font color="#0080ff">www.</font>addic7ed<font color="#0080ff">.com</font>
+
+114
+00:06:11,069 --> 00:06:12,404
+Oh, I'm sorry, big guy.
+
+115
+00:06:12,437 --> 00:06:14,072
+Better?
+
+116
+00:06:14,105 --> 00:06:15,307
+Well, that depends.
+
+117
+00:06:15,341 --> 00:06:16,638
+Am I supposed to feel my foot?
+
+118
+00:06:17,944 --> 00:06:19,412
+He's good to go.
+
+119
+00:06:19,444 --> 00:06:20,680
+Thanks, Mark.
+
+120
+00:06:20,713 --> 00:06:23,049
+Okay. As you can see,
+
+121
+00:06:23,081 --> 00:06:25,183
+Mike has just equipped you
+with an ankle monitor.
+
+122
+00:06:25,216 --> 00:06:27,920
+It has an advanced GPS tracker
+built into it.
+
+123
+00:06:27,954 --> 00:06:29,588
+Fancy.
+
+124
+00:06:29,622 --> 00:06:32,324
+You will stay within 50 yards
+of Agent Daniels at all times.
+
+125
+00:06:32,358 --> 00:06:35,194
+If you decide to stray 51 yards
+or more from Agent Daniels...
+
+126
+00:06:35,226 --> 00:06:36,328
+Ooh. I get an electric shock?
+
+127
+00:06:36,362 --> 00:06:37,997
+My watch beeps.
+
+128
+00:06:38,029 --> 00:06:39,364
+That's it?
+
+129
+00:06:39,398 --> 00:06:41,200
+That, and you'll be considered
+a fugitive.
+
+130
+00:06:41,233 --> 00:06:42,602
+And if you remove it...
+
+131
+00:06:42,634 --> 00:06:45,271
+Yeah, I get it... bald
+Ricky Martin gets to shoot me.
+
+132
+00:06:45,303 --> 00:06:49,207
+Now, can we cut through all this
+GPS B.S. and go find Cameron?
+
+133
+00:06:49,240 --> 00:06:51,644
+You talk less than your brother... good.
+
+134
+00:06:51,677 --> 00:06:53,680
+Go get him.
+
+135
+00:06:55,714 --> 00:06:57,616
+You want to see the team first?
+
+136
+00:06:57,649 --> 00:06:59,151
+Yeah.
+
+137
+00:07:03,122 --> 00:07:04,357
+Cameron's blocked in every single frame.
+
+138
+00:07:04,389 --> 00:07:06,224
+Who... Who are all these people?
+
+139
+00:07:06,257 --> 00:07:07,960
+When I find out who these cowards are...
+
+140
+00:07:07,994 --> 00:07:09,629
+And they're... they're all
+on the phones.
+
+141
+00:07:09,661 --> 00:07:11,197
+...I'm gonna start
+with their fingernails,
+
+142
+00:07:11,230 --> 00:07:13,099
+just like in the war.
+
+143
+00:07:13,132 --> 00:07:14,567
+What are you gonna do
+with their fingernails?
+
+144
+00:07:14,600 --> 00:07:16,269
+You don't want to know.
+
+145
+00:07:16,302 --> 00:07:17,569
+Then... Then why'd you put that
+image in my head?
+
+146
+00:07:17,603 --> 00:07:19,504
+All I'm thinking about is fingernails.
+
+147
+00:07:19,538 --> 00:07:22,508
+You guys throw out the sandwich
+I left in the fridge?
+
+148
+00:07:22,540 --> 00:07:23,642
+Johnny boy!
+
+149
+00:07:25,110 --> 00:07:26,312
+- Gunter ate it.
+- It was delicious.
+
+150
+00:07:26,345 --> 00:07:28,181
+Welcome back, son.
+
+151
+00:07:28,213 --> 00:07:29,649
+Hey.
+
+152
+00:07:33,151 --> 00:07:34,519
+Welcome home.
+
+153
+00:07:34,552 --> 00:07:37,523
+It's a round-trip ticket,
+so don't get too excited.
+
+154
+00:07:37,555 --> 00:07:39,391
+It's good to be here.
+
+155
+00:07:39,425 --> 00:07:40,692
+Yeah.
+
+156
+00:07:47,466 --> 00:07:49,102
+You find anything?
+
+157
+00:07:49,134 --> 00:07:51,536
+Um, we've analyzed the security
+footage from last night,
+
+158
+00:07:51,569 --> 00:07:53,338
+but we can't see
+what's happened to Cameron.
+
+159
+00:07:53,372 --> 00:07:54,540
+He's blocked at every angle.
+
+160
+00:07:54,581 --> 00:07:55,773
+Maybe that was her plan.
+
+161
+00:07:55,812 --> 00:07:57,209
+What plan? Why... Why does she want him?
+
+162
+00:07:57,242 --> 00:07:58,343
+Maybe it's sexual.
+
+163
+00:07:58,377 --> 00:07:59,679
+Oh, what is wrong with you?
+
+164
+00:07:59,711 --> 00:08:03,015
+She took him for a reason.
+The question is what?
+
+165
+00:08:03,048 --> 00:08:05,384
+She's already a master of
+deception. What does Cam have?
+
+166
+00:08:05,418 --> 00:08:07,754
+I've never heard of needing
+so many people to kidnap one.
+
+167
+00:08:07,786 --> 00:08:11,024
+Sacrifice 99 to fool one.
+
+168
+00:08:11,057 --> 00:08:13,059
+It's an illusion where
+the entire audience
+
+169
+00:08:13,091 --> 00:08:15,560
+is in on the trick
+just to fool one member of it.
+
+170
+00:08:15,593 --> 00:08:17,562
+Can I demonstrate? Matt?
+
+171
+00:08:17,596 --> 00:08:20,098
+It's Mike.
+
+172
+00:08:20,132 --> 00:08:22,168
+And I don't like magic.
+
+173
+00:08:22,201 --> 00:08:23,302
+Since when?
+
+174
+00:08:23,334 --> 00:08:24,704
+Okay. One trick.
+
+175
+00:08:24,737 --> 00:08:26,039
+Take a seat.
+
+176
+00:08:26,072 --> 00:08:27,639
+Thanks so much for volunteering.
+
+177
+00:08:27,673 --> 00:08:31,377
+This trick is called Slydini's
+Flight of the Paper Balls.
+
+178
+00:08:31,410 --> 00:08:32,677
+Hold that for me.
+
+179
+00:08:32,711 --> 00:08:34,480
+All you got to do is watch this ball.
+
+180
+00:08:34,513 --> 00:08:36,581
+I'm gonna put it in my hand
+and give it a little tap,
+
+181
+00:08:36,615 --> 00:08:38,317
+and it's gonna disappear, all right?
+
+182
+00:08:38,350 --> 00:08:41,120
+So, watch super-carefully
+as I give it a tap...
+
+183
+00:08:41,153 --> 00:08:43,089
+- and it disappears.
+- Where'd it go?
+
+184
+00:08:43,121 --> 00:08:44,456
+Okay. We'll try one more time.
+
+185
+00:08:44,490 --> 00:08:46,359
+I'm gonna take the ball, all right?
+
+186
+00:08:46,392 --> 00:08:48,361
+Watch carefully as I put it in my hand,
+
+187
+00:08:48,394 --> 00:08:49,796
+give it a couple of taps.
+
+188
+00:08:49,828 --> 00:08:52,097
+You see it that time?
+
+189
+00:08:52,130 --> 00:08:53,732
+- What's so funny?
+- I don't think he's paying attention.
+
+190
+00:08:53,765 --> 00:08:55,233
+It's going over your head every time.
+
+191
+00:08:55,267 --> 00:08:56,335
+What's so funny?
+I don't... I don't get it.
+
+192
+00:08:57,836 --> 00:08:59,605
+Johnny, that's enough.
+
+193
+00:08:59,638 --> 00:09:01,474
+So, you're saying
+all of those people last night
+
+194
+00:09:01,506 --> 00:09:03,141
+knew that Cameron was gonna be abducted?
+
+195
+00:09:03,174 --> 00:09:04,644
+Not necessarily.
+
+196
+00:09:04,677 --> 00:09:06,079
+There's a difference
+between being in on the trick
+
+197
+00:09:06,111 --> 00:09:07,480
+and being part of the trick.
+
+198
+00:09:07,513 --> 00:09:09,715
+My guess is, they just served
+their purpose.
+
+199
+00:09:09,748 --> 00:09:11,184
+Take me to the crime scene.
+
+200
+00:09:11,216 --> 00:09:12,284
+We already swept the crime scene.
+
+201
+00:09:12,317 --> 00:09:14,187
+You missed something.
+
+202
+00:09:16,355 --> 00:09:17,757
+You know, he's doing it on purpose.
+
+203
+00:09:17,789 --> 00:09:19,558
+Maybe he's just threatened by you.
+
+204
+00:09:19,591 --> 00:09:21,193
+Well, he should be.
+
+205
+00:09:21,226 --> 00:09:22,394
+Look, can we just focus?
+
+206
+00:09:22,427 --> 00:09:24,362
+On what? We already did this.
+
+207
+00:09:24,395 --> 00:09:25,564
+There's no point being here.
+
+208
+00:09:25,597 --> 00:09:26,631
+It's a waste of time.
+
+209
+00:09:26,664 --> 00:09:28,767
+And he is...
+
+210
+00:09:28,801 --> 00:09:30,436
+He's gone. Where did Jonathan go?
+
+211
+00:09:30,469 --> 00:09:32,504
+He's close.
+
+212
+00:09:35,740 --> 00:09:37,242
+Mmm.
+
+213
+00:09:37,275 --> 00:09:39,245
+You've got to be kidding.
+
+214
+00:09:39,278 --> 00:09:40,513
+I missed these.
+
+215
+00:09:40,546 --> 00:09:41,881
+The stuff they serve in prison
+
+216
+00:09:41,913 --> 00:09:43,816
+should be considered
+cruel and unusual punishment.
+
+217
+00:09:43,849 --> 00:09:45,785
+You do realize your brother's
+still missing, right?
+
+218
+00:09:45,817 --> 00:09:47,720
+You seen it yet?
+
+219
+00:09:47,753 --> 00:09:48,855
+Seen what?
+
+220
+00:09:48,888 --> 00:09:50,423
+Remember Andre the Giant?
+
+221
+00:09:50,456 --> 00:09:51,524
+The wrestler?
+
+222
+00:09:51,557 --> 00:09:53,658
+Yeah! Very good, Matt.
+
+223
+00:09:53,692 --> 00:09:56,762
+The incredibly large wrestler,
+hence the moniker.
+
+224
+00:09:56,794 --> 00:10:00,466
+Back in 1989, a design student
+used Andre's image
+
+225
+00:10:00,499 --> 00:10:02,701
+in a sticker campaign that
+appeared all over the world...
+
+226
+00:10:02,735 --> 00:10:04,537
+"Andre the Giant Has a Posse."
+
+227
+00:10:04,570 --> 00:10:05,805
+I remember those.
+
+228
+00:10:05,837 --> 00:10:07,439
+You'd even see them in bathrooms.
+
+229
+00:10:07,472 --> 00:10:10,342
+Exactly. See, it was an
+experiment in phenomenology...
+
+230
+00:10:10,375 --> 00:10:11,810
+the idea that you can see something
+
+231
+00:10:11,844 --> 00:10:13,913
+but not really be aware of it.
+
+232
+00:10:13,946 --> 00:10:15,548
+They just put the stickers everywhere
+
+233
+00:10:15,581 --> 00:10:17,750
+so they just kind of blended in
+to your everyday life.
+
+234
+00:10:17,783 --> 00:10:20,418
+- Now they're a clothing line.
+- What's your point, Jonathan?
+
+235
+00:10:20,451 --> 00:10:23,556
+The brick wall in the alley,
+ATM, parking meter...
+
+236
+00:10:23,589 --> 00:10:24,891
+what do they have in common?
+
+237
+00:10:24,923 --> 00:10:27,159
+The Q sticker?
+
+238
+00:10:27,192 --> 00:10:28,627
+Most people walk straight by them.
+
+239
+00:10:28,660 --> 00:10:31,530
+They see them, but they're not
+consciously aware of them.
+
+240
+00:10:31,563 --> 00:10:34,232
+In order to be aware of them,
+you got to look for them.
+
+241
+00:10:34,288 --> 00:10:36,735
+Unless you're me. I just kind of always
+
+242
+00:10:36,782 --> 00:10:38,603
+saw the patterns without trying.
+
+243
+00:10:38,636 --> 00:10:40,405
+See that guy's shirt?
+
+244
+00:10:41,528 --> 00:10:43,597
+It's the same Q.
+
+245
+00:10:44,576 --> 00:10:45,610
+Hey, Mike?
+
+246
+00:10:45,644 --> 00:10:48,380
+Somebody's watching us.
+
+247
+00:10:52,484 --> 00:10:54,220
+- Stop!
+- Freeze!
+
+248
+00:10:54,253 --> 00:10:55,488
+What are you doing here?!
+
+249
+00:10:55,520 --> 00:10:57,189
+Uh, sorry. I-I-I'm sorry.
+
+250
+00:10:57,222 --> 00:10:58,490
+I-I just...
+
+251
+00:10:58,524 --> 00:10:59,859
+I heard he was over here,
+
+252
+00:10:59,892 --> 00:11:01,460
+and I just wanted to check myself.
+
+253
+00:11:01,500 --> 00:11:02,468
+What?
+
+254
+00:11:02,494 --> 00:11:03,562
+She thinks you're Cameron.
+
+255
+00:11:03,596 --> 00:11:04,663
+Are you a fan?
+
+256
+00:11:04,697 --> 00:11:05,865
+No.
+
+257
+00:11:05,898 --> 00:11:07,867
+Uh, I just wanted to boost my points
+
+258
+00:11:07,899 --> 00:11:09,534
+for the... the Octagon.
+
+259
+00:11:09,567 --> 00:11:10,870
+What is that?
+
+260
+00:11:10,903 --> 00:11:12,504
+Symbol for Quest Trek.
+
+261
+00:11:12,538 --> 00:11:13,873
+Wait.
+
+262
+00:11:13,905 --> 00:11:15,507
+Quest Trek the game?
+
+263
+00:11:15,541 --> 00:11:17,743
+Yeah, it's like Pokémon Go!
+except way cooler.
+
+264
+00:11:17,775 --> 00:11:19,778
+It's a mobile game.
+
+265
+00:11:19,812 --> 00:11:21,447
+That's why they were using their phones.
+
+266
+00:11:21,480 --> 00:11:23,216
+They weren't filming Cameron.
+
+267
+00:11:23,249 --> 00:11:24,617
+They were playing a game.
+
+268
+00:11:24,649 --> 00:11:27,252
+Congratulations.
+
+269
+00:11:27,285 --> 00:11:29,221
+You're worth a million points.
+
+270
+00:11:37,963 --> 00:11:39,064
+Am I doing it wrong?
+
+271
+00:11:39,097 --> 00:11:40,866
+No. I'm just not a target.
+
+272
+00:11:40,898 --> 00:11:43,969
+Try aiming it at him.
+
+273
+00:11:44,002 --> 00:11:46,104
+Whoa. You're glowing.
+
+274
+00:11:46,137 --> 00:11:49,575
+Thanks.
+Exercise, healthy diet... prison.
+
+275
+00:11:49,608 --> 00:11:51,944
+That's what a million points looks like.
+
+276
+00:11:51,977 --> 00:11:54,579
+The, uh, map in the game alerts you
+
+277
+00:11:54,613 --> 00:11:55,981
+whenever there's a target nearby.
+
+278
+00:11:56,013 --> 00:11:58,017
+These targets,
+they're always actual people?
+
+279
+00:11:58,050 --> 00:12:00,453
+No. That was just one challenge.
+
+280
+00:12:00,485 --> 00:12:02,454
+It's never the same thing twice.
+
+281
+00:12:02,488 --> 00:12:05,023
+It's what makes Quest Trek so great.
+
+282
+00:12:05,056 --> 00:12:08,493
+I mean, I didn't think playing
+it would get me into trouble.
+
+283
+00:12:08,526 --> 00:12:09,895
+We know you've done nothing wrong.
+
+284
+00:12:09,927 --> 00:12:11,095
+Does that mean I can go home?
+
+285
+00:12:11,128 --> 00:12:12,730
+Soon. Promise.
+
+286
+00:12:12,763 --> 00:12:14,632
+Can you tell us about the Octagon first?
+
+287
+00:12:14,666 --> 00:12:16,535
+- What is it?
+- It's the final Quest.
+
+288
+00:12:16,568 --> 00:12:18,137
+At Roosevelt Island.
+
+289
+00:12:18,170 --> 00:12:20,005
+The top point-getters in the world
+
+290
+00:12:20,037 --> 00:12:23,041
+come together to compete
+in a winner-take-all Quest.
+
+291
+00:12:23,075 --> 00:12:26,179
+Here's my invitation.
+
+292
+00:12:27,912 --> 00:12:29,882
+It's today.
+
+293
+00:12:35,219 --> 00:12:37,255
+You think the Mystery Woman
+used a mobile game
+
+294
+00:12:37,289 --> 00:12:40,925
+that has 2 million users
+worldwide to abduct Cameron?
+
+295
+00:12:40,959 --> 00:12:42,594
+- Yes.
+- How's that possible?
+
+296
+00:12:42,627 --> 00:12:44,597
+Well, we don't know yet.
+Maybe she hacked it.
+
+297
+00:12:44,629 --> 00:12:45,964
+We'll find out at the Octagon.
+
+298
+00:12:45,998 --> 00:12:47,565
+- The what?
+- The Octagon.
+
+299
+00:12:47,599 --> 00:12:49,100
+It's the final Quest Trek event.
+
+300
+00:12:49,133 --> 00:12:50,902
+Maybe somebody who works for
+the Mystery Woman will be there.
+
+301
+00:12:50,935 --> 00:12:52,204
+You trust him?
+
+302
+00:12:52,237 --> 00:12:54,640
+I trust that he wants
+to save his brother.
+
+303
+00:12:54,672 --> 00:12:55,941
+Don't let him out of your sight.
+
+304
+00:12:58,676 --> 00:13:00,613
+Remember the last time
+you put me in disguise?
+
+305
+00:13:00,646 --> 00:13:04,250
+Paris, New Year's Eve, 2015.
+
+306
+00:13:04,282 --> 00:13:05,783
+Still not sure which was worse...
+
+307
+00:13:05,816 --> 00:13:08,753
+the fake mustache or the beret.
+
+308
+00:13:08,786 --> 00:13:10,857
+The beret... not your best look.
+
+309
+00:13:12,757 --> 00:13:14,192
+Seems like a lifetime ago.
+
+310
+00:13:14,225 --> 00:13:16,561
+Yeah.
+
+311
+00:13:19,230 --> 00:13:21,132
+We had a good time, though, huh?
+
+312
+00:13:21,166 --> 00:13:23,268
+Certainly wasn't boring.
+
+313
+00:13:24,936 --> 00:13:27,171
+Speaking of boring, how's that going?
+
+314
+00:13:27,204 --> 00:13:28,674
+Johnny...
+
+315
+00:13:28,706 --> 00:13:31,309
+Well, it's not a "thing" thing, is it?
+
+316
+00:13:31,343 --> 00:13:33,679
+Am I allowed to hope that it is?
+
+317
+00:13:33,711 --> 00:13:36,681
+Has he kissed you yet?
+
+318
+00:13:36,714 --> 00:13:39,817
+I'm not talking about that with you.
+
+319
+00:13:39,850 --> 00:13:42,821
+- Well, why don't you just...
+- No.
+
+320
+00:13:47,059 --> 00:13:49,627
+Let's focus on
+trying to find your brother.
+
+321
+00:13:49,661 --> 00:13:51,296
+You need a pair of glasses.
+
+322
+00:13:54,999 --> 00:13:57,570
+I'm losing everything, Gunter.
+
+323
+00:13:57,603 --> 00:13:59,637
+Well, this might help you with that.
+
+324
+00:13:59,671 --> 00:14:01,339
+A belt?
+
+325
+00:14:01,373 --> 00:14:03,675
+Yeah, I made the buckle myself.
+
+326
+00:14:03,709 --> 00:14:05,109
+Lockpicks... very nice.
+
+327
+00:14:07,079 --> 00:14:08,981
+You've always had my back, Johnny.
+
+328
+00:14:09,013 --> 00:14:11,049
+Now I've got yours.
+
+329
+00:14:17,189 --> 00:14:19,158
+- What's up, Mike?
+- Jordan.
+
+330
+00:14:19,190 --> 00:14:22,360
+Okay.
+
+331
+00:14:22,393 --> 00:14:25,163
+This sucks for you, huh?
+
+332
+00:14:25,196 --> 00:14:26,264
+What?
+
+333
+00:14:26,297 --> 00:14:27,599
+You know.
+
+334
+00:14:27,632 --> 00:14:29,001
+No, I actually don't.
+
+335
+00:14:29,033 --> 00:14:30,702
+The two elephants in the room
+that used to date
+
+336
+00:14:30,735 --> 00:14:32,604
+while the third elephant
+watches them reunite.
+
+337
+00:14:32,637 --> 00:14:35,608
+That's not even close to an expression.
+
+338
+00:14:35,641 --> 00:14:37,142
+I know what it's like
+to come in second place.
+
+339
+00:14:41,079 --> 00:14:42,815
+It's not a competition, Jordan.
+
+340
+00:14:42,848 --> 00:14:44,149
+I see what you're trying to do, Mike.
+
+341
+00:14:44,181 --> 00:14:45,750
+You're creating a fourth
+elephant in the room...
+
+342
+00:14:45,783 --> 00:14:47,619
+...and I respect that.
+
+343
+00:14:47,652 --> 00:14:49,153
+- Again...
+- We'll finish this talk later.
+
+344
+00:14:49,186 --> 00:14:51,222
+No... No, we don't have to, really.
+
+345
+00:14:55,661 --> 00:14:57,597
+All right.
+
+346
+00:15:00,232 --> 00:15:01,767
+Perfection.
+
+347
+00:15:01,800 --> 00:15:03,736
+You look like a million bucks.
+
+348
+00:15:03,768 --> 00:15:05,137
+Or a million points.
+
+349
+00:15:23,689 --> 00:15:25,991
+This is it... The Octagon.
+
+350
+00:15:26,023 --> 00:15:28,292
+Used to be an insane asylum
+back in the '40s.
+
+351
+00:15:28,325 --> 00:15:30,028
+It's been closed for decades.
+
+352
+00:15:30,061 --> 00:15:32,163
+Now it's hosting
+a surprisingly cool party.
+
+353
+00:15:32,196 --> 00:15:33,264
+Not what I expected.
+
+354
+00:15:33,297 --> 00:15:34,866
+What'd you expect?
+
+355
+00:15:34,900 --> 00:15:36,101
+My junior high school dance,
+
+356
+00:15:36,133 --> 00:15:38,002
+bunch of nerds, a few punch bowls...
+
+357
+00:15:38,036 --> 00:15:39,438
+Mrs. Kaminsky yelling at me
+
+358
+00:15:39,470 --> 00:15:41,806
+to go home and put on a longer dress.
+
+359
+00:15:41,839 --> 00:15:44,209
+I see why Cam likes working with you.
+
+360
+00:15:44,242 --> 00:15:46,178
+- Hey, we're gonna find him.
+- Oh, I know.
+
+361
+00:15:46,210 --> 00:15:48,312
+Just means a lot how much
+you care about him.
+
+362
+00:15:48,345 --> 00:15:51,416
+For the record,
+my relationship with Cameron
+
+363
+00:15:51,450 --> 00:15:52,751
+is strictly professional.
+
+364
+00:15:52,783 --> 00:15:54,819
+Oh, yeah, no, I know.
+
+365
+00:15:54,853 --> 00:15:56,255
+You're not his type.
+
+366
+00:16:01,258 --> 00:16:03,228
+Welcome to The Octagon!
+
+367
+00:16:05,129 --> 00:16:07,965
+If you're here today, that means
+you are the best of the best,
+
+368
+00:16:07,998 --> 00:16:10,368
+and we have created
+the most challenging Quest
+
+369
+00:16:10,401 --> 00:16:12,437
+any of you have ever participated in.
+
+370
+00:16:12,470 --> 00:16:16,741
+Without further delay, it is
+time for you all to enter...
+
+371
+00:16:16,775 --> 00:16:18,911
+The Octagon.
+
+372
+00:16:29,186 --> 00:16:31,322
+Who's ready for today's Quest?
+
+373
+00:16:32,991 --> 00:16:35,160
+One of the former patients
+of this institution
+
+374
+00:16:35,193 --> 00:16:37,463
+wrote cryptic riddles
+all over the walls.
+
+375
+00:16:37,496 --> 00:16:40,199
+The first player to answer
+every riddle correctly
+
+376
+00:16:40,232 --> 00:16:42,868
+will be awarded 5 million points.
+
+377
+00:16:42,901 --> 00:16:44,435
+Good luck.
+
+378
+00:16:44,469 --> 00:16:46,204
+That voice... that was her.
+That's the Mystery Woman.
+
+379
+00:16:46,238 --> 00:16:48,373
+- Are you sure?
+- I'll never forget that voice.
+
+380
+00:16:48,406 --> 00:16:49,842
+Why waste her time with a game?
+
+381
+00:16:49,874 --> 00:16:51,142
+Because it's not just a game to her.
+
+382
+00:16:51,175 --> 00:16:52,844
+It's like when she took Cameron.
+
+383
+00:16:52,877 --> 00:16:54,879
+The game was a disguise
+for an actual kidnapping.
+
+384
+00:16:54,912 --> 00:16:56,948
+My guess is, the story
+she's telling is true,
+
+385
+00:16:56,982 --> 00:16:58,416
+but she doesn't know the answer.
+
+386
+00:16:58,450 --> 00:17:00,985
+I think she's crowdsourcing
+Quest Trek's brain power
+
+387
+00:17:01,018 --> 00:17:02,754
+to help her figure something out.
+
+388
+00:17:02,787 --> 00:17:04,455
+Let's go talk to the C.E.O. and find out
+
+389
+00:17:04,488 --> 00:17:06,858
+if he even knows he's working
+for a criminal mastermind.
+
+390
+00:17:06,892 --> 00:17:08,093
+Uh, whoa, whoa. What about the Quest?
+
+391
+00:17:08,125 --> 00:17:09,327
+What about it?
+
+392
+00:17:09,361 --> 00:17:10,929
+She's obviously after
+something important.
+
+393
+00:17:10,961 --> 00:17:13,030
+I can solve the riddle,
+I can figure out what it is.
+
+394
+00:17:13,064 --> 00:17:14,932
+Oh, what? You don't want to
+split up? You don't trust me.
+
+395
+00:17:14,966 --> 00:17:16,435
+We just don't have
+any way to communicate.
+
+396
+00:17:16,468 --> 00:17:18,871
+If you can trust Cameron,
+you can trust me.
+
+397
+00:17:18,903 --> 00:17:20,439
+Look, Bauer's press conference
+is about to start.
+
+398
+00:17:20,471 --> 00:17:22,074
+Please, you have to let me try.
+
+399
+00:17:22,106 --> 00:17:24,509
+I need to know why she framed me
+and why she took Cam,
+
+400
+00:17:24,543 --> 00:17:26,846
+and this Quest could
+hold the answer to that.
+
+401
+00:17:28,279 --> 00:17:29,514
+Do not leave the building.
+
+402
+00:17:29,547 --> 00:17:32,049
+All right. You have my word.
+
+403
+00:17:32,083 --> 00:17:33,317
+Jonathan.
+
+404
+00:17:33,351 --> 00:17:34,754
+I am trusting you.
+
+405
+00:17:42,858 --> 00:17:45,328
+Next player up.
+
+406
+00:17:53,585 --> 00:17:55,255
+What's your name?
+
+407
+00:17:55,319 --> 00:17:56,504
+Albert.
+
+408
+00:17:56,559 --> 00:17:58,128
+How's this work, Albert?
+
+409
+00:17:58,160 --> 00:18:00,529
+It's a riddle.
+You have 10 minutes to solve it,
+
+410
+00:18:00,562 --> 00:18:01,997
+and then you tell me the answer.
+
+411
+00:18:02,031 --> 00:18:04,000
+Why should I tell you the answer?
+
+412
+00:18:04,033 --> 00:18:05,534
+Because that's how you win the game.
+
+413
+00:18:05,568 --> 00:18:07,170
+So you already know the answer?
+
+414
+00:18:07,203 --> 00:18:09,539
+Yeah, but I can't tell you.
+
+415
+00:18:09,572 --> 00:18:10,706
+Oh, I already know.
+
+416
+00:18:10,739 --> 00:18:12,208
+The passage is a misdirect.
+
+417
+00:18:12,242 --> 00:18:13,710
+It's about the words that are
+separated by one letter,
+
+418
+00:18:13,743 --> 00:18:15,011
+like "bathed" and "bated."
+
+419
+00:18:15,043 --> 00:18:17,013
+Take away the H, it's the same word.
+
+420
+00:18:17,045 --> 00:18:19,682
+Rotated, rotted, flame, fame...
+
+421
+00:18:19,716 --> 00:18:23,219
+All of the extra letters
+spell out the word "Halifax."
+
+422
+00:18:24,521 --> 00:18:25,856
+That's correct.
+
+423
+00:18:25,889 --> 00:18:27,023
+So what happens now?
+
+424
+00:18:27,055 --> 00:18:28,491
+You move on to the next room.
+
+425
+00:18:30,059 --> 00:18:32,128
+What can you tell us about
+tonight's difficult Quest?
+
+426
+00:18:32,160 --> 00:18:35,498
+In 1948, a patient here at the Octagon
+
+427
+00:18:35,532 --> 00:18:38,502
+had a hobby of
+writing puzzles on the walls
+
+428
+00:18:38,534 --> 00:18:39,870
+and boasting about an heirloom
+
+429
+00:18:39,902 --> 00:18:42,037
+that held the key to finding
+a hidden fortune.
+
+430
+00:18:42,071 --> 00:18:45,509
+So these puzzles were all
+created in 1948 by this patient?
+
+431
+00:18:45,542 --> 00:18:49,513
+No, most of them were created
+by our talented team.
+
+432
+00:18:49,545 --> 00:18:51,614
+But anyone who is smart enough
+
+433
+00:18:51,648 --> 00:18:53,015
+to make it to the end of the Quest
+
+434
+00:18:53,049 --> 00:18:54,783
+will have to solve an actual puzzle
+
+435
+00:18:54,816 --> 00:18:56,018
+from the patient's own room.
+
+436
+00:19:00,956 --> 00:19:02,225
+Hmm.
+
+437
+00:19:02,257 --> 00:19:04,827
+Red, white, and blue.
+How very patriotic.
+
+438
+00:19:04,860 --> 00:19:07,264
+You do know that some apples are
+green, though, right, Jessica?
+
+439
+00:19:07,296 --> 00:19:08,797
+It's kind of lazy.
+
+440
+00:19:08,831 --> 00:19:09,866
+I don't create the puzzles.
+
+441
+00:19:09,899 --> 00:19:11,001
+Who does?
+
+442
+00:19:11,033 --> 00:19:12,535
+Someone who gets paid more than me.
+
+443
+00:19:12,569 --> 00:19:14,236
+Do you have a guess or not?
+
+444
+00:19:14,270 --> 00:19:16,540
+Let's start with "apple."
+
+445
+00:19:16,572 --> 00:19:18,240
+Wait. You can't write on the board.
+
+446
+00:19:18,274 --> 00:19:22,912
+All red words... apple, heart,
+stop sign, cardinal, ladybug...
+
+447
+00:19:22,946 --> 00:19:24,179
+gives us an S.
+
+448
+00:19:24,213 --> 00:19:25,649
+The white words...
+
+449
+00:19:25,681 --> 00:19:28,751
+cotton ball, tooth, albino, and cloud...
+
+450
+00:19:28,784 --> 00:19:29,886
+give us a U.
+
+451
+00:19:29,918 --> 00:19:31,787
+And, finally, the blue words...
+
+452
+00:19:31,821 --> 00:19:36,126
+peacock, robins' eggs, jeans,
+ocean, and public mailbox.
+
+453
+00:19:36,158 --> 00:19:41,063
+S-U-N spells Sun.
+
+454
+00:19:41,097 --> 00:19:44,301
+What's next?
+
+455
+00:19:48,036 --> 00:19:49,972
+What?
+
+456
+00:19:50,005 --> 00:19:51,874
+You don't design any of the Quests?
+
+457
+00:19:51,908 --> 00:19:53,810
+I tend to stay on
+the business side of things.
+
+458
+00:19:53,842 --> 00:19:56,779
+The real brains is
+the architect of the Quests.
+
+459
+00:19:56,812 --> 00:19:59,081
+I credit her with the game's popularity.
+
+460
+00:19:59,114 --> 00:20:00,649
+And how long have you
+been working together?
+
+461
+00:20:00,683 --> 00:20:01,985
+About a year.
+
+462
+00:20:02,017 --> 00:20:03,319
+Would you mind giving me
+her name for my article?
+
+463
+00:20:03,352 --> 00:20:05,854
+No, of course not. It's Addison Lake.
+
+464
+00:20:05,888 --> 00:20:08,191
+Would you like to meet her?
+
+465
+00:20:09,958 --> 00:20:11,628
+She's here right now?
+
+466
+00:20:17,667 --> 00:20:19,069
+This is it.
+
+467
+00:20:19,101 --> 00:20:20,302
+This is the real room.
+
+468
+00:20:20,335 --> 00:20:24,206
+This is... where the patient lived.
+
+469
+00:20:26,242 --> 00:20:29,312
+My God, he hated it here.
+
+470
+00:20:29,344 --> 00:20:33,816
+There's so much anger on these walls.
+
+471
+00:20:36,686 --> 00:20:38,989
+He didn't think he belonged here.
+
+472
+00:20:42,124 --> 00:20:45,895
+No patterns, though.
+It's just frustration.
+
+473
+00:20:50,667 --> 00:20:52,802
+Wait.
+
+474
+00:20:54,970 --> 00:20:56,338
+There it is.
+
+475
+00:20:56,371 --> 00:20:58,374
+In the stars.
+
+476
+00:21:00,075 --> 00:21:02,044
+He re-created the night sky.
+
+477
+00:21:02,078 --> 00:21:04,114
+Addison.
+
+478
+00:21:07,783 --> 00:21:08,951
+She's not here.
+
+479
+00:21:08,985 --> 00:21:11,221
+I was just talking to her a moment ago.
+
+480
+00:21:12,822 --> 00:21:16,793
+Serpens, Sagittarius, Capricornus...
+
+481
+00:21:16,825 --> 00:21:19,962
+It's remarkable.
+
+482
+00:21:19,995 --> 00:21:22,931
+This guy must've been... brilliant
+
+483
+00:21:22,965 --> 00:21:27,704
+to replicate all these
+constellations so...
+
+484
+00:21:31,139 --> 00:21:34,076
+It's not perfect. There's...
+
+485
+00:21:34,110 --> 00:21:35,678
+There's too many stars.
+
+486
+00:21:35,712 --> 00:21:37,714
+Ursa Major has an extra star
+on its tail,
+
+487
+00:21:37,746 --> 00:21:41,351
+but it seems deliberate.
+
+488
+00:21:43,018 --> 00:21:44,720
+Of course.
+
+489
+00:21:44,754 --> 00:21:49,324
+The extra stars all make up
+a bigger constellation.
+
+490
+00:21:52,794 --> 00:21:55,098
+Shaped like a W.
+
+491
+00:21:55,130 --> 00:21:58,000
+The Lynx.
+
+492
+00:21:58,033 --> 00:22:00,235
+That's the answer, isn't it?
+
+493
+00:22:00,268 --> 00:22:01,970
+Lynx.
+
+494
+00:22:02,004 --> 00:22:05,908
+But you didn't know that till just now.
+
+495
+00:22:08,377 --> 00:22:09,979
+Thank you, Jonathan.
+
+496
+00:22:10,012 --> 00:22:11,181
+No. No!
+
+497
+00:22:15,016 --> 00:22:16,186
+That was a brilliant display.
+
+498
+00:22:16,218 --> 00:22:17,886
+Where's Cameron?
+
+499
+00:22:17,919 --> 00:22:20,122
+What have you done with him?
+Why are you doing this to us?!
+
+500
+00:22:20,156 --> 00:22:21,323
+It's a game.
+
+501
+00:22:21,357 --> 00:22:22,492
+You're the pawns.
+
+502
+00:22:25,194 --> 00:22:26,997
+Thank you so much for playing.
+
+503
+00:22:45,514 --> 00:22:48,283
+What are you doing, Jonathan?
+
+504
+00:23:00,463 --> 00:23:02,165
+She's on her way.
+
+505
+00:23:12,341 --> 00:23:14,777
+I need backup on Roosevelt Island.
+
+506
+00:23:18,547 --> 00:23:20,883
+Stop!
+
+507
+00:23:20,917 --> 00:23:22,918
+Drop the gun, Jonathan!
+
+508
+00:23:28,024 --> 00:23:29,958
+Please don't make me shoot you.
+
+509
+00:23:36,240 --> 00:23:37,623
+I had her.
+
+510
+00:23:39,244 --> 00:23:41,761
+I told you to stay within
+50 yards of Agent Daniels,
+
+511
+00:23:41,808 --> 00:23:44,089
+- and what did you do?
+- I was chasing the Mystery Woman,
+
+512
+00:23:44,139 --> 00:23:46,286
+and if Kay hadn't stopped me,
+I'd have caught her.
+
+513
+00:23:46,324 --> 00:23:47,942
+If I hadn't stopped you,
+you would've killed her.
+
+514
+00:23:47,998 --> 00:23:49,533
+So?
+
+515
+00:23:49,566 --> 00:23:51,501
+We're done here.
+
+516
+00:23:52,668 --> 00:23:55,087
+Is that what this was about
+for you all along?
+
+517
+00:23:55,137 --> 00:23:56,271
+Getting revenge?
+
+518
+00:23:56,330 --> 00:23:57,986
+It's about saving Cam.
+
+519
+00:23:58,025 --> 00:24:01,029
+And how did you expect to help
+Cam with the Mystery Woman dead?
+
+520
+00:24:03,165 --> 00:24:04,800
+I don't know.
+
+521
+00:24:04,832 --> 00:24:06,000
+All right? I was chasing her.
+
+522
+00:24:06,033 --> 00:24:08,003
+She was getting away. That's it.
+
+523
+00:24:09,870 --> 00:24:11,239
+When you were pointing the gun at her,
+
+524
+00:24:11,272 --> 00:24:13,842
+were you even thinking about
+saving Cameron?
+
+525
+00:24:16,278 --> 00:24:18,213
+No.
+
+526
+00:24:18,245 --> 00:24:20,114
+I was thinking about killing her.
+
+527
+00:24:20,147 --> 00:24:22,885
+That's why this was a mistake.
+
+528
+00:24:22,917 --> 00:24:25,620
+Mike's gonna take you
+back to the prison.
+
+529
+00:24:25,654 --> 00:24:27,089
+We still haven't found Cameron.
+
+530
+00:24:27,121 --> 00:24:28,990
+We'll find him.
+
+531
+00:24:29,023 --> 00:24:31,694
+You don't know why she took him.
+
+532
+00:24:31,726 --> 00:24:33,027
+You need my help.
+
+533
+00:24:33,061 --> 00:24:34,862
+Convince Deakins to give me
+another chance.
+
+534
+00:24:34,896 --> 00:24:36,599
+It was my idea to take you
+out of the prison,
+
+535
+00:24:36,631 --> 00:24:38,967
+and it was my idea to send you back.
+
+536
+00:24:39,001 --> 00:24:40,970
+I can't trust you.
+
+537
+00:24:45,240 --> 00:24:47,242
+You're enjoying this, aren't you?
+
+538
+00:24:47,274 --> 00:24:49,878
+There are consequences
+to breaking the rules.
+
+539
+00:24:49,910 --> 00:24:51,279
+Were these necessary?
+
+540
+00:24:51,312 --> 00:24:53,181
+Standard protocol.
+
+541
+00:24:53,215 --> 00:24:54,716
+Right.
+
+542
+00:24:54,750 --> 00:24:57,086
+Just so you know,
+Dina prefers rule-breakers
+
+543
+00:24:57,118 --> 00:25:00,155
+to guys who follow standard protocol.
+
+544
+00:25:00,187 --> 00:25:03,224
+Or just use the word "protocol."
+
+545
+00:25:05,761 --> 00:25:07,229
+She's too good for you, man.
+
+546
+00:25:07,262 --> 00:25:09,164
+Probably.
+
+547
+00:25:09,196 --> 00:25:11,300
+She's too good for me, too.
+
+548
+00:25:11,332 --> 00:25:13,101
+Definitely.
+
+549
+00:25:19,340 --> 00:25:21,644
+We not going back to prison?
+
+550
+00:25:21,676 --> 00:25:23,212
+Yep.
+
+551
+00:25:23,244 --> 00:25:26,814
+Not to complain, but it's, uh...
+it's in the other direction.
+
+552
+00:25:26,848 --> 00:25:29,184
+Thought we would stop
+at the Archive first.
+
+553
+00:25:29,216 --> 00:25:31,119
+I'm pretty sure
+she would want to see you.
+
+554
+00:25:42,397 --> 00:25:43,666
+Thanks, man.
+
+555
+00:25:48,869 --> 00:25:50,906
+Addison Lake isn't a real person?
+
+556
+00:25:50,938 --> 00:25:52,073
+She just gave you a fake name.
+
+557
+00:25:52,107 --> 00:25:53,442
+How did you meet her?
+
+558
+00:25:53,474 --> 00:25:54,842
+She came to me about a year ago
+
+559
+00:25:54,876 --> 00:25:57,846
+with all these smart, original ideas.
+
+560
+00:25:57,878 --> 00:25:59,247
+Like today's Quest.
+
+561
+00:25:59,281 --> 00:26:01,450
+I thought it was clever
+to have the asylum challenge
+
+562
+00:26:01,483 --> 00:26:03,152
+the day before the big auction.
+
+563
+00:26:03,185 --> 00:26:05,220
+How was I supposed to know
+
+564
+00:26:05,253 --> 00:26:07,222
+the Rockefeller's kid's writings
+were real?
+
+565
+00:26:07,254 --> 00:26:08,357
+Rockefeller?
+
+566
+00:26:08,389 --> 00:26:10,191
+Of<i> the</i> Rockefellers?
+
+567
+00:26:10,224 --> 00:26:11,459
+Yes.
+
+568
+00:26:11,493 --> 00:26:13,395
+He was a young patient in the late '40s,
+
+569
+00:26:13,427 --> 00:26:16,965
+told everyone his family had
+this key to some hidden fortune.
+
+570
+00:26:16,997 --> 00:26:18,734
+But just like I told you,
+he wasn't well.
+
+571
+00:26:18,766 --> 00:26:20,234
+No one took him seriously.
+
+572
+00:26:20,268 --> 00:26:21,270
+Until now.
+
+573
+00:26:21,302 --> 00:26:23,104
+Thank you.
+
+574
+00:26:23,138 --> 00:26:27,376
+What big auction
+were you just referring to?
+
+575
+00:26:27,401 --> 00:26:30,345
+The Rockefeller Collection
+at Devlin's Auction House.
+
+576
+00:26:30,370 --> 00:26:31,480
+It's tomorrow night.
+
+577
+00:26:39,053 --> 00:26:40,254
+I heard what happened.
+
+578
+00:26:40,288 --> 00:26:42,124
+Everything?
+
+579
+00:26:42,157 --> 00:26:46,427
+Just that the Mystery Woman was
+at the Octagon and that, uh...
+
+580
+00:26:46,461 --> 00:26:48,464
+- I almost killed her.
+- Yeah.
+
+581
+00:26:52,234 --> 00:26:54,002
+Lost control.
+
+582
+00:26:54,034 --> 00:26:56,738
+I, uh...
+
+583
+00:26:56,772 --> 00:27:00,109
+lost sight of what's important.
+
+584
+00:27:00,141 --> 00:27:02,878
+It's not the first time that's happened.
+
+585
+00:27:07,816 --> 00:27:09,118
+They can't trust me anymore,
+
+586
+00:27:09,150 --> 00:27:11,018
+so Mike's gonna take me back to prison.
+
+587
+00:27:11,051 --> 00:27:14,022
+What?
+
+588
+00:27:14,054 --> 00:27:16,124
+Mike, we haven't found Cameron yet,
+
+589
+00:27:16,157 --> 00:27:18,226
+and you know that
+Jonathan is our best chance.
+
+590
+00:27:18,260 --> 00:27:19,762
+It... It's not my decision.
+
+591
+00:27:19,794 --> 00:27:21,095
+I wasn't even supposed to
+bring him here.
+
+592
+00:27:21,128 --> 00:27:23,298
+Hey, where's Jordan?
+
+593
+00:27:23,330 --> 00:27:25,868
+He's around. I'll go look for him.
+
+594
+00:27:25,900 --> 00:27:30,471
+Listen, whenever you need more
+help, you just say when, okay?
+
+595
+00:27:30,504 --> 00:27:34,443
+Go find Cam, all right?
+
+596
+00:27:34,475 --> 00:27:35,977
+All right, be good.
+
+597
+00:27:36,011 --> 00:27:37,812
+I'll be fine.
+
+598
+00:27:44,186 --> 00:27:45,855
+I got this.
+
+599
+00:27:47,888 --> 00:27:50,091
+- It's a diamond!
+- What?
+
+600
+00:27:50,125 --> 00:27:52,261
+- Lynx... it's a diamond.
+- Slow down.
+
+601
+00:27:52,293 --> 00:27:54,195
+Lance Bauer, the C.E.O. of Quest Trek,
+
+602
+00:27:54,228 --> 00:27:56,063
+said today's challenge
+was about a patient...
+
+603
+00:27:56,097 --> 00:27:57,266
+a Rockefeller who bragged about
+
+604
+00:27:57,299 --> 00:27:58,966
+holding the key to a hidden fortune.
+
+605
+00:27:59,000 --> 00:28:00,803
+- Seriously?
+- I know.
+
+606
+00:28:00,836 --> 00:28:02,971
+But there is an auction
+at Devlin's tomorrow night...
+
+607
+00:28:03,003 --> 00:28:04,339
+the Rockefeller Collection...
+
+608
+00:28:04,371 --> 00:28:06,808
+jewelry, artwork, expensive stuff.
+
+609
+00:28:06,841 --> 00:28:08,109
+The Mystery Woman must've known
+
+610
+00:28:08,143 --> 00:28:09,912
+she had to steal something
+from the collection.
+
+611
+00:28:09,945 --> 00:28:11,280
+She just didn't know what.
+
+612
+00:28:11,312 --> 00:28:13,282
+The answer was in the riddle
+that Jonathan solved.
+
+613
+00:28:13,314 --> 00:28:15,416
+It was Lynx. Look at this.
+
+614
+00:28:15,449 --> 00:28:19,487
+Item number 71 on the auction
+list... the Lynx Diamond.
+
+615
+00:28:21,990 --> 00:28:23,893
+She's gonna try and steal it.
+
+616
+00:28:25,359 --> 00:28:26,895
+You want us to do what?
+
+617
+00:28:26,927 --> 00:28:28,362
+Postpone tomorrow's auction.
+
+618
+00:28:28,396 --> 00:28:29,998
+Do you have any idea
+
+619
+00:28:30,031 --> 00:28:34,101
+how much money Devlin's
+stands to lose if we postpone?
+
+620
+00:28:34,135 --> 00:28:35,904
+Our guests have flown in
+from all over the world.
+
+621
+00:28:35,936 --> 00:28:37,505
+We have credible evidence
+
+622
+00:28:37,539 --> 00:28:39,575
+that someone's gonna try to
+steal the Lynx Diamond tomorrow.
+
+623
+00:28:39,608 --> 00:28:41,510
+Well, I'd like to see them try.
+
+624
+00:28:41,542 --> 00:28:44,346
+We have over 100 auctions each year
+
+625
+00:28:44,378 --> 00:28:47,582
+with transactions totaling $2 billion.
+
+626
+00:28:47,616 --> 00:28:49,384
+We have one of the most state-of-the-art
+
+627
+00:28:49,416 --> 00:28:51,520
+security systems in the world.
+
+628
+00:28:51,552 --> 00:28:54,556
+They'll have to get past
+our facial-recognition software.
+
+629
+00:28:57,125 --> 00:28:58,327
+Welcome, Mr. Morel.
+
+630
+00:28:58,359 --> 00:29:00,395
+We also have motion sensors
+so sensitive,
+
+631
+00:29:00,427 --> 00:29:04,065
+they can catch a single hair
+falling from the ceiling.
+
+632
+00:29:04,099 --> 00:29:05,542
+And once the diamond
+
+633
+00:29:05,596 --> 00:29:06,909
+is locked away in our vault,
+
+634
+00:29:06,967 --> 00:29:12,407
+we have a 6-inch steel door,
+thermal imaging, our own army.
+
+635
+00:29:12,439 --> 00:29:14,141
+And if all else fails,
+
+636
+00:29:14,175 --> 00:29:18,280
+the preservation system sucks
+all the air out of the vault.
+
+637
+00:29:18,312 --> 00:29:20,983
+The auction is happening.
+
+638
+00:29:21,015 --> 00:29:23,651
+You can assist if you'd like,
+but I assure you,
+
+639
+00:29:23,685 --> 00:29:26,488
+the only way someone's
+gonna get the Lynx Diamond
+
+640
+00:29:26,521 --> 00:29:28,022
+is with a winning bid.
+
+641
+00:29:31,192 --> 00:29:33,295
+She's gonna rob them blind.
+
+642
+00:29:33,328 --> 00:29:35,062
+- How?
+- I don't know.
+
+643
+00:29:35,096 --> 00:29:36,397
+But there are two people who would,
+
+644
+00:29:36,430 --> 00:29:37,965
+and the Mystery Woman took one of them.
+
+645
+00:29:37,999 --> 00:29:39,902
+You think that's why she took Cameron?
+
+646
+00:29:39,935 --> 00:29:42,037
+Isn't she capable of stealing
+the diamond on her own?
+
+647
+00:29:42,070 --> 00:29:44,306
+Maybe she doesn't want to
+get her hands dirty.
+
+648
+00:29:44,339 --> 00:29:46,407
+Either way, she's gonna be
+nearly impossible to stop
+
+649
+00:29:46,441 --> 00:29:48,343
+without Jonathan Black's help.
+
+650
+00:29:48,376 --> 00:29:52,013
+Look, I know he broke
+every single rule we gave him,
+
+651
+00:29:52,047 --> 00:29:54,916
+but he's the only one who can do this.
+
+652
+00:29:54,949 --> 00:29:57,272
+I need him.
+
+653
+00:30:06,385 --> 00:30:08,087
+So, you think
+the Mystery Woman took Cameron
+
+654
+00:30:08,120 --> 00:30:09,388
+to help her steal a diamond.
+
+655
+00:30:09,420 --> 00:30:10,421
+That's the theory.
+
+656
+00:30:10,455 --> 00:30:12,057
+Thank you.
+
+657
+00:30:12,090 --> 00:30:13,425
+Except that he would never help her.
+
+658
+00:30:13,457 --> 00:30:14,927
+I'm not saying he would.
+
+659
+00:30:14,959 --> 00:30:16,294
+I'm just saying he would know how to.
+
+660
+00:30:16,328 --> 00:30:17,997
+All right. So you want me to tell you
+
+661
+00:30:18,030 --> 00:30:19,932
+whatever he would tell her.
+
+662
+00:30:19,965 --> 00:30:21,332
+You still trust me?
+
+663
+00:30:21,366 --> 00:30:23,269
+No. But we both want your brother back.
+
+664
+00:30:23,302 --> 00:30:25,370
+That's what this is about.
+
+665
+00:30:25,404 --> 00:30:27,506
+So, what's so special
+about this diamond?
+
+666
+00:30:27,539 --> 00:30:29,341
+We don't know yet, but she's doing
+everything in her power to get it.
+
+667
+00:30:29,373 --> 00:30:30,875
+Devlin's security is top-notch.
+
+668
+00:30:30,908 --> 00:30:32,110
+There's no way she's doing this alone.
+
+669
+00:30:32,143 --> 00:30:33,945
+So someone in this room's helping her.
+
+670
+00:30:33,978 --> 00:30:35,346
+Who are the guests?
+
+671
+00:30:35,379 --> 00:30:37,049
+That's Philip Edwards.
+
+672
+00:30:37,081 --> 00:30:39,118
+Claims he's a distant member of
+the Royal Family.
+
+673
+00:30:40,351 --> 00:30:41,586
+- Mostly clean.
+- I don't like him.
+
+674
+00:30:41,620 --> 00:30:42,987
+How about that guy?
+
+675
+00:30:43,021 --> 00:30:45,291
+Prince of Montenegro, Stefan Prifot.
+
+676
+00:30:45,323 --> 00:30:47,860
+He's worth more money than
+everybody in this room combined.
+
+677
+00:30:47,892 --> 00:30:49,961
+Don't like him, either.
+
+678
+00:30:49,995 --> 00:30:52,231
+Over by the door is Henri Morel.
+
+679
+00:30:53,966 --> 00:30:55,967
+French international financier.
+
+680
+00:30:57,535 --> 00:30:59,103
+We think he's connected
+to some illegal activities,
+
+681
+00:30:59,137 --> 00:31:01,506
+but he's also a regular
+here at Devlin's.
+
+682
+00:31:01,545 --> 00:31:02,653
+Mm.
+
+683
+00:31:02,678 --> 00:31:04,302
+Let me guess...
+you don't like him, either.
+
+684
+00:31:04,342 --> 00:31:07,446
+If they're smart, they'll do
+this after the auction
+
+685
+00:31:07,478 --> 00:31:09,380
+when there are
+fewer eyes on the diamond.
+
+686
+00:31:09,414 --> 00:31:11,884
+And if Cam did have anything to
+do with this, it'll be fast.
+
+687
+00:31:11,917 --> 00:31:14,119
+I'm the more deliberate one.
+I like to plan things.
+
+688
+00:31:14,151 --> 00:31:15,486
+But Cam, he's, uh...
+
+689
+00:31:15,520 --> 00:31:17,389
+He's like lightning.
+
+690
+00:31:17,421 --> 00:31:19,424
+Blink and you miss him.
+
+691
+00:31:19,457 --> 00:31:22,261
+Dina, Jordan, do you have eyes on us?
+
+692
+00:31:25,563 --> 00:31:28,234
+Yeah, we've got you and every
+other inch of this place.
+
+693
+00:31:28,266 --> 00:31:29,968
+So many screens. This is rad.
+
+694
+00:31:30,002 --> 00:31:31,136
+<i>How are Gunter and Mike?</i>
+
+695
+00:31:31,168 --> 00:31:33,004
+They're with the diamond in the vault.
+
+696
+00:31:33,037 --> 00:31:35,607
+Talking about God knows what.
+
+697
+00:31:37,341 --> 00:31:40,312
+So, you and Jonathan go way back, huh?
+
+698
+00:31:42,313 --> 00:31:44,082
+All the way back.
+
+699
+00:31:44,116 --> 00:31:47,019
+He found me when I was at
+the lowest point in my life.
+
+700
+00:31:47,052 --> 00:31:48,553
+Gave me a job, gave me purpose.
+
+701
+00:31:48,587 --> 00:31:51,023
+I owe him everything.
+
+702
+00:31:51,055 --> 00:31:52,257
+Would you help him escape?
+
+703
+00:31:52,291 --> 00:31:55,159
+Absolutely 100%.
+
+704
+00:31:55,193 --> 00:31:56,896
+Good to know.
+
+705
+00:31:56,928 --> 00:32:00,131
+But, you know, he'd never ask.
+
+706
+00:32:00,165 --> 00:32:02,234
+He wouldn't want to break Dina's heart,
+
+707
+00:32:02,266 --> 00:32:04,269
+being on the run and that.
+
+708
+00:32:04,302 --> 00:32:06,037
+Okay.
+
+709
+00:32:06,071 --> 00:32:07,473
+Okay.
+
+710
+00:32:07,505 --> 00:32:09,908
+Okay.
+
+711
+00:32:09,941 --> 00:32:11,576
+Kay, we're all set here in the vault.
+
+712
+00:32:11,610 --> 00:32:13,978
+<i>What's going on out there?</i>
+
+713
+00:32:14,012 --> 00:32:16,648
+We're set. The auction's about to begin.
+
+714
+00:32:16,681 --> 00:32:19,217
+Oh, my God. Cameron Black.
+
+715
+00:32:20,651 --> 00:32:22,287
+You got to be kidding me.
+
+716
+00:32:22,321 --> 00:32:24,122
+You're the one who wanted to
+wear Cameron's suit.
+
+717
+00:32:24,156 --> 00:32:25,925
+We've been to all your shows.
+
+718
+00:32:25,957 --> 00:32:27,293
+I thought we'd never see you again
+
+719
+00:32:27,325 --> 00:32:29,327
+after that dreadful business
+with your brother.
+
+720
+00:32:29,360 --> 00:32:31,263
+Well, here we are.
+
+721
+00:32:31,295 --> 00:32:33,698
+He destroyed your career, everything.
+
+722
+00:32:33,732 --> 00:32:36,302
+I guess it's noble,
+how you stood by him,
+
+723
+00:32:36,334 --> 00:32:37,635
+but I personally think that...
+
+724
+00:32:37,668 --> 00:32:39,237
+You know, I'm sorry,
+but we need to be going.
+
+725
+00:32:39,271 --> 00:32:41,072
+Oh, wait! Please.
+
+726
+00:32:41,106 --> 00:32:42,474
+You have to do a trick for us.
+
+727
+00:32:42,506 --> 00:32:44,643
+Sure.
+
+728
+00:32:46,344 --> 00:32:47,446
+Keep an eye on the bidders.
+
+729
+00:32:47,478 --> 00:32:49,380
+See who looks over.
+
+730
+00:32:49,414 --> 00:32:50,449
+What was your name again?
+
+731
+00:32:50,482 --> 00:32:51,617
+- Clara.
+- Clara.
+
+732
+00:32:51,649 --> 00:32:53,084
+Nice to meet you, Clara.
+
+733
+00:32:53,118 --> 00:32:54,653
+What I have here is a coin.
+
+734
+00:32:54,686 --> 00:32:56,254
+Now, this isn't just any old coin.
+
+735
+00:32:56,287 --> 00:32:58,256
+This is my lucky coin.
+
+736
+00:33:22,280 --> 00:33:25,517
+Okay. Just open your bracelet for me.
+
+737
+00:33:29,420 --> 00:33:31,056
+Thank you, Clara.
+
+738
+00:33:32,357 --> 00:33:33,425
+Henri.
+
+739
+00:33:33,457 --> 00:33:34,592
+You caught his eye.
+
+740
+00:33:38,729 --> 00:33:41,132
+Let's go.
+
+741
+00:33:41,166 --> 00:33:42,501
+Diamond's on the way.
+
+742
+00:33:42,533 --> 00:33:44,469
+You have a clear path to the main room.
+
+743
+00:33:44,503 --> 00:33:46,071
+<i>Thanks, Dina.</i>
+
+744
+00:33:46,103 --> 00:33:48,006
+- Did you see that?
+- See what?
+
+745
+00:33:48,040 --> 00:33:49,641
+The guard put something
+on the communication box.
+
+746
+00:33:49,674 --> 00:33:51,076
+I'll check it out.
+
+747
+00:33:51,109 --> 00:33:52,677
+Okay, be careful.
+
+748
+00:33:52,710 --> 00:33:57,348
+Sold to bidder number 26 for $400,000.
+
+749
+00:33:57,381 --> 00:33:59,451
+400 grand for that?
+
+750
+00:34:00,785 --> 00:34:02,053
+Jonathan.
+
+751
+00:34:02,087 --> 00:34:03,389
+Next up for bidding,
+
+752
+00:34:03,421 --> 00:34:05,056
+from the Rockefeller jewelry collection,
+
+753
+00:34:05,090 --> 00:34:07,693
+number 71, the Lynx Diamond.
+
+754
+00:34:07,725 --> 00:34:09,762
+Here we go.
+
+755
+00:34:09,794 --> 00:34:12,130
+It's beautiful.
+
+756
+00:34:21,506 --> 00:34:24,576
+We'll start the bidding at $1 million.
+
+757
+00:34:24,608 --> 00:34:26,344
+We have $1 million over here.
+
+758
+00:34:26,378 --> 00:34:29,648
+$1.1 million.
+
+759
+00:34:29,680 --> 00:34:31,716
+Do we have $1.2 million?
+
+760
+00:34:31,749 --> 00:34:33,052
+$1.2 million over there.
+
+761
+00:34:33,084 --> 00:34:34,318
+$1.3 million?
+
+762
+00:34:34,352 --> 00:34:36,055
+$1.3 million.
+
+763
+00:34:36,088 --> 00:34:38,057
+$2 million. Do we have $2.1 million?
+
+764
+00:34:38,090 --> 00:34:41,794
+$2.1 million? $2.1 million right there.
+
+765
+00:34:41,827 --> 00:34:44,196
+What are you doing?
+
+766
+00:34:44,229 --> 00:34:45,264
+I always wanted to do that.
+
+767
+00:34:50,836 --> 00:34:52,805
+<i>The hallway's all clear.</i>
+
+768
+00:34:56,541 --> 00:34:58,077
+Uh, guys?
+
+769
+00:34:58,110 --> 00:34:59,477
+Guys, I'm losing cameras.
+
+770
+00:34:59,510 --> 00:35:01,479
+<i>Something's happening.</i>
+
+771
+00:35:01,512 --> 00:35:03,114
+- It's happening.
+- What?
+
+772
+00:35:03,148 --> 00:35:04,517
+They're taking the diamond right now.
+
+773
+00:35:05,416 --> 00:35:06,751
+$5 million.
+
+774
+00:35:06,785 --> 00:35:09,288
+$5 million from bidder number 12.
+
+775
+00:35:09,320 --> 00:35:11,189
+Do we have $5.1 million?
+
+776
+00:35:11,222 --> 00:35:13,224
+$5.1 million.
+
+777
+00:35:13,258 --> 00:35:16,361
+$5.5 million, thank you.
+
+778
+00:35:16,394 --> 00:35:19,298
+$6 million, bidder number 12.
+
+779
+00:35:21,432 --> 00:35:23,768
+It's him. It's him.
+
+780
+00:35:23,802 --> 00:35:25,370
+It's Henri.
+
+781
+00:35:51,162 --> 00:35:52,798
+Go, go, go, go!
+
+782
+00:35:54,698 --> 00:35:56,702
+This way, this way, this way.
+
+783
+00:35:57,869 --> 00:35:59,171
+- Out! Out, out, out, out!
+- Where's Henri?
+
+784
+00:35:59,204 --> 00:36:01,305
+Lock it down!
+
+785
+00:36:01,338 --> 00:36:03,407
+We're looking for Henri Morel!
+
+786
+00:36:03,441 --> 00:36:06,178
+- Secure the diamond!
+- Got it!
+
+787
+00:36:06,211 --> 00:36:07,846
+- Dina, what do you see?<i>
+- Not much.</i>
+
+788
+00:36:07,878 --> 00:36:10,548
+The electrical system was hacked
+by someone inside the building.
+
+789
+00:36:10,582 --> 00:36:13,552
+Jordan is checking
+the comms panels right now.
+
+790
+00:36:13,584 --> 00:36:15,586
+<i>Dina, this is how they did it.</i>
+
+791
+00:36:15,619 --> 00:36:17,155
+<i>To rig... unh!</i>
+
+792
+00:36:17,189 --> 00:36:19,658
+Jordan? J...
+Guys, guys, Jordan needs help.
+
+793
+00:36:19,691 --> 00:36:21,160
+He's... He's in trouble.
+
+794
+00:36:21,193 --> 00:36:22,727
+He's... He's on the East Side hallway.
+
+795
+00:36:22,760 --> 00:36:23,762
+We're on our way.
+
+796
+00:36:23,794 --> 00:36:25,697
+Mike! Here's the diamond.
+
+797
+00:36:25,729 --> 00:36:26,831
+Lock it up.
+
+798
+00:36:26,865 --> 00:36:28,300
+Jordan's in trouble. I got to go.
+
+799
+00:36:28,332 --> 00:36:29,367
+Go, go, go. We got this.
+
+800
+00:36:29,401 --> 00:36:30,903
+You, watch the door.
+
+801
+00:36:34,838 --> 00:36:36,340
+Jordan! You all right?
+
+802
+00:36:36,374 --> 00:36:37,709
+Oh, that French guy can punch.
+
+803
+00:36:37,742 --> 00:36:39,178
+Where did he go?
+
+804
+00:36:39,211 --> 00:36:40,812
+Uh, that... that way, towards the exit.
+
+805
+00:36:40,845 --> 00:36:42,314
+Kay!
+
+806
+00:36:42,347 --> 00:36:43,948
+They're not leaving without the diamond.
+
+807
+00:36:43,981 --> 00:36:46,651
+Get to the vault, help Mike.
+I'll go after Henri.
+
+808
+00:36:50,454 --> 00:36:52,456
+What are you doing?
+
+809
+00:36:52,490 --> 00:36:54,325
+Resting on the job again?
+
+810
+00:36:54,358 --> 00:36:56,194
+Oh, great, I'm saved.
+
+811
+00:36:56,227 --> 00:36:58,697
+Okay. We still don't have
+picture inside the vault.
+
+812
+00:36:58,729 --> 00:37:00,731
+Mike?
+
+813
+00:37:00,765 --> 00:37:02,401
+<i>Is everything all right, Mike?</i>
+
+814
+00:37:10,307 --> 00:37:11,976
+That's for Jordan.
+
+815
+00:37:12,010 --> 00:37:14,479
+And that... is for Mike.
+
+816
+00:37:19,818 --> 00:37:21,225
+Kay, I got the...
+
+817
+00:37:21,280 --> 00:37:23,762
+You are persistent, Jonathan.
+
+818
+00:37:35,867 --> 00:37:37,503
+Just you and me now.
+
+819
+00:37:41,929 --> 00:37:43,484
+Where's Cameron?
+
+820
+00:37:43,539 --> 00:37:45,233
+Close.
+
+821
+00:37:45,266 --> 00:37:46,304
+He's alive.
+
+822
+00:37:46,343 --> 00:37:47,803
+Don't worry. So are they.
+
+823
+00:37:47,835 --> 00:37:51,172
+Where is he?
+
+824
+00:37:51,206 --> 00:37:53,575
+I chose the wrong brother.
+
+825
+00:37:53,608 --> 00:37:57,146
+Should've been him
+in that prison, not you.
+
+826
+00:37:57,179 --> 00:37:59,681
+Come with me.
+
+827
+00:37:59,713 --> 00:38:01,315
+We could do great things.
+
+828
+00:38:01,349 --> 00:38:03,218
+I think I know you, Jonathan.
+
+829
+00:38:03,251 --> 00:38:05,220
+All that anger you feel...
+
+830
+00:38:05,253 --> 00:38:06,688
+it isn't about me.
+
+831
+00:38:06,721 --> 00:38:09,757
+It's about your life, everything
+that's happened to you.
+
+832
+00:38:11,960 --> 00:38:13,695
+I can turn that into something real.
+
+833
+00:38:18,500 --> 00:38:19,702
+Where's my brother?
+
+834
+00:38:22,603 --> 00:38:24,472
+Give me the diamond.
+
+835
+00:38:40,655 --> 00:38:42,791
+In two minutes...
+
+836
+00:38:42,824 --> 00:38:44,358
+that door will seal shut,
+
+837
+00:38:44,391 --> 00:38:46,427
+and all the oxygen will be
+sucked out of the room.
+
+838
+00:38:46,460 --> 00:38:51,199
+Now, you can come with me,
+or you can save them.
+
+839
+00:39:07,782 --> 00:39:09,351
+Dina, I'm outside the building.
+
+840
+00:39:09,384 --> 00:39:11,353
+- Do you see anything?
+<i>- No, not much.</i>
+
+841
+00:39:11,385 --> 00:39:13,322
+<i>But I still don't have
+half the monitors up.</i>
+
+842
+00:39:13,355 --> 00:39:14,755
+The lights still haven't come back on.
+
+843
+00:39:14,789 --> 00:39:17,426
+And I can't get ahold of
+Jonathan or Mike on comms.
+
+844
+00:39:17,458 --> 00:39:18,527
+Damn it.
+
+845
+00:39:18,559 --> 00:39:19,894
+Okay. I'm going back in.
+
+846
+00:39:22,329 --> 00:39:23,898
+Jonathan is outside the building!
+
+847
+00:39:23,931 --> 00:39:26,367
+What? He... He wouldn't.
+
+848
+00:39:26,400 --> 00:39:28,502
+He's running.
+
+849
+00:39:28,536 --> 00:39:30,405
+<i>Check the exterior cameras.</i>
+
+850
+00:39:30,438 --> 00:39:33,275
+Um...
+
+851
+00:39:33,308 --> 00:39:35,844
+A security guard just left
+the west side of the building.
+
+852
+00:39:37,978 --> 00:39:40,248
+Stop!
+
+853
+00:39:40,282 --> 00:39:41,783
+Jonathan.
+
+854
+00:39:49,056 --> 00:39:50,725
+Agent Daniels.
+
+855
+00:39:52,460 --> 00:39:54,795
+Step towards me.
+
+856
+00:39:54,829 --> 00:39:55,864
+Now!
+
+857
+00:40:01,869 --> 00:40:02,938
+That's better.
+
+858
+00:40:02,971 --> 00:40:04,840
+Now smile for the camera.
+
+859
+00:40:12,012 --> 00:40:13,281
+How'd you find me?
+
+860
+00:40:21,922 --> 00:40:23,625
+He slipped it into the bag.
+
+861
+00:40:30,664 --> 00:40:32,701
+Smart. It's very smart.
+
+862
+00:40:32,733 --> 00:40:34,436
+I will shoot you.
+
+863
+00:40:34,469 --> 00:40:37,306
+Such an FBI agent.
+
+864
+00:40:37,338 --> 00:40:39,373
+You won't.
+
+865
+00:40:39,407 --> 00:40:42,311
+I know something.
+
+866
+00:40:42,344 --> 00:40:44,079
+Right now, Jonathan's in the vault,
+
+867
+00:40:44,112 --> 00:40:45,914
+trying to save five men
+
+868
+00:40:45,947 --> 00:40:48,083
+before they're locked in
+and the oxygen is sucked out.
+
+869
+00:40:48,115 --> 00:40:51,786
+<i>Depressurization
+will begin in 30 seconds.</i>
+
+870
+00:40:51,820 --> 00:40:55,590
+However, I... I forgot to
+tell him one crucial thing.
+
+871
+00:40:55,623 --> 00:40:56,759
+What?
+
+872
+00:40:58,793 --> 00:41:00,462
+<i>Everybody get to the vault.</i>
+
+873
+00:41:00,494 --> 00:41:04,433
+<i>Depressurization will begin
+in 15 seconds.</i>
+
+874
+00:41:07,969 --> 00:41:09,871
+No!
+
+875
+00:41:09,904 --> 00:41:11,106
+No!
+
+876
+00:41:11,139 --> 00:41:12,374
+Come on!
+
+877
+00:41:13,440 --> 00:41:15,410
+Henri! Get up!
+
+878
+00:41:17,712 --> 00:41:19,648
+Henri!
+
+879
+00:41:35,797 --> 00:41:37,766
+The vault sucked the air out.
+I couldn't save him.
+
+880
+00:41:37,798 --> 00:41:39,900
+With the security systems down,
+they can't open the door.
+
+881
+00:41:39,934 --> 00:41:42,537
+I can't just let him die.
+
+882
+00:41:42,570 --> 00:41:45,507
+That bastard Henri deserves to die.
+
+883
+00:41:45,539 --> 00:41:46,974
+It's not Henri!
+
+884
+00:41:47,007 --> 00:41:48,042
+- What?
+- What?
+
+885
+00:41:57,451 --> 00:41:59,387
+- No! No!
+- Cam!
+
+886
+00:41:59,420 --> 00:42:01,088
+Cameron!
+
+887
+00:42:17,739 --> 00:42:19,549
+Cameron!
+
+888
+00:42:19,808 --> 00:42:21,408
+Cam!
+
+889
+00:42:21,635 --> 00:42:23,726
+Cam!
+
+890
+00:42:24,129 --> 00:42:29,129
+<font color="#0080ff">Synced & corrected by</font> kinglouisxx
+<font color="#0080ff">www.</font>addic7ed<font color="#0080ff">.com</font>
+

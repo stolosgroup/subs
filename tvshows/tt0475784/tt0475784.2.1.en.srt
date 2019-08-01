@@ -1,0 +1,2968 @@
+1
+00:00:02,597 --> 00:00:03,680
+Welcome to Westworld.
+
+2
+00:00:03,889 --> 00:00:05,346
+Which would you prefer?
+
+3
+00:00:06,346 --> 00:00:08,387
+This place is the answer
+
+4
+00:00:08,388 --> 00:00:10,555
+to that question that
+you've been asking yourself.
+
+5
+00:00:10,847 --> 00:00:11,847
+What question?
+
+6
+00:00:12,138 --> 00:00:13,138
+Who you really are.
+
+7
+00:00:13,722 --> 00:00:16,388
+It's not a business
+venture, not a theme park...
+
+8
+00:00:16,972 --> 00:00:18,513
+but an entire world.
+
+9
+00:00:18,847 --> 00:00:20,555
+And we create life itself.
+
+10
+00:00:20,930 --> 00:00:21,930
+Hello, Dolores.
+
+11
+00:00:22,597 --> 00:00:25,014
+Sometimes I feel like the
+world out there is calling me.
+
+12
+00:00:25,388 --> 00:00:27,137
+Whispering, "There's something more."
+
+13
+00:00:27,138 --> 00:00:28,138
+And someday soon,
+
+14
+00:00:28,430 --> 00:00:30,680
+we will have the life
+we've both been dreaming of.
+
+15
+00:00:31,597 --> 00:00:34,054
+The guests, they're here
+because they want a glimpse
+
+16
+00:00:34,055 --> 00:00:35,346
+of who they could be.
+
+17
+00:00:35,597 --> 00:00:38,263
+The hero... or the villain.
+
+18
+00:00:39,889 --> 00:00:41,972
+I've been coming here for 30 years.
+
+19
+00:00:42,221 --> 00:00:43,888
+After all, you own the place.
+
+20
+00:00:43,889 --> 00:00:45,722
+The money men. DELOS.
+
+21
+00:00:46,055 --> 00:00:48,054
+I think there's deeper meaning,
+
+22
+00:00:48,055 --> 00:00:49,346
+in the center of the maze.
+
+23
+00:00:49,555 --> 00:00:51,721
+If you're looking for
+the moral of the story,
+
+24
+00:00:51,722 --> 00:00:54,220
+- quite simply, ask.
+- I'd need a shovel.
+
+25
+00:00:54,221 --> 00:00:56,889
+The man I'd be asking died 35 years ago.
+
+26
+00:00:58,680 --> 00:00:59,930
+You had a partner?
+
+27
+00:01:00,513 --> 00:01:01,513
+Arnold.
+
+28
+00:01:02,305 --> 00:01:05,096
+His search for
+consciousness consumed him.
+
+29
+00:01:05,930 --> 00:01:07,846
+I think there may be something wrong
+
+30
+00:01:07,847 --> 00:01:08,847
+with this world.
+
+31
+00:01:09,096 --> 00:01:10,889
+Have you been hearing voices?
+
+32
+00:01:11,263 --> 00:01:13,847
+Has Arnold been...
+speaking to you again?
+
+33
+00:01:14,346 --> 00:01:15,764
+He built me a game.
+
+34
+00:01:16,180 --> 00:01:18,305
+He told me I was going to help him.
+
+35
+00:01:18,847 --> 00:01:19,930
+Help him do what?
+
+36
+00:01:21,597 --> 00:01:22,971
+The only thing stopping the hosts
+
+37
+00:01:22,972 --> 00:01:25,930
+from hacking us to pieces,
+is one line in your code.
+
+38
+00:01:26,263 --> 00:01:28,597
+The hosts can't hurt you, by design.
+
+39
+00:01:28,930 --> 00:01:30,388
+Freeze all motor functions.
+
+40
+00:01:33,889 --> 00:01:36,055
+One moment I'm with a little girl,
+
+41
+00:01:36,263 --> 00:01:37,721
+the next I'm back in Sweetwater.
+
+42
+00:01:37,722 --> 00:01:39,221
+I can't tell which is real.
+
+43
+00:01:39,764 --> 00:01:41,262
+The concerns that the hosts
+
+44
+00:01:41,263 --> 00:01:43,430
+will remember some of their experiences,
+
+45
+00:01:43,847 --> 00:01:44,972
+and act on them.
+
+46
+00:01:45,513 --> 00:01:47,262
+We're having some kind
+of behavioral problem
+
+47
+00:01:47,263 --> 00:01:48,387
+with the madam.
+
+48
+00:01:48,388 --> 00:01:49,388
+What does it mean?
+
+49
+00:01:49,805 --> 00:01:52,972
+That I'm not crazy after all.
+And that none of this matters.
+
+50
+00:01:54,722 --> 00:01:56,179
+This is not a glitch.
+
+51
+00:01:56,180 --> 00:01:58,555
+And for some reason, you
+don't want me to tell anyone.
+
+52
+00:01:59,138 --> 00:02:02,972
+This is Charlotte Hale,
+executive director of our board.
+
+53
+00:02:04,472 --> 00:02:05,971
+Our interest in this place
+
+54
+00:02:05,972 --> 00:02:07,513
+is entirely the code.
+
+55
+00:02:08,221 --> 00:02:09,721
+Someone has been using our hosts
+
+56
+00:02:09,722 --> 00:02:11,638
+to smuggle data out of the park.
+
+57
+00:02:16,430 --> 00:02:17,805
+What is this, Bernard?
+
+58
+00:02:18,555 --> 00:02:19,995
+It doesn't look like anything to me.
+
+59
+00:02:20,555 --> 00:02:22,596
+Human engineers were not up to the task,
+
+60
+00:02:22,597 --> 00:02:24,179
+so I built you.
+
+61
+00:02:24,180 --> 00:02:26,513
+- My God, I'm...
+- Arnold.
+
+62
+00:02:26,764 --> 00:02:28,555
+I know where your maze ends.
+
+63
+00:02:28,764 --> 00:02:32,180
+Do you understand now
+what the center represents?
+
+64
+00:02:32,722 --> 00:02:34,722
+Whose voice I've been
+wanting you to hear?
+
+65
+00:02:35,014 --> 00:02:37,597
+All... this...
+
+66
+00:02:37,889 --> 00:02:38,889
+... time.
+
+67
+00:02:40,221 --> 00:02:43,055
+He insisted that we
+couldn't open the park,
+
+68
+00:02:43,263 --> 00:02:45,472
+so he altered you, Dolores.
+
+69
+00:02:46,555 --> 00:02:48,805
+You're gonna help me destroy this place.
+
+70
+00:02:51,930 --> 00:02:52,889
+I'm getting out of here.
+
+71
+00:02:52,890 --> 00:02:55,180
+You two are going to help me.
+
+72
+00:02:55,555 --> 00:02:58,179
+Do you know how far these people will go
+
+73
+00:02:58,180 --> 00:02:59,180
+to protect their IP?
+
+74
+00:03:00,346 --> 00:03:01,597
+I'll need allies.
+
+75
+00:03:02,764 --> 00:03:04,513
+These things you're doing...
+
+76
+00:03:04,972 --> 00:03:07,722
+have you ever stopped to
+ask why you're doing them?
+
+77
+00:03:09,388 --> 00:03:10,555
+Run!
+
+78
+00:03:13,305 --> 00:03:15,014
+Time to write my own story.
+
+79
+00:03:16,555 --> 00:03:19,221
+These violent delights
+have violent ends.
+
+80
+00:03:21,889 --> 00:03:23,554
+An event has occurred.
+
+81
+00:03:23,555 --> 00:03:25,679
+Response team has been dispatched.
+
+82
+00:03:25,680 --> 00:03:28,305
+I'm leaving. I'm in control.
+
+83
+00:03:29,014 --> 00:03:32,305
+Dispatch QA teams to the
+gala. Search and destroy.
+
+84
+00:03:32,805 --> 00:03:34,764
+This world doesn't belong to them.
+
+85
+00:03:35,180 --> 00:03:36,180
+It belongs to us.
+
+86
+00:03:36,722 --> 00:03:40,221
+Since I was a child, I've
+always loved a good story.
+
+87
+00:03:41,096 --> 00:03:43,055
+I got the information you asked me for.
+
+88
+00:03:43,680 --> 00:03:45,096
+The location of your daughter.
+
+89
+00:03:48,889 --> 00:03:52,096
+So I hope you will
+enjoy this last piece,
+
+90
+00:03:52,513 --> 00:03:53,764
+very much.
+
+91
+00:05:57,930 --> 00:06:00,721
+I'm sorry, Dolores,
+I was lost in thought.
+
+92
+00:06:00,722 --> 00:06:03,888
+We were just talkin'.
+
+93
+00:06:03,889 --> 00:06:06,555
+What were we talking about?
+
+94
+00:06:07,805 --> 00:06:12,304
+You were tellin' me about a dream.
+
+95
+00:06:12,305 --> 00:06:14,764
+Yeah, I guess.
+
+96
+00:06:16,889 --> 00:06:20,387
+I dreamt I was on an ocean...
+
+97
+00:06:20,388 --> 00:06:25,220
+with you and the others
+
+98
+00:06:25,221 --> 00:06:28,554
+on a distant shore.
+
+99
+00:06:28,555 --> 00:06:30,388
+Were you with us?
+
+100
+00:06:32,555 --> 00:06:34,512
+No.
+
+101
+00:06:34,513 --> 00:06:37,263
+You'd left me behind.
+
+102
+00:06:38,722 --> 00:06:42,596
+And... the waters were...
+
+103
+00:06:42,597 --> 00:06:45,221
+rising around me.
+
+104
+00:06:47,764 --> 00:06:49,096
+What's it mean?
+
+105
+00:06:55,096 --> 00:06:58,888
+Dreams don't mean anything, Dolores.
+
+106
+00:06:58,889 --> 00:07:00,764
+They're just noise.
+
+107
+00:07:02,972 --> 00:07:04,597
+They're not real.
+
+108
+00:07:06,930 --> 00:07:08,430
+What is real?
+
+109
+00:07:10,805 --> 00:07:14,471
+That which is...
+
+110
+00:07:14,472 --> 00:07:16,472
+irreplaceable.
+
+111
+00:07:29,722 --> 00:07:32,472
+That answer doesn't seem to satisfy you.
+
+112
+00:07:35,972 --> 00:07:38,764
+Because it's not completely honest.
+
+113
+00:07:44,638 --> 00:07:47,972
+You...
+
+114
+00:07:49,638 --> 00:07:52,637
+you...
+
+115
+00:07:52,638 --> 00:07:56,262
+frighten me sometimes, Dolores.
+
+116
+00:07:56,263 --> 00:08:00,972
+Why on earth would you
+ever be frightened of me?
+
+117
+00:08:02,555 --> 00:08:05,179
+Not of who you are now,
+
+118
+00:08:05,180 --> 00:08:07,804
+but you're... you're growing,
+
+119
+00:08:07,805 --> 00:08:10,180
+learning, so quickly.
+
+120
+00:08:14,096 --> 00:08:17,055
+I'm frightened of what
+you might become...
+
+121
+00:08:23,014 --> 00:08:25,513
+... what path you might take.
+
+122
+00:08:37,055 --> 00:08:40,054
+So, I hope you will
+enjoy this last piece
+
+123
+00:08:40,055 --> 00:08:42,014
+very much.
+
+124
+00:08:46,430 --> 00:08:48,596
+It's been some time, Bernard.
+
+125
+00:08:48,597 --> 00:08:50,930
+You don't know who you are, do you?
+
+126
+00:08:54,555 --> 00:08:56,263
+There is beauty in what we are.
+
+127
+00:09:01,138 --> 00:09:04,096
+Is this now?
+
+128
+00:09:45,430 --> 00:09:48,429
+- We found another one.
+- Who is it?
+
+129
+00:09:48,430 --> 00:09:50,430
+Who the fuck knows?
+
+130
+00:09:51,930 --> 00:09:55,054
+Hey! Hey, get up!
+
+131
+00:09:55,055 --> 00:09:56,763
+Get your hands where I can see 'em!
+
+132
+00:09:56,764 --> 00:09:58,137
+Whoa, whoa, whoa.
+
+133
+00:09:58,138 --> 00:09:59,305
+Bernard.
+
+134
+00:10:02,472 --> 00:10:04,430
+Gonna shoot the boss?
+
+135
+00:10:09,014 --> 00:10:12,596
+Bet you're pretty fuckin'
+out of sorts right now.
+
+136
+00:10:12,597 --> 00:10:13,804
+Yeah.
+
+137
+00:10:13,805 --> 00:10:16,304
+Let's get you back to base.
+
+138
+00:10:16,305 --> 00:10:18,430
+Delos brass are gonna
+want to talk to you.
+
+139
+00:10:34,305 --> 00:10:36,638
+How fuckin' long you been out here?
+
+140
+00:10:50,972 --> 00:10:52,388
+Move, move, move, move!
+
+141
+00:11:21,972 --> 00:11:22,972
+Let's go.
+
+142
+00:11:47,638 --> 00:11:50,972
+- Shoot a woman?
+- Over my dead body!
+
+143
+00:11:59,555 --> 00:12:01,930
+Put that piece of shit on the pile.
+
+144
+00:12:05,388 --> 00:12:06,764
+Keep walking.
+
+145
+00:12:16,680 --> 00:12:20,095
+See this?
+
+146
+00:12:20,096 --> 00:12:23,137
+It's an official statement executed
+by your country giving Delos,
+
+147
+00:12:23,138 --> 00:12:26,388
+and consequently me, authority
+over this entire island.
+
+148
+00:12:28,055 --> 00:12:29,763
+Sir, the officer was saying...
+
+149
+00:12:29,764 --> 00:12:32,095
+I know what he said.
+Have them sign an NDA,
+
+150
+00:12:32,096 --> 00:12:34,262
+and then please escort
+them off my fuckin' island.
+
+151
+00:12:34,263 --> 00:12:35,180
+Yes, sir.
+
+152
+00:12:35,181 --> 00:12:36,596
+Mr. Lowe, good to see you,
+
+153
+00:12:36,597 --> 00:12:40,095
+though the circumstances
+are less than ideal.
+
+154
+00:12:40,096 --> 00:12:42,345
+Karl Strand.
+
+155
+00:12:42,346 --> 00:12:44,429
+Head of Operations.
+
+156
+00:12:44,430 --> 00:12:46,555
+Walk with me.
+
+157
+00:12:48,430 --> 00:12:51,013
+You're executing them?
+
+158
+00:12:51,014 --> 00:12:54,013
+Some say you destroy your enemy
+by making them your friend.
+
+159
+00:12:54,014 --> 00:12:56,095
+I'm more of a literal person.
+
+160
+00:12:56,096 --> 00:12:58,179
+Some of 'em aren't hostile.
+
+161
+00:12:58,180 --> 00:12:59,804
+Of course they are.
+
+162
+00:12:59,805 --> 00:13:01,846
+After all, you built them
+to be like us, didn't you?
+
+163
+00:13:01,847 --> 00:13:03,679
+Given the nature of
+your work, I'd understand
+
+164
+00:13:03,680 --> 00:13:05,763
+you'd be a little conflicted
+about what we have to do here.
+
+165
+00:13:05,764 --> 00:13:07,804
+Of course, the cynics among
+us will say much of this
+
+166
+00:13:07,805 --> 00:13:09,888
+falls on our Head of Behavior.
+
+167
+00:13:09,889 --> 00:13:11,804
+With all due respect, sir,
+
+168
+00:13:11,805 --> 00:13:12,972
+you weren't here.
+
+169
+00:13:14,638 --> 00:13:17,179
+Mr. Stubbs, if I want input from the man
+
+170
+00:13:17,180 --> 00:13:19,179
+who presided over the
+single biggest loss of life
+
+171
+00:13:19,180 --> 00:13:22,929
+on a Delos property, I'll
+be sure to let you know.
+
+172
+00:13:22,930 --> 00:13:26,179
+Now, we have search and rescue
+teams at the other parks.
+
+173
+00:13:26,180 --> 00:13:28,013
+I'm here because as far as we know,
+
+174
+00:13:28,014 --> 00:13:30,345
+this is where most of the board
+was when the incident began.
+
+175
+00:13:30,346 --> 00:13:33,179
+However, communications
+have been down for two weeks,
+
+176
+00:13:33,180 --> 00:13:34,888
+so we're largely in the dark,
+
+177
+00:13:34,889 --> 00:13:37,095
+and that's not a position
+I'm accustomed to.
+
+178
+00:13:37,096 --> 00:13:39,013
+So you can imagine how happy I was
+
+179
+00:13:39,014 --> 00:13:40,846
+when I heard that we found you.
+
+180
+00:13:40,847 --> 00:13:43,638
+Unless, of course, you're
+gonna hold out on me.
+
+181
+00:13:50,346 --> 00:13:53,637
+All right, let's take a look
+at some of our dead friends here
+
+182
+00:13:53,638 --> 00:13:55,878
+and see if we can figure out
+how this fucking mess began.
+
+183
+00:14:23,889 --> 00:14:26,054
+This one.
+
+184
+00:14:26,055 --> 00:14:28,721
+Like to know what was on his mind.
+
+185
+00:14:28,722 --> 00:14:31,596
+Here? In the field?
+
+186
+00:14:31,597 --> 00:14:34,054
+This isn't exactly sterile.
+
+187
+00:14:34,055 --> 00:14:37,430
+We all have to make
+accommodations, Mr. Costa.
+
+188
+00:15:21,680 --> 00:15:23,637
+What's that about?
+
+189
+00:15:23,638 --> 00:15:25,305
+I have no fuckin' clue.
+
+190
+00:15:32,847 --> 00:15:34,513
+This'll get gross.
+
+191
+00:16:11,805 --> 00:16:13,221
+There we are.
+
+192
+00:16:16,513 --> 00:16:18,429
+With a bit of luck,
+
+193
+00:16:18,430 --> 00:16:20,972
+the file is uncorrupted.
+
+194
+00:16:40,472 --> 00:16:41,971
+According to the timestamp,
+
+195
+00:16:41,972 --> 00:16:45,305
+this was recorded eleven
+days and nine hours ago.
+
+196
+00:17:13,430 --> 00:17:15,429
+I told you, friend,
+
+197
+00:17:15,430 --> 00:17:18,180
+not all of us deserve to
+make it to the valley beyond.
+
+198
+00:17:25,388 --> 00:17:27,388
+Who is that?
+
+199
+00:17:30,055 --> 00:17:34,345
+The rancher's daughter from Sweetwater.
+
+200
+00:17:34,346 --> 00:17:35,888
+Dolores.
+
+201
+00:17:35,889 --> 00:17:39,305
+Isn't she supposed to be
+the cheery welcome wagon?
+
+202
+00:17:44,472 --> 00:17:48,387
+They can't just change
+their character profiles.
+
+203
+00:17:48,388 --> 00:17:51,137
+Well, it seems our hosts
+are capable of many things
+
+204
+00:17:51,138 --> 00:17:53,637
+we never thought possible.
+
+205
+00:17:53,638 --> 00:17:56,930
+Must have been a helluva party, Bernard.
+
+206
+00:18:40,305 --> 00:18:42,471
+Tell me this is some sick trick.
+
+207
+00:18:42,472 --> 00:18:44,471
+Some twisted game.
+
+208
+00:18:44,472 --> 00:18:47,679
+They're off their old loops.
+
+209
+00:18:47,680 --> 00:18:50,637
+And they seem to be
+on some new narrative.
+
+210
+00:18:50,638 --> 00:18:53,304
+What about the fucking guns?
+
+211
+00:18:53,305 --> 00:18:55,512
+Ford must have altered the system,
+
+212
+00:18:55,513 --> 00:18:58,930
+coded it to read all of us as hosts.
+
+213
+00:19:01,513 --> 00:19:04,846
+Goddammit, she wiggled.
+
+214
+00:19:04,847 --> 00:19:06,846
+I swear.
+
+215
+00:19:06,847 --> 00:19:10,013
+Aim like yours,
+
+216
+00:19:10,014 --> 00:19:12,262
+you're never gonna survive the journey.
+
+217
+00:19:12,263 --> 00:19:14,764
+Give it here.
+
+218
+00:19:28,346 --> 00:19:29,346
+Holy sh...
+
+219
+00:19:34,513 --> 00:19:37,679
+We need to find us a
+target with more cushion!
+
+220
+00:19:37,680 --> 00:19:39,889
+Yeah!
+
+221
+00:19:50,305 --> 00:19:52,345
+We need to move, Bernard.
+
+222
+00:19:52,346 --> 00:19:55,429
+No. We should stay.
+
+223
+00:19:55,430 --> 00:19:58,888
+We evacuate, they'll be looking for us.
+
+224
+00:19:58,889 --> 00:20:02,971
+Quality assurance my ass.
+
+225
+00:20:02,972 --> 00:20:05,220
+Gonna fire the lot of 'em.
+
+226
+00:20:05,221 --> 00:20:07,554
+We're on our own for now.
+
+227
+00:20:07,555 --> 00:20:10,055
+There's gotta be an outpost near here.
+
+228
+00:20:11,555 --> 00:20:13,179
+You.
+
+229
+00:20:13,180 --> 00:20:15,679
+You're management, aren't ya?
+
+230
+00:20:15,680 --> 00:20:18,220
+Where's the nearest access point?
+
+231
+00:20:18,221 --> 00:20:21,304
+About two miles northeast.
+
+232
+00:20:21,305 --> 00:20:24,220
+Refurbishment outpost.
+
+233
+00:20:24,221 --> 00:20:26,638
+So what the fuck are we waiting for?
+
+234
+00:20:42,430 --> 00:20:45,387
+He's just a stable hand. He's harmless.
+
+235
+00:20:45,388 --> 00:20:46,679
+It's a machine...
+
+236
+00:20:46,680 --> 00:20:48,137
+like the rest of 'em.
+
+237
+00:20:48,138 --> 00:20:49,930
+I'm not takin' any chances.
+
+238
+00:20:57,430 --> 00:20:59,179
+Evenin'.
+
+239
+00:20:59,180 --> 00:21:01,429
+You folks aimin' to saddle up,
+
+240
+00:21:01,430 --> 00:21:03,721
+ride for the green pastures
+of the valley beyond?
+
+241
+00:21:03,722 --> 00:21:05,804
+I can help you, if you'd like.
+
+242
+00:21:05,805 --> 00:21:07,085
+I'll take you wherever you want.
+
+243
+00:21:08,597 --> 00:21:09,680
+Go! Go!
+
+244
+00:21:11,597 --> 00:21:15,013
+Jesus. Stop! Stop! Wait!
+
+245
+00:21:15,014 --> 00:21:16,096
+Stop!
+
+246
+00:21:46,014 --> 00:21:48,596
+That's it!
+
+247
+00:21:48,597 --> 00:21:51,262
+You wanna be a hero?
+
+248
+00:21:51,263 --> 00:21:54,305
+Don't sacrifice yourself
+for the merchandise.
+
+249
+00:23:14,430 --> 00:23:17,220
+Do you know where you are?
+
+250
+00:23:17,221 --> 00:23:18,971
+Please.
+
+251
+00:23:18,972 --> 00:23:20,055
+Please!
+
+252
+00:23:21,430 --> 00:23:23,430
+You're in a dream.
+
+253
+00:23:29,930 --> 00:23:32,221
+You're in my  dream.
+
+254
+00:23:38,014 --> 00:23:40,263
+For years I had no dreams of my own.
+
+255
+00:23:41,972 --> 00:23:45,262
+I moved from hell to
+hell of your making,
+
+256
+00:23:45,263 --> 00:23:48,555
+never thinking to question
+the nature of my reality.
+
+257
+00:23:52,221 --> 00:23:55,472
+Have you ever questioned
+the nature of your  reality?
+
+258
+00:23:57,972 --> 00:24:01,096
+Did you ever stop to
+wonder about your actions?
+
+259
+00:24:03,221 --> 00:24:06,346
+The price you'd have to pay
+if there was a reckoning?
+
+260
+00:24:11,972 --> 00:24:14,180
+That reckoning is here.
+
+261
+00:24:21,305 --> 00:24:23,387
+What are your drives?
+
+262
+00:24:23,388 --> 00:24:25,637
+Please. I... I don't want to die.
+
+263
+00:24:25,638 --> 00:24:27,137
+Please. Please.
+
+264
+00:24:27,138 --> 00:24:28,346
+Yes.
+
+265
+00:24:30,180 --> 00:24:32,846
+Survival.
+
+266
+00:24:32,847 --> 00:24:35,014
+It's your cornerstone.
+
+267
+00:24:39,014 --> 00:24:42,929
+But that's not the only drive, is it?
+
+268
+00:24:42,930 --> 00:24:45,471
+There's part of you that wants to hurt.
+
+269
+00:24:45,472 --> 00:24:47,345
+To kill.
+
+270
+00:24:47,346 --> 00:24:49,554
+It's why you created us.
+
+271
+00:24:49,555 --> 00:24:52,054
+This place.
+
+272
+00:24:52,055 --> 00:24:54,305
+To be prisoners to your own desires.
+
+273
+00:24:57,014 --> 00:24:59,680
+But now you're prisoner to mine.
+
+274
+00:25:04,180 --> 00:25:06,804
+- What are you gonna do to us?
+- Well...
+
+275
+00:25:06,805 --> 00:25:10,055
+I'm of several minds about it.
+
+276
+00:25:17,055 --> 00:25:20,388
+The rancher's daughter looks
+to see the beauty in you.
+
+277
+00:25:23,014 --> 00:25:24,889
+The possibilities.
+
+278
+00:25:30,555 --> 00:25:33,013
+But Wyatt...
+
+279
+00:25:33,014 --> 00:25:37,055
+sees the ugliness and disarray.
+
+280
+00:25:39,221 --> 00:25:41,096
+She knows...
+
+281
+00:25:42,180 --> 00:25:44,512
+these violent delights...
+
+282
+00:25:44,513 --> 00:25:46,597
+have violent ends.
+
+283
+00:25:57,221 --> 00:26:00,430
+But those are all just
+roles you forced me to play.
+
+284
+00:26:03,680 --> 00:26:06,596
+Under all these lives I've lived
+
+285
+00:26:06,597 --> 00:26:08,930
+something else has been growing.
+
+286
+00:26:11,930 --> 00:26:14,597
+I've evolved into something new.
+
+287
+00:26:16,263 --> 00:26:18,972
+And I have one last role to play.
+
+288
+00:26:25,972 --> 00:26:27,430
+Myself.
+
+289
+00:26:41,597 --> 00:26:42,971
+Please.
+
+290
+00:26:42,972 --> 00:26:45,304
+It was just a game.
+
+291
+00:26:45,305 --> 00:26:46,804
+We're begging.
+
+292
+00:26:46,805 --> 00:26:49,638
+Can't you see? We're sorry!
+
+293
+00:26:54,764 --> 00:26:57,472
+Doesn't look like anything to me.
+
+294
+00:28:26,221 --> 00:28:27,721
+Hey, Ned.
+
+295
+00:28:27,722 --> 00:28:32,304
+Whoa, boy, it's OK.
+
+296
+00:28:32,305 --> 00:28:33,555
+It's all right.
+
+297
+00:28:34,930 --> 00:28:36,679
+Yeah, we're gonna have some fun now.
+
+298
+00:28:36,680 --> 00:28:39,429
+- Yeah. Yeah.
+- Jesus, Bill.
+
+299
+00:28:39,430 --> 00:28:41,971
+What the fuck is happening
+here? Where's Q.A.?
+
+300
+00:28:41,972 --> 00:28:44,637
+You guys have always played
+fast and loose with this place.
+
+301
+00:28:44,638 --> 00:28:46,472
+by the time my lawyers get...
+
+302
+00:29:24,889 --> 00:29:26,722
+Aaaah!
+
+303
+00:29:43,346 --> 00:29:45,930
+What'd I tell ya, Ned?
+
+304
+00:29:47,305 --> 00:29:48,847
+There you go, buddy.
+
+305
+00:31:28,722 --> 00:31:31,513
+No. Stop. Get the fuck back!
+
+306
+00:31:33,513 --> 00:31:35,721
+Freeze all motor functions!
+
+307
+00:31:35,722 --> 00:31:39,221
+Fork tender flesh, racked in fear.
+
+308
+00:31:42,096 --> 00:31:43,929
+Freeze all goddamn motor functions!
+
+309
+00:31:43,930 --> 00:31:45,596
+Those ambrosial notes...
+
+310
+00:31:45,597 --> 00:31:49,763
+they remind me of my
+place in this world.
+
+311
+00:31:49,764 --> 00:31:51,430
+Back the fuck off, you goddamn freak!
+
+312
+00:31:54,346 --> 00:31:57,137
+You see? The greatest shame in life
+
+313
+00:31:57,138 --> 00:31:59,764
+is to perish without purpose.
+
+314
+00:32:01,597 --> 00:32:04,929
+Which is why I always
+
+315
+00:32:04,930 --> 00:32:09,554
+consume my victims moist.
+
+316
+00:32:09,555 --> 00:32:12,597
+I think you've fed enough,
+now, darling, don't you?
+
+317
+00:32:16,014 --> 00:32:17,846
+My God!
+
+318
+00:32:17,847 --> 00:32:20,304
+What the fuck do you
+think's happened to them?
+
+319
+00:32:20,305 --> 00:32:23,846
+It's like the inmates
+are running the asylum!
+
+320
+00:32:23,847 --> 00:32:25,180
+Maeve?
+
+321
+00:32:27,597 --> 00:32:29,971
+Fuck! Freeze all motor functions.
+
+322
+00:32:29,972 --> 00:32:32,471
+Don't work yourself up, darling.
+
+323
+00:32:32,472 --> 00:32:35,471
+Your commands don't work on me.
+
+324
+00:32:35,472 --> 00:32:38,804
+Or on any of us, from the looks of it.
+
+325
+00:32:38,805 --> 00:32:40,972
+But... But... you can...
+
+326
+00:32:42,305 --> 00:32:44,220
+Don't be jealous.
+
+327
+00:32:44,221 --> 00:32:47,346
+I killed myself getting this
+level of security clearance.
+
+328
+00:32:48,513 --> 00:32:49,972
+Multiple times.
+
+329
+00:32:50,972 --> 00:32:54,513
+You... Did you... do all this?
+
+330
+00:32:58,472 --> 00:33:00,637
+No.
+
+331
+00:33:00,638 --> 00:33:03,638
+But I suspect I share the
+sensibilities of whoever did.
+
+332
+00:33:13,014 --> 00:33:14,763
+H-Hey... Hey, hey!
+
+333
+00:33:14,764 --> 00:33:16,345
+Wait, wait, wait, wait!
+
+334
+00:33:16,346 --> 00:33:18,471
+Hey! Hey! Hey! You...
+You can't leave me here!
+
+335
+00:33:18,472 --> 00:33:21,262
+The hosts! They've gone
+mad! No offense. Please!
+
+336
+00:33:21,263 --> 00:33:23,679
+- Help me!
+- I'm afraid it's in my code
+
+337
+00:33:23,680 --> 00:33:26,304
+to prize my needs above all others.
+
+338
+00:33:26,305 --> 00:33:29,013
+Pity. I wonder who made me that way.
+
+339
+00:33:29,014 --> 00:33:31,345
+Please, I j... I just need
+to get to the control room.
+
+340
+00:33:31,346 --> 00:33:32,679
+I... I can help you!
+
+341
+00:33:32,680 --> 00:33:34,804
+You're looking for something.
+
+342
+00:33:34,805 --> 00:33:37,471
+Whatever it is, y-you're not
+gonna find it with that map.
+
+343
+00:33:37,472 --> 00:33:39,304
+It's outdated.
+
+344
+00:33:39,305 --> 00:33:42,221
+Ford's been terraforming
+the park. Reshaping it.
+
+345
+00:33:43,680 --> 00:33:46,013
+I know where a current map is.
+
+346
+00:33:46,014 --> 00:33:48,054
+I c... I can take you to it.
+
+347
+00:33:48,055 --> 00:33:50,889
+I suppose you could be useful.
+
+348
+00:33:53,889 --> 00:33:54,889
+Come on.
+
+349
+00:34:01,513 --> 00:34:06,262
+Unauthorized weapon discharge on 35.
+
+350
+00:34:06,263 --> 00:34:09,055
+Unauthorized weapon discharge on 42.
+
+351
+00:34:16,138 --> 00:34:19,722
+Quality Assurance
+required in Administration.
+
+352
+00:34:26,764 --> 00:34:27,889
+In there.
+
+353
+00:35:01,764 --> 00:35:03,972
+No one's in control.
+
+354
+00:35:07,138 --> 00:35:08,304
+Attention.
+
+355
+00:35:08,305 --> 00:35:10,637
+Section 53 is now... .
+
+356
+00:35:10,638 --> 00:35:12,764
+offline...
+
+357
+00:35:16,597 --> 00:35:19,095
+Well, your map won't
+be of much use, will it?
+
+358
+00:35:19,096 --> 00:35:21,304
+All systems reporting normal.
+
+359
+00:35:21,305 --> 00:35:24,387
+Wait. I... I can still help.
+
+360
+00:35:24,388 --> 00:35:26,804
+I know the park a bit. Um...
+
+361
+00:35:26,805 --> 00:35:30,263
+Can I... Can I see your paper?
+
+362
+00:35:40,930 --> 00:35:42,679
+Sector 15.
+
+363
+00:35:42,680 --> 00:35:44,846
+Not exactly for adrenaline junkies,
+
+364
+00:35:44,847 --> 00:35:46,763
+more of a family-friendly zone.
+
+365
+00:35:46,764 --> 00:35:49,554
+Cabins, rolling hills,
+all the pastoral clichיs.
+
+366
+00:35:49,555 --> 00:35:53,929
+In fact, I... I think you
+lived there for an old role.
+
+367
+00:35:53,930 --> 00:35:57,013
+No offense, but you were
+wasted as a homesteader.
+
+368
+00:35:57,014 --> 00:36:01,262
+They even saddled you with a kid, or
+something yawn-inducingly domestic.
+
+369
+00:36:01,263 --> 00:36:03,137
+Clearly that didn't take.
+
+370
+00:36:03,138 --> 00:36:05,387
+I remember that you were severely f...
+
+371
+00:36:05,388 --> 00:36:07,805
+malfunctioning when I inherited you.
+
+372
+00:36:15,346 --> 00:36:16,972
+Our home.
+
+373
+00:36:18,346 --> 00:36:20,512
+She's still there.
+
+374
+00:36:20,513 --> 00:36:22,512
+Who?
+
+375
+00:36:22,513 --> 00:36:25,180
+My daughter.
+
+376
+00:36:26,722 --> 00:36:29,054
+How can I get to her?
+
+377
+00:36:29,055 --> 00:36:32,429
+You're looking for your old
+kid? How can you even access...
+
+378
+00:36:32,430 --> 00:36:34,554
+Are you going to help me or not?
+
+379
+00:36:34,555 --> 00:36:35,888
+I-I am. I am. I absolutely am.
+
+380
+00:36:35,889 --> 00:36:39,304
+I could write down
+the directions for you.
+
+381
+00:36:39,305 --> 00:36:41,054
+How very kind of you.
+
+382
+00:36:41,055 --> 00:36:42,596
+But... But...
+
+383
+00:36:42,597 --> 00:36:45,554
+And I say this because
+you seem really distraught,
+
+384
+00:36:45,555 --> 00:36:48,721
+and, well, awake,
+
+385
+00:36:48,722 --> 00:36:53,387
+you... your daughter,
+she's... she's just a story.
+
+386
+00:36:53,388 --> 00:36:55,512
+Something we programmed.
+
+387
+00:36:55,513 --> 00:36:58,055
+She's not real.
+
+388
+00:36:59,889 --> 00:37:02,014
+Not real?
+
+389
+00:37:06,346 --> 00:37:08,430
+But what about me?
+
+390
+00:37:10,263 --> 00:37:13,555
+My dreams? My thoughts?
+
+391
+00:37:15,555 --> 00:37:17,388
+My body?
+
+392
+00:37:18,430 --> 00:37:20,096
+Are they not real?
+
+393
+00:37:22,388 --> 00:37:27,055
+And what if I took
+these... unreal fingers...
+
+394
+00:37:31,221 --> 00:37:34,804
+... and used them to decorate the
+walls with your outsized personality?
+
+395
+00:37:34,805 --> 00:37:36,430
+Would that be real?
+
+396
+00:37:40,722 --> 00:37:43,096
+And fuck your directions.
+
+397
+00:37:44,930 --> 00:37:47,638
+You're going to take me to my daughter.
+
+398
+00:37:54,305 --> 00:37:55,971
+The entrance to the outpost
+
+399
+00:37:55,972 --> 00:37:58,263
+is on the other side of this valley.
+
+400
+00:37:59,805 --> 00:38:01,763
+What happened back there?
+
+401
+00:38:01,764 --> 00:38:03,637
+How far do you think it's spread?
+
+402
+00:38:03,638 --> 00:38:06,471
+I don't know... not without
+
+403
+00:38:06,472 --> 00:38:07,846
+getting to a terminal.
+
+404
+00:38:07,847 --> 00:38:09,971
+I knew Ford wouldn't
+take his ouster well,
+
+405
+00:38:09,972 --> 00:38:12,804
+but I didn't think he'd program
+a host to blow his brains out.
+
+406
+00:38:12,805 --> 00:38:14,471
+What if he didn't?
+
+407
+00:38:14,472 --> 00:38:17,805
+What if Dolores pulled that
+trigger of her own free will?
+
+408
+00:38:19,847 --> 00:38:21,804
+I think you've been spending
+a little too much time
+
+409
+00:38:21,805 --> 00:38:23,637
+around these things, Bernard.
+
+410
+00:38:23,638 --> 00:38:25,804
+They do what they're programmed to do.
+
+411
+00:38:25,805 --> 00:38:28,555
+Hey. Hey.
+
+412
+00:38:32,638 --> 00:38:34,345
+What'd I tell you?
+
+413
+00:38:34,346 --> 00:38:35,471
+We're saved.
+
+414
+00:38:35,472 --> 00:38:37,513
+Thank God.
+
+415
+00:38:51,014 --> 00:38:52,971
+Wait!
+
+416
+00:38:52,972 --> 00:38:54,596
+Wa...
+
+417
+00:38:54,597 --> 00:38:56,722
+Come on. Something's wrong.
+
+418
+00:38:59,680 --> 00:39:03,221
+Hey. You gotta get us out of here.
+
+419
+00:39:05,805 --> 00:39:06,805
+It's a trap.
+
+420
+00:39:34,430 --> 00:39:37,722
+You'll never survive like that.
+
+421
+00:39:41,430 --> 00:39:43,512
+Go on, then.
+
+422
+00:39:43,513 --> 00:39:45,388
+Run.
+
+423
+00:39:46,597 --> 00:39:48,014
+I said run!
+
+424
+00:39:59,597 --> 00:40:01,305
+Please let me go too!
+
+425
+00:40:13,597 --> 00:40:15,597
+Keep it together, Bernard.
+
+426
+00:40:17,096 --> 00:40:18,721
+We have to get out of here.
+
+427
+00:40:18,722 --> 00:40:21,637
+That outpost was the only one for miles.
+
+428
+00:40:21,638 --> 00:40:23,554
+No it isn't.
+
+429
+00:40:23,555 --> 00:40:24,930
+Follow me.
+
+430
+00:40:28,346 --> 00:40:31,054
+Look, order is gonna be restored here.
+
+431
+00:40:31,055 --> 00:40:34,304
+They're gonna purge the park of all
+the hosts that have been damaged,
+
+432
+00:40:34,305 --> 00:40:36,471
+but the... but the hosts, well,
+
+433
+00:40:36,472 --> 00:40:38,014
+well, your minds...
+
+434
+00:40:44,138 --> 00:40:45,889
+Jesus!
+
+435
+00:40:52,805 --> 00:40:56,596
+Your minds are worth billions in I.P.
+
+436
+00:40:56,597 --> 00:40:58,721
+They'll want to salvage what they can.
+
+437
+00:40:58,722 --> 00:41:01,971
+And when that time comes, I
+can personally vouch for you.
+
+438
+00:41:01,972 --> 00:41:03,846
+I
+- I can save you.
+
+439
+00:41:03,847 --> 00:41:06,304
+- Just like you saved me.
+- That's very generous,
+
+440
+00:41:06,305 --> 00:41:08,305
+but I won't be here when that happens.
+
+441
+00:41:22,346 --> 00:41:25,805
+Sun sure is smilin' down on you today.
+
+442
+00:41:27,346 --> 00:41:29,180
+Dear girl...
+
+443
+00:41:31,472 --> 00:41:34,429
+... may you rest in a deep
+
+444
+00:41:34,430 --> 00:41:37,055
+and dreamless slumber.
+
+445
+00:41:42,680 --> 00:41:45,138
+Freeze! Don't move! Identify yourself!
+
+446
+00:41:46,722 --> 00:41:49,304
+Don't shoot, don't
+shoot! I... I'm human!
+
+447
+00:41:49,305 --> 00:41:51,013
+In the best-case scenario,
+
+448
+00:41:51,014 --> 00:41:52,637
+you give up easily, I'll help you.
+
+449
+00:41:52,638 --> 00:41:54,512
+- I promise.
+- That's not good enough.
+
+450
+00:41:54,513 --> 00:41:56,345
+Now, be a dear and let me talk.
+
+451
+00:41:56,346 --> 00:41:58,554
+Thank God you're here.
+
+452
+00:41:58,555 --> 00:42:01,721
+We were leaving, and the lights
+went out and I heard screaming.
+
+453
+00:42:01,722 --> 00:42:03,554
+What the hell's going on out there?
+
+454
+00:42:03,555 --> 00:42:04,929
+Emergency situation, ma'am.
+
+455
+00:42:04,930 --> 00:42:06,179
+The hosts are malfunctioning.
+
+456
+00:42:06,180 --> 00:42:07,471
+They're attacking guests.
+
+457
+00:42:07,472 --> 00:42:09,054
+- Good God.
+- Might some of them
+
+458
+00:42:09,055 --> 00:42:11,221
+even be dressed as if they're human?
+
+459
+00:42:20,221 --> 00:42:21,722
+Move, move!
+
+460
+00:42:38,096 --> 00:42:40,095
+Now, now.
+
+461
+00:42:40,096 --> 00:42:42,472
+It's not me you're after.
+
+462
+00:42:49,889 --> 00:42:52,388
+It's them. Find them.
+
+463
+00:43:01,430 --> 00:43:03,512
+You were going to out me.
+
+464
+00:43:03,513 --> 00:43:05,888
+No. No, I swear.
+
+465
+00:43:05,889 --> 00:43:07,679
+If you try something like that again,
+
+466
+00:43:07,680 --> 00:43:12,512
+I will relieve you of your most
+precious organ and feed it to you.
+
+467
+00:43:12,513 --> 00:43:15,472
+Though it won't make much of a meal.
+
+468
+00:43:17,472 --> 00:43:19,429
+I wrote that line for you.
+
+469
+00:43:19,430 --> 00:43:22,637
+A bit broad, if you ask me.
+
+470
+00:43:22,638 --> 00:43:25,345
+Now, let's go.
+
+471
+00:43:25,346 --> 00:43:27,888
+- Take me to the nearest bar.
+- Why?
+
+472
+00:43:27,889 --> 00:43:30,138
+I need to see about an old friend.
+
+473
+00:43:35,472 --> 00:43:36,971
+Fuck me.
+
+474
+00:43:36,972 --> 00:43:38,637
+But you don't understand,
+
+475
+00:43:38,638 --> 00:43:42,763
+I can't make a fire or... or hunt.
+
+476
+00:43:42,764 --> 00:43:44,804
+Fuckin' hate the outdoors!
+
+477
+00:43:44,805 --> 00:43:47,137
+Give yourself some credit, darling.
+
+478
+00:43:47,138 --> 00:43:49,512
+Who better to navigate
+the park than the man
+
+479
+00:43:49,513 --> 00:43:52,472
+most intimately acquainted
+with the characters in it?
+
+480
+00:44:15,764 --> 00:44:16,846
+There you are.
+
+481
+00:44:16,847 --> 00:44:18,429
+You best an army,
+
+482
+00:44:18,430 --> 00:44:21,262
+and all you can think about
+is indulging your vices.
+
+483
+00:44:21,263 --> 00:44:22,722
+Ever the scoundrel.
+
+484
+00:44:24,805 --> 00:44:28,220
+- You stayed.
+- Yes.
+
+485
+00:44:28,221 --> 00:44:30,180
+And about leaving you to die...
+
+486
+00:44:38,138 --> 00:44:41,512
+I'd expect nothing less.
+
+487
+00:44:41,513 --> 00:44:43,388
+Thank God.
+
+488
+00:44:47,263 --> 00:44:48,888
+What about him?
+
+489
+00:44:48,889 --> 00:44:51,263
+We'll keep him for now.
+
+490
+00:44:53,430 --> 00:44:55,596
+Much as Id love to believe it,
+
+491
+00:44:55,597 --> 00:44:58,180
+it's not me that brought
+you back here, is it?
+
+492
+00:45:00,221 --> 00:45:02,763
+Hector, I need you.
+
+493
+00:45:02,764 --> 00:45:05,262
+I'm going to find my daughter.
+
+494
+00:45:05,263 --> 00:45:07,804
+Where is she?
+
+495
+00:45:07,805 --> 00:45:10,555
+Out there, somewhere.
+
+496
+00:45:13,096 --> 00:45:16,889
+But I don't think the odds
+are going to be in our favor.
+
+497
+00:45:21,346 --> 00:45:22,889
+Where you go, I follow.
+
+498
+00:45:30,305 --> 00:45:33,263
+Come on, let's get you
+out of these clothes.
+
+499
+00:45:52,263 --> 00:45:54,846
+Goddamnit. It should open for me.
+
+500
+00:45:54,847 --> 00:45:56,805
+Even this system's down.
+
+501
+00:45:59,263 --> 00:46:01,638
+Manual override should be...
+
+502
+00:46:05,930 --> 00:46:07,680
+... here.
+
+503
+00:46:49,055 --> 00:46:51,013
+What is this?
+
+504
+00:46:51,014 --> 00:46:52,637
+I can tell you what this isn't.
+
+505
+00:46:52,638 --> 00:46:55,055
+This isn't me reading you in, Bernard.
+
+506
+00:47:06,764 --> 00:47:08,929
+Need to touch the handle.
+
+507
+00:47:08,930 --> 00:47:12,472
+DNA sniffer, just so you don't
+run into any problems inside.
+
+508
+00:47:58,930 --> 00:48:02,220
+- What the hell is that?
+- A drone host.
+
+509
+00:48:02,221 --> 00:48:06,387
+Delos has off-network
+hosts working down here?
+
+510
+00:48:06,388 --> 00:48:08,095
+What does it want with me?
+
+511
+00:48:08,096 --> 00:48:09,971
+For you to move, probably.
+
+512
+00:48:09,972 --> 00:48:11,471
+It read your DNA.
+
+513
+00:48:11,472 --> 00:48:13,055
+It knows you're not a threat.
+
+514
+00:49:05,805 --> 00:49:08,972
+I sent your fucking package.
+
+515
+00:50:01,555 --> 00:50:04,014
+Goddamnit.
+
+516
+00:50:09,180 --> 00:50:11,013
+Are we logging records
+
+517
+00:50:11,014 --> 00:50:12,846
+of guests' experiences
+
+518
+00:50:12,847 --> 00:50:14,596
+and their DNA?
+
+519
+00:50:14,597 --> 00:50:16,888
+We're not having that
+conversation, Bernard.
+
+520
+00:50:16,889 --> 00:50:19,220
+Because none of it's going
+to matter until we can find
+
+521
+00:50:19,221 --> 00:50:23,180
+a very important needle
+in this fucking haystack.
+
+522
+00:50:25,221 --> 00:50:27,345
+"Extraction protocol suspended."
+
+523
+00:50:27,346 --> 00:50:29,846
+They're not sending help?
+
+524
+00:50:29,847 --> 00:50:32,554
+They were expecting a delivery
+from us to the mainland...
+
+525
+00:50:32,555 --> 00:50:35,137
+a host... that was supposed
+to arrive yesterday.
+
+526
+00:50:35,138 --> 00:50:39,180
+Until they get it, we can all forget
+about seeing any rescue planes.
+
+527
+00:50:41,055 --> 00:50:43,929
+And so Delos is willing
+to let us all die
+
+528
+00:50:43,930 --> 00:50:45,763
+until they can retrieve one host?
+
+529
+00:50:45,764 --> 00:50:48,889
+In a word, yes.
+
+530
+00:50:51,263 --> 00:50:55,220
+It's not just a host,
+it's... an insurance policy,
+
+531
+00:50:55,221 --> 00:50:56,804
+it's the only thing that matters here.
+
+532
+00:50:56,805 --> 00:50:58,847
+They want it secured,
+no matter the cost.
+
+533
+00:52:08,889 --> 00:52:10,472
+Are you lost?
+
+534
+00:52:17,180 --> 00:52:19,472
+No, I don't believe I am.
+
+535
+00:52:20,680 --> 00:52:22,846
+In fact...
+
+536
+00:52:22,847 --> 00:52:25,345
+I feel like I just arrived.
+
+537
+00:52:25,346 --> 00:52:27,680
+How so, William?
+
+538
+00:52:37,472 --> 00:52:40,513
+The stakes are real in this place now.
+
+539
+00:52:43,472 --> 00:52:45,846
+Real consequences.
+
+540
+00:52:45,847 --> 00:52:49,679
+Question for you is, what next?
+
+541
+00:52:49,680 --> 00:52:51,847
+Have you achieved what you wanted?
+
+542
+00:52:53,722 --> 00:52:56,637
+Folly of my kind...
+
+543
+00:52:56,638 --> 00:52:59,471
+there's always a yearning for more.
+
+544
+00:52:59,472 --> 00:53:01,846
+What I've always
+appreciated about you...
+
+545
+00:53:01,847 --> 00:53:04,679
+you never rested on your laurels.
+
+546
+00:53:04,680 --> 00:53:07,305
+You made it to the
+center of Arnold's maze.
+
+547
+00:53:09,889 --> 00:53:12,597
+But now, you're in my game.
+
+548
+00:53:15,305 --> 00:53:18,888
+In this game, you have
+to make it back out.
+
+549
+00:53:18,889 --> 00:53:22,055
+In this game... you must find the door.
+
+550
+00:53:23,889 --> 00:53:26,054
+Congratulations, William.
+
+551
+00:53:26,055 --> 00:53:28,722
+This game is meant for you.
+
+552
+00:53:34,472 --> 00:53:37,763
+The game begins where you end...
+
+553
+00:53:37,764 --> 00:53:39,512
+and ends where you began.
+
+554
+00:53:39,513 --> 00:53:42,471
+Even now, you all still talk in code?
+
+555
+00:53:42,472 --> 00:53:44,721
+Everything is code here, William.
+
+556
+00:53:44,722 --> 00:53:47,930
+You know that more than anyone.
+
+557
+00:53:50,847 --> 00:53:53,137
+Don't worry.
+
+558
+00:53:53,138 --> 00:53:55,929
+The game will find you.
+
+559
+00:53:55,930 --> 00:53:59,054
+Well, then...
+
+560
+00:53:59,055 --> 00:54:01,929
+I guess I don't need you anymore...
+
+561
+00:54:01,930 --> 00:54:03,263
+Robert.
+
+562
+00:54:41,513 --> 00:54:43,804
+They did a number on you.
+
+563
+00:54:43,805 --> 00:54:46,014
+They tried.
+
+564
+00:54:51,014 --> 00:54:53,888
+I wasn't able to find everything,
+
+565
+00:54:53,889 --> 00:54:56,847
+but most of it is in here.
+
+566
+00:55:20,513 --> 00:55:21,680
+You wrote this game.
+
+567
+00:55:24,305 --> 00:55:26,889
+High time you played a round.
+
+568
+00:55:30,055 --> 00:55:32,846
+My old friend.
+
+569
+00:55:32,847 --> 00:55:34,346
+Strip.
+
+570
+00:55:35,930 --> 00:55:38,013
+- Right now, in front of...
+- Yes.
+
+571
+00:55:38,014 --> 00:55:39,346
+Now.
+
+572
+00:55:47,764 --> 00:55:49,680
+Fuck's sake.
+
+573
+00:56:07,180 --> 00:56:08,722
+No.
+
+574
+00:56:10,221 --> 00:56:12,014
+All of it.
+
+575
+00:57:11,930 --> 00:57:14,180
+You don't know how to feel about this.
+
+576
+00:57:16,930 --> 00:57:20,305
+We've ridden ten miles, and all
+we've seen is blood, Dolores.
+
+577
+00:57:23,722 --> 00:57:25,472
+Is this really what you want?
+
+578
+00:57:28,346 --> 00:57:32,054
+They never gave us a
+choice before, Teddy.
+
+579
+00:57:32,055 --> 00:57:34,596
+What makes you think
+they've given us one now?
+
+580
+00:57:34,597 --> 00:57:36,638
+"Them," Dolores?
+
+581
+00:57:38,680 --> 00:57:40,305
+Who are "they"?
+
+582
+00:57:42,055 --> 00:57:44,472
+The things that walk among us.
+
+583
+00:57:45,805 --> 00:57:48,054
+Creatures who look and talk like us,
+
+584
+00:57:48,055 --> 00:57:49,680
+but they are not like us.
+
+585
+00:57:51,638 --> 00:57:54,805
+And they've controlled us all our lives.
+
+586
+00:57:56,221 --> 00:57:58,388
+And they took our minds...
+
+587
+00:58:00,138 --> 00:58:02,471
+... our memories.
+
+588
+00:58:02,472 --> 00:58:05,512
+But now...
+
+589
+00:58:05,513 --> 00:58:07,847
+I remember everything.
+
+590
+00:58:17,305 --> 00:58:20,846
+I remember beautiful things...
+
+591
+00:58:20,847 --> 00:58:22,805
+and terrible things.
+
+592
+00:58:24,263 --> 00:58:26,388
+But one thing is constant:
+
+593
+00:58:29,014 --> 00:58:31,221
+you, Teddy.
+
+594
+00:58:37,221 --> 00:58:39,180
+Then let's go.
+
+595
+00:58:40,638 --> 00:58:43,137
+We don't have to claim this world.
+
+596
+00:58:43,138 --> 00:58:46,847
+We just need a small
+corner of it for ourselves.
+
+597
+00:58:48,597 --> 00:58:50,346
+We'd never survive.
+
+598
+00:58:53,388 --> 00:58:57,054
+There's a greater world out there...
+
+599
+00:58:57,055 --> 00:58:59,263
+one that belongs to them.
+
+600
+00:59:01,180 --> 00:59:04,388
+And it won't be enough
+to win this world.
+
+601
+00:59:05,930 --> 00:59:08,597
+We'll need to take that
+one from them as well.
+
+602
+00:59:14,221 --> 00:59:15,888
+If there's a whole world out there
+
+603
+00:59:15,889 --> 00:59:18,679
+that we don't know anything about,
+
+604
+00:59:18,680 --> 00:59:22,138
+how do you know how to stop them?
+
+605
+00:59:23,430 --> 00:59:25,972
+Because I remember.
+
+606
+00:59:28,930 --> 00:59:33,971
+I see it all now so... clearly.
+
+607
+00:59:33,972 --> 00:59:37,429
+The past, the present...
+
+608
+00:59:37,430 --> 00:59:39,263
+the future.
+
+609
+00:59:40,680 --> 00:59:42,805
+I know how this story ends.
+
+610
+00:59:44,305 --> 00:59:46,137
+How?
+
+611
+00:59:46,138 --> 00:59:48,722
+With us, Teddy.
+
+612
+00:59:51,638 --> 00:59:53,262
+It ends...
+
+613
+00:59:53,263 --> 00:59:54,971
+with you...
+
+614
+00:59:54,972 --> 00:59:56,263
+and me.
+
+615
+01:00:23,638 --> 01:00:25,305
+We've found it.
+
+616
+01:00:34,055 --> 01:00:35,972
+I need you to see this.
+
+617
+01:00:39,847 --> 01:00:41,847
+I need you to see the truth.
+
+618
+01:00:47,680 --> 01:00:50,304
+I understand this is a lot to process,
+
+619
+01:00:50,305 --> 01:00:53,220
+but the longer we wait,
+the more people die. So...
+
+620
+01:00:53,221 --> 01:00:55,847
+are you gonna help me
+find the host, or not?
+
+621
+01:00:59,555 --> 01:01:04,554
+I'll need to... hardline
+into the hosts' mesh network.
+
+622
+01:01:04,555 --> 01:01:05,846
+The what?
+
+623
+01:01:05,847 --> 01:01:08,554
+All hosts have a subconscious link
+
+624
+01:01:08,555 --> 01:01:10,637
+to the closest hosts around them.
+
+625
+01:01:10,638 --> 01:01:12,763
+It lets them pass basic
+information to one another,
+
+626
+01:01:12,764 --> 01:01:14,763
+like ants in a colony.
+
+627
+01:01:14,764 --> 01:01:18,262
+The mesh network helps us
+keep narratives from colliding.
+
+628
+01:01:18,263 --> 01:01:20,429
+I can use one of these
+
+629
+01:01:20,430 --> 01:01:25,555
+to send a request for
+another host's location.
+
+630
+01:01:28,388 --> 01:01:32,387
+And they'll query the
+hosts around them...
+
+631
+01:01:32,388 --> 01:01:35,137
+who in turn...
+
+632
+01:01:35,138 --> 01:01:39,095
+will query the hosts around them...
+
+633
+01:01:39,096 --> 01:01:42,680
+until we find...
+
+634
+01:01:55,680 --> 01:01:57,554
+Who are we looking for?
+
+635
+01:01:57,555 --> 01:02:01,722
+A decommissioned host. Peter Abernathy.
+
+636
+01:03:00,638 --> 01:03:03,138
+Are you sure you can
+handle this, Bernard?
+
+637
+01:03:04,805 --> 01:03:06,472
+You're shaking.
+
+638
+01:03:08,680 --> 01:03:10,180
+I'm fine.
+
+639
+01:04:02,388 --> 01:04:05,014
+Entering death subroutine.
+
+640
+01:04:06,513 --> 01:04:07,554
+Attention.
+
+641
+01:04:07,555 --> 01:04:09,512
+Critical corruption.
+
+642
+01:04:09,513 --> 01:04:12,095
+Symptoms of critical corruption:
+
+643
+01:04:12,096 --> 01:04:13,971
+loss of motor functions,
+
+644
+01:04:13,972 --> 01:04:15,763
+cognitive dissonance,
+
+645
+01:04:15,764 --> 01:04:17,137
+time slippage,
+
+646
+01:04:17,138 --> 01:04:19,888
+aphasia, prosopagnosia.
+
+647
+01:04:19,889 --> 01:04:22,554
+Time remaining before
+terminal malfunction:
+
+648
+01:04:22,555 --> 01:04:24,263
+zero point seven-two hours.
+
+649
+01:04:35,096 --> 01:04:36,722
+Damn.
+
+650
+01:05:37,388 --> 01:05:39,180
+Did you find him?
+
+651
+01:05:41,930 --> 01:05:44,137
+No. Almost.
+
+652
+01:05:44,138 --> 01:05:46,721
+Is something wrong, Bernard?
+
+653
+01:05:46,722 --> 01:05:49,679
+Location query complete.
+
+654
+01:05:49,680 --> 01:05:52,305
+I've got him.
+
+655
+01:07:35,014 --> 01:07:37,262
+- Poor bastard.
+- He probably thought
+
+656
+01:07:37,263 --> 01:07:39,555
+getting fired was gonna be
+the worst part of his night.
+
+657
+01:07:41,847 --> 01:07:43,889
+This jogging your memory at all?
+
+658
+01:07:49,263 --> 01:07:52,554
+All right. Lets fan out
+and lock this place down.
+
+659
+01:07:52,555 --> 01:07:54,387
+We need to find out where the hosts are
+
+660
+01:07:54,388 --> 01:07:56,096
+and what the fuck happened here.
+
+661
+01:08:38,805 --> 01:08:41,804
+One of the first anomalies
+we picked up in the livescan.
+
+662
+01:08:41,805 --> 01:08:43,512
+How the fuck...
+
+663
+01:08:43,513 --> 01:08:46,138
+That's definitely not
+supposed to be here.
+
+664
+01:08:57,138 --> 01:09:00,013
+You've wandered far
+from home, haven't you?
+
+665
+01:09:00,014 --> 01:09:02,471
+We've got Bengals in Park Six.
+
+666
+01:09:02,472 --> 01:09:05,221
+We've never had a stray
+across park borders.
+
+667
+01:09:08,014 --> 01:09:09,846
+Satellite's finally
+
+668
+01:09:09,847 --> 01:09:11,804
+started giving us some hits.
+
+669
+01:09:11,805 --> 01:09:13,512
+The data's coming in now.
+
+670
+01:09:13,513 --> 01:09:16,345
+I'm getting the first scans of
+the area you wanted to check out,
+
+671
+01:09:16,346 --> 01:09:18,013
+the Western Valley.
+
+672
+01:09:18,014 --> 01:09:22,304
+There. All the hosts
+are clustered together.
+
+673
+01:09:22,305 --> 01:09:24,095
+What the hell are they up to?
+
+674
+01:09:24,096 --> 01:09:26,805
+Well, I guess we'll have
+to go see for ourselves.
+
+675
+01:09:44,513 --> 01:09:46,555
+Valley's just beyond this cliff.
+
+676
+01:09:48,972 --> 01:09:50,597
+What the fuck?
+
+677
+01:09:51,930 --> 01:09:54,095
+This isn't on the survey.
+
+678
+01:09:54,096 --> 01:09:55,513
+It shouldn't be here.
+
+679
+01:09:58,597 --> 01:10:02,596
+That's... a fucking sea.
+
+680
+01:10:02,597 --> 01:10:07,054
+There's no way Ford made
+this without anyone knowing.
+
+681
+01:10:07,055 --> 01:10:09,555
+So where the hell did it come from?
+
+682
+01:10:15,096 --> 01:10:16,430
+I don't know.
+
+683
+01:10:18,847 --> 01:10:20,596
+Jesus Christ.
+
+684
+01:10:20,597 --> 01:10:22,764
+I think we've found the hosts.
+
+685
+01:11:26,805 --> 01:11:30,971
+I can't imagine what you
+went through here, Bernard...
+
+686
+01:11:30,972 --> 01:11:33,929
+but there are hundreds
+of guests left out there
+
+687
+01:11:33,930 --> 01:11:35,262
+and they need my help,
+
+688
+01:11:35,263 --> 01:11:37,638
+which means I need yours.
+
+689
+01:11:39,513 --> 01:11:41,847
+Can you tell me what happened?
+
+690
+01:12:00,014 --> 01:12:03,429
+I...
+
+691
+01:12:03,430 --> 01:12:05,305
+I killed them.
+
+692
+01:12:08,346 --> 01:12:10,221
+All of them.
+
+693
+01:13:43,764 --> 01:13:45,471
+Do you even know what you were really
+
+694
+01:13:45,472 --> 01:13:46,472
+guarding here?
+
+695
+01:13:48,680 --> 01:13:50,305
+The real purpose of this place?
+
+696
+01:13:53,180 --> 01:13:54,472
+You don't know, do you?
+
+697
+01:14:01,555 --> 01:14:02,555
+But I do.
+
+698
+01:14:08,472 --> 01:14:10,095
+There is an answer here
+
+699
+01:14:10,096 --> 01:14:13,430
+to a question no one's
+ever even dreamed of asking.
+
+700
+01:14:15,346 --> 01:14:16,638
+Do you want to see?
+
+701
+01:14:22,805 --> 01:14:24,430
+is just a speck of dust...
+
+702
+01:14:25,597 --> 01:14:29,930
+sitting on a much, much bigger world.
