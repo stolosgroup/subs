@@ -1,0 +1,4439 @@
+﻿1
+00:00:00,019 --> 00:00:01,362
+<i>Previously on "Grey's Anatomy"...</i>
+
+2
+00:00:01,395 --> 00:00:02,793
+AMELIA: There's a scientific study
+
+3
+00:00:02,825 --> 00:00:05,218
+that if you stand like this
+in superhero pose,
+
+4
+00:00:05,257 --> 00:00:07,311
+you will perform measurably better.
+
+5
+00:00:07,335 --> 00:00:08,646
+Owen, will you marry me?
+
+6
+00:00:08,680 --> 00:00:10,789
+- Where are we running?
+- Ahh!
+
+7
+00:00:10,822 --> 00:00:12,704
+Um, kids.
+
+8
+00:00:12,902 --> 00:00:14,763
+- Five.
+- Whoa. Five?!
+
+9
+00:00:14,764 --> 00:00:15,747
+Hey, you got a minute to talk?
+
+10
+00:00:15,779 --> 00:00:17,246
+AMELIA: Owen, there's
+nothing to talk about.
+
+11
+00:00:17,279 --> 00:00:18,129
+I don't want to have a baby!
+
+12
+00:00:18,130 --> 00:00:20,913
+Is she okay? Is she sober?
+Just tell me that.
+
+13
+00:00:20,946 --> 00:00:22,192
+STEPHANIE: She's safe.
+
+14
+00:00:22,226 --> 00:00:23,604
+Tell her to come home.
+
+15
+00:00:28,850 --> 00:00:32,793
+[BREATHES DEEPLY]
+
+16
+00:00:32,818 --> 00:00:34,538
+[RAZOR BUZZES]
+
+17
+00:00:34,571 --> 00:00:42,318
+♪  ♪
+
+18
+00:00:42,352 --> 00:00:45,491
+AMELIA: <i>There are 100 billion
+neurons in the human brain...</i>
+
+19
+00:00:45,516 --> 00:00:47,308
+<i>making and remaking connections...</i>
+
+20
+00:00:47,340 --> 00:00:51,296
+♪ Today is sweet like honey ♪
+
+21
+00:00:51,329 --> 00:00:53,195
+- ♪ Sugar in my step
+- That's it?
+
+22
+00:00:53,228 --> 00:00:54,713
+♪ With a pocket full of sunny ♪
+
+23
+00:00:54,746 --> 00:00:56,223
+Kinda makes you look fierce.
+
+24
+00:00:56,977 --> 00:00:58,720
+♪ Summer in my soul, and the
+birds are sounding lovely ♪
+
+25
+00:00:58,753 --> 00:01:00,902
+Are you sure you don't
+want me to call your mom?
+
+26
+00:01:00,926 --> 00:01:03,462
+No. She didn't come for my wedding.
+
+27
+00:01:03,487 --> 00:01:05,054
+She doesn't get to come for my tumor.
+
+28
+00:01:05,086 --> 00:01:07,390
+♪ We got the feeling ♪
+
+29
+00:01:07,423 --> 00:01:08,702
+<i>It's helping us with math...</i>
+
+30
+00:01:08,735 --> 00:01:09,795
+[DOOR CLOSES]
+
+31
+00:01:09,829 --> 00:01:12,474
+<i>...remembering our keys,
+our dad's voice...</i>
+
+32
+00:01:13,022 --> 00:01:15,074
+<i>working hard all the time.</i>
+
+33
+00:01:15,403 --> 00:01:18,534
+♪ From my head down to my toes ♪
+
+34
+00:01:18,558 --> 00:01:21,437
+♪ We got the feeling, ooh ♪
+
+35
+00:01:21,461 --> 00:01:23,061
+♪ Got the feeling ♪
+
+36
+00:01:23,085 --> 00:01:24,492
+♪ Ooh ♪
+
+37
+00:01:24,516 --> 00:01:26,978
+♪ Got the feeling, got the feeling ♪
+
+38
+00:01:27,002 --> 00:01:32,295
+♪ Got, got the feeling, whoa ♪
+
+39
+00:01:32,328 --> 00:01:35,615
+♪ Got the feeling,
+got, got the feeling ♪
+
+40
+00:01:35,715 --> 00:01:39,009
+<i>So when the brain is faulty,
+it's a big rewiring job.</i>
+
+41
+00:01:39,397 --> 00:01:41,060
+<i>And there's no margin for error.</i>
+
+42
+00:01:41,093 --> 00:01:42,788
+KORACICK: I'll go in
+through a subfrontal craniotomy,
+
+43
+00:01:42,821 --> 00:01:44,818
+real clean, small incision in the dura,
+
+44
+00:01:44,818 --> 00:01:46,000
+and then scoop the tumor out.
+
+45
+00:01:46,034 --> 00:01:48,444
+I don't like the edema around the tumor,
+
+46
+00:01:48,483 --> 00:01:50,434
+but I got to dance with the girl
+who brought me, so...
+
+47
+00:01:50,466 --> 00:01:53,185
+[CHUCKLES]
+I imagine you have questions.
+
+48
+00:01:53,219 --> 00:01:55,394
+Yeah, uh, how many of these
+have you done?
+
+49
+00:01:55,426 --> 00:01:57,113
+So, so many.
+
+50
+00:01:57,137 --> 00:01:58,544
+And what's the recovery time?
+
+51
+00:01:58,568 --> 00:02:00,759
+I took a 13-centimeter tumor
+out of a cop
+
+52
+00:02:00,784 --> 00:02:01,647
+in roughly the same place.
+
+53
+00:02:01,671 --> 00:02:03,687
+He was walking day one,
+talking day three,
+
+54
+00:02:03,711 --> 00:02:05,122
+back at work end of the week, so...
+
+55
+00:02:05,146 --> 00:02:06,233
+Thank you, Tom.
+
+56
+00:02:06,257 --> 00:02:08,112
+Yeah. See you at the after party.
+
+57
+00:02:08,136 --> 00:02:11,303
+[TELEPHONE RINGS]
+
+58
+00:02:11,338 --> 00:02:13,193
+He seems arrogant enough.
+
+59
+00:02:13,226 --> 00:02:15,220
+He's a showboat.
+
+60
+00:02:15,245 --> 00:02:17,197
+And he works best under
+pressure, so, DeLuca,
+
+61
+00:02:17,230 --> 00:02:19,597
+ask him questions during
+surgery, make him show off.
+
+62
+00:02:19,630 --> 00:02:22,030
+- And if I make it through...
+- When you make it through.
+
+63
+00:02:22,062 --> 00:02:23,789
+- Early ambulation protocol.
+- Thank you.
+
+64
+00:02:23,822 --> 00:02:25,389
+Okay. Meredith, if I die...
+
+65
+00:02:25,423 --> 00:02:27,086
+You are not going to die.
+
+66
+00:02:27,118 --> 00:02:28,333
+But if I do, you call my mom.
+
+67
+00:02:28,366 --> 00:02:29,837
+I'm sorry, but she likes you.
+
+68
+00:02:29,871 --> 00:02:31,213
+And, you, take my room.
+
+69
+00:02:31,246 --> 00:02:33,325
+It is way better.
+I kind of scammed you on that.
+
+70
+00:02:33,359 --> 00:02:34,797
+- Stop it.
+- No, she's right. It's way better.
+
+71
+00:02:34,830 --> 00:02:36,013
+Owen, if I'm gorked,
+
+72
+00:02:36,046 --> 00:02:38,254
+do not overthink it, do not visit me.
+
+73
+00:02:38,286 --> 00:02:39,789
+Just park me somewhere
+and go on with your life.
+
+74
+00:02:39,823 --> 00:02:41,005
+Amelia, please cut it out.
+
+75
+00:02:41,039 --> 00:02:41,933
+And if I need unplugging,
+
+76
+00:02:41,966 --> 00:02:44,526
+April has been named
+my power of attorney.
+
+77
+00:02:44,558 --> 00:02:46,765
+[CHUCKLES]
+
+78
+00:02:46,799 --> 00:02:48,397
+W-Was I supposed to say no?
+
+79
+00:02:48,430 --> 00:02:50,844
+She likes me. She will be there for you.
+
+80
+00:02:50,879 --> 00:02:54,014
+But we're not so close that she'll let
+emotion dictate her decision.
+
+81
+00:02:57,209 --> 00:03:00,152
+I don't know what's me and
+what's tumor talking, but, um...
+
+82
+00:03:01,008 --> 00:03:03,567
+[SHAKILY] In this moment,
+I love you people tremendously.
+
+83
+00:03:03,600 --> 00:03:11,343
+♪  ♪
+
+84
+00:03:11,376 --> 00:03:19,087
+♪  ♪
+
+85
+00:03:19,120 --> 00:03:26,863
+♪  ♪
+
+86
+00:03:26,896 --> 00:03:29,231
+KORACICK: [SOFTLY] I <i>love</i> this.
+
+87
+00:03:29,264 --> 00:03:32,367
+[NORMAL VOICE] Are there
+really studies on this?
+
+88
+00:03:32,400 --> 00:03:33,423
+Yep.
+
+89
+00:03:33,456 --> 00:03:34,511
+Yeah.
+
+90
+00:03:34,544 --> 00:03:37,775
+♪  ♪
+
+91
+00:03:37,808 --> 00:03:42,039
+When you're going into surgery,
+<i>you worry you won't wake up.</i>
+
+92
+00:03:44,521 --> 00:03:48,329
+<i>But with brain surgery,</i>
+<i>you worry you</i> will <i>wake up...</i>
+
+93
+00:03:48,361 --> 00:03:57,032
+♪  ♪
+
+94
+00:03:57,065 --> 00:03:58,920
+<i>...but you won't be there when you do.</i>
+
+95
+00:03:58,953 --> 00:04:05,562
+Synced & corrected by -robtor-
+www.addic7ed.com
+
+96
+00:04:05,641 --> 00:04:06,959
+- [ELEVATOR BELL DINGS]
+- [SIGHS]
+
+97
+00:04:06,986 --> 00:04:09,385
+The first intern interview
+is already here?
+
+98
+00:04:09,418 --> 00:04:11,337
+Yes. 45 minutes early.
+
+99
+00:04:11,370 --> 00:04:12,873
+We know they all have the grades.
+
+100
+00:04:12,906 --> 00:04:14,665
+We just need to see if they're...
+
+101
+00:04:14,698 --> 00:04:16,567
+- Functional human beings.
+- [LAUGHS]
+
+102
+00:04:16,631 --> 00:04:18,014
+You've worked very hard
+for this. You deserve this.
+
+103
+00:04:18,048 --> 00:04:19,615
+And even though
+you overdosed your Aunt Joan
+
+104
+00:04:19,648 --> 00:04:20,682
+on her blood-pressure medication,
+
+105
+00:04:20,715 --> 00:04:22,326
+you are awesome because y-you can recite
+
+106
+00:04:22,359 --> 00:04:23,599
+every artery in the body alphabetically.
+
+107
+00:04:23,599 --> 00:04:24,942
+[INHALES SHARPLY] Abdominal aorta,
+
+108
+00:04:24,974 --> 00:04:26,350
+alveolar anterior,
+
+109
+00:04:26,382 --> 00:04:28,205
+alveolar inferior, alveolar superior...
+
+110
+00:04:28,239 --> 00:04:30,221
+I think we're finished here.
+
+111
+00:04:30,255 --> 00:04:31,918
+- [CHUCKLING] Next.
+- ...anterior cecal.
+
+112
+00:04:33,514 --> 00:04:35,347
+MEGAN: If you say a number I don't like,
+
+113
+00:04:35,380 --> 00:04:36,894
+I'm going to hit you with this magazine.
+
+114
+00:04:36,927 --> 00:04:38,313
+- Still over 100.
+- Barely a fever.
+
+115
+00:04:38,313 --> 00:04:39,912
+- A fever's a fever.
+- It's minor.
+
+116
+00:04:39,945 --> 00:04:42,792
+It's not like I'm having...
+brain surgery or something.
+
+117
+00:04:42,825 --> 00:04:44,872
+[SCOFFS]
+
+118
+00:04:44,905 --> 00:04:47,208
+She avoided you during my surgery.
+You're avoiding her now.
+
+119
+00:04:47,241 --> 00:04:49,000
+I suddenly understand
+your marriage completely.
+
+120
+00:04:49,033 --> 00:04:50,440
+Amelia has a lot of support.
+
+121
+00:04:50,474 --> 00:04:52,200
+And with Riggs pulling
+what he's pulled on you...
+
+122
+00:04:52,233 --> 00:04:53,448
+I turned down his proposal.
+
+123
+00:04:53,481 --> 00:04:55,112
+I told him I didn't want him.
+
+124
+00:04:55,145 --> 00:04:57,032
+He had every right and every reason
+
+125
+00:04:57,065 --> 00:04:59,032
+to pack his bags and walk away.
+
+126
+00:05:00,201 --> 00:05:03,048
+I mean, a goodbye
+might've been nice, but...
+
+127
+00:05:03,081 --> 00:05:04,072
+Hmm.
+
+128
+00:05:04,621 --> 00:05:06,472
+APRIL: Please don't make me
+have to unplug her.
+
+129
+00:05:06,505 --> 00:05:08,264
+Please don't make me have to unplug her.
+
+130
+00:05:08,297 --> 00:05:10,664
+[INHALES SHARPLY]
+Lord, please make her be okay.
+
+131
+00:05:10,697 --> 00:05:13,640
+- [<i>"FUN, FUN, FUN" PLAYS</i>]
+- Please let her be okay.
+
+132
+00:05:13,673 --> 00:05:16,360
+Please don't make me have to unplug her.
+
+133
+00:05:16,393 --> 00:05:18,472
+KORACICK: ♪ And she'll
+have fun, fun, fun ♪
+
+134
+00:05:18,505 --> 00:05:19,784
+♪ Till her daddy takes the T-bird away ♪
+
+135
+00:05:19,817 --> 00:05:22,088
+♪ <i>Fun, fun, fun till her daddy</i>
+<i>takes the T-bird away</i> ♪
+
+136
+00:05:22,121 --> 00:05:23,190
+Any issues with the edema?
+
+137
+00:05:23,224 --> 00:05:24,297
+♪ Well, the girls can't stand her ♪
+
+138
+00:05:24,331 --> 00:05:27,639
+♪ 'Cause she walks, talks,
+and drives like an ace now ♪
+
+139
+00:05:27,693 --> 00:05:29,804
+Also wondering if you're
+all the way around the dura.
+
+140
+00:05:29,837 --> 00:05:31,500
+♪ She makes the Indy 500 ♪
+
+141
+00:05:31,533 --> 00:05:34,091
+♪ Look like a Roman chariot race, now ♪
+
+142
+00:05:34,125 --> 00:05:35,659
+Also, why did you choose
+this particular music?
+
+143
+00:05:35,693 --> 00:05:37,260
+DeLuca, sing along or shut up.
+
+144
+00:05:37,293 --> 00:05:38,860
+♪ <i>But she leads them</i>
+<i>on a wild-goose chase now</i> ♪
+
+145
+00:05:38,892 --> 00:05:41,419
+♪ Goose chase now,
+you drive like an ace ♪
+
+146
+00:05:41,453 --> 00:05:43,212
+♪ And she'll have fun, fun, fun ♪
+
+147
+00:05:43,244 --> 00:05:45,259
+♪ Till her daddy takes the T-bird away ♪
+
+148
+00:05:45,293 --> 00:05:47,179
+♪ <i>Fun, fun, fun</i>
+<i>till her daddy takes...</i> ♪
+
+149
+00:05:47,213 --> 00:05:48,876
+I still can't believe...
+
+150
+00:05:48,909 --> 00:05:50,700
+That masturbation
+diagnosed a brain tumor?
+
+151
+00:05:50,733 --> 00:05:53,516
+Yeah. God works in such mysterious ways.
+
+152
+00:05:53,548 --> 00:05:54,668
+[CHUCKLES]
+
+153
+00:05:54,700 --> 00:05:57,676
+The Beach Boys seems like an
+odd choice. Like, inappropriate.
+
+154
+00:05:57,709 --> 00:06:00,204
+No, Riggs leaving Megan...
+<i>that's</i> inappropriate.
+
+155
+00:06:00,237 --> 00:06:02,252
+I never liked Riggs in the first place.
+
+156
+00:06:02,284 --> 00:06:03,916
+And I'm an excellent judge of character.
+
+157
+00:06:03,948 --> 00:06:05,419
+Right, because you have zero history
+
+158
+00:06:05,453 --> 00:06:06,956
+with crazy girlfriends.
+
+159
+00:06:06,988 --> 00:06:08,940
+My judgment has improved with age.
+
+160
+00:06:08,973 --> 00:06:10,636
+♪ Well, you knew
+all along that your dad ♪
+
+161
+00:06:10,668 --> 00:06:12,812
+♪ Was gettin' wise to you now ♪
+
+162
+00:06:12,844 --> 00:06:14,059
+♪ <i>You shouldn't have lied</i> ♪
+
+163
+00:06:14,093 --> 00:06:16,876
+♪ And since he took your set
+of keys, you were thinking... ♪
+
+164
+00:06:16,909 --> 00:06:18,284
+♪ <i>That your fun is all through now</i> ♪
+
+165
+00:06:18,317 --> 00:06:19,852
+- Why did he stop singing?
+- He stopped singing.
+
+166
+00:06:19,885 --> 00:06:21,772
+♪ <i>But you can come along with me...</i> ♪
+
+167
+00:06:21,805 --> 00:06:23,563
+This is the crucial part.
+He has to cut the last vessel.
+
+168
+00:06:23,597 --> 00:06:25,196
+And sometimes it's a feeder to the...
+
+169
+00:06:25,228 --> 00:06:26,252
+[SNIP]
+
+170
+00:06:26,284 --> 00:06:27,884
+- ♪ <i>And we'll have fun, fun, fun</i> ♪
+- [GASPS]
+
+171
+00:06:27,917 --> 00:06:29,323
+- What was that?
+- What happened?
+
+172
+00:06:29,357 --> 00:06:30,348
+That was the vessel en passant.
+
+173
+00:06:30,380 --> 00:06:32,172
+It looked like it was
+going into the meningioma,
+
+174
+00:06:32,204 --> 00:06:34,219
+but in fact it was going
+straight through to the brain.
+
+175
+00:06:34,253 --> 00:06:36,651
+He didn't have a choice. It's okay.
+
+176
+00:06:36,685 --> 00:06:37,611
+- Is it?
+- It is?
+
+177
+00:06:37,645 --> 00:06:39,916
+It's probably fine.
+It could be really bad.
+
+178
+00:06:39,949 --> 00:06:41,995
+- I'm sure it's fine.
+- Hmm.
+
+179
+00:06:42,029 --> 00:06:44,716
+♪ <i>Fun, fun now that Daddy</i>
+<i>took the T-bird away</i> ♪
+
+180
+00:06:44,749 --> 00:06:46,284
+♪ <i>Whoo, whoo-ooh-ooh-ooh</i> ♪
+
+181
+00:06:46,317 --> 00:06:48,302
+♪ <i>Fun, fun now that Daddy</i>
+<i>took the T-bird away</i> ♪
+
+182
+00:06:48,327 --> 00:06:50,117
+MEREDITH: I'm saying
+you clipped the vessel.
+
+183
+00:06:50,151 --> 00:06:52,070
+KORACICK: The tissue went a little dusky.
+It doesn't mean that that...
+
+184
+00:06:52,102 --> 00:06:53,377
+OWEN: She's 11 hours post-op.
+
+185
+00:06:53,410 --> 00:06:54,569
+MAGGIE: Shouldn't she be awake by now?
+
+186
+00:06:54,601 --> 00:06:56,102
+I'm not concerned yet.
+With that amount of bleeding,
+
+187
+00:06:56,134 --> 00:06:58,022
+- recovery time can be...
+- She's awake.
+
+188
+00:06:58,054 --> 00:07:00,870
+Thank, God. Thank you, God!
+[INHALES SHARPLY]
+
+189
+00:07:01,463 --> 00:07:03,638
+MEREDITH: Amelia, how do you feel?
+
+190
+00:07:03,671 --> 00:07:06,198
+AMELIA: <i>I'm okay. How'd it go?</i>
+
+191
+00:07:06,231 --> 00:07:08,184
+- Amelia, can you hear me?
+- [FINGERS SNAPPING]
+
+192
+00:07:08,217 --> 00:07:09,975
+<i>Yes. I'm right here.</i>
+
+193
+00:07:10,007 --> 00:07:11,958
+OWEN: Is she awake?
+
+194
+00:07:11,991 --> 00:07:14,134
+MAGGIE: Or did she just
+open her eyes? Amelia?
+
+195
+00:07:14,167 --> 00:07:15,638
+<i>They can't hear me.</i>
+
+196
+00:07:15,671 --> 00:07:17,351
+- I don't think she's...
+- Oh, my God!
+
+197
+00:07:17,384 --> 00:07:20,210
+L-Listen. Everybody's
+recovery time is different.
+
+198
+00:07:20,242 --> 00:07:22,611
+Let's not... panic.
+
+199
+00:07:22,636 --> 00:07:25,292
+<i>Oh, crap. Am I gorked?</i>
+
+200
+00:07:26,796 --> 00:07:28,299
+It's okay. She's okay.
+
+201
+00:07:29,018 --> 00:07:31,159
+<i>Oh, crap!</i>
+
+202
+00:07:36,986 --> 00:07:39,225
+[AIR HISSING, MONITORS BEEPING]
+
+203
+00:07:42,966 --> 00:07:44,277
+- Hey.
+- Hmm!
+
+204
+00:07:44,310 --> 00:07:45,365
+- Sorry.
+- Hey.
+
+205
+00:07:45,398 --> 00:07:46,272
+There's no change.
+
+206
+00:07:46,305 --> 00:07:48,245
+But, uh, it's 5:30 in case you want
+
+207
+00:07:48,278 --> 00:07:50,037
+- to get a shower or something.
+- Okay. Thanks.
+
+208
+00:07:52,022 --> 00:07:54,293
+Ooh. Okay.
+
+209
+00:07:54,326 --> 00:07:57,028
+I'm gonna go take a shower, okay?
+
+210
+00:07:57,061 --> 00:07:58,357
+I'll be back soon.
+
+211
+00:07:58,754 --> 00:08:01,313
+<i>Okay. It's sweet you slept here.</i>
+
+212
+00:08:01,347 --> 00:08:02,593
+What?
+
+213
+00:08:02,627 --> 00:08:04,920
+I think she just squeezed my hand.
+
+214
+00:08:05,074 --> 00:08:07,057
+Amelia, did you just squeeze my hand?
+
+215
+00:08:07,089 --> 00:08:09,360
+<i>Ow. Stop talking.</i>
+
+216
+00:08:09,394 --> 00:08:11,249
+<i>My head hurts, Meredith.</i>
+
+217
+00:08:11,281 --> 00:08:12,753
+<i>I'm trying to sleep.</i>
+
+218
+00:08:12,786 --> 00:08:14,129
+- Maybe not.
+- [COUGHS]
+
+219
+00:08:14,161 --> 00:08:16,209
+Oh, my God.
+She's breathing over the tube.
+
+220
+00:08:16,242 --> 00:08:18,481
+- Let's get her extubated.
+- Okay. This is good!
+
+221
+00:08:18,513 --> 00:08:19,537
+This is good.
+
+222
+00:08:19,569 --> 00:08:23,361
+<i>Ow. God. So much talking.</i>
+
+223
+00:08:24,763 --> 00:08:27,322
+I know that I'm younger
+than most of your applicants,
+
+224
+00:08:27,355 --> 00:08:29,434
+so to answer some questions
+you may have,
+
+225
+00:08:29,467 --> 00:08:32,314
+I went to high school at 12,
+I went to college at 14,
+
+226
+00:08:32,347 --> 00:08:34,170
+I went to medical school at 16,
+
+227
+00:08:34,202 --> 00:08:36,122
+and I lost my virginity at 18.
+
+228
+00:08:37,627 --> 00:08:39,907
+You may not have asked that last one.
+
+229
+00:08:42,333 --> 00:08:44,588
+Have to keep this on
+in case Mass Gen calls.
+
+230
+00:08:44,621 --> 00:08:45,628
+They're my number one.
+
+231
+00:08:45,661 --> 00:08:47,556
+But you guys are a solid number two.
+
+232
+00:08:47,590 --> 00:08:49,118
+[CELLPHONE CHIMES]
+
+233
+00:08:50,365 --> 00:08:51,580
+You know what, though?
+
+234
+00:08:51,613 --> 00:08:54,492
+I think after being here, I'm impressed.
+
+235
+00:08:54,525 --> 00:08:56,348
+Grey-Sloan is moving up.
+
+236
+00:08:56,381 --> 00:08:59,580
+Level one trauma. The weather's <i>amazing.</i>
+
+237
+00:09:01,341 --> 00:09:02,829
+[INDISTINCT CHATTER]
+
+238
+00:09:02,863 --> 00:09:06,012
+[TELEPHONE RINGS]
+
+239
+00:09:06,045 --> 00:09:08,214
+RICHARD: Ahh. How was the flight?
+
+240
+00:09:08,241 --> 00:09:09,072
+Fine.
+
+241
+00:09:09,105 --> 00:09:10,928
+- Ah. And the service?
+- It was tasteful.
+
+242
+00:09:10,961 --> 00:09:13,360
+It was a bunch of kiss-asses
+sniffing around for money,
+
+243
+00:09:13,393 --> 00:09:14,416
+telling stories about how Harper Avery
+
+244
+00:09:14,449 --> 00:09:17,243
+was nice and decent
+and [SCOFFS] respected women.
+
+245
+00:09:17,276 --> 00:09:19,158
+All right, so,
+we'll have a family supper
+
+246
+00:09:19,183 --> 00:09:21,646
+and do our own thing and talk
+about the real Harper Avery.
+
+247
+00:09:21,679 --> 00:09:24,270
+Right now I need to change.
+Want to help me?
+
+248
+00:09:25,423 --> 00:09:26,702
+KORACICK: Catherine Avery?
+
+249
+00:09:27,759 --> 00:09:30,350
+- Thomas Koracick?!
+- [BOTH LAUGH]
+
+250
+00:09:30,383 --> 00:09:33,344
+Ohh! How is it that
+I'm aging and you aren't?
+
+251
+00:09:33,369 --> 00:09:35,192
+- Oh, shut up.
+- [CLEARS THROAT]
+
+252
+00:09:35,225 --> 00:09:37,464
+Uh, you've met my husband,
+Richard Webber.
+
+253
+00:09:37,497 --> 00:09:39,672
+- Oh!
+- And this my son, Jackson.
+
+254
+00:09:39,706 --> 00:09:41,784
+- Oh! H-How old is he?
+- Hey.
+
+255
+00:09:41,818 --> 00:09:43,512
+- Why?
+- I want to make sure he's not mine.
+
+256
+00:09:43,546 --> 00:09:45,892
+- You are just awful.
+- [CHUCKLES]
+
+257
+00:09:45,925 --> 00:09:47,606
+Uh, how's, uh, Shepherd?
+
+258
+00:09:47,638 --> 00:09:51,175
+She's, uh, responsive, not yet verbal.
+
+259
+00:09:51,222 --> 00:09:52,302
+It's early.
+
+260
+00:09:52,335 --> 00:09:53,580
+We should catch up.
+
+261
+00:09:53,614 --> 00:09:55,078
+[CHUCKLES]
+
+262
+00:09:56,630 --> 00:09:58,389
+Anything you want to tell me?
+
+263
+00:09:59,542 --> 00:10:01,685
+I prefer to let you wonder,
+
+264
+00:10:01,719 --> 00:10:03,286
+keep the mystery alive.
+
+265
+00:10:03,318 --> 00:10:04,430
+RICHARD: Mm-hmm.
+
+266
+00:10:04,464 --> 00:10:06,197
+Mmm. [LAUGHS]
+
+267
+00:10:06,230 --> 00:10:09,525
+Ooh! Look at Dr. Fancypants!
+
+268
+00:10:09,558 --> 00:10:12,411
+Trying to lure
+in that big facelift money?
+
+269
+00:10:13,196 --> 00:10:15,275
+I was at a funeral.
+
+270
+00:10:15,444 --> 00:10:17,225
+I am a terrible person.
+
+271
+00:10:17,843 --> 00:10:19,602
+You look very somber.
+
+272
+00:10:24,165 --> 00:10:25,443
+How much money did he leave you?
+
+273
+00:10:25,477 --> 00:10:27,746
+That's not an appropriate question.
+
+274
+00:10:27,794 --> 00:10:28,945
+Well, I just want to know exactly.
+
+275
+00:10:28,977 --> 00:10:31,473
+I mean, do they just back up
+a truckload of silver spoons?
+
+276
+00:10:31,506 --> 00:10:32,695
+[CHUCKLES]
+
+277
+00:10:32,727 --> 00:10:34,430
+It's a fleet of limos, not a truck.
+
+278
+00:10:34,463 --> 00:10:37,176
+Um, you, uh, paged me? What's up?
+
+279
+00:10:37,210 --> 00:10:39,280
+[SIGHS] Bad timing. Never mind.
+
+280
+00:10:39,314 --> 00:10:41,233
+What do you mean? Bad timing for what?
+
+281
+00:10:42,578 --> 00:10:43,920
+What?
+
+282
+00:10:43,954 --> 00:10:46,000
+I'm publishing Megan Hunt's surgery,
+
+283
+00:10:46,034 --> 00:10:48,657
+and it might get consideration
+for a Harper Avery.
+
+284
+00:10:50,002 --> 00:10:53,137
+So you want to take my name off it.
+
+285
+00:10:53,169 --> 00:10:55,922
+No, I understand...
+You can't win a Harper Avery
+
+286
+00:10:55,947 --> 00:10:58,058
+if the article says "Jackson Avery."
+
+287
+00:10:58,091 --> 00:11:01,290
+I mean, I know the timing
+of the ask is unfortunate,
+
+288
+00:11:01,323 --> 00:11:02,794
+but the deadline is in a few days.
+
+289
+00:11:02,827 --> 00:11:05,610
+And... I really am sorry for your loss.
+
+290
+00:11:07,275 --> 00:11:09,162
+- Take my name off, then.
+- Yeah?
+
+291
+00:11:09,195 --> 00:11:10,890
+Go for it. Yeah, just be grateful
+
+292
+00:11:10,923 --> 00:11:13,350
+that your mother didn't
+start up a foundation.
+
+293
+00:11:14,357 --> 00:11:16,107
+Yeah, that Alzheimer's
+really put a wrench
+
+294
+00:11:16,140 --> 00:11:18,613
+in her charitable giving,
+but I owe you one.
+
+295
+00:11:18,646 --> 00:11:20,404
+- Thanks.
+- Yes, you do.
+
+296
+00:11:21,637 --> 00:11:22,724
+Here we go.
+- [GROANS]
+
+297
+00:11:22,757 --> 00:11:23,845
+Just a little bit more.
+
+298
+00:11:23,877 --> 00:11:25,828
+[YELLS]
+
+299
+00:11:25,861 --> 00:11:27,524
+<i>Please stop.</i>
+
+300
+00:11:27,557 --> 00:11:29,253
+[SOBS] <i>No! It hurts!</i>
+
+301
+00:11:29,285 --> 00:11:30,632
+[YELLS]
+
+302
+00:11:31,109 --> 00:11:33,093
+DeLuca, what the hell are you doing?!
+
+303
+00:11:33,125 --> 00:11:35,332
+It's early ambulation. Dr. Shepherd
+does it with all her patients.
+
+304
+00:11:35,365 --> 00:11:37,565
+This patient is post-op day one.
+
+305
+00:11:37,599 --> 00:11:39,525
+- Put her back in that bed.
+- She told me to do this.
+
+306
+00:11:39,559 --> 00:11:41,040
+<i>I change my mind. I change my mind.</i>
+
+307
+00:11:41,073 --> 00:11:43,908
+No. The giant tumor that was
+pressing on her frontal lobe
+
+308
+00:11:43,941 --> 00:11:45,745
+told you to do it.
+It also made me promise
+
+309
+00:11:45,778 --> 00:11:48,600
+not to give her any opioids,
+which is so incredibly stupid.
+
+310
+00:11:48,633 --> 00:11:50,999
+Put her back in this bed now!
+
+311
+00:11:50,999 --> 00:11:52,374
+<i>Agreed. DeLuca, I agree.</i>
+
+312
+00:11:52,407 --> 00:11:54,290
+- Sir, she made me promise.
+<i>- Damn it!</i>
+
+313
+00:11:54,323 --> 00:11:56,479
+[CHUCKLES] Hey. You sleeping with her?
+
+314
+00:11:56,513 --> 00:11:57,750
+- What?
+<i>- What?!</i>
+
+315
+00:11:57,783 --> 00:11:59,862
+You heard me. You getting some extra
+office hours in with Shepherd?
+
+316
+00:11:59,894 --> 00:12:01,782
+No! Okay? Just... I-It's her protocol.
+
+317
+00:12:01,814 --> 00:12:03,606
+And her patients have
+a high recovery rate...
+
+318
+00:12:03,639 --> 00:12:05,590
+higher than yours, which
+she wanted me to say to you,
+
+319
+00:12:05,623 --> 00:12:07,862
+because she knew you wouldn't like this.
+
+320
+00:12:07,895 --> 00:12:09,430
+[AMELIA GROANS]
+
+321
+00:12:09,463 --> 00:12:10,761
+<i>I am such an ass.</i>
+
+322
+00:12:10,795 --> 00:12:14,422
+If her intracranial pressure
+increases, it's on <i>you.</i>
+
+323
+00:12:17,647 --> 00:12:18,894
+Okay, Dr. Shepherd.
+
+324
+00:12:18,927 --> 00:12:20,974
+You got this, okay? Just to the chair.
+
+325
+00:12:21,006 --> 00:12:23,406
+<i>I mean, we could. It's
+probably effective, but I'm...</i>
+
+326
+00:12:23,438 --> 00:12:26,286
+[SCREAMS]
+
+327
+00:12:26,318 --> 00:12:28,974
+[EXHALES SHARPLY]
+I just want to see my kid.
+
+328
+00:12:29,007 --> 00:12:31,854
+I'll take oral antibiotics.
+It's just a low-grade fever.
+
+329
+00:12:33,967 --> 00:12:36,430
+No. Unfortunately, it's more than that.
+
+330
+00:12:36,463 --> 00:12:38,029
+Your white count is elevated.
+
+331
+00:12:38,063 --> 00:12:40,717
+- There's some erythema.
+- [SIGHS]
+
+332
+00:12:40,751 --> 00:12:42,989
+We're gonna need to do
+three days IV of cefazolin.
+
+333
+00:12:43,023 --> 00:12:44,430
+Three days?
+
+334
+00:12:44,463 --> 00:12:47,118
+- I'm sorry.
+- [GROANS]
+
+335
+00:12:47,151 --> 00:12:49,335
+[EXHALES DEEPLY]
+
+336
+00:12:50,442 --> 00:12:51,913
+Have you heard from Nathan?
+
+337
+00:12:51,947 --> 00:12:54,057
+- No. Have you?
+- No.
+
+338
+00:12:54,090 --> 00:12:55,977
+For what it's worth, I told him
+you were the real deal.
+
+339
+00:12:56,010 --> 00:12:57,737
+I sent him to you.
+
+340
+00:12:57,770 --> 00:13:01,347
+And I sent him to <i>you. Pretty firmly.</i>
+
+341
+00:13:04,683 --> 00:13:06,889
+[LAUGHS]
+
+342
+00:13:06,922 --> 00:13:08,713
+I think we broke his brain.
+
+343
+00:13:08,746 --> 00:13:10,473
+[BOTH LAUGH]
+
+344
+00:13:10,506 --> 00:13:12,681
+[WOMAN ON P.A. SPEAKING INDISTINCTLY]
+
+345
+00:13:12,715 --> 00:13:15,697
+Hey, Wilson, Megan's got cellulitis,
+
+346
+00:13:15,730 --> 00:13:17,889
+so let's start her on one gram "Q,"
+
+347
+00:13:17,916 --> 00:13:19,898
+8 of cefazolin, and
+increase her fluids please.
+
+348
+00:13:19,932 --> 00:13:21,978
+W-W-Wait. This won't affect
+your article, will it?
+
+349
+00:13:23,612 --> 00:13:27,999
+No. I-I'm only asking because
+I'm worried about you...
+
+350
+00:13:28,732 --> 00:13:31,803
+and her and... medicine.
+
+351
+00:13:31,836 --> 00:13:33,850
+Yes, Wilson... I'm putting
+your name on the article.
+
+352
+00:13:33,884 --> 00:13:35,899
+[LAUGHING] Really? Oh, my God.
+Okay, thank you.
+
+353
+00:13:35,932 --> 00:13:37,915
+Thank you. [CLEARS THROAT]
+
+354
+00:13:37,947 --> 00:13:41,193
+Oh, and the journal is
+asking for photos of us
+
+355
+00:13:41,220 --> 00:13:42,179
+to put with the article,
+
+356
+00:13:42,213 --> 00:13:44,388
+so if you have one you like,
+just send it to me.
+
+357
+00:13:44,420 --> 00:13:45,391
+Okay.
+
+358
+00:13:45,419 --> 00:13:51,460
+♪  ♪
+
+359
+00:13:51,492 --> 00:13:54,884
+<i>In, out, out, out... Ow, ow.</i>
+
+360
+00:13:54,916 --> 00:13:58,884
+Amelia, the body can't heal as quickly
+
+361
+00:13:58,916 --> 00:14:01,123
+if it's experiencing so much pain.
+
+362
+00:14:01,157 --> 00:14:02,851
+[BREATHES HEAVILY, MOANS]
+
+363
+00:14:02,884 --> 00:14:05,667
+AA has no opinion on drugs
+for pain relief
+
+364
+00:14:05,701 --> 00:14:08,003
+as long as you follow
+the doctor's orders.
+
+365
+00:14:08,037 --> 00:14:10,179
+<i>Opioids are my drug of choice.</i>
+
+366
+00:14:10,212 --> 00:14:12,904
+What if they told you you could
+<i>have "just a drink or two"</i>
+
+367
+00:14:12,929 --> 00:14:14,592
+<i>if the doctor says it's okay?</i>
+
+368
+00:14:14,625 --> 00:14:16,672
+You're sure you don't
+want to reconsider?
+
+369
+00:14:18,049 --> 00:14:19,392
+<i>Please stop.</i>
+
+370
+00:14:19,425 --> 00:14:21,010
+I didn't think so.
+
+371
+00:14:21,697 --> 00:14:23,072
+But I had to ask.
+
+372
+00:14:25,949 --> 00:14:26,913
+[MONITOR BEEPING]
+
+373
+00:14:26,938 --> 00:14:28,568
+[SOBS]
+
+374
+00:14:34,794 --> 00:14:36,809
+I used to scream at her to shut up
+
+375
+00:14:36,843 --> 00:14:38,250
+all the time in my head.
+
+376
+00:14:38,282 --> 00:14:39,785
+No, no. I heard you a couple times.
+
+377
+00:14:39,819 --> 00:14:41,770
+I mean, now I wish
+she would just say <i>anything.</i>
+
+378
+00:14:41,802 --> 00:14:43,433
+How is she? Is she talking?
+
+379
+00:14:43,467 --> 00:14:44,745
+- No.
+- Did you call her mom yet?
+
+380
+00:14:44,779 --> 00:14:47,946
+- Did you unplug her yet?
+- [LAUGHTER]
+
+381
+00:14:47,978 --> 00:14:50,378
+That's not funny. At all.
+
+382
+00:14:50,410 --> 00:14:52,394
+I mean, seriously, so,
+she left a thriving practice
+
+383
+00:14:52,426 --> 00:14:54,826
+and a fiancé in L.A. to come
+and live with her brother
+
+384
+00:14:54,858 --> 00:14:56,490
+- who she resented.
+- Yeah?
+
+385
+00:14:56,522 --> 00:14:57,514
+<i>That</i> was the tumor.
+
+386
+00:14:57,547 --> 00:14:58,762
+Wow. How did we miss this?
+
+387
+00:14:58,794 --> 00:15:00,746
+Man, I just wish I had a tumor
+to blame <i>my</i> stupid crap on.
+
+388
+00:15:00,779 --> 00:15:02,698
+- No. Guys!
+- [LAUGHTER]
+
+389
+00:15:02,730 --> 00:15:04,785
+- "DeLuca, I'm sorry I hit you. Tumor."
+- [LAUGHTER]
+
+390
+00:15:04,819 --> 00:15:06,538
+- This is not cool.
+- Riggs. Tumor.
+
+391
+00:15:06,570 --> 00:15:07,921
+- Minnick.
+- Oh, tumor.
+
+392
+00:15:07,954 --> 00:15:09,289
+No! Do not encourage them.
+
+393
+00:15:09,323 --> 00:15:11,434
+What? You have to laugh, April.
+
+394
+00:15:11,466 --> 00:15:13,418
+I mean, in situations like this,
+you have to laugh.
+
+395
+00:15:13,450 --> 00:15:15,178
+No. She trusted me with her life.
+
+396
+00:15:15,210 --> 00:15:17,514
+- ALL: Tumor!
+- [LAUGHING] Stop!
+
+397
+00:15:17,547 --> 00:15:19,434
+[CELLPHONE RINGS]
+
+398
+00:15:19,466 --> 00:15:20,809
+Speak of the devil.
+
+399
+00:15:20,843 --> 00:15:22,666
+- My tumor's calling.
+- Oh, are you gonna answer?
+
+400
+00:15:22,698 --> 00:15:24,969
+No. Once that's diagnosed,
+you cut it right out.
+
+401
+00:15:25,002 --> 00:15:26,729
+Hey, Riggs panicked. People panic.
+
+402
+00:15:26,763 --> 00:15:28,714
+- Oh, don't defend him.
+- [CELLPHONE CHIMES]
+
+403
+00:15:28,746 --> 00:15:30,313
+- It's DeLuca.
+- Amelia's talking!
+
+404
+00:15:30,347 --> 00:15:31,818
+- She's talking.
+- Really?!
+
+405
+00:15:34,602 --> 00:15:36,650
+- She's talking?
+- Sort of.
+
+406
+00:15:36,682 --> 00:15:38,186
+[AMELIA SPEAKING FRENCH]
+
+407
+00:15:38,219 --> 00:15:39,530
+It's weird, right?
+
+408
+00:15:39,562 --> 00:15:41,929
+[SPEAKS FRENCH]
+
+409
+00:15:41,963 --> 00:15:43,677
+- It's French.
+- She speaks French?
+
+410
+00:15:43,710 --> 00:15:45,435
+- [SPEAKS FRENCH]
+- I speak French. She speaks German.
+
+411
+00:15:45,468 --> 00:15:46,697
+- What is she saying?
+- [SPEAKS FRENCH]
+
+412
+00:15:46,730 --> 00:15:48,874
+Sorry. She said she needs
+a glass of water.
+
+413
+00:15:48,906 --> 00:15:49,642
+Oh.
+
+414
+00:15:49,674 --> 00:15:51,933
+You know, all the Shepherd children
+
+415
+00:15:51,958 --> 00:15:53,578
+went to French preschool.
+
+416
+00:15:53,611 --> 00:15:55,057
+And it's still in her brain somewhere?
+
+417
+00:15:55,090 --> 00:15:56,821
+<i>- Merci.
+- I've seen this before.</i>
+
+418
+00:15:56,854 --> 00:15:58,677
+It reverses on its own, but this is...
+
+419
+00:15:58,710 --> 00:16:00,085
+It's still good. It's progress.
+
+420
+00:16:00,118 --> 00:16:01,717
+Amelia.
+
+421
+00:16:01,749 --> 00:16:03,765
+[SPEAKS FRENCH]
+
+422
+00:16:03,798 --> 00:16:07,413
+[SPEAKING FRENCH]
+
+423
+00:16:07,446 --> 00:16:08,885
+What'd she say?
+
+424
+00:16:08,918 --> 00:16:11,221
+Uh, I asked her
+if she could speak in English,
+
+425
+00:16:11,254 --> 00:16:14,037
+and she said, "Didn't even know
+I could speak French."
+
+426
+00:16:14,070 --> 00:16:15,093
+[CHUCKLES SOFTLY]
+
+427
+00:16:16,542 --> 00:16:19,378
+Weaknesses? Uh, hmm.
+
+428
+00:16:19,989 --> 00:16:23,637
+I hate all my peers. All of them.
+
+429
+00:16:23,670 --> 00:16:25,685
+Yeah, med school is filled
+with legacy kids
+
+430
+00:16:25,718 --> 00:16:28,213
+who expect everything easy.
+
+431
+00:16:28,246 --> 00:16:30,325
+I had to work my ass off
+for everything that I have.
+
+432
+00:16:30,358 --> 00:16:32,213
+I saw what I wanted, I took dead aim,
+
+433
+00:16:32,246 --> 00:16:33,301
+and I earned it.
+
+434
+00:16:33,334 --> 00:16:35,221
+But if that attitude is a problem,
+
+435
+00:16:35,254 --> 00:16:37,365
+you definitely shouldn't hire me.
+
+436
+00:16:39,158 --> 00:16:41,237
+You'll get a major signal boost from me.
+
+437
+00:16:41,270 --> 00:16:42,581
+When I started med school,
+
+438
+00:16:42,614 --> 00:16:44,725
+I had 47 followers on Instagram.
+
+439
+00:16:44,758 --> 00:16:47,413
+That number's over 10,000 now.
+
+440
+00:16:47,446 --> 00:16:49,365
+People are really invested
+in my journey.
+
+441
+00:16:49,397 --> 00:16:52,533
+And when I'm here,
+that'll become <i>our</i> journey.
+
+442
+00:16:52,566 --> 00:16:55,061
+Oh! Which reminds me...
+Can we get a Snap?
+
+443
+00:16:55,094 --> 00:16:56,533
+[PHONE UNLOCKS]
+
+444
+00:16:56,566 --> 00:16:58,586
+- One...
+- [CAMERA SHUTTER CLICKS]
+
+445
+00:16:58,620 --> 00:17:00,406
+[INDISTINCT CONVERSATIONS]
+
+446
+00:17:00,438 --> 00:17:03,157
+WOMAN ON P.A.:
+<i>Dr. Steve Irvan to the O.R.</i>
+
+447
+00:17:03,189 --> 00:17:05,781
+<i>Dr. Steve Irvan to the O.R.</i>
+
+448
+00:17:05,814 --> 00:17:08,688
+[INDISTINCT CONVERSATIONS]
+
+449
+00:17:08,722 --> 00:17:10,015
+[TELEPHONE RINGS]
+
+450
+00:17:10,049 --> 00:17:11,701
+[SNORING]
+
+451
+00:17:13,814 --> 00:17:15,605
+[CHUCKLES]
+
+452
+00:17:18,471 --> 00:17:20,166
+You're overreacting.
+
+453
+00:17:20,199 --> 00:17:21,735
+I-I have to get this out!
+
+454
+00:17:21,767 --> 00:17:23,686
+No! Megan, you're in the middle
+of an antibiotic treatment.
+
+455
+00:17:23,719 --> 00:17:24,838
+You can't just... Megan, stop!
+
+456
+00:17:24,871 --> 00:17:26,150
+- [RAPID BEEPING]
+- What's happening?
+
+457
+00:17:26,183 --> 00:17:27,814
+Farouk's at the hospital in Baghdad,
+
+458
+00:17:27,847 --> 00:17:29,030
+and I can't get him on the phone,
+
+459
+00:17:29,063 --> 00:17:30,534
+and my C.O. can't tell me
+what's going on.
+
+460
+00:17:30,567 --> 00:17:32,166
+- They said he was anemic.
+- He's not anemic.
+
+461
+00:17:32,199 --> 00:17:34,406
+He eats dates every day,
+which is plenty of iron.
+
+462
+00:17:34,439 --> 00:17:35,718
+Look. I have to go.
+
+463
+00:17:35,751 --> 00:17:37,190
+You can just write me
+a prescription for the rest,
+
+464
+00:17:37,223 --> 00:17:38,438
+and I'll fill it on the way
+to the airport.
+
+465
+00:17:38,471 --> 00:17:40,011
+Megan, you're bleeding.
+Give me your arm.
+
+466
+00:17:40,044 --> 00:17:42,313
+And you have an infection,
+and you know what that means.
+
+467
+00:17:42,360 --> 00:17:43,350
+I'll sign an A.M.A. form, okay?!
+
+468
+00:17:43,384 --> 00:17:45,303
+When I was adopting my daughter,
+there was a moment
+
+469
+00:17:45,336 --> 00:17:47,869
+where I thought they were gonna
+take her from me, so I stole her.
+
+470
+00:17:47,902 --> 00:17:49,366
+I kidnapped my own daughter
+
+471
+00:17:49,400 --> 00:17:52,151
+because I felt exactly
+the way you feel right now.
+
+472
+00:17:52,184 --> 00:17:53,814
+All I did was make everything worse.
+
+473
+00:17:53,848 --> 00:17:55,926
+I made it worse for her,
+and I made it worse for me.
+
+474
+00:17:55,960 --> 00:17:59,095
+So let's just take a moment, okay?
+
+475
+00:17:59,128 --> 00:18:00,790
+[BREATHING SHARPLY]
+
+476
+00:18:00,824 --> 00:18:02,743
+You can't help him if you're dead.
+
+477
+00:18:02,776 --> 00:18:07,543
+♪  ♪
+
+478
+00:18:07,576 --> 00:18:10,582
+[SIREN WAILING]
+
+479
+00:18:10,616 --> 00:18:11,908
+Hey.
+
+480
+00:18:12,663 --> 00:18:14,647
+You okay?
+
+481
+00:18:15,236 --> 00:18:16,547
+[SIGHS]
+
+482
+00:18:16,581 --> 00:18:18,660
+I don't have Harriet tonight.
+
+483
+00:18:18,693 --> 00:18:21,540
+I have trouble going home
+when I don't have Harriet.
+
+484
+00:18:21,573 --> 00:18:23,619
+[EXHALES DEEPLY]
+
+485
+00:18:23,653 --> 00:18:25,443
+I remember that.
+
+486
+00:18:25,477 --> 00:18:28,004
+[CHAIR WHEELS ROLL]
+
+487
+00:18:28,037 --> 00:18:31,268
+It's really hard. At first.
+
+488
+00:18:31,300 --> 00:18:32,419
+At first?
+
+489
+00:18:32,453 --> 00:18:34,639
+Yeah. Eventually...
+
+490
+00:18:35,140 --> 00:18:36,963
+you have a new normal.
+
+491
+00:18:36,997 --> 00:18:38,395
+You know, eventually, you...
+
+492
+00:18:38,429 --> 00:18:40,228
+You miss her on the nights
+that you don't have her,
+
+493
+00:18:40,261 --> 00:18:42,884
+but you know that she's
+somewhere safe and loved,
+
+494
+00:18:42,916 --> 00:18:45,540
+and the ache is just less.
+
+495
+00:18:45,573 --> 00:18:48,175
+And then maybe some new grown-up fun
+
+496
+00:18:48,208 --> 00:18:50,020
+- comes into your life.
+- [SCOFFS]
+
+497
+00:18:50,052 --> 00:18:52,365
+And maybe there's some joy in that.
+
+498
+00:18:53,061 --> 00:18:55,576
+I don't want a new normal.
+
+499
+00:18:56,293 --> 00:18:59,972
+♪  ♪
+
+500
+00:19:00,004 --> 00:19:01,188
+[SIGHS]
+
+501
+00:19:01,220 --> 00:19:07,331
+♪  ♪
+
+502
+00:19:07,365 --> 00:19:10,614
+Don't you have hot Italian sex
+waiting for you?
+
+503
+00:19:10,639 --> 00:19:12,879
+[EXHALES DEEPLY] I do.
+
+504
+00:19:12,904 --> 00:19:14,950
+- [LAUGHS] You do.
+- Mm-hmm.
+
+505
+00:19:14,984 --> 00:19:16,999
+[CHUCKLES]
+
+506
+00:19:19,176 --> 00:19:20,615
+Hey. How is she?
+
+507
+00:19:20,648 --> 00:19:21,895
+The same.
+
+508
+00:19:21,927 --> 00:19:23,655
+[EXHALES SHARPLY]
+Meredith, what do you think?
+
+509
+00:19:23,687 --> 00:19:25,508
+I mean, how bad is this long term?
+
+510
+00:19:25,582 --> 00:19:26,829
+Do you think we'll get her back?
+
+511
+00:19:26,862 --> 00:19:28,205
+[CELLPHONE VIBRATES]
+
+512
+00:19:28,238 --> 00:19:29,709
+I wish I knew.
+
+513
+00:19:29,742 --> 00:19:31,404
+AMELIA: [SLEEPILY]
+Would you keep it down?
+
+514
+00:19:31,438 --> 00:19:33,068
+- Sorry.
+- That was English!
+
+515
+00:19:33,102 --> 00:19:35,725
+- Wait.
+- She spoke English.
+
+516
+00:19:35,758 --> 00:19:37,549
+When was I not?
+
+517
+00:19:37,582 --> 00:19:39,537
+How are you? How do you feel?
+
+518
+00:19:39,982 --> 00:19:42,539
+I'm okay. I'm good.
+
+519
+00:19:42,573 --> 00:19:45,042
+Do you know what happened?
+Do you know where you are?
+
+520
+00:19:46,669 --> 00:19:50,539
+I had a surgery. I had a brain tumor.
+
+521
+00:19:50,648 --> 00:19:51,863
+- Call Koracick.
+- Mm-hmm.
+
+522
+00:19:51,896 --> 00:19:54,615
+Ugh. No. Koracick is such a blowhard.
+
+523
+00:19:54,647 --> 00:19:56,343
+- [CHUCKLES]
+- This is good!
+
+524
+00:19:56,375 --> 00:19:57,911
+You should call Derek.
+
+525
+00:20:02,368 --> 00:20:03,451
+What?
+
+526
+00:20:11,400 --> 00:20:13,639
+AMELIA: I mean, I know
+that Derek is dead.
+
+527
+00:20:13,672 --> 00:20:15,335
+I just forget he was dead.
+
+528
+00:20:15,369 --> 00:20:17,479
+But then the second that you
+tell me, it's all there.
+
+529
+00:20:17,512 --> 00:20:18,919
+It's like I have this jigsaw puzzle,
+
+530
+00:20:18,953 --> 00:20:21,095
+but I can't put the pieces in
+until you give them to me.
+
+531
+00:20:21,129 --> 00:20:22,674
+What if I can't be a surgeon anymore?
+
+532
+00:20:22,707 --> 00:20:24,527
+What if I get into surgery and
+I can't find my way back out?
+
+533
+00:20:24,560 --> 00:20:26,119
+She's panicking.
+
+534
+00:20:26,152 --> 00:20:29,127
+Amelia, work the problem.
+
+535
+00:20:29,161 --> 00:20:31,975
+What's the cause of your memory loss?
+
+536
+00:20:32,008 --> 00:20:34,983
+It's, uh, retrograde amnesia.
+
+537
+00:20:35,016 --> 00:20:36,263
+From?
+
+538
+00:20:36,296 --> 00:20:37,735
+<i>From damage to the temporal lobe.</i>
+
+539
+00:20:38,220 --> 00:20:40,135
+But you were in the frontal.
+
+540
+00:20:40,168 --> 00:20:42,183
+<i>There could be
+interruption of blood flow,</i>
+
+541
+00:20:42,216 --> 00:20:45,063
+<i>ischemia-reperfusion injury, edema.</i>
+
+542
+00:20:45,096 --> 00:20:46,375
+It's likely temporary.
+
+543
+00:20:46,408 --> 00:20:48,231
+<i>W... Say that again.</i>
+
+544
+00:20:52,296 --> 00:20:53,735
+<i>It might be temporary.</i>
+
+545
+00:20:54,111 --> 00:20:57,479
+<i>Yes. It will be. You know what this is.</i>
+
+546
+00:20:57,513 --> 00:20:58,887
+<i>You don't have to be afraid of it.</i>
+
+547
+00:20:58,921 --> 00:21:02,663
+<i>You will be a surgeon again.</i>
+
+548
+00:21:02,696 --> 00:21:04,423
+You're too good not to.
+
+549
+00:21:04,456 --> 00:21:05,640
+<i>So am I.</i>
+
+550
+00:21:06,123 --> 00:21:08,135
+Now, I need you to simmer down
+
+551
+00:21:08,169 --> 00:21:10,663
+so I can get these scans, okay?
+
+552
+00:21:12,552 --> 00:21:14,673
+<i>- Okay.
+- Thank you.</i>
+
+553
+00:21:15,112 --> 00:21:17,959
+She was hot for teacher back in
+the day. She tell you about me?
+
+554
+00:21:17,992 --> 00:21:20,167
+[CELLPHONE RINGING]
+
+555
+00:21:21,832 --> 00:21:23,399
+[CELLPHONE SLIDES]
+
+556
+00:21:23,432 --> 00:21:25,767
+- [CELLPHONE UNLOCKS]
+- Stop calling me.
+
+557
+00:21:25,800 --> 00:21:28,039
+If you couldn't think of
+anything to say before you left,
+
+558
+00:21:28,072 --> 00:21:30,600
+there certainly isn't
+anything to talk about now.
+
+559
+00:21:31,170 --> 00:21:32,160
+NATHAN: <i>Hello, Dr. Grey.</i>
+
+560
+00:21:32,194 --> 00:21:33,895
+<i>I'm so glad I was
+finally able to reach you.</i>
+
+561
+00:21:33,929 --> 00:21:35,648
+<i>Putting you on speakerphone, okay?</i>
+
+562
+00:21:36,241 --> 00:21:37,446
+Okay.
+
+563
+00:21:37,941 --> 00:21:39,777
+<i>I'm here at the embassy in Baghdad,</i>
+
+564
+00:21:39,810 --> 00:21:40,769
+<i>and the officials have some questions</i>
+
+565
+00:21:40,801 --> 00:21:43,272
+<i>they need answered
+by Farouk Shami's doctor</i>
+
+566
+00:21:43,305 --> 00:21:45,055
+<i>regarding his beta-thalassemia</i>
+
+567
+00:21:45,089 --> 00:21:46,724
+<i>and the clinical trial you're running.</i>
+
+568
+00:21:46,725 --> 00:21:49,731
+<i>So we can secure his
+medical travel visa, okay?</i>
+
+569
+00:21:49,765 --> 00:21:51,268
+Y-Yes, of course, Dr. Riggs.
+
+570
+00:21:51,300 --> 00:21:53,827
+I'm sorry I didn't call you back sooner.
+
+571
+00:21:53,861 --> 00:21:55,876
+DR. ALAZARI: <i>Hello, Dr. Grey.
+I'm Dr. Alazari,</i>
+
+572
+00:21:55,908 --> 00:21:58,883
+<i>- the U.S. Embassy Panel Physician.
+- Of course.</i>
+
+573
+00:21:58,917 --> 00:22:01,155
+In the sample you received,
+how was his MCV?
+
+574
+00:22:01,189 --> 00:22:02,596
+[MOUSE CLICKING]
+
+575
+00:22:02,628 --> 00:22:04,228
+Uh, low... 68.
+
+576
+00:22:04,261 --> 00:22:05,796
+<i>Ferritin level?</i>
+
+577
+00:22:05,829 --> 00:22:09,316
+Uh, 111, but the sample could've
+decayed during transport.
+
+578
+00:22:09,348 --> 00:22:11,588
+<i>Were there any Heinz bodies
+on the peripheral blood smear?</i>
+
+579
+00:22:11,620 --> 00:22:13,635
+Um, I'm sorry.
+I'm having trouble hearing you.
+
+580
+00:22:13,669 --> 00:22:16,644
+- Let me move to a better spot.
+- [KEYS CLACKING]
+
+581
+00:22:16,676 --> 00:22:19,118
+<i>Dr. Grey, I said, "Were there
+any Heinz bodies... "</i>
+
+582
+00:22:19,152 --> 00:22:21,501
+Yes. There were Heinz bodies
+on the blood smear.
+
+583
+00:22:21,548 --> 00:22:23,370
+<i>Thank you, Doctor. We will let you know</i>
+
+584
+00:22:23,404 --> 00:22:24,984
+<i>if we have any further questions.</i>
+
+585
+00:22:25,009 --> 00:22:27,728
+Okay. Great. Thanks.
+
+586
+00:22:27,883 --> 00:22:29,227
+Dr. Riggs?
+
+587
+00:22:29,260 --> 00:22:31,019
+[<i>STATIC</i>]
+
+588
+00:22:31,051 --> 00:22:32,170
+Hello?
+
+589
+00:22:32,204 --> 00:22:33,738
+NATHAN: <i>I'm alone now.</i>
+
+590
+00:22:33,772 --> 00:22:35,339
+Why didn't you tell me
+you were gonna do this?!
+
+591
+00:22:35,372 --> 00:22:36,618
+<i>Why didn't you pick up your phone?!</i>
+
+592
+00:22:36,652 --> 00:22:37,930
+<i>I've been calling you for days!</i>
+
+593
+00:22:37,964 --> 00:22:39,371
+Why didn't you call someone else?!
+
+594
+00:22:39,403 --> 00:22:41,258
+<i>Because they are
+rule followers, Meredith,</i>
+
+595
+00:22:41,292 --> 00:22:43,467
+and you're the one that told me
+<i>to make the grand gesture.</i>
+
+596
+00:22:43,499 --> 00:22:45,547
+I'm sorry. When you left, I just...
+
+597
+00:22:45,580 --> 00:22:47,819
+I didn't know. Do you think it worked?
+
+598
+00:22:47,852 --> 00:22:49,739
+<i>I don't know. Look.
+If we're back in Seattle</i>
+
+599
+00:22:49,772 --> 00:22:51,499
+<i>BY 3:00 tomorrow, then it worked.</i>
+
+600
+00:22:51,531 --> 00:22:52,778
+Okay. So what can I do now?
+
+601
+00:22:52,812 --> 00:22:54,379
+<i>Just don't tell Megan about this, okay?</i>
+
+602
+00:22:54,411 --> 00:22:55,914
+<i>Not until I know for sure
+what's gonna happen.</i>
+
+603
+00:22:55,948 --> 00:22:58,411
+<i>- Pick up your phone next time!
+- [CLICK]</i>
+
+604
+00:22:58,443 --> 00:23:00,651
+[CELLPHONE LOCKS]
+
+605
+00:23:00,684 --> 00:23:02,411
+[SOFTLY] I just want to help people,
+
+606
+00:23:02,443 --> 00:23:04,650
+and I think that doctors can save lives
+
+607
+00:23:04,684 --> 00:23:08,171
+and change the world
+and eradicate diseases.
+
+608
+00:23:08,203 --> 00:23:09,250
+I-I'm sorry.
+
+609
+00:23:09,283 --> 00:23:12,586
+Um, can you just speak up a little bit?
+
+610
+00:23:12,620 --> 00:23:15,978
+Um, I just want to help people,
+
+611
+00:23:16,012 --> 00:23:18,891
+and I think that doctors
+can change the world,
+
+612
+00:23:18,924 --> 00:23:21,578
+help save lives, and eradicate disease.
+
+613
+00:23:21,612 --> 00:23:24,587
+[CHUCKLES, SIGHS]
+
+614
+00:23:24,619 --> 00:23:26,315
+[SIGHS]
+
+615
+00:23:26,347 --> 00:23:28,458
+There was a problem,
+
+616
+00:23:28,492 --> 00:23:30,347
+and the problem has been addressed.
+
+617
+00:23:32,012 --> 00:23:33,387
+Sports band! [CHUCKLES]
+
+618
+00:23:33,419 --> 00:23:35,915
+I tried contacts, but they required me
+
+619
+00:23:35,947 --> 00:23:40,341
+to touch my eyeball
+with my finger, so... no.
+
+620
+00:23:40,375 --> 00:23:44,235
+♪  ♪
+
+621
+00:23:44,267 --> 00:23:46,379
+CATHERINE: Hello, there!
+
+622
+00:23:46,412 --> 00:23:48,458
+Hi.
+
+623
+00:23:48,492 --> 00:23:50,538
+- Maggie?
+- [CHUCKLES]
+
+624
+00:23:50,572 --> 00:23:53,663
+Ohh! I wasn't expecting you.
+
+625
+00:23:53,690 --> 00:23:55,257
+Well, you know,
+I saw her on the way out,
+
+626
+00:23:55,289 --> 00:23:57,881
+and I... I thought
+we could set another place.
+
+627
+00:23:57,913 --> 00:23:59,609
+Uh-huh. [CHUCKLES]
+
+628
+00:23:59,641 --> 00:24:02,169
+- Oh. Hey.
+- Hey.
+
+629
+00:24:03,860 --> 00:24:04,920
+That looks amazing.
+
+630
+00:24:04,954 --> 00:24:08,345
+Yes. Well, welcome. Welcome.
+
+631
+00:24:08,377 --> 00:24:10,296
+Richard, could you help me
+
+632
+00:24:10,329 --> 00:24:12,112
+in the kitchen for a moment, please?
+
+633
+00:24:12,660 --> 00:24:14,264
+- Excuse me.
+- [CLAPS HANDS]
+
+634
+00:24:14,298 --> 00:24:15,865
+[CHUCKLES]
+
+635
+00:24:20,089 --> 00:24:22,808
+I said <i>family</i> supper.
+
+636
+00:24:22,842 --> 00:24:24,440
+And Maggie's not family?
+
+637
+00:24:24,473 --> 00:24:26,937
+Oh, please. I didn't mean <i>that.</i>
+
+638
+00:24:26,969 --> 00:24:28,654
+It's just... [SIGHS]
+
+639
+00:24:28,688 --> 00:24:31,064
+Well, you could've at least have called.
+
+640
+00:24:31,097 --> 00:24:33,388
+Well, I like to keep a sense of mystery.
+
+641
+00:24:33,422 --> 00:24:37,202
+Oh, please. Are we talking
+about Thomas Koracick now?
+
+642
+00:24:37,236 --> 00:24:39,253
+Oh, we don't have to
+talk about anything.
+
+643
+00:24:40,205 --> 00:24:41,624
+Beautiful house.
+
+644
+00:24:42,064 --> 00:24:43,471
+Oh, you've never been?
+
+645
+00:24:43,504 --> 00:24:45,295
+I know. Sometimes I think he worries
+
+646
+00:24:45,329 --> 00:24:48,394
+- about pushing the dad angle.
+- Hmm.
+
+647
+00:24:49,113 --> 00:24:50,806
+He's a good guy... Richard.
+
+648
+00:24:50,839 --> 00:24:52,691
+Very. So is your mom.
+
+649
+00:24:52,725 --> 00:24:54,543
+They are good people.
+
+650
+00:24:57,369 --> 00:24:58,905
+Good folks.
+
+651
+00:25:00,528 --> 00:25:01,904
+You want some wine?
+
+652
+00:25:01,936 --> 00:25:03,503
+I would like a gallon of it.
+
+653
+00:25:03,536 --> 00:25:06,154
+I've been on this planet
+for six decades.
+
+654
+00:25:06,228 --> 00:25:07,954
+There have been penises in my life
+
+655
+00:25:07,988 --> 00:25:09,907
+that are not attached to you.
+
+656
+00:25:09,939 --> 00:25:11,890
+So stop trying to change the subject.
+
+657
+00:25:11,924 --> 00:25:14,163
+You haven't told me what the subject is.
+
+658
+00:25:14,196 --> 00:25:18,322
+I wanted to talk to Jackson
+tonight alone, just us.
+
+659
+00:25:18,356 --> 00:25:19,443
+Well, what about?
+
+660
+00:25:19,475 --> 00:25:21,042
+The boy's grandfather just passed!
+
+661
+00:25:21,076 --> 00:25:22,354
+I understand that!
+
+662
+00:25:22,388 --> 00:25:23,507
+[SIGHS] I'm sorry about all this.
+
+663
+00:25:23,540 --> 00:25:27,222
+Oh, it's fine, it's fine.
+My parents had loud discussions.
+
+664
+00:25:27,256 --> 00:25:28,510
+CATHERINE: It's complicated!
+
+665
+00:25:28,543 --> 00:25:31,923
+I just... I need to talk to
+Jackson about his inheritance!
+
+666
+00:25:33,075 --> 00:25:34,771
+You know what? I'm just gonna... Yeah.
+
+667
+00:25:34,804 --> 00:25:36,284
+RICHARD: How complicated is it?!
+
+668
+00:25:36,317 --> 00:25:38,674
+CATHERINE: A quarter of a
+billion dollars! <i>That's</i> how!
+
+669
+00:25:38,708 --> 00:25:43,155
+♪  ♪
+
+670
+00:25:43,187 --> 00:25:45,394
+Who's hungry? [CHUCKLES]
+
+671
+00:25:45,428 --> 00:25:50,706
+♪  ♪
+
+672
+00:25:50,740 --> 00:25:56,722
+♪  ♪
+
+673
+00:26:00,983 --> 00:26:03,158
+[SILVERWARE CLINKING]
+
+674
+00:26:10,342 --> 00:26:12,709
+Everything tastes really wonderful.
+
+675
+00:26:12,742 --> 00:26:14,117
+It's so wonderful.
+
+676
+00:26:19,302 --> 00:26:21,765
+Tell me again why they can't just
+give the money to the foundation.
+
+677
+00:26:21,798 --> 00:26:23,557
+He left plenty to the foundation.
+
+678
+00:26:23,590 --> 00:26:24,773
+That was his gift to you.
+
+679
+00:26:24,806 --> 00:26:26,949
+That's not a gift, Mom. It's an economy.
+
+680
+00:26:26,982 --> 00:26:28,709
+It's how he showed his love.
+
+681
+00:26:28,742 --> 00:26:30,853
+Yeah, well, I don't want it.
+
+682
+00:26:30,886 --> 00:26:32,325
+You know what I <i>do</i> want?
+
+683
+00:26:32,358 --> 00:26:34,308
+I want a fair chance to
+actually win his damn award.
+
+684
+00:26:34,342 --> 00:26:35,500
+- Jackson.
+- I know.
+
+685
+00:26:35,539 --> 00:26:37,003
+Look, I'm not complaining
+about it. I just...
+
+686
+00:26:37,030 --> 00:26:39,749
+Yes, you are. And I will not abide it.
+
+687
+00:26:39,782 --> 00:26:41,733
+I'm not complaining.
+It's just... It's a lot!
+
+688
+00:26:41,766 --> 00:26:43,333
+You think having
+a lot of money is tough?
+
+689
+00:26:43,366 --> 00:26:45,921
+Try <i>not</i> having it some time.
+
+690
+00:26:46,406 --> 00:26:49,572
+No, I get it. I mean, I...
+
+691
+00:26:50,050 --> 00:26:53,733
+I, uh... I went to college
+on a full ride when I was 15,
+
+692
+00:26:53,765 --> 00:26:56,229
+which sounds awesome,
+but I had no friends
+
+693
+00:26:56,262 --> 00:26:58,245
+and I cried all the time,
+and it was awful.
+
+694
+00:26:58,278 --> 00:27:00,005
+I mean, I don't know what
+it's like to have Beyoncé money,
+
+695
+00:27:00,038 --> 00:27:02,117
+but I <i>do</i> know that research shows
+
+696
+00:27:02,149 --> 00:27:04,197
+that having too many choices
+is a leading cause of stress.
+
+697
+00:27:04,229 --> 00:27:06,885
+And now Jackson can literally
+choose to do anything
+
+698
+00:27:06,918 --> 00:27:08,837
+for the rest of his life.
+
+699
+00:27:08,869 --> 00:27:11,173
+You could buy a vineyard
+and never work again.
+
+700
+00:27:11,206 --> 00:27:13,733
+Or you could buy a hospital
+and work until the day you die.
+
+701
+00:27:13,766 --> 00:27:15,013
+Even if you give it away,
+
+702
+00:27:15,046 --> 00:27:17,477
+you have to decide who gets it
+and who doesn't.
+
+703
+00:27:17,509 --> 00:27:18,629
+You could buy an island.
+
+704
+00:27:18,973 --> 00:27:21,148
+Or you could buy two islands
+and make them fight each other.
+
+705
+00:27:21,181 --> 00:27:22,523
+I mean, I get that
+you're not complaining.
+
+706
+00:27:22,557 --> 00:27:24,507
+But it is a problem. It is stressful.
+
+707
+00:27:24,540 --> 00:27:27,004
+Still, it's a good problem
+to have, right? [CHUCKLES]
+
+708
+00:27:29,981 --> 00:27:31,227
+Is there more wine?
+
+709
+00:27:31,260 --> 00:27:33,147
+[SLURPS]
+
+710
+00:27:37,373 --> 00:27:40,028
+- You know where you are?
+- I'm at work.
+
+711
+00:27:40,559 --> 00:27:41,979
+Do you know who the president is?
+
+712
+00:27:42,013 --> 00:27:43,580
+- I wish I didn't.
+- Very good.
+
+713
+00:27:43,612 --> 00:27:47,227
+Dr. Shepherd, your
+post-op scans are pristine.
+
+714
+00:27:47,261 --> 00:27:48,557
+I'm clearing you to go home.
+
+715
+00:27:48,591 --> 00:27:50,363
+I'll see you in a few days
+for a follow-up, hmm?
+
+716
+00:27:50,397 --> 00:27:52,112
+It's been a pleasure
+being treated by me.
+
+717
+00:27:53,916 --> 00:27:56,283
+Yay! This is incredible!
+
+718
+00:27:56,317 --> 00:27:58,844
+I want to see my scans. All of them.
+
+719
+00:27:58,877 --> 00:28:01,122
+Amelia, he said you're fine.
+
+720
+00:28:01,156 --> 00:28:02,428
+You're cleared to go home.
+
+721
+00:28:02,789 --> 00:28:04,796
+Something's wrong. Something's missing.
+
+722
+00:28:04,828 --> 00:28:07,387
+Um, please get my scans.
+
+723
+00:28:09,180 --> 00:28:11,420
+Air Force, with distinction,
+
+724
+00:28:11,452 --> 00:28:14,107
+two tours in Iraq in cybersecurity.
+
+725
+00:28:14,141 --> 00:28:15,323
+Thank you for that.
+
+726
+00:28:15,357 --> 00:28:17,410
+And you left to go into medicine.
+
+727
+00:28:17,435 --> 00:28:18,523
+One day I caught some shrapnel,
+
+728
+00:28:18,555 --> 00:28:20,570
+and I woke up on a cot in a CSH tent.
+
+729
+00:28:20,604 --> 00:28:24,475
+I watched 3 combat surgeons
+save 37 soldiers in 6 hours.
+
+730
+00:28:24,507 --> 00:28:27,044
+I counted. I kept score.
+
+731
+00:28:27,077 --> 00:28:29,627
+I thought, "That's not a bad way
+to spend your time."
+
+732
+00:28:29,659 --> 00:28:31,451
+Also, I watched a lot of
+"M.A.S.H." when I was a kid,
+
+733
+00:28:31,483 --> 00:28:33,754
+and I had a real thing
+for Hawkeye Pierce.
+
+734
+00:28:34,241 --> 00:28:35,455
+Me too!
+
+735
+00:28:35,867 --> 00:28:37,531
+[CHUCKLES]
+
+736
+00:28:37,564 --> 00:28:41,121
+I read all about the fire.
+And the resident who set it?
+
+737
+00:28:41,155 --> 00:28:44,652
+Incredible. So smart, so brave.
+
+738
+00:28:44,681 --> 00:28:47,208
+Just... fierce, you know?
+
+739
+00:28:47,242 --> 00:28:49,161
+She's officially my new hero.
+
+740
+00:28:49,193 --> 00:28:51,848
+And I'm so excited to see all the changes
+you make when you rebuild.
+
+741
+00:28:51,881 --> 00:28:54,313
+We already rebuilt.
+
+742
+00:28:54,345 --> 00:28:57,889
+Right! No. Of course you did.
+It's... gorgeous!
+
+743
+00:28:57,923 --> 00:29:00,200
+Who's your designer?
+
+744
+00:29:01,705 --> 00:29:04,333
+MEREDITH: Come on, Nathan.
+Come on, Nathan.
+
+745
+00:29:05,738 --> 00:29:07,624
+Dr. Grey, uh, if it's all right,
+
+746
+00:29:07,658 --> 00:29:09,960
+um, I need you to take
+my name off the paper.
+
+747
+00:29:09,993 --> 00:29:10,889
+Why?
+
+748
+00:29:11,735 --> 00:29:14,184
+It's okay. I know that
+Alex told you about him.
+
+749
+00:29:14,218 --> 00:29:16,342
+[GASPS] Oh, Wilson, when I asked you
+
+750
+00:29:16,376 --> 00:29:18,205
+for that picture,
+I wasn't even thinking.
+
+751
+00:29:18,239 --> 00:29:19,996
+It's not your job to think about it.
+
+752
+00:29:20,077 --> 00:29:22,219
+- It's okay.
+- Okay.
+
+753
+00:29:25,996 --> 00:29:29,126
+Why would you take your name
+off that article?
+
+754
+00:29:29,644 --> 00:29:30,924
+Because if I didn't,
+
+755
+00:29:30,956 --> 00:29:34,443
+my psychopathic husband
+might see my picture,
+
+756
+00:29:34,477 --> 00:29:36,396
+learn my new name, and come kill me.
+
+757
+00:29:36,429 --> 00:29:38,572
+[LAUGHS] That's...
+
+758
+00:29:39,052 --> 00:29:40,203
+Wait. Seriously?
+
+759
+00:29:40,237 --> 00:29:41,900
+Y-You're married?
+
+760
+00:29:42,479 --> 00:29:43,790
+And in hiding.
+
+761
+00:29:46,189 --> 00:29:48,460
+Okay, how about you tell me
+a secret about yourself
+
+762
+00:29:48,492 --> 00:29:52,683
+so that I'm not the only one
+who feels so horribly exposed?
+
+763
+00:29:53,233 --> 00:29:55,724
+A-All right. Um... [CHUCKLES]
+
+764
+00:29:55,756 --> 00:29:58,476
+Uh, I'm training for something,
+
+765
+00:29:58,509 --> 00:30:02,178
+and if my wife finds out,
+she is not gonna like it.
+
+766
+00:30:03,218 --> 00:30:04,268
+Like, a lot.
+
+767
+00:30:06,747 --> 00:30:08,268
+Wait. What is it?
+
+768
+00:30:10,125 --> 00:30:12,491
+[SCOFFS]
+
+769
+00:30:12,525 --> 00:30:15,404
+I once had a patient with bipolar
+disorder and a malignant glioma.
+
+770
+00:30:15,437 --> 00:30:18,476
+I took out the tumor.
+Bipolar didn't change.
+
+771
+00:30:18,508 --> 00:30:20,619
+I once had a patient
+with an armpit fetish pre-op.
+
+772
+00:30:20,653 --> 00:30:23,084
+Tumor came out,
+guy still loved him some pits.
+
+773
+00:30:23,117 --> 00:30:24,940
+Are you saying you think I'm nuts?
+
+774
+00:30:24,972 --> 00:30:26,731
+I'm saying there's
+nothing physically wrong
+
+775
+00:30:26,765 --> 00:30:28,972
+with you anymore. Go home.
+
+776
+00:30:31,298 --> 00:30:33,409
+DeLuca, schedule a functional MRI,
+
+777
+00:30:33,441 --> 00:30:36,129
+a carotid duplex,
+and another CT with contrast.
+
+778
+00:30:36,161 --> 00:30:37,728
+Dr. Shepherd, respectfully, I just...
+
+779
+00:30:37,762 --> 00:30:40,033
+I don't understand
+what we're looking for.
+
+780
+00:30:40,656 --> 00:30:41,824
+I'll know when I'm looking at it.
+
+781
+00:30:41,858 --> 00:30:44,065
+♪ Leave the light on ♪
+
+782
+00:30:44,097 --> 00:30:46,049
+♪ For myself when I come home ♪
+
+783
+00:30:46,081 --> 00:30:48,577
+♪ Leave the light on ♪
+
+784
+00:30:48,609 --> 00:30:50,849
+♪ For myself when I come home ♪
+
+785
+00:30:50,881 --> 00:30:52,896
+♪ Leave the light on ♪
+
+786
+00:30:52,929 --> 00:30:55,553
+♪ For myself when I come home ♪
+
+787
+00:30:55,586 --> 00:30:57,376
+- [CELLPHONE CHIMES]
+- ♪ For myself when I come home
+
+788
+00:30:57,410 --> 00:31:00,064
+♪ For myself when I come home ♪
+
+789
+00:31:00,098 --> 00:31:02,209
+♪ For myself when I come home ♪
+
+790
+00:31:02,241 --> 00:31:04,352
+♪ For myself when I come home ♪
+
+791
+00:31:04,386 --> 00:31:06,493
+♪ For myself when I come home ♪
+
+792
+00:31:06,527 --> 00:31:09,259
+- You're the doctor?
+- Yes. I'm Dr. Grey.
+
+793
+00:31:09,284 --> 00:31:11,971
+What is the hold-up exactly
+with my patient?
+
+794
+00:31:12,004 --> 00:31:14,531
+The individual can't be
+released until DHS comes
+
+795
+00:31:14,564 --> 00:31:16,578
+and checks it off, and we're
+waiting on some paperwork
+
+796
+00:31:16,612 --> 00:31:19,171
+- from INS that needs...
+- He cannot wait for paperwork.
+
+797
+00:31:19,204 --> 00:31:21,635
+Well, he seems all right for
+now, so just let me do my job,
+
+798
+00:31:21,668 --> 00:31:23,459
+and we'll get him out of here
+as quick as we can.
+
+799
+00:31:23,492 --> 00:31:25,187
+Does he? Does he seem okay to you?
+
+800
+00:31:25,219 --> 00:31:27,075
+Do you know what
+thalassemia major looks like?
+
+801
+00:31:27,108 --> 00:31:28,291
+- Um...
+- I do.
+
+802
+00:31:28,324 --> 00:31:30,339
+As clearly as the yellow
+in your eyes tells me
+
+803
+00:31:30,371 --> 00:31:32,739
+you should see a doctor
+and get your liver checked soon.
+
+804
+00:31:32,772 --> 00:31:34,499
+And do you have a form that you fill out
+
+805
+00:31:34,532 --> 00:31:36,057
+for standing by while a child dies?
+
+806
+00:31:36,090 --> 00:31:38,691
+Because you're gonna need that
+one if you don't open this door
+
+807
+00:31:38,724 --> 00:31:41,699
+and get me my patient
+and let me do my job.
+
+808
+00:31:41,732 --> 00:31:44,744
+♪ Leave the light on ♪
+
+809
+00:31:44,778 --> 00:31:47,512
+♪ For myself when I come home ♪
+
+810
+00:31:47,546 --> 00:31:49,719
+♪ Leave the light on ♪
+
+811
+00:31:49,752 --> 00:31:51,096
+Hey.
+
+812
+00:31:51,129 --> 00:31:52,429
+Hey.
+
+813
+00:31:52,463 --> 00:31:54,651
+♪ Leave the light on ♪
+
+814
+00:31:54,684 --> 00:31:56,864
+♪ For myself when I come home ♪
+
+815
+00:31:56,897 --> 00:31:59,693
+♪ For myself when I come home ♪
+
+816
+00:32:01,494 --> 00:32:04,452
+I never use lengthy medical
+terms, always use first names.
+
+817
+00:32:04,500 --> 00:32:06,090
+I try to connect with them
+
+818
+00:32:06,115 --> 00:32:08,866
+over an anecdote or a shared experience.
+
+819
+00:32:08,899 --> 00:32:10,466
+I think patient connection
+
+820
+00:32:10,498 --> 00:32:14,081
+is just as important
+as surgical dexterity.
+
+821
+00:32:14,115 --> 00:32:17,442
+Well, nobody ever bled out
+from rudeness.
+
+822
+00:32:17,474 --> 00:32:19,745
+Right. Right, right.
+
+823
+00:32:19,779 --> 00:32:22,146
+Not <i>as</i> important.
+
+824
+00:32:23,971 --> 00:32:25,362
+After I finished undergrad,
+
+825
+00:32:25,395 --> 00:32:27,425
+I applied for the primary-care
+rotation in Nepal.
+
+826
+00:32:27,459 --> 00:32:28,674
+[DOG YIPS]
+
+827
+00:32:28,707 --> 00:32:30,690
+[DOG BARKING]
+
+828
+00:32:32,899 --> 00:32:34,882
+Why did you bring a dog
+to your interview?
+
+829
+00:32:34,914 --> 00:32:36,354
+Emotional support.
+
+830
+00:32:36,387 --> 00:32:38,658
+And, legally, you're not
+allowed to ask me that.
+
+831
+00:32:38,690 --> 00:32:41,282
+- [DOG YIPS]
+- Uh...
+
+832
+00:32:45,314 --> 00:32:47,458
+[MONITOR BEEPING]
+
+833
+00:32:47,490 --> 00:32:49,697
+[INDISTINCT CONVERSATIONS]
+
+834
+00:32:49,731 --> 00:32:52,621
+- Hey.
+- Hey. Megan?
+
+835
+00:32:53,731 --> 00:32:55,138
+MEREDITH: I want you to stay calm.
+
+836
+00:32:55,170 --> 00:32:57,985
+Don't make any sudden movements.
+Don't jump out of bed.
+
+837
+00:32:58,019 --> 00:33:00,642
+I don't want you to ruin my work.
+
+838
+00:33:01,730 --> 00:33:03,298
+What are you doing here?
+
+839
+00:33:04,610 --> 00:33:06,551
+I-I brought you someone.
+
+840
+00:33:07,459 --> 00:33:08,642
+Hi, Mama!
+
+841
+00:33:08,675 --> 00:33:10,977
+Oh, my God! [LAUGHS]
+
+842
+00:33:11,011 --> 00:33:12,897
+[SHRIEKING] Farouk! Oh, my God!
+
+843
+00:33:12,931 --> 00:33:14,754
+Oh, my God!
+
+844
+00:33:16,259 --> 00:33:18,722
+Oh, my God, oh, my God, oh, my God!
+
+845
+00:33:18,754 --> 00:33:19,873
+I missed you!
+
+846
+00:33:19,907 --> 00:33:20,737
+I missed you, too!
+
+847
+00:33:20,770 --> 00:33:22,978
+Ahh! [SPEAKS ARABIC]
+
+848
+00:33:23,010 --> 00:33:24,481
+[SPEAKS ARABIC]
+
+849
+00:33:24,514 --> 00:33:27,586
+Oh, my God. Are you real? Are you real?
+
+850
+00:33:27,619 --> 00:33:29,538
+[LAUGHING] Are you really here?
+
+851
+00:33:29,570 --> 00:33:31,106
+Ohh. This is your Uncle Owen.
+
+852
+00:33:31,138 --> 00:33:33,761
+- Owen, this is Farouk.
+- Hey. Hey. How you doing?
+
+853
+00:33:33,795 --> 00:33:35,266
+[LAUGHTER]
+
+854
+00:33:35,299 --> 00:33:37,186
+Thank you. Thank you
+for looking after her.
+
+855
+00:33:37,219 --> 00:33:38,561
+Thank you.
+
+856
+00:33:40,034 --> 00:33:43,073
+[LAUGHING] Come here. Oh, my God.
+
+857
+00:33:43,106 --> 00:33:46,114
+[LAUGHS] Have you eaten anything?
+
+858
+00:33:46,146 --> 00:33:48,098
+You must be so tired. Are you hungry?
+
+859
+00:33:48,130 --> 00:33:50,337
+- FAROUK: I'm hungry.
+- The food here's terrible.
+
+860
+00:33:50,371 --> 00:33:52,578
+[CONVERSATION CONTINUES INDISTINCTLY]
+
+861
+00:33:52,610 --> 00:33:54,529
+[LAUGHTER]
+
+862
+00:34:01,090 --> 00:34:04,162
+I can't find the operative
+report. Did Koracick dictate...
+
+863
+00:34:04,194 --> 00:34:06,242
+I think I figured out
+what you're looking for.
+
+864
+00:34:08,864 --> 00:34:10,337
+It was this.
+
+865
+00:34:10,949 --> 00:34:12,492
+This is what's missing.
+
+866
+00:34:17,538 --> 00:34:19,618
+I think you've been waiting
+for the other shoe to drop,
+
+867
+00:34:19,650 --> 00:34:22,273
+for... something to go wrong.
+
+868
+00:34:22,307 --> 00:34:25,953
+And I think it might be
+because, for years now,
+
+869
+00:34:25,987 --> 00:34:27,906
+something <i>was</i> wrong.
+
+870
+00:34:27,938 --> 00:34:29,761
+This thing was growing inside of you,
+
+871
+00:34:29,794 --> 00:34:31,361
+and you were in constant danger.
+
+872
+00:34:31,395 --> 00:34:32,897
+But now it's gone.
+
+873
+00:34:33,346 --> 00:34:35,056
+And you're safe.
+
+874
+00:34:35,618 --> 00:34:38,476
+And I think, for you, that might feel...
+
+875
+00:34:40,103 --> 00:34:43,553
+...like something's wrong, but, uh...
+
+876
+00:34:45,058 --> 00:34:48,226
+You know, I'm... I'm sorry.
+I thought I'd...
+
+877
+00:34:48,258 --> 00:34:53,122
+♪  ♪
+
+878
+00:34:53,154 --> 00:34:55,410
+[AMELIA BREATHES SHAKILY]
+
+879
+00:34:57,411 --> 00:35:01,621
+[WOMAN ON P.A. SPEAKING INDISTINCTLY]
+
+880
+00:35:01,646 --> 00:35:02,926
+[ELEVATOR BELL DINGS]
+
+881
+00:35:07,650 --> 00:35:09,442
+- Hey.
+- Hi.
+
+882
+00:35:09,474 --> 00:35:10,955
+Sorry again about last night.
+
+883
+00:35:10,988 --> 00:35:13,355
+Oh, please. I shouldn't
+have had so much wine.
+
+884
+00:35:13,389 --> 00:35:15,714
+No, no, no. I actually really
+appreciated what you had to say.
+
+885
+00:35:15,746 --> 00:35:19,351
+I appreciate, uh, you.
+
+886
+00:35:22,281 --> 00:35:23,912
+I appreciate you, too.
+
+887
+00:35:25,321 --> 00:35:26,728
+Hi, there.
+
+888
+00:35:26,761 --> 00:35:29,192
+Hey. Hi. Thank you so much
+for last night.
+
+889
+00:35:29,225 --> 00:35:31,780
+Oh, Maggie, I'm so glad you were there
+
+890
+00:35:32,521 --> 00:35:34,343
+to talk some sense into <i>this</i> one.
+
+891
+00:35:34,377 --> 00:35:35,944
+He's pretty sensible, I think.
+
+892
+00:35:35,977 --> 00:35:37,000
+Oh, he's like me.
+
+893
+00:35:37,033 --> 00:35:39,464
+My mom could talk to me
+till she was blue in the face,
+
+894
+00:35:39,496 --> 00:35:41,544
+but if my <i>sister told me something,</i>
+
+895
+00:35:41,577 --> 00:35:43,792
+I would actually listen.
+
+896
+00:35:44,200 --> 00:35:46,215
+Let's do that again soon.
+
+897
+00:35:49,417 --> 00:35:52,168
+- Have a good night, then.
+- Yeah. You too.
+
+898
+00:35:55,433 --> 00:35:57,448
+So, honey, how's it going?
+
+899
+00:35:57,481 --> 00:35:59,368
+Have you found all your new interns yet?
+
+900
+00:35:59,401 --> 00:36:01,768
+Well, the older I get,
+the more I dislike them.
+
+901
+00:36:01,801 --> 00:36:03,112
+[LAUGHS]
+
+902
+00:36:03,144 --> 00:36:06,743
+Hey! Kit Cat! You want to grab a drink?
+
+903
+00:36:06,776 --> 00:36:10,666
+Um, we have plans,
+uh, my wife and... and I.
+
+904
+00:36:10,699 --> 00:36:11,783
+We don't want to miss our chance.
+
+905
+00:36:11,817 --> 00:36:13,351
+I-I'm not gonna be here much longer.
+
+906
+00:36:13,385 --> 00:36:15,048
+Well, you have to
+come around more often.
+
+907
+00:36:15,081 --> 00:36:17,992
+Maybe you can do a lecture
+a couple times a year, hmm?
+
+908
+00:36:18,025 --> 00:36:21,000
+[LAUGHING] I'm gonna
+make that happen. [LAUGHS]
+
+909
+00:36:21,032 --> 00:36:22,760
+Mmm.
+
+910
+00:36:24,073 --> 00:36:26,472
+Really? "Kit Cat"?
+
+911
+00:36:28,561 --> 00:36:30,279
+You're that desperate to see him again?
+
+912
+00:36:30,313 --> 00:36:33,800
+Oh, honey, yes.
+I like what he does to you.
+
+913
+00:36:33,833 --> 00:36:35,304
+[GROANS]
+
+914
+00:36:35,336 --> 00:36:37,064
+[LAUGHS]
+
+915
+00:36:37,096 --> 00:36:40,520
+[INDISTINCT CONVERSATIONS]
+
+916
+00:36:40,553 --> 00:36:42,759
+Hey, so, I stocked the fridge
+with all your favorites.
+
+917
+00:36:42,793 --> 00:36:45,000
+I set the thermostat to boiling,
+just how you like it.
+
+918
+00:36:45,032 --> 00:36:48,523
+[EXHALES SHARPLY]
+I want you to come home, Amelia.
+
+919
+00:36:49,641 --> 00:36:52,872
+Yeah, I figured, um, you would
+take care of your sister,
+
+920
+00:36:52,905 --> 00:36:56,551
+and, uh, my sisters
+would take care of me,
+
+921
+00:36:56,585 --> 00:36:58,376
+- and then...
+- And then what?
+
+922
+00:37:00,265 --> 00:37:03,747
+And then I don't know. And it's scary.
+
+923
+00:37:04,201 --> 00:37:06,151
+[SIGHS]
+
+924
+00:37:06,185 --> 00:37:09,561
+You were coming to end it, to leave me
+
+925
+00:37:09,595 --> 00:37:10,951
+when I told you that I was sick.
+
+926
+00:37:10,985 --> 00:37:12,979
+Listen. I was upset.
+But I didn't know...
+
+927
+00:37:13,012 --> 00:37:14,814
+You were right. I was awful to you.
+
+928
+00:37:14,847 --> 00:37:16,711
+You were right to want to leave.
+
+929
+00:37:17,302 --> 00:37:18,920
+You had a tumor.
+
+930
+00:37:19,804 --> 00:37:21,767
+- You married a tumor.
+- I married <i>you.</i>
+
+931
+00:37:21,801 --> 00:37:23,304
+We don't know who that is anymore.
+
+932
+00:37:23,337 --> 00:37:24,777
+I don't know who I am.
+
+933
+00:37:24,809 --> 00:37:28,136
+So you don't have to do this now.
+
+934
+00:37:28,897 --> 00:37:30,632
+You can be free.
+
+935
+00:37:32,649 --> 00:37:36,424
+♪ Say everything's better
+in the daylight ♪
+
+936
+00:37:36,457 --> 00:37:37,896
+Amelia.
+
+937
+00:37:37,929 --> 00:37:40,968
+♪ So why'd you leave me in the dark? ♪
+
+938
+00:37:41,001 --> 00:37:42,984
+You're my wife, okay?
+
+939
+00:37:43,018 --> 00:37:44,456
+In sickness and in health.
+
+940
+00:37:44,489 --> 00:37:45,928
+Come home.
+
+941
+00:37:45,961 --> 00:37:47,496
+AMELIA: <i>The trouble with crossed wires</i>
+
+942
+00:37:47,529 --> 00:37:50,697
+is you don't know they happened
+<i>until it's too late.</i>
+
+943
+00:37:50,729 --> 00:37:53,704
+<i>So we have to be very careful
+with our connections.</i>
+
+944
+00:37:53,737 --> 00:37:55,145
+Thank you.
+
+945
+00:37:55,177 --> 00:37:56,936
+♪ And when you told me
+what I wanna hear ♪
+
+946
+00:37:56,969 --> 00:37:57,800
+[EXHALES SHARPLY]
+
+947
+00:37:57,833 --> 00:38:01,032
+♪ Don't just say nothing, say nothing ♪
+
+948
+00:38:01,065 --> 00:38:04,776
+<i>They take time, care, and attention.</i>
+
+949
+00:38:04,809 --> 00:38:06,568
+Rounds don't start that early.
+
+950
+00:38:06,601 --> 00:38:08,744
+I'm trying to get in a run.
+
+951
+00:38:08,777 --> 00:38:10,344
+You've been running a lot lately.
+
+952
+00:38:10,377 --> 00:38:12,231
+♪ I believe ♪
+
+953
+00:38:12,264 --> 00:38:13,836
+I'm just staying in shape.
+
+954
+00:38:13,870 --> 00:38:15,112
+[SIGHS]
+
+955
+00:38:15,145 --> 00:38:17,842
+♪ Now I see ♪
+
+956
+00:38:17,921 --> 00:38:19,103
+What, you, uh...
+
+957
+00:38:19,136 --> 00:38:20,224
+♪ You're only gonna break me down ♪
+
+958
+00:38:20,256 --> 00:38:23,104
+You don't want me to stay in shape?
+
+959
+00:38:23,136 --> 00:38:25,728
+♪ Man up, don't say nothing ♪
+
+960
+00:38:25,760 --> 00:38:26,752
+Uh...
+
+961
+00:38:26,784 --> 00:38:30,367
+♪ Oh, I speak the truth ♪
+
+962
+00:38:30,401 --> 00:38:31,808
+♪ Yeah, yeah ♪
+
+963
+00:38:31,841 --> 00:38:33,760
+♪ If you want to say something ♪
+
+964
+00:38:33,792 --> 00:38:35,584
+♪ Silence don't mean nothing ♪
+
+965
+00:38:35,616 --> 00:38:37,183
+[CELLPHONE CHIMES]
+
+966
+00:38:37,217 --> 00:38:40,319
+♪ But it does to you ♪
+
+967
+00:38:40,353 --> 00:38:41,727
+[LAUGHS]
+
+968
+00:38:41,761 --> 00:38:44,288
+♪ Heard the silence
+become a part of you ♪
+
+969
+00:38:44,320 --> 00:38:46,048
+[CELLPHONE UNLOCKS]
+
+970
+00:38:46,080 --> 00:38:48,224
+[CLICKING]
+
+971
+00:38:48,256 --> 00:38:51,360
+♪ I've been dreaming
+of your silhouette all night ♪
+
+972
+00:38:51,392 --> 00:38:53,066
+Everything okay?
+
+973
+00:38:53,100 --> 00:38:54,784
+Yeah, it's my, um...
+
+974
+00:38:55,249 --> 00:38:56,592
+It's my daughter, Sofia.
+
+975
+00:38:56,617 --> 00:38:59,432
+She... She wants to move home.
+
+976
+00:38:59,466 --> 00:39:02,089
+<i>They take vigilance
+and single-mindedness.</i>
+
+977
+00:39:02,121 --> 00:39:04,552
+♪ Don't say nothing ♪
+
+978
+00:39:04,585 --> 00:39:06,889
+♪ Don't blame me ♪
+
+979
+00:39:06,921 --> 00:39:09,865
+♪ For the mess
+that you've been causing ♪
+
+980
+00:39:09,897 --> 00:39:11,272
+You okay?
+
+981
+00:39:11,305 --> 00:39:13,128
+♪ I believe every word you didn't say ♪
+
+982
+00:39:13,162 --> 00:39:14,669
+I just hate him.
+
+983
+00:39:15,879 --> 00:39:17,576
+I hate that he still has power.
+
+984
+00:39:17,610 --> 00:39:19,369
+♪ You're only gonna break me down ♪
+
+985
+00:39:19,401 --> 00:39:22,697
+I hate that he's still
+taking things away from me.
+
+986
+00:39:22,729 --> 00:39:25,289
+<i>We reconnect everything we can...</i>
+
+987
+00:39:25,321 --> 00:39:27,049
+<i>as carefully as we can.</i>
+
+988
+00:39:27,081 --> 00:39:29,385
+♪ Oh, I speak the truth ♪
+
+989
+00:39:29,417 --> 00:39:31,154
+♪ Yeah, yeah ♪
+
+990
+00:39:31,187 --> 00:39:32,617
+- [BEEPING]
+- ♪ If you wanna say something
+
+991
+00:39:32,649 --> 00:39:34,664
+Temp is down.
+
+992
+00:39:34,697 --> 00:39:37,797
+Thank you, Meredith. For everything.
+
+993
+00:39:37,830 --> 00:39:39,785
+Nathan said that you helped.
+
+994
+00:39:40,361 --> 00:39:44,424
+Nope. This was all him. Where is he?
+
+995
+00:39:46,629 --> 00:39:48,293
+♪ No, I'm not on my knees ♪
+
+996
+00:39:48,326 --> 00:39:50,340
+I can tell he's in love with you.
+
+997
+00:39:50,373 --> 00:39:52,260
+I can see it in his eyes
+when he talks about you.
+
+998
+00:39:52,293 --> 00:39:54,501
+And I just... [EXHALES]
+
+999
+00:39:54,533 --> 00:39:55,621
+♪ No, I don't want that ♪
+
+1000
+00:39:55,654 --> 00:39:58,756
+I'm just so grateful to you,
+Meredith. I'm so, so grateful.
+
+1001
+00:39:58,790 --> 00:40:01,799
+Megan, if you want to thank me,
+you'll believe me.
+
+1002
+00:40:02,469 --> 00:40:04,324
+I am not in this picture.
+
+1003
+00:40:04,358 --> 00:40:06,596
+Nathan did have a life
+while you were gone,
+
+1004
+00:40:06,630 --> 00:40:09,557
+and maybe it took him
+a minute to adjust.
+
+1005
+00:40:10,245 --> 00:40:13,812
+But look... He moved
+heaven and earth for you.
+
+1006
+00:40:14,066 --> 00:40:15,441
+He loves you.
+
+1007
+00:40:15,474 --> 00:40:17,105
+♪ Oh, I scream the truth ♪
+
+1008
+00:40:17,137 --> 00:40:19,025
+That's not a man you throw away.
+
+1009
+00:40:19,057 --> 00:40:20,913
+♪ Yeah, yeah ♪
+
+1010
+00:40:20,946 --> 00:40:22,801
+<i>And then we just have to pray to God...</i>
+
+1011
+00:40:22,834 --> 00:40:25,905
+♪ Silence don't mean nothing ♪
+
+1012
+00:40:25,938 --> 00:40:29,233
+♪ But it does to you ♪
+
+1013
+00:40:29,265 --> 00:40:31,571
+♪ Yeah, yeah ♪
+
+1014
+00:40:31,596 --> 00:40:33,963
+♪ If you wanna say something ♪
+
+1015
+00:40:33,996 --> 00:40:37,131
+♪ Silence don't mean nothing ♪
+
+1016
+00:40:37,163 --> 00:40:40,491
+♪ But it does to you ♪
+
+1017
+00:40:40,524 --> 00:40:43,103
+♪ Now the silence is part ♪
+
+1018
+00:40:43,128 --> 00:40:44,354
+<i>...that we got it right.</i>
+
+1019
+00:40:44,387 --> 00:40:47,192
+♪ Of me and you ♪
