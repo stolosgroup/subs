@@ -1,0 +1,3215 @@
+1
+00:00:00,190 --> 00:00:01,524
+Previously on "Manhattan"...
+
+2
+00:00:01,559 --> 00:00:03,372
+You've got a nuclear
+physicist carrying your water?
+
+3
+00:00:03,372 --> 00:00:04,688
+Dr. Theodore Sinclair.
+
+4
+00:00:04,722 --> 00:00:06,321
+We had no idea you were a physicist.
+
+5
+00:00:06,355 --> 00:00:08,617
+Let me guess, something's
+recapturing neutrons.
+
+6
+00:00:08,652 --> 00:00:11,655
+Reactor fuel. What if
+reactor plutonium isn't pure?
+
+7
+00:00:11,689 --> 00:00:13,088
+Frank always assumes the worst.
+
+8
+00:00:13,122 --> 00:00:14,711
+You were married when I met you.
+
+9
+00:00:14,736 --> 00:00:17,903
+He wanted to start a
+new life. He was naive.
+
+10
+00:00:17,951 --> 00:00:19,890
+What did you do at work
+today? Trick question.
+
+11
+00:00:19,925 --> 00:00:22,241
+If somebody asked that on
+the phone, I'd have to cut in.
+
+12
+00:00:22,734 --> 00:00:24,330
+Let us play.
+
+13
+00:00:24,909 --> 00:00:27,248
+You want me to sleep
+with... they're all whores?
+
+14
+00:00:27,282 --> 00:00:29,383
+It's $2.50 for last night.
+
+15
+00:00:29,418 --> 00:00:33,564
+So what happens now? We go
+back to being sworn enemies?
+
+16
+00:00:33,598 --> 00:00:36,640
+Well, as long as we're both
+stranded, how about a drop to drink?
+
+17
+00:00:36,675 --> 00:00:38,725
+Or we could skip the drink.
+
+18
+00:00:38,919 --> 00:00:41,567
+- I have to go back to the office.
+- What's wrong?
+
+19
+00:00:41,997 --> 00:00:43,550
+I don't know yet.
+
+20
+00:01:36,838 --> 00:01:38,976
+ID, please.
+
+21
+00:01:49,730 --> 00:01:52,234
+Hello?
+
+22
+00:01:54,462 --> 00:01:56,498
+Helen.
+
+23
+00:02:00,915 --> 00:02:05,085
+Well, look what
+Schrodinger's cat dragged in.
+
+24
+00:02:05,119 --> 00:02:08,559
+I spent the last two weeks
+checking the alpha neutron reaction
+
+25
+00:02:08,593 --> 00:02:11,002
+of every element on the periodic table.
+
+26
+00:02:11,027 --> 00:02:12,905
+- You want a gold star?
+- Beryllium,
+
+27
+00:02:12,905 --> 00:02:14,897
+fluorine, boron... they're all fine.
+
+28
+00:02:14,932 --> 00:02:17,736
+Then I started to wonder,
+how much plutonium-240
+
+29
+00:02:17,770 --> 00:02:19,339
+is mixed in with the 239?
+
+30
+00:02:19,373 --> 00:02:21,375
+Maybe we got a problem
+with spontaneous fission?
+
+31
+00:02:21,409 --> 00:02:23,244
+It's 5:00 A.M.
+
+32
+00:02:23,279 --> 00:02:25,450
+I read a paper on the nuclear shell model.
+
+33
+00:02:25,485 --> 00:02:27,789
+It theorized that even-numbered isotopes
+
+34
+00:02:27,823 --> 00:02:29,957
+have a higher spontaneous
+fission rate than odd.
+
+35
+00:02:29,992 --> 00:02:32,695
+I read that paper. I
+know the guy who wrote it.
+
+36
+00:02:36,899 --> 00:02:38,400
+Are you gonna invite me in?
+
+37
+00:02:38,435 --> 00:02:40,327
+Sure.
+
+38
+00:02:40,603 --> 00:02:43,238
+You can whisper fission rates in my ear.
+
+39
+00:02:43,272 --> 00:02:46,176
+Tell me secrets you can't
+share with your wife.
+
+40
+00:02:46,210 --> 00:02:49,311
+I'll laugh at your jokes
+and you'll loosen your tie.
+
+41
+00:02:49,346 --> 00:02:51,950
+Maybe we could have a
+drink, see what happens.
+
+42
+00:02:54,486 --> 00:02:56,320
+Ugh, darn.
+
+43
+00:02:56,355 --> 00:02:58,223
+I'm fresh out of whiskey.
+
+44
+00:03:10,993 --> 00:03:13,396
+Who was that? Christmas caroler?
+
+45
+00:03:13,611 --> 00:03:16,479
+No, just a soldier looking for a good time.
+
+46
+00:03:16,513 --> 00:03:17,780
+Mmm.
+
+47
+00:03:30,336 --> 00:03:31,816
+Operator.
+
+48
+00:03:32,005 --> 00:03:34,337
+This call will be monitored
+for your protection.
+
+49
+00:03:36,598 --> 00:03:38,766
+Hello? Is anyone there?
+
+50
+00:04:08,749 --> 00:04:10,530
+Manhattan 1x08
+The Second Coming
+
+51
+00:04:10,632 --> 00:04:14,626
+Sync and corrections by Albanda
+www.Addic7ed.com
+
+52
+00:04:17,801 --> 00:04:20,103
+Anyone heard of Stephen Blackpool?
+
+53
+00:04:20,138 --> 00:04:22,703
+What about Bill Sikes?
+
+54
+00:04:22,738 --> 00:04:25,038
+Crosley, you must know some of these guys.
+
+55
+00:04:25,072 --> 00:04:26,539
+Allow me to hazard a guess.
+
+56
+00:04:26,573 --> 00:04:29,960
+- Is Wilkins Micawber on the list?
+- Uh, right here.
+
+57
+00:04:29,985 --> 00:04:31,576
+- Yup.
+- He a friend of yours?
+
+58
+00:04:31,676 --> 00:04:35,074
+He emigrated to Australia
+to embark upon a new life.
+
+59
+00:04:35,109 --> 00:04:38,340
+Unshackling himself from the
+chains of his own history.
+
+60
+00:04:38,375 --> 00:04:39,671
+Well, then how did he wind up
+
+61
+00:04:39,706 --> 00:04:41,272
+in the British delegation
+to the Manhattan Project?
+
+62
+00:04:41,307 --> 00:04:43,707
+He didn't. It's a codename.
+
+63
+00:04:43,742 --> 00:04:45,210
+They all are.
+
+64
+00:04:45,244 --> 00:04:48,546
+Invented by Charles
+Dickens a century ago. No?
+
+65
+00:04:48,580 --> 00:04:50,817
+So they know how to choose
+pretentious pseudonyms.
+
+66
+00:04:50,851 --> 00:04:52,894
+Let's hope that they know
+something about physics.
+
+67
+00:04:53,256 --> 00:04:55,958
+A British scientist is worth two Americans.
+
+68
+00:04:56,209 --> 00:04:58,212
+2.2, to be precise.
+
+69
+00:04:58,237 --> 00:05:00,006
+It's just like converting
+kilos into pounds.
+
+70
+00:05:00,031 --> 00:05:02,208
+Well, your countrymen are
+bringing quite a dowry with them.
+
+71
+00:05:02,233 --> 00:05:03,999
+More than two years of research.
+
+72
+00:05:04,033 --> 00:05:06,902
+They've had an atomic program
+since Hitler was in art school.
+
+73
+00:05:06,936 --> 00:05:10,409
+If we can recruit them, we'll
+finally have a fighting chance.
+
+74
+00:05:10,443 --> 00:05:13,245
+They've got to give us at
+least one Brit for implosion.
+
+75
+00:05:13,279 --> 00:05:15,148
+Oppenheimer barely tolerates our existence.
+
+76
+00:05:15,183 --> 00:05:17,318
+You really think he's gonna up
+and hand us Nicholas Nickelby?
+
+77
+00:05:17,353 --> 00:05:19,621
+Oppenheimer's not going
+to hand us anything.
+
+78
+00:05:19,655 --> 00:05:21,956
+He's letting the Brits
+choose which group they join.
+
+79
+00:05:21,991 --> 00:05:25,260
+Well, no offense, but who's going
+to choose this group over Thin Man?
+
+80
+00:05:25,294 --> 00:05:27,530
+The Brits had 30 scientists
+
+81
+00:05:27,564 --> 00:05:29,910
+working on implosion the past year.
+
+82
+00:05:30,100 --> 00:05:31,369
+They did?
+
+83
+00:05:31,394 --> 00:05:33,126
+All we have to do is show
+them how far we've gotten
+
+84
+00:05:33,151 --> 00:05:35,569
+on these test shots and
+they'll come running.
+
+85
+00:05:35,640 --> 00:05:37,077
+Frank.
+
+86
+00:05:37,374 --> 00:05:39,441
+If you'll accept the advice of a native,
+
+87
+00:05:39,476 --> 00:05:41,858
+there is an art to seducing
+a proper Englishman.
+
+88
+00:05:41,883 --> 00:05:44,130
+Crosley's right. Akley's probably fattening
+
+89
+00:05:44,155 --> 00:05:46,251
+them up with filet mignon as we speak.
+
+90
+00:05:46,285 --> 00:05:49,074
+Crosley, you must have shared a dorm
+room at Eton with half of these guys.
+
+91
+00:05:49,099 --> 00:05:51,432
+Yeah, and shared a manservant
+at Oxford with the other half.
+
+92
+00:05:53,787 --> 00:05:57,155
+Yeah, I suppose I could serve
+as your cultural liaison.
+
+93
+00:06:06,263 --> 00:06:08,728
+I can find my own way out.
+
+94
+00:06:08,762 --> 00:06:11,482
+Not that you're not delightful company.
+
+95
+00:06:11,765 --> 00:06:13,157
+Isn't that Frank's wife?
+
+96
+00:06:13,935 --> 00:06:15,636
+Dr. Winter!
+
+97
+00:06:15,670 --> 00:06:17,704
+Dr. Winter?
+
+98
+00:06:20,606 --> 00:06:22,853
+I hope this isn't a hanging crime.
+
+99
+00:06:23,342 --> 00:06:25,441
+You can release the
+prisoner into my custody.
+
+100
+00:06:25,475 --> 00:06:26,941
+Sir, she's uncredentialed.
+
+101
+00:06:26,975 --> 00:06:30,642
+She is a card-carrying member of
+the Botanical Society of America.
+
+102
+00:06:30,677 --> 00:06:33,347
+I will see that she
+doesn't blow up any bridges.
+
+103
+00:06:35,750 --> 00:06:37,952
+So what did you do to get sent upriver?
+
+104
+00:06:37,987 --> 00:06:40,524
+I made an appointment
+at the security office.
+
+105
+00:06:40,558 --> 00:06:42,525
+You know, most of us spend our off hours
+
+106
+00:06:42,559 --> 00:06:44,026
+avoiding the security office.
+
+107
+00:06:44,060 --> 00:06:46,498
+I don't have off hours or on hours
+
+108
+00:06:46,533 --> 00:06:49,700
+because I don't have a job
+because the army won't let me.
+
+109
+00:06:49,735 --> 00:06:51,998
+That doesn't sound so bad.
+
+110
+00:06:52,137 --> 00:06:54,153
+If I had a six-month furlough,
+
+111
+00:06:54,209 --> 00:06:55,874
+I'd catch up on my reading.
+
+112
+00:06:55,964 --> 00:06:58,870
+I wasn't looking for an intelligence post.
+
+113
+00:06:58,920 --> 00:07:02,320
+Apparently, I don't even have
+clearance to laminate badges.
+
+114
+00:07:04,352 --> 00:07:07,207
+They say I failed my polygraph.
+
+115
+00:07:07,658 --> 00:07:09,858
+Did you tell them you
+were thrilled to be here?
+
+116
+00:07:09,892 --> 00:07:12,025
+Let me look into it.
+
+117
+00:07:13,427 --> 00:07:15,192
+Don't bother.
+
+118
+00:07:16,298 --> 00:07:18,268
+I stopped believing in Christmas miracles
+
+119
+00:07:18,302 --> 00:07:19,937
+a long time ago.
+
+120
+00:07:25,873 --> 00:07:27,637
+Abby, where are you going?
+
+121
+00:07:27,672 --> 00:07:29,138
+I just punched out.
+
+122
+00:07:29,173 --> 00:07:30,974
+I switched to the early shift.
+
+123
+00:07:31,009 --> 00:07:33,179
+- Can you punch back in?
+- What? No. No.
+
+124
+00:07:33,213 --> 00:07:34,816
+I'm taking a day trip to Santa Fe.
+
+125
+00:07:34,851 --> 00:07:36,019
+You can shop for pottery tomorrow.
+
+126
+00:07:36,044 --> 00:07:36,787
+No, I can't.
+
+127
+00:07:36,821 --> 00:07:38,981
+Santa Fe isn't going
+anywhere. This is important.
+
+128
+00:07:41,531 --> 00:07:43,635
+I'm not shopping.
+
+129
+00:07:43,669 --> 00:07:47,943
+I know you won't approve, but
+I'm going to see Mother and Daddy.
+
+130
+00:07:47,978 --> 00:07:49,991
+Your parents live in Massachusetts.
+
+131
+00:07:50,016 --> 00:07:51,109
+I got a letter.
+
+132
+00:07:51,144 --> 00:07:53,846
+They're going to a millinery
+convention in Los Angeles
+
+133
+00:07:53,880 --> 00:07:56,617
+on the California Limited
+and it stops in Santa Fe.
+
+134
+00:07:56,651 --> 00:07:59,119
+- I'm going to surprise them.
+- Jesus, Abby.
+
+135
+00:07:59,153 --> 00:08:01,323
+I'm going to ride one stop, 72 minutes.
+
+136
+00:08:01,357 --> 00:08:04,094
+And then I'll get off the train and
+I'll take the bus back to Santa Fe.
+
+137
+00:08:04,129 --> 00:08:06,062
+I know it's against the army rules
+
+138
+00:08:06,096 --> 00:08:07,698
+and I know we could get into trouble...
+
+139
+00:08:07,732 --> 00:08:10,735
+- Fine.
+- Fine?
+
+140
+00:08:10,769 --> 00:08:13,469
+But before you go, I need you to
+arrange an outgoing telephone call.
+
+141
+00:08:14,403 --> 00:08:15,939
+All right.
+
+142
+00:08:15,973 --> 00:08:18,611
+With no one listening.
+
+143
+00:08:18,646 --> 00:08:20,381
+Even you.
+
+144
+00:08:28,594 --> 00:08:30,964
+Listen, stay away from him.
+
+145
+00:08:30,999 --> 00:08:34,635
+No, Shirley, I'm not gonna
+discuss this with you anymore.
+
+146
+00:08:36,573 --> 00:08:37,914
+I don't want you standing under the
+
+147
+00:08:37,939 --> 00:08:39,078
+- mistletoe...
+- I need to cut in.
+
+148
+00:08:39,113 --> 00:08:40,330
+- with that creep.
+- I need to make
+
+149
+00:08:40,355 --> 00:08:41,515
+a call from this telephone right now.
+
+150
+00:08:41,550 --> 00:08:44,518
+Here. Here's $18. Buy
+her a honey baked ham.
+
+151
+00:08:49,739 --> 00:08:51,025
+Operator.
+
+152
+00:08:51,059 --> 00:08:53,765
+Charles Isaacs. I need an outside line.
+
+153
+00:08:54,229 --> 00:08:56,329
+Just a moment, please.
+
+154
+00:09:03,373 --> 00:09:05,099
+Is this the reactor building?
+
+155
+00:09:05,443 --> 00:09:07,151
+Put me through to Daniel Ellis' office.
+
+156
+00:09:07,176 --> 00:09:09,154
+-  Hold for Mr. Ellis.
+- No, no, no, no.
+
+157
+00:09:09,179 --> 00:09:12,351
+No, I need to speak to
+his secretary Theodore.
+
+158
+00:09:12,385 --> 00:09:14,754
+Tell him it's Mr. Donaldson calling.
+
+159
+00:09:17,692 --> 00:09:19,318
+Are you alone?
+
+160
+00:09:20,895 --> 00:09:22,730
+Nobody's monitoring this call.
+
+161
+00:09:22,764 --> 00:09:24,621
+We have exactly five minutes.
+
+162
+00:09:24,699 --> 00:09:27,867
+There is something that
+I need you to do for me.
+
+163
+00:09:30,521 --> 00:09:33,560
+They don't look like they've
+been ravaged by a light breeze,
+
+164
+00:09:33,585 --> 00:09:35,185
+much less the Blitz.
+
+165
+00:09:35,220 --> 00:09:36,852
+Englishmen never let a little thing
+
+166
+00:09:36,886 --> 00:09:38,753
+like the apocalypse rumple our suits.
+
+167
+00:09:38,787 --> 00:09:42,424
+Huh, this may be harder than I thought.
+
+168
+00:09:42,458 --> 00:09:44,930
+Akley seems to have
+quite a head start on us.
+
+169
+00:09:46,908 --> 00:09:48,501
+Who's the ringleader?
+
+170
+00:09:48,535 --> 00:09:50,871
+We get him, the rest
+will fall like dominoes.
+
+171
+00:09:50,905 --> 00:09:53,675
+The bloke with the
+cigar is Philip Bantliff,
+
+172
+00:09:53,709 --> 00:09:57,277
+but he barely got a second from
+Cambridge in statistical mechanics.
+
+173
+00:09:57,311 --> 00:09:58,978
+He can't balance an egg on a spoon,
+
+174
+00:09:59,013 --> 00:10:01,114
+much less opposing thermodynamic forces.
+
+175
+00:10:02,850 --> 00:10:04,817
+That's Brooks Matthews.
+
+176
+00:10:04,851 --> 00:10:07,485
+He's a third-rate experimental hack.
+
+177
+00:10:07,519 --> 00:10:11,221
+I'm sorry to say this, they sent
+us Man United instead of Arsenal.
+
+178
+00:10:11,255 --> 00:10:13,216
+Speak American.
+
+179
+00:10:13,789 --> 00:10:16,957
+The A-team stayed home.
+
+180
+00:10:18,493 --> 00:10:19,961
+What about him?
+
+181
+00:10:20,565 --> 00:10:22,196
+We don't want him.
+
+182
+00:10:22,231 --> 00:10:24,332
+- Who is he?
+- His name is Hogarth.
+
+183
+00:10:24,367 --> 00:10:26,291
+- Frank...
+- William Hogarth?
+
+184
+00:10:27,681 --> 00:10:29,849
+He started the British implosion project.
+
+185
+00:10:29,874 --> 00:10:33,043
+He's the guy we need. You know him?
+
+186
+00:10:33,243 --> 00:10:35,510
+We're acquainted, yeah.
+But believe me, Frank...
+
+187
+00:10:35,545 --> 00:10:38,149
+Well, good. We'll all have high tea.
+
+188
+00:10:42,418 --> 00:10:44,786
+Can you show me your big
+smile for Grandma and Grampy?
+
+189
+00:10:44,821 --> 00:10:48,124
+Big smile. Big, big,
+big. Look at that. Okay.
+
+190
+00:10:48,159 --> 00:10:50,459
+Ready?
+
+191
+00:10:50,494 --> 00:10:53,159
+No, we said no disturbances.
+
+192
+00:10:53,194 --> 00:10:55,576
+It's a special delivery.
+
+193
+00:10:58,162 --> 00:11:00,196
+Ta-da!
+
+194
+00:11:01,699 --> 00:11:02,867
+- Abigail!
+- Daddy, hi!
+
+195
+00:11:02,902 --> 00:11:05,489
+What in God's name are you doing here?
+
+196
+00:11:06,405 --> 00:11:08,538
+A month with barely a phone call,
+
+197
+00:11:08,572 --> 00:11:10,573
+now you scare us half to death.
+
+198
+00:11:10,608 --> 00:11:12,939
+- I'm so sorry.
+- Come sit with your bubbe.
+
+199
+00:11:12,973 --> 00:11:14,374
+You look beautiful, sweetheart.
+
+200
+00:11:14,408 --> 00:11:17,711
+- Oh, such a boy.
+- Have a seat.
+
+201
+00:11:19,081 --> 00:11:21,783
+Have you had an easy trip?
+
+202
+00:11:31,527 --> 00:11:33,661
+Joey, come here. Come here.
+
+203
+00:11:33,695 --> 00:11:35,596
+Miriam.
+
+204
+00:11:35,630 --> 00:11:37,564
+- Miriam.
+- Come here.
+
+205
+00:11:37,599 --> 00:11:39,382
+Miriam, it's okay.
+
+206
+00:11:39,934 --> 00:11:42,001
+Dr. Hogarth.
+
+207
+00:11:42,035 --> 00:11:43,669
+I'm Frank Winter.
+
+208
+00:11:43,704 --> 00:11:45,439
+Glad you made it across the pond.
+
+209
+00:11:45,473 --> 00:11:48,341
+Yes, Dr. Winter. Nice to
+put a face to the reputation.
+
+210
+00:11:48,376 --> 00:11:49,908
+Well, don't believe everything you hear.
+
+211
+00:11:49,942 --> 00:11:51,675
+Oh, no, I've read your work.
+
+212
+00:11:51,709 --> 00:11:53,109
+We're delighted to be here,
+
+213
+00:11:53,143 --> 00:11:54,978
+to be anywhere other than there.
+
+214
+00:11:55,012 --> 00:11:56,650
+I believe...
+
+215
+00:11:56,675 --> 00:11:59,416
+I believe you know Paul Crosley.
+
+216
+00:12:00,650 --> 00:12:02,316
+Dr. Hogarth.
+
+217
+00:12:02,350 --> 00:12:04,216
+What a long time it has been, Paul.
+
+218
+00:12:06,321 --> 00:12:10,124
+Ahem. Why don't we catch
+up over dinner tonight?
+
+219
+00:12:10,811 --> 00:12:12,426
+Lovely.
+
+220
+00:12:20,540 --> 00:12:22,676
+You got a call at the switchboard, Chuck.
+
+221
+00:12:22,711 --> 00:12:24,234
+Must have been a prank.
+
+222
+00:12:24,259 --> 00:12:25,816
+Guy said he was Christopher Columbus.
+
+223
+00:12:25,841 --> 00:12:27,169
+- Did he leave a message?
+- Yeah,
+
+224
+00:12:27,194 --> 00:12:29,777
+he said to tell you 400,000.
+
+225
+00:12:53,747 --> 00:12:55,249
+Is he expecting you?
+
+226
+00:12:57,796 --> 00:12:59,563
+Dr. Isaacs?
+
+227
+00:12:59,605 --> 00:13:01,342
+It won't work.
+
+228
+00:13:02,416 --> 00:13:05,784
+Thin Man. I just got a
+message from Theodore Sinclair.
+
+229
+00:13:05,809 --> 00:13:07,376
+- Who?
+- It's not gonna work.
+
+230
+00:13:07,401 --> 00:13:10,003
+Not with reactor-bred plutonium.
+
+231
+00:13:11,569 --> 00:13:13,070
+Sit down. Sit down.
+
+232
+00:13:14,438 --> 00:13:16,103
+Charlie,
+
+233
+00:13:16,138 --> 00:13:19,141
+600 scientists vetted the math.
+
+234
+00:13:19,176 --> 00:13:21,278
+Four of them have Nobel medals at home.
+
+235
+00:13:21,312 --> 00:13:24,112
+But their numbers don't
+account for reactor plutonium.
+
+236
+00:13:24,147 --> 00:13:26,550
+It's not pure. It contains Pu-240.
+
+237
+00:13:26,585 --> 00:13:28,454
+We'll survive a little cork in our wine.
+
+238
+00:13:28,488 --> 00:13:29,688
+I read a paper once.
+
+239
+00:13:29,723 --> 00:13:31,957
+It theorized that even-numbered isotopes
+
+240
+00:13:31,991 --> 00:13:34,258
+have higher spontaneous
+fission rates than odd.
+
+241
+00:13:34,293 --> 00:13:36,160
+- Whose paper?
+- So I got Sinclair
+
+242
+00:13:36,194 --> 00:13:37,995
+to test a sample from the reactor.
+
+243
+00:13:38,029 --> 00:13:40,297
+As long as it's under 300, we're fine.
+
+244
+00:13:40,332 --> 00:13:42,832
+It's 400,000.
+
+245
+00:13:50,437 --> 00:13:52,066
+It'll predetonate
+
+246
+00:13:52,703 --> 00:13:54,557
+like a bad fuse.
+
+247
+00:14:03,416 --> 00:14:05,417
+Why did you tell me?
+
+248
+00:14:06,519 --> 00:14:08,053
+Um, what?
+
+249
+00:14:10,456 --> 00:14:12,448
+Let's be honest with each other.
+
+250
+00:14:13,061 --> 00:14:15,329
+You don't really want the
+project to succeed, do you?
+
+251
+00:14:15,363 --> 00:14:17,696
+I mean, you made that pretty clear
+since the moment you got here.
+
+252
+00:14:17,730 --> 00:14:20,129
+So why did you tell me?
+
+253
+00:14:20,164 --> 00:14:21,830
+It's my job. I made a commitment.
+
+254
+00:14:21,865 --> 00:14:23,499
+There are higher commitments.
+
+255
+00:14:23,534 --> 00:14:26,201
+You could have sat back, stayed
+quiet, watched Thin Man fail.
+
+256
+00:14:26,235 --> 00:14:28,501
+And let Heisenberg beat us to the punch?
+
+257
+00:14:28,535 --> 00:14:31,735
+If we fall short with
+the combined brain power
+
+258
+00:14:31,770 --> 00:14:34,003
+of all the Allies and a
+floating line of credit
+
+259
+00:14:34,037 --> 00:14:35,971
+from the United States government,
+
+260
+00:14:36,005 --> 00:14:38,072
+isn't there a chance that Werner Heisenberg
+
+261
+00:14:38,107 --> 00:14:40,207
+-  will fall short, too?
+- Of course.
+
+262
+00:14:40,242 --> 00:14:44,580
+And if we fail and Heisenberg
+fails, it'll never get built.
+
+263
+00:14:44,614 --> 00:14:46,580
+We could all go home.
+
+264
+00:14:48,416 --> 00:14:50,396
+You could have kept quiet.
+
+265
+00:14:50,786 --> 00:14:52,720
+But instead...
+
+266
+00:14:53,989 --> 00:14:57,930
+you walked into my office
+and you sounded the alarm.
+
+267
+00:14:59,740 --> 00:15:01,207
+I thought you should know.
+
+268
+00:15:01,232 --> 00:15:03,166
+And now I do.
+
+269
+00:15:03,336 --> 00:15:05,370
+And now we'll reorganize
+
+270
+00:15:05,405 --> 00:15:08,738
+all of our resources
+toward finding a solution.
+
+271
+00:15:08,773 --> 00:15:10,743
+And when we do drop the bomb...
+
+272
+00:15:10,777 --> 00:15:14,280
+and make no mistake, we will drop it...
+
+273
+00:15:14,305 --> 00:15:16,474
+all those lives
+
+274
+00:15:16,499 --> 00:15:19,001
+will be on your head, Charlie.
+
+275
+00:15:19,186 --> 00:15:21,884
+But now I know
+
+276
+00:15:22,356 --> 00:15:25,359
+that 20 centuries of stony sleep
+
+277
+00:15:25,393 --> 00:15:28,797
+were vexed to nightmare
+by a rocking cradle.
+
+278
+00:15:28,831 --> 00:15:33,069
+And what rough beast, its
+hour come round at last,
+
+279
+00:15:33,104 --> 00:15:36,372
+slouches toward Bethlehem to be born?
+
+280
+00:15:36,406 --> 00:15:37,530
+- Sir?
+- You should have
+
+281
+00:15:37,555 --> 00:15:38,608
+kept your mouth shut,
+
+282
+00:15:38,643 --> 00:15:41,818
+you goddamn, ungrateful,
+conniving little Jew.
+
+283
+00:15:42,181 --> 00:15:44,648
+Dr. Isaacs?
+
+284
+00:15:48,254 --> 00:15:49,924
+Never mind.
+
+285
+00:15:50,523 --> 00:15:52,359
+It can wait.
+
+286
+00:15:57,896 --> 00:16:00,332
+So this is Aunt Esther's family?
+
+287
+00:16:00,367 --> 00:16:02,168
+Esther's on my side, sweetheart.
+
+288
+00:16:02,203 --> 00:16:05,306
+The Perlmans are your
+mother's cousins back in Minsk.
+
+289
+00:16:05,340 --> 00:16:07,841
+The ones with the textile factory?
+
+290
+00:16:07,876 --> 00:16:09,610
+We thought they'd all made it out,
+
+291
+00:16:09,645 --> 00:16:13,011
+but that letter arrived
+just before we left home.
+
+292
+00:16:13,046 --> 00:16:15,182
+Malka and the little girl...
+
+293
+00:16:15,217 --> 00:16:16,819
+got left behind.
+
+294
+00:16:16,854 --> 00:16:19,454
+The postmark was from June.
+
+295
+00:16:19,489 --> 00:16:23,121
+Now they say the whole
+ghetto has been liquidated.
+
+296
+00:16:23,156 --> 00:16:24,589
+What kind of word is that?
+
+297
+00:16:24,623 --> 00:16:26,392
+It's like a sale at Filene's.
+
+298
+00:16:26,426 --> 00:16:28,760
+What were they doing in
+the ghetto to begin with?
+
+299
+00:16:28,795 --> 00:16:30,461
+Aren't they very well-to-do?
+
+300
+00:16:30,496 --> 00:16:31,885
+Ah!
+
+301
+00:16:32,164 --> 00:16:34,665
+We've called half of Washington
+trying to get information.
+
+302
+00:16:34,700 --> 00:16:37,902
+You're always warning me
+about jumping to conclusions.
+
+303
+00:16:37,936 --> 00:16:40,672
+I'm sure your cousins will
+turn up sooner or later.
+
+304
+00:16:40,706 --> 00:16:43,106
+Probably in a shallow grave.
+
+305
+00:16:45,441 --> 00:16:47,312
+Little corn has big ears.
+
+306
+00:16:47,346 --> 00:16:48,880
+I hope he's listening.
+
+307
+00:16:48,915 --> 00:16:50,851
+Children need to know
+what kind of world this is
+
+308
+00:16:50,885 --> 00:16:53,021
+that treats good Jews like poultry.
+
+309
+00:16:53,055 --> 00:16:54,921
+Your father sheltered you too much.
+
+310
+00:16:54,955 --> 00:16:56,354
+Now let it go, Miriam.
+
+311
+00:16:56,389 --> 00:16:58,157
+You could never stand any ugliness.
+
+312
+00:16:58,191 --> 00:17:00,326
+Forgive me if I'm not
+interested in gloomy gossip
+
+313
+00:17:00,360 --> 00:17:01,696
+about people I've never even met.
+
+314
+00:17:01,730 --> 00:17:03,868
+You haven't seen me or Joey in six months
+
+315
+00:17:03,902 --> 00:17:05,672
+and this is how you want
+to spend our time together?
+
+316
+00:17:05,706 --> 00:17:08,473
+Now it's our fault that
+we haven't seen you?
+
+317
+00:17:19,285 --> 00:17:21,739
+Joey's going to be in a holiday pageant.
+
+318
+00:17:22,189 --> 00:17:25,347
+He's playing the little lamb in the manger.
+
+319
+00:17:27,091 --> 00:17:29,428
+He's Jewish, Abigail.
+
+320
+00:17:29,462 --> 00:17:31,298
+Well, so was Jesus.
+
+321
+00:17:31,332 --> 00:17:33,699
+And I know you won't believe it, Daddy,
+
+322
+00:17:33,733 --> 00:17:36,436
+but Charlie's been an
+absolute star at work.
+
+323
+00:17:36,471 --> 00:17:38,606
+And what is his work exactly?
+
+324
+00:17:40,142 --> 00:17:41,743
+You know I can't talk about it.
+
+325
+00:17:41,778 --> 00:17:43,680
+But a lot of very smart
+and important people
+
+326
+00:17:43,716 --> 00:17:46,754
+seem to think that Charlie
+is going to help end the war.
+
+327
+00:17:47,956 --> 00:17:50,992
+Maybe Charlie can help us.
+
+328
+00:17:52,495 --> 00:17:55,183
+He's got such an important government job,
+
+329
+00:17:55,601 --> 00:17:59,735
+maybe he can find out
+where they've sent Malka.
+
+330
+00:17:59,770 --> 00:18:02,807
+Arrange some kind of special
+visa, I don't know what.
+
+331
+00:18:02,842 --> 00:18:04,746
+- No.
+- We'll pay whatever it costs.
+
+332
+00:18:04,780 --> 00:18:08,617
+My love, my love, there is
+nothing that Charlie can do.
+
+333
+00:18:15,028 --> 00:18:18,063
+We've got 18 minutes till Albuquerque.
+
+334
+00:18:18,098 --> 00:18:19,900
+What, you're getting off?
+
+335
+00:18:21,968 --> 00:18:25,005
+We have a suite at the
+Huntington in Pasadena.
+
+336
+00:18:25,702 --> 00:18:27,142
+Daddy...
+
+337
+00:18:28,811 --> 00:18:31,542
+I don't know. If... if
+they even knew I was here...
+
+338
+00:18:32,016 --> 00:18:35,317
+Open up, please.
+
+339
+00:18:40,756 --> 00:18:43,859
+Mrs. Isaacs, would you please come with me?
+
+340
+00:18:45,162 --> 00:18:46,864
+Now.
+
+341
+00:18:51,326 --> 00:18:54,164
+Mrs. Isaacs, this is a serious infraction.
+
+342
+00:18:54,199 --> 00:18:56,324
+I would think a switchboard operator
+
+343
+00:18:56,370 --> 00:18:58,471
+would know security
+regulations chapter and verse.
+
+344
+00:18:58,506 --> 00:18:59,971
+Absolutely, sir. I do.
+
+345
+00:19:00,006 --> 00:19:01,605
+Well, then you see my confusion.
+
+346
+00:19:01,639 --> 00:19:04,074
+A day pass to Santa Fe is
+not a ticket to California.
+
+347
+00:19:04,108 --> 00:19:06,542
+I wasn't going to California,
+sir. Just to Albuquerque.
+
+348
+00:19:06,576 --> 00:19:08,300
+Mrs. Isaacs,
+
+349
+00:19:09,212 --> 00:19:11,346
+if you and your husband are
+having a marital dispute...
+
+350
+00:19:11,380 --> 00:19:13,380
+No, it's nothing like that, sir.
+
+351
+00:19:13,415 --> 00:19:15,214
+Colonel Cox...
+
+352
+00:19:17,449 --> 00:19:19,984
+There has been...
+
+353
+00:19:20,019 --> 00:19:22,186
+there has been a terrible tragedy.
+
+354
+00:19:25,023 --> 00:19:27,750
+I don't know if you heard
+what happened in Minsk.
+
+355
+00:19:28,193 --> 00:19:29,661
+I have family there
+
+356
+00:19:29,686 --> 00:19:32,422
+and my cousin Malka...
+
+357
+00:19:32,537 --> 00:19:35,508
+well, she's really more
+like a sister to me.
+
+358
+00:19:35,972 --> 00:19:38,240
+Now, now.
+
+359
+00:19:39,579 --> 00:19:40,924
+Oh.
+
+360
+00:19:47,488 --> 00:19:49,955
+I know it was wrong,
+sneaking off like that,
+
+361
+00:19:49,989 --> 00:19:52,190
+but I was trying to help my
+family through a difficult time
+
+362
+00:19:52,224 --> 00:19:53,891
+and I'm prepared to accept my punishment.
+
+363
+00:19:53,926 --> 00:19:56,357
+- There have to be consequences.
+- Oh, poor Malka.
+
+364
+00:19:56,391 --> 00:19:58,522
+I used to send her
+hand-me-downs every year.
+
+365
+00:19:58,557 --> 00:20:02,057
+I guess there's no need for those
+dresses wherever the Nazis have taken her.
+
+366
+00:20:02,092 --> 00:20:03,793
+It's just so hard not knowing.
+
+367
+00:20:03,827 --> 00:20:06,816
+- If only we had some answers.
+- All right. All right, listen.
+
+368
+00:20:07,187 --> 00:20:08,855
+Given the circumstances,
+
+369
+00:20:08,880 --> 00:20:11,349
+I think we can let bygones be bygones.
+
+370
+00:20:16,971 --> 00:20:19,007
+Go home and get some rest, Mrs. Isaacs.
+
+371
+00:20:21,112 --> 00:20:23,047
+Thank you, sir.
+
+372
+00:20:32,818 --> 00:20:34,655
+Three-martini lunch?
+
+373
+00:20:34,689 --> 00:20:36,824
+Principal wants to see you in his office.
+
+374
+00:20:50,837 --> 00:20:52,437
+The St. Louis Kid.
+
+375
+00:20:55,943 --> 00:20:58,878
+We missed you today at
+lunch with the Brits.
+
+376
+00:20:58,912 --> 00:21:00,144
+Lunatics.
+
+377
+00:21:03,583 --> 00:21:05,047
+You all right?
+
+378
+00:21:05,686 --> 00:21:08,353
+You look like you just saw
+the Ghost of Christmas Future.
+
+379
+00:21:09,689 --> 00:21:11,524
+I think I'm coming down with something.
+
+380
+00:21:11,558 --> 00:21:15,192
+I used to get the flu every winter recess.
+
+381
+00:21:16,728 --> 00:21:18,146
+Here.
+
+382
+00:21:19,429 --> 00:21:21,064
+Kills the germs.
+
+383
+00:21:22,399 --> 00:21:23,966
+You wanted to see me, sir?
+
+384
+00:21:27,270 --> 00:21:30,022
+You know what I do for a living, Charlie?
+
+385
+00:21:30,540 --> 00:21:32,106
+I'm in upper management.
+
+386
+00:21:32,141 --> 00:21:35,610
+I spent 15 years at a university
+
+387
+00:21:35,644 --> 00:21:37,411
+dreaming about invisible particles,
+
+388
+00:21:37,445 --> 00:21:39,342
+and suddenly they handed me the keys
+
+389
+00:21:39,653 --> 00:21:41,187
+to a world war.
+
+390
+00:21:43,049 --> 00:21:44,547
+Explain that.
+
+391
+00:21:45,722 --> 00:21:47,755
+There's gonna be some changes around here.
+
+392
+00:21:49,849 --> 00:21:51,717
+'Cause the Brits are joining Thin Man?
+
+393
+00:21:51,751 --> 00:21:55,187
+No, this is bigger than a bunch
+of shell-shocked theoretical men.
+
+394
+00:21:55,221 --> 00:21:56,888
+Now that the reactor's up and running,
+
+395
+00:21:56,922 --> 00:21:58,925
+I'm gonna be back and
+forth between Chicago,
+
+396
+00:21:58,959 --> 00:22:01,598
+DC, God knows where else.
+
+397
+00:22:01,632 --> 00:22:04,967
+We're through designing.
+It's time to build.
+
+398
+00:22:05,001 --> 00:22:06,941
+The design is locked?
+
+399
+00:22:07,027 --> 00:22:08,872
+Now, I know that you've
+had your differences
+
+400
+00:22:08,906 --> 00:22:11,640
+with some of the rest of the
+group, Lancefield in particular.
+
+401
+00:22:11,674 --> 00:22:13,308
+That's gonna have to change.
+
+402
+00:22:13,342 --> 00:22:15,312
+I'm appointing a number two
+
+403
+00:22:15,346 --> 00:22:18,049
+to mind the shop, get the Brits
+up to speed while I'm away.
+
+404
+00:22:18,083 --> 00:22:20,219
+Now I mentored Tom Lancefield in Chicago
+
+405
+00:22:20,253 --> 00:22:22,723
+and have watched him become a
+fine physicist in his own right.
+
+406
+00:22:22,757 --> 00:22:23,868
+He's the natural choice.
+
+407
+00:22:23,893 --> 00:22:25,651
+But he's not my choice, Charlie.
+
+408
+00:22:26,767 --> 00:22:28,366
+You are.
+
+409
+00:22:29,981 --> 00:22:31,442
+Sir?
+
+410
+00:22:32,434 --> 00:22:34,570
+Promise me you're gonna
+work on your people skills
+
+411
+00:22:34,604 --> 00:22:36,661
+or you'll wind up like Frank Winter.
+
+412
+00:22:37,366 --> 00:22:40,179
+Don't get your hopes up. Title
+doesn't come with a raise.
+
+413
+00:22:40,380 --> 00:22:42,745
+I'm not sure what to say.
+
+414
+00:22:42,779 --> 00:22:44,978
+Well, say that you won't make me look bad
+
+415
+00:22:45,013 --> 00:22:47,116
+in front of the President
+of the United States.
+
+416
+00:22:47,150 --> 00:22:49,684
+You have your hand on the rudder.
+
+417
+00:22:49,718 --> 00:22:52,385
+A staff of 600 at your beck and call.
+
+418
+00:22:56,951 --> 00:22:58,984
+You just got a promotion.
+
+419
+00:22:59,019 --> 00:23:01,020
+It wouldn't kill you to smile.
+
+420
+00:23:06,293 --> 00:23:07,794
+Can I think about it?
+
+421
+00:23:09,736 --> 00:23:12,202
+I'm not sure I'm management material.
+
+422
+00:23:16,793 --> 00:23:21,098
+You know, I'm getting a little
+tired of this waffling, Charlie.
+
+423
+00:23:21,219 --> 00:23:24,277
+Desperate times require men of conviction.
+
+424
+00:23:25,348 --> 00:23:28,050
+You have till tomorrow to
+decide if you're one of them.
+
+425
+00:23:31,788 --> 00:23:35,226
+They say he was antisocial
+
+426
+00:23:35,260 --> 00:23:36,694
+and knew nothing about people.
+
+427
+00:23:36,729 --> 00:23:38,362
+Typical of a Cambridge man.
+
+428
+00:23:38,397 --> 00:23:39,930
+He did die a virgin, after all.
+
+429
+00:23:42,366 --> 00:23:45,269
+But I've always believed Isaac Newton
+
+430
+00:23:45,303 --> 00:23:47,638
+to be a humanist in his way.
+
+431
+00:23:47,672 --> 00:23:50,744
+The law of universal
+gravitation applies to men
+
+432
+00:23:50,779 --> 00:23:52,445
+just as to objects.
+
+433
+00:23:52,480 --> 00:23:53,780
+Consider the two of us.
+
+434
+00:23:53,814 --> 00:23:56,415
+Oh, yes. Quite a coincidence.
+
+435
+00:23:56,449 --> 00:23:58,551
+Mmm, oh, no, Paul.
+
+436
+00:23:58,585 --> 00:24:01,555
+You and I after so many years
+have been drawn together once more
+
+437
+00:24:01,590 --> 00:24:03,791
+by the cosmos for a reason.
+
+438
+00:24:03,825 --> 00:24:08,393
+Dr. Akley plied me with an 1896 Margaux
+
+439
+00:24:08,427 --> 00:24:11,594
+which he'd been holding in his
+collection since before the war.
+
+440
+00:24:11,629 --> 00:24:13,863
+But then, that's mere table wine
+
+441
+00:24:13,897 --> 00:24:16,554
+in Lord Crosley's cellar, isn't it?
+
+442
+00:24:16,810 --> 00:24:18,509
+Lord Crosley?
+
+443
+00:24:18,965 --> 00:24:21,301
+He didn't tell you?
+
+444
+00:24:23,070 --> 00:24:26,437
+George III deeded his great grandfather
+
+445
+00:24:26,471 --> 00:24:29,808
+more land in Mayfair than
+the Duke of Westminster.
+
+446
+00:24:29,843 --> 00:24:31,143
+A bit of an exaggeration.
+
+447
+00:24:31,178 --> 00:24:33,878
+Oh, please, a few well-placed fire bombs
+
+448
+00:24:33,912 --> 00:24:36,717
+and your man here is sitting
+on the throne, Dr. Winter.
+
+449
+00:24:36,752 --> 00:24:39,156
+I'll make sure and curtsey.
+
+450
+00:24:40,723 --> 00:24:42,458
+Ah.
+
+451
+00:24:42,492 --> 00:24:44,726
+Bring us the sweetest,
+
+452
+00:24:44,761 --> 00:24:47,915
+wettest bottle you have, love.
+
+453
+00:24:48,362 --> 00:24:50,330
+And let me know if you'd like me
+
+454
+00:24:50,364 --> 00:24:52,914
+to go down in your cellar to pick it out.
+
+455
+00:24:53,201 --> 00:24:55,168
+We have a very limited list, sir.
+
+456
+00:24:55,200 --> 00:24:57,300
+But I'll bring you the check.
+
+457
+00:24:57,334 --> 00:24:58,835
+Put it on Paul's tab.
+
+458
+00:25:00,806 --> 00:25:04,304
+Paul joined you at the
+National Physical Lab
+
+459
+00:25:04,338 --> 00:25:06,307
+after Oxford, correct?
+
+460
+00:25:06,341 --> 00:25:07,575
+First in his class.
+
+461
+00:25:07,609 --> 00:25:09,675
+How could I have turned him down?
+
+462
+00:25:09,709 --> 00:25:14,082
+His work was excellent, but his company
+
+463
+00:25:14,116 --> 00:25:16,417
+was beyond compare.
+
+464
+00:25:16,451 --> 00:25:19,319
+He used to regale my
+wife and family with tales
+
+465
+00:25:19,353 --> 00:25:22,592
+about, what was it, Woburn Abbey?
+
+466
+00:25:24,227 --> 00:25:27,028
+You recall all those
+Christmases you spent with us?
+
+467
+00:25:27,063 --> 00:25:30,199
+Still cleaning the foie
+gras out of my arteries.
+
+468
+00:25:30,234 --> 00:25:32,232
+- How is Mrs. Hogarth?
+- Dead.
+
+469
+00:25:34,737 --> 00:25:36,105
+My condolences.
+
+470
+00:25:36,140 --> 00:25:39,110
+There was a time when I hoped
+
+471
+00:25:39,144 --> 00:25:41,178
+Crosley would take a shine to my daughter.
+
+472
+00:25:41,212 --> 00:25:43,581
+Do you think maybe we should
+call it a night, gentlemen?
+
+473
+00:25:43,616 --> 00:25:45,284
+I, um... we have an early start.
+
+474
+00:25:45,318 --> 00:25:47,884
+Uh, a night cap.
+
+475
+00:25:48,523 --> 00:25:51,467
+There are a few things we
+should discuss with Dr. Hogarth.
+
+476
+00:25:51,492 --> 00:25:53,763
+Perhaps Lord Crosley's right.
+
+477
+00:25:53,797 --> 00:25:56,532
+I have an 8:00 meeting with
+Dr. Akley I should prepare for.
+
+478
+00:25:56,567 --> 00:25:57,766
+One drink.
+
+479
+00:26:03,241 --> 00:26:04,935
+Dr. Hogarth,
+
+480
+00:26:05,976 --> 00:26:09,010
+I'd like to talk to you
+about your work on implosion.
+
+481
+00:26:12,880 --> 00:26:16,380
+I enjoyed getting to know
+the Thin Man team today.
+
+482
+00:26:17,031 --> 00:26:19,449
+But it's been a long winter
+
+483
+00:26:19,483 --> 00:26:21,750
+for a lonely widower in Europe.
+
+484
+00:26:22,777 --> 00:26:24,375
+And there's one comfort
+
+485
+00:26:24,456 --> 00:26:27,090
+Akley declined to point me towards.
+
+486
+00:26:38,176 --> 00:26:42,313
+Sit back and relax. There
+are no wrong answers.
+
+487
+00:26:55,715 --> 00:26:57,617
+Stanley Church.
+
+488
+00:26:58,545 --> 00:27:00,213
+Do I know you?
+
+489
+00:27:00,489 --> 00:27:02,689
+You interviewed a woman
+maybe nine months back.
+
+490
+00:27:02,724 --> 00:27:04,857
+Liza Winter. Denied her clearance.
+
+491
+00:27:04,892 --> 00:27:07,627
+I'm prohibited from
+discussing security procedures.
+
+492
+00:27:07,662 --> 00:27:09,062
+Yeah, I figured you'd say that.
+
+493
+00:27:09,097 --> 00:27:10,197
+Look, I wouldn't bother you,
+
+494
+00:27:10,231 --> 00:27:12,300
+but this is a good woman
+with something to offer.
+
+495
+00:27:12,334 --> 00:27:15,146
+I think you've made a
+recommendation in error.
+
+496
+00:27:15,171 --> 00:27:17,406
+I don't make recommendations.
+
+497
+00:27:17,507 --> 00:27:19,540
+I interpret physiological data
+
+498
+00:27:19,575 --> 00:27:21,541
+and pass the findings on to my superiors.
+
+499
+00:27:21,576 --> 00:27:23,941
+You've never passed along a false positive?
+
+500
+00:27:23,976 --> 00:27:25,942
+If you'll excuse me, I have to get home.
+
+501
+00:27:25,976 --> 00:27:27,313
+What for?
+
+502
+00:27:27,523 --> 00:27:30,923
+Not like you have a
+wife waiting up for you.
+
+503
+00:27:31,146 --> 00:27:32,695
+I'm sorry?
+
+504
+00:27:33,114 --> 00:27:35,146
+We have an acquaintance in common.
+
+505
+00:27:35,179 --> 00:27:39,181
+Corporal Hayden from the ordnance division.
+
+506
+00:27:40,617 --> 00:27:42,217
+He mentioned you a while back.
+
+507
+00:27:42,251 --> 00:27:44,274
+Thought we'd have a lot to talk about.
+
+508
+00:27:44,651 --> 00:27:47,786
+A couple of middle-aged bachelors.
+
+509
+00:27:47,820 --> 00:27:50,321
+I'm not sure of what you're implying.
+
+510
+00:27:50,355 --> 00:27:53,982
+I think we're all entitled
+to a secret or two, don't you?
+
+511
+00:27:54,623 --> 00:27:57,394
+Now listen, you do me a favor.
+
+512
+00:27:57,428 --> 00:27:59,562
+Pull Liza Winter's file,
+
+513
+00:27:59,596 --> 00:28:02,031
+give that physiological data a second look.
+
+514
+00:28:02,065 --> 00:28:03,867
+I don't know what you
+think she lied about...
+
+515
+00:28:03,901 --> 00:28:06,904
+She registered a fail on question 17.
+
+516
+00:28:06,939 --> 00:28:08,974
+What's question 17?
+
+517
+00:28:09,008 --> 00:28:12,213
+Have you ever received treatment
+or been institutionalized
+
+518
+00:28:12,248 --> 00:28:14,350
+due to a disorder of the mind?
+
+519
+00:28:34,033 --> 00:28:35,835
+How are your mother and
+
+520
+00:28:35,869 --> 00:28:38,574
+his highness the hat king?
+
+521
+00:28:40,211 --> 00:28:42,973
+Still trying to shake
+me from the family tree?
+
+522
+00:28:43,384 --> 00:28:45,072
+They're good.
+
+523
+00:28:47,929 --> 00:28:49,963
+How was work?
+
+524
+00:28:51,811 --> 00:28:53,581
+Good.
+
+525
+00:29:01,213 --> 00:29:04,284
+Be 1960 before these noodles cook.
+
+526
+00:29:13,126 --> 00:29:15,361
+You're a nasty Yankee whore, aren't you?
+
+527
+00:29:15,395 --> 00:29:18,670
+Sounds like he'll make a
+great addition to the team.
+
+528
+00:29:18,695 --> 00:29:21,898
+Better have a suitcase full of
+super-compression calculations for us.
+
+529
+00:29:21,923 --> 00:29:24,226
+Well, if he's been working
+on implosion for 18 months,
+
+530
+00:29:24,251 --> 00:29:26,370
+I bet he's got designs
+for a working model by now.
+
+531
+00:29:27,496 --> 00:29:29,436
+- All right, that's it. I've heard enough.
+
+532
+00:29:29,521 --> 00:29:32,581
+You let me know when Big Ben strikes 12.
+
+533
+00:29:35,052 --> 00:29:38,054
+Americans. So delicate.
+
+534
+00:29:43,467 --> 00:29:45,368
+Pussy got your tongue?
+
+535
+00:29:49,184 --> 00:29:50,921
+Bring me another.
+
+536
+00:29:50,946 --> 00:29:53,349
+I'm having such a delightful time
+
+537
+00:29:53,374 --> 00:29:55,208
+with the implosion group tonight.
+
+538
+00:29:55,233 --> 00:29:58,434
+And Lord Crosley will
+happily pay, won't you?
+
+539
+00:30:09,191 --> 00:30:12,660
+Not exactly Suleiman's harem, is it?
+
+540
+00:30:13,796 --> 00:30:16,534
+This is the entire menu?
+
+541
+00:30:16,975 --> 00:30:19,975
+What a wholesome and
+unsullied creature you are.
+
+542
+00:30:20,000 --> 00:30:21,063
+Thank you.
+
+543
+00:30:21,088 --> 00:30:23,597
+Let us correct that immediately.
+
+544
+00:30:25,334 --> 00:30:26,932
+Isn't that Fritz's lady friend?
+
+545
+00:30:26,967 --> 00:30:28,523
+Jeannie.
+
+546
+00:30:29,100 --> 00:30:30,834
+Poor Fritz.
+
+547
+00:30:33,237 --> 00:30:34,770
+I'm going.
+
+548
+00:30:36,905 --> 00:30:39,041
+Perhaps the three of us
+
+549
+00:30:39,075 --> 00:30:40,610
+could get along together.
+
+550
+00:30:40,645 --> 00:30:42,879
+Experience...
+
+551
+00:30:42,913 --> 00:30:44,479
+Not her.
+
+552
+00:30:44,514 --> 00:30:47,448
+- You can't have Jeannie.
+- I'm working, Crosley.
+
+553
+00:30:47,482 --> 00:30:50,951
+In your presence, Paul, I believe
+I can have anything I want.
+
+554
+00:30:52,687 --> 00:30:54,655
+Not her.
+
+555
+00:30:54,689 --> 00:30:57,859
+Here, Jeannie, take this,
+please. Take the night off.
+
+556
+00:30:57,893 --> 00:30:59,961
+The slave would do well
+not to poke at the lion.
+
+557
+00:31:04,769 --> 00:31:06,102
+Oh!
+
+558
+00:31:09,541 --> 00:31:12,075
+She named him Henry, by the way.
+
+559
+00:31:12,109 --> 00:31:15,542
+Wanted your son to have a decent
+name before she gave him away.
+
+560
+00:31:15,577 --> 00:31:18,111
+Little Henry never did
+have a title, did he?
+
+561
+00:31:18,146 --> 00:31:20,646
+What was your father's again, Paul?
+
+562
+00:31:20,680 --> 00:31:23,548
+Best ironmonger in Liverpool?
+
+563
+00:31:23,582 --> 00:31:27,017
+Does that pass to a child out of wedlock?
+
+564
+00:31:28,554 --> 00:31:30,989
+Lucy thought you'd return eventually.
+
+565
+00:31:31,023 --> 00:31:35,325
+But I should have known you'd
+wash up on American shores.
+
+566
+00:31:35,359 --> 00:31:37,227
+What's the problem here?
+
+567
+00:31:37,262 --> 00:31:40,702
+Your man is a confidence artist, Frank.
+
+568
+00:31:40,736 --> 00:31:42,604
+He conned my daughter
+
+569
+00:31:42,638 --> 00:31:45,239
+into believing he was a
+thousand things he isn't,
+
+570
+00:31:45,274 --> 00:31:47,942
+most importantly that
+he was the kind of man
+
+571
+00:31:47,976 --> 00:31:51,707
+who doesn't flee England
+when he fathers a child.
+
+572
+00:31:54,043 --> 00:31:56,345
+All right, night's over.
+
+573
+00:31:56,380 --> 00:31:58,645
+You can both settle this when you're sober.
+
+574
+00:31:58,679 --> 00:32:00,948
+No, no, no. This is just fine.
+
+575
+00:32:00,982 --> 00:32:03,351
+Oh, and by the way, Dr. Winter,
+
+576
+00:32:03,385 --> 00:32:05,951
+no one from the delegation
+is joining your group.
+
+577
+00:32:05,985 --> 00:32:07,453
+Not one of the men.
+
+578
+00:32:07,487 --> 00:32:09,376
+Dr. Hogarth, please.
+
+579
+00:32:10,092 --> 00:32:12,224
+Whatever my mistakes, you
+lived through the bombings.
+
+580
+00:32:12,259 --> 00:32:14,658
+You know implosion is the way
+forward. You have to help us.
+
+581
+00:32:14,692 --> 00:32:15,806
+- No, I do not.
+- You would
+
+582
+00:32:15,831 --> 00:32:16,961
+let Hitler win this war...
+
+583
+00:32:16,995 --> 00:32:21,398
+No, I do not know implosion
+is the way forward.
+
+584
+00:32:21,433 --> 00:32:24,267
+It's a fantasy. A dream.
+
+585
+00:32:24,302 --> 00:32:27,974
+Not with super-compression
+and a solid sphere.
+
+586
+00:32:28,008 --> 00:32:30,743
+We are just months away
+from a fully functioning...
+
+587
+00:32:30,777 --> 00:32:33,647
+Theory which we've already disproved.
+
+588
+00:32:34,937 --> 00:32:37,327
+If you spent more time working,
+less time groping army girls...
+
+589
+00:32:38,721 --> 00:32:41,424
+There's that American hubris.
+
+590
+00:32:41,459 --> 00:32:44,502
+My Christmas gift to you...
+I'll send over our research.
+
+591
+00:32:44,527 --> 00:32:46,561
+When you examine our papers,
+
+592
+00:32:46,595 --> 00:32:48,898
+you'll find that shockwave control
+
+593
+00:32:48,932 --> 00:32:51,169
+is mathematically impossible.
+
+594
+00:32:51,203 --> 00:32:54,238
+I imagine you're already
+fighting with propagation.
+
+595
+00:32:54,273 --> 00:32:57,179
+Soon you'll see that chaos is untamable.
+
+596
+00:32:57,213 --> 00:33:00,047
+Implosion is like a man.
+
+597
+00:33:00,081 --> 00:33:02,182
+The closer you look,
+the more you'll realize
+
+598
+00:33:02,216 --> 00:33:03,918
+just how little you know about him.
+
+599
+00:33:03,953 --> 00:33:08,458
+Even if your group weren't full
+of misfits and liars, Dr. Winter,
+
+600
+00:33:08,492 --> 00:33:12,028
+a thousand geniuses
+couldn't master implosion
+
+601
+00:33:12,062 --> 00:33:13,896
+in a thousand millennia.
+
+602
+00:33:17,199 --> 00:33:19,034
+Get this limey prick out of here.
+
+603
+00:33:51,929 --> 00:33:54,463
+So, you traded away the afternoon shift?
+
+604
+00:33:54,488 --> 00:33:56,001
+- Mmm.
+- I thought you and Frenchy
+
+605
+00:33:56,026 --> 00:33:57,586
+were attached at the hip.
+
+606
+00:33:59,394 --> 00:34:01,161
+I prefer to spend afternoons with my son.
+
+607
+00:34:01,195 --> 00:34:05,767
+Well, she asked me to
+give this back to you.
+
+608
+00:34:47,209 --> 00:34:49,441
+Dr. Hogarth is right about me.
+
+609
+00:34:54,747 --> 00:34:56,779
+None of that's my business.
+
+610
+00:35:02,683 --> 00:35:04,910
+Doesn't mean he's right about implosion.
+
+611
+00:35:05,585 --> 00:35:07,652
+Just because they couldn't do it, Frank,
+
+612
+00:35:07,686 --> 00:35:09,453
+doesn't mean you can't.
+
+613
+00:35:09,487 --> 00:35:12,920
+The problem with us Brits, we
+are too beholden to our past.
+
+614
+00:35:12,955 --> 00:35:16,189
+You Americans, you barely have
+one, so it can't hold you back.
+
+615
+00:35:16,224 --> 00:35:19,863
+There's a reason you invented
+things like motor cars and airplanes.
+
+616
+00:35:21,666 --> 00:35:23,631
+Hubris cuts both ways, Frank.
+
+617
+00:35:24,768 --> 00:35:26,937
+But it doesn't control shockwaves.
+
+618
+00:35:26,971 --> 00:35:29,774
+Hogarth sent over his papers this morning.
+
+619
+00:35:34,350 --> 00:35:38,788
+You know, there's a boy
+out there somewhere and...
+
+620
+00:35:41,691 --> 00:35:43,158
+I'm a part of him.
+
+621
+00:35:43,192 --> 00:35:45,156
+Or he's a part of me.
+
+622
+00:35:47,726 --> 00:35:50,894
+I thought I had spent the last two years
+
+623
+00:35:50,929 --> 00:35:53,695
+trying to pretend he didn't exist.
+
+624
+00:35:55,163 --> 00:35:57,900
+Maybe... maybe...
+
+625
+00:35:57,934 --> 00:35:59,804
+it's knowing that he does exist
+
+626
+00:35:59,839 --> 00:36:03,343
+is what brought me here in the first place.
+
+627
+00:36:05,446 --> 00:36:08,080
+I know I'll probably never meet him and...
+
+628
+00:36:08,114 --> 00:36:10,614
+well, if I did, he'd probably hate me.
+
+629
+00:36:10,648 --> 00:36:12,351
+But...
+
+630
+00:36:14,288 --> 00:36:16,754
+I don't know.
+
+631
+00:36:16,788 --> 00:36:20,789
+I suppose I still want to make him proud.
+
+632
+00:36:57,836 --> 00:36:59,102
+Oh.
+
+633
+00:36:59,136 --> 00:37:00,601
+Ma'am, I'm sorry to bother you.
+
+634
+00:37:00,636 --> 00:37:02,102
+So much for bygones.
+
+635
+00:37:02,137 --> 00:37:04,172
+If you're here to arrest me,
+I'm going to have to resist.
+
+636
+00:37:04,206 --> 00:37:05,775
+My son's asleep and I don't have a sitter.
+
+637
+00:37:05,809 --> 00:37:08,113
+No, ma'am. The colonel
+doesn't know I'm here.
+
+638
+00:37:08,148 --> 00:37:09,882
+May I come in?
+
+639
+00:37:21,633 --> 00:37:23,400
+How can I help you, Private?
+
+640
+00:37:23,435 --> 00:37:26,070
+Cole Dunlavey.
+
+641
+00:37:28,274 --> 00:37:30,646
+I knew a Jewish fella back in Iowa.
+
+642
+00:37:30,681 --> 00:37:34,551
+Mr. Kripke. Used to hire me to
+paint his fence every summer.
+
+643
+00:37:34,586 --> 00:37:38,190
+Paid me $10 just for a day's work.
+
+644
+00:37:38,224 --> 00:37:41,563
+When my dad got sick, Mr. Kripke
+helped us get the crop in the silo.
+
+645
+00:37:41,597 --> 00:37:44,930
+Well, he sounds like a lovely man.
+
+646
+00:37:46,764 --> 00:37:50,268
+I don't like to eavesdrop, but I heard
+your conversation with the colonel.
+
+647
+00:37:50,303 --> 00:37:53,037
+I know how important family
+is in the Hebrew faith.
+
+648
+00:37:53,072 --> 00:37:54,705
+Mmm.
+
+649
+00:37:54,740 --> 00:37:57,311
+I file the intelligence reports.
+
+650
+00:37:58,175 --> 00:38:01,809
+This is everything we have on the
+situation where your people are.
+
+651
+00:38:01,843 --> 00:38:04,544
+You said that not knowing
+was the hardest part.
+
+652
+00:38:06,214 --> 00:38:08,016
+Mmm.
+
+653
+00:38:12,653 --> 00:38:16,390
+The Bible says that the Lord
+rained fire on Sodom and Gomorrah.
+
+654
+00:38:18,224 --> 00:38:20,458
+I don't know what He's
+gonna rain on Berlin.
+
+655
+00:38:33,809 --> 00:38:36,478
+- Hey.
+- Hey.
+
+656
+00:38:36,512 --> 00:38:38,946
+Are you putting an addition on the house?
+
+657
+00:38:38,980 --> 00:38:41,345
+Frank had them drawn up last year
+
+658
+00:38:41,379 --> 00:38:43,244
+as a Christmas gift.
+
+659
+00:38:43,681 --> 00:38:46,051
+Plans for a greenhouse back in Princeton.
+
+660
+00:38:46,086 --> 00:38:49,154
+A woman must have money
+and a room of her own.
+
+661
+00:38:49,189 --> 00:38:51,522
+I have my shack.
+
+662
+00:38:51,556 --> 00:38:54,393
+But I've given up on the paycheck.
+
+663
+00:38:54,427 --> 00:38:56,229
+Frank's not here.
+
+664
+00:38:56,263 --> 00:38:58,596
+Yeah, I just left him at the office.
+
+665
+00:38:58,631 --> 00:39:00,161
+But about that paycheck,
+
+666
+00:39:01,135 --> 00:39:03,740
+you can pick up your
+security badge in the morning.
+
+667
+00:39:03,774 --> 00:39:05,576
+They'll find you a job.
+
+668
+00:39:05,611 --> 00:39:08,780
+The whole thing was
+just a misunderstanding.
+
+669
+00:39:10,150 --> 00:39:11,750
+- Really?
+- Yeah.
+
+670
+00:39:11,785 --> 00:39:14,820
+It turns out the polygraph
+machine was on the fritz that day.
+
+671
+00:39:15,393 --> 00:39:18,042
+You didn't have to do that, Glen.
+
+672
+00:39:19,789 --> 00:39:21,823
+In fact, I...
+
+673
+00:39:21,857 --> 00:39:23,858
+I asked you not to.
+
+674
+00:39:25,493 --> 00:39:28,029
+Did they show you my file?
+
+675
+00:39:29,098 --> 00:39:30,864
+It's none of my business.
+
+676
+00:39:32,832 --> 00:39:34,317
+I see.
+
+677
+00:39:35,389 --> 00:39:37,704
+You're all right now.
+
+678
+00:39:38,840 --> 00:39:40,542
+Aren't you?
+
+679
+00:39:43,316 --> 00:39:46,620
+If I had known, I would never
+have brought Frank into this.
+
+680
+00:39:46,654 --> 00:39:49,022
+I never would have dragged
+you to the middle of nowhere.
+
+681
+00:39:49,056 --> 00:39:51,343
+Yes, you would have.
+
+682
+00:39:51,993 --> 00:39:54,629
+Frank knew and here we are.
+
+683
+00:39:54,663 --> 00:39:57,131
+But I'll take the job. Thank you.
+
+684
+00:39:57,166 --> 00:39:58,853
+Because...
+
+685
+00:40:00,303 --> 00:40:02,504
+here we are.
+
+686
+00:40:19,256 --> 00:40:21,558
+Did you eat already?
+
+687
+00:40:24,229 --> 00:40:26,229
+My cousins are dead.
+
+688
+00:40:26,263 --> 00:40:28,397
+What?
+
+689
+00:40:30,668 --> 00:40:33,207
+The Perlmans on my mother's side.
+
+690
+00:40:33,940 --> 00:40:35,776
+Jesus.
+
+691
+00:40:36,276 --> 00:40:38,277
+I'm sorry.
+
+692
+00:40:39,882 --> 00:40:41,752
+Were you close?
+
+693
+00:40:43,487 --> 00:40:45,386
+No, I never met them.
+
+694
+00:40:45,420 --> 00:40:47,020
+If I had seen them on the street,
+
+695
+00:40:47,055 --> 00:40:49,091
+I would have walked right past.
+
+696
+00:40:52,630 --> 00:40:54,430
+Were they in an accident or...
+
+697
+00:40:54,464 --> 00:40:57,601
+No, they... they were in Europe.
+
+698
+00:40:59,755 --> 00:41:02,857
+I... I don't see how
+they could have escaped
+
+699
+00:41:03,243 --> 00:41:04,977
+with a toddler.
+
+700
+00:41:10,685 --> 00:41:13,189
+Did you know that in Minsk
+
+701
+00:41:13,223 --> 00:41:15,292
+the Germans allot each Jew
+
+702
+00:41:15,326 --> 00:41:18,754
+one and a half square
+meters of living space?
+
+703
+00:41:19,530 --> 00:41:21,298
+The adults, I mean.
+
+704
+00:41:21,332 --> 00:41:24,300
+The children were marched into the forest
+
+705
+00:41:24,335 --> 00:41:26,235
+and buried alive.
+
+706
+00:41:27,870 --> 00:41:29,736
+Where'd you hear that?
+
+707
+00:41:32,639 --> 00:41:35,039
+There are more than a
+million people missing.
+
+708
+00:41:37,508 --> 00:41:40,506
+Like they just vanished
+off the face of the earth.
+
+709
+00:41:40,540 --> 00:41:43,510
+I don't even know how to
+think about a number like that.
+
+710
+00:41:46,282 --> 00:41:49,016
+You shouldn't be thinking
+about that stuff, Abby.
+
+711
+00:41:49,050 --> 00:41:50,917
+Why?
+
+712
+00:41:50,951 --> 00:41:53,118
+Because I'm too fragile
+to stomach the truth?
+
+713
+00:41:53,152 --> 00:41:56,692
+No, because there's no
+point getting worked up
+
+714
+00:41:56,726 --> 00:41:59,061
+when there's nothing you can do about it.
+
+715
+00:42:04,871 --> 00:42:06,904
+What did Dr. Akley say?
+
+716
+00:42:06,938 --> 00:42:08,446
+About the problem.
+
+717
+00:42:09,072 --> 00:42:10,875
+What problem?
+
+718
+00:42:10,909 --> 00:42:13,812
+Whatever you were talking about
+with that man in Tennessee.
+
+719
+00:42:13,847 --> 00:42:15,688
+You listened in on the call?
+
+720
+00:42:15,713 --> 00:42:16,725
+Charlie, if something's wrong...
+
+721
+00:42:16,750 --> 00:42:20,085
+Everything's fine. Whatever
+you heard, forget it.
+
+722
+00:42:22,554 --> 00:42:24,489
+You're right.
+
+723
+00:42:28,027 --> 00:42:29,528
+You're right.
+
+724
+00:42:29,562 --> 00:42:32,098
+I can't do anything about
+what's happening over there.
+
+725
+00:42:32,132 --> 00:42:34,068
+But you can.
+
+726
+00:43:11,102 --> 00:43:12,865
+_
+
+727
+00:44:35,214 --> 00:44:37,411
+There's something I need to tell you.
+
+728
+00:44:38,812 --> 00:44:40,945
+There's a problem with Thin Man.
+
+729
+00:44:42,181 --> 00:44:44,217
+What?
+
+730
+00:44:44,252 --> 00:44:47,952
+The spontaneous fission
+rates of plutonium-240,
+
+731
+00:44:47,987 --> 00:44:49,787
+they're higher than 239.
+
+732
+00:44:49,821 --> 00:44:52,222
+Rates are always higher
+in even-numbered isotopes.
+
+733
+00:44:52,256 --> 00:44:54,589
+I know. You wrote a paper about it.
+
+734
+00:44:54,624 --> 00:44:57,858
+I told you I read everything
+you ever published.
+
+735
+00:44:57,893 --> 00:45:01,094
+It's 400,000.
+
+736
+00:45:04,264 --> 00:45:06,932
+Akley's bomb will predetonate.
+
+737
+00:45:06,967 --> 00:45:09,000
+We're dead in the water.
+
+738
+00:45:11,636 --> 00:45:13,638
+We are, too.
+
+739
+00:45:13,672 --> 00:45:15,874
+What?
+
+740
+00:45:15,908 --> 00:45:18,486
+Implosion won't work either.
+
+741
+00:45:19,144 --> 00:45:22,113
+Not without an army of scientists.
+
+742
+00:45:33,130 --> 00:45:35,399
+So what are we going to do about it?
+
+743
+00:45:43,129 --> 00:45:56,830
+Sync and corrections by Albanda
+www.Addic7ed.com
