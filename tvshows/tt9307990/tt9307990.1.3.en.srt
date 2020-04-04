@@ -1,0 +1,4282 @@
+﻿1
+00:00:03,655 --> 00:00:04,004
+.
+
+2
+00:00:04,047 --> 00:00:05,396
+- Previously on
+"Lincoln Rhyme"...
+
+3
+00:00:05,440 --> 00:00:07,311
+Aah!
+
+4
+00:00:07,355 --> 00:00:09,226
+- I'm ready for another shot
+at the bastard
+
+5
+00:00:09,270 --> 00:00:10,532
+who put me in this bed.
+
+6
+00:00:10,575 --> 00:00:13,056
+I'd like Officer Sachs
+to be my point person.
+
+7
+00:00:13,100 --> 00:00:16,538
+- I updated your camera rig
+to be a bit more subtle.
+
+8
+00:00:16,581 --> 00:00:18,583
+- Dad.
+- If I go after him again--
+
+9
+00:00:18,627 --> 00:00:20,411
+- We're thousands of miles
+away, Lincoln.
+
+10
+00:00:20,455 --> 00:00:21,934
+- Rachel.
+
+11
+00:00:21,978 --> 00:00:24,502
+My sister literally got
+kidnapped by a serial killer
+
+12
+00:00:24,546 --> 00:00:25,590
+because of this job.
+
+13
+00:00:25,634 --> 00:00:27,157
+- You saved me.
+
+14
+00:00:27,201 --> 00:00:28,985
+- "Et nos ludere."
+
+15
+00:00:29,029 --> 00:00:30,900
+It means "let's play."
+
+16
+00:00:30,943 --> 00:00:32,510
+The Bone Collector's back.
+
+17
+00:00:34,643 --> 00:00:36,558
+[woman screaming]
+
+18
+00:00:36,601 --> 00:00:39,517
+[dramatic music]
+
+19
+00:00:39,561 --> 00:00:43,304
+[clattering, thudding]
+
+20
+00:00:43,347 --> 00:00:50,354
+♪
+
+21
+00:01:15,814 --> 00:01:18,339
+[engine turns over]
+
+22
+00:01:18,382 --> 00:01:23,779
+♪
+
+23
+00:01:23,822 --> 00:01:26,738
+- [sobbing]
+
+24
+00:01:26,782 --> 00:01:33,789
+♪
+
+25
+00:02:05,690 --> 00:02:06,648
+[phone beeping]
+
+26
+00:02:06,691 --> 00:02:09,129
+[sirens blare]
+
+27
+00:02:10,304 --> 00:02:12,132
+[police radio chatter]
+
+28
+00:02:12,175 --> 00:02:13,394
+- Are you Gabby Karimov?
+
+29
+00:02:13,437 --> 00:02:15,700
+- Yes.
+It's right over here.
+
+30
+00:02:15,744 --> 00:02:18,790
+I heard a woman screaming,
+and there's blood.
+
+31
+00:02:18,834 --> 00:02:25,797
+♪
+
+32
+00:02:31,542 --> 00:02:32,674
+- Ma'am,
+
+33
+00:02:32,717 --> 00:02:35,416
+you on any prescription
+medications?
+
+34
+00:02:35,459 --> 00:02:38,070
+Have you ingested
+any illegal drugs tonight?
+
+35
+00:02:38,114 --> 00:02:39,594
+- No.
+What are you talking about?
+
+36
+00:02:43,946 --> 00:02:46,601
+I saw blood.
+
+37
+00:02:46,644 --> 00:02:48,603
+It was there.
+
+38
+00:02:48,646 --> 00:02:52,084
+And there was a car with a man
+and a woman inside,
+
+39
+00:02:52,128 --> 00:02:53,956
+and she was crying.
+
+40
+00:02:55,218 --> 00:02:57,002
+And this was on the ground.
+
+41
+00:02:57,046 --> 00:03:04,184
+♪
+
+42
+00:03:06,925 --> 00:03:08,188
+[door opens]
+
+43
+00:03:08,231 --> 00:03:09,928
+[footsteps approach]
+
+44
+00:03:09,972 --> 00:03:11,060
+- What you looking at?
+
+45
+00:03:11,103 --> 00:03:13,193
+- Oh, nothing, just...
+
+46
+00:03:14,237 --> 00:03:15,195
+stuff for Lincoln.
+
+47
+00:03:15,238 --> 00:03:18,198
+- Ooh, sweet.
+- "Sweet"?
+
+48
+00:03:18,241 --> 00:03:21,201
+Oh, you're in a chipper mood.
+
+49
+00:03:21,244 --> 00:03:22,680
+Did you sleep well?
+
+50
+00:03:22,724 --> 00:03:26,075
+- Yeah, it was my first solid
+eight hours in weeks.
+
+51
+00:03:26,118 --> 00:03:28,512
+- Love it.
+I'll see you tonight?
+
+52
+00:03:28,556 --> 00:03:29,774
+- Yeah.
+I'll be home late though.
+
+53
+00:03:29,818 --> 00:03:30,862
+Remember?
+
+54
+00:03:30,906 --> 00:03:32,864
+I'm seeing Fall Out Boy
+at Barclays.
+
+55
+00:03:32,908 --> 00:03:34,257
+Lil, Jess, and I are going.
+
+56
+00:03:34,301 --> 00:03:35,606
+- Are you sure you're ready
+for that?
+
+57
+00:03:35,650 --> 00:03:37,521
+- Yeah.
+
+58
+00:03:37,565 --> 00:03:41,569
+The guy who grabbed me
+is dead.
+
+59
+00:03:43,223 --> 00:03:45,225
+Can't hurt me anymore.
+
+60
+00:03:47,401 --> 00:03:50,708
+And I just--I really want
+my life to go back to normal.
+
+61
+00:03:52,232 --> 00:03:54,234
+- Go have fun.
+
+62
+00:03:55,365 --> 00:03:56,932
+- Five years ago,
+
+63
+00:03:56,975 --> 00:03:59,326
+when the Bone Collector first
+sent Lincoln a human radius,
+
+64
+00:03:59,369 --> 00:04:01,371
+he put it through
+a unique process.
+
+65
+00:04:01,415 --> 00:04:03,243
+He withdrew all the marrow,
+
+66
+00:04:03,286 --> 00:04:04,766
+injected the shell
+with a compound
+
+67
+00:04:04,809 --> 00:04:07,638
+of benzalkonium chloride,
+hydrogen peroxide, and bleach,
+
+68
+00:04:07,682 --> 00:04:10,815
+and bathed it in water, salt,
+and hypochlorous.
+
+69
+00:04:10,859 --> 00:04:13,818
+- The DNA had been scrubbed
+inside and out.
+
+70
+00:04:13,862 --> 00:04:16,908
+There was no way to identify
+who it once belonged to.
+
+71
+00:04:16,952 --> 00:04:19,041
+- Let me guess.
+
+72
+00:04:19,084 --> 00:04:20,869
+He used the same process
+this time.
+
+73
+00:04:20,912 --> 00:04:23,741
+- It's a dead end.
+- There are no dead ends.
+
+74
+00:04:23,785 --> 00:04:27,223
+Only places where one chooses
+to give up the search.
+
+75
+00:04:27,267 --> 00:04:29,443
+We don't give up.
+
+76
+00:04:29,486 --> 00:04:30,748
+What about the postmark?
+
+77
+00:04:30,792 --> 00:04:32,837
+- Tracked it back
+to Farmington, New Mexico.
+
+78
+00:04:32,881 --> 00:04:33,925
+Going through security video
+
+79
+00:04:33,969 --> 00:04:35,492
+from the originating
+post office.
+
+80
+00:04:35,536 --> 00:04:37,364
+- The Bone Collector isn't
+strolling into the post office
+
+81
+00:04:37,407 --> 00:04:38,669
+to buy a pack
+of Forever Stamps.
+
+82
+00:04:38,713 --> 00:04:40,367
+He'd avoid cameras
+at all costs.
+
+83
+00:04:40,410 --> 00:04:41,759
+- Which is why
+I am reaching out
+
+84
+00:04:41,803 --> 00:04:44,022
+to smaller shipping stores
+in the area.
+
+85
+00:04:44,066 --> 00:04:45,197
+Ones without cameras.
+
+86
+00:04:45,241 --> 00:04:46,460
+- Well, I can help you
+make those calls.
+
+87
+00:04:46,503 --> 00:04:49,114
+- Oh, great.
+Thank you.
+
+88
+00:04:49,158 --> 00:04:51,291
+- How are you holding up?
+
+89
+00:04:51,334 --> 00:04:53,031
+Must be pretty scary
+
+90
+00:04:53,075 --> 00:04:55,425
+knowing the Bone Collector
+has your home address.
+
+91
+00:04:56,861 --> 00:04:58,210
+- Yeah.
+
+92
+00:04:58,254 --> 00:04:59,951
+It is.
+
+93
+00:04:59,995 --> 00:05:02,040
+But I'm...
+
+94
+00:05:02,084 --> 00:05:04,478
+I'm mostly afraid
+for my sister.
+
+95
+00:05:04,521 --> 00:05:06,958
+I haven't decided
+if I'm even telling her yet.
+
+96
+00:05:07,002 --> 00:05:08,308
+- Since 1888,
+
+97
+00:05:08,351 --> 00:05:10,092
+when Jack the Ripper sent
+half a preserved kidney
+
+98
+00:05:10,135 --> 00:05:11,485
+to George Lusk,
+
+99
+00:05:11,528 --> 00:05:13,704
+the chairman of the Whitehall
+Vigilante Committee,
+
+100
+00:05:13,748 --> 00:05:15,489
+serial killers
+have been reaching out
+
+101
+00:05:15,532 --> 00:05:18,883
+to taunt law enforcement.
+
+102
+00:05:18,927 --> 00:05:21,408
+His behavior is nothing new.
+
+103
+00:05:21,451 --> 00:05:24,236
+- Are you trying to tell me
+that this doesn't scare you?
+
+104
+00:05:24,280 --> 00:05:25,716
+[phone rings]
+
+105
+00:05:25,760 --> 00:05:28,719
+- It scares me.
+
+106
+00:05:28,763 --> 00:05:30,982
+- The Bone Collector has had me
+in his crosshairs
+
+107
+00:05:31,026 --> 00:05:32,332
+for a long time.
+
+108
+00:05:32,375 --> 00:05:34,725
+- So what?
+You just get used to it?
+
+109
+00:05:34,769 --> 00:05:36,379
+- Mm-hmm.
+
+110
+00:05:36,423 --> 00:05:37,685
+- Lincoln,
+
+111
+00:05:37,728 --> 00:05:39,469
+this is not something
+you ever get used to.
+
+112
+00:05:39,513 --> 00:05:41,384
+- Sellitto is on his way.
+
+113
+00:05:41,428 --> 00:05:44,344
+Says it's important.
+Something about a Lucy Arthur.
+
+114
+00:05:45,562 --> 00:05:48,783
+- It's an exact match,
+but it can't be hers.
+
+115
+00:05:48,826 --> 00:05:50,393
+She's been missing
+for five years.
+
+116
+00:05:50,437 --> 00:05:52,395
+- Forensics found
+a small amount of DNA
+
+117
+00:05:52,439 --> 00:05:54,049
+and ran it.
+
+118
+00:05:54,092 --> 00:05:55,790
+It's hers, Lincoln.
+
+119
+00:05:55,833 --> 00:05:57,357
+It's Lucy Arthur's.
+
+120
+00:05:57,400 --> 00:05:59,402
+- I remember reading
+about that case.
+
+121
+00:05:59,446 --> 00:06:01,186
+Grabbed on the way to school.
+
+122
+00:06:01,230 --> 00:06:03,537
+It was terrible.
+- Yeah.
+
+123
+00:06:03,580 --> 00:06:05,843
+No leads, no witnesses.
+
+124
+00:06:05,887 --> 00:06:07,541
+The entire New York
+Police Department
+
+125
+00:06:07,584 --> 00:06:09,717
+searched for months.
+
+126
+00:06:11,022 --> 00:06:12,459
+We did everything we could.
+
+127
+00:06:12,502 --> 00:06:13,851
+- Yeah, everything
+but find her.
+
+128
+00:06:13,895 --> 00:06:15,679
+- It's not your fault.
+
+129
+00:06:15,723 --> 00:06:17,289
+- For once,
+we're on the same page.
+
+130
+00:06:17,333 --> 00:06:18,726
+- Maybe I would've been
+more help
+
+131
+00:06:18,769 --> 00:06:21,032
+if I hadn't been so busy
+chasing the Bone Collector.
+
+132
+00:06:21,076 --> 00:06:23,383
+- No, no, it was my case,
+
+133
+00:06:23,426 --> 00:06:25,341
+so what did I miss?
+
+134
+00:06:25,385 --> 00:06:27,648
+What didn't I do?
+
+135
+00:06:27,691 --> 00:06:31,391
+I think about her every day.
+
+136
+00:06:31,434 --> 00:06:32,914
+Maybe this is the lead
+that brings her home.
+
+137
+00:06:32,957 --> 00:06:34,698
+- Maybe.
+
+138
+00:06:34,742 --> 00:06:36,483
+Look, tell me about the woman
+who found her.
+
+139
+00:06:36,526 --> 00:06:40,008
+- Ah.
+Gabby Karimov.
+
+140
+00:06:40,051 --> 00:06:42,227
+She says last night,
+she heard a woman scream,
+
+141
+00:06:42,271 --> 00:06:43,620
+she went to investigate,
+
+142
+00:06:43,664 --> 00:06:45,883
+she saw blood on the floor
+of a vacant apartment.
+
+143
+00:06:45,927 --> 00:06:48,973
+Then a gold Cadillac drove away
+with a man and a woman inside.
+
+144
+00:06:49,017 --> 00:06:50,714
+The woman looked upset.
+
+145
+00:06:50,758 --> 00:06:53,369
+The charm was lying
+in the middle of the driveway
+
+146
+00:06:53,413 --> 00:06:55,153
+like maybe the woman
+had just dropped it.
+
+147
+00:06:55,197 --> 00:06:56,720
+- You're speculating.
+
+148
+00:06:56,764 --> 00:06:59,462
+Did Ms. Karimov recognize
+the car or the people inside?
+
+149
+00:06:59,506 --> 00:07:01,638
+- Well, she says
+she may have seen the car
+
+150
+00:07:01,682 --> 00:07:03,292
+in the neighborhood,
+but not recently.
+
+151
+00:07:03,335 --> 00:07:05,033
+She did not know the people.
+
+152
+00:07:05,076 --> 00:07:06,295
+- She called the police,
+
+153
+00:07:06,338 --> 00:07:08,645
+but when the police came
+a few minutes later,
+
+154
+00:07:08,689 --> 00:07:10,168
+the entire apartment was clean.
+
+155
+00:07:10,212 --> 00:07:12,432
+- Clean?
+- Spotless.
+
+156
+00:07:12,475 --> 00:07:16,348
+We sent in CSU, and they
+didn't find anything either.
+
+157
+00:07:16,392 --> 00:07:18,046
+- Because the whole room
+had been wiped down
+
+158
+00:07:18,089 --> 00:07:19,482
+with bleach.
+
+159
+00:07:19,526 --> 00:07:21,528
+The walls, the floorboards,
+the doorknobs,
+
+160
+00:07:21,571 --> 00:07:22,572
+even the ceilings.
+
+161
+00:07:22,616 --> 00:07:23,878
+- Professional cleanup.
+
+162
+00:07:23,921 --> 00:07:25,445
+- Well, were there
+any other witnesses
+
+163
+00:07:25,488 --> 00:07:27,142
+that heard the initial scream?
+
+164
+00:07:27,185 --> 00:07:29,100
+Maybe called 9-1-1?
+
+165
+00:07:29,144 --> 00:07:30,450
+- Well, Ms. Karimov lives
+
+166
+00:07:30,493 --> 00:07:32,452
+in a small section
+of Sheepshead Bay
+
+167
+00:07:32,495 --> 00:07:33,714
+that's mostly Russian
+immigrants.
+
+168
+00:07:33,757 --> 00:07:35,498
+It's only a few square blocks.
+
+169
+00:07:35,542 --> 00:07:38,283
+"Tight-knit community"
+is an understatement.
+
+170
+00:07:38,327 --> 00:07:40,111
+We're lucky she called
+the police.
+
+171
+00:07:40,155 --> 00:07:43,201
+Lucy would be 21 by now.
+
+172
+00:07:43,245 --> 00:07:44,986
+What if she's still alive?
+
+173
+00:07:45,029 --> 00:07:46,335
+What if she's the woman
+
+174
+00:07:46,378 --> 00:07:49,033
+Gabby Karimov
+saw in the Cadillac?
+
+175
+00:07:49,077 --> 00:07:50,165
+- Talk to Lucy's parents,
+
+176
+00:07:50,208 --> 00:07:51,775
+then check around
+that neighborhood.
+
+177
+00:07:51,819 --> 00:07:54,386
+- Does this mean
+you're taking the case?
+
+178
+00:07:54,430 --> 00:07:55,605
+- We're gonna find out
+
+179
+00:07:55,649 --> 00:07:58,173
+what happened to Lucy Arthur,
+my friend,
+
+180
+00:07:58,216 --> 00:07:59,391
+and we'll start by finding out
+
+181
+00:07:59,435 --> 00:08:01,132
+what happened in that
+apartment.
+
+182
+00:08:01,176 --> 00:08:04,135
+[foreboding music]
+
+183
+00:08:04,179 --> 00:08:08,923
+♪
+
+184
+00:08:12,666 --> 00:08:12,883
+.
+
+185
+00:08:12,927 --> 00:08:15,146
+- You're saying someone
+found this in the street?
+
+186
+00:08:15,190 --> 00:08:16,974
+- Last night.
+Over in Sheepshead Bay.
+
+187
+00:08:17,018 --> 00:08:19,020
+- After all this time?
+
+188
+00:08:19,063 --> 00:08:21,718
+- Is there any reason why Lucy
+might have been in that area
+
+189
+00:08:21,762 --> 00:08:24,634
+the day she went missing?
+Maybe to meet someone?
+
+190
+00:08:24,678 --> 00:08:25,853
+- No.
+
+191
+00:08:25,896 --> 00:08:27,637
+I don't know.
+
+192
+00:08:27,681 --> 00:08:28,769
+I'm sorry.
+
+193
+00:08:28,812 --> 00:08:30,466
+- But it's an important clue,
+right?
+
+194
+00:08:30,510 --> 00:08:33,513
+- Yes, we're investigating it.
+
+195
+00:08:33,556 --> 00:08:36,254
+I just want to caution you both
+not to get your hopes up.
+
+196
+00:08:36,298 --> 00:08:38,692
+- We can't get our hopes up,
+Detective,
+
+197
+00:08:38,735 --> 00:08:42,043
+because we've never lost hope
+that we would find her.
+
+198
+00:08:45,829 --> 00:08:48,528
+- Eric's running a search
+on gold Cadillac sedans.
+
+199
+00:08:48,571 --> 00:08:49,703
+Now, there's nothing registered
+
+200
+00:08:49,746 --> 00:08:51,487
+within a ten-block radius
+of here,
+
+201
+00:08:51,531 --> 00:08:54,011
+so he's pulling records
+for the tri-state area,
+
+202
+00:08:54,055 --> 00:08:55,622
+cross-checking names.
+
+203
+00:08:55,665 --> 00:08:58,973
+- Well, maybe the owner lives
+elsewhere and works nearby?
+
+204
+00:08:59,016 --> 00:09:00,148
+Traffic cams?
+
+205
+00:09:00,191 --> 00:09:01,628
+- Not on these little streets.
+
+206
+00:09:01,671 --> 00:09:04,892
+Felix is getting everything
+he can off Emmons Avenue.
+
+207
+00:09:04,935 --> 00:09:07,111
+[tense music]
+
+208
+00:09:07,155 --> 00:09:08,678
+- Are you picking up
+on this?
+
+209
+00:09:08,722 --> 00:09:10,288
+It's like one of those Old West
+movies
+
+210
+00:09:10,332 --> 00:09:12,595
+when the bad guys roll
+into town.
+
+211
+00:09:12,639 --> 00:09:14,466
+Only we're the bad guys.
+
+212
+00:09:14,510 --> 00:09:16,207
+- That's half the neighborhoods
+we go into,
+
+213
+00:09:16,251 --> 00:09:17,469
+but don't worry.
+
+214
+00:09:17,513 --> 00:09:20,603
+It only takes one.
+Watch and learn.
+
+215
+00:09:20,647 --> 00:09:23,214
+Please, ma'am, let me help you.
+
+216
+00:09:23,258 --> 00:09:24,651
+[speaks Russian]
+
+217
+00:09:24,694 --> 00:09:27,697
+Why is a beautiful woman
+carrying her own groceries?
+
+218
+00:09:27,741 --> 00:09:29,699
+What's wrong with this picture?
+- Thank you.
+
+219
+00:09:29,743 --> 00:09:31,440
+Thank you so much.
+- Of course.
+
+220
+00:09:31,483 --> 00:09:34,051
+If you don't mind, we are
+investigating an incident
+
+221
+00:09:34,095 --> 00:09:37,054
+in the vacant apartment
+across the street.
+
+222
+00:09:37,098 --> 00:09:38,447
+Did you happen to hear or see
+
+223
+00:09:38,490 --> 00:09:40,275
+anything out of the ordinary
+last night?
+
+224
+00:09:40,318 --> 00:09:41,450
+- Not that I can think of.
+
+225
+00:09:41,493 --> 00:09:44,105
+- It was around 11:00 p.m.
+
+226
+00:09:44,148 --> 00:09:46,107
+A woman screaming.
+
+227
+00:09:46,150 --> 00:09:47,456
+- Oh, that.
+
+228
+00:09:47,499 --> 00:09:50,024
+Yes, I heard an awful scream.
+
+229
+00:09:50,067 --> 00:09:52,940
+And when I looked up,
+I saw it was my neighbor,
+
+230
+00:09:52,983 --> 00:09:54,724
+Natalya Gustev.
+
+231
+00:09:54,768 --> 00:09:57,858
+She said she saw a rat
+in the alley.
+
+232
+00:09:57,901 --> 00:10:00,382
+I told her, "You'll wake
+the whole neighborhood!"
+
+233
+00:10:00,425 --> 00:10:02,863
+- [laughs]
+
+234
+00:10:02,906 --> 00:10:04,255
+- Is that all?
+
+235
+00:10:04,299 --> 00:10:06,214
+I have to put the milk
+in the icebox.
+
+236
+00:10:06,257 --> 00:10:08,303
+- Yes,
+there is one more thing.
+
+237
+00:10:08,346 --> 00:10:10,827
+We're looking for this girl.
+
+238
+00:10:10,871 --> 00:10:12,133
+Have you seen her?
+
+239
+00:10:12,176 --> 00:10:14,483
+- This photo's five years old.
+She'd be 21 now.
+
+240
+00:10:14,526 --> 00:10:15,658
+We have reason to believe
+
+241
+00:10:15,702 --> 00:10:18,661
+she'd been in the neighborhood
+recently.
+
+242
+00:10:18,705 --> 00:10:20,663
+- I recognize the face,
+
+243
+00:10:20,707 --> 00:10:22,447
+but only from the news.
+
+244
+00:10:22,491 --> 00:10:24,493
+She was kidnapped.
+
+245
+00:10:24,536 --> 00:10:26,147
+- That's right.
+
+246
+00:10:26,190 --> 00:10:28,323
+- I'm so sorry.
+
+247
+00:10:28,366 --> 00:10:31,500
+I cannot help you.
+
+248
+00:10:31,543 --> 00:10:33,458
+- Thank you.
+
+249
+00:10:33,502 --> 00:10:35,678
+- Let us know
+if you think of anything.
+
+250
+00:10:37,637 --> 00:10:39,029
+- We really buying
+
+251
+00:10:39,073 --> 00:10:41,641
+that the blood-curdling scream
+Gabby Karimov heard
+
+252
+00:10:41,684 --> 00:10:45,166
+was just a woman
+frightened of a rat?
+
+253
+00:10:45,209 --> 00:10:46,863
+- Yes, that was me screaming.
+
+254
+00:10:46,907 --> 00:10:48,212
+I hate rats.
+
+255
+00:10:48,256 --> 00:10:49,953
+- Oh, me too.
+
+256
+00:10:49,997 --> 00:10:51,563
+Do you know if anyone
+around here
+
+257
+00:10:51,607 --> 00:10:53,217
+owns a gold Cadillac?
+
+258
+00:10:53,261 --> 00:10:55,176
+- Peter Ivanov,
+next door to me.
+
+259
+00:10:55,219 --> 00:10:57,961
+He has a gold car,
+but I'm not sure what kind.
+
+260
+00:10:58,005 --> 00:10:59,528
+I don't know cars.
+
+261
+00:10:59,571 --> 00:11:02,400
+- We're looking for this girl.
+Have you seen her?
+
+262
+00:11:02,444 --> 00:11:03,837
+[door shuts]
+
+263
+00:11:03,880 --> 00:11:05,142
+- Peter?
+
+264
+00:11:05,186 --> 00:11:06,143
+These police officers,
+
+265
+00:11:06,187 --> 00:11:07,841
+they're asking
+about a gold car.
+
+266
+00:11:07,884 --> 00:11:09,364
+A Cadillac?
+
+267
+00:11:09,407 --> 00:11:10,713
+- I have a gold car,
+
+268
+00:11:10,757 --> 00:11:12,541
+but it's a Camry,
+not a Cadillac.
+
+269
+00:11:12,584 --> 00:11:14,674
+Big difference.
+- Yeah.
+
+270
+00:11:14,717 --> 00:11:17,111
+Did you drive down this street
+last night around 11:00?
+
+271
+00:11:17,154 --> 00:11:19,069
+- Yes, with my wife.
+
+272
+00:11:19,113 --> 00:11:21,028
+- Was she upset?
+
+273
+00:11:21,071 --> 00:11:22,725
+- I was taking her to visit
+her sister.
+
+274
+00:11:22,769 --> 00:11:24,858
+She didn't want to leave.
+
+275
+00:11:28,296 --> 00:11:30,211
+- Have you seen this girl?
+
+276
+00:11:30,254 --> 00:11:36,739
+♪
+
+277
+00:11:36,783 --> 00:11:39,350
+Lincoln, there's more
+going on here
+
+278
+00:11:39,394 --> 00:11:41,526
+than a distrust of the police.
+
+279
+00:11:41,570 --> 00:11:43,180
+These people are lying to us.
+
+280
+00:11:43,224 --> 00:11:44,660
+- Witnesses lie all the time.
+
+281
+00:11:44,704 --> 00:11:47,228
+But lying to stop us
+from finding a missing girl,
+
+282
+00:11:47,271 --> 00:11:48,403
+that's a new one.
+
+283
+00:11:48,446 --> 00:11:50,057
+- Yeah, maybe someone closer
+to Lucy's age
+
+284
+00:11:50,100 --> 00:11:51,232
+will care a little more.
+
+285
+00:11:51,275 --> 00:11:52,712
+Hi.
+Excuse me.
+
+286
+00:11:52,755 --> 00:11:54,801
+I'm Officer Sachs,
+and this is Detective Sellitto.
+
+287
+00:11:54,844 --> 00:11:57,760
+We'd like to ask you
+a few questions.
+
+288
+00:11:57,804 --> 00:12:01,198
+- I'm Sarah.
+My parents don't speak English.
+
+289
+00:12:01,242 --> 00:12:02,765
+- Ouch.
+
+290
+00:12:02,809 --> 00:12:04,724
+Looks like it hurts.
+
+291
+00:12:04,767 --> 00:12:06,638
+- I fell, but I'm fine.
+
+292
+00:12:08,118 --> 00:12:11,643
+And we didn't see or hear
+anything last night.
+
+293
+00:12:11,687 --> 00:12:14,168
+- Well, we're also looking
+for a girl.
+
+294
+00:12:14,211 --> 00:12:18,128
+She went missing five years ago
+when she was about your age.
+
+295
+00:12:19,303 --> 00:12:21,001
+Have you seen her?
+
+296
+00:12:24,352 --> 00:12:26,267
+- We don't know her.
+Sorry.
+
+297
+00:12:26,310 --> 00:12:32,316
+♪
+
+298
+00:12:32,360 --> 00:12:33,883
+- That girl looked scared.
+
+299
+00:12:33,927 --> 00:12:35,145
+- She was awful quick
+to tell us
+
+300
+00:12:35,189 --> 00:12:36,712
+she didn't see or hear anything
+last night
+
+301
+00:12:36,756 --> 00:12:38,279
+even before we asked.
+
+302
+00:12:38,322 --> 00:12:39,454
+- If they're all lying,
+
+303
+00:12:39,497 --> 00:12:40,803
+maybe they're covering
+for someone.
+
+304
+00:12:40,847 --> 00:12:43,240
+- Well, how do we find out
+who that person is?
+
+305
+00:12:43,284 --> 00:12:45,547
+- Normally, I'd say go back
+to the crime scene,
+
+306
+00:12:45,590 --> 00:12:47,201
+but since that's been scrubbed,
+
+307
+00:12:47,244 --> 00:12:48,550
+let's visit the one person
+
+308
+00:12:48,593 --> 00:12:50,682
+Sellitto believes
+is telling us the truth.
+
+309
+00:12:50,726 --> 00:12:52,684
+- Gabby Karimov.
+
+310
+00:12:54,599 --> 00:12:56,645
+- Ms. Karimov,
+it's Detective Sellitto.
+
+311
+00:12:56,688 --> 00:12:58,865
+Can we talk to you
+for a minute?
+
+312
+00:12:59,604 --> 00:13:02,172
+[lock clunking]
+
+313
+00:13:02,956 --> 00:13:05,785
+- Detective, I'm afraid
+I've wasted your time.
+
+314
+00:13:05,828 --> 00:13:06,960
+- What are you talking about?
+
+315
+00:13:07,003 --> 00:13:08,439
+- The scream
+I heard last night,
+
+316
+00:13:08,483 --> 00:13:10,485
+I talked with Natalya
+just now.
+
+317
+00:13:10,528 --> 00:13:12,095
+It was her.
+
+318
+00:13:12,139 --> 00:13:14,794
+- What about the blood
+in the apartment?
+
+319
+00:13:14,837 --> 00:13:16,665
+- I must have imagined it.
+
+320
+00:13:16,708 --> 00:13:18,798
+I'm sorry.
+I can't talk anymore.
+
+321
+00:13:18,841 --> 00:13:20,495
+- The charm you found.
+
+322
+00:13:20,538 --> 00:13:22,149
+It belongs to a missing girl.
+
+323
+00:13:22,192 --> 00:13:23,498
+- I don't know anything.
+Leave me alone.
+
+324
+00:13:23,541 --> 00:13:25,282
+[door slams]
+
+325
+00:13:25,326 --> 00:13:27,197
+- There's nothing to do.
+
+326
+00:13:27,241 --> 00:13:28,372
+Someone got to her.
+
+327
+00:13:28,416 --> 00:13:29,678
+- What are they all
+so scared of?
+
+328
+00:13:29,721 --> 00:13:32,028
+Why aren't they talking to us?
+
+329
+00:13:32,072 --> 00:13:34,944
+- Well, we may have lost
+a witness,
+
+330
+00:13:34,988 --> 00:13:36,859
+but we're not out of moves yet.
+
+331
+00:13:36,903 --> 00:13:38,600
+Eric got a hit on the Cadillac.
+
+332
+00:13:38,643 --> 00:13:40,602
+Belongs to a guy
+named Nick Popov.
+
+333
+00:13:40,645 --> 00:13:42,256
+He lives a block away
+from here,
+
+334
+00:13:42,299 --> 00:13:45,825
+but the car is registered
+to his sister in New Jersey,
+
+335
+00:13:45,868 --> 00:13:47,696
+which is why it took
+so long to find.
+
+336
+00:13:47,739 --> 00:13:49,350
+Unis are bringing him in
+for questioning.
+
+337
+00:13:49,393 --> 00:13:51,482
+- Where's the car?
+
+338
+00:13:51,526 --> 00:13:54,529
+- Officers said it's not
+at his place.
+
+339
+00:13:54,572 --> 00:13:57,706
+- Witnesses lie all the time,
+but the evidence never does.
+
+340
+00:13:57,749 --> 00:13:59,664
+That car is another
+potential crime scene
+
+341
+00:13:59,708 --> 00:14:00,883
+for us to examine.
+
+342
+00:14:00,927 --> 00:14:03,712
+It could take us right to Lucy.
+
+343
+00:14:03,755 --> 00:14:05,627
+- Yes, I have a gold Cadillac.
+
+344
+00:14:05,670 --> 00:14:07,368
+Unfortunately, it was stolen.
+
+345
+00:14:07,411 --> 00:14:10,284
+- Stolen?
+Oh, that's too bad.
+
+346
+00:14:10,327 --> 00:14:13,026
+- Last night, from right out
+of my driveway.
+
+347
+00:14:13,069 --> 00:14:15,985
+I had a date with a nice lady
+from around the corner.
+
+348
+00:14:16,029 --> 00:14:17,769
+As we were walking home
+from dinner,
+
+349
+00:14:17,813 --> 00:14:21,034
+we passed by my place,
+and I saw the car was gone.
+
+350
+00:14:21,077 --> 00:14:23,123
+I was gonna make the report
+today.
+
+351
+00:14:23,166 --> 00:14:26,387
+- And this nice lady
+that you had dinner with,
+
+352
+00:14:26,430 --> 00:14:27,736
+does she have a name?
+
+353
+00:14:27,779 --> 00:14:29,216
+- Natalya.
+
+354
+00:14:29,259 --> 00:14:31,871
+I, uh, dropped her off
+
+355
+00:14:31,914 --> 00:14:33,307
+just before 11:00.
+
+356
+00:14:33,350 --> 00:14:35,787
+She was gonna stay outside
+for a smoke.
+
+357
+00:14:37,789 --> 00:14:39,530
+- And then what happened?
+
+358
+00:14:39,574 --> 00:14:43,099
+- When I was walking away,
+I heard Natalya scream.
+
+359
+00:14:43,143 --> 00:14:46,581
+[laughing]
+She said she'd seen a rat.
+
+360
+00:14:46,624 --> 00:14:48,409
+It was very loud.
+Natalya, I said--
+
+361
+00:14:48,452 --> 00:14:49,932
+- Yeah, let me guess.
+
+362
+00:14:49,976 --> 00:14:52,282
+You said, "You're gonna wake up
+the whole neighborhood!"
+
+363
+00:14:55,677 --> 00:14:57,592
+- Hey.
+
+364
+00:14:57,635 --> 00:14:59,376
+Have you seen this girl?
+
+365
+00:15:01,726 --> 00:15:02,989
+- No.
+Why?
+
+366
+00:15:03,032 --> 00:15:04,947
+- Why?
+
+367
+00:15:04,991 --> 00:15:08,472
+Because she's missing, Nick.
+
+368
+00:15:08,516 --> 00:15:11,954
+She was grabbed off the street
+five years ago.
+
+369
+00:15:11,998 --> 00:15:14,609
+Maybe she's dead,
+maybe she's alive,
+
+370
+00:15:14,652 --> 00:15:17,786
+but she's got parents at home
+who are desperate to know
+
+371
+00:15:17,829 --> 00:15:20,310
+what happened to her!
+
+372
+00:15:21,442 --> 00:15:23,183
+I'm tired of this crap.
+
+373
+00:15:29,493 --> 00:15:29,711
+.
+
+374
+00:15:29,754 --> 00:15:31,669
+- That was Auto Crimes
+Division.
+
+375
+00:15:31,713 --> 00:15:32,932
+Nothing yet
+on the gold Cadillac.
+
+376
+00:15:32,975 --> 00:15:34,368
+- Popov won't talk.
+
+377
+00:15:34,411 --> 00:15:36,370
+Problem is,
+even if it was his Cadillac
+
+378
+00:15:36,413 --> 00:15:38,981
+Gabby Karimov saw,
+Popov wasn't driving.
+
+379
+00:15:39,025 --> 00:15:40,591
+She said the guy was big.
+
+380
+00:15:40,635 --> 00:15:42,942
+- And that was back when she
+was still telling us the truth.
+
+381
+00:15:45,118 --> 00:15:46,858
+It's another dead end.
+- No.
+
+382
+00:15:46,902 --> 00:15:48,773
+There are no dead ends.
+
+383
+00:15:48,817 --> 00:15:52,299
+Just places where one chooses
+to give up the search.
+
+384
+00:15:54,257 --> 00:15:55,606
+Lincoln.
+
+385
+00:15:55,650 --> 00:15:58,218
+We didn't get anything
+out of Nick Popov.
+
+386
+00:15:58,261 --> 00:15:59,784
+- So we still don't know
+where the car is.
+
+387
+00:15:59,828 --> 00:16:02,004
+- Well, we don't know
+where it is right now,
+
+388
+00:16:02,048 --> 00:16:05,312
+but maybe you and I
+can find out where it's been.
+
+389
+00:16:05,355 --> 00:16:07,923
+- A search for actual
+physical evidence.
+
+390
+00:16:07,967 --> 00:16:10,056
+I thought you'd never ask.
+
+391
+00:16:10,099 --> 00:16:13,102
+[tense music]
+
+392
+00:16:13,146 --> 00:16:15,713
+- All right, this is it.
+
+393
+00:16:15,757 --> 00:16:17,846
+Popov's place.
+
+394
+00:16:17,889 --> 00:16:24,461
+♪
+
+395
+00:16:24,505 --> 00:16:26,028
+- You said Popov's car
+
+396
+00:16:26,072 --> 00:16:27,160
+was allegedly stolen
+last night?
+
+397
+00:16:27,203 --> 00:16:28,813
+- Uh-huh.
+
+398
+00:16:31,164 --> 00:16:32,426
+- Well, I say
+those tire tracks
+
+399
+00:16:32,469 --> 00:16:34,297
+look a little fresher
+than that.
+
+400
+00:16:34,341 --> 00:16:35,559
+- Maybe someone tipped him off
+
+401
+00:16:35,603 --> 00:16:37,300
+that we were down here
+looking for the car
+
+402
+00:16:37,344 --> 00:16:40,434
+and he hid it this morning?
+
+403
+00:16:40,477 --> 00:16:42,262
+- Get a sample of that mud
+from the tire imprint.
+
+404
+00:16:42,305 --> 00:16:44,351
+- You got it.
+
+405
+00:16:47,745 --> 00:16:49,182
+- Hi, Officer.
+
+406
+00:16:49,225 --> 00:16:51,662
+- [gasps]
+Whoa, what are you doing?
+
+407
+00:16:51,706 --> 00:16:53,838
+- I'm sorry, I was curious
+to see what you were doing
+
+408
+00:16:53,882 --> 00:16:55,797
+and the coffee slipped
+out of my hand.
+
+409
+00:16:55,840 --> 00:16:57,668
+- Sarah, why are you lying
+to me?
+
+410
+00:16:57,712 --> 00:16:59,757
+In fact,
+why is this whole neighborhood
+
+411
+00:16:59,801 --> 00:17:01,716
+lying to us?
+
+412
+00:17:03,370 --> 00:17:04,501
+Whoa, whoa, wait, if you--
+
+413
+00:17:04,545 --> 00:17:06,025
+Please just come back--
+
+414
+00:17:06,068 --> 00:17:07,069
+- Just get the sample.
+
+415
+00:17:07,113 --> 00:17:08,592
+If there's anything to find,
+
+416
+00:17:08,636 --> 00:17:11,030
+a little spilt coffee won't
+keep Kate from finding it.
+
+417
+00:17:27,481 --> 00:17:29,178
+- You lied to me.
+
+418
+00:17:29,222 --> 00:17:32,312
+You have a family.
+
+419
+00:17:32,355 --> 00:17:34,357
+- I did not lie.
+
+420
+00:17:34,401 --> 00:17:36,664
+I omitted.
+
+421
+00:17:36,707 --> 00:17:37,882
+I don't think my personal life
+
+422
+00:17:37,926 --> 00:17:41,016
+is relevant to you
+doing your job.
+
+423
+00:17:41,060 --> 00:17:42,887
+But yes,
+
+424
+00:17:42,931 --> 00:17:44,019
+I have a family.
+
+425
+00:17:44,063 --> 00:17:45,194
+They live in Chicago.
+
+426
+00:17:45,238 --> 00:17:47,718
+- It is relevant to me,
+Lincoln,
+
+427
+00:17:47,762 --> 00:17:49,720
+if you sent them away
+to protect them
+
+428
+00:17:49,764 --> 00:17:51,940
+from the same serial killer
+who has the home address
+
+429
+00:17:51,983 --> 00:17:53,420
+of my family.
+
+430
+00:17:53,463 --> 00:17:55,552
+- It's more complicated
+than that.
+
+431
+00:17:55,596 --> 00:17:57,685
+- Hey.
+I tested the mud you got
+
+432
+00:17:57,728 --> 00:17:59,295
+from the tire tracks
+at Popov's place,
+
+433
+00:17:59,339 --> 00:18:01,428
+and it's a little weird.
+- Weird how?
+
+434
+00:18:01,471 --> 00:18:03,560
+- Obviously, it's positive
+for coffee and milk,
+
+435
+00:18:03,604 --> 00:18:05,171
+courtesy of one
+clumsy teenager.
+
+436
+00:18:05,214 --> 00:18:06,998
+Antibiotic and somatotropin
+hormone.
+
+437
+00:18:07,042 --> 00:18:09,088
+- All common to the process
+of pasteurizing milk.
+
+438
+00:18:09,131 --> 00:18:10,306
+What's your point?
+
+439
+00:18:10,350 --> 00:18:12,482
+- My point is I also found
+very high levels
+
+440
+00:18:12,526 --> 00:18:14,223
+of lactic acid.
+
+441
+00:18:14,267 --> 00:18:15,398
+Off the charts.
+
+442
+00:18:15,442 --> 00:18:16,573
+- What does that mean?
+
+443
+00:18:16,617 --> 00:18:18,358
+- It means the milk
+was spoiled.
+
+444
+00:18:18,401 --> 00:18:21,752
+But no one puts spoiled milk
+in their coffee.
+
+445
+00:18:21,796 --> 00:18:24,755
+So it must have already been
+in the mud.
+
+446
+00:18:24,799 --> 00:18:27,193
+What else did you find?
+- Just stiltgrass.
+
+447
+00:18:27,236 --> 00:18:29,020
+Common to--
+- Long Island.
+
+448
+00:18:29,064 --> 00:18:31,327
+We're looking
+for a dairy-related industry,
+
+449
+00:18:31,371 --> 00:18:33,286
+possibly a pasteurizing
+factory.
+
+450
+00:18:33,329 --> 00:18:36,202
+They'll have a Russian employee
+who lives in Sheepshead Bay.
+
+451
+00:18:36,245 --> 00:18:37,768
+You find that person,
+
+452
+00:18:37,812 --> 00:18:40,858
+and maybe we find Lucy Arthur.
+
+453
+00:18:40,902 --> 00:18:46,951
+♪
+
+454
+00:18:53,828 --> 00:18:56,352
+- Well, don't you look
+mysterious?
+
+455
+00:18:56,396 --> 00:18:57,962
+[laughs]
+
+456
+00:18:58,006 --> 00:18:59,747
+- Thought you two
+were getting lunch.
+
+457
+00:18:59,790 --> 00:19:01,227
+- Yeah, we're just heading out.
+
+458
+00:19:01,270 --> 00:19:02,750
+Jane wanted to come by
+and say hi.
+
+459
+00:19:02,793 --> 00:19:04,273
+- Yeah,
+see what you're working on.
+
+460
+00:19:04,317 --> 00:19:06,275
+One of your forensic projects?
+
+461
+00:19:06,319 --> 00:19:08,103
+- She is fascinated
+by what you do.
+
+462
+00:19:08,147 --> 00:19:10,627
+I told her you used to consult
+for the NYPD,
+
+463
+00:19:10,671 --> 00:19:12,760
+but it's boring science.
+
+464
+00:19:12,803 --> 00:19:16,155
+- God, not to me.
+I read real crime books,
+
+465
+00:19:16,198 --> 00:19:17,939
+I listen to all the podcasts,
+
+466
+00:19:17,982 --> 00:19:20,811
+so I think, oh,
+the stories he must have,
+
+467
+00:19:20,855 --> 00:19:23,466
+fascinating.
+
+468
+00:19:23,510 --> 00:19:25,381
+- Just a job like any other.
+
+469
+00:19:25,425 --> 00:19:28,471
+I'm freelance now,
+like Danielle says.
+
+470
+00:19:28,515 --> 00:19:30,081
+Boring science.
+
+471
+00:19:30,125 --> 00:19:33,433
+- Well, I'd love to get a sneak
+in your secret lair there.
+
+472
+00:19:33,476 --> 00:19:35,217
+Get a chance to see
+what you're working on.
+
+473
+00:19:35,261 --> 00:19:36,305
+- Not a good idea,
+
+474
+00:19:36,349 --> 00:19:38,525
+not with privacy issues
+and all.
+
+475
+00:19:38,568 --> 00:19:40,788
+- Ah, I get it.
+
+476
+00:19:40,831 --> 00:19:42,877
+You want to be
+Mr. Mysterious.
+
+477
+00:19:42,920 --> 00:19:44,270
+Okay.
+
+478
+00:19:44,313 --> 00:19:46,489
+I'll just have to sneak in
+one day when he's out.
+
+479
+00:19:46,533 --> 00:19:48,012
+- She will too.
+
+480
+00:19:48,056 --> 00:19:50,841
+- [laughing]
+I would.
+
+481
+00:19:50,885 --> 00:19:53,714
+- Because I changed my mind,
+that's why.
+
+482
+00:19:53,757 --> 00:19:55,759
+- Yeah, but you said
+it was okay this morning.
+
+483
+00:19:55,803 --> 00:19:58,327
+And I have to meet these girls
+in 20 minutes,
+
+484
+00:19:58,371 --> 00:19:59,459
+and I'm the one
+with the tickets.
+
+485
+00:19:59,502 --> 00:20:00,808
+I can't just bail.
+
+486
+00:20:00,851 --> 00:20:02,679
+- Rach,
+
+487
+00:20:02,723 --> 00:20:03,941
+look, I have already told you
+
+488
+00:20:03,985 --> 00:20:05,508
+after everything
+you've been through,
+
+489
+00:20:05,552 --> 00:20:07,554
+I just don't think
+you're ready.
+
+490
+00:20:07,597 --> 00:20:10,121
+- Look, you can't just
+order me around.
+
+491
+00:20:10,165 --> 00:20:12,515
+You're not my mother.
+
+492
+00:20:12,559 --> 00:20:14,691
+And I'm going.
+
+493
+00:20:14,735 --> 00:20:16,476
+[line beeps]
+- [sighs]
+
+494
+00:20:16,519 --> 00:20:23,004
+♪
+
+495
+00:20:24,745 --> 00:20:27,269
+- This place has been shut down
+for three months.
+
+496
+00:20:27,313 --> 00:20:30,359
+The owner says that he did have
+an employee that was Russian
+
+497
+00:20:30,403 --> 00:20:32,318
+and lives in Sheepshead Bay.
+
+498
+00:20:32,361 --> 00:20:35,103
+Name's Dimitri Tarasov.
+
+499
+00:20:37,148 --> 00:20:38,672
+- Where's Tarasov now?
+
+500
+00:20:38,715 --> 00:20:41,022
+- Well, unis went by his place,
+but the neighbors said
+
+501
+00:20:41,065 --> 00:20:44,591
+he spontaneously went
+on vacation this morning.
+
+502
+00:20:44,634 --> 00:20:47,289
+Got Felix checking on flights.
+
+503
+00:20:49,378 --> 00:20:52,076
+- Lincoln.
+
+504
+00:20:52,120 --> 00:20:53,861
+Are you seeing this?
+
+505
+00:20:53,904 --> 00:20:55,166
+- I am.
+
+506
+00:20:58,431 --> 00:21:01,347
+Let's get a little closer.
+
+507
+00:21:01,390 --> 00:21:02,522
+- Guys.
+
+508
+00:21:02,565 --> 00:21:09,529
+♪
+
+509
+00:21:09,572 --> 00:21:12,096
+This place has been closed
+for three months,
+
+510
+00:21:12,140 --> 00:21:15,230
+but the water in that cup
+looks fresh.
+
+511
+00:21:15,274 --> 00:21:16,492
+- So does the bread.
+
+512
+00:21:16,536 --> 00:21:23,717
+♪
+
+513
+00:21:25,762 --> 00:21:27,329
+It's an icon corner.
+
+514
+00:21:27,373 --> 00:21:28,939
+- What is an icon corner?
+
+515
+00:21:28,983 --> 00:21:31,594
+What does that have to do
+with Lucy Arthur?
+
+516
+00:21:31,638 --> 00:21:33,292
+- It's a Russian
+burial tradition.
+
+517
+00:21:33,335 --> 00:21:35,772
+When a person dies,
+you leave fresh bread and water
+
+518
+00:21:35,816 --> 00:21:37,774
+for them to eat
+in the afterlife.
+
+519
+00:21:40,603 --> 00:21:43,214
+- We're looking for a grave.
+
+520
+00:21:48,568 --> 00:21:48,785
+.
+
+521
+00:21:48,829 --> 00:21:52,702
+- I'm really sorry.
+
+522
+00:21:52,746 --> 00:21:56,358
+I know you wanted good news.
+
+523
+00:21:56,402 --> 00:21:59,056
+- I told Lucy's parents
+not to get their hopes up.
+
+524
+00:21:59,100 --> 00:22:02,973
+I didn't stop to think
+about my own.
+
+525
+00:22:03,017 --> 00:22:05,106
+I let myself believe,
+
+526
+00:22:05,149 --> 00:22:07,848
+even after all this time,
+
+527
+00:22:07,891 --> 00:22:10,154
+she might be alive out there,
+
+528
+00:22:10,198 --> 00:22:14,071
+waiting for us to find her.
+
+529
+00:22:14,115 --> 00:22:17,988
+That's a rookie mistake.
+
+530
+00:22:18,032 --> 00:22:20,251
+- Hope can't be managed,
+Sellitto.
+
+531
+00:22:20,295 --> 00:22:22,123
+[dramatic music]
+
+532
+00:22:22,166 --> 00:22:25,996
+I think it's a good thing.
+
+533
+00:22:26,040 --> 00:22:30,087
+Look, I know I'm new to this,
+
+534
+00:22:30,131 --> 00:22:33,700
+but I don't know
+how you do this job without it.
+
+535
+00:22:33,743 --> 00:22:36,006
+- Found something!
+
+536
+00:22:36,050 --> 00:22:43,231
+♪
+
+537
+00:22:48,497 --> 00:22:51,413
+Well, that's not Lucy Arthur.
+
+538
+00:22:51,457 --> 00:22:54,503
+- Yeah, but who is it?
+
+539
+00:22:54,547 --> 00:22:57,201
+- Max Sobirov.
+42 years old.
+
+540
+00:22:57,245 --> 00:22:58,681
+No record, no family.
+
+541
+00:22:58,725 --> 00:23:01,641
+Lived in Sheepshead Bay
+for over ten years.
+
+542
+00:23:01,684 --> 00:23:02,859
+Employment?
+
+543
+00:23:02,903 --> 00:23:04,687
+- He was a stonemason,
+trained in Europe,
+
+544
+00:23:04,731 --> 00:23:06,254
+worked for various contractors
+here,
+
+545
+00:23:06,297 --> 00:23:08,212
+mostly churches and cemeteries.
+
+546
+00:23:08,256 --> 00:23:09,475
+- And how did he die?
+
+547
+00:23:09,518 --> 00:23:12,303
+- A single stab wound
+to the lower chest.
+
+548
+00:23:12,347 --> 00:23:14,697
+The blade had
+a unique upward curve to it.
+
+549
+00:23:14,741 --> 00:23:16,612
+The tip broke off
+in one of his ribs.
+
+550
+00:23:16,656 --> 00:23:18,353
+- A chust knife.
+
+551
+00:23:18,397 --> 00:23:19,659
+They were made in Uzbekistan,
+
+552
+00:23:19,702 --> 00:23:22,183
+which was a former
+Soviet Socialist Republic
+
+553
+00:23:22,226 --> 00:23:24,228
+until 1991.
+
+554
+00:23:24,272 --> 00:23:25,926
+Good work.
+
+555
+00:23:25,969 --> 00:23:28,537
+Keep looking
+into his background.
+
+556
+00:23:28,581 --> 00:23:31,453
+- Okay, I'm in Max Sobirov's
+apartment.
+
+557
+00:23:31,497 --> 00:23:33,847
+This place is a mess.
+
+558
+00:23:35,501 --> 00:23:40,027
+Max was clearly...a bachelor.
+
+559
+00:23:41,507 --> 00:23:43,987
+- He also loved
+his own stonework.
+
+560
+00:23:44,031 --> 00:23:47,513
+That fireplace
+isn't original.
+
+561
+00:23:47,556 --> 00:23:49,515
+You know what, let me see
+the whole room.
+
+562
+00:23:49,558 --> 00:23:56,565
+♪
+
+563
+00:24:02,528 --> 00:24:05,487
+He made that kitchen island
+too.
+
+564
+00:24:05,531 --> 00:24:07,750
+Oh, he considered himself
+an artisan.
+
+565
+00:24:07,794 --> 00:24:10,057
+That fleur-de-lis carving,
+it's his signature.
+
+566
+00:24:10,100 --> 00:24:11,667
+- Huh.
+
+567
+00:24:11,711 --> 00:24:15,062
+Talented, quiet,
+
+568
+00:24:15,105 --> 00:24:16,716
+kept to himself.
+
+569
+00:24:16,759 --> 00:24:21,111
+Why did someone
+want to kill you, Max?
+
+570
+00:24:21,155 --> 00:24:28,336
+♪
+
+571
+00:24:36,518 --> 00:24:38,781
+[gasps] Lincoln,
+are you seeing this?
+
+572
+00:24:38,825 --> 00:24:42,263
+- That's Lucy Arthur's
+school uniform.
+
+573
+00:24:42,306 --> 00:24:44,308
+Max Sobirov kidnapped Lucy.
+
+574
+00:24:44,352 --> 00:24:46,528
+- [breathing hard]
+
+575
+00:24:46,572 --> 00:24:49,357
+- One of his neighbors figured
+it out and murdered him.
+
+576
+00:24:52,578 --> 00:24:54,493
+- Ran into CSU downstairs.
+
+577
+00:24:54,536 --> 00:24:55,929
+They said the place was clean.
+
+578
+00:24:55,972 --> 00:24:59,323
+- Well, there's no evidence
+Lucy was ever here,
+
+579
+00:24:59,367 --> 00:25:00,673
+beyond her clothes.
+
+580
+00:25:00,716 --> 00:25:02,413
+- And her charm.
+
+581
+00:25:03,893 --> 00:25:06,809
+How did that charm end up
+on that driveway?
+
+582
+00:25:06,853 --> 00:25:13,033
+♪
+
+583
+00:25:13,076 --> 00:25:15,078
+- Wait, Max's keychain.
+
+584
+00:25:15,122 --> 00:25:18,386
+There's an extra ring on it
+with no key or fob.
+
+585
+00:25:18,429 --> 00:25:20,344
+Maybe Lucy's charm was on it,
+
+586
+00:25:20,388 --> 00:25:22,608
+a trophy he carried with him.
+
+587
+00:25:22,651 --> 00:25:24,523
+It could've fallen off
+the other night
+
+588
+00:25:24,566 --> 00:25:25,741
+in a struggle
+with the neighbors.
+
+589
+00:25:25,785 --> 00:25:28,135
+- Lucy didn't drop it.
+She was never there.
+
+590
+00:25:28,178 --> 00:25:29,702
+- We just talked
+to Lucy's parents.
+
+591
+00:25:29,745 --> 00:25:31,051
+It was rough.
+
+592
+00:25:31,094 --> 00:25:33,183
+- Yeah, but they had
+information.
+
+593
+00:25:33,227 --> 00:25:35,882
+Lucy's mom recognized
+Max Sobirov.
+
+594
+00:25:35,925 --> 00:25:39,712
+He made a tomb for them
+when Lucy's grandmother died.
+
+595
+00:25:39,755 --> 00:25:42,584
+- So she wasn't
+a random victim.
+
+596
+00:25:42,628 --> 00:25:44,891
+- Let me get a closer look
+at that kitchen island.
+
+597
+00:25:47,023 --> 00:25:49,112
+- This doesn't look
+completely finished.
+
+598
+00:25:49,156 --> 00:25:52,376
+- Those base dimensions are of
+a prefabricated mausoleum tomb.
+
+599
+00:25:52,420 --> 00:25:54,640
+We need to look inside.
+
+600
+00:25:54,683 --> 00:25:56,685
+- We have to open this.
+
+601
+00:26:00,820 --> 00:26:01,821
+[grunts]
+
+602
+00:26:17,314 --> 00:26:18,620
+[dramatic musical flourish]
+
+603
+00:26:18,664 --> 00:26:20,883
+Oh!
+
+604
+00:26:20,927 --> 00:26:21,884
+- [coughs]
+
+605
+00:26:24,234 --> 00:26:25,888
+- Is that her?
+
+606
+00:26:27,281 --> 00:26:28,717
+Is that Lucy Arthur?
+
+607
+00:26:28,761 --> 00:26:31,024
+- Show me!
+
+608
+00:26:32,852 --> 00:26:34,941
+Amelia, I need a full shot
+of her body.
+
+609
+00:26:34,984 --> 00:26:36,420
+- I can't get any higher.
+
+610
+00:26:36,464 --> 00:26:38,509
+- Well, how tall is she?
+
+611
+00:26:38,553 --> 00:26:40,468
+- Lucy was only 5'2".
+
+612
+00:26:42,252 --> 00:26:45,081
+- I don't know.
+
+613
+00:26:45,125 --> 00:26:49,085
+Whoever's in this box
+was taller than 5'2".
+
+614
+00:26:49,129 --> 00:26:50,870
+- It's not her.
+
+615
+00:26:50,913 --> 00:26:52,785
+It's not Lucy.
+
+616
+00:26:52,828 --> 00:26:54,874
+- So who is she?
+
+617
+00:26:54,917 --> 00:26:56,615
+- And where's Lucy?
+
+618
+00:26:59,356 --> 00:26:59,530
+.
+
+619
+00:26:59,574 --> 00:27:01,707
+- Based on Gabby's
+original description
+
+620
+00:27:01,750 --> 00:27:03,752
+of the large man she saw
+driving the Cadillac
+
+621
+00:27:03,796 --> 00:27:05,275
+with the woman sitting
+beside him,
+
+622
+00:27:05,319 --> 00:27:07,626
+I think that Dimitri Tarasov
+is our most likely suspect.
+
+623
+00:27:07,669 --> 00:27:09,497
+- The employee
+at the pasteurizing factory.
+
+624
+00:27:09,540 --> 00:27:11,325
+Do we have a line yet
+on Tarasov?
+
+625
+00:27:11,368 --> 00:27:13,980
+- He jumped a flight
+to Barbados this morning.
+
+626
+00:27:14,023 --> 00:27:15,982
+Cops are at the airport there
+now
+
+627
+00:27:16,025 --> 00:27:17,548
+waiting to grab him
+when he lands
+
+628
+00:27:17,592 --> 00:27:18,811
+and send him back.
+
+629
+00:27:18,854 --> 00:27:20,203
+- But even if Dimitri
+did murder Max,
+
+630
+00:27:20,247 --> 00:27:22,075
+he still wouldn't have had time
+to bury the body
+
+631
+00:27:22,118 --> 00:27:24,120
+and clean up the crime scene
+before the police arrived.
+
+632
+00:27:24,164 --> 00:27:25,687
+I mean, everyone
+in the neighborhood
+
+633
+00:27:25,731 --> 00:27:27,820
+must have helped.
+
+634
+00:27:27,863 --> 00:27:29,125
+- Mob justice.
+
+635
+00:27:29,169 --> 00:27:30,344
+A quiet neighborhood
+
+636
+00:27:30,387 --> 00:27:32,041
+that takes care of
+its own problem.
+
+637
+00:27:32,085 --> 00:27:34,000
+- Even if they did
+all work together
+
+638
+00:27:34,043 --> 00:27:36,916
+to cover it up,
+Max was only stabbed once.
+
+639
+00:27:36,959 --> 00:27:38,831
+So you have
+lots of conspirators,
+
+640
+00:27:38,874 --> 00:27:40,310
+but only one killer.
+
+641
+00:27:40,354 --> 00:27:45,054
+If it was Dimitri Tarasov,
+
+642
+00:27:45,098 --> 00:27:47,230
+how do we prove it?
+
+643
+00:27:49,450 --> 00:27:53,193
+[ling ringing]
+
+644
+00:27:53,236 --> 00:27:54,498
+- Hey, this is Rachel.
+
+645
+00:27:54,542 --> 00:27:55,978
+Sorry I can't come
+to the phone right now.
+
+646
+00:27:56,022 --> 00:27:57,371
+- [sighs]
+
+647
+00:27:57,414 --> 00:28:00,809
+- You should tell her
+about the Bone Collector.
+
+648
+00:28:00,853 --> 00:28:02,158
+- Excuse me?
+
+649
+00:28:03,507 --> 00:28:06,641
+- You asked before
+about my family.
+
+650
+00:28:06,685 --> 00:28:10,210
+My ex fiancée and I,
+
+651
+00:28:10,253 --> 00:28:12,995
+that's who you saw
+in the photo.
+
+652
+00:28:13,039 --> 00:28:14,562
+She opened a letter
+from the Bone Collector
+
+653
+00:28:14,605 --> 00:28:16,999
+after I had told her
+we weren't in any danger.
+
+654
+00:28:17,043 --> 00:28:18,174
+I had told her that
+
+655
+00:28:18,218 --> 00:28:21,743
+because I didn't want her
+to be scared.
+
+656
+00:28:21,787 --> 00:28:22,962
+But when she realized
+
+657
+00:28:23,005 --> 00:28:24,572
+a serial killer
+knew where we lived,
+
+658
+00:28:24,615 --> 00:28:27,793
+knew her name,
+knew our son's name--
+
+659
+00:28:27,836 --> 00:28:31,013
+it's Camden, by the way--
+
+660
+00:28:31,057 --> 00:28:32,667
+well, she wasn't just scared.
+
+661
+00:28:32,711 --> 00:28:34,582
+She was angry.
+
+662
+00:28:36,323 --> 00:28:39,152
+She left because she didn't
+trust me anymore.
+
+663
+00:28:39,195 --> 00:28:42,459
+[dramatic music]
+
+664
+00:28:42,503 --> 00:28:43,634
+- I'm so sorry.
+
+665
+00:28:43,678 --> 00:28:45,941
+- Rachel's gonna find out.
+
+666
+00:28:45,985 --> 00:28:48,248
+Make sure she hears it
+from you first.
+
+667
+00:28:49,945 --> 00:28:51,251
+- In a world
+
+668
+00:28:51,294 --> 00:28:54,733
+where girls her age
+are going missing,
+
+669
+00:28:54,776 --> 00:28:58,084
+I'm just trying to protect her.
+
+670
+00:28:58,127 --> 00:28:59,781
+- Start with the truth.
+
+671
+00:29:04,351 --> 00:29:06,309
+- You're not gonna believe
+this.
+
+672
+00:29:06,353 --> 00:29:07,833
+- What?
+What is it?
+
+673
+00:29:07,876 --> 00:29:09,182
+- Jane.
+
+674
+00:29:09,225 --> 00:29:11,619
+She went for a run,
+the same path I take,
+
+675
+00:29:11,662 --> 00:29:13,099
+the same path we take,
+
+676
+00:29:13,142 --> 00:29:15,275
+and she didn't come back.
+
+677
+00:29:15,318 --> 00:29:17,103
+- What do you mean,
+she didn't come back?
+
+678
+00:29:17,146 --> 00:29:20,584
+- I mean they found her car,
+they found her keys,
+
+679
+00:29:20,628 --> 00:29:22,848
+and she's gone.
+
+680
+00:29:22,891 --> 00:29:25,676
+They think somebody took her.
+
+681
+00:29:25,720 --> 00:29:28,941
+I'm just so scared for her.
+
+682
+00:29:28,984 --> 00:29:31,770
+And I just saw her.
+
+683
+00:29:33,684 --> 00:29:38,037
+I just hate to think of what...
+might be happening to her.
+
+684
+00:29:38,080 --> 00:29:40,909
+- Well, they'll find her.
+I'm sure of it.
+
+685
+00:29:40,953 --> 00:29:42,041
+- You really think so?
+
+686
+00:29:42,084 --> 00:29:43,912
+- I know so.
+
+687
+00:29:43,956 --> 00:29:45,914
+- I've never felt safe
+out here.
+
+688
+00:29:48,874 --> 00:29:50,919
+- I know.
+
+689
+00:29:52,965 --> 00:29:54,880
+They'll find her.
+
+690
+00:29:57,796 --> 00:30:00,842
+Poor Jane.
+
+691
+00:30:00,886 --> 00:30:02,148
+- Hey.
+
+692
+00:30:02,191 --> 00:30:03,932
+I got Kate's autopsy report
+
+693
+00:30:03,976 --> 00:30:06,108
+on the body we found
+at Max Sobirov's.
+
+694
+00:30:06,152 --> 00:30:08,545
+It definitely wasn't Lucy.
+
+695
+00:30:08,589 --> 00:30:09,677
+Jamie Bedford.
+
+696
+00:30:09,720 --> 00:30:11,897
+She went missing
+almost ten years ago.
+
+697
+00:30:11,940 --> 00:30:14,725
+Injuries to her neck were
+consistent with strangulation.
+
+698
+00:30:14,769 --> 00:30:16,815
+- Mm-hmm.
+- And there's something else.
+
+699
+00:30:16,858 --> 00:30:19,208
+When Jamie was kidnapped,
+she was 16 years old.
+
+700
+00:30:19,252 --> 00:30:22,037
+Kate said when she died,
+she was at least 21.
+
+701
+00:30:22,081 --> 00:30:23,386
+- He held her captive
+for five years.
+
+702
+00:30:23,430 --> 00:30:26,868
+- Max Sobirov was attracted
+to teenage girls.
+
+703
+00:30:26,912 --> 00:30:28,478
+Jamie was 21
+when he killed her.
+
+704
+00:30:28,522 --> 00:30:30,916
+Lucy was Jamie's replacement.
+
+705
+00:30:30,959 --> 00:30:32,743
+- Maybe he kept Lucy alive too.
+
+706
+00:30:32,787 --> 00:30:34,180
+- And she'd be 21 by now.
+
+707
+00:30:34,223 --> 00:30:36,530
+- And now he'd be looking
+for her replacement.
+
+708
+00:30:36,573 --> 00:30:38,880
+We showed Jamie's parents
+a photo of Max Sobirov.
+
+709
+00:30:38,924 --> 00:30:40,360
+They recognized him.
+
+710
+00:30:40,403 --> 00:30:42,057
+Max built a tomb
+for Jamie's uncle
+
+711
+00:30:42,101 --> 00:30:43,798
+shortly before
+she went missing.
+
+712
+00:30:43,842 --> 00:30:46,018
+- Just like Lucy.
+
+713
+00:30:46,061 --> 00:30:47,367
+It isn't random.
+
+714
+00:30:47,410 --> 00:30:50,587
+He meets them first,
+chooses them.
+
+715
+00:30:50,631 --> 00:30:53,329
+Sarah.
+The girl with the black eye?
+
+716
+00:30:53,373 --> 00:30:56,463
+What if Max tried
+to abduct her,
+
+717
+00:30:56,506 --> 00:30:57,812
+but she fought him off?
+
+718
+00:30:57,856 --> 00:30:59,901
+- She tells her parents,
+they round up a posse
+
+719
+00:30:59,945 --> 00:31:01,207
+to teach him a lesson.
+
+720
+00:31:01,250 --> 00:31:03,557
+It goes sideways.
+Max is killed.
+
+721
+00:31:03,600 --> 00:31:05,515
+- They were all involved,
+so they all cover it up.
+
+722
+00:31:05,559 --> 00:31:07,866
+But they didn't know
+about Lucy.
+
+723
+00:31:07,909 --> 00:31:09,041
+They might have information.
+
+724
+00:31:09,084 --> 00:31:10,390
+They don't even know
+it's important.
+
+725
+00:31:10,433 --> 00:31:11,739
+- Good luck getting them
+to talk.
+
+726
+00:31:11,782 --> 00:31:13,306
+They're too afraid
+of being arrested.
+
+727
+00:31:13,349 --> 00:31:15,438
+- Well, we have to try.
+
+728
+00:31:15,482 --> 00:31:18,006
+There are no dead ends,
+right?
+
+729
+00:31:18,050 --> 00:31:19,790
+- You heard her.
+
+730
+00:31:22,445 --> 00:31:23,925
+- Thank you for meeting
+with us.
+
+731
+00:31:23,969 --> 00:31:25,100
+- I told them what you said,
+
+732
+00:31:25,144 --> 00:31:26,667
+that a girl's life
+was at stake.
+
+733
+00:31:26,710 --> 00:31:28,103
+- Thanks, Gabby,
+
+734
+00:31:28,147 --> 00:31:32,151
+It's important to know
+that nobody will be arrested
+
+735
+00:31:32,194 --> 00:31:34,109
+based off of what you tell us
+here today.
+
+736
+00:31:34,153 --> 00:31:35,937
+- We just want
+to find Lucy Arthur.
+
+737
+00:31:35,981 --> 00:31:38,374
+What happened to Max Sobirov,
+we'll deal with that later.
+
+738
+00:31:38,418 --> 00:31:41,290
+- We want to do what we can
+to help.
+
+739
+00:31:41,334 --> 00:31:44,946
+- I didn't know
+you spoke English.
+
+740
+00:31:44,990 --> 00:31:47,688
+- I lied.
+
+741
+00:31:47,731 --> 00:31:49,516
+I'm sorry.
+
+742
+00:31:49,559 --> 00:31:50,952
+I'm sorry about
+the coffee too.
+
+743
+00:31:50,996 --> 00:31:52,475
+I just--
+
+744
+00:31:52,519 --> 00:31:54,173
+I was trying to protect them
+
+745
+00:31:54,216 --> 00:31:55,870
+'cause they didn't mean
+to hurt anyone.
+
+746
+00:31:55,914 --> 00:31:59,395
+- I believe you.
+
+747
+00:31:59,439 --> 00:32:02,921
+And...you were the woman
+who screamed
+
+748
+00:32:02,964 --> 00:32:05,488
+when Max was killed?
+
+749
+00:32:05,532 --> 00:32:07,708
+You were trying to stop it.
+
+750
+00:32:07,751 --> 00:32:11,494
+So you made an icon corner
+at his grave.
+
+751
+00:32:11,538 --> 00:32:13,670
+- Did Max say or do anything
+the other night
+
+752
+00:32:13,714 --> 00:32:16,325
+that might help us find Lucy?
+
+753
+00:32:16,369 --> 00:32:19,589
+- At first,
+he refused to talk.
+
+754
+00:32:20,460 --> 00:32:23,289
+So I hit him.
+Hard.
+
+755
+00:32:23,332 --> 00:32:25,334
+I demanded to know.
+
+756
+00:32:25,378 --> 00:32:27,554
+Where were you gonna take
+my Sarah?
+
+757
+00:32:27,597 --> 00:32:29,860
+What were you gonna do
+with her?
+
+758
+00:32:29,904 --> 00:32:32,559
+He said...
+
+759
+00:32:32,602 --> 00:32:35,301
+- Max said, the graveyard.
+
+760
+00:32:35,344 --> 00:32:37,346
+We knew what he meant.
+
+761
+00:32:37,390 --> 00:32:39,305
+That he wanted to kill Sarah.
+
+762
+00:32:39,348 --> 00:32:41,307
+That is when it ended.
+
+763
+00:32:41,350 --> 00:32:43,526
+- We didn't know
+there was another girl
+
+764
+00:32:43,570 --> 00:32:45,920
+until you came and started
+asking questions.
+
+765
+00:32:45,964 --> 00:32:47,878
+- And then we thought
+Max must have murdered her
+
+766
+00:32:47,922 --> 00:32:49,315
+long ago.
+
+767
+00:32:49,358 --> 00:32:51,752
+We didn't know she was alive.
+You must believe us.
+
+768
+00:32:51,795 --> 00:32:55,756
+♪
+
+769
+00:32:55,799 --> 00:32:58,454
+- So they didn't give you
+anything we can use.
+
+770
+00:32:58,498 --> 00:33:00,761
+- Hang on a sec.
+Let's break this down.
+
+771
+00:33:00,804 --> 00:33:02,676
+Max said graveyard.
+
+772
+00:33:02,719 --> 00:33:04,591
+They thought that meant
+it was a confession,
+
+773
+00:33:04,634 --> 00:33:06,506
+that he planned
+to murder Sarah.
+
+774
+00:33:06,549 --> 00:33:08,987
+- But if Jamie Bedford's
+any indication,
+
+775
+00:33:09,030 --> 00:33:11,511
+he actually doesn't kill
+the girls right away.
+
+776
+00:33:11,554 --> 00:33:14,209
+He keeps them...somewhere.
+
+777
+00:33:14,253 --> 00:33:16,995
+- It's not only a lie,
+it's a foolish one.
+
+778
+00:33:17,038 --> 00:33:19,998
+All Max did was escalate
+an already bad situation.
+
+779
+00:33:20,041 --> 00:33:22,348
+- But what if he wasn't lying?
+
+780
+00:33:22,391 --> 00:33:23,479
+What if he was trying
+to give them
+
+781
+00:33:23,523 --> 00:33:25,568
+a genuine location?
+
+782
+00:33:25,612 --> 00:33:29,094
+The man repaired mausoleums
+for a living.
+
+783
+00:33:29,137 --> 00:33:31,531
+Maybe he retrofitted one
+
+784
+00:33:31,574 --> 00:33:34,795
+at a nearby graveyard,
+
+785
+00:33:34,838 --> 00:33:36,884
+and that's where he keeps
+the girls.
+
+786
+00:33:39,408 --> 00:33:40,583
+- There are dozens
+of cemeteries
+
+787
+00:33:40,627 --> 00:33:42,585
+in Brooklyn and Queens.
+
+788
+00:33:42,629 --> 00:33:45,675
+The Cemetery Belt stretches
+over 2 1/2 miles.
+
+789
+00:33:45,719 --> 00:33:48,461
+It's so big, you can see it
+from space.
+
+790
+00:33:48,504 --> 00:33:51,246
+- And if I have to kick in
+every mausoleum door
+
+791
+00:33:51,290 --> 00:33:53,031
+in the city
+to find Lucy Arthur, I will.
+
+792
+00:33:56,208 --> 00:33:58,253
+- Check Max Sobirov's
+work history.
+
+793
+00:33:58,297 --> 00:34:01,430
+Go back at least ten years.
+
+794
+00:34:01,474 --> 00:34:02,605
+- Guy's worked
+in every cemetery
+
+795
+00:34:02,649 --> 00:34:03,911
+in the five boroughs.
+
+796
+00:34:03,954 --> 00:34:06,218
+- Stick to Brooklyn and Queens
+for now.
+
+797
+00:34:06,261 --> 00:34:07,697
+One that's not too big.
+
+798
+00:34:07,741 --> 00:34:09,482
+They'd have too many
+groundskeepers and staff
+
+799
+00:34:09,525 --> 00:34:10,744
+lurking around.
+
+800
+00:34:10,787 --> 00:34:12,311
+But not so intimate
+as they'd have people
+
+801
+00:34:12,354 --> 00:34:13,964
+that might notice
+his comings and goings.
+
+802
+00:34:14,008 --> 00:34:16,184
+- Okay, filtering by size,
+
+803
+00:34:16,228 --> 00:34:18,621
+there are six cemeteries
+in New York
+
+804
+00:34:18,665 --> 00:34:20,058
+that are 10 acres or less,
+
+805
+00:34:20,101 --> 00:34:23,452
+and you are seriously
+in my personal space right now.
+
+806
+00:34:25,802 --> 00:34:28,588
+- How many mausoleums
+in each cemetery?
+
+807
+00:34:28,631 --> 00:34:30,764
+Organize them by name,
+
+808
+00:34:30,807 --> 00:34:33,506
+and crosscheck them
+with Max's former clients.
+
+809
+00:34:35,247 --> 00:34:38,163
+[sirens blaring]
+
+810
+00:34:38,206 --> 00:34:45,170
+♪
+
+811
+00:34:54,831 --> 00:34:57,269
+- We just got word
+from the unit at St. Peter's.
+
+812
+00:34:57,312 --> 00:34:58,792
+Search was a bust.
+
+813
+00:34:58,835 --> 00:35:00,402
+- How many mausoleums do I have
+left on my curated list?
+
+814
+00:35:00,446 --> 00:35:01,751
+- Two.
+
+815
+00:35:01,795 --> 00:35:03,753
+Officers are on the other side
+of the property now,
+
+816
+00:35:03,797 --> 00:35:05,625
+and our team's taking this one.
+
+817
+00:35:05,668 --> 00:35:07,279
+- Number six was a bust too.
+
+818
+00:35:07,322 --> 00:35:09,194
+- Lincoln, if this
+doesn't pay off,
+
+819
+00:35:09,237 --> 00:35:11,152
+we're back to square one.
+
+820
+00:35:11,196 --> 00:35:12,284
+- She's not here either.
+
+821
+00:35:12,327 --> 00:35:14,242
+- [breathing heavily]
+
+822
+00:35:14,286 --> 00:35:17,463
+♪
+
+823
+00:35:17,506 --> 00:35:19,117
+- Stop right there.
+
+824
+00:35:19,160 --> 00:35:23,338
+♪
+
+825
+00:35:23,382 --> 00:35:25,166
+- What do you see?
+
+826
+00:35:25,210 --> 00:35:26,689
+- That crypt.
+
+827
+00:35:26,733 --> 00:35:28,996
+You see the door?
+
+828
+00:35:29,039 --> 00:35:30,954
+- Yes.
+
+829
+00:35:30,998 --> 00:35:32,173
+Guys, over here!
+
+830
+00:35:32,217 --> 00:35:35,133
+[intense music]
+
+831
+00:35:35,176 --> 00:35:42,052
+♪
+
+832
+00:35:43,532 --> 00:35:44,490
+Fleur-de-lis.
+
+833
+00:35:44,533 --> 00:35:46,100
+- Max Sobirov's signature.
+
+834
+00:35:49,495 --> 00:35:51,061
+- Bolt cutter.
+
+835
+00:35:57,503 --> 00:35:59,157
+- I'll get ESU to clear.
+- No.
+
+836
+00:36:00,419 --> 00:36:02,160
+I'm going in.
+
+837
+00:36:07,687 --> 00:36:08,078
+.
+
+838
+00:36:08,122 --> 00:36:09,819
+- Lucy Arthur!
+
+839
+00:36:09,863 --> 00:36:11,952
+[tense music]
+
+840
+00:36:11,995 --> 00:36:13,562
+Lucy!
+
+841
+00:36:19,960 --> 00:36:22,180
+Lucy!
+
+842
+00:36:34,844 --> 00:36:36,716
+Can you hear me?
+
+843
+00:36:43,026 --> 00:36:44,245
+[banging]
+- Let me out!
+
+844
+00:36:44,289 --> 00:36:46,639
+Let me out!
+Help me!
+
+845
+00:36:46,682 --> 00:36:48,728
+I'm in here!
+Help me, please!
+
+846
+00:36:48,771 --> 00:36:50,120
+Help me, please!
+
+847
+00:36:50,164 --> 00:36:51,644
+- Stand back from the door!
+
+848
+00:36:51,687 --> 00:36:53,385
+- Okay!
+- Battering ram.
+
+849
+00:36:57,432 --> 00:37:00,435
+[intense music]
+
+850
+00:37:00,479 --> 00:37:04,831
+♪
+
+851
+00:37:04,874 --> 00:37:07,442
+[girl sobbing]
+
+852
+00:37:07,486 --> 00:37:09,096
+- You found me.
+
+853
+00:37:11,141 --> 00:37:14,232
+[breathing heavily]
+
+854
+00:37:14,275 --> 00:37:16,712
+- Oh, honey--
+- [crying]
+
+855
+00:37:18,888 --> 00:37:20,760
+[Lucy sobbing]
+
+856
+00:37:20,803 --> 00:37:24,590
+[soft music]
+
+857
+00:37:24,633 --> 00:37:26,374
+- We've got you.
+
+858
+00:37:26,418 --> 00:37:30,726
+♪
+
+859
+00:37:30,770 --> 00:37:32,598
+- This was a good day.
+
+860
+00:37:32,641 --> 00:37:34,556
+- Mr. and Mrs. Arthur.
+
+861
+00:37:34,600 --> 00:37:37,080
+- Detective, the officers
+wouldn't tell us anything.
+
+862
+00:37:37,124 --> 00:37:38,430
+- I know, um...
+
+863
+00:37:38,473 --> 00:37:41,259
+she wanted to tell you
+herself.
+
+864
+00:37:45,480 --> 00:37:47,177
+- Mom?
+
+865
+00:37:47,221 --> 00:37:48,396
+Dad?
+- Lucy?
+
+866
+00:37:48,440 --> 00:37:49,832
+Oh, my God!
+
+867
+00:37:49,876 --> 00:37:53,009
+[all laughing and sobbing]
+
+868
+00:37:53,053 --> 00:37:55,664
+- Oh, my God!
+
+869
+00:37:57,840 --> 00:37:59,755
+Oh, my God.
+
+870
+00:37:59,799 --> 00:38:01,627
+Thank you.
+
+871
+00:38:03,498 --> 00:38:05,195
+- Nice work.
+
+872
+00:38:06,153 --> 00:38:13,291
+♪
+
+873
+00:38:15,728 --> 00:38:18,034
+- Dimitri Tarasov.
+
+874
+00:38:18,078 --> 00:38:20,254
+Plane from Bermuda lands at JFK
+in one hour.
+
+875
+00:38:20,298 --> 00:38:23,866
+I told the officers
+we'd be there for the handoff.
+
+876
+00:38:23,910 --> 00:38:25,433
+- Any evidence
+Tarasov owned a knife
+
+877
+00:38:25,477 --> 00:38:27,522
+like the one they used
+to kill Max Sobirov?
+
+878
+00:38:27,566 --> 00:38:29,307
+- He bought a chust knife
+a year ago
+
+879
+00:38:29,350 --> 00:38:30,830
+in a little place
+in Brighton Beach.
+
+880
+00:38:30,873 --> 00:38:33,615
+They're getting me a receipt
+and a photo for forensics.
+
+881
+00:38:35,922 --> 00:38:38,316
+- Ms. Mustafin.
+What a surprise.
+
+882
+00:38:39,708 --> 00:38:41,406
+- How can we help you?
+
+883
+00:38:41,449 --> 00:38:45,671
+- Yes, you can take this
+into evidence.
+
+884
+00:38:48,151 --> 00:38:49,892
+[dramatic musical sting]
+
+885
+00:38:49,936 --> 00:38:51,633
+- That's our murder weapon.
+
+886
+00:38:51,677 --> 00:38:53,287
+- Yes.
+It's mine.
+
+887
+00:38:54,984 --> 00:38:58,031
+I killed Max Sobirov.
+
+888
+00:38:58,074 --> 00:39:01,208
+To protect the children
+of our neighborhood.
+
+889
+00:39:01,251 --> 00:39:02,514
+No one helped me.
+
+890
+00:39:02,557 --> 00:39:06,866
+No one on my block heard
+or saw anything.
+
+891
+00:39:09,695 --> 00:39:11,871
+- We're gonna get you settled
+in our interview room,
+
+892
+00:39:11,914 --> 00:39:13,220
+all right?
+
+893
+00:39:13,263 --> 00:39:15,831
+- I've been questioned
+in worse places.
+
+894
+00:39:15,875 --> 00:39:21,707
+♪
+
+895
+00:39:21,750 --> 00:39:24,100
+- You really think the DA's
+gonna put an old lady in prison
+
+896
+00:39:24,144 --> 00:39:26,451
+for killing a predator
+like Max Sobirov?
+
+897
+00:39:26,494 --> 00:39:28,366
+- What, are you kidding me?
+
+898
+00:39:29,410 --> 00:39:31,543
+I think they might try
+to give her a medal.
+
+899
+00:39:39,551 --> 00:39:40,595
+- Hey.
+
+900
+00:39:42,554 --> 00:39:45,992
+You, uh, left before I was up
+this morning.
+
+901
+00:39:48,342 --> 00:39:50,039
+How was school?
+
+902
+00:39:50,083 --> 00:39:51,345
+- The usual.
+
+903
+00:39:51,389 --> 00:39:54,130
+Ha.
+How was work?
+
+904
+00:39:54,174 --> 00:39:55,567
+- [laughs]
+
+905
+00:39:55,610 --> 00:39:58,352
+Not the usual.
+
+906
+00:39:58,396 --> 00:39:59,745
+But it ended well.
+
+907
+00:40:04,663 --> 00:40:07,230
+- Look,
+
+908
+00:40:07,274 --> 00:40:09,058
+here's the thing.
+
+909
+00:40:09,102 --> 00:40:12,061
+I know you're this superhero
+
+910
+00:40:12,105 --> 00:40:13,976
+with a crazy job,
+
+911
+00:40:14,020 --> 00:40:16,196
+but when things go wrong,
+
+912
+00:40:16,239 --> 00:40:19,068
+you can't bring it down on me.
+
+913
+00:40:19,112 --> 00:40:20,940
+- I know.
+
+914
+00:40:23,246 --> 00:40:24,378
+I know.
+You're right.
+
+915
+00:40:27,163 --> 00:40:29,252
+I'm sorry.
+
+916
+00:40:29,296 --> 00:40:32,560
+- I'm sorry too.
+For what I said.
+
+917
+00:40:32,604 --> 00:40:34,388
+I know you just have a lot
+on your plate
+
+918
+00:40:34,432 --> 00:40:37,609
+and you're just trying
+to do your best.
+
+919
+00:40:37,652 --> 00:40:38,827
+- Yeah.
+
+920
+00:40:40,394 --> 00:40:42,483
+- I got you a T-shirt.
+
+921
+00:40:42,527 --> 00:40:43,528
+- Oh.
+
+922
+00:40:46,095 --> 00:40:48,663
+[laughing]
+Oh!
+
+923
+00:40:48,707 --> 00:40:49,664
+- You like it?
+
+924
+00:40:49,708 --> 00:40:50,796
+- Of course.
+
+925
+00:40:50,839 --> 00:40:53,625
+[Phoebe Bridgers'
+"Smoke Signals']
+
+926
+00:40:53,668 --> 00:40:54,626
+Thank you.
+
+927
+00:40:56,932 --> 00:40:58,630
+- Hey,
+
+928
+00:40:58,673 --> 00:41:01,110
+if you ever need to talk
+about anything,
+
+929
+00:41:01,154 --> 00:41:02,938
+I can handle it.
+
+930
+00:41:04,331 --> 00:41:06,899
+- It's just cop stuff.
+
+931
+00:41:08,030 --> 00:41:09,510
+Everything's fine.
+
+932
+00:41:09,554 --> 00:41:11,251
+- ♪ Nothing's changed
+
+933
+00:41:11,294 --> 00:41:15,342
+- I promise.
+- ♪ LA's all right
+
+934
+00:41:17,170 --> 00:41:20,260
+- ♪ You...
+
+935
+00:41:20,303 --> 00:41:21,957
+- Remember what Dr. Trask said.
+
+936
+00:41:22,001 --> 00:41:23,481
+It's unpredictable.
+
+937
+00:41:23,524 --> 00:41:25,831
+- It's gone is what it is.
+
+938
+00:41:25,874 --> 00:41:27,397
+- Well, it's just a toe.
+
+939
+00:41:27,441 --> 00:41:29,051
+[knock on door]
+
+940
+00:41:29,095 --> 00:41:31,053
+You said it.
+
+941
+00:41:31,097 --> 00:41:33,969
+- ♪ Falcons circling...
+
+942
+00:41:34,013 --> 00:41:35,275
+- Lincoln?
+
+943
+00:41:35,318 --> 00:41:38,147
+- Sellitto.
+Congrats on bringing Lucy home.
+
+944
+00:41:38,191 --> 00:41:40,149
+- Thanks.
+I came to celebrate.
+
+945
+00:41:40,193 --> 00:41:42,021
+[Phoebe Bridgers'
+"Smoke Signals"]
+
+946
+00:41:42,064 --> 00:41:44,197
+- Our old tradition.
+
+947
+00:41:44,240 --> 00:41:46,721
+Close a case,
+raise a glass.
+
+948
+00:41:48,593 --> 00:41:50,464
+Not that I can raise mine.
+
+949
+00:41:52,466 --> 00:41:54,337
+- I got you covered.
+
+950
+00:41:54,381 --> 00:41:58,690
+- ♪ You
+
+951
+00:41:58,733 --> 00:42:01,867
+♪ You must have been
+lookin' for me... ♪
+
+952
+00:42:01,910 --> 00:42:03,477
+To Lucy Arthur.
+
+953
+00:42:03,521 --> 00:42:05,435
+- To never giving up.
+
+954
+00:42:05,479 --> 00:42:08,003
+♪ Sending smo-oke
+
+955
+00:42:08,047 --> 00:42:09,352
+♪ Signals
+
+956
+00:42:09,396 --> 00:42:13,356
+♪ Falcons circling
+
+957
+00:42:13,400 --> 00:42:15,968
+♪
+
+958
+00:42:16,011 --> 00:42:17,491
+- Yeah.
