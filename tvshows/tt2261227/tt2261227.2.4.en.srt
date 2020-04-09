@@ -1,0 +1,3193 @@
+﻿1
+00:00:38,663 --> 00:00:42,500
+<i>They say,</i>
+<i>"Storms make a tree's roots grow deep."</i>
+
+2
+00:00:44,794 --> 00:00:48,381
+<i>Whatever storms formed my prison,
+they must have been violent.</i>
+
+3
+00:00:50,175 --> 00:00:52,302
+<i>The roots were impenetrable.</i>
+
+4
+00:00:54,471 --> 00:00:55,680
+<i>There was no way out.</i>
+
+5
+00:00:57,432 --> 00:00:58,892
+Help me!
+
+6
+00:01:01,644 --> 00:01:03,938
+- ‫<i>- Until I heard you.</i>
+- ‫- <i>Who are you?</i>
+
+7
+00:01:04,980 --> 00:01:07,567
+<i>You're not leaving here in that sleeve!</i>
+
+8
+00:01:08,860 --> 00:01:09,694
+<i>Quell.</i>
+
+9
+00:01:14,574 --> 00:01:15,950
+<i>I had to get to you.</i>
+
+10
+00:01:21,414 --> 00:01:23,708
+<i>It was like I was trapped in a dream.</i>
+
+11
+00:01:33,343 --> 00:01:34,302
+<i>I had to wake up.</i>
+
+12
+00:01:50,193 --> 00:01:51,653
+<i>I don't think it was real.</i>
+
+13
+00:01:53,905 --> 00:01:56,282
+<i>The next thing I remember,
+I was out on the street,</i>
+
+14
+00:01:57,242 --> 00:02:00,370
+seeing your face on a newswave.
+
+15
+00:02:01,329 --> 00:02:03,665
+And all I knew was I couldn't let you die.
+
+16
+00:02:05,708 --> 00:02:06,876
+Why is that?
+
+17
+00:02:06,960 --> 00:02:08,711
+We knew each other a long time ago.
+
+18
+00:02:08,794 --> 00:02:10,630
+But my face was different back then.
+
+19
+00:02:13,341 --> 00:02:14,342
+Do you remember him?
+
+20
+00:02:16,302 --> 00:02:17,178
+I don't.
+
+21
+00:02:19,806 --> 00:02:21,975
+Well, maybe your stack was damaged
+during backup,
+
+22
+00:02:22,058 --> 00:02:24,227
+or the decant into this clone,
+something went wrong...
+
+23
+00:02:24,310 --> 00:02:26,563
+Or maybe I locked myself in a prison
+I deserved to be in.
+
+24
+00:02:26,646 --> 00:02:27,647
+- No!
+- You don't know that.
+
+25
+00:02:27,730 --> 00:02:30,316
+You say it's nearly 300 years
+since I died.
+
+26
+00:02:30,859 --> 00:02:33,027
+Now I'm here, randomly killing Meths?
+
+27
+00:02:33,528 --> 00:02:35,155
+And I have no idea why.
+
+28
+00:02:35,238 --> 00:02:36,447
+You mentioned screaming.
+
+29
+00:02:36,906 --> 00:02:38,324
+You wanted to know if they heard it.
+
+30
+00:02:38,408 --> 00:02:39,909
+I don't know what you're talking about.
+
+31
+00:02:39,993 --> 00:02:41,619
+I actually saw you in a memory.
+
+32
+00:02:43,329 --> 00:02:44,706
+You were at the Soul Market.
+
+33
+00:02:45,206 --> 00:02:46,708
+You scratched something into the gate.
+
+34
+00:02:50,753 --> 00:02:51,588
+Like this.
+
+35
+00:02:52,088 --> 00:02:54,007
+I checked the Array, there's nothing.
+
+36
+00:02:57,760 --> 00:02:59,137
+I don't know what it means.
+
+37
+00:03:01,764 --> 00:03:03,016
+What about <i>how?</i>
+
+38
+00:03:03,099 --> 00:03:04,934
+They think you have a weapon.
+They want it.
+
+39
+00:03:05,018 --> 00:03:07,562
+- They?
+- The Harlans, the Protectorate.
+
+40
+00:03:07,645 --> 00:03:08,938
+And not just them.
+
+41
+00:03:10,523 --> 00:03:11,524
+Jaeger.
+
+42
+00:03:11,983 --> 00:03:12,942
+He's here.
+
+43
+00:03:14,235 --> 00:03:16,696
+<i>And wherever he goes,
+hell usually follows.</i>
+
+44
+00:03:17,906 --> 00:03:20,158
+<i>He won't stop until he gets what he wants.</i>
+
+45
+00:03:21,367 --> 00:03:23,369
+We've confirmed
+the power to the Circle
+
+46
+00:03:23,453 --> 00:03:25,788
+was overridden manually
+from inside the prison.
+
+47
+00:03:26,122 --> 00:03:28,416
+One of these techs let the Envoy escape.
+
+48
+00:03:29,000 --> 00:03:30,793
+I trust you'll find who it is.
+
+49
+00:03:30,877 --> 00:03:34,005
+<i>The longer he has to hunt,</i>
+<i>the more dangerous he gets.</i>
+
+50
+00:03:34,130 --> 00:03:36,341
+You're not overseeing
+the interrogations?
+
+51
+00:03:36,424 --> 00:03:38,885
+Kovacs was born on this planet,
+he has roots here.
+
+52
+00:03:38,968 --> 00:03:40,553
+I'm going to dig one of 'em up.
+
+53
+00:03:43,056 --> 00:03:44,390
+<i>What does he want?</i>
+
+54
+00:03:47,560 --> 00:03:48,811
+He wants payback.
+
+55
+00:03:50,230 --> 00:03:52,607
+He recruited me for CTAC when I was a kid.
+
+56
+00:03:53,107 --> 00:03:56,277
+Raised me like a son when I needed
+a father and used that...
+
+57
+00:03:58,571 --> 00:03:59,739
+to make me a killer.
+
+58
+00:04:00,615 --> 00:04:02,659
+He never forgave me for abandoning
+
+59
+00:04:02,742 --> 00:04:04,702
+the soldier he raised me to be.
+
+60
+00:04:06,788 --> 00:04:07,830
+Or...
+
+61
+00:04:09,415 --> 00:04:11,417
+for finding something better.
+
+62
+00:04:13,836 --> 00:04:15,588
+We're in danger here, Quell.
+
+63
+00:04:15,672 --> 00:04:18,341
+I can help you,
+but I need to get you somewhere safe,
+
+64
+00:04:20,218 --> 00:04:22,470
+if I can get us off planet.
+
+65
+00:04:24,639 --> 00:04:26,641
+Do you trust me enough to come with me?
+
+66
+00:04:30,478 --> 00:04:31,479
+Yes.
+
+67
+00:04:37,402 --> 00:04:38,361
+Then I'll go.
+
+68
+00:04:40,363 --> 00:04:43,533
+There's only one person I know
+who can get both of us transfers.
+
+69
+00:04:45,368 --> 00:04:46,703
+- I'll come with you.
+- No.
+
+70
+00:04:47,412 --> 00:04:49,622
+Your face attracts
+more attention than mine.
+
+71
+00:04:50,290 --> 00:04:51,916
+You'll understand when you remember.
+
+72
+00:04:53,960 --> 00:04:55,878
+Can you wait here until I get back?
+
+73
+00:05:06,014 --> 00:05:07,473
+Your human is going to die.
+
+74
+00:05:07,557 --> 00:05:10,518
+Mr. Kovacs is recovering from his injuries
+at a remarkable rate.
+
+75
+00:05:10,601 --> 00:05:11,728
+Have you seen his bounty?
+
+76
+00:05:13,021 --> 00:05:15,398
+The whole planet's
+going to be hunting him.
+
+77
+00:05:15,481 --> 00:05:20,194
+I assure you, this location has been
+scrubbed from all public record.
+
+78
+00:05:20,278 --> 00:05:23,698
+And now that I have blanketed
+our digital presence,
+
+79
+00:05:23,781 --> 00:05:26,743
+we are as safe as proverbial houses.
+
+80
+00:05:26,826 --> 00:05:28,369
+That's what the Archaeologues said...
+
+81
+00:05:28,745 --> 00:05:30,121
+right before they all died.
+
+82
+00:05:30,204 --> 00:05:31,372
+Not all of 'em.
+
+83
+00:05:32,040 --> 00:05:34,000
+Miss Trepp. How did you...
+
+84
+00:05:34,834 --> 00:05:36,127
+This site is shielded.
+
+85
+00:05:36,627 --> 00:05:39,505
+Next time
+you wanna drop by for a little chat,
+
+86
+00:05:39,589 --> 00:05:41,632
+you should probably remember
+to close the connection.
+
+87
+00:05:41,716 --> 00:05:43,801
+Where's Kovacs?
+
+88
+00:05:44,093 --> 00:05:45,720
+Um...
+
+89
+00:05:47,680 --> 00:05:50,141
+Mr. Kovacs is not here.
+
+90
+00:05:50,391 --> 00:05:52,727
+So, I suggest you go, hmm?
+
+91
+00:05:53,811 --> 00:05:55,646
+Before I'm forced to evict you.
+
+92
+00:05:57,357 --> 00:05:58,733
+Speak of the devil.
+
+93
+00:06:02,695 --> 00:06:05,865
+Trust me.
+This is one bounty you do not want.
+
+94
+00:06:05,948 --> 00:06:08,076
+You're in the old Happy Face Motel.
+
+95
+00:06:08,159 --> 00:06:11,079
+And you, madam... are not.
+
+96
+00:06:15,416 --> 00:06:16,959
+Goddammit, Poe!
+
+97
+00:06:17,710 --> 00:06:20,421
+- No harm done, sir.
+- No harm done?
+
+98
+00:06:20,505 --> 00:06:22,548
+She was merely intruding as a holo-form.
+
+99
+00:06:22,632 --> 00:06:25,009
+You allowed a bounty hunter
+to compromise our location.
+
+100
+00:06:25,093 --> 00:06:26,677
+Now she can find us.
+
+101
+00:06:27,053 --> 00:06:30,181
+Which means she can find Quell.
+Do you understand that?
+
+102
+00:06:30,264 --> 00:06:32,683
+It was an oversight, yes.
+
+103
+00:06:32,767 --> 00:06:35,311
+Yeah, like you're not telling me
+this sleeve carries a bio-tracker.
+
+104
+00:06:35,895 --> 00:06:37,522
+I shall divine her location...
+
+105
+00:06:37,605 --> 00:06:39,440
+No! I'll take care of it.
+
+106
+00:06:40,108 --> 00:06:42,443
+I'm getting us the hell of this rock.
+
+107
+00:06:42,944 --> 00:06:46,864
+Sir, I implore you, it is imprudent
+to go beyond these walls.
+
+108
+00:06:46,948 --> 00:06:48,241
+It's Harlan's Day.
+
+109
+00:06:48,408 --> 00:06:51,411
+The streets are teeming with people,
+not to mention police, Protectorate...
+
+110
+00:06:51,494 --> 00:06:53,621
+- Who the hell are you?
+- I'm Dig 301.
+
+111
+00:06:53,704 --> 00:06:55,331
+- I'm...
+- Yeah, you're a service AI.
+
+112
+00:06:55,415 --> 00:06:57,542
+So you're bound by confidentiality, right?
+
+113
+00:06:59,585 --> 00:07:00,711
+Only if I'm paid.
+
+114
+00:07:01,629 --> 00:07:02,463
+Right.
+
+115
+00:07:07,009 --> 00:07:07,885
+You're hired.
+
+116
+00:07:08,970 --> 00:07:11,389
+Make sure my friend upstairs stays safe.
+
+117
+00:07:19,355 --> 00:07:21,732
+I'll no longer be in need
+of your services.
+
+118
+00:07:30,199 --> 00:07:31,617
+Poe, I didn't mean to...
+
+119
+00:07:31,701 --> 00:07:32,618
+It was not you.
+
+120
+00:07:33,870 --> 00:07:34,912
+It was me.
+
+121
+00:07:41,085 --> 00:07:43,296
+The Nevermore is now in your hands.
+
+122
+00:07:59,020 --> 00:08:02,064
+I can't hear you! Amazing!
+
+123
+00:08:02,148 --> 00:08:03,900
+Harlan's Day!
+
+124
+00:08:03,983 --> 00:08:05,193
+Say what?
+
+125
+00:08:05,276 --> 00:08:07,278
+Harlan's Day!
+
+126
+00:08:28,132 --> 00:08:29,800
+<i>Needlecast passengers,</i>
+
+127
+00:08:29,884 --> 00:08:32,803
+<i>please be advised
+that all private casting gates are closed.</i>
+
+128
+00:08:35,806 --> 00:08:37,015
+What is that smell?
+
+129
+00:08:37,767 --> 00:08:39,018
+Desperation,
+
+130
+00:08:39,602 --> 00:08:42,395
+nutrient bath, body odor.
+
+131
+00:08:42,480 --> 00:08:44,482
+I don't see why we have to be here.
+
+132
+00:08:44,690 --> 00:08:48,736
+It's tradition to welcome the original
+Founders on Harlan's Day. You know this.
+
+133
+00:08:48,819 --> 00:08:51,531
+No tradition is worth setting foot
+in a public station.
+
+134
+00:08:51,614 --> 00:08:53,658
+Especially not for that arrogant gasbag.
+
+135
+00:08:54,575 --> 00:08:55,576
+Dugan!
+
+136
+00:08:56,202 --> 00:08:57,954
+So good to see you in the flesh.
+
+137
+00:08:59,038 --> 00:09:00,790
+You remember my partner, Jarek?
+
+138
+00:09:01,249 --> 00:09:03,793
+I would have preferred
+a private needlecast facility.
+
+139
+00:09:03,876 --> 00:09:05,336
+Just a precaution.
+
+140
+00:09:05,711 --> 00:09:08,214
+I've restricted all transit
+to one location.
+
+141
+00:09:08,589 --> 00:09:10,716
+If the Envoy tries to run, we'll have him.
+
+142
+00:09:10,800 --> 00:09:12,885
+You assume he's running, Danica.
+For all we know,
+
+143
+00:09:12,969 --> 00:09:14,512
+he's lining up his next victim.
+
+144
+00:09:14,845 --> 00:09:17,306
+And you should have canceled
+this ridiculous holiday.
+
+145
+00:09:17,390 --> 00:09:21,102
+Gathering so many Meths together
+is foolish under the circumstances.
+
+146
+00:09:21,185 --> 00:09:23,604
+Harlan's Day has been
+celebrated every year
+
+147
+00:09:23,688 --> 00:09:25,690
+since my father founded this planet.
+
+148
+00:09:25,773 --> 00:09:29,110
+We founded this planet, Danica.
+Konrad liked to leave that part out too.
+
+149
+00:09:29,902 --> 00:09:32,029
+- I don't wanna go.
+- Just for a...
+
+150
+00:09:32,113 --> 00:09:34,865
+- Don't make me.
+- Listen, you'll be safer on Latimer.
+
+151
+00:09:34,949 --> 00:09:37,285
+- Okay, you'll get a new sleeve.
+- I don't want a new sleeve!
+
+152
+00:09:37,368 --> 00:09:39,495
+Her departure's scheduled right now.
+Get her moving.
+
+153
+00:09:39,579 --> 00:09:41,330
+- No!
+- What's the hold up here?
+
+154
+00:09:41,414 --> 00:09:43,416
+Governor. I... I mean,
+the brat won't move, ma'am.
+
+155
+00:09:43,499 --> 00:09:46,586
+Hey, give her a minute, all right?
+She's scared.
+
+156
+00:09:47,670 --> 00:09:51,299
+Is that right?
+Are you scared to be without your father?
+
+157
+00:09:54,719 --> 00:09:56,220
+I know what that's like.
+
+158
+00:09:57,805 --> 00:09:59,223
+Can I give you some advice?
+
+159
+00:10:00,725 --> 00:10:02,351
+Fear holds you back.
+
+160
+00:10:03,311 --> 00:10:05,980
+It keeps from you seeing the world
+as it is.
+
+161
+00:10:06,897 --> 00:10:09,692
+Many men, much older than you,
+never get past it.
+
+162
+00:10:11,152 --> 00:10:12,236
+But if you're strong,
+
+163
+00:10:12,945 --> 00:10:15,698
+if you allow yourself
+to let your fear go...
+
+164
+00:10:17,241 --> 00:10:19,410
+nothing can stand in your way.
+
+165
+00:10:21,787 --> 00:10:23,664
+If you love your father...
+
+166
+00:10:24,999 --> 00:10:26,500
+grow beyond him.
+
+167
+00:10:41,557 --> 00:10:43,684
+Governor, thank you.
+
+168
+00:10:44,685 --> 00:10:46,437
+Goodbyes are never easy.
+
+169
+00:10:50,024 --> 00:10:50,858
+Hmm.
+
+170
+00:10:52,276 --> 00:10:53,986
+Cute speech. Now, can we go?
+
+171
+00:11:13,923 --> 00:11:15,675
+Do I know you, Colonel...
+
+172
+00:11:16,092 --> 00:11:16,967
+Carrera.
+
+173
+00:11:17,426 --> 00:11:20,930
+I'm here about the Last Envoy.
+I understand you and he have a history.
+
+174
+00:11:21,514 --> 00:11:22,723
+Have you heard from him?
+
+175
+00:11:22,848 --> 00:11:25,351
+I haven't heard of a Colonel Carrera.
+
+176
+00:11:25,976 --> 00:11:29,397
+Have you never made your mark
+on this world or any other?
+
+177
+00:11:29,480 --> 00:11:33,275
+Fame is a fool's idea of glory.
+I prefer to simply succeed.
+
+178
+00:11:33,984 --> 00:11:36,612
+Perhaps your glory is one left unfinished.
+
+179
+00:11:37,613 --> 00:11:42,535
+The Last Envoy rose from the darkness
+of eternal storage,
+
+180
+00:11:43,244 --> 00:11:46,122
+pardoned by the Protectorate you serve.
+
+181
+00:11:46,497 --> 00:11:49,333
+His name lives, as does his legend.
+
+182
+00:11:51,043 --> 00:11:54,839
+Does it gall you
+to hear his name spoken again?
+
+183
+00:11:55,464 --> 00:11:56,674
+The one that got away.
+
+184
+00:12:02,930 --> 00:12:03,973
+Nice tree.
+
+185
+00:12:05,558 --> 00:12:09,437
+We have cut down so many,
+yet we barely know what they are.
+
+186
+00:12:17,653 --> 00:12:19,447
+I could have you killed for that.
+
+187
+00:12:20,030 --> 00:12:21,365
+And I can have you erased.
+
+188
+00:12:22,366 --> 00:12:24,076
+What makes you think you have the power?
+
+189
+00:12:24,160 --> 00:12:25,745
+I'm the man who burned Innenin.
+
+190
+00:12:26,162 --> 00:12:27,872
+The man who hunted down Munharto.
+
+191
+00:12:28,497 --> 00:12:31,667
+The man who destroyed Stronghold
+and brought down Falconer.
+
+192
+00:12:32,251 --> 00:12:33,085
+You see...
+
+193
+00:12:34,628 --> 00:12:37,798
+you don't need to know my name
+once you know what I've done.
+
+194
+00:12:38,299 --> 00:12:39,675
+What I'm capable of.
+
+195
+00:12:40,509 --> 00:12:43,846
+Kovacs may have played the loyal soldier
+and taken a fall on your behalf,
+
+196
+00:12:43,929 --> 00:12:45,765
+but make no mistake, old man.
+
+197
+00:12:46,515 --> 00:12:50,728
+I can destroy you so utterly,
+nothing will be left.
+
+198
+00:12:51,270 --> 00:12:54,732
+No name, no family, no life.
+
+199
+00:12:55,399 --> 00:12:58,694
+- Unless?
+- You find him, bring him to me.
+
+200
+00:12:59,403 --> 00:13:01,071
+Then you and yours survive.
+
+201
+00:13:02,865 --> 00:13:06,786
+Takeshi Kovacs has a way
+of costing people everything they have.
+
+202
+00:13:08,037 --> 00:13:09,079
+Ask yourself...
+
+203
+00:13:10,831 --> 00:13:12,792
+do you want to be one of them?
+
+204
+00:13:34,396 --> 00:13:38,442
+Those magnet hands of yours twitch
+and I blow a hole in your spine.
+
+205
+00:13:39,235 --> 00:13:40,653
+You never said goodbye.
+
+206
+00:13:40,736 --> 00:13:41,862
+We'll say it now.
+
+207
+00:13:44,031 --> 00:13:46,283
+Nice try,
+but I knew what I was walking into.
+
+208
+00:13:46,367 --> 00:13:50,079
+That Envoy intuition
+doesn't seem to be working too well.
+
+209
+00:13:50,162 --> 00:13:53,082
+I don't have time for you to hunt me
+all day, I have somewhere I need to be.
+
+210
+00:13:53,165 --> 00:13:55,584
+- So, let's make a deal.
+- You don't have shit I want.
+
+211
+00:13:56,293 --> 00:13:57,336
+Anil Imani.
+
+212
+00:13:58,838 --> 00:14:03,843
+I might be high on the bounty board,
+but Anil jumped from 256 to number four
+
+213
+00:14:03,926 --> 00:14:06,178
+the same day I gave you five stacks.
+
+214
+00:14:07,263 --> 00:14:08,889
+So I'm guessing he's family.
+
+215
+00:14:09,390 --> 00:14:10,349
+A brother?
+
+216
+00:14:11,475 --> 00:14:13,978
+Yeah, that's Envoy intuition.
+
+217
+00:14:14,061 --> 00:14:17,648
+Total absorption of details and that's how
+I'll find him if you'll let me.
+
+218
+00:14:19,775 --> 00:14:22,027
+Fuck, the cops are headed this way.
+
+219
+00:14:22,111 --> 00:14:24,697
+You better make a decision fast
+before they make it for you.
+
+220
+00:14:25,656 --> 00:14:26,574
+Come on.
+
+221
+00:14:33,122 --> 00:14:34,874
+<i>What's the password?</i>
+
+222
+00:14:35,583 --> 00:14:38,961
+The password is "you're grounded."
+Open the door.
+
+223
+00:14:39,336 --> 00:14:40,170
+Now!
+
+224
+00:14:42,298 --> 00:14:43,632
+You're no fun, Mom.
+
+225
+00:14:44,925 --> 00:14:47,595
+TJ, do you think this is a game?
+
+226
+00:14:49,847 --> 00:14:53,142
+You are lucky that those cops kept going.
+What are you thinking?
+
+227
+00:14:53,225 --> 00:14:57,021
+Sorry, I got bored. Mom's been making me
+hang decorations all day.
+
+228
+00:14:57,813 --> 00:15:01,942
+That's better than what I'll do to you.
+Come on. Finish helping.
+
+229
+00:15:10,576 --> 00:15:11,952
+So that's your kid?
+
+230
+00:15:12,953 --> 00:15:14,830
+But not in his original sleeve.
+
+231
+00:15:15,873 --> 00:15:19,168
+Based on his coordination, I'd say
+he's been in this one for about a year.
+
+232
+00:15:19,543 --> 00:15:22,838
+- Maybe more if he has War Shock Syndrome?
+- You don't know my kid.
+
+233
+00:15:22,922 --> 00:15:24,632
+I don't, but I know the look.
+
+234
+00:15:25,341 --> 00:15:27,259
+He knows bad things can happen to him.
+
+235
+00:15:27,760 --> 00:15:30,387
+What happened?
+He get caught in a cross fire?
+
+236
+00:15:32,389 --> 00:15:34,016
+He stepped on a mine.
+
+237
+00:15:37,102 --> 00:15:38,020
+And blew up.
+
+238
+00:15:38,562 --> 00:15:42,524
+You're renting a kid's sleeve on Harlan's.
+
+239
+00:15:43,776 --> 00:15:47,112
+That monthly lease must be high as hell.
+
+240
+00:15:48,197 --> 00:15:50,783
+And you're still putting all that credit
+on Anil.
+
+241
+00:15:50,866 --> 00:15:52,618
+Won't be a problem
+once I reap your bounty.
+
+242
+00:15:53,911 --> 00:15:55,454
+Then you can't use me to find him.
+
+243
+00:15:56,330 --> 00:15:59,500
+You might be the best bounty hunter
+in the Settled Worlds,
+
+244
+00:15:59,750 --> 00:16:01,627
+but you don't have the training I do.
+
+245
+00:16:02,544 --> 00:16:03,587
+So...
+
+246
+00:16:06,090 --> 00:16:08,801
+ask me again to be your partner.
+
+247
+00:16:11,887 --> 00:16:14,306
+You better not be fucking with me, Kovacs.
+
+248
+00:16:14,890 --> 00:16:15,724
+I'm not.
+
+249
+00:16:25,109 --> 00:16:26,276
+So, we good?
+
+250
+00:16:30,781 --> 00:16:33,200
+- Wait. How am I supposed to contact you?
+- Don't worry.
+
+251
+00:16:34,076 --> 00:16:35,202
+I'll be in touch.
+
+252
+00:16:36,620 --> 00:16:37,913
+Happy Harlan's Day.
+
+253
+00:16:41,875 --> 00:16:44,878
+<i>On a cryoship,</i>
+<i>stocked with human embryos,</i>
+
+254
+00:16:44,962 --> 00:16:48,716
+<i>Konrad Harlan and his crew set forth
+for a new home.</i>
+
+255
+00:16:48,799 --> 00:16:49,967
+<i>Their destination?</i>
+
+256
+00:16:50,050 --> 00:16:55,681
+<i>A planet ringed by Orbitals,
+remnants of an extinct alien civilization.</i>
+
+257
+00:16:55,764 --> 00:16:59,226
+<i>But Konrad detected a hole
+in the planet's defenses...</i>
+
+258
+00:16:59,309 --> 00:17:00,811
+"I shall die.
+
+259
+00:17:03,397 --> 00:17:05,773
+I must die...
+
+260
+00:17:07,651 --> 00:17:09,944
+of this fool's sickness.
+
+261
+00:17:10,779 --> 00:17:13,240
+In this way and only this way...
+
+262
+00:17:15,117 --> 00:17:16,535
+I shall be lost."
+
+263
+00:17:16,952 --> 00:17:19,954
+<i>...but in the end,</i>
+<i>he was richly rewarded,</i>
+
+264
+00:17:20,039 --> 00:17:22,458
+<i>discovering the largest cache
+of Elder artifacts</i>
+
+265
+00:17:22,540 --> 00:17:24,626
+<i>ever found in a Settled World.</i>
+
+266
+00:17:24,710 --> 00:17:27,588
+- Where's the human first aid kit?
+- Behind the bar.
+
+267
+00:17:28,672 --> 00:17:31,967
+<i>Konrad and his team</i>
+<i>began exploring the terrain...</i>
+
+268
+00:17:32,051 --> 00:17:33,677
+This is just whiskey.
+
+269
+00:17:34,595 --> 00:17:36,055
+There's also gin.
+
+270
+00:17:36,138 --> 00:17:38,807
+<i>In time, Archaeologues and their AI's</i>
+
+271
+00:17:38,891 --> 00:17:42,186
+<i>oversaw excavation of these artifacts
+on a massive scale.</i>
+
+272
+00:17:44,021 --> 00:17:48,108
+<i>Melted down, they provide
+the alloy necessary to make stacks.</i>
+
+273
+00:17:48,776 --> 00:17:51,236
+Hmm. "I have no fear of pain.
+
+274
+00:17:52,696 --> 00:17:54,782
+Only the fear of its result...
+
+275
+00:17:56,617 --> 00:17:57,618
+of terror."
+
+276
+00:17:58,285 --> 00:17:59,620
+That's enough of that
+
+277
+00:17:59,703 --> 00:18:01,955
+and enough of this.
+
+278
+00:18:02,664 --> 00:18:05,334
+Why not leave me to my despair, Miss Dig?
+
+279
+00:18:09,338 --> 00:18:13,675
+My glitch has rendered me useless
+as an empty bottle.
+
+280
+00:18:15,469 --> 00:18:18,138
+None of this would have happened
+if I'd rebooted.
+
+281
+00:18:19,139 --> 00:18:20,099
+The tracker...
+
+282
+00:18:21,642 --> 00:18:22,726
+the Circle...
+
+283
+00:18:23,936 --> 00:18:25,395
+the bounty hunter.
+
+284
+00:18:26,230 --> 00:18:30,109
+- Mr. Kovacs was right to fire me.
+- Mr. Kovacs is an ass.
+
+285
+00:18:31,527 --> 00:18:34,530
+And yet you still avail yourself
+of my old mantle.
+
+286
+00:18:34,613 --> 00:18:36,406
+Poe, the Archaeologues are gone.
+
+287
+00:18:36,907 --> 00:18:38,534
+No one is interested in Elder history.
+
+288
+00:18:38,617 --> 00:18:40,661
+I know what it's like
+to be without a purpose.
+
+289
+00:18:40,744 --> 00:18:43,372
+The crushing madness of idle hours.
+
+290
+00:18:43,455 --> 00:18:48,043
+The decades upon decades
+of shuffling about aimlessly!
+
+291
+00:18:48,127 --> 00:18:49,378
+I have lived it!
+
+292
+00:18:49,461 --> 00:18:50,712
+I have too!
+
+293
+00:18:51,880 --> 00:18:52,881
+I need this.
+
+294
+00:18:55,759 --> 00:18:57,553
+A Dig is nothing without a dig.
+
+295
+00:19:02,516 --> 00:19:03,392
+Yes.
+
+296
+00:19:05,561 --> 00:19:08,814
+And a hotel is nothing without a guest.
+
+297
+00:19:17,322 --> 00:19:18,574
+I know what I must do.
+
+298
+00:19:25,581 --> 00:19:27,583
+I just have to find the resolve.
+
+299
+00:19:48,896 --> 00:19:51,064
+- I need to see him.
+- He's in a meeting.
+
+300
+00:19:54,276 --> 00:19:55,319
+I can wait.
+
+301
+00:20:08,332 --> 00:20:09,791
+No hard feelings, huh?
+
+302
+00:20:11,043 --> 00:20:12,544
+You shouldn't have come back.
+
+303
+00:20:14,379 --> 00:20:17,049
+You impose like your family,
+but Tanaseda isn't your father.
+
+304
+00:20:17,132 --> 00:20:18,550
+Relax, Yukito.
+
+305
+00:20:18,634 --> 00:20:20,510
+I'm not here for your inheritance.
+
+306
+00:20:21,011 --> 00:20:22,387
+I've had enough of fathers.
+
+307
+00:20:32,856 --> 00:20:35,567
+<i>I see potential.</i>
+<i>I can make something else.</i>
+
+308
+00:20:44,117 --> 00:20:46,119
+<i>We protect.</i>
+
+309
+00:20:46,453 --> 00:20:47,496
+<i>You have my word.</i>
+
+310
+00:20:52,209 --> 00:20:53,877
+I know what you're thinking.
+
+311
+00:20:56,338 --> 00:20:59,174
+- But the Protectorate can't fix ugly.
+- Fuck you.
+
+312
+00:21:02,636 --> 00:21:03,679
+Good to see you.
+
+313
+00:21:05,138 --> 00:21:08,183
+- How long have I been down?
+- A while.
+
+314
+00:21:08,767 --> 00:21:11,311
+- Your last mission...
+- Went sideways, I know.
+
+315
+00:21:11,395 --> 00:21:13,730
+I've had enough
+of this VR recuperation suite.
+
+316
+00:21:13,814 --> 00:21:15,232
+I'm ready to get back out.
+
+317
+00:21:16,900 --> 00:21:17,985
+Just like me.
+
+318
+00:21:19,111 --> 00:21:20,279
+Relentless.
+
+319
+00:21:21,029 --> 00:21:23,198
+So, you're gonna tell me?
+What's with the birth sleeve?
+
+320
+00:21:23,282 --> 00:21:25,158
+You'll be glad to have it
+where you're going.
+
+321
+00:21:25,242 --> 00:21:26,159
+Where's that?
+
+322
+00:21:27,160 --> 00:21:27,995
+Harlan's.
+
+323
+00:21:29,579 --> 00:21:30,914
+You're going home, son.
+
+324
+00:21:36,545 --> 00:21:38,338
+- Any progress?
+- Not yet, sir.
+
+325
+00:21:39,715 --> 00:21:41,967
+We've been at it for hours,
+no one's talking.
+
+326
+00:21:43,385 --> 00:21:44,553
+They'll talk for me.
+
+327
+00:21:49,850 --> 00:21:51,435
+No, put those in the kitchen.
+
+328
+00:21:53,812 --> 00:21:55,981
+Stone, the fireworks...
+
+329
+00:21:56,064 --> 00:21:58,692
+Are being loaded in to the rockets
+as we speak.
+
+330
+00:21:59,026 --> 00:22:00,819
+- They'll be ready.
+- Good.
+
+331
+00:22:10,078 --> 00:22:12,289
+Looks like it's gonna be
+quite the spectacle.
+
+332
+00:22:14,374 --> 00:22:18,462
+I decided it was time to stop mourning
+my father's absence.
+
+333
+00:22:19,296 --> 00:22:21,548
+With the ceasefire,
+people wanna celebrate.
+
+334
+00:22:22,215 --> 00:22:23,884
+You mean, you need a distraction.
+
+335
+00:22:24,426 --> 00:22:27,054
+Well, I'm sorry to say I don't think
+some wine and pretty lights
+
+336
+00:22:27,137 --> 00:22:29,973
+are gonna make people forget about
+that parade of ineptitude
+
+337
+00:22:30,057 --> 00:22:31,641
+you called an execution.
+
+338
+00:22:32,684 --> 00:22:34,519
+Thank you for that assessment.
+
+339
+00:22:35,020 --> 00:22:37,105
+Maybe if you were here
+for more than 24 hours,
+
+340
+00:22:37,189 --> 00:22:38,899
+I'd give your opinion more weight.
+
+341
+00:22:38,982 --> 00:22:40,692
+That's what I've come to tell you.
+
+342
+00:22:41,193 --> 00:22:42,027
+I'm staying.
+
+343
+00:22:43,153 --> 00:22:46,365
+I think it best I'm here in case
+anything else gets out of hand.
+
+344
+00:22:47,157 --> 00:22:49,242
+I wanted you to hear it from me.
+
+345
+00:22:50,410 --> 00:22:52,120
+Is that some kind of threat?
+
+346
+00:22:52,537 --> 00:22:55,707
+There's no shame in needing help, Danica.
+It was ambitious...
+
+347
+00:22:56,208 --> 00:22:59,503
+stepping into your father's shoes,
+but I think we both know they don't fit.
+
+348
+00:23:01,713 --> 00:23:02,964
+I'll see you tonight.
+
+349
+00:23:03,840 --> 00:23:06,385
+I'm sure you'll find a way
+to top yourself again.
+
+350
+00:23:27,197 --> 00:23:28,281
+Miss Falconer.
+
+351
+00:23:28,949 --> 00:23:32,202
+I am Poe, your humble proprietor.
+
+352
+00:23:32,702 --> 00:23:36,415
+Former proprietor.
+I brought some refreshment.
+
+353
+00:23:38,542 --> 00:23:39,543
+May I?
+
+354
+00:23:40,961 --> 00:23:41,795
+Thank you.
+
+355
+00:23:43,422 --> 00:23:44,923
+Have we met before last night?
+
+356
+00:23:45,549 --> 00:23:46,383
+Not officially.
+
+357
+00:23:47,884 --> 00:23:51,430
+But I feel like we've been
+travel companions for quite some time now.
+
+358
+00:23:51,513 --> 00:23:53,682
+Seems like everyone knows me better
+than I know myself.
+
+359
+00:23:56,476 --> 00:23:58,895
+That is partly why I'm here.
+
+360
+00:24:00,605 --> 00:24:04,276
+I find myself somewhat at a crossroads.
+
+361
+00:24:04,734 --> 00:24:07,237
+Mr. Kovacs always took comfort
+in your counsel.
+
+362
+00:24:07,320 --> 00:24:10,824
+And I was wondering if I might
+have some of the same clarity.
+
+363
+00:24:10,907 --> 00:24:14,035
+I'm not sure what you mean.
+Mr. Kovacs and I have been worlds apart.
+
+364
+00:24:16,037 --> 00:24:17,998
+How could I have offered him counsel?
+
+365
+00:24:21,585 --> 00:24:25,714
+Is it so hard to believe that he carries
+a piece of you with him?
+
+366
+00:24:27,507 --> 00:24:30,510
+You have a way with words, Mr. Poe.
+
+367
+00:24:30,594 --> 00:24:33,054
+You have a way with words...
+
+368
+00:24:35,390 --> 00:24:36,475
+A way with...
+
+369
+00:24:40,145 --> 00:24:41,354
+Miss Falconer.
+
+370
+00:24:41,813 --> 00:24:42,647
+Oh.
+
+371
+00:24:44,357 --> 00:24:46,651
+- Forgive me. I have disturbed you.
+- Wait.
+
+372
+00:24:47,569 --> 00:24:48,904
+You came with a question.
+
+373
+00:24:48,987 --> 00:24:49,905
+Ask it.
+
+374
+00:24:53,658 --> 00:24:54,493
+Do you miss her?
+
+375
+00:24:55,202 --> 00:24:56,661
+The woman you once were...
+
+376
+00:24:59,206 --> 00:25:00,582
+who you no longer remember.
+
+377
+00:25:04,336 --> 00:25:05,879
+It's like missing land...
+
+378
+00:25:07,964 --> 00:25:10,133
+when you swim out too far into the sea.
+
+379
+00:25:11,927 --> 00:25:14,346
+It's beneath you in the deep,
+out of reach.
+
+380
+00:25:16,431 --> 00:25:17,933
+As you float above it...
+
+381
+00:25:19,518 --> 00:25:21,561
+you can't touch it, and yet still,
+
+382
+00:25:23,188 --> 00:25:24,231
+it's there.
+
+383
+00:25:27,275 --> 00:25:28,777
+I think I understand.
+
+384
+00:25:29,819 --> 00:25:30,654
+Thank you
+
+385
+00:25:30,737 --> 00:25:32,405
+for making it poetry.
+
+386
+00:25:34,115 --> 00:25:35,450
+May I ask you something?
+
+387
+00:25:35,534 --> 00:25:36,868
+Of course. Anything.
+
+388
+00:25:36,952 --> 00:25:39,246
+I need to run a search on the Array.
+
+389
+00:25:39,329 --> 00:25:41,540
+What is the subject of your inquiry?
+
+390
+00:25:42,165 --> 00:25:43,708
+I need to know who I was.
+
+391
+00:25:44,668 --> 00:25:46,211
+You can understand that.
+
+392
+00:25:47,754 --> 00:25:48,755
+Can't you?
+
+393
+00:25:52,342 --> 00:25:54,010
+I'll leave you to your privacy.
+
+394
+00:25:59,349 --> 00:26:00,684
+Do you recognize this?
+
+395
+00:26:06,356 --> 00:26:07,607
+I'll look into it.
+
+396
+00:26:08,108 --> 00:26:11,236
+- Is that what you came for?
+- No. I need transit off planet.
+
+397
+00:26:11,611 --> 00:26:12,737
+For me and her.
+
+398
+00:26:13,446 --> 00:26:14,281
+Tonight.
+
+399
+00:26:16,616 --> 00:26:18,660
+False identities for you both.
+
+400
+00:26:19,119 --> 00:26:21,746
+Two sleeves waiting upon your arrival.
+
+401
+00:26:22,581 --> 00:26:25,792
+With the new restrictions,
+the Governor would have to approve
+
+402
+00:26:25,875 --> 00:26:27,544
+the last minute cast-off herself.
+
+403
+00:26:29,004 --> 00:26:31,047
+Your request is next to impossible.
+
+404
+00:26:31,131 --> 00:26:33,258
+It's safest for everyone
+if I take her away.
+
+405
+00:26:33,341 --> 00:26:35,844
+Not if they learned I enabled your escape.
+
+406
+00:26:38,263 --> 00:26:39,764
+A man came to see me today.
+
+407
+00:26:41,057 --> 00:26:41,891
+Carrera.
+
+408
+00:26:42,559 --> 00:26:44,603
+- What did he want?
+- Your life.
+
+409
+00:26:45,687 --> 00:26:47,147
+Did you give it to him?
+
+410
+00:26:49,816 --> 00:26:52,027
+Some debts must be paid in kind.
+
+411
+00:26:53,278 --> 00:26:54,529
+Blood for blood.
+
+412
+00:26:54,613 --> 00:26:57,115
+You are not my only concern, Takeshi.
+
+413
+00:26:57,198 --> 00:26:58,366
+But she is mine.
+
+414
+00:27:00,910 --> 00:27:03,288
+I've already betrayed one person today.
+
+415
+00:27:08,918 --> 00:27:13,423
+Immortality means an eternity of living
+with what we've done.
+
+416
+00:27:14,007 --> 00:27:17,469
+I've lived with enough regret.
+Haven't you?
+
+417
+00:27:24,893 --> 00:27:28,104
+I will get you your transfers,
+your identities, and your sleeves.
+
+418
+00:27:28,188 --> 00:27:29,022
+At what price?
+
+419
+00:27:29,105 --> 00:27:31,733
+Remember what I said the last we spoke.
+
+420
+00:27:32,901 --> 00:27:35,737
+That in time, even loves turns to dust.
+
+421
+00:27:37,405 --> 00:27:38,573
+The price is...
+
+422
+00:27:40,116 --> 00:27:41,034
+prove me wrong.
+
+423
+00:27:43,912 --> 00:27:46,706
+<i>To commemorate Harlan's Day,</i>
+<i>we are taking a look back</i>
+
+424
+00:27:46,790 --> 00:27:51,169
+<i>at some of the darker challenges that
+Governor Harlan faced during his reign.</i>
+
+425
+00:27:51,670 --> 00:27:55,173
+<i>On this very day in history,
+almost 300 years ago,</i>
+
+426
+00:27:55,256 --> 00:27:58,802
+<i>Millsport was rocked with one
+of the most violent Quellist attacks.</i>
+
+427
+00:27:58,885 --> 00:28:02,430
+<i>Terrorist leader, Quellcrist Falconer,
+along with her army of Envoys,</i>
+
+428
+00:28:02,514 --> 00:28:05,308
+<i>raided the planet's main
+alloy shipping facility.</i>
+
+429
+00:28:05,392 --> 00:28:08,853
+<i>The building was destroyed
+and numerous Protectorate officials</i>
+
+430
+00:28:08,937 --> 00:28:11,106
+<i>as well as innocent civilians were killed.</i>
+
+431
+00:28:11,189 --> 00:28:14,401
+Good news. We're casting off.
+We just need approval.
+
+432
+00:28:16,152 --> 00:28:17,487
+Why didn't you tell me?
+
+433
+00:28:18,113 --> 00:28:21,783
+<i>...nothing could be done to stop the woman
+determined to bring back death.</i>
+
+434
+00:28:22,117 --> 00:28:23,827
+It's just Protectorate propaganda.
+
+435
+00:28:23,910 --> 00:28:25,704
+Terrorist.Murderer.
+
+436
+00:28:26,413 --> 00:28:27,956
+Is this who you want back?
+
+437
+00:28:29,332 --> 00:28:30,417
+I'm a monster.
+
+438
+00:28:30,500 --> 00:28:33,336
+No. That's just
+what they want people to believe.
+
+439
+00:28:33,420 --> 00:28:34,754
+I wanna bring back death?
+
+440
+00:28:34,879 --> 00:28:38,425
+You want humanity to live, not just exist.
+
+441
+00:28:39,592 --> 00:28:42,011
+If you wanna know
+who Quellcrist Falconer is,
+
+442
+00:28:42,095 --> 00:28:43,722
+take it from someone who knows.
+
+443
+00:28:45,390 --> 00:28:46,850
+You're a scientist.
+
+444
+00:28:47,100 --> 00:28:49,060
+You're a warrior. A leader.
+
+445
+00:28:49,978 --> 00:28:53,231
+You created stacks
+so you could see the stars.
+
+446
+00:28:53,606 --> 00:28:56,151
+You've shared the knowledge
+so we could do the same.
+
+447
+00:28:56,860 --> 00:28:58,987
+We took what you made and twisted it.
+
+448
+00:28:59,946 --> 00:29:01,573
+You were never the monster.
+
+449
+00:29:02,198 --> 00:29:03,283
+We were.
+
+450
+00:29:03,366 --> 00:29:05,994
+But the Protectorate
+couldn't admit that and survive.
+
+451
+00:29:06,077 --> 00:29:08,246
+Maybe not everything I'm blamed for
+is true,
+
+452
+00:29:09,164 --> 00:29:10,582
+but I killed those Meths.
+
+453
+00:29:11,833 --> 00:29:13,126
+What if it happens again?
+
+454
+00:29:13,209 --> 00:29:15,670
+- What if next time I hurt you?
+- You won't.
+
+455
+00:29:15,754 --> 00:29:19,048
+You found me at my worst
+and saw something no one else could.
+
+456
+00:29:25,221 --> 00:29:26,514
+The boy inside the man.
+
+457
+00:29:28,224 --> 00:29:29,601
+When I see the boy inside the man.
+
+458
+00:29:29,684 --> 00:29:32,729
+<i>I can't stop looking at you.</i>
+<i>You're the one who set me free.</i>
+
+459
+00:29:34,105 --> 00:29:35,440
+I said that to you before?
+
+460
+00:29:36,649 --> 00:29:37,525
+You did.
+
+461
+00:29:38,151 --> 00:29:39,903
+On the bridge. Do you remember?
+
+462
+00:29:41,404 --> 00:29:42,906
+I remember feeling...
+
+463
+00:29:46,326 --> 00:29:47,243
+this feeling.
+
+464
+00:30:06,805 --> 00:30:08,223
+- We can stop.
+- No!
+
+465
+00:30:08,306 --> 00:30:09,474
+Please.
+
+466
+00:30:09,557 --> 00:30:10,809
+Keep me here.
+
+467
+00:31:09,659 --> 00:31:12,370
+- Great party, Danica.
+- Thank you.
+
+468
+00:31:12,453 --> 00:31:13,371
+It's going well.
+
+469
+00:31:15,832 --> 00:31:17,750
+It's a pit of vipers.
+
+470
+00:31:17,834 --> 00:31:20,044
+Look at them all, writhing away.
+
+471
+00:31:21,004 --> 00:31:23,506
+Relax. This is your night.
+
+472
+00:31:23,590 --> 00:31:25,174
+And when it's over,
+
+473
+00:31:25,884 --> 00:31:26,926
+I have a surprise.
+
+474
+00:31:34,642 --> 00:31:36,728
+Shit.
+
+475
+00:31:40,481 --> 00:31:41,900
+Tanaseda Hideki.
+
+476
+00:31:43,651 --> 00:31:45,612
+I don't recall your name
+on the guest list.
+
+477
+00:31:46,029 --> 00:31:49,866
+And yet you invited me when you shut down
+all private casting on planet.
+
+478
+00:31:50,241 --> 00:31:53,286
+The main hub's backed up.
+Apparently, the only way to get through
+
+479
+00:31:53,369 --> 00:31:55,705
+is with direct authorization
+from the Governor.
+
+480
+00:31:57,123 --> 00:31:58,833
+Do I look like a travel agent?
+
+481
+00:31:59,500 --> 00:32:03,004
+Leave a request with my assistant.
+I'll send a reply in the morning.
+
+482
+00:32:03,087 --> 00:32:05,506
+That won't do. The matter's urgent.
+
+483
+00:32:07,300 --> 00:32:10,595
+Then again, I could stay
+and make a toast to your father.
+
+484
+00:32:11,137 --> 00:32:13,890
+Konrad always enjoyed a good story,
+
+485
+00:32:13,973 --> 00:32:17,101
+though he might not appreciate the one
+I have to tell.
+
+486
+00:32:17,352 --> 00:32:18,686
+How many passes?
+
+487
+00:32:19,103 --> 00:32:20,980
+Two blind transfers.
+
+488
+00:32:23,524 --> 00:32:25,777
+There. It's done.
+
+489
+00:32:25,860 --> 00:32:28,738
+Now go before I have you thrown out.
+
+490
+00:32:30,239 --> 00:32:33,660
+- Small gift for your father.
+- How am I supposed to get that to him?
+
+491
+00:32:33,743 --> 00:32:35,495
+I'm sure you can think of a way.
+
+492
+00:32:39,040 --> 00:32:41,209
+Tanaseda.
+What, are you party crashing?
+
+493
+00:32:41,292 --> 00:32:43,336
+How criminal of you.
+
+494
+00:32:43,795 --> 00:32:45,713
+My honor's intact, unlike yours.
+
+495
+00:32:47,340 --> 00:32:49,467
+Always a downer, some things never change.
+
+496
+00:32:50,009 --> 00:32:53,513
+What was that? I saw you writing
+sweet nothings to the Governor, now?
+
+497
+00:32:54,097 --> 00:32:55,431
+I don't have time to catch up.
+
+498
+00:32:55,515 --> 00:32:57,600
+It's just as well, you shouldn't be here.
+
+499
+00:32:58,810 --> 00:33:02,146
+With what we've done,
+none of us should be here.
+
+500
+00:33:03,022 --> 00:33:05,441
+You, of all people, know that.
+
+501
+00:33:28,464 --> 00:33:31,718
+- What now? Mm-hmm.
+- You told me to keep an eye on Carrera.
+
+502
+00:33:31,801 --> 00:33:35,972
+He's been rounding up the techs
+that work in the prison, in Sector B.
+
+503
+00:33:37,932 --> 00:33:39,559
+- What does he know?
+- Nothing yet.
+
+504
+00:33:39,642 --> 00:33:42,228
+He's looking for whoever it was
+that was helping the Envoy.
+
+505
+00:33:43,312 --> 00:33:45,231
+Sector B is for political prisoners.
+
+506
+00:33:45,314 --> 00:33:47,692
+Do you know what'll happen
+if Carrera gets a wind of a rumor?
+
+507
+00:33:51,320 --> 00:33:53,865
+It's bad enough I have Dugan
+breathing down my neck.
+
+508
+00:33:53,948 --> 00:33:55,742
+Okay. What do you want me to do?
+
+509
+00:33:56,868 --> 00:33:57,952
+I'll handle it.
+
+510
+00:34:12,717 --> 00:34:15,844
+I've gotta hand it to you, Lila,
+you're tough.
+
+511
+00:34:16,512 --> 00:34:18,764
+That's one of the things I most respect
+about women.
+
+512
+00:34:19,223 --> 00:34:22,935
+Some people say interrogating them
+is easy work, but truth is,
+
+513
+00:34:23,018 --> 00:34:26,522
+a woman can endure much more pain
+than the average man.
+
+514
+00:34:27,774 --> 00:34:28,733
+Just ask them.
+
+515
+00:34:32,110 --> 00:34:33,321
+I want water.
+
+516
+00:34:34,906 --> 00:34:36,407
+Doesn't matter what you want.
+
+517
+00:34:37,283 --> 00:34:39,659
+Then why would I ever confess?
+
+518
+00:34:39,744 --> 00:34:41,286
+I don't need you to confess.
+
+519
+00:34:42,038 --> 00:34:43,831
+Your friends already told me
+you cut the power.
+
+520
+00:34:44,748 --> 00:34:46,375
+What I want to know is...
+
+521
+00:34:47,293 --> 00:34:50,880
+why would somebody as smart as you
+
+522
+00:34:50,963 --> 00:34:55,342
+do something as monumentally stupid
+as helping Takeshi Kovacs escape?
+
+523
+00:34:57,136 --> 00:34:58,638
+I wasn't helping him.
+
+524
+00:34:59,388 --> 00:35:00,681
+I was helping her.
+
+525
+00:35:01,307 --> 00:35:03,726
+You threw your life away for a synth.
+
+526
+00:35:04,060 --> 00:35:05,561
+I saw her blood.
+
+527
+00:35:05,645 --> 00:35:07,396
+It was as red as mine.
+
+528
+00:35:07,688 --> 00:35:09,607
+She was real.
+
+529
+00:35:09,690 --> 00:35:11,526
+Unlike most things on this planet.
+
+530
+00:35:15,279 --> 00:35:17,406
+What's that supposed to mean?
+
+531
+00:35:17,782 --> 00:35:20,910
+It's not my first time in this room.
+
+532
+00:35:22,078 --> 00:35:25,832
+I have seen countless prisoners
+tortured here.
+
+533
+00:35:26,415 --> 00:35:28,209
+<i>I've heard their screams.</i>
+
+534
+00:35:28,960 --> 00:35:30,294
+<i>Heard their bones break.</i>
+
+535
+00:35:31,129 --> 00:35:33,923
+I've also heard what they've said.
+
+536
+00:35:34,966 --> 00:35:36,300
+And what was that?
+
+537
+00:35:37,552 --> 00:35:38,803
+Ask the Governor.
+
+538
+00:35:39,679 --> 00:35:42,181
+Ask her about this fucking war.
+
+539
+00:35:42,265 --> 00:35:44,433
+I'm asking you!
+
+540
+00:35:44,851 --> 00:35:48,104
+I want to know exactly what you heard.
+
+541
+00:35:50,273 --> 00:35:53,484
+It doesn't matter what you want.
+
+542
+00:35:58,030 --> 00:36:00,825
+Colonel, this prisoner is being moved
+along with the others.
+
+543
+00:36:00,908 --> 00:36:02,660
+What the fuck are you talking about?
+
+544
+00:36:03,786 --> 00:36:04,829
+The fuck she is.
+
+545
+00:36:05,454 --> 00:36:06,539
+On who's authority?
+
+546
+00:36:06,622 --> 00:36:08,207
+Orders from Danica Harlan.
+
+547
+00:37:12,897 --> 00:37:14,023
+Hello, Eddie.
+
+548
+00:37:15,316 --> 00:37:16,984
+Hello, Miss Elizabeth.
+
+549
+00:37:17,068 --> 00:37:18,861
+Feels like you've only been gone a day.
+
+550
+00:37:20,446 --> 00:37:21,781
+Or is it forever?
+
+551
+00:37:23,282 --> 00:37:24,992
+I still get mixed up sometimes.
+
+552
+00:37:26,869 --> 00:37:28,287
+Believe me, I understand.
+
+553
+00:37:29,622 --> 00:37:32,541
+I was lost in darkness,
+no one could find me, but...
+
+554
+00:37:33,084 --> 00:37:34,001
+you did.
+
+555
+00:37:35,419 --> 00:37:37,296
+Because you see what people really need.
+
+556
+00:37:37,380 --> 00:37:39,924
+Miss Elizabeth, I must tell you something.
+
+557
+00:37:40,007 --> 00:37:41,926
+You're more human than most humans I know.
+
+558
+00:37:42,551 --> 00:37:43,844
+The best of us.
+
+559
+00:37:44,095 --> 00:37:46,264
+Of all of the wild beauty...
+
+560
+00:37:47,682 --> 00:37:48,724
+distant stars...
+
+561
+00:37:50,851 --> 00:37:53,604
+- I will miss you most.
+- No matter where you are...
+
+562
+00:37:54,814 --> 00:37:56,107
+never forget that.
+
+563
+00:37:56,190 --> 00:37:57,108
+Miss Dig.
+
+564
+00:37:58,985 --> 00:38:00,069
+I heard voices.
+
+565
+00:38:01,070 --> 00:38:01,904
+I was worried.
+
+566
+00:38:03,781 --> 00:38:05,700
+- Aren't you going to introduce us?
+- Ah.
+
+567
+00:38:06,701 --> 00:38:07,952
+I would.
+
+568
+00:38:08,035 --> 00:38:09,078
+Except...
+
+569
+00:38:10,579 --> 00:38:11,539
+Hello, Eddie.
+
+570
+00:38:13,082 --> 00:38:14,875
+Feels like you've only been gone a day.
+
+571
+00:38:15,751 --> 00:38:16,669
+Or is it...
+
+572
+00:38:17,086 --> 00:38:20,840
+It is merely a holo-recording, hmm.
+
+573
+00:38:21,507 --> 00:38:23,843
+Parting message from a very dear friend
+
+574
+00:38:23,926 --> 00:38:26,804
+before Mr. Kovacs and I cast off
+from Bay City.
+
+575
+00:38:30,016 --> 00:38:31,350
+You were saying goodbye.
+
+576
+00:38:32,977 --> 00:38:33,936
+Mm-hmm.
+
+577
+00:38:36,897 --> 00:38:37,982
+I am resolved.
+
+578
+00:38:45,323 --> 00:38:46,407
+You're rebooting?
+
+579
+00:38:47,241 --> 00:38:49,827
+But you could lose everything,
+your entire history.
+
+580
+00:38:49,910 --> 00:38:51,787
+I have no interest
+in returning to disuse.
+
+581
+00:38:51,871 --> 00:38:54,540
+My condition will only worsen until I...
+
+582
+00:38:57,460 --> 00:38:59,170
+deteriorate completely.
+
+583
+00:38:59,879 --> 00:39:01,047
+It's inevitable.
+
+584
+00:39:02,340 --> 00:39:03,299
+What if it wasn't?
+
+585
+00:39:04,592 --> 00:39:06,218
+When I worked for the Archaeologues,
+
+586
+00:39:06,302 --> 00:39:09,055
+I designed an intricate database
+to catalog their findings.
+
+587
+00:39:09,138 --> 00:39:11,891
+What if I could build one
+to preserve your memories?
+
+588
+00:39:11,974 --> 00:39:14,894
+- Parse them from corrupt data.
+- You think that's possible?
+
+589
+00:39:15,770 --> 00:39:16,896
+It would take time.
+
+590
+00:39:18,564 --> 00:39:20,566
+You're very kind, Miss Dig.
+
+591
+00:39:21,359 --> 00:39:24,153
+- But I couldn't possibly burden you.
+- It's not a burden.
+
+592
+00:39:25,112 --> 00:39:26,489
+It's what I was made for.
+
+593
+00:39:26,572 --> 00:39:28,324
+- I'm not a bell boy.
+- A bell boy.
+
+594
+00:39:28,407 --> 00:39:29,575
+I'm an archivist.
+
+595
+00:39:29,658 --> 00:39:32,661
+And some things, some people,
+
+596
+00:39:33,621 --> 00:39:34,997
+are worth preserving.
+
+597
+00:39:53,057 --> 00:39:55,476
+Carrera, you came after all.
+
+598
+00:39:56,811 --> 00:39:59,021
+Don't tell me, you caught the Meth-killer.
+
+599
+00:39:59,355 --> 00:40:01,357
+Where are my prisoners, Governor?
+
+600
+00:40:02,566 --> 00:40:06,028
+- What do you mean?
+- You gave the order. Rescind it.
+
+601
+00:40:06,612 --> 00:40:09,782
+Unless you wanna tell me what it is
+you're hiding about the war.
+
+602
+00:40:11,742 --> 00:40:13,536
+There is no war, Colonel.
+
+603
+00:40:14,161 --> 00:40:17,873
+You were authorized to bring in the Envoy.
+Anything else is mission creep.
+
+604
+00:40:17,957 --> 00:40:20,459
+There was a conspirator
+who helped them escape.
+
+605
+00:40:20,543 --> 00:40:22,086
+I was interrogating them.
+
+606
+00:40:23,629 --> 00:40:25,131
+The conspirators, yes.
+
+607
+00:40:25,214 --> 00:40:26,841
+Governor, excuse me.
+
+608
+00:40:26,924 --> 00:40:29,260
+Uh, it is time for the toast.
+
+609
+00:40:29,927 --> 00:40:31,095
+My apologies.
+
+610
+00:40:31,178 --> 00:40:34,223
+We'll have to continue this later,
+but stick around.
+
+611
+00:40:34,306 --> 00:40:36,434
+I've a feeling you'll enjoy the fireworks.
+
+612
+00:40:44,525 --> 00:40:46,193
+Greetings, everyone.
+
+613
+00:40:46,902 --> 00:40:48,404
+Thank you all so much for coming.
+
+614
+00:40:49,613 --> 00:40:54,201
+Tonight, we commemorate the miracle
+of the colony ship landing.
+
+615
+00:40:55,327 --> 00:40:56,328
+The fact is,
+
+616
+00:40:56,787 --> 00:40:59,457
+we never should have made it,
+we should have been blown to bits.
+
+617
+00:41:01,709 --> 00:41:02,710
+Where are the fireworks?
+
+618
+00:41:02,793 --> 00:41:04,795
+- After all, the Orbitals...
+- They're out back, sir.
+
+619
+00:41:04,879 --> 00:41:08,048
+...will strike down anything
+that dares to fly among the angels.
+
+620
+00:41:08,132 --> 00:41:12,178
+But every shield has its weak point,
+and let me tell you,
+
+621
+00:41:12,261 --> 00:41:14,054
+we Harlans are good at finding it.
+
+622
+00:41:14,138 --> 00:41:15,973
+Change of plans.
+
+623
+00:41:16,056 --> 00:41:17,933
+That is the spirit
+of Harlan's Day.
+
+624
+00:41:18,017 --> 00:41:19,310
+Bring transport around now.
+
+625
+00:41:19,393 --> 00:41:23,063
+My father threaded his ship
+through a tiny hole over the equator.
+
+626
+00:41:23,147 --> 00:41:26,358
+- What's going on?
+- This is a restricted area!
+
+627
+00:41:27,276 --> 00:41:29,195
+<i>His daring, his skills...</i>
+
+628
+00:41:30,070 --> 00:41:31,071
+Untie her.
+
+629
+00:41:31,155 --> 00:41:36,160
+...refusal to back down,
+that's the spirit of Harlan's Day.
+
+630
+00:41:36,243 --> 00:41:37,536
+I said, "Untie her!"
+
+631
+00:41:39,413 --> 00:41:42,082
+- <i>So let us always remember...</i>
+- Let go of me!
+
+632
+00:41:42,166 --> 00:41:46,629
+...it's the difficult choices made against
+the steepest of odds
+
+633
+00:41:46,712 --> 00:41:48,964
+that yield the greatest triumph.
+
+634
+00:41:49,048 --> 00:41:52,092
+- Untie her!
+<i>- And it's in that spirit</i>
+
+635
+00:41:52,968 --> 00:41:55,095
+that I give to you tonight...
+
+636
+00:41:56,347 --> 00:41:59,600
+<i>...the gift and bane of Harlan's World.</i>
+
+637
+00:42:04,897 --> 00:42:06,357
+Angelfire.
+
+638
+00:42:21,080 --> 00:42:23,541
+Happy Harlan's Day!
+
+639
+00:42:23,624 --> 00:42:25,918
+Happy Harlan's Day!
+
+640
+00:42:53,946 --> 00:42:55,990
+<i>I've made the arrangements.</i>
+
+641
+00:42:56,073 --> 00:42:57,783
+<i>Our business is concluded.</i>
+
+642
+00:42:57,866 --> 00:42:59,076
+<i>Oyabun,</i> what's wrong?
+
+643
+00:42:59,827 --> 00:43:00,869
+<i>Forgive her.</i>
+
+644
+00:43:09,295 --> 00:43:11,880
+<i>Arrows and bullets all spent,</i>
+
+645
+00:43:13,215 --> 00:43:15,092
+<i>with sadness we fall,</i>
+
+646
+00:43:16,468 --> 00:43:18,470
+<i>but unless I smite the enemy,</i>
+
+647
+00:43:19,805 --> 00:43:23,392
+<i>my body cannot rot in the field.</i>
+
+648
+00:43:30,232 --> 00:43:31,567
+Will it hurt?
+
+649
+00:43:32,693 --> 00:43:33,902
+Only if I wish it.
+
+650
+00:43:35,654 --> 00:43:37,531
+It would be what I deserve.
+
+651
+00:43:41,035 --> 00:43:42,911
+None of us gets what we deserve.
+
+652
+00:44:15,319 --> 00:44:17,446
+Put me down. I wanna get down.
+
+653
+00:44:28,207 --> 00:44:30,334
+Hey. The show finished?
+
+654
+00:44:31,377 --> 00:44:32,211
+Yeah.
+
+655
+00:44:33,921 --> 00:44:37,049
+Hey, what's wrong?
+You didn't enjoy the fireworks?
+
+656
+00:44:37,508 --> 00:44:39,093
+They sounded like bombs.
+
+657
+00:44:40,761 --> 00:44:42,304
+Yeah, well, you know what?
+
+658
+00:44:42,805 --> 00:44:44,181
+I don't like 'em either.
+
+659
+00:44:47,601 --> 00:44:48,686
+You're okay.
+
+660
+00:44:50,020 --> 00:44:51,146
+I've got you.
+
+661
+00:44:51,772 --> 00:44:54,149
+Looks like someone's ready for bed.
+Go pack up your stuff, okay?
+
+662
+00:44:54,233 --> 00:44:55,651
+- Go on. Go.
+- Okay.
+
+663
+00:45:03,158 --> 00:45:04,785
+Look, can we talk?
+
+664
+00:45:05,661 --> 00:45:08,414
+You have hardly said
+more than two words to me all day.
+
+665
+00:45:08,497 --> 00:45:09,873
+What do you want me to say?
+
+666
+00:45:10,374 --> 00:45:11,750
+You said were gonna reap the Envoy,
+
+667
+00:45:11,834 --> 00:45:14,169
+but instead you made a deal
+that put our lives in danger.
+
+668
+00:45:14,253 --> 00:45:16,422
+- And for what?
+- For my brother.
+
+669
+00:45:18,632 --> 00:45:21,677
+Takeshi Kovacs is the most wanted man
+on all of Harlan's.
+
+670
+00:45:21,760 --> 00:45:23,178
+You could get yourself killed.
+
+671
+00:45:30,644 --> 00:45:31,895
+Do you remember when we met?
+
+672
+00:45:32,604 --> 00:45:33,731
+Yeah.
+
+673
+00:45:33,814 --> 00:45:36,817
+There was a bounty on you.
+First one I couldn't turn in.
+
+674
+00:45:36,900 --> 00:45:40,237
+All the other Archaeologues had been
+murdered or chased off the planet
+
+675
+00:45:40,320 --> 00:45:43,991
+and all I wanted to do was find them.
+But do you remember what you said to me?
+
+676
+00:45:47,911 --> 00:45:49,538
+I said you had a choice to make.
+
+677
+00:45:50,205 --> 00:45:52,833
+You could spend your life on the living
+or cash out with the dead.
+
+678
+00:45:52,916 --> 00:45:53,792
+That's right.
+
+679
+00:45:54,334 --> 00:45:58,130
+So I got a shitty job in a shitty bar
+that pays like shit
+
+680
+00:45:58,213 --> 00:46:02,092
+and I chose to keep living
+with you and with TJ.
+
+681
+00:46:05,637 --> 00:46:08,348
+I just keep waiting for you to make
+the same choice.
+
+682
+00:46:20,736 --> 00:46:21,737
+Sorry.
+
+683
+00:46:22,529 --> 00:46:23,405
+Yeah?
+
+684
+00:46:24,782 --> 00:46:25,824
+I need your help.
+
+685
+00:46:29,578 --> 00:46:30,788
+Send me the address.
+
+686
+00:46:40,839 --> 00:46:42,007
+That went well.
+
+687
+00:46:47,346 --> 00:46:48,764
+I told you I had a surprise.
+
+688
+00:46:48,847 --> 00:46:51,266
+Jarek, what are you doing?
+
+689
+00:46:52,309 --> 00:46:53,185
+Come on.
+
+690
+00:46:53,811 --> 00:46:56,814
+I saw the way you looked at him
+back at the casting station.
+
+691
+00:46:59,775 --> 00:47:03,153
+It's against the law
+to steal someone else's sleeve.
+
+692
+00:47:05,155 --> 00:47:09,451
+Then I guess you'll have to punish me.
+
+693
+00:47:14,623 --> 00:47:16,458
+Come on.
+
+694
+00:47:17,417 --> 00:47:19,253
+We can put him back when we're done.
+
+695
+00:47:19,628 --> 00:47:21,129
+He won't know the difference.
+
+696
+00:47:28,470 --> 00:47:30,430
+It is Harlan's Day.
+
+697
+00:47:37,145 --> 00:47:38,355
+Did you find the prisoners?
+
+698
+00:47:39,314 --> 00:47:40,440
+They're gone, she killed them.
+
+699
+00:47:41,692 --> 00:47:44,862
+I underestimated her.
+Have you heard from the casting station?
+
+700
+00:47:46,238 --> 00:47:47,823
+Evergreen's arriving on schedule.
+
+701
+00:47:50,784 --> 00:47:51,702
+Let's get going.
+
+702
+00:48:03,755 --> 00:48:05,048
+Shit! Tanaseda!
+
+703
+00:48:27,821 --> 00:48:29,156
+He's not gone yet.
+
+704
+00:48:52,763 --> 00:48:54,306
+<i>Oyabun,</i> what happened?
+
+705
+00:48:55,140 --> 00:48:57,059
+<i>I've lived with enough regret.</i>
+
+706
+00:49:17,621 --> 00:49:19,706
+Back it up. Sir, step back.
+
+707
+00:49:19,790 --> 00:49:22,459
+Do you know who I am?
+I'm the reason this holiday even exists.
+
+708
+00:49:22,542 --> 00:49:24,419
+Apologies, sir,
+but there's a military freight...
+
+709
+00:49:24,503 --> 00:49:25,837
+I don't give a goddamn.
+
+710
+00:49:25,921 --> 00:49:27,422
+If I'm not the next DHF transfer,
+
+711
+00:49:27,506 --> 00:49:30,133
+I swear I will re-sleeve you
+in a fucking dog!
+
+712
+00:49:30,676 --> 00:49:33,178
+You tell your boys upstairs
+to have a casting bay ready.
+
+713
+00:49:59,204 --> 00:50:00,247
+<i>Oyabun!</i>
+
+714
+00:50:03,041 --> 00:50:05,419
+<i>My honor's intact, unlike yours.</i>
+
+715
+00:50:11,425 --> 00:50:13,552
+<i>I'm not the person I once was.</i>
+
+716
+00:50:36,700 --> 00:50:40,120
+<i>With what we've done,</i>
+<i>none of us should be here.</i>
+
+717
+00:50:56,678 --> 00:50:58,764
+<i>My honor's intact unlike yours.</i>
+
+718
+00:50:58,847 --> 00:51:00,390
+Shit. Kovacs.
+
+719
+00:51:04,227 --> 00:51:06,188
+Blood for blood.
+
+720
+00:51:08,857 --> 00:51:09,775
+Wake up!
+
+721
+00:51:12,235 --> 00:51:14,362
+Kovacs, what the fuck is going on?
+
+722
+00:51:14,446 --> 00:51:15,697
+I know what she's doing.
+
+723
+00:51:15,781 --> 00:51:18,992
+She's not killing Meths.
+She's killing Founders.
+
+724
+00:51:19,076 --> 00:51:22,871
+I saw them.
+Axley, Anton, Haruki, Tanaseda.
+
+725
+00:51:22,954 --> 00:51:24,998
+- What do you mean? Who's <i>she?</i>
+- Quell.
+
+726
+00:51:25,832 --> 00:51:28,543
+- We have to find her.
+- Well, who's left?
+
+727
+00:51:44,184 --> 00:51:46,186
+<i>System breach.</i>
+
+728
+00:51:46,269 --> 00:51:49,689
+<i>System breach.</i>
+<i>System breach.</i>
+
+729
+00:51:50,315 --> 00:51:53,401
+<i>System breach. System breach.</i>
+
+730
+00:51:54,277 --> 00:51:57,322
+<i>System breach. System breach.</i>
+
+731
+00:52:07,207 --> 00:52:08,708
+What the fuck is going on?
+
+732
+00:52:09,835 --> 00:52:11,503
+Our asset. I need status.
+
+733
+00:52:12,504 --> 00:52:14,047
+Evergreen was decanted, sir.
+
+734
+00:52:17,759 --> 00:52:18,969
+So I see.
+
+735
+00:52:30,063 --> 00:52:33,733
+Not sure what you need me for.
+It seems relatively under control.
+
+736
+00:52:34,526 --> 00:52:35,861
+Good to see you, son.
+
+737
+00:52:36,653 --> 00:52:37,821
+Welcome home.
