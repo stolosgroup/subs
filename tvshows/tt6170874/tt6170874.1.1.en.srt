@@ -1,0 +1,3894 @@
+﻿1
+00:00:12,177 --> 00:00:14,376
+(Rumbling)
+
+2
+00:00:37,434 --> 00:00:38,733
+FEMALE NEWS ANCHOR:
+<i>This asteroid was only the size</i>
+
+3
+00:00:38,735 --> 00:00:40,235
+<i>of a small house, but generated</i>
+
+4
+00:00:40,237 --> 00:00:42,752
+<i>a force 30 times greater
+than the bomb at Hiroshima.</i>
+
+5
+00:00:42,777 --> 00:00:44,009
+How did we miss it, Neil?
+
+6
+00:00:44,057 --> 00:00:45,423
+Carol, there are thousands
+
+7
+00:00:45,425 --> 00:00:47,725
+of dangerous
+Near Earth Objects out there.
+
+8
+00:00:47,727 --> 00:00:49,126
+<i>The problem with meteors</i>
+
+9
+00:00:49,128 --> 00:00:50,928
+<i>like the one that exploded over Russia?</i>
+
+10
+00:00:50,930 --> 00:00:53,097
+We just don't even know they're there
+
+11
+00:00:53,099 --> 00:00:54,765
+until it's too late.
+
+12
+00:00:54,766 --> 00:00:56,966
+♪ ♪
+
+13
+00:01:03,308 --> 00:01:07,458
+♪ Ain't no future in the youth ♪
+
+14
+00:01:07,645 --> 00:01:09,317
+♪ No more culture ♪
+
+15
+00:01:09,341 --> 00:01:11,418
+♪ Within your crew... ♪
+
+16
+00:01:11,650 --> 00:01:13,450
+All right.
+
+17
+00:01:13,452 --> 00:01:16,220
+MAN: <i>Ladies and gentlemen,
+MIT alumnus and tech pioneer</i>
+
+18
+00:01:16,222 --> 00:01:18,088
+Darius Tanz!
+
+19
+00:01:18,090 --> 00:01:21,458
+- (Applause And Cheering)
+- ♪ Come someone, tell me what to do ♪
+
+20
+00:01:21,644 --> 00:01:24,152
+♪ Gotta build ♪
+
+21
+00:01:24,429 --> 00:01:26,941
+♪ And destroy ♪
+
+22
+00:01:27,026 --> 00:01:29,017
+♪ They'll rebuild ♪
+
+23
+00:01:29,088 --> 00:01:31,010
+- ♪ And destroy... ♪
+- Hey! Watch it!
+
+24
+00:01:31,102 --> 00:01:32,666
+TANZ: <i>How many ways are there to die?</i>
+
+25
+00:01:32,806 --> 00:01:35,338
+Sure, there's, you know,
+grandma-kicks-the-bucket,
+
+26
+00:01:35,340 --> 00:01:38,875
+small-bore stuff, but I'm
+talking about the big kahuna.
+
+27
+00:01:38,877 --> 00:01:43,830
+Pandemics, nuclear wars,
+global warming, fast food.
+
+28
+00:01:43,982 --> 00:01:45,549
+(Laughter)
+
+29
+00:01:45,580 --> 00:01:47,033
+There are infinite ways to die, of course.
+
+30
+00:01:47,080 --> 00:01:48,547
+You and me... we're all gonna go,
+
+31
+00:01:48,712 --> 00:01:51,875
+somehow, some way, but the human race...
+
+32
+00:01:52,133 --> 00:01:54,266
+The human race doesn't have to.
+
+33
+00:01:54,425 --> 00:01:57,393
+♪ Build, destroy ♪
+
+34
+00:01:58,296 --> 00:02:00,649
+♪ Oh-oh, oh-oh, rebuild ♪
+
+35
+00:02:00,798 --> 00:02:03,265
+♪ Destroy ♪
+
+36
+00:02:04,902 --> 00:02:06,234
+(Doors Shutting Loudly)
+
+37
+00:02:06,236 --> 00:02:08,236
+TANZ: I know we all appear to be
+
+38
+00:02:08,238 --> 00:02:09,771
+safe and cozy here on our
+
+39
+00:02:09,773 --> 00:02:11,739
+post-Paleolithic pedestal,
+
+40
+00:02:11,741 --> 00:02:13,975
+but I assure you, things can change.
+
+41
+00:02:13,977 --> 00:02:15,743
+Rapidly.
+
+42
+00:02:15,745 --> 00:02:17,212
+(Whispering): Dude.
+
+43
+00:02:17,214 --> 00:02:19,447
+Sorry. I was in the lab all night.
+
+44
+00:02:19,449 --> 00:02:21,817
+TANZ: There have been at least five mass
+
+45
+00:02:21,819 --> 00:02:23,919
+extinction events in the last few
+
+46
+00:02:23,921 --> 00:02:25,253
+hundred million years, people.
+
+47
+00:02:25,255 --> 00:02:26,821
+Five.
+
+48
+00:02:26,823 --> 00:02:28,189
+If we don't want to end up like
+
+49
+00:02:28,191 --> 00:02:30,358
+the dinosaurs, we need an exit strategy.
+
+50
+00:02:30,360 --> 00:02:34,929
+That is why colonizing Mars
+is not just a pipe dream.
+
+51
+00:02:34,931 --> 00:02:36,531
+It's a necessity.
+
+52
+00:02:36,533 --> 00:02:37,998
+Now I can see
+
+53
+00:02:38,000 --> 00:02:41,369
+all these skeptical MIT faces
+looking back at me, thinking,
+
+54
+00:02:41,371 --> 00:02:43,603
+"Will you give me a job
+after graduation?"
+
+55
+00:02:43,605 --> 00:02:46,406
+- (Laughter)
+- Maybe.
+
+56
+00:02:46,408 --> 00:02:49,877
+Maybe? Well, except for the guy
+who got here late,
+
+57
+00:02:49,879 --> 00:02:51,111
+the one without the shoes.
+
+58
+00:02:51,113 --> 00:02:53,080
+(Laughter)
+
+59
+00:02:53,082 --> 00:02:56,317
+But seriously, we've put all our eggs
+
+60
+00:02:56,319 --> 00:02:57,751
+into one cosmic basket.
+
+61
+00:02:57,753 --> 00:03:01,355
+If the universe decides
+to plant its big old ass
+
+62
+00:03:01,357 --> 00:03:03,824
+into that basket...
+
+63
+00:03:03,826 --> 00:03:05,225
+(Imitates Crushing Sound)
+
+64
+00:03:05,227 --> 00:03:06,893
+we're toast.
+
+65
+00:03:06,895 --> 00:03:09,295
+MAN: Crazy. Thanks.
+
+66
+00:03:09,297 --> 00:03:11,064
+We can't go up to him with our résumés
+
+67
+00:03:11,066 --> 00:03:12,499
+now, Shoeless.
+
+68
+00:03:12,501 --> 00:03:14,468
+Many have tried to approach the king.
+
+69
+00:03:14,470 --> 00:03:16,302
+Few make it past the castle gates.
+
+70
+00:03:16,304 --> 00:03:17,703
+He always stays at the Royale.
+
+71
+00:03:17,705 --> 00:03:19,005
+We should go over there
+
+72
+00:03:19,007 --> 00:03:20,373
+and pitch him ideas.
+
+73
+00:03:20,375 --> 00:03:22,075
+Way to get noticed.
+
+74
+00:03:29,617 --> 00:03:31,684
+Zoe, breakfast is ready!
+
+75
+00:03:32,820 --> 00:03:34,387
+I'll be home around
+
+76
+00:03:34,389 --> 00:03:35,888
+6:00ish. We can have an early dinner.
+
+77
+00:03:35,890 --> 00:03:37,356
+Mom, you forgot.
+
+78
+00:03:37,358 --> 00:03:40,192
+Graduation rehearsal.
+How is the speech going?
+
+79
+00:03:40,194 --> 00:03:42,628
+Want me to take a look at it?
+No, I got it under control.
+
+80
+00:03:42,630 --> 00:03:45,964
+You know, I kind of do this for a living.
+Mom, don't micromanage.
+
+81
+00:03:45,966 --> 00:03:48,533
+And please don't give me that
+"I'm so proud of you" look.
+
+82
+00:03:48,535 --> 00:03:50,635
+This is the "I'm gonna miss you" look.
+
+83
+00:03:50,637 --> 00:03:52,570
+Duke is only 262 miles away.
+
+84
+00:03:52,572 --> 00:03:54,539
+That's what I keep telling myself.
+
+85
+00:03:54,541 --> 00:03:57,809
+Hey, um... Dad was wondering
+
+86
+00:03:57,811 --> 00:03:59,878
+if you're gonna use that extra ticket
+
+87
+00:03:59,880 --> 00:04:01,046
+for graduation?
+
+88
+00:04:01,048 --> 00:04:02,247
+- (Car Horn Tooting)
+- That's Kira.
+
+89
+00:04:02,249 --> 00:04:04,482
+I got to fly. Just call him. Please?
+
+90
+00:04:04,484 --> 00:04:06,669
+Okay.
+
+91
+00:04:09,130 --> 00:04:10,855
+<i>- (Elevator Bell Dings)</i>
+- Are you bringing a date
+
+92
+00:04:10,857 --> 00:04:12,323
+to our daughter's graduation?
+
+93
+00:04:12,325 --> 00:04:14,559
+No, I wasn't planning on using it, Mike.
+
+94
+00:04:14,561 --> 00:04:17,228
+That's not the point.
+These tickets are for family.
+
+95
+00:04:17,230 --> 00:04:19,964
+Because I don't think either of
+us should bring a date, Mike.
+
+96
+00:04:19,966 --> 00:04:22,099
+The day is about Zoe, not about us.
+
+97
+00:04:22,101 --> 00:04:23,334
+I can't talk about this right now.
+
+98
+00:04:23,336 --> 00:04:24,635
+I'm walking into a meeting.
+
+99
+00:04:24,637 --> 00:04:26,370
+MAN: <i>Grace, why don't you start?</i>
+
+100
+00:04:26,372 --> 00:04:28,472
+We had a non-combat
+related death in Germany...
+
+101
+00:04:28,474 --> 00:04:29,974
+a warrant officer.
+
+102
+00:04:29,976 --> 00:04:31,575
+Worked Intelligence at Fort Gordon.
+
+103
+00:04:31,577 --> 00:04:33,444
+Okay, draft a press release
+once the family's informed.
+
+104
+00:04:33,446 --> 00:04:37,048
+Will do. Jordy, I need to brief
+SecDef on Russian military moves.
+
+105
+00:04:37,050 --> 00:04:38,849
+As of 0400, the Russians
+began deploying at least
+
+106
+00:04:38,851 --> 00:04:40,183
+three divisions, about 50,000 troops,
+
+107
+00:04:40,185 --> 00:04:41,752
+to the Ukrainian border.
+
+108
+00:04:41,754 --> 00:04:43,420
+They claim we've been
+making some unusual moves
+
+109
+00:04:43,422 --> 00:04:45,288
+with some of our nukes. Okay. Grace,
+
+110
+00:04:45,290 --> 00:04:46,924
+have your team release a statement
+
+111
+00:04:46,926 --> 00:04:48,291
+to the media.
+
+112
+00:04:48,293 --> 00:04:49,660
+Stress that this is just
+routine maintenance
+
+113
+00:04:49,662 --> 00:04:51,428
+of the nuclear arsenal,
+and our Russian friends
+
+114
+00:04:51,430 --> 00:04:53,530
+are bent out of shape over nothing, but
+
+115
+00:04:53,532 --> 00:04:55,265
+say it nice, like you do.
+
+116
+00:04:55,267 --> 00:04:56,933
+- Certainly, Sir.
+- Okay.
+
+117
+00:04:56,935 --> 00:04:59,735
+The world is safe for today.
+
+118
+00:04:59,737 --> 00:05:01,037
+Grace?
+
+119
+00:05:01,039 --> 00:05:02,605
+A word in my office?
+
+120
+00:05:08,780 --> 00:05:11,046
+So, I have some news.
+
+121
+00:05:11,048 --> 00:05:13,716
+Your transfer request came through.
+
+122
+00:05:13,718 --> 00:05:15,518
+Where'd you hear that?
+
+123
+00:05:15,520 --> 00:05:18,521
+Well, I'm fairly high up at the
+Pentagon, in case you forgot.
+
+124
+00:05:18,523 --> 00:05:20,089
+(Laughs)
+
+125
+00:05:20,091 --> 00:05:23,125
+They need someone to run Public
+Affairs over at Fort Myer.
+
+126
+00:05:23,127 --> 00:05:26,529
+This is perfect.
+
+127
+00:05:26,531 --> 00:05:28,464
+I'll be just up the road.
+
+128
+00:05:28,466 --> 00:05:32,034
+And you... won't be my Boss anymore.
+
+129
+00:05:32,036 --> 00:05:34,603
+- We can finally be out in the open.
+- Mm.
+
+130
+00:05:34,605 --> 00:05:36,071
+No more sneaking around.
+
+131
+00:05:36,073 --> 00:05:37,306
+Yeah.
+
+132
+00:05:37,308 --> 00:05:39,541
+You can meet Zoe, I can meet Dylan.
+
+133
+00:05:39,543 --> 00:05:42,211
+We can be a normal couple.
+
+134
+00:05:42,213 --> 00:05:45,279
+Although, you know,
+sneaking around was kind of fun.
+
+135
+00:05:45,281 --> 00:05:48,750
+(Laughs)
+
+136
+00:05:48,752 --> 00:05:50,251
+- Mm.
+- (Sighs)
+
+137
+00:05:50,253 --> 00:05:51,987
+I'll miss having you here.
+
+138
+00:05:51,989 --> 00:05:54,589
+Mm. You'll have me everywhere else.
+
+139
+00:05:54,591 --> 00:05:55,924
+Yeah.
+
+140
+00:05:55,926 --> 00:05:57,492
+(Knocking)
+
+141
+00:05:57,494 --> 00:05:59,360
+(Clears Throat) Come in.
+
+142
+00:05:59,362 --> 00:06:02,063
+Sir, the Joint Chief's on the line.
+
+143
+00:06:02,065 --> 00:06:03,364
+I'm told it's urgent.
+
+144
+00:06:03,366 --> 00:06:04,732
+Send it in.
+
+145
+00:06:14,444 --> 00:06:16,844
+WOMAN: <i>Spicy chicken
+burritos, extra salsa,</i>
+
+146
+00:06:16,846 --> 00:06:18,278
+extra avocado? Yeah, that's me.
+
+147
+00:06:18,280 --> 00:06:20,113
+Dude, the three-body problem
+is unsolvable.
+
+148
+00:06:20,115 --> 00:06:21,649
+No one's ever done it.
+No one's done it<i> yet.</i>
+
+149
+00:06:21,651 --> 00:06:23,183
+MAN: Oh, and I suppose
+you're gonna be the one?
+
+150
+00:06:23,185 --> 00:06:24,985
+So far, your algorithm
+has turned up jack.
+
+151
+00:06:24,987 --> 00:06:26,353
+Josh, you wouldn't know
+a recursive algorithm
+
+152
+00:06:26,355 --> 00:06:27,721
+if it bit you on your asymptote.
+
+153
+00:06:27,723 --> 00:06:30,257
+Uh, actually, if we go back
+
+154
+00:06:30,259 --> 00:06:31,525
+to second-year astrophysics...
+
+155
+00:06:31,527 --> 00:06:33,126
+Who taught the class?
+Pretty sure it was me.
+
+156
+00:06:33,128 --> 00:06:34,461
+Let's go back to first year.
+
+157
+00:06:34,463 --> 00:06:36,329
+Um, who got the highest mark
+
+158
+00:06:36,331 --> 00:06:37,764
+in advanced physics?
+Excuse me. I'm gonna see
+
+159
+00:06:37,766 --> 00:06:39,899
+if I can solve the, uh...
+the two-body problem.
+
+160
+00:06:39,901 --> 00:06:41,501
+(Chuckles) Two-body problem
+is high school math, dude.
+
+161
+00:06:41,503 --> 00:06:43,070
+I need to get...
+
+162
+00:06:51,145 --> 00:06:53,713
+Hi.
+
+163
+00:06:54,816 --> 00:06:56,716
+I see you remembered your shoes.
+
+164
+00:06:56,718 --> 00:06:58,084
+Yeah, yeah.
+
+165
+00:06:58,086 --> 00:06:59,518
+(Laughs)
+
+166
+00:06:59,520 --> 00:07:00,954
+I'm Liam.
+
+167
+00:07:00,956 --> 00:07:02,789
+Jillian.
+
+168
+00:07:03,858 --> 00:07:05,558
+So you're not MIT.
+
+169
+00:07:05,560 --> 00:07:06,858
+Oh, is it that obvious,
+
+170
+00:07:06,860 --> 00:07:09,195
+or should I wear a dunce cap
+so people know?
+
+171
+00:07:09,197 --> 00:07:11,630
+I just mean that, you know,
+I haven't seen you around.
+
+172
+00:07:11,632 --> 00:07:14,032
+And that event was
+students and faculty only.
+
+173
+00:07:14,034 --> 00:07:16,034
+Darius Tanz is the greatest mind
+of our time.
+
+174
+00:07:16,036 --> 00:07:17,470
+So I snuck in.
+
+175
+00:07:17,472 --> 00:07:18,870
+Sue me.
+
+176
+00:07:20,441 --> 00:07:23,642
+And what do you do when not
+committing felonious trespass?
+
+177
+00:07:25,245 --> 00:07:26,578
+Guess.
+
+178
+00:07:26,580 --> 00:07:28,379
+Okay.
+
+179
+00:07:28,381 --> 00:07:31,683
+Let's see. Um...
+
+180
+00:07:31,685 --> 00:07:34,786
+I'll say you're a writer.
+
+181
+00:07:34,788 --> 00:07:35,988
+Sci-fi, perhaps.
+
+182
+00:07:35,990 --> 00:07:37,388
+Whoa. How did you know...?
+
+183
+00:07:37,390 --> 00:07:39,091
+You're interested in
+the future of mankind,
+
+184
+00:07:39,093 --> 00:07:40,492
+but you're not an MIT student.
+
+185
+00:07:40,494 --> 00:07:42,227
+You carry a notebook with a quote
+
+186
+00:07:42,229 --> 00:07:45,696
+from Asimov on the cover.
+"Ideas Die Hard"?
+
+187
+00:07:45,698 --> 00:07:47,898
+I extrapolated from a set
+of known facts and got lucky.
+
+188
+00:07:47,900 --> 00:07:49,334
+Honestly.
+
+189
+00:07:49,336 --> 00:07:51,736
+You are quite an observant guy.
+
+190
+00:07:51,738 --> 00:07:53,371
+Scientists need to be observant.
+
+191
+00:07:53,373 --> 00:07:56,607
+Especially when
+investigating new phenomena.
+
+192
+00:07:57,610 --> 00:07:59,443
+(Laughs)
+
+193
+00:07:59,445 --> 00:08:01,078
+And what about you?
+
+194
+00:08:01,080 --> 00:08:02,579
+What kind of, uh,
+
+195
+00:08:02,581 --> 00:08:05,616
+important save-the-world work
+are you doing at MIT?
+
+196
+00:08:05,618 --> 00:08:07,718
+I'm creating a live model
+of the solar system
+
+197
+00:08:07,720 --> 00:08:09,987
+in-in real time, based
+on gravimetric data.
+
+198
+00:08:09,989 --> 00:08:12,256
+(Imitates Air Whooshing)
+
+199
+00:08:12,258 --> 00:08:14,158
+I'm creating a map of space.
+
+200
+00:08:14,160 --> 00:08:15,759
+Sounds impressive.
+
+201
+00:08:15,761 --> 00:08:16,993
+How's it going?
+
+202
+00:08:16,995 --> 00:08:18,228
+Anything worth doing takes time.
+
+203
+00:08:18,230 --> 00:08:20,063
+- Oh, so, in other words...
+- Yeah.
+
+204
+00:08:20,065 --> 00:08:21,765
+- It's not panning out? (Laughs)
+- It's not panning out.
+
+205
+00:08:24,637 --> 00:08:27,937
+When you're passionate about
+something, time means nothing.
+
+206
+00:08:27,939 --> 00:08:32,776
+And you're passionate
+about celestial mechanics?
+
+207
+00:08:34,579 --> 00:08:36,846
+- Yeah, absolutely.
+- Yeah.
+
+208
+00:08:36,848 --> 00:08:40,249
+When two celestial bodies
+cross paths, it can, uh...
+
+209
+00:08:40,251 --> 00:08:43,119
+It can...
+
+210
+00:08:43,121 --> 00:08:45,954
+change their trajectories forever.
+
+211
+00:08:47,242 --> 00:08:49,892
+♪ Maybe I'll go, maybe I'll stay... ♪
+
+212
+00:08:49,894 --> 00:08:51,960
+So this is my apartment.
+
+213
+00:08:51,962 --> 00:08:54,096
+- I like it.
+- Yeah.
+
+214
+00:08:54,098 --> 00:08:55,364
+♪ Anyway ♪
+
+215
+00:08:55,366 --> 00:08:58,133
+♪ If you don't shape up ♪
+
+216
+00:08:58,135 --> 00:08:59,435
+♪ I'll be an ex-pat... ♪
+
+217
+00:08:59,437 --> 00:09:00,936
+Magic.
+
+218
+00:09:00,938 --> 00:09:03,572
+I don't usually do this.
+
+219
+00:09:03,574 --> 00:09:04,539
+I don't, either.
+
+220
+00:09:04,541 --> 00:09:06,441
+Are you sure about this?
+
+221
+00:09:06,443 --> 00:09:09,344
+Yes means yes.
+
+222
+00:09:13,951 --> 00:09:16,451
+(Buzzing)
+
+223
+00:09:25,962 --> 00:09:27,995
+(Beeps)
+
+224
+00:09:32,001 --> 00:09:34,369
+So that's how it is,
+
+225
+00:09:34,371 --> 00:09:36,437
+MIT? Sneaking out?
+
+226
+00:09:36,439 --> 00:09:38,973
+No, no, no, no, no, it's
+not like that. My research.
+
+227
+00:09:38,975 --> 00:09:40,374
+Yeah, your research
+that hasn't generated
+
+228
+00:09:40,376 --> 00:09:42,910
+anything in months?
+Yes. No, I got a hit.
+
+229
+00:09:42,912 --> 00:09:46,480
+I can't explain. Can I call you?
+I'm gonna call you.
+
+230
+00:09:46,482 --> 00:09:49,383
+You are amazing and beautiful.
+I can't wait to read your stuff.
+
+231
+00:09:49,385 --> 00:09:52,486
+I'm gonna call you, I promise.
+
+232
+00:09:54,957 --> 00:09:56,357
+Professor Croft?
+
+233
+00:09:56,359 --> 00:09:57,758
+(Knocking Continues)
+
+234
+00:09:57,760 --> 00:10:00,093
+Professor Croft, it's Liam.
+
+235
+00:10:00,095 --> 00:10:01,295
+Liam.
+
+236
+00:10:01,297 --> 00:10:02,796
+What the hell time is it?
+
+237
+00:10:02,798 --> 00:10:04,265
+- I got a hit.
+- You got a hit?
+
+238
+00:10:04,267 --> 00:10:06,267
+- Yeah.
+- I'm going back to bed,
+
+239
+00:10:06,269 --> 00:10:08,334
+and if you're lucky, I won't
+remember this in the morning.
+
+240
+00:10:08,336 --> 00:10:10,436
+Sir, if I'm right, people need
+to see this immediately.
+
+241
+00:10:10,438 --> 00:10:12,639
+You've got friends at, uh...
+in Washington, at NASA
+
+242
+00:10:12,641 --> 00:10:14,074
+you can call, right? Washington? What?
+
+243
+00:10:14,076 --> 00:10:15,541
+Are you drunk?
+
+244
+00:10:15,543 --> 00:10:17,110
+Sir, that hurts.
+
+245
+00:10:17,112 --> 00:10:18,745
+Well, last month,
+you woke me up with this theory
+
+246
+00:10:18,747 --> 00:10:20,313
+that we're all living
+in a fractal holographic matrix.
+
+247
+00:10:20,315 --> 00:10:21,481
+Remember that?
+
+248
+00:10:21,483 --> 00:10:22,883
+Yeah, well, I-I may have had a few
+
+249
+00:10:22,885 --> 00:10:24,151
+that night, Sir, but
+this is different. Mm.
+
+250
+00:10:24,153 --> 00:10:25,985
+There's a significant perturbation.
+
+251
+00:10:25,987 --> 00:10:27,720
+Really? I've been running continual
+
+252
+00:10:27,722 --> 00:10:29,389
+simulations, and there's something there
+
+253
+00:10:29,391 --> 00:10:30,990
+that was not there three months ago.
+Well, you know,
+
+254
+00:10:30,992 --> 00:10:32,392
+a slight miscalculation
+could taint the results.
+
+255
+00:10:32,394 --> 00:10:34,193
+Why don't you give me the data?
+I'll take a look.
+
+256
+00:10:34,195 --> 00:10:35,662
+Yes. It's-it's already
+uploaded to your server.
+
+257
+00:10:35,664 --> 00:10:37,563
+Okay. Good.
+Well, go home, get some sleep.
+
+258
+00:10:37,565 --> 00:10:38,765
+We'll discuss this after class,
+
+259
+00:10:38,767 --> 00:10:40,232
+which starts in about five hours.
+
+260
+00:10:40,234 --> 00:10:42,668
+Try to be on time for once, all right?
+
+261
+00:10:42,670 --> 00:10:44,870
+Oh, my God.
+
+262
+00:11:03,557 --> 00:11:05,990
+This is Malcolm Croft.
+
+263
+00:11:05,992 --> 00:11:08,760
+Yes, I know it's late,
+but this can't wait.
+
+264
+00:11:08,762 --> 00:11:11,162
+And finally, there have been
+some reports in the press
+
+265
+00:11:11,164 --> 00:11:13,264
+and elsewhere concerning
+movement of nuclear material.
+
+266
+00:11:13,266 --> 00:11:15,033
+This is nothing more
+than routine maintenance
+
+267
+00:11:15,035 --> 00:11:18,236
+required to keep our arsenals
+safe, secure and reliable.
+
+268
+00:11:18,238 --> 00:11:19,237
+Yes.
+
+269
+00:11:19,239 --> 00:11:20,538
+Grace, are you saying
+
+270
+00:11:20,540 --> 00:11:22,040
+Russian concerns
+are completely unfounded?
+
+271
+00:11:22,042 --> 00:11:23,241
+That's exactly what I'm saying, Russ.
+
+272
+00:11:23,243 --> 00:11:24,642
+What kind of routine maintenance
+
+273
+00:11:24,644 --> 00:11:27,793
+requires moving nuclear weapons
+from the Utah desert to Florida?
+
+274
+00:11:27,818 --> 00:11:29,780
+Those missiles were due to be retired.
+
+275
+00:11:29,782 --> 00:11:31,347
+Nothing out of the ordinary, Ms...?
+
+276
+00:11:31,372 --> 00:11:33,584
+Amanda Neel, <i>Capitol Eyes News.</i>
+
+277
+00:11:33,586 --> 00:11:35,519
+And not according to my sources.
+
+278
+00:11:35,521 --> 00:11:37,187
+Well, Amanda Neel of<i> Capitol Eyes News,</i>
+
+279
+00:11:37,189 --> 00:11:38,622
+you may need better sources.
+
+280
+00:11:38,624 --> 00:11:41,058
+- (Laughter)
+- Moving on.
+
+281
+00:11:41,060 --> 00:11:43,327
+We had one non-combat
+related death in Germany.
+
+282
+00:11:43,329 --> 00:11:45,229
+U.S. diplomat succumbed
+to injuries sustained
+
+283
+00:11:45,231 --> 00:11:46,731
+while visiting Frankfurt.
+
+284
+00:11:46,733 --> 00:11:48,498
+(Bell Tolls)
+
+285
+00:11:50,435 --> 00:11:52,102
+STUDENT: That's it. 15-minute rule.
+
+286
+00:11:52,104 --> 00:11:54,571
+Croft's a no-show.
+Let's get out of here.
+
+287
+00:11:54,573 --> 00:11:56,706
+(Students Whoop, Chatter)
+
+288
+00:12:12,791 --> 00:12:14,257
+(Door Creaks Open)
+
+289
+00:12:14,259 --> 00:12:17,226
+(Knocks Lightly)
+
+290
+00:12:17,228 --> 00:12:19,328
+Professor Croft?
+
+291
+00:12:34,412 --> 00:12:36,812
+LIAM: <i>911?</i>
+
+292
+00:12:36,814 --> 00:12:38,680
+There has been... has been a burglary,
+
+293
+00:12:38,682 --> 00:12:41,216
+or a... or a kidnapping,
+or I don't... I don't know what.
+
+294
+00:12:41,218 --> 00:12:42,851
+But my professor... he...
+
+295
+00:12:42,853 --> 00:12:45,320
+His place is trashed,
+and he didn't show up for class.
+
+296
+00:12:45,322 --> 00:12:46,889
+He left his glasses behind.
+
+297
+00:12:46,891 --> 00:12:48,757
+No.
+
+298
+00:12:48,759 --> 00:12:51,092
+No. No, I'm not on drugs.
+
+299
+00:12:53,397 --> 00:12:54,896
+I'm sorry, Operator.
+
+300
+00:12:54,898 --> 00:12:56,464
+I got... I got to go.
+
+301
+00:12:56,466 --> 00:12:58,133
+- I...
+- (Phone Beeps Off)
+
+302
+00:13:06,076 --> 00:13:09,010
+(Engine Starts, Revs)
+
+303
+00:13:13,783 --> 00:13:15,182
+(Engine Revving)
+
+304
+00:13:27,763 --> 00:13:30,197
+(Engine Revving)
+
+305
+00:13:30,199 --> 00:13:31,898
+(Tires Screech)
+
+306
+00:13:39,675 --> 00:13:42,109
+(Piano Playing Classical Music)
+
+307
+00:13:44,179 --> 00:13:45,712
+Yeah, the first one is fine.
+
+308
+00:13:45,714 --> 00:13:47,547
+Uh, from now on, they've got
+to be approved by me, or...
+
+309
+00:13:47,549 --> 00:13:48,915
+MAN: Good afternoon, Mr. Tanz.
+
+310
+00:13:48,917 --> 00:13:50,416
+Good afternoon. We've got new people...
+
+311
+00:13:51,687 --> 00:13:53,086
+talking about it.
+
+312
+00:13:53,088 --> 00:13:55,421
+(Panting)
+
+313
+00:13:55,423 --> 00:13:57,958
+Sir, my name's Liam Cole.
+I'm a student at MIT.
+
+314
+00:13:57,960 --> 00:14:00,393
+In 186 days, an asteroid's
+gonna collide with Earth
+
+315
+00:14:00,395 --> 00:14:02,717
+and we're all gonna die.
+
+316
+00:14:03,031 --> 00:14:05,298
+♪ ♪
+
+317
+00:14:15,742 --> 00:14:18,484
+My name is Liam Cole.
+I'm a student at MIT.
+
+318
+00:14:18,523 --> 00:14:20,722
+My I.D. is in my wallet. It's...
+
+319
+00:14:22,572 --> 00:14:24,686
+MAN: MIT grad. Astrophysics.
+
+320
+00:14:24,761 --> 00:14:27,062
+- The shoeless guy.
+- Yes, Sir.
+
+321
+00:14:27,064 --> 00:14:29,164
+Did we have an appointment
+with the shoeless guy?
+
+322
+00:14:29,166 --> 00:14:30,499
+Whoa!
+
+323
+00:14:30,501 --> 00:14:34,636
+Easy. I got a flash drive
+in my pocket with all the data.
+
+324
+00:14:38,008 --> 00:14:39,473
+(Panting)
+
+325
+00:14:39,475 --> 00:14:40,875
+I've been running simulations,
+
+326
+00:14:40,877 --> 00:14:42,476
+trying to solve the N-body problem.
+
+327
+00:14:42,478 --> 00:14:44,112
+How asteroids, comets interact
+with each other.
+
+328
+00:14:44,114 --> 00:14:47,215
+Everybody at NASA is studying
+NEOs we already know.
+
+329
+00:14:47,217 --> 00:14:50,484
+I've been looking for the ones
+we've missed, and I found one.
+
+330
+00:14:53,656 --> 00:14:56,424
+I got the visuals here
+if you want to take a look.
+
+331
+00:14:57,193 --> 00:14:58,693
+(Chirping) Whoa.
+
+332
+00:14:58,695 --> 00:15:00,127
+That's a holographic projector.
+
+333
+00:15:00,129 --> 00:15:02,230
+Yeah, it's a little toy
+I've been working on.
+
+334
+00:15:02,232 --> 00:15:05,466
+Hope to have it in stores
+by, um, Christmas 2020.
+
+335
+00:15:05,468 --> 00:15:07,935
+If the world still exists.
+
+336
+00:15:08,971 --> 00:15:10,403
+(Trilling)
+
+337
+00:15:10,405 --> 00:15:12,906
+Let's hear it. I'm listening.
+
+338
+00:15:12,908 --> 00:15:16,176
+Okay, yeah, well, uh,
+this is the solar system today.
+
+339
+00:15:16,178 --> 00:15:18,011
+And, uh, excuse me. If you don't mind...
+
+340
+00:15:18,013 --> 00:15:20,313
+- I do.
+- Um, and this...
+
+341
+00:15:20,315 --> 00:15:22,950
+is the asteroid. Let's call it "Rocky."
+
+342
+00:15:22,952 --> 00:15:24,284
+It's about 300 million miles out.
+
+343
+00:15:24,286 --> 00:15:25,719
+Now, my software,
+
+344
+00:15:25,721 --> 00:15:27,520
+which I'm happy to sell to you,
+by the way,
+
+345
+00:15:27,522 --> 00:15:30,223
+predicts a trajectory for this
+asteroid to collide with Earth,
+
+346
+00:15:30,225 --> 00:15:32,859
+like I said, in 186 days.
+
+347
+00:15:35,163 --> 00:15:37,364
+Given its location and
+its orbital configuration,
+
+348
+00:15:37,366 --> 00:15:42,869
+there is a 97.2% probability
+that this is a planet killer.
+
+349
+00:15:42,871 --> 00:15:45,504
+Okay.
+
+350
+00:15:45,506 --> 00:15:46,839
+That's your supposition... hardly proof
+
+351
+00:15:46,841 --> 00:15:48,474
+that you or your data are correct.
+
+352
+00:15:48,476 --> 00:15:49,942
+No, I-I rechecked
+
+353
+00:15:49,944 --> 00:15:51,710
+all my calculations last night.
+They're solid.
+
+354
+00:15:51,712 --> 00:15:53,880
+And I showed the numbers
+to my advisor, Professor Croft.
+
+355
+00:15:53,882 --> 00:15:55,614
+Five hours later, he disappeared,
+
+356
+00:15:55,616 --> 00:15:57,016
+and didn't show up for class.
+
+357
+00:15:57,018 --> 00:15:58,817
+His place was trashed. Trashed?
+
+358
+00:15:58,819 --> 00:16:00,419
+There were big, scary goons
+staking out his house.
+
+359
+00:16:00,421 --> 00:16:02,053
+They chased my ass across campus.
+
+360
+00:16:02,055 --> 00:16:03,389
+Now either this is
+an amazing coincidence,
+
+361
+00:16:03,391 --> 00:16:04,690
+or I'm onto something
+
+362
+00:16:04,692 --> 00:16:06,592
+that someone, somewhere,
+doesn't want public.
+
+363
+00:16:06,594 --> 00:16:09,161
+I'm telling you, Mr. Tanz,
+the sky is falling.
+
+364
+00:16:09,163 --> 00:16:12,464
+And you may be the only person
+that can do something about it.
+
+365
+00:16:14,335 --> 00:16:16,134
+Karissa, bring a car and fuel the jet.
+
+366
+00:16:16,136 --> 00:16:19,204
+Where are you going?
+<i>We're</i> going. To Washington.
+
+367
+00:16:26,446 --> 00:16:27,879
+(Elevator Bell Dings)
+
+368
+00:16:27,881 --> 00:16:30,215
+Okay, this is the Pentagon.
+
+369
+00:16:30,217 --> 00:16:34,118
+Wow. MIT is admitting
+some big brains these days.
+
+370
+00:16:38,958 --> 00:16:41,125
+He's expecting you,
+
+371
+00:16:41,127 --> 00:16:42,893
+Mr. Tanz. Sit. Wait.
+
+372
+00:16:42,895 --> 00:16:44,796
+- But...
+- Trust.
+
+373
+00:16:49,668 --> 00:16:50,968
+HARRIS: Darius.
+
+374
+00:16:50,970 --> 00:16:53,304
+They told me you were on your way over.
+
+375
+00:16:53,306 --> 00:16:54,571
+Is there a problem?
+
+376
+00:16:54,573 --> 00:16:56,006
+Well, I'm not sure, Harris.
+
+377
+00:16:56,008 --> 00:16:57,507
+It depends on whether
+
+378
+00:16:57,509 --> 00:16:59,043
+a planet-killing asteroid
+is heading our way.
+
+379
+00:16:59,045 --> 00:17:01,879
+What are you talking about?
+
+380
+00:17:01,881 --> 00:17:03,247
+Asteroid, Earth.
+
+381
+00:17:03,249 --> 00:17:05,014
+(Imitates Explosion) Boom!
+
+382
+00:17:05,016 --> 00:17:07,584
+You run DOD point for all things NASA.
+
+383
+00:17:07,586 --> 00:17:09,919
+Okay, where are you getting
+this science fiction from?
+
+384
+00:17:09,921 --> 00:17:10,854
+So it's not true?
+
+385
+00:17:10,856 --> 00:17:12,422
+No.
+
+386
+00:17:12,424 --> 00:17:15,258
+Okay, then you won't mind me
+
+387
+00:17:15,260 --> 00:17:17,494
+tweeting about an asteroid
+poised to slam into Earth
+
+388
+00:17:17,496 --> 00:17:19,396
+in, say, 186 days
+
+389
+00:17:19,398 --> 00:17:20,997
+to my 20 million Twitter followers?
+
+390
+00:17:20,999 --> 00:17:23,233
+- (Phone Buzzes)
+- Oh. Make that 21 million.
+
+391
+00:17:23,235 --> 00:17:24,868
+Okay, Darius...
+
+392
+00:17:24,870 --> 00:17:26,469
+So which is it?
+
+393
+00:17:26,471 --> 00:17:28,872
+Science or fiction?
+
+394
+00:17:28,874 --> 00:17:32,075
+(Sighs)
+
+395
+00:17:32,077 --> 00:17:34,577
+So those Goliath 2 rocket
+engines you ordered from me
+
+396
+00:17:34,579 --> 00:17:36,479
+on an accelerated timeline, not exactly
+
+397
+00:17:36,481 --> 00:17:38,313
+for communication satellites, I take it.
+
+398
+00:17:38,315 --> 00:17:40,015
+We have the brightest minds
+working the problem...
+
+399
+00:17:40,017 --> 00:17:42,351
+No, you don't,
+because you're not using me.
+
+400
+00:17:42,353 --> 00:17:44,487
+Oh, so what?
+Without the great Darius Tanz,
+
+401
+00:17:44,489 --> 00:17:46,255
+we're all doomed? Is that it?
+
+402
+00:17:46,257 --> 00:17:48,357
+The way I see it,
+you've got two choices:
+
+403
+00:17:48,359 --> 00:17:51,159
+Tell me or kill me.
+
+404
+00:17:52,797 --> 00:17:54,562
+(Door Opens)
+
+405
+00:17:55,465 --> 00:17:56,899
+I'm going down to Joint Task Force.
+
+406
+00:17:56,901 --> 00:17:58,267
+Have Grace Barrows meet me there.
+
+407
+00:17:58,269 --> 00:18:00,202
+Who are you?
+
+408
+00:18:00,204 --> 00:18:02,737
+Liam Cole, MIT grad student, Sir.
+
+409
+00:18:02,739 --> 00:18:04,172
+TANZ: He arrived at the same
+
+410
+00:18:04,174 --> 00:18:06,474
+conclusion as NASA, but his
+computer did it autonomously
+
+411
+00:18:06,476 --> 00:18:08,643
+while he was getting laid.
+
+412
+00:18:11,615 --> 00:18:15,016
+Get Mr. Cole clearance. Now.
+
+413
+00:18:20,290 --> 00:18:21,756
+You wanted to see me?
+
+414
+00:18:21,758 --> 00:18:24,826
+Darius Tanz, Grace Barrows,
+DOD Public Affairs.
+
+415
+00:18:24,828 --> 00:18:26,360
+Pleasure. We've met before.
+
+416
+00:18:26,362 --> 00:18:28,129
+- Croatian Embassy.
+- Good memory.
+
+417
+00:18:28,131 --> 00:18:29,797
+Photographic. It's a curse, trust me.
+
+418
+00:18:29,799 --> 00:18:31,232
+- (Elevator Bell Dings)
+- Liam Cole.
+
+419
+00:18:31,234 --> 00:18:33,100
+- He works for me.
+- I... I do.
+
+420
+00:18:33,102 --> 00:18:34,701
+I work for him.
+
+421
+00:18:34,703 --> 00:18:36,837
+Shall we?
+
+422
+00:18:45,848 --> 00:18:48,549
+(Elevator Bell Dings)
+
+423
+00:19:03,765 --> 00:19:06,899
+(Beeps, Trills)
+
+424
+00:19:10,805 --> 00:19:14,007
+HARRIS: This is the command
+center for Project Samson.
+
+425
+00:19:14,009 --> 00:19:16,576
+Of the 30,000 people
+who work in the Pentagon,
+
+426
+00:19:16,578 --> 00:19:18,310
+fewer than 40 have clearance.
+
+427
+00:19:18,312 --> 00:19:21,524
+COMPUTERIZED MALE VOICE:
+<i>Security and soundproof measures activated.</i>
+
+428
+00:19:21,549 --> 00:19:23,916
+HARRIS: Three months ago,
+through the Safeguard Survey System
+
+429
+00:19:23,918 --> 00:19:26,919
+that catalogues Near Earth
+Objects, NASA astronomer
+
+430
+00:19:26,921 --> 00:19:30,222
+Dr. Eduard Acosta discovered
+an asteroid, Samson,
+
+431
+00:19:30,224 --> 00:19:32,658
+seven kilometers wide, out near Jupiter.
+
+432
+00:19:32,660 --> 00:19:35,461
+Large enough to cause an
+extinction-level event.
+
+433
+00:19:35,463 --> 00:19:38,130
+Trajectory data has now been firmed up,
+
+434
+00:19:38,132 --> 00:19:40,165
+and the latest calculations
+show that Samson has
+
+435
+00:19:40,167 --> 00:19:44,003
+the potential to collide
+with Earth in 186 days.
+
+436
+00:19:44,005 --> 00:19:46,238
+Our simulations give
+it a high probability of
+
+437
+00:19:46,240 --> 00:19:48,840
+impact off the East Coast
+of the United States.
+
+438
+00:19:48,842 --> 00:19:50,208
+So that's why you're moving those nukes.
+
+439
+00:19:50,210 --> 00:19:51,977
+You think you're gonna
+blow this fellow out of the sky.
+
+440
+00:19:51,979 --> 00:19:53,578
+Well, nukes won't work.
+
+441
+00:19:54,615 --> 00:19:57,549
+Sorry, but even if a nuclear explosion
+
+442
+00:19:57,551 --> 00:20:00,819
+broke up the asteroid, it would
+create thousands of meteors
+
+443
+00:20:00,821 --> 00:20:02,286
+that would rain down on Earth,
+
+444
+00:20:02,288 --> 00:20:04,723
+setting in motion cataclysmic
+events all over the world.
+
+445
+00:20:04,725 --> 00:20:05,557
+Thank you, Liam.
+
+446
+00:20:05,559 --> 00:20:06,991
+No. He's right.
+
+447
+00:20:06,993 --> 00:20:08,859
+It was explored, but
+deemed too dangerous.
+
+448
+00:20:08,861 --> 00:20:11,795
+We've been working on impact prevention
+
+449
+00:20:11,797 --> 00:20:13,964
+since Chelyabinsk, back in 2013.
+
+450
+00:20:13,966 --> 00:20:16,234
+That process has now been expedited.
+
+451
+00:20:16,236 --> 00:20:19,103
+So what is the plan,
+if you don't mind me asking?
+
+452
+00:20:20,206 --> 00:20:22,540
+This.
+
+453
+00:20:22,542 --> 00:20:23,974
+A gravity tractor.
+
+454
+00:20:23,976 --> 00:20:25,676
+(Beeps)
+
+455
+00:20:25,678 --> 00:20:26,710
+LIAM: Oh, that would
+deflect the asteroid
+
+456
+00:20:26,712 --> 00:20:28,412
+using gravitational pull.
+
+457
+00:20:29,348 --> 00:20:31,348
+Sorry.
+
+458
+00:20:31,350 --> 00:20:33,417
+We position a probe
+
+459
+00:20:33,419 --> 00:20:35,052
+next to the asteroid.
+Even though its mass
+
+460
+00:20:35,054 --> 00:20:37,755
+is small, the probe generates
+its own gravitational field.
+
+461
+00:20:37,757 --> 00:20:40,057
+Diverting the asteroid's path
+just enough to miss Earth.
+
+462
+00:20:40,059 --> 00:20:41,824
+But you need a rocket powerful enough
+
+463
+00:20:41,826 --> 00:20:45,028
+to get it there in time, and
+that rocket doesn't exist yet.
+
+464
+00:20:45,030 --> 00:20:46,996
+Well, actually, it does.
+
+465
+00:20:46,998 --> 00:20:48,698
+We've modified one of your rockets,
+
+466
+00:20:48,700 --> 00:20:49,966
+the Goliath 2.
+
+467
+00:20:49,968 --> 00:20:52,369
+The test phase is almost
+complete. We launch next week.
+
+468
+00:20:52,371 --> 00:20:55,572
+We have full confidence this
+will take care of the problem,
+
+469
+00:20:55,574 --> 00:20:57,339
+and no one will be the wiser.
+
+470
+00:20:59,377 --> 00:21:01,310
+(Elevator Bell Dings)
+
+471
+00:21:01,312 --> 00:21:04,346
+I'm sure you understand why
+this needs to remain classified.
+
+472
+00:21:04,348 --> 00:21:05,615
+If the public were to find out...
+
+473
+00:21:05,617 --> 00:21:07,349
+Of course. Anything you need.
+
+474
+00:21:07,351 --> 00:21:09,686
+My entire company stands at
+your disposal, ready to help.
+
+475
+00:21:09,688 --> 00:21:11,788
+Ah, we'll take that under advisement.
+
+476
+00:21:11,790 --> 00:21:14,457
+Most important thing right now
+is that we carry on
+
+477
+00:21:14,459 --> 00:21:16,192
+business as usual.
+
+478
+00:21:17,328 --> 00:21:19,295
+Liam.
+
+479
+00:21:20,198 --> 00:21:22,064
+Will I see you tonight
+
+480
+00:21:22,066 --> 00:21:23,365
+at the Embassy Ball?
+
+481
+00:21:23,367 --> 00:21:24,866
+Absolutely. How about you, Grace?
+
+482
+00:21:24,868 --> 00:21:27,002
+Yes.
+
+483
+00:21:27,004 --> 00:21:28,237
+Wouldn't miss it.
+
+484
+00:21:28,239 --> 00:21:29,938
+Tonight, then.
+
+485
+00:21:33,744 --> 00:21:35,376
+LIAM: Business as usual?
+
+486
+00:21:35,378 --> 00:21:37,345
+Do you own a tux?
+No. Of course you don't.
+
+487
+00:21:37,347 --> 00:21:39,681
+My professor is missing,
+an asteroid is coming,
+
+488
+00:21:39,683 --> 00:21:41,650
+and you're talking
+about going to a party.
+
+489
+00:21:41,652 --> 00:21:43,118
+Did you believe
+anything he said in there
+
+490
+00:21:43,120 --> 00:21:44,552
+about having it under control?
+
+491
+00:21:44,554 --> 00:21:46,787
+Oh, we're not gonna wait
+for the government to save us.
+
+492
+00:21:46,789 --> 00:21:48,598
+We're gonna save ourselves.
+
+493
+00:21:58,539 --> 00:22:00,158
+I know.
+
+494
+00:22:00,976 --> 00:22:02,642
+It's a lot to take in.
+
+495
+00:22:04,406 --> 00:22:06,939
+How long have you been carrying this?
+
+496
+00:22:06,941 --> 00:22:09,308
+Three months.
+
+497
+00:22:11,379 --> 00:22:13,212
+So the nukes aren't undergoing
+routine maintenance.
+
+498
+00:22:13,214 --> 00:22:14,580
+If the gravity tractor fails,
+
+499
+00:22:14,582 --> 00:22:16,882
+they're the last line of defense.
+
+500
+00:22:16,884 --> 00:22:18,918
+But you're confident this will work?
+
+501
+00:22:18,920 --> 00:22:20,452
+Yes.
+
+502
+00:22:20,454 --> 00:22:22,187
+Yes, Grace.
+
+503
+00:22:25,159 --> 00:22:27,826
+Why are you telling me
+this now? Why bring me in?
+
+504
+00:22:27,828 --> 00:22:29,862
+Because the playing field just changed.
+
+505
+00:22:29,864 --> 00:22:31,463
+Information got into the wild.
+
+506
+00:22:31,465 --> 00:22:33,799
+And you need me to contain it.
+
+507
+00:22:40,274 --> 00:22:41,973
+(Sighs)
+
+508
+00:22:43,610 --> 00:22:45,043
+I'm sorry.
+
+509
+00:22:46,813 --> 00:22:49,347
+I never wanted to burden you with this.
+
+510
+00:22:51,317 --> 00:22:53,417
+You don't have to stay.
+
+511
+00:22:55,989 --> 00:22:58,022
+I can't leave.
+
+512
+00:22:58,024 --> 00:23:00,157
+Not now.
+
+513
+00:23:01,061 --> 00:23:04,295
+But, Harris, if I stay...
+
+514
+00:23:05,932 --> 00:23:07,898
+no more secrets.
+
+515
+00:23:09,668 --> 00:23:12,103
+No more secrets.
+
+516
+00:23:22,915 --> 00:23:25,381
+(Phone Buzzes)
+
+517
+00:23:29,121 --> 00:23:30,420
+(Footsteps Approaching)
+
+518
+00:23:30,422 --> 00:23:32,222
+I'm heading out.
+
+519
+00:23:32,224 --> 00:23:34,224
+I'm sleeping at Kira's.
+It's not to avoid curfew.
+
+520
+00:23:34,226 --> 00:23:35,626
+You look nice.
+
+521
+00:23:35,628 --> 00:23:37,628
+Zoe, I just got a text from your father
+
+522
+00:23:37,630 --> 00:23:38,862
+about a gap year?
+
+523
+00:23:38,864 --> 00:23:41,498
+Uh...
+
+524
+00:23:41,500 --> 00:23:43,133
+I was gonna tell you.
+
+525
+00:23:43,135 --> 00:23:45,034
+Tell me what?
+
+526
+00:23:45,036 --> 00:23:47,803
+I applied to a community
+outreach program in Kenya.
+
+527
+00:23:47,805 --> 00:23:49,839
+It starts in September.
+
+528
+00:23:49,841 --> 00:23:51,707
+Africa? Uh, whoa-whoa...
+
+529
+00:23:51,709 --> 00:23:54,644
+Okay. Wh-What about Duke? They
+said I could defer for a year.
+
+530
+00:23:54,646 --> 00:23:56,212
+They were really cool about it. Do you
+know how many Americans were kidnapped
+
+531
+00:23:56,214 --> 00:23:58,247
+- last year abroad?
+- Oh, I knew you were gonna say that.
+
+532
+00:23:58,249 --> 00:24:00,683
+Mom, it's more dangerous to
+drive a car than go to Africa.
+
+533
+00:24:00,685 --> 00:24:02,952
+Honey, now is not the time. You are
+the one who's always telling me
+
+534
+00:24:02,954 --> 00:24:04,887
+- it's my responsibility to contribute...
+- Yes. Yes.
+
+535
+00:24:04,889 --> 00:24:06,455
+To help those less fortunate.
+Yes. But not now!
+
+536
+00:24:06,457 --> 00:24:08,590
+Mom. Look, I know that this is scary
+
+537
+00:24:08,592 --> 00:24:11,027
+for you... letting go. But...
+
+538
+00:24:11,029 --> 00:24:13,562
+you're not gonna be able to
+make the world safe for me,
+
+539
+00:24:13,564 --> 00:24:15,730
+so please, stop trying.
+
+540
+00:24:18,369 --> 00:24:20,335
+(Door Opens)
+
+541
+00:24:20,337 --> 00:24:22,504
+(Door Closes)
+
+542
+00:24:23,707 --> 00:24:25,874
+(Classical Music Playing,
+Lively Chatter)
+
+543
+00:24:38,755 --> 00:24:40,889
+Thank you.
+
+544
+00:24:43,526 --> 00:24:45,060
+(Sighs)
+
+545
+00:24:45,062 --> 00:24:46,994
+<i>New York Times, Washington Post...</i>
+
+546
+00:24:46,996 --> 00:24:48,696
+how am I supposed to compete with that?
+
+547
+00:24:48,698 --> 00:24:50,364
+Got to get creative.
+
+548
+00:24:50,366 --> 00:24:51,499
+When you're the little fish,
+
+549
+00:24:51,501 --> 00:24:53,534
+you see things the big fish miss,
+
+550
+00:24:53,536 --> 00:24:55,636
+'cause they're too busy
+puckering up to other big fish.
+
+551
+00:24:55,638 --> 00:24:57,205
+Whoa.
+
+552
+00:24:57,207 --> 00:25:00,241
+Darius Tanz. Always wanted
+to meet that guy. Hey.
+
+553
+00:25:00,243 --> 00:25:02,076
+Now that's where you're
+missing the story.
+
+554
+00:25:02,078 --> 00:25:04,377
+You're looking at the wrong fish.
+
+555
+00:25:04,379 --> 00:25:06,180
+Darius.
+
+556
+00:25:06,182 --> 00:25:08,515
+So, uh, who are all these people?
+
+557
+00:25:08,517 --> 00:25:11,618
+Congressmen, diplomats, heads
+of state, heads of corporations.
+
+558
+00:25:11,620 --> 00:25:13,386
+Pretty much everyone who's anyone,
+
+559
+00:25:13,388 --> 00:25:15,089
+so that makes you...
+
+560
+00:25:15,091 --> 00:25:16,456
+anyone.
+
+561
+00:25:16,458 --> 00:25:17,758
+Oh, I'm... I'm honored.
+
+562
+00:25:17,760 --> 00:25:19,593
+And this is all
+part of your big plan, right?
+
+563
+00:25:19,595 --> 00:25:22,829
+I'm here to make certain
+connections, and, uh,
+
+564
+00:25:22,831 --> 00:25:25,632
+you're here for the free food. Enjoy.
+
+565
+00:25:25,634 --> 00:25:28,468
+Great, I'll go visit with the
+Chairman of the Joint Chiefs.
+
+566
+00:25:28,470 --> 00:25:29,703
+Try not to spill any wine
+
+567
+00:25:29,705 --> 00:25:32,405
+or any national security secrets.
+
+568
+00:25:32,407 --> 00:25:34,574
+How you doing, Sir?
+
+569
+00:25:36,911 --> 00:25:39,112
+Do you mind if I steal
+Ms. Barrows for a moment?
+
+570
+00:25:39,114 --> 00:25:40,146
+Of course.
+
+571
+00:25:40,148 --> 00:25:42,648
+Uh, it was nice seeing you. (Chuckles)
+
+572
+00:25:44,619 --> 00:25:46,719
+(Sighs)
+
+573
+00:25:46,721 --> 00:25:48,454
+Ironic, don't you think?
+People drinking,
+
+574
+00:25:48,456 --> 00:25:49,989
+celebrating, dancing.
+
+575
+00:25:49,991 --> 00:25:52,125
+No idea that the world
+is coming to an end.
+
+576
+00:25:52,127 --> 00:25:53,859
+You heard what Harris said.
+
+577
+00:25:53,861 --> 00:25:55,227
+They have a plan.
+
+578
+00:25:55,229 --> 00:25:56,428
+Oh, I'm sorry, I didn't realize
+
+579
+00:25:56,430 --> 00:25:58,196
+you believed all that crap in there.
+
+580
+00:25:58,198 --> 00:26:01,233
+But I don't want to cause waves
+between you and your boyfriend.
+
+581
+00:26:01,235 --> 00:26:03,402
+- W-What?
+- I'm good at reading people.
+
+582
+00:26:03,404 --> 00:26:05,404
+It's a gift and a curse.
+
+583
+00:26:05,406 --> 00:26:08,507
+Well, your skills are remedial, at best.
+
+584
+00:26:08,509 --> 00:26:11,309
+I like you, Grace.
+The way you handle yourself.
+
+585
+00:26:11,311 --> 00:26:12,911
+You are extraordinary.
+
+586
+00:26:12,913 --> 00:26:14,746
+In an ordinary way.
+
+587
+00:26:14,748 --> 00:26:17,048
+Wow. (Laughs) Thank you.
+
+588
+00:26:17,050 --> 00:26:19,417
+That's the worst compliment
+I've ever gotten.
+
+589
+00:26:19,419 --> 00:26:21,219
+Which makes it an insult, actually.
+
+590
+00:26:21,221 --> 00:26:22,254
+No, it's a gift.
+
+591
+00:26:22,256 --> 00:26:24,389
+You're tough, loyal, believable.
+
+592
+00:26:24,391 --> 00:26:26,957
+People trust you even when
+maybe they shouldn't.
+
+593
+00:26:28,662 --> 00:26:31,429
+Darius, it was a pleasure. Good night.
+
+594
+00:26:31,431 --> 00:26:33,964
+Look, I've known
+Harris Edwards for 15 years,
+
+595
+00:26:33,966 --> 00:26:35,966
+ever since he was
+a lowly captain at CENTCOM.
+
+596
+00:26:35,968 --> 00:26:37,942
+He's a patriot,
+but he's also a bureaucrat.
+
+597
+00:26:37,966 --> 00:26:39,104
+Meaning?
+
+598
+00:26:39,105 --> 00:26:41,138
+I don't think he's telling
+either of us the whole truth.
+
+599
+00:26:41,140 --> 00:26:44,474
+What if I told you that the
+government's plan was bollocks,
+
+600
+00:26:44,476 --> 00:26:46,110
+that I have a real plan,
+
+601
+00:26:46,112 --> 00:26:48,612
+but I need someone on the inside?
+
+602
+00:26:48,614 --> 00:26:50,614
+And what is this plan?
+
+603
+00:26:50,616 --> 00:26:53,684
+Are you up for some show and tell?
+
+604
+00:26:55,754 --> 00:26:56,854
+JILLIAN (Recorded): This is Jillian.
+
+605
+00:26:56,856 --> 00:26:58,055
+Leave a message. Resistance is futile.
+
+606
+00:26:58,057 --> 00:27:00,524
+- (Phone Beeps)
+- Hi, Jillian, it's Liam.
+
+607
+00:27:00,526 --> 00:27:03,427
+Uh, I'm sorry I disappeared.
+
+608
+00:27:03,429 --> 00:27:05,228
+It's a long story, but, uh,
+
+609
+00:27:05,230 --> 00:27:07,063
+- I've been thinking about you a lot.
+- (Phone Beeps)
+
+610
+00:27:07,065 --> 00:27:09,933
+Disappeared on a girl?
+
+611
+00:27:09,935 --> 00:27:11,335
+What does one make of that?
+
+612
+00:27:11,337 --> 00:27:14,504
+Uh, one makes nothing of it,
+
+613
+00:27:14,506 --> 00:27:16,005
+unless one's eavesdropping, apparently.
+
+614
+00:27:16,007 --> 00:27:18,474
+Well, that's what makes
+these parties go round.
+
+615
+00:27:18,476 --> 00:27:20,176
+So who are you?
+
+616
+00:27:20,178 --> 00:27:22,478
+Me, I'm... I'm just a nobody.
+
+617
+00:27:22,480 --> 00:27:24,580
+That's a lot of tuxedo for a nobody.
+
+618
+00:27:24,582 --> 00:27:27,250
+All right, you got me. I'm
+Darius's new head of security.
+
+619
+00:27:27,252 --> 00:27:29,452
+More dangerous with weapons
+or just your bare hands?
+
+620
+00:27:29,454 --> 00:27:31,520
+- You don't want to test it, trust me.
+- (Laughs)
+
+621
+00:27:31,522 --> 00:27:32,988
+I'm Amanda.
+
+622
+00:27:32,990 --> 00:27:34,724
+Liam.
+
+623
+00:27:34,726 --> 00:27:36,091
+What brings you here, Amanda?
+
+624
+00:27:36,093 --> 00:27:38,627
+Oh, I just snagged an invite
+from a friend.
+
+625
+00:27:38,629 --> 00:27:40,563
+I like to be where the action is.
+
+626
+00:27:40,565 --> 00:27:42,498
+Never know who you'll meet.
+
+627
+00:27:42,500 --> 00:27:43,932
+(Phone Chimes)
+
+628
+00:27:43,934 --> 00:27:45,501
+Uh...
+
+629
+00:27:45,503 --> 00:27:48,937
+Sorry, uh... my, uh...
+
+630
+00:27:48,939 --> 00:27:51,139
+my ride's leaving. I gotta go.
+
+631
+00:27:51,141 --> 00:27:52,607
+Oh, I didn't catch your last name, Liam.
+
+632
+00:27:52,609 --> 00:27:54,809
+That's 'cause I didn't give it to you.
+
+633
+00:27:54,811 --> 00:27:56,245
+(Laughs)
+
+634
+00:27:56,247 --> 00:27:58,813
+Hey, if you ever want to chat
+
+635
+00:27:58,815 --> 00:28:00,949
+or hang out, give a ring.
+
+636
+00:28:03,988 --> 00:28:05,186
+Sure.
+
+637
+00:28:18,402 --> 00:28:20,502
+(Camera Clicks)
+
+638
+00:28:22,705 --> 00:28:25,506
+LIAM: <i>Tanz Industries.</i>
+
+639
+00:28:25,508 --> 00:28:27,708
+This place is legendary.
+
+640
+00:28:27,710 --> 00:28:29,076
+TANZ: Ten miles from D.C.,
+
+641
+00:28:29,078 --> 00:28:31,745
+but a world away...
+my home away from home.
+
+642
+00:28:33,682 --> 00:28:35,082
+Welcome to the Treehouse.
+
+643
+00:28:35,084 --> 00:28:37,451
+FEMALE COMPUTER VOICE: Hello, Darius.
+
+644
+00:28:37,453 --> 00:28:39,219
+I had a treehouse growing up,
+
+645
+00:28:39,221 --> 00:28:40,888
+and it looked nothing like this.
+
+646
+00:28:40,890 --> 00:28:43,156
+Anything and everything
+you can dream up,
+
+647
+00:28:43,158 --> 00:28:45,358
+you can design and build it here.
+
+648
+00:28:45,360 --> 00:28:47,127
+An inspiration factory.
+
+649
+00:28:47,129 --> 00:28:49,596
+Willy Wonka, without the Oompa-Loompas.
+
+650
+00:28:49,598 --> 00:28:52,966
+Okay, you win man cave
+of the universe award.
+
+651
+00:28:52,968 --> 00:28:54,600
+What was so important it couldn't wait?
+
+652
+00:28:54,602 --> 00:28:57,003
+Tess, please run program T6.
+
+653
+00:28:57,005 --> 00:28:58,538
+TESS (Computer Voice):
+Program T6 loaded.
+
+654
+00:28:58,540 --> 00:29:01,174
+Playback.
+
+655
+00:29:01,176 --> 00:29:02,809
+What are we looking at?
+
+656
+00:29:02,811 --> 00:29:06,679
+THIS IS RIVA: My Reusable
+Interplanetary Vehicle,
+
+657
+00:29:06,681 --> 00:29:08,915
+designed to be a cargo
+transport to Mars.
+
+658
+00:29:08,917 --> 00:29:11,451
+How is that gonna stop a meteor?
+
+659
+00:29:11,453 --> 00:29:13,252
+It's not.
+
+660
+00:29:14,288 --> 00:29:16,656
+We're re-purposing it...
+
+661
+00:29:16,658 --> 00:29:19,492
+as a lifeboat... this is an ark, Grace.
+
+662
+00:29:19,494 --> 00:29:23,763
+It's gonna save the human race
+from... extinction.
+
+663
+00:29:33,652 --> 00:29:36,527
+You're planning for the
+extinction of the human race?
+
+664
+00:29:36,776 --> 00:29:40,117
+No, I'm planning for the
+continuation of the human race.
+
+665
+00:29:40,119 --> 00:29:42,386
+Have you ever heard
+of the concept "MVP"...
+
+666
+00:29:42,388 --> 00:29:43,754
+minimal viable population?
+
+667
+00:29:43,756 --> 00:29:45,456
+Each species has a threshold.
+
+668
+00:29:45,458 --> 00:29:47,258
+The minimum number
+of individuals required
+
+669
+00:29:47,260 --> 00:29:49,993
+- to prevent extinction.
+- TANZ: Exactly.
+
+670
+00:29:49,995 --> 00:29:52,996
+For humans, that number is 160 saved.
+
+671
+00:29:52,998 --> 00:29:55,298
+Just 160 well-chosen souls
+
+672
+00:29:55,300 --> 00:29:56,833
+save the species.
+
+673
+00:29:56,835 --> 00:29:58,701
+So your plan is to make a getaway
+
+674
+00:29:58,703 --> 00:30:02,372
+on a spaceship with 160 of your besties
+
+675
+00:30:02,374 --> 00:30:03,907
+and fly to Mars?
+
+676
+00:30:03,909 --> 00:30:05,575
+Well, we might have to orbit for a while
+
+677
+00:30:05,577 --> 00:30:06,709
+until we set up shop.
+
+678
+00:30:06,711 --> 00:30:08,544
+This was supposed to be
+a seven-year plan.
+
+679
+00:30:08,546 --> 00:30:09,812
+I'm accelerating it.
+
+680
+00:30:09,814 --> 00:30:11,714
+- I'm sorry, this is...
+- Nuts.
+
+681
+00:30:11,716 --> 00:30:12,948
+GRACE: You're betting on
+the government to fail.
+
+682
+00:30:12,950 --> 00:30:14,450
+- I'm not.
+- I don't make bets.
+
+683
+00:30:14,452 --> 00:30:17,019
+I make calculated decisions
+based on facts,
+
+684
+00:30:17,021 --> 00:30:18,954
+and the fact is the government's
+plan won't work.
+
+685
+00:30:18,956 --> 00:30:21,658
+They need technology that
+hasn't been invented yet.
+
+686
+00:30:21,660 --> 00:30:23,058
+They won't tell you that, of course.
+
+687
+00:30:23,060 --> 00:30:24,860
+Or maybe they haven't even
+figured that part out yet.
+
+688
+00:30:24,862 --> 00:30:27,096
+Why did you bring me here, Darius?
+
+689
+00:30:27,098 --> 00:30:32,034
+If I can expedite production,
+make a dozen RIVAs or more,
+
+690
+00:30:32,036 --> 00:30:34,937
+instead of 160 people,
+maybe I can save thousands.
+
+691
+00:30:34,939 --> 00:30:37,907
+But I need access to
+information and resources
+
+692
+00:30:37,909 --> 00:30:39,574
+that only a few people
+in the government have.
+
+693
+00:30:39,576 --> 00:30:41,743
+I need an inside man.
+
+694
+00:30:41,745 --> 00:30:43,578
+Or woman, as they say.
+
+695
+00:30:43,580 --> 00:30:46,881
+You're asking me to divert resources,
+
+696
+00:30:46,883 --> 00:30:51,152
+spy on my government,
+commit treason for some
+
+697
+00:30:51,154 --> 00:30:53,722
+insane narcissistic suicide mission?
+
+698
+00:30:53,724 --> 00:30:56,958
+The only suicide mission
+is wearing blinders, Grace.
+
+699
+00:30:56,960 --> 00:30:58,993
+Harris assured me that they...
+
+700
+00:30:58,995 --> 00:31:01,896
+Harris will trot you out
+to deliver his lies,
+
+701
+00:31:01,898 --> 00:31:03,397
+the masses will believe you,
+
+702
+00:31:03,399 --> 00:31:05,333
+and no one will be prepared
+for what's coming
+
+703
+00:31:05,335 --> 00:31:07,836
+except for me and the people
+on this list.
+
+704
+00:31:09,706 --> 00:31:12,873
+I don't want to save 160 people.
+
+705
+00:31:12,875 --> 00:31:14,408
+I want to save everyone.
+
+706
+00:31:31,393 --> 00:31:32,692
+Look, man, I, uh...
+
+707
+00:31:32,694 --> 00:31:34,828
+I want to help you, but
+
+708
+00:31:34,830 --> 00:31:36,596
+there's this girl up in Boston,
+
+709
+00:31:36,598 --> 00:31:38,866
+and if this is really
+the end, I guess I, uh,
+
+710
+00:31:38,868 --> 00:31:41,869
+I wanna live before I die.
+
+711
+00:31:41,871 --> 00:31:44,872
+Karissa, get the plane ready.
+
+712
+00:31:44,874 --> 00:31:48,708
+No, I'll, uh... I'll
+take the train, thanks.
+
+713
+00:32:00,021 --> 00:32:02,088
+- Is he available?
+- He's not in, Ms. Barrows.
+
+714
+00:32:02,090 --> 00:32:04,423
+Oh, I didn't see anything
+on the schedule.
+
+715
+00:32:04,425 --> 00:32:06,292
+I expect him back early this evening.
+
+716
+00:32:10,999 --> 00:32:13,499
+♪ ♪
+
+717
+00:32:32,052 --> 00:32:34,453
+JILLIAN: <i>So you were with Darius</i>
+
+718
+00:32:34,455 --> 00:32:36,354
+Tanz at a ball in
+
+719
+00:32:36,356 --> 00:32:38,556
+Washington, D.C.? More of a reception.
+
+720
+00:32:38,558 --> 00:32:40,191
+Yeah, I wasn't blowing you off, I swear.
+
+721
+00:32:40,193 --> 00:32:42,961
+No, but he had offered you
+a job, and you said, "No."
+
+722
+00:32:42,963 --> 00:32:44,529
+Why?
+
+723
+00:32:44,531 --> 00:32:50,168
+(Chuckles) Uh, because I have
+unfinished business here.
+
+724
+00:32:50,170 --> 00:32:52,804
+Anyway, what's going on
+with you? Tell me about you.
+
+725
+00:32:52,806 --> 00:32:56,173
+I actually got some really
+good news yesterday.
+
+726
+00:32:56,174 --> 00:32:57,132
+Yeah?
+
+727
+00:32:57,157 --> 00:32:59,844
+Yeah, this publisher liked
+one of my short stories.
+
+728
+00:32:59,846 --> 00:33:01,612
+- That's fantastic!
+- Yeah.
+
+729
+00:33:01,614 --> 00:33:03,047
+What's it about?
+
+730
+00:33:03,049 --> 00:33:05,249
+What else? The future.
+
+731
+00:33:07,119 --> 00:33:08,552
+(Laughs)
+
+732
+00:33:10,022 --> 00:33:11,388
+Hey, let's take a road trip.
+
+733
+00:33:11,389 --> 00:33:12,808
+What?
+
+734
+00:33:12,833 --> 00:33:14,358
+Yeah, I want to spend
+all my time with you,
+
+735
+00:33:14,360 --> 00:33:16,126
+travel, see the world
+before it's too late.
+
+736
+00:33:16,128 --> 00:33:18,662
+What about your research?
+Screw my research.
+
+737
+00:33:18,664 --> 00:33:21,332
+I want to have fun, enjoy life.
+
+738
+00:33:21,334 --> 00:33:23,533
+♪ A dumb feeling that I'm needing love ♪
+
+739
+00:33:23,535 --> 00:33:28,071
+♪ Just cover your eyes
+and call me pretty please ♪
+
+740
+00:33:28,073 --> 00:33:32,208
+♪ Just call me pretty please,
+just call me pretty ♪
+
+741
+00:33:32,210 --> 00:33:35,545
+♪ Eh, eh, eh, eh, eh ♪
+
+742
+00:33:35,547 --> 00:33:41,384
+♪ Call me pretty please,
+just call me pretty... ♪
+
+743
+00:33:41,386 --> 00:33:44,620
+(High-Pitched Tone, Distorted Sounds)
+
+744
+00:33:47,292 --> 00:33:50,126
+(Normal Sounds Resume)
+
+745
+00:33:50,128 --> 00:33:52,195
+Sorry.
+
+746
+00:33:52,197 --> 00:33:54,397
+Hey, hey, hey,
+Liam, maybe we should go home.
+
+747
+00:33:54,399 --> 00:33:55,999
+No, no, the night is young.
+
+748
+00:33:56,001 --> 00:33:57,467
+I want to live before I...
+
+749
+00:33:57,469 --> 00:34:00,235
+Hey. You got a problem, little man?
+
+750
+00:34:00,237 --> 00:34:02,204
+Yeah. You.
+
+751
+00:34:02,206 --> 00:34:03,305
+(Grunts)
+
+752
+00:34:03,307 --> 00:34:04,607
+HARRIS: Yes, Sir,
+
+753
+00:34:04,609 --> 00:34:06,441
+all the information
+will be sent your way.
+
+754
+00:34:08,646 --> 00:34:10,713
+- (Knocking)
+- Hey.
+
+755
+00:34:10,715 --> 00:34:12,481
+- What are you still doing here?
+- Oh, I had
+
+756
+00:34:12,483 --> 00:34:14,082
+a few things to get out the door.
+
+757
+00:34:14,084 --> 00:34:17,886
+Where have you been?
+
+758
+00:34:19,490 --> 00:34:22,290
+Harris, you got to keep me in the loop.
+
+759
+00:34:22,292 --> 00:34:24,159
+Otherwise, I can't do my job.
+
+760
+00:34:24,161 --> 00:34:26,128
+Yeah.
+
+761
+00:34:31,034 --> 00:34:33,835
+There was a burn test today
+of the Goliath 2 rocket engine.
+
+762
+00:34:33,837 --> 00:34:35,770
+The one being used
+to launch the gravity tractor?
+
+763
+00:34:35,772 --> 00:34:37,939
+- Mm-hmm.
+- And how'd it go?
+
+764
+00:34:37,941 --> 00:34:40,374
+We're right on schedule.
+
+765
+00:34:40,376 --> 00:34:42,343
+Oh, that's fantastic.
+
+766
+00:34:42,345 --> 00:34:44,512
+Yeah.
+
+767
+00:34:44,514 --> 00:34:46,848
+(Sighs) Fantastic.
+
+768
+00:34:52,588 --> 00:34:54,121
+- Hey, Carn.
+- Hey.
+
+769
+00:34:54,123 --> 00:34:55,656
+How's the night shift?
+
+770
+00:34:55,658 --> 00:34:57,191
+Oh, it's a barrel of laughs.
+
+771
+00:34:57,193 --> 00:34:58,725
+(Laughs)
+
+772
+00:34:58,727 --> 00:35:01,162
+I need to see satellite
+imagery from Wallops Island
+
+773
+00:35:01,164 --> 00:35:02,796
+from around 2:00 this afternoon.
+
+774
+00:35:02,798 --> 00:35:06,232
+Uh, Grace, this is the Pentagon,
+not Best Buy.
+
+775
+00:35:06,234 --> 00:35:07,568
+No uplinks without clearance
+
+776
+00:35:07,570 --> 00:35:09,069
+or an approved telemetry request.
+
+777
+00:35:09,071 --> 00:35:10,537
+Clearance I have.
+
+778
+00:35:10,539 --> 00:35:12,338
+It's time I'm short on.
+
+779
+00:35:14,043 --> 00:35:16,910
+Remember when you broke
+your ankle playing softball?
+
+780
+00:35:16,912 --> 00:35:18,411
+How long before your request for
+
+781
+00:35:18,413 --> 00:35:19,846
+a closer parking spot went through?
+
+782
+00:35:19,848 --> 00:35:21,314
+All I'm asking is to
+
+783
+00:35:21,316 --> 00:35:22,882
+cut through a little red tape.
+
+784
+00:35:22,884 --> 00:35:24,784
+You're gonna owe me for this.
+
+785
+00:35:24,786 --> 00:35:29,055
+Nats tickets, box seats,
+right behind the dugout.
+
+786
+00:35:30,725 --> 00:35:32,525
+(Sighs) Okay.
+
+787
+00:35:32,527 --> 00:35:34,427
+(Keyboard Keys Clicking Rapidly)
+
+788
+00:35:34,429 --> 00:35:37,863
+(Computer Chirps)
+
+789
+00:35:37,865 --> 00:35:39,565
+What are we looking at?
+
+790
+00:35:39,567 --> 00:35:43,669
+Fragments of a Tanz Goliath 2 rocket.
+
+791
+00:35:43,671 --> 00:35:45,204
+Can you back it up?
+
+792
+00:35:45,206 --> 00:35:47,073
+- Uh...
+- (Computer Chirps)
+
+793
+00:35:47,447 --> 00:35:50,838
+Not sure what they were testing,
+but I'd say they failed.
+
+794
+00:35:51,079 --> 00:35:53,079
+With flying colors.
+
+795
+00:36:01,894 --> 00:36:03,660
+Shut it down, Carn.
+
+796
+00:36:03,662 --> 00:36:04,895
+Is-is everything okay?
+
+797
+00:36:04,897 --> 00:36:06,964
+I'll have those Nats tickets
+for you stat.
+
+798
+00:36:06,966 --> 00:36:09,200
+All right.
+
+799
+00:36:11,471 --> 00:36:13,804
+(Door Closes)
+
+800
+00:36:20,646 --> 00:36:23,413
+- (Rhythmic Beeping)
+- What the...
+
+801
+00:36:23,415 --> 00:36:25,949
+(Keyboard Keys Clicking Rapidly)
+
+802
+00:36:39,931 --> 00:36:42,198
+♪ ♪
+
+803
+00:36:53,711 --> 00:36:55,310
+Hey.
+
+804
+00:36:55,312 --> 00:36:57,780
+Hey.
+
+805
+00:36:59,684 --> 00:37:02,618
+You putting final touches on the speech?
+
+806
+00:37:02,620 --> 00:37:04,620
+Yeah.
+
+807
+00:37:06,190 --> 00:37:08,657
+Zoe.
+
+808
+00:37:09,927 --> 00:37:12,394
+I'm sorry.
+
+809
+00:37:14,798 --> 00:37:17,966
+You're right. I can't make
+the world safe for you.
+
+810
+00:37:22,305 --> 00:37:24,072
+It's your life.
+
+811
+00:37:24,074 --> 00:37:27,442
+I want you to live it.
+
+812
+00:37:27,444 --> 00:37:29,143
+Mom, are you all right?
+
+813
+00:37:29,145 --> 00:37:31,646
+Yeah. Yeah.
+
+814
+00:37:33,149 --> 00:37:34,649
+I just love you.
+
+815
+00:37:34,651 --> 00:37:37,452
+I know.
+
+816
+00:37:52,135 --> 00:37:54,702
+Thank you.
+
+817
+00:37:58,574 --> 00:38:00,874
+You see that?
+
+818
+00:38:00,876 --> 00:38:03,711
+That is Mars at perigee.
+
+819
+00:38:03,713 --> 00:38:07,347
+It's as close
+as it's gonna get all year.
+
+820
+00:38:07,349 --> 00:38:10,918
+I don't usually drink like that.
+
+821
+00:38:10,920 --> 00:38:13,820
+Then why did you?
+
+822
+00:38:16,725 --> 00:38:18,191
+Can I ask you something?
+
+823
+00:38:18,193 --> 00:38:19,626
+Mm-hmm.
+
+824
+00:38:19,628 --> 00:38:22,061
+If you were writing a story about a...
+
+825
+00:38:22,063 --> 00:38:25,565
+a guy who knew the world
+was coming to an end,
+
+826
+00:38:25,567 --> 00:38:28,701
+and he could either
+save a couple thousand people
+
+827
+00:38:28,703 --> 00:38:32,605
+or live the rest of his days
+with a beautiful woman,
+
+828
+00:38:32,607 --> 00:38:34,974
+what would you have him do?
+
+829
+00:38:34,976 --> 00:38:36,743
+It depends.
+
+830
+00:38:36,745 --> 00:38:39,478
+Is the character supposed to be a hero
+
+831
+00:38:39,480 --> 00:38:41,681
+or a loser? (Chuckles)
+
+832
+00:38:41,683 --> 00:38:43,249
+Ow.
+
+833
+00:38:43,251 --> 00:38:46,318
+Uh...
+
+834
+00:38:46,320 --> 00:38:48,487
+a hero.
+
+835
+00:38:48,489 --> 00:38:52,424
+Well, then he has to
+sacrifice his happiness
+
+836
+00:38:52,426 --> 00:38:54,726
+for the sake of humanity.
+
+837
+00:38:56,130 --> 00:39:00,932
+Even if he thinks
+he's in love with the woman?
+
+838
+00:39:00,934 --> 00:39:04,136
+Mm, especially if he is.
+
+839
+00:39:04,138 --> 00:39:06,471
+Then it's a true sacrifice.
+
+840
+00:39:14,281 --> 00:39:16,982
+Tell me more about the stars.
+
+841
+00:39:16,984 --> 00:39:20,218
+(Chuckles Softly)
+
+842
+00:39:20,220 --> 00:39:21,553
+The stars, okay.
+
+843
+00:39:21,555 --> 00:39:24,088
+Uh... (Grunts)
+
+844
+00:39:24,090 --> 00:39:28,693
+That's Sirius, aka the dog star.
+
+845
+00:39:29,729 --> 00:39:33,198
+It's the brightest star in the sky.
+
+846
+00:39:33,200 --> 00:39:36,000
+And then up here, see this one up here?
+
+847
+00:39:38,437 --> 00:39:41,706
+Class of 2017, it is an honor
+
+848
+00:39:41,708 --> 00:39:43,974
+to be able to address you all
+here today.
+
+849
+00:39:43,976 --> 00:39:47,578
+The future is not just handed to us.
+
+850
+00:39:47,580 --> 00:39:50,447
+We create it.
+
+851
+00:40:01,760 --> 00:40:04,794
+<i>Life is filled with possibilities.</i>
+
+852
+00:40:04,796 --> 00:40:09,065
+<i>There is no tomorrow without us.</i>
+
+853
+00:40:09,067 --> 00:40:13,569
+<i>My mother taught me at a young age</i>
+
+854
+00:40:13,571 --> 00:40:18,074
+<i>that, as individuals, we are powerful.</i>
+
+855
+00:40:21,780 --> 00:40:25,748
+<i>How we use that power is up to us.</i>
+
+856
+00:40:32,290 --> 00:40:36,359
+<i>I dreaded all the emotion of
+saying good-bye to my friends,</i>
+
+857
+00:40:36,361 --> 00:40:37,693
+<i>my family.</i>
+
+858
+00:40:37,695 --> 00:40:39,862
+<i>As exciting as the future is...</i>
+
+859
+00:40:39,864 --> 00:40:41,764
+(Distant Clatter)
+
+860
+00:40:41,766 --> 00:40:43,999
+<i>it's also scary.</i>
+
+861
+00:40:46,804 --> 00:40:49,004
+<i>It's the unknown.</i>
+
+862
+00:40:50,540 --> 00:40:52,374
+Hello?
+
+863
+00:40:52,376 --> 00:40:56,511
+<i>But then I started realizing
+this isn't the end,</i>
+
+864
+00:40:56,513 --> 00:40:58,546
+<i>this is just the beginning.</i>
+
+865
+00:40:58,548 --> 00:40:59,748
+(Silenced Gunshot)
+
+866
+00:40:59,750 --> 00:41:03,885
+My challenge for the class of 2017?
+
+867
+00:41:03,887 --> 00:41:05,587
+Make a difference.
+
+868
+00:41:05,589 --> 00:41:08,856
+There are problems big and small
+that need to be solved,
+
+869
+00:41:08,858 --> 00:41:13,261
+and we can't wait
+for someone else to solve them.
+
+870
+00:41:13,263 --> 00:41:15,296
+It's up to us now.
+
+871
+00:41:15,298 --> 00:41:17,498
+(Elevator Doors Open)
+
+872
+00:41:22,272 --> 00:41:23,938
+Screw you and your ark.
+
+873
+00:41:25,374 --> 00:41:27,441
+Nice to see you, too.
+
+874
+00:41:28,444 --> 00:41:30,644
+You're right, Darius.
+
+875
+00:41:30,646 --> 00:41:32,112
+The government's plan won't work.
+
+876
+00:41:32,114 --> 00:41:33,980
+They need you.
+
+877
+00:41:33,982 --> 00:41:36,583
+You said the technology
+doesn't exist yet.
+
+878
+00:41:36,585 --> 00:41:38,885
+If you're so damn smart, invent it.
+
+879
+00:41:38,887 --> 00:41:41,455
+You've got the resources,
+the talent, the money.
+
+880
+00:41:41,457 --> 00:41:44,124
+Don't save 160 people, save them all.
+
+881
+00:41:44,126 --> 00:41:46,293
+Every last one.
+
+882
+00:41:46,295 --> 00:41:48,829
+Come work with us.
+
+883
+00:41:48,831 --> 00:41:51,832
+Let's do this together.
+
+884
+00:41:51,834 --> 00:41:54,434
+I will do whatever it takes.
+
+885
+00:41:54,436 --> 00:41:56,803
+I'll roll through red tape,
+whatever you need from me,
+
+886
+00:41:56,805 --> 00:41:59,572
+but, damn it, my daughter
+deserves a future.
+
+887
+00:41:59,574 --> 00:42:01,041
+They all do.
+
+888
+00:42:03,177 --> 00:42:05,077
+And I'm not ready
+for all of this to end.
+
+889
+00:42:05,079 --> 00:42:08,080
+Grace...
+
+890
+00:42:08,082 --> 00:42:11,384
+y-you had me at "screw you."
+
+891
+00:42:15,824 --> 00:42:17,223
+Hi.
+
+892
+00:42:20,061 --> 00:42:22,127
+Where can I put my stuff?
+
+893
+00:42:27,222 --> 00:42:29,935
+ZOE: <i>In the words of the great
+humanitarian Mother Teresa:</i>
+
+894
+00:42:29,937 --> 00:42:31,971
+"Yesterday is gone.
+
+895
+00:42:31,973 --> 00:42:34,639
+"Tomorrow has not yet come.
+
+896
+00:42:34,641 --> 00:42:35,940
+"We have only today.
+
+897
+00:42:35,942 --> 00:42:39,310
+So, let us begin."
+
+898
+00:42:39,312 --> 00:42:41,446
+(Applause)
+
+899
+00:42:42,383 --> 00:42:44,315
+(Cheering And Whistling)
+
+900
+00:42:44,317 --> 00:42:45,817
+(Students Cheer)
+
+901
+00:42:46,934 --> 00:42:51,934
+<font color="#0080ff">Synced & corrected by</font> kinglouisxx
+<font color="#0080ff">www.</font>addic7ed<font color="#0080ff">.com</font>
