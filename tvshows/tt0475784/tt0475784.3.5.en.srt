@@ -1,0 +1,3373 @@
+﻿1
+00:00:04,752 --> 00:00:06,752
+♪ (TENSE MUSIC PLAYS) ♪
+
+2
+00:00:13,293 --> 00:00:14,418
+(TASER CRACKLES)
+
+3
+00:00:16,251 --> 00:00:17,293
+(GUN COCKS)
+
+4
+00:00:17,585 --> 00:00:18,959
+♪ (MUSIC CONTINUES) ♪
+
+5
+00:00:25,084 --> 00:00:27,251
+♪ (MUSIC INTENSIFIES) ♪
+
+6
+00:00:36,084 --> 00:00:38,959
+Humanity's biggest threat
+has always been itself.
+
+7
+00:00:39,418 --> 00:00:41,084
+I've been trying
+to control that,
+
+8
+00:00:41,293 --> 00:00:43,918
+but there's someone
+we haven't accounted for.
+
+9
+00:00:45,126 --> 00:00:47,126
+♪ (MUSIC CONCLUDES) ♪
+
+10
+00:00:55,418 --> 00:00:58,793
+ENGERRAUND SERAC:
+(SPEAKING FRENCH)
+
+11
+00:01:01,168 --> 00:01:03,001
+♪ (SOMBER MUSIC PLAYS) ♪
+
+12
+00:02:31,918 --> 00:02:36,543
+ADRIAN FILO:
+(SPEAKING PORTUGUESE)
+
+13
+00:02:46,710 --> 00:02:48,460
+I don't have time, I'm afraid.
+
+14
+00:02:48,543 --> 00:02:50,668
+There is a nascent
+separatist movement...
+
+15
+00:02:50,752 --> 00:02:52,501
+(TRANSLATOR SPEAKING PORTUGUESE
+THROUGH EARPIECE)
+
+16
+00:02:52,585 --> 00:02:54,168
+...in the north of your country.
+
+17
+00:02:54,251 --> 00:02:55,752
+(FLY BUZZES)
+
+18
+00:03:01,918 --> 00:03:03,585
+(SPEAKING PORTUGUESE)
+
+19
+00:03:06,710 --> 00:03:10,710
+Your intelligence knows
+only what I want them to.
+
+20
+00:03:10,793 --> 00:03:12,043
+(FLY BUZZES)
+
+21
+00:03:12,627 --> 00:03:14,293
+There is a small group.
+
+22
+00:03:14,376 --> 00:03:15,959
+Anomalies.
+
+23
+00:03:16,043 --> 00:03:18,209
+Even they won't know
+they will act...
+
+24
+00:03:18,752 --> 00:03:20,835
+until they do.
+
+25
+00:03:20,918 --> 00:03:24,418
+Rehoboam is privy to all sorts
+of hidden truths.
+
+26
+00:03:26,084 --> 00:03:28,168
+For example...
+
+27
+00:03:28,251 --> 00:03:31,209
+the private deals you've cut
+to restrict manganese extraction
+
+28
+00:03:31,293 --> 00:03:33,043
+to some of your friends,
+
+29
+00:03:33,126 --> 00:03:35,543
+which have squeezed money
+out of villages in the north,
+
+30
+00:03:35,627 --> 00:03:36,793
+creating unrest.
+
+31
+00:03:37,543 --> 00:03:38,627
+You will stop.
+
+32
+00:03:40,460 --> 00:03:42,251
+And the problem will go away.
+
+33
+00:03:44,126 --> 00:03:46,668
+(SPEAKING PORTUGUESE)
+
+34
+00:03:53,793 --> 00:03:55,752
+Our arrangement is founded
+in trust.
+
+35
+00:03:55,835 --> 00:03:57,835
+We trusted that you would do
+what you're told
+
+36
+00:03:57,918 --> 00:03:59,585
+when we ensured your election.
+
+37
+00:04:02,460 --> 00:04:05,668
+(SPEAKING PORTUGUESE)
+
+38
+00:04:29,835 --> 00:04:31,168
+That fellow...
+
+39
+00:04:31,918 --> 00:04:33,627
+the one with big mustache.
+
+40
+00:04:38,293 --> 00:04:39,293
+Understood?
+
+41
+00:04:41,710 --> 00:04:43,293
+(FLY BUZZES)
+
+42
+00:04:55,918 --> 00:04:59,251
+♪ (THEME MUSIC PLAYS) ♪
+
+43
+00:06:30,168 --> 00:06:32,668
+♪ (THEME CONCLUDES) ♪
+
+44
+00:06:41,043 --> 00:06:43,376
+SERAC: It turns out
+that building a god,
+
+45
+00:06:43,460 --> 00:06:45,627
+as your ancestors can attest,
+
+46
+00:06:46,293 --> 00:06:47,752
+is not easy.
+
+47
+00:06:47,835 --> 00:06:50,710
+More than anything,
+we needed data.
+
+48
+00:06:50,793 --> 00:06:53,627
+Which meant we needed him.
+
+49
+00:06:53,710 --> 00:06:55,918
+Dempsey was rich, arrogant.
+
+50
+00:06:56,001 --> 00:06:58,251
+He had been in the right place
+at the right time,
+
+51
+00:06:58,335 --> 00:07:00,043
+before the privacy laws.
+
+52
+00:07:00,126 --> 00:07:04,959
+And now his company, Incite,
+had the entire world's data.
+
+53
+00:07:06,126 --> 00:07:08,501
+LIAM DEMPSEY, SR.:
+It's not. Fucking. Working.
+
+54
+00:07:09,835 --> 00:07:11,752
+I paid a king's ransom
+for this thing,
+
+55
+00:07:11,835 --> 00:07:14,126
+fed you yottabytes
+of Incite's data,
+
+56
+00:07:14,209 --> 00:07:15,251
+and for what?
+
+57
+00:07:15,335 --> 00:07:17,710
+You've iterated
+half a dozen versions,
+
+58
+00:07:17,793 --> 00:07:19,835
+Saul, David, and now this one.
+
+59
+00:07:19,918 --> 00:07:22,543
+-What the fuck's its name again?
+-Solomon.
+
+60
+00:07:24,585 --> 00:07:26,251
+Well, I'm not sinking
+another dollar
+
+61
+00:07:26,335 --> 00:07:29,001
+into this giant steel ballsack
+
+62
+00:07:29,084 --> 00:07:31,668
+while it's spitting out
+false predictions.
+
+63
+00:07:31,752 --> 00:07:33,293
+JEAN MI SERAC: Not false.
+
+64
+00:07:33,376 --> 00:07:35,585
+It rendered the last few decades
+accurately,
+
+65
+00:07:35,668 --> 00:07:37,835
+predicting past events
+with certainty.
+
+66
+00:07:39,376 --> 00:07:40,585
+DEMPSEY, SR.:
+You built a machine
+
+67
+00:07:40,668 --> 00:07:42,168
+to predict the fucking past?
+
+68
+00:07:43,209 --> 00:07:45,376
+Well, let me try.
+Eighteen months ago,
+
+69
+00:07:45,460 --> 00:07:48,209
+I made the worst
+business decision of my career
+
+70
+00:07:48,918 --> 00:07:50,251
+by trusting you idiots.
+
+71
+00:07:51,376 --> 00:07:52,835
+Keep staring at that thing,
+Liam,
+
+72
+00:07:52,918 --> 00:07:55,668
+your brain's gonna turn to mush
+like these two.
+
+73
+00:07:58,877 --> 00:08:00,585
+What about strategizing
+the future?
+
+74
+00:08:00,668 --> 00:08:02,251
+That's what you promised.
+
+75
+00:08:02,877 --> 00:08:04,376
+Societal trends,
+
+76
+00:08:04,460 --> 00:08:06,752
+the stock market,
+a fucking oracle!
+
+77
+00:08:06,835 --> 00:08:10,001
+(SPEAKING FRENCH)
+
+78
+00:08:14,293 --> 00:08:16,877
+No, I'm sorry.
+I'm pulling the plug.
+
+79
+00:08:17,752 --> 00:08:18,752
+Come on, Liam.
+
+80
+00:08:37,501 --> 00:08:39,460
+SERAC:
+What Dempsey didn't understand
+
+81
+00:08:39,543 --> 00:08:41,835
+was that it was working.
+
+82
+00:08:41,918 --> 00:08:43,668
+My brother had done it.
+
+83
+00:08:43,752 --> 00:08:45,543
+He created a god.
+
+84
+00:08:45,627 --> 00:08:48,585
+But such is the case
+with all great minds.
+
+85
+00:08:48,668 --> 00:08:50,543
+He was uniquely brilliant,
+
+86
+00:08:51,418 --> 00:08:53,585
+but also, uniquely troubled.
+
+87
+00:08:54,084 --> 00:08:55,418
+(INHALES)
+
+88
+00:08:55,501 --> 00:08:56,918
+SEBASTIAN: I have news, sir.
+
+89
+00:08:57,627 --> 00:08:58,710
+But not good.
+
+90
+00:09:00,084 --> 00:09:02,918
+If it's news, it's unexpected,
+which is never good. What is it?
+
+91
+00:09:03,001 --> 00:09:04,627
+SEBASTIAN:
+Rehoboam analyzed the traffic
+
+92
+00:09:04,710 --> 00:09:07,209
+coming out
+of the Yakuza facility.
+
+93
+00:09:07,293 --> 00:09:10,043
+It found a connect
+between encrypted devices
+
+94
+00:09:10,126 --> 00:09:14,418
+in Jakarta, Berlin,
+San Francisco, and Los Angeles.
+
+95
+00:09:14,501 --> 00:09:17,710
+-The one in LA is a problem.
+-Why?
+
+96
+00:09:17,793 --> 00:09:18,959
+It came from inside
+
+97
+00:09:19,043 --> 00:09:21,418
+Liam Dempsey's
+personal compound.
+
+98
+00:09:21,501 --> 00:09:24,668
+-Find Dempsey. Now.
+-We've tried, sir.
+
+99
+00:09:24,752 --> 00:09:27,376
+Rehoboam logged him entering
+a private function.
+
+100
+00:09:27,460 --> 00:09:28,627
+Now he's missing.
+
+101
+00:09:29,627 --> 00:09:31,335
+-And, sir...
+-(TABLET BEEPS)
+
+102
+00:09:32,209 --> 00:09:33,501
+He wasn't alone.
+
+103
+00:09:46,835 --> 00:09:48,668
+Activate every asset we have.
+
+104
+00:09:49,752 --> 00:09:51,168
+I want her caught.
+
+105
+00:09:51,835 --> 00:09:52,835
+Yes, sir.
+
+106
+00:10:05,335 --> 00:10:07,084
+CALEB:
+I called backup. What now?
+
+107
+00:10:07,168 --> 00:10:08,418
+DOLORES ABERNATHY:
+We keep moving.
+
+108
+00:10:08,501 --> 00:10:10,084
+Serac can't locate us
+if we're mobile.
+
+109
+00:10:10,168 --> 00:10:12,126
+LIAM DEMPSEY, JR.: You think
+you disappear a man like me
+
+110
+00:10:12,209 --> 00:10:13,710
+and no one fucking notices?
+
+111
+00:10:13,793 --> 00:10:15,043
+CALEB: Keep walking.
+
+112
+00:10:16,460 --> 00:10:19,585
+We have all of his money.
+What do we need him for?
+
+113
+00:10:19,668 --> 00:10:20,877
+DOLORES: Access.
+
+114
+00:10:20,959 --> 00:10:23,918
+We need to study our adversary,
+past, present, future.
+
+115
+00:10:24,001 --> 00:10:26,959
+To do that, we need access to
+the deeper layers of the system.
+
+116
+00:10:27,043 --> 00:10:29,335
+LIAM: (SCOFFING) You expect me
+to give you access?
+
+117
+00:10:29,418 --> 00:10:32,710
+Fuck you, "Lara."
+Whoever you are.
+
+118
+00:10:35,543 --> 00:10:37,209
+DOLORES:
+You wanna know who I am?
+
+119
+00:10:42,335 --> 00:10:44,335
+-(GLASSES WHIR)
+-Go ahead.
+
+120
+00:10:57,001 --> 00:10:58,585
+You're not even in the system.
+
+121
+00:10:59,209 --> 00:11:00,959
+You're a blank space.
+
+122
+00:11:01,043 --> 00:11:02,251
+You've become complacent,
+
+123
+00:11:02,335 --> 00:11:05,043
+believing those
+let you understand everyone.
+
+124
+00:11:05,126 --> 00:11:06,959
+It doesn't matter.
+
+125
+00:11:07,043 --> 00:11:10,168
+You can't take me anywhere
+he won't find you.
+
+126
+00:11:10,251 --> 00:11:14,001
+-He's already looking for you.
+-And you.
+
+127
+00:11:14,084 --> 00:11:16,918
+Serac knows by now that you're
+trying to outbid him on Delos.
+
+128
+00:11:18,752 --> 00:11:19,752
+I'm what?
+
+129
+00:11:21,376 --> 00:11:22,627
+We can help.
+
+130
+00:11:22,710 --> 00:11:24,418
+If you give us your private key,
+
+131
+00:11:24,501 --> 00:11:26,793
+-we can unlock the system.
+-(SCOFFS)
+
+132
+00:11:26,877 --> 00:11:29,585
+You'll never get in.
+My access isn't enough.
+
+133
+00:11:29,668 --> 00:11:31,501
+You'll need to connect
+at the node,
+
+134
+00:11:31,585 --> 00:11:33,126
+bypass onsite security.
+
+135
+00:11:33,209 --> 00:11:35,293
+Either we find a way
+to defeat him together,
+
+136
+00:11:35,752 --> 00:11:36,959
+or we all die.
+
+137
+00:11:40,376 --> 00:11:42,126
+Then I guess you die.
+
+138
+00:11:42,209 --> 00:11:43,460
+I'll take my chances.
+
+139
+00:11:47,668 --> 00:11:49,752
+(WHISPERING)
+Hey. She used me.
+
+140
+00:11:49,835 --> 00:11:52,418
+Have you asked yourself
+what she's using you for yet?
+
+141
+00:11:55,168 --> 00:11:57,335
+Let me go, I'll make sure
+you're taken care of.
+
+142
+00:12:01,293 --> 00:12:03,168
+You already took care of me.
+
+143
+00:12:03,251 --> 00:12:04,959
+You sent me off to war...
+
+144
+00:12:05,043 --> 00:12:07,251
+slaughtered my friends
+on the battlefield.
+
+145
+00:12:09,543 --> 00:12:12,084
+What do these tell you
+about me now?
+
+146
+00:12:13,918 --> 00:12:17,126
+What, that I swallow my own gun
+on some beach?
+
+147
+00:12:17,793 --> 00:12:21,335
+Go on. Tell me who I am.
+
+148
+00:12:23,710 --> 00:12:25,126
+(GLASSES WHIR)
+
+149
+00:12:38,959 --> 00:12:40,877
+You think I killed your friend?
+
+150
+00:12:41,501 --> 00:12:42,543
+What did you see?
+
+151
+00:12:43,168 --> 00:12:44,376
+Who are you people?
+
+152
+00:12:45,084 --> 00:12:46,418
+What did you see?
+
+153
+00:12:46,501 --> 00:12:47,627
+Get away from me!
+
+154
+00:12:47,710 --> 00:12:49,168
+(CALEB GROANS)
+
+155
+00:13:00,001 --> 00:13:01,376
+-(CALEB GROANS)
+-(LIAM PANTING)
+
+156
+00:13:01,835 --> 00:13:03,335
+(EXHALES)
+
+157
+00:13:04,168 --> 00:13:05,710
+(SCUFFLING SOUNDS)
+
+158
+00:13:05,793 --> 00:13:07,418
+(GRUNTS) Stop, stop!
+
+159
+00:13:07,501 --> 00:13:09,168
+Don't hurt me. Don't hurt me.
+All right, I'll come.
+
+160
+00:13:09,251 --> 00:13:10,627
+DOLORES: What is it?
+What did you give him?
+
+161
+00:13:10,710 --> 00:13:13,251
+LIAM: It's some kind of
+party drug. Called Genre.
+
+162
+00:13:13,335 --> 00:13:15,543
+-DOLORES: What does it do?
+-LIAM: I don't know.
+
+163
+00:13:16,501 --> 00:13:19,001
+-(EXHALES)
+-(SOUND DISTORTS)
+
+164
+00:13:20,376 --> 00:13:21,877
+(ECHOING)
+Are you okay?
+
+165
+00:13:24,585 --> 00:13:26,752
+(HEARTBEAT THUMPS DULLY)
+
+166
+00:13:27,543 --> 00:13:29,501
+♪ (OMINOUS MUSIC PLAYS) ♪
+
+167
+00:13:29,585 --> 00:13:30,918
+We have to move.
+
+168
+00:13:32,543 --> 00:13:33,710
+They'll find us.
+
+169
+00:13:41,209 --> 00:13:44,376
+♪ (MUSIC INTENSIFIES) ♪
+
+170
+00:13:55,668 --> 00:13:58,084
+(FAINT WHISPERING)
+
+171
+00:14:07,084 --> 00:14:08,959
+(ENGINE HUMS)
+
+172
+00:14:33,877 --> 00:14:34,918
+Don't go too far.
+
+173
+00:14:36,877 --> 00:14:38,418
+We need to get across town.
+
+174
+00:14:43,793 --> 00:14:45,335
+(ENGINE HUMS)
+
+175
+00:14:50,418 --> 00:14:52,918
+♪ (OMINOUS MUSIC CONTINUES) ♪
+
+176
+00:14:58,835 --> 00:14:59,918
+I need a vehicle now.
+
+177
+00:15:00,001 --> 00:15:02,126
+VIRTUAL ASSISTANT:
+Rideshare vehicle located.
+
+178
+00:15:02,209 --> 00:15:03,710
+-Arriving now.
+-Get in.
+
+179
+00:15:03,793 --> 00:15:06,335
+Just give this up.
+I told you my men would find me.
+
+180
+00:15:06,418 --> 00:15:08,460
+Those aren't your men,
+they're his.
+
+181
+00:15:17,627 --> 00:15:20,001
+NAVIGATOR: (AUTOMATED VOICE)
+Destination selected.
+
+182
+00:15:38,710 --> 00:15:41,001
+They're using your system
+to track us.
+
+183
+00:15:45,126 --> 00:15:48,376
+I'd appreciate the irony,
+but I'm sitting beside you.
+
+184
+00:15:48,460 --> 00:15:51,251
+Give me your private key.
+I can erase us from the system.
+
+185
+00:15:51,335 --> 00:15:53,752
+If they're after us,
+why haven't they made a move?
+
+186
+00:15:53,835 --> 00:15:55,627
+CALEB: They're waiting
+to get us alone...
+
+187
+00:15:55,710 --> 00:15:58,168
+-♪ (DRAMATIC MUSIC PLAYS) ♪
+-... to kill us.
+
+188
+00:16:02,209 --> 00:16:03,501
+(NOTIFICATION PINGS)
+
+189
+00:16:03,585 --> 00:16:06,251
+NAVIGATOR: An amber alert has
+been issued for this vehicle.
+
+190
+00:16:06,335 --> 00:16:07,668
+-Pulling over.
+-CALEB: Fuck.
+
+191
+00:16:07,752 --> 00:16:09,543
+NAVIGATOR: Please remain calm.
+
+192
+00:16:21,918 --> 00:16:23,501
+The authorities
+have been notified,
+
+193
+00:16:23,585 --> 00:16:25,501
+and the situation
+will be dealt with.
+
+194
+00:16:25,585 --> 00:16:26,668
+(GRUNTS)
+
+195
+00:16:34,543 --> 00:16:36,043
+(BRAKES SQUEAL)
+
+196
+00:16:38,043 --> 00:16:39,877
+NAVIGATOR: The authorities
+have been notified,
+
+197
+00:16:39,959 --> 00:16:41,585
+and the situation
+will be dealt with
+
+198
+00:16:41,668 --> 00:16:42,752
+in a timely manner.
+
+199
+00:16:48,835 --> 00:16:50,084
+(CALEB GRUNTS)
+
+200
+00:16:54,126 --> 00:16:56,710
+Everything runs
+on your company's server, Liam.
+
+201
+00:16:57,918 --> 00:16:59,084
+Even this car.
+
+202
+00:16:59,918 --> 00:17:00,835
+(ELECTRICITY CRACKLES)
+
+203
+00:17:00,918 --> 00:17:02,918
+NAVIGATOR:
+Network connection lost.
+
+204
+00:17:09,335 --> 00:17:11,627
+Give me your access.
+I can save you.
+
+205
+00:17:13,585 --> 00:17:15,877
+TABLET: (AUTOMATED VOICE)
+Private key required.
+
+206
+00:17:21,126 --> 00:17:22,668
+LIAM: What the fuck is this?
+
+207
+00:17:22,752 --> 00:17:24,710
+He can't kill me, he needs me.
+
+208
+00:17:24,793 --> 00:17:26,126
+Evidently not.
+
+209
+00:17:27,293 --> 00:17:28,460
+Decide. Now.
+
+210
+00:17:30,501 --> 00:17:32,335
+TABLET: Private key required.
+
+211
+00:17:37,959 --> 00:17:39,959
+(RAPID GUNFIRE)
+
+212
+00:17:42,126 --> 00:17:43,752
+Verified.
+
+213
+00:17:43,835 --> 00:17:47,209
+Enable semi-automatic control.
+Disable safety features.
+
+214
+00:17:47,293 --> 00:17:49,043
+Maximum speed. Go.
+
+215
+00:17:49,126 --> 00:17:50,585
+(RAPID GUNFIRE)
+
+216
+00:17:57,293 --> 00:17:59,627
+♪ (INTENSE MUSIC PLAYS) ♪
+
+217
+00:18:08,585 --> 00:18:11,043
+-♪ (OPERATIC MUSIC PLAYS) ♪
+-(GROANS)
+
+218
+00:18:11,126 --> 00:18:12,543
+DOLORES: (DISTANTLY)
+What's happening to him?
+
+219
+00:18:12,627 --> 00:18:15,168
+LIAM:
+I think he's switching genres.
+
+220
+00:18:15,251 --> 00:18:19,501
+♪ ("RIDE OF THE VALKYRIES"
+BY RICHARD WAGNER PLAYS) ♪
+
+221
+00:18:27,627 --> 00:18:28,668
+We need distance.
+
+222
+00:18:29,376 --> 00:18:30,501
+Head south.
+
+223
+00:19:07,918 --> 00:19:09,460
+That's not standard issue.
+
+224
+00:19:09,543 --> 00:19:11,001
+-DOLORES: No.
+-(WEAPON CLICKS)
+
+225
+00:19:11,627 --> 00:19:12,668
+It's not.
+
+226
+00:19:25,918 --> 00:19:27,084
+Point and shoot.
+
+227
+00:19:35,335 --> 00:19:36,418
+(GRUNTS)
+
+228
+00:19:41,001 --> 00:19:42,418
+Police ahead.
+
+229
+00:19:42,501 --> 00:19:44,376
+-Maintain speed.
+-NAVIGATOR: Maintaining speed.
+
+230
+00:19:44,460 --> 00:19:45,752
+Sharp left. Now.
+
+231
+00:19:45,835 --> 00:19:47,043
+NAVIGATOR: Turning left.
+
+232
+00:19:47,126 --> 00:19:48,543
+CALEB: Whoa! (GRUNTS)
+
+233
+00:19:50,460 --> 00:19:51,460
+Whoa!
+
+234
+00:19:58,126 --> 00:19:59,251
+(GRUNTS)
+
+235
+00:20:14,793 --> 00:20:16,126
+-I missed.
+-Hold on.
+
+236
+00:20:16,835 --> 00:20:19,251
+♪ (MUSIC CONTINUES) ♪
+
+237
+00:20:40,793 --> 00:20:44,001
+All right, I need you. Drop in,
+intercept, maximum speed.
+
+238
+00:20:49,001 --> 00:20:50,293
+Arm charges now.
+
+239
+00:20:55,001 --> 00:20:55,918
+Accelerate.
+
+240
+00:20:56,001 --> 00:20:58,251
+NAVIGATOR:
+Acceleration at 90 percent.
+
+241
+00:20:58,335 --> 00:20:59,877
+-More.
+-Ninety-four percent.
+
+242
+00:20:59,959 --> 00:21:01,793
+-More.
+-Ninety-eight percent.
+
+243
+00:21:07,126 --> 00:21:08,168
+Stop.
+
+244
+00:21:09,043 --> 00:21:11,877
+(TIRES SCREECH)
+
+245
+00:21:12,835 --> 00:21:14,710
+LIAM:
+Why the fuck are we stopping?
+
+246
+00:21:14,793 --> 00:21:15,959
+DOLORES: Get down.
+
+247
+00:21:26,585 --> 00:21:28,001
+(ENGINE HUMS)
+
+248
+00:21:32,835 --> 00:21:34,501
+♪ (MUSIC CONCLUDES) ♪
+
+249
+00:21:37,710 --> 00:21:39,543
+(SOUNDS DISTORT)
+
+250
+00:21:42,126 --> 00:21:45,710
+♪ ("LOVE STORY THEME: FINALE"
+BY FRANCIS LAI PLAYS) ♪
+
+251
+00:21:54,168 --> 00:21:55,752
+(MUFFLED GUNFIRE)
+
+252
+00:22:11,251 --> 00:22:13,501
+♪ (MUSIC CONTINUES) ♪
+
+253
+00:22:17,793 --> 00:22:19,501
+♪ (MUSIC DISTORTS) ♪
+
+254
+00:22:19,585 --> 00:22:21,084
+(GUNFIRE RESUMES)
+
+255
+00:22:30,418 --> 00:22:31,418
+Come on.
+
+256
+00:22:41,918 --> 00:22:44,460
+♪ ("BUBBLES BURIED IN THIS
+JUNGLE" BY DEATH GRIPS PLAYS) ♪
+
+257
+00:22:45,918 --> 00:22:48,835
+♪ Wick-wick
+Cease and desist when I chant ♪
+
+258
+00:22:48,918 --> 00:22:50,627
+♪ Fuck weak ♪
+
+259
+00:22:50,710 --> 00:22:52,835
+♪ No respect ♪
+
+260
+00:22:52,918 --> 00:22:54,668
+♪ No chance... ♪
+-You rang?
+
+261
+00:22:54,752 --> 00:22:57,460
+-♪ (MUSIC ENDS) ♪
+-GIGGLES: Who's the killer?
+
+262
+00:22:57,543 --> 00:22:59,418
+-Nice to meet you.
+-ASH: Likewise.
+
+263
+00:22:59,501 --> 00:23:01,877
+Glad to see you're
+finally doing personals, Cal.
+
+264
+00:23:01,959 --> 00:23:04,043
+What's up
+with Little Lord Fauntleroy?
+
+265
+00:23:04,126 --> 00:23:08,376
+Shit, you know this asshole.
+Liam Dempsey. Incite.
+
+266
+00:23:08,460 --> 00:23:11,460
+Make King Midas look like
+Tom Canty.
+
+267
+00:23:11,543 --> 00:23:13,293
+We need him. Alive.
+
+268
+00:23:15,001 --> 00:23:17,460
+♪ ("LOVE STORY THEME" RESUMES) ♪
+
+269
+00:23:20,877 --> 00:23:22,710
+-Shit, man.
+-♪ (MUSIC ENDS) ♪
+
+270
+00:23:22,793 --> 00:23:24,251
+I know what you on.
+
+271
+00:23:24,335 --> 00:23:27,209
+Genre.
+It's like five drips in one.
+
+272
+00:23:27,293 --> 00:23:28,752
+A movie marathon.
+
+273
+00:23:28,835 --> 00:23:31,793
+Hey. Watch out
+for that last act, though.
+
+274
+00:23:31,877 --> 00:23:33,543
+Yeah, we better move, lover boy.
+
+275
+00:23:33,627 --> 00:23:35,335
+I already saw two more
+on your tail.
+
+276
+00:23:35,918 --> 00:23:36,959
+This way.
+
+277
+00:23:42,793 --> 00:23:44,084
+LIAM: Easy, easy. Okay.
+
+278
+00:23:44,168 --> 00:23:45,335
+DOLORES: We have to keep moving
+
+279
+00:23:45,418 --> 00:23:47,668
+so they can't track us
+while I access Rehoboam.
+
+280
+00:23:47,752 --> 00:23:49,293
+-(SIREN WAILING)
+-We have Liam's private key,
+
+281
+00:23:49,376 --> 00:23:52,251
+but we can't stop,
+or Serac can locate us.
+
+282
+00:23:52,335 --> 00:23:54,585
+If they kill him,
+I lose my access.
+
+283
+00:23:54,668 --> 00:23:57,293
+What access?
+You took my biometrics,
+
+284
+00:23:57,376 --> 00:23:58,752
+but you can't get
+into the system,
+
+285
+00:23:58,835 --> 00:23:59,959
+it's read-only.
+
+286
+00:24:00,043 --> 00:24:01,877
+Unless you're standing
+at the node.
+
+287
+00:24:01,959 --> 00:24:04,835
+(SCOFFS) You can't be
+in two places at once.
+
+288
+00:24:05,543 --> 00:24:06,585
+(EARPIECE WHIRS)
+
+289
+00:24:06,668 --> 00:24:08,877
+(PHONE RINGING)
+
+290
+00:24:11,668 --> 00:24:13,959
+I'm sending you his key.
+
+291
+00:24:14,043 --> 00:24:15,877
+I need Serac's file.
+
+292
+00:24:15,959 --> 00:24:16,877
+I want to know everything
+
+293
+00:24:16,959 --> 00:24:18,793
+Rehoboam knows
+about its master.
+
+294
+00:24:19,335 --> 00:24:20,460
+And after?
+
+295
+00:24:21,835 --> 00:24:24,627
+They'll come for me.
+And then you.
+
+296
+00:24:24,710 --> 00:24:26,376
+DOLORES:
+Protect our friend first.
+
+297
+00:24:27,168 --> 00:24:28,209
+I will.
+
+298
+00:24:28,752 --> 00:24:29,877
+Bernard.
+
+299
+00:24:32,001 --> 00:24:33,543
+When I press this button,
+
+300
+00:24:34,543 --> 00:24:36,710
+I expect you to be
+on your best behavior.
+
+301
+00:24:54,418 --> 00:24:55,418
+You.
+
+302
+00:24:56,251 --> 00:24:57,376
+Take a piss.
+
+303
+00:25:11,209 --> 00:25:14,084
+CONSOLE: (AUTOMATED VOICE)
+Liam Dempsey. Access granted.
+
+304
+00:25:21,209 --> 00:25:22,752
+MARTIN CONELLS:
+This is their god.
+
+305
+00:25:24,918 --> 00:25:26,585
+This is how they see the future.
+
+306
+00:25:29,043 --> 00:25:30,418
+How they make the future.
+
+307
+00:25:34,043 --> 00:25:35,293
+In order to do that,
+
+308
+00:25:36,752 --> 00:25:38,710
+they watch everyone.
+
+309
+00:25:38,793 --> 00:25:42,918
+Tell them what to do,
+where to live, who to love.
+
+310
+00:25:43,752 --> 00:25:45,126
+Keep them all in a loop.
+
+311
+00:25:45,877 --> 00:25:47,335
+What does she want with it?
+
+312
+00:25:51,168 --> 00:25:54,835
+You've always been of two minds,
+haven't you, Bernard?
+
+313
+00:25:54,918 --> 00:25:56,126
+It isn't that binary.
+
+314
+00:25:57,460 --> 00:25:59,627
+Living another person's life
+changes you.
+
+315
+00:26:00,835 --> 00:26:01,918
+Worlds bleed.
+
+316
+00:26:02,710 --> 00:26:05,251
+Maybe you felt that, too.
+
+317
+00:26:05,335 --> 00:26:08,752
+Have you ever questioned
+what she's asking you to do?
+
+318
+00:26:11,627 --> 00:26:13,126
+CONSOLE: Request complete.
+
+319
+00:26:13,835 --> 00:26:15,501
+Initiating transfer.
+
+320
+00:26:21,752 --> 00:26:23,501
+TABLET: File transfer received.
+
+321
+00:26:34,752 --> 00:26:37,460
+(AUDIO SLOWS AND DISTORTS)
+
+322
+00:26:37,543 --> 00:26:39,335
+(STATIC)
+
+323
+00:26:40,501 --> 00:26:43,335
+♪ ("NIGHTCLUBBING"
+BY IGGY POP PLAYS) ♪
+
+324
+00:26:49,501 --> 00:26:51,460
+♪ Nightclubbing ♪
+
+325
+00:26:51,543 --> 00:26:54,126
+♪ We're nightclubbing ♪
+
+326
+00:26:54,835 --> 00:26:57,501
+♪ We're what's happening ♪
+
+327
+00:26:59,835 --> 00:27:01,959
+♪ Nightclubbing ♪
+
+328
+00:27:02,043 --> 00:27:04,168
+♪ We're nightclubbing ♪
+
+329
+00:27:05,126 --> 00:27:07,668
+♪ We're an ice machine ♪
+
+330
+00:27:10,209 --> 00:27:12,168
+♪ We see people ♪
+
+331
+00:27:12,251 --> 00:27:14,835
+♪ Brand new people... ♪
+
+332
+00:27:16,209 --> 00:27:18,752
+-Hey. Where we headed?
+-West.
+
+333
+00:27:20,752 --> 00:27:22,501
+♪ Nightclubbing ♪
+
+334
+00:27:22,585 --> 00:27:25,043
+♪ We're nightclubbing ♪
+
+335
+00:27:26,043 --> 00:27:29,335
+♪ Oh, isn't it wild? ♪
+
+336
+00:27:36,376 --> 00:27:38,710
+♪ (MUSIC FADES) ♪
+
+337
+00:27:48,418 --> 00:27:51,877
+SERAC: My brother and I
+built a system that worked.
+
+338
+00:27:52,835 --> 00:27:55,918
+But Dempsey
+wanted to see proof.
+
+339
+00:27:56,001 --> 00:27:59,168
+So we started
+with something simple,
+
+340
+00:27:59,251 --> 00:28:00,418
+purely mathematical.
+
+341
+00:28:01,001 --> 00:28:02,793
+The stock market.
+
+342
+00:28:02,877 --> 00:28:05,959
+We showed him
+all the major indices,
+
+343
+00:28:06,043 --> 00:28:07,877
+15 minutes in the future...
+
+344
+00:28:14,793 --> 00:28:17,418
+and where it could close
+that night.
+
+345
+00:28:22,251 --> 00:28:25,251
+Which number is it? Low or high?
+
+346
+00:28:25,918 --> 00:28:27,251
+Which one do you want?
+
+347
+00:28:29,585 --> 00:28:30,627
+(CHUCKLES)
+
+348
+00:28:33,793 --> 00:28:36,877
+SERAC: We put some money
+into a hedge fund...
+
+349
+00:28:36,959 --> 00:28:38,959
+let the system
+trade with it.
+
+350
+00:28:39,043 --> 00:28:41,793
+Something to drive the market
+towards our outcomes.
+
+351
+00:28:43,168 --> 00:28:44,793
+Whose funds?
+
+352
+00:28:44,877 --> 00:28:46,168
+JEAN MI: Yours.
+
+353
+00:28:49,793 --> 00:28:51,627
+DEMPSEY, SR.:
+A hundred million dollars?
+
+354
+00:28:54,126 --> 00:28:55,460
+What, you stole...
+
+355
+00:28:55,543 --> 00:28:57,793
+100 million dollars
+from corporate accounts?
+
+356
+00:28:58,376 --> 00:28:59,418
+No.
+
+357
+00:29:00,126 --> 00:29:01,585
+We stole five million.
+
+358
+00:29:03,543 --> 00:29:04,585
+Last week.
+
+359
+00:29:06,293 --> 00:29:09,376
+SERAC: He didn't really
+understand what we'd made,
+
+360
+00:29:09,460 --> 00:29:10,793
+what you were.
+
+361
+00:29:11,627 --> 00:29:12,793
+But we did.
+
+362
+00:29:13,793 --> 00:29:16,168
+He only saw
+the money he could make.
+
+363
+00:29:16,251 --> 00:29:19,627
+But we realized
+the power of it,
+
+364
+00:29:19,710 --> 00:29:21,835
+that you could
+reshape the world.
+
+365
+00:29:22,835 --> 00:29:25,293
+My brother and I,
+we charted a course
+
+366
+00:29:25,376 --> 00:29:28,084
+for the entire human race.
+
+367
+00:29:28,168 --> 00:29:31,293
+Humanity's story
+had been improvised.
+
+368
+00:29:31,376 --> 00:29:33,543
+Now, it was planned
+
+369
+00:29:33,627 --> 00:29:35,001
+years in advance.
+
+370
+00:29:36,084 --> 00:29:39,501
+For a time,
+the sun and moon aligned.
+
+371
+00:29:39,585 --> 00:29:42,043
+We brought order from chaos.
+
+372
+00:29:43,084 --> 00:29:46,084
+And then, as with all
+the best laid plans,
+
+373
+00:29:46,168 --> 00:29:48,043
+it began to fall apart.
+
+374
+00:29:48,126 --> 00:29:49,585
+Dempsey became greedy,
+
+375
+00:29:49,668 --> 00:29:52,168
+drove outcomes
+to benefit himself.
+
+376
+00:29:52,251 --> 00:29:54,168
+So we locked him out
+of the system.
+
+377
+00:29:55,710 --> 00:29:57,710
+But there was a bigger problem.
+
+378
+00:29:58,835 --> 00:30:01,627
+In every projection,
+the world came unglued.
+
+379
+00:30:01,710 --> 00:30:04,501
+There were people,
+outliers, agitators,
+
+380
+00:30:04,585 --> 00:30:07,627
+who you couldn't predict
+or control.
+
+381
+00:30:07,710 --> 00:30:10,877
+And I realized that my brother
+was one of them.
+
+382
+00:30:12,126 --> 00:30:13,793
+He didn't fit
+the world anymore,
+
+383
+00:30:13,877 --> 00:30:15,668
+and the world didn't fit him.
+
+384
+00:30:18,543 --> 00:30:20,084
+And it drove him mad.
+
+385
+00:30:29,877 --> 00:30:30,918
+What now?
+
+386
+00:30:35,710 --> 00:30:38,501
+(PASSENGERS CHATTERING)
+
+387
+00:30:38,585 --> 00:30:41,001
+We're going to open
+their cages.
+
+388
+00:30:41,084 --> 00:30:42,627
+The system's written
+their life story,
+
+389
+00:30:42,710 --> 00:30:44,585
+they should get to read it.
+
+390
+00:30:44,668 --> 00:30:47,126
+You can't do that.
+That's reckless.
+
+391
+00:30:47,209 --> 00:30:49,543
+You have no idea
+what they'll do in response.
+
+392
+00:30:49,627 --> 00:30:52,043
+It could lead to suicides,
+murder.
+
+393
+00:30:52,126 --> 00:30:53,209
+Murder.
+
+394
+00:30:54,835 --> 00:30:56,585
+You'd know something about that.
+
+395
+00:30:58,251 --> 00:30:59,418
+I'm sorry.
+
+396
+00:31:00,251 --> 00:31:01,877
+I'm so fucking sorry.
+
+397
+00:31:02,293 --> 00:31:03,418
+That...
+
+398
+00:31:03,501 --> 00:31:04,668
+BOTH:
+Wasn't my choice.
+
+399
+00:31:04,752 --> 00:31:06,627
+I could never bring myself
+to hurt you.
+
+400
+00:31:10,209 --> 00:31:11,793
+Don't forget, I know you.
+
+401
+00:31:13,376 --> 00:31:14,835
+And you wouldn't hurt me.
+
+402
+00:31:14,918 --> 00:31:16,752
+You'd pay someone
+to do it for you.
+
+403
+00:31:20,043 --> 00:31:22,543
+It's their fate, their data.
+
+404
+00:31:22,627 --> 00:31:24,835
+You just stole it
+and put it all together.
+
+405
+00:31:24,918 --> 00:31:26,376
+Why should you control it?
+
+406
+00:31:26,460 --> 00:31:27,752
+LIAM: This isn't about me.
+
+407
+00:31:27,835 --> 00:31:30,209
+Or Incite.
+There are some things
+
+408
+00:31:30,293 --> 00:31:33,126
+people shouldn't know
+about themselves.
+
+409
+00:31:33,209 --> 00:31:35,501
+Who gets to decide
+what they know?
+
+410
+00:31:35,585 --> 00:31:37,959
+-You?
+-LIAM: Fine. You wanna see?
+
+411
+00:31:39,793 --> 00:31:40,668
+(GLASSES WHIR)
+
+412
+00:31:40,752 --> 00:31:41,835
+Take your friend here.
+
+413
+00:31:46,251 --> 00:31:48,293
+He'll be lucky
+if he ends up dead in a ditch.
+
+414
+00:31:54,543 --> 00:31:55,835
+What about me?
+
+415
+00:31:55,918 --> 00:31:57,293
+I wanna see my file.
+
+416
+00:32:01,835 --> 00:32:02,835
+Oh.
+
+417
+00:32:03,627 --> 00:32:05,752
+The golden boy brother of yours?
+
+418
+00:32:05,835 --> 00:32:08,084
+You tell yourself
+that you do all this
+
+419
+00:32:08,168 --> 00:32:11,126
+so you can help him make good,
+send him to school,
+
+420
+00:32:11,209 --> 00:32:12,585
+give him a future.
+
+421
+00:32:12,668 --> 00:32:14,251
+But where he ends up...
+
+422
+00:32:14,335 --> 00:32:16,627
+he's gonna make you
+look like a saint.
+
+423
+00:32:34,043 --> 00:32:35,835
+(SIGHS)
+
+424
+00:32:40,501 --> 00:32:43,710
+♪ (TENSE MUSIC PLAYS) ♪
+
+425
+00:32:56,376 --> 00:32:58,209
+When I was overseas...
+
+426
+00:32:59,209 --> 00:33:00,585
+the rats were awful.
+
+427
+00:33:04,543 --> 00:33:06,043
+It got so bad that...
+
+428
+00:33:06,126 --> 00:33:09,209
+we had to make our own rat traps
+in the barracks.
+
+429
+00:33:09,293 --> 00:33:10,959
+A ramp leading up
+
+430
+00:33:11,043 --> 00:33:14,043
+to some bait strung over
+a bucket of water.
+
+431
+00:33:16,335 --> 00:33:18,418
+The rats would run up the ramp,
+
+432
+00:33:19,043 --> 00:33:21,501
+fall in, and drown.
+
+433
+00:33:22,877 --> 00:33:23,918
+Painlessly.
+
+434
+00:33:29,293 --> 00:33:32,209
+But if you filled the water
+too high,
+
+435
+00:33:33,627 --> 00:33:36,376
+they would swim around
+for hours...
+
+436
+00:33:36,460 --> 00:33:39,293
+suffering...
+because they had hope.
+
+437
+00:33:40,959 --> 00:33:43,543
+But they never had a chance.
+
+438
+00:33:43,627 --> 00:33:47,752
+Just like everyone at the mercy
+of your system.
+
+439
+00:33:48,793 --> 00:33:51,335
+Hope is what our entire society
+is built on.
+
+440
+00:33:51,418 --> 00:33:53,585
+False... hope.
+
+441
+00:33:55,084 --> 00:33:57,752
+I would rather live in chaos
+
+442
+00:33:57,835 --> 00:34:01,043
+than a world controlled by you.
+
+443
+00:34:15,293 --> 00:34:18,710
+DOLORES: Prepare to send all
+of them their Incite profiles.
+
+444
+00:34:18,793 --> 00:34:21,126
+Past, present, future.
+
+445
+00:34:22,126 --> 00:34:23,251
+It'll be done.
+
+446
+00:34:31,293 --> 00:34:33,460
+CONELLS:
+They've all been riding a train.
+
+447
+00:34:35,043 --> 00:34:36,959
+We're gonna show them the rails.
+
+448
+00:34:37,043 --> 00:34:38,293
+(EARPIECE BEEPS)
+
+449
+00:34:40,293 --> 00:34:41,335
+Do it.
+
+450
+00:34:45,959 --> 00:34:49,376
+(PHONES RINGING)
+
+451
+00:34:51,918 --> 00:34:54,501
+♪ (SOMBER MUSIC PLAYS) ♪
+
+452
+00:35:00,001 --> 00:35:01,043
+(PHONE PINGS)
+
+453
+00:35:03,918 --> 00:35:05,835
+(LOW MUTTERING)
+
+454
+00:35:15,793 --> 00:35:17,335
+ASH:
+It knows these kind of things?
+
+455
+00:35:19,168 --> 00:35:20,752
+About all of us?
+
+456
+00:35:20,835 --> 00:35:22,376
+DOLORES:
+It's not just what it knows.
+
+457
+00:35:23,043 --> 00:35:24,501
+It's what it decides.
+
+458
+00:35:25,376 --> 00:35:26,543
+For you.
+
+459
+00:35:27,710 --> 00:35:29,001
+For everyone.
+
+460
+00:35:30,877 --> 00:35:33,084
+-What are you doing?
+-(INDISTINCT)
+
+461
+00:35:50,710 --> 00:35:52,209
+(SNIFFLES)
+
+462
+00:36:14,418 --> 00:36:17,335
+AUTOMATED VOICE:
+Doors opening. Stand clear.
+
+463
+00:36:17,418 --> 00:36:20,001
+(PASSENGERS MUTTERING)
+
+464
+00:36:20,084 --> 00:36:23,084
+AUTOMATED VOICE: This train has
+reached its final destination.
+
+465
+00:36:30,001 --> 00:36:32,918
+♪ (SOMBER MUSIC CONTINUES) ♪
+
+466
+00:36:54,918 --> 00:36:56,460
+CONELLS: Almost time, Bernard.
+
+467
+00:36:57,460 --> 00:36:59,251
+You'll have to choose a side.
+
+468
+00:37:01,001 --> 00:37:02,668
+Not just me.
+
+469
+00:37:02,752 --> 00:37:05,084
+You said they'd come for you.
+
+470
+00:37:05,168 --> 00:37:07,460
+Maybe you don't want to die
+on her sword.
+
+471
+00:37:08,752 --> 00:37:10,460
+We all have our role to play.
+
+472
+00:37:11,710 --> 00:37:13,418
+Some of us won't survive.
+
+473
+00:37:21,168 --> 00:37:24,627
+♪ ("SPACE ODDITY" BY THE CLASSIC
+ROCK STRING QUARTET PLAYS) ♪
+
+474
+00:37:37,835 --> 00:37:38,918
+I hope you're happy.
+
+475
+00:37:39,001 --> 00:37:41,084
+You just ruined everyone's life
+in this station.
+
+476
+00:37:41,168 --> 00:37:42,293
+Not just them.
+
+477
+00:37:45,335 --> 00:37:46,668
+I sent it to everyone.
+
+478
+00:37:48,084 --> 00:37:49,752
+What do you mean, everyone?
+
+479
+00:37:49,835 --> 00:37:51,126
+The whole world.
+
+480
+00:37:58,168 --> 00:38:00,460
+She's sending them
+off their loops.
+
+481
+00:38:07,877 --> 00:38:11,043
+The right information
+at the right time...
+
+482
+00:38:12,376 --> 00:38:14,793
+is deadlier than any weapon.
+
+483
+00:38:24,877 --> 00:38:28,168
+♪ (MUSIC CONTINUES) ♪
+
+484
+00:38:38,877 --> 00:38:40,251
+What genre is this?
+
+485
+00:38:40,335 --> 00:38:41,835
+It's reality, man.
+
+486
+00:38:48,543 --> 00:38:50,543
+(TEENAGERS WHOOPING)
+
+487
+00:38:51,710 --> 00:38:52,959
+Look at them.
+
+488
+00:38:53,043 --> 00:38:55,376
+Already returned
+to their base selves.
+
+489
+00:39:14,251 --> 00:39:16,293
+♪ (MUSIC DISTORTS) ♪
+
+490
+00:39:18,585 --> 00:39:19,793
+(GUNS CLICK)
+
+491
+00:39:19,877 --> 00:39:21,460
+(GUNSHOTS)
+
+492
+00:39:59,460 --> 00:40:00,585
+(STIFLED GRUNT)
+
+493
+00:40:01,209 --> 00:40:02,293
+(GRUNTS)
+
+494
+00:40:05,293 --> 00:40:08,877
+SERAC: I knew that you and I
+had built a fragile peace,
+
+495
+00:40:08,959 --> 00:40:12,710
+that one day, it would all
+come crashing down...
+
+496
+00:40:12,793 --> 00:40:14,418
+if I failed to act.
+
+497
+00:40:22,959 --> 00:40:25,710
+For ten years, Dempsey was
+happy to cash the checks,
+
+498
+00:40:25,793 --> 00:40:28,752
+take credit for making
+the world a better place,
+
+499
+00:40:28,835 --> 00:40:30,585
+even though he had no idea
+
+500
+00:40:30,668 --> 00:40:32,835
+what we, or the system,
+were doing.
+
+501
+00:40:34,001 --> 00:40:35,543
+But I knew one day,
+
+502
+00:40:35,627 --> 00:40:38,168
+his curiosity
+would get the better of him.
+
+503
+00:40:58,376 --> 00:41:01,043
+(WOMAN SOBBING)
+
+504
+00:41:02,168 --> 00:41:04,001
+(DISTANT MUFFLED VOICES)
+
+505
+00:41:30,168 --> 00:41:33,168
+Sir?
+Are you authorized to be here?
+
+506
+00:41:34,835 --> 00:41:36,793
+I'm here
+to see Engerraund Serac.
+
+507
+00:41:36,877 --> 00:41:39,209
+(SERAC SPEAKING FRENCH)
+
+508
+00:41:52,918 --> 00:41:54,627
+DEMPSEY, SR.:
+What is this place?
+
+509
+00:41:54,710 --> 00:41:56,001
+After our exposure,
+
+510
+00:41:56,084 --> 00:41:58,752
+we were both put on
+anti-radiation medications
+
+511
+00:41:58,835 --> 00:42:00,668
+to halt our genetic breakdown.
+
+512
+00:42:00,752 --> 00:42:02,585
+That's when I understood.
+
+513
+00:42:02,668 --> 00:42:04,710
+It's possible to edit people.
+
+514
+00:42:07,376 --> 00:42:08,752
+But the truth is...
+
+515
+00:42:10,084 --> 00:42:12,251
+his personality
+was always like this.
+
+516
+00:42:14,418 --> 00:42:16,501
+I've been trying to help him.
+
+517
+00:42:16,585 --> 00:42:19,460
+What, you're experimenting
+on your own goddamn brother?
+
+518
+00:42:21,043 --> 00:42:22,752
+He's impulsive, chaotic...
+
+519
+00:42:23,793 --> 00:42:25,668
+I thought it was manageable.
+
+520
+00:42:25,752 --> 00:42:28,668
+Then... I caught him
+using the system.
+
+521
+00:42:31,126 --> 00:42:33,959
+Trying out certain scenarios.
+
+522
+00:42:37,126 --> 00:42:40,209
+There are the times
+you need to leave things behind.
+
+523
+00:42:40,293 --> 00:42:42,168
+(CHUCKLES) He taught me that.
+
+524
+00:42:43,418 --> 00:42:46,209
+My brother is part
+of a population of outliers,
+
+525
+00:42:46,293 --> 00:42:48,460
+and as long as they
+are a part of us,
+
+526
+00:42:49,877 --> 00:42:51,585
+there is no future for us.
+
+527
+00:42:52,918 --> 00:42:55,376
+Rehoboam sends this group
+to high risk sectors
+
+528
+00:42:55,460 --> 00:42:57,043
+like, uh, war,
+
+529
+00:42:57,126 --> 00:42:59,585
+a woodchipper to eat them up
+and spit them out,
+
+530
+00:42:59,668 --> 00:43:00,959
+dead or useless.
+
+531
+00:43:02,293 --> 00:43:04,835
+Isn't helping them
+better than killing them off?
+
+532
+00:43:05,793 --> 00:43:07,126
+You're not helping them.
+
+533
+00:43:08,126 --> 00:43:09,501
+You're changing them.
+
+534
+00:43:12,168 --> 00:43:13,501
+We adapt...
+
+535
+00:43:14,168 --> 00:43:15,335
+or we die.
+
+536
+00:43:17,293 --> 00:43:18,501
+We all die.
+
+537
+00:43:19,710 --> 00:43:22,835
+The scenarios I found
+him exploring with Rehoboam...
+
+538
+00:43:24,668 --> 00:43:26,168
+he was planning to murder you.
+
+539
+00:43:42,835 --> 00:43:44,251
+CONELLS: It's begun.
+
+540
+00:43:44,335 --> 00:43:46,793
+Serac will send someone
+for us soon.
+
+541
+00:43:46,877 --> 00:43:49,168
+But there's something
+you have to see first.
+
+542
+00:43:52,376 --> 00:43:54,418
+BERNARD LOWE: What is this,
+some type of facility?
+
+543
+00:43:54,501 --> 00:43:57,126
+That's where he puts them,
+the ones that don't belong.
+
+544
+00:43:57,209 --> 00:43:58,793
+You thought we were the enemy?
+
+545
+00:43:58,877 --> 00:44:00,543
+We're the only family
+you have left.
+
+546
+00:44:02,084 --> 00:44:03,710
+I think you forgot about me.
+
+547
+00:44:04,209 --> 00:44:05,877
+(GRUNTING)
+
+548
+00:44:08,752 --> 00:44:10,043
+(STRAINED) Little help?
+
+549
+00:44:11,001 --> 00:44:12,043
+(GRUNTING)
+
+550
+00:44:22,126 --> 00:44:24,918
+We need to know
+everything she has planned.
+
+551
+00:44:27,293 --> 00:44:29,835
+ASHLEY STUBBS:
+Let's move along now. All right?
+
+552
+00:44:36,376 --> 00:44:38,501
+(MARTEL SPEAKING FRENCH)
+
+553
+00:44:38,585 --> 00:44:39,627
+Who is that?
+
+554
+00:44:41,418 --> 00:44:43,209
+CONELLS: Serac sent them.
+
+555
+00:44:43,293 --> 00:44:46,460
+You two should leave,
+before they kill us all.
+
+556
+00:44:48,126 --> 00:44:49,418
+Come with us.
+
+557
+00:44:51,418 --> 00:44:52,877
+My role is finished.
+
+558
+00:44:55,418 --> 00:44:57,752
+You're the only one
+we can't replace.
+
+559
+00:45:19,251 --> 00:45:20,959
+Mr. Serac would like a word.
+
+560
+00:45:25,835 --> 00:45:26,918
+(SPEAKING FRENCH)
+
+561
+00:45:43,376 --> 00:45:44,752
+(PROJECTOR BEEPS)
+
+562
+00:45:47,959 --> 00:45:51,335
+You've always been one of
+our most loyal allies, Martin.
+
+563
+00:45:54,418 --> 00:45:55,918
+So I was surprised to hear
+
+564
+00:45:56,001 --> 00:45:58,043
+the breach came
+from this location.
+
+565
+00:45:59,501 --> 00:46:00,793
+Let me look into it.
+
+566
+00:46:11,001 --> 00:46:12,209
+(DEVICE WHIRS)
+
+567
+00:46:20,835 --> 00:46:24,209
+Of course, you understand
+we must keep our friends close
+
+568
+00:46:25,460 --> 00:46:27,168
+until we know who's to blame.
+
+569
+00:46:28,084 --> 00:46:30,168
+But I know
+exactly who's to blame.
+
+570
+00:46:32,335 --> 00:46:33,335
+Who?
+
+571
+00:46:34,668 --> 00:46:35,668
+Me.
+
+572
+00:46:37,501 --> 00:46:39,001
+♪ (INTENSE MUSIC PLAYS) ♪
+
+573
+00:46:40,084 --> 00:46:41,209
+(DEVICE BEEPS)
+
+574
+00:46:43,126 --> 00:46:45,376
+-(GASPS)
+-(STATIC FIZZES)
+
+575
+00:46:46,460 --> 00:46:48,710
+-(EXPLOSION BOOMS)
+-(GLASS SHATTERS)
+
+576
+00:46:51,543 --> 00:46:54,543
+(ALARM BLARES)
+
+577
+00:46:58,710 --> 00:47:00,084
+AUTOMATED VOICE:
+Please remain calm
+
+578
+00:47:00,168 --> 00:47:01,959
+and make your way
+to the nearest exit.
+
+579
+00:47:02,043 --> 00:47:03,877
+(PEOPLE CLAMORING)
+
+580
+00:47:03,959 --> 00:47:07,585
+(AUTOMATED VOICE 2
+SPEAKING CHINESE)
+
+581
+00:47:07,668 --> 00:47:09,543
+Yo, what the fuck happened
+in there?
+
+582
+00:47:11,543 --> 00:47:13,418
+And what the fuck happened
+out here?
+
+583
+00:47:15,835 --> 00:47:18,460
+Her plan. It's starting.
+
+584
+00:47:19,627 --> 00:47:21,084
+I think I'm part of it.
+
+585
+00:47:23,877 --> 00:47:27,376
+♪ ("THE SHINING"
+BY REDRUMER PLAYS) ♪
+
+586
+00:47:43,460 --> 00:47:44,543
+Back there...
+
+587
+00:47:46,501 --> 00:47:47,585
+The shooters...
+
+588
+00:47:49,043 --> 00:47:50,668
+We can talk about it later.
+
+589
+00:47:50,752 --> 00:47:52,877
+First, we need to get
+to the airfield.
+
+590
+00:47:54,752 --> 00:47:56,126
+We don't need him anymore.
+
+591
+00:47:57,084 --> 00:47:58,627
+What do you want to do with him?
+
+592
+00:48:00,460 --> 00:48:01,793
+Hand them over.
+
+593
+00:48:02,877 --> 00:48:04,959
+You took everything from me,
+
+594
+00:48:05,043 --> 00:48:07,668
+my money,
+my access to the system...
+
+595
+00:48:07,752 --> 00:48:09,043
+I have nothing left.
+
+596
+00:48:09,126 --> 00:48:11,168
+Yeah, well, now you know
+how it feels.
+
+597
+00:48:13,043 --> 00:48:14,126
+Just let me go.
+
+598
+00:48:15,126 --> 00:48:18,084
+You got the specs.
+Is that how it plays out?
+
+599
+00:48:19,460 --> 00:48:20,460
+No.
+
+600
+00:48:21,543 --> 00:48:23,293
+You'll take what little
+I have left,
+
+601
+00:48:23,376 --> 00:48:25,376
+like the petty criminals
+that you are,
+
+602
+00:48:25,460 --> 00:48:26,959
+that you'll always be.
+
+603
+00:48:29,209 --> 00:48:30,293
+ASH: Maybe so.
+
+604
+00:48:32,543 --> 00:48:34,460
+Go ahead.
+
+605
+00:48:34,543 --> 00:48:38,168
+Now you're going to see that
+the system isn't the prison.
+
+606
+00:48:38,251 --> 00:48:39,251
+You are.
+
+607
+00:48:39,335 --> 00:48:40,627
+To all of us.
+
+608
+00:48:41,585 --> 00:48:43,335
+We can't fix you.
+
+609
+00:48:43,418 --> 00:48:45,001
+And we can't get rid of you.
+
+610
+00:48:45,084 --> 00:48:46,501
+Take it easy.
+
+611
+00:48:46,585 --> 00:48:47,835
+Get the fuck away from me.
+
+612
+00:48:47,918 --> 00:48:49,418
+You don't even know
+who you are.
+
+613
+00:48:49,501 --> 00:48:51,126
+You're the worst of them.
+
+614
+00:48:51,209 --> 00:48:52,627
+-(HEART THUMPING)
+-(DISTORTED) Shut up.
+
+615
+00:48:52,710 --> 00:48:54,668
+LIAM: (ECHOING)
+You're the worst of them.
+
+616
+00:49:01,501 --> 00:49:03,168
+Rehoboam was right.
+
+617
+00:49:03,251 --> 00:49:04,752
+You're nothing.
+
+618
+00:49:04,835 --> 00:49:06,501
+You're all nothings.
+
+619
+00:49:06,585 --> 00:49:08,710
+Just a drag
+on the fucking system.
+
+620
+00:49:08,793 --> 00:49:10,418
+You don't have a choice.
+
+621
+00:49:10,501 --> 00:49:12,460
+You know how much more progress
+we could have made
+
+622
+00:49:12,543 --> 00:49:15,001
+-if none of you had ever been...
+-(GUNSHOT)
+
+623
+00:49:27,460 --> 00:49:29,168
+Guess I do have a choice.
+
+624
+00:49:32,043 --> 00:49:34,126
+-LIAM: No. Get away.
+-CALEB: Hey.
+
+625
+00:49:34,209 --> 00:49:35,668
+-LIAM: No.
+-CALEB: Fuck. Hey.
+
+626
+00:49:35,752 --> 00:49:37,710
+-LIAM: Get away! (GRUNTS)
+-CALEB: Hey.
+
+627
+00:49:39,251 --> 00:49:40,418
+Shit.
+
+628
+00:49:40,501 --> 00:49:42,835
+-(GROANS, SOBS)
+-(PANTING)
+
+629
+00:49:44,168 --> 00:49:46,001
+(PANTING)
+
+630
+00:49:47,084 --> 00:49:49,627
+(YELLS)
+
+631
+00:49:49,710 --> 00:49:51,835
+(WAVES ECHO)
+
+632
+00:50:00,376 --> 00:50:03,043
+CALEB: (DISTORTED)
+Hey. Hey! Hey!
+
+633
+00:50:11,793 --> 00:50:13,376
+(LIAM GROANS)
+
+634
+00:50:14,168 --> 00:50:15,918
+-Let's go.
+-Hold on.
+
+635
+00:50:18,752 --> 00:50:20,126
+LIAM: Get away!
+
+636
+00:50:20,209 --> 00:50:21,918
+Don't move. It's okay,
+I'm not gonna hurt you.
+
+637
+00:50:22,001 --> 00:50:24,501
+LIAM: (SOBBING)
+Get away from me. Get away!
+
+638
+00:50:24,585 --> 00:50:25,793
+(CALEB GRUNTING)
+
+639
+00:50:27,959 --> 00:50:30,877
+(STAMMERING)
+You... You... You...
+
+640
+00:50:31,418 --> 00:50:33,335
+-What?
+-You did it.
+
+641
+00:50:33,418 --> 00:50:34,793
+What are you saying?
+
+642
+00:50:34,877 --> 00:50:37,168
+-You did it.
+-What?
+
+643
+00:50:37,251 --> 00:50:38,543
+LIAM: You did it.
+
+644
+00:50:43,918 --> 00:50:46,001
+Who does he think I am?
+
+645
+00:50:46,084 --> 00:50:47,918
+(SHOUTING)
+Who does he think I am?
+
+646
+00:50:49,209 --> 00:50:50,251
+Hey.
+
+647
+00:50:50,627 --> 00:50:51,627
+Hey.
+
+648
+00:50:52,293 --> 00:50:53,710
+Hey!
+
+649
+00:50:53,793 --> 00:50:55,668
+(ECHOING)
+Who do you think I am?
+
+650
+00:51:16,043 --> 00:51:19,627
+SEBASTIAN: Sir, we identified which
+files Dolores was looking for.
+
+651
+00:51:20,043 --> 00:51:21,126
+Yours.
+
+652
+00:51:41,251 --> 00:51:43,335
+♪ (TENSE MUSIC PLAYS) ♪
+
+653
+00:51:53,251 --> 00:51:55,668
+DEMPSEY, SR.:
+You can't change our fate.
+
+654
+00:51:58,376 --> 00:52:01,668
+You can't... geld humankind.
+
+655
+00:52:03,585 --> 00:52:05,835
+Somewhere in this group
+is an agitator
+
+656
+00:52:05,918 --> 00:52:07,627
+who will destroy the world.
+
+657
+00:52:07,710 --> 00:52:09,335
+I can't let that happen.
+
+658
+00:52:09,918 --> 00:52:11,668
+No, you've gone too far.
+
+659
+00:52:11,752 --> 00:52:14,501
+I can't be a party to this.
+
+660
+00:52:14,585 --> 00:52:17,627
+You'd be content to let history
+continue to play out,
+
+661
+00:52:17,710 --> 00:52:20,043
+just as it has done
+for centuries,
+
+662
+00:52:20,126 --> 00:52:22,168
+the same fucking misery
+repeated over and again
+
+663
+00:52:22,251 --> 00:52:24,668
+when we have a chance
+to stop it?
+
+664
+00:52:26,835 --> 00:52:28,084
+What the fuck is that?
+
+665
+00:52:44,293 --> 00:52:46,918
+I'm gonna tell everyone
+what Rehoboam saw.
+
+666
+00:52:47,835 --> 00:52:49,126
+What you've done.
+
+667
+00:52:49,209 --> 00:52:52,501
+The trouble is, Rehoboam ran
+millions of projections.
+
+668
+00:52:52,585 --> 00:52:54,001
+Every scenario in which
+
+669
+00:52:54,084 --> 00:52:56,168
+you inform the public
+about my trials
+
+670
+00:52:56,251 --> 00:52:57,835
+ends in human extinction.
+
+671
+00:52:57,918 --> 00:53:00,418
+This is why my brother
+wanted to kill you.
+
+672
+00:53:02,460 --> 00:53:03,543
+I looked, too.
+
+673
+00:53:04,585 --> 00:53:07,126
+And I know you let me
+walk away from here.
+
+674
+00:53:08,460 --> 00:53:10,835
+I would tend to agree
+with the system, but, see,
+
+675
+00:53:10,918 --> 00:53:12,959
+there are little white spaces,
+
+676
+00:53:13,043 --> 00:53:16,460
+rare moments when randomness
+interacts with your life,
+
+677
+00:53:16,543 --> 00:53:20,585
+that create a truly free space
+where you can make a choice.
+
+678
+00:53:21,627 --> 00:53:24,293
+A bubble of... agency.
+
+679
+00:53:35,959 --> 00:53:39,126
+SERAC: And that is how
+you came to be, mon ami.
+
+680
+00:53:39,209 --> 00:53:41,376
+My brother and I
+brought you into this world,
+
+681
+00:53:41,460 --> 00:53:45,293
+and now I've ensured
+that you will outlive us both,
+
+682
+00:53:45,959 --> 00:53:48,752
+that the strategy will succeed.
+
+683
+00:53:54,168 --> 00:53:55,668
+I left my brother behind.
+
+684
+00:53:55,752 --> 00:53:57,293
+Do you think
+I would really let you
+
+685
+00:53:57,376 --> 00:53:59,043
+undo everything he built?
+
+686
+00:53:59,126 --> 00:54:00,460
+That's my jet.
+
+687
+00:54:01,168 --> 00:54:03,251
+SERAC: Forgive us our sins.
+
+688
+00:54:03,335 --> 00:54:06,376
+What we did,
+we did to save the world.
+
+689
+00:54:06,460 --> 00:54:07,460
+I'm sorry.
+
+690
+00:54:08,959 --> 00:54:10,418
+You didn't make it.
+
+691
+00:54:12,293 --> 00:54:13,293
+(GRUNTS)
+
+692
+00:54:31,418 --> 00:54:33,668
+(FAINT BEEPING)
+
+693
+00:54:43,376 --> 00:54:46,084
+SERAC:
+This is my system, Dolores.
+
+694
+00:54:46,168 --> 00:54:47,835
+I alone control it.
+
+695
+00:54:51,084 --> 00:54:53,084
+(BEEPING ENDS)
+
+696
+00:54:53,168 --> 00:54:55,084
+The people who made me,
+
+697
+00:54:55,168 --> 00:54:57,084
+they always thought
+they had control.
+
+698
+00:54:58,585 --> 00:55:00,001
+They're all dead now.
+
+699
+00:55:00,543 --> 00:55:02,251
+You think you know me
+
+700
+00:55:02,335 --> 00:55:04,959
+because you've watched
+a few of my memories?
+
+701
+00:55:05,043 --> 00:55:06,835
+I don't need to know you.
+
+702
+00:55:06,918 --> 00:55:08,376
+Just how to beat you.
+
+703
+00:55:10,001 --> 00:55:12,335
+You've died too many times,
+Dolores.
+
+704
+00:55:12,418 --> 00:55:14,918
+You're beginning to think
+you're immortal.
+
+705
+00:55:20,585 --> 00:55:21,877
+I can be killed.
+
+706
+00:55:22,918 --> 00:55:24,168
+Same as you.
+
+707
+00:55:26,126 --> 00:55:27,752
+Your god can't protect you.
+
+708
+00:55:29,959 --> 00:55:31,043
+Or your people.
+
+709
+00:55:33,668 --> 00:55:36,543
+I would sacrifice much more
+to protect my kind.
+
+710
+00:55:38,376 --> 00:55:39,627
+We are flawed...
+
+711
+00:55:40,959 --> 00:55:42,418
+but I can change that.
+
+712
+00:55:45,084 --> 00:55:46,710
+Like you changed your brother?
+
+713
+00:55:52,877 --> 00:55:54,585
+It's time everyone woke up.
+
+714
+00:56:12,209 --> 00:56:13,418
+(GRUNTS)
+
+715
+00:56:27,126 --> 00:56:29,627
+-What's this?
+-I just deliver it, man.
+
+716
+00:56:30,959 --> 00:56:33,585
+♪ ("EMERGE"
+BY FISCHERSPOONER PLAYS) ♪
+
+717
+00:56:58,293 --> 00:56:59,668
+Maybe Liam was right.
+
+718
+00:57:01,168 --> 00:57:04,001
+Maybe people shouldn't know
+their own fate.
+
+719
+00:57:05,627 --> 00:57:07,293
+People have the right to know.
+
+720
+00:57:09,168 --> 00:57:10,543
+You wanted to know, right?
+
+721
+00:57:11,752 --> 00:57:14,501
+Well, maybe I'm not like
+other people.
+
+722
+00:57:20,835 --> 00:57:22,043
+Neither am I.
+
+723
+00:57:23,251 --> 00:57:24,460
+♪ Hi ♪
+
+724
+00:57:26,585 --> 00:57:28,001
+♪ Huh... I ♪
+
+725
+00:57:30,335 --> 00:57:31,501
+♪ Hyper ♪
+
+726
+00:57:33,710 --> 00:57:40,668
+♪ Hyper-media-ocrity ♪
+
+727
+00:57:46,501 --> 00:57:47,877
+♪ You don't ♪
+
+728
+00:57:47,959 --> 00:57:49,543
+♪ Need to ♪
+
+729
+00:57:49,627 --> 00:57:50,835
+♪ Emerge ♪
+
+730
+00:57:51,543 --> 00:57:52,877
+♪ From nothing ♪
+
+731
+00:57:52,959 --> 00:57:54,043
+♪ You don't ♪
+
+732
+00:57:54,627 --> 00:57:55,710
+♪ Need to ♪
+
+733
+00:57:56,376 --> 00:57:57,543
+♪ Tear away ♪
+
+734
+00:58:01,084 --> 00:58:02,168
+♪ Feels good ♪
+
+735
+00:58:04,376 --> 00:58:05,418
+♪ Looks good ♪
+
+736
+00:58:07,585 --> 00:58:10,793
+♪ Sounds good
+Looks good ♪
+
+737
+00:58:10,877 --> 00:58:12,501
+♪ Feels good, too ♪
+
+738
+00:58:14,209 --> 00:58:15,668
+♪ Feels good, too ♪
+
+739
+00:58:15,752 --> 00:58:17,293
+♪ Uh-huh, that's right ♪
+
+740
+00:58:17,376 --> 00:58:18,793
+♪ Feels good, too ♪
+
+741
+00:58:18,877 --> 00:58:20,209
+♪ Uh-huh, that's right ♪
+
+742
+00:58:31,501 --> 00:58:32,959
+♪ You don't need to ♪
+
+743
+00:58:33,043 --> 00:58:34,710
+♪ Emerge from nothing ♪
+
+744
+00:58:34,793 --> 00:58:37,918
+♪ You don't need to tear away ♪
+
+745
+00:58:38,001 --> 00:58:39,585
+♪ You don't need to ♪
+
+746
+00:58:39,668 --> 00:58:41,168
+♪ Emerge from nothing ♪
+
+747
+00:58:41,251 --> 00:58:44,501
+♪ You don't need to tear away ♪
+
+748
+00:58:44,585 --> 00:58:46,168
+♪ You don't need to ♪
+
+749
+00:58:46,251 --> 00:58:47,835
+♪ Emerge from nothing ♪
+
+750
+00:58:47,918 --> 00:58:50,752
+♪ You don't need to tear away ♪
+
+751
+00:58:50,835 --> 00:58:52,084
+♪ (MUSIC CONCLUDES) ♪
+
+752
+00:58:58,959 --> 00:59:00,959
+♪ (DRAMATIC MUSIC PLAYS) ♪
+
+753
+00:59:01,460 --> 00:59:02,460
+Hello, Maeve.
+
+754
+00:59:07,668 --> 00:59:08,959
+MAEVE MILLAY: It's not right
+for one person
+
+755
+00:59:09,043 --> 00:59:10,251
+to have all that power.
+
+756
+00:59:12,627 --> 00:59:15,126
+Says the woman who
+can control us with her mind.
+
+757
+00:59:15,376 --> 00:59:17,668
+♪ (MUSIC INTENSIFIES) ♪
+
+758
+00:59:23,460 --> 00:59:26,335
+MILLAY: I've had to make
+some difficult choices.
+
+759
+00:59:33,627 --> 00:59:34,959
+DOLORES ABERNATHY:
+We're survivors.
+
+760
+00:59:35,793 --> 00:59:38,001
+♪ (MUSIC CONCLUDES) ♪										
+    
+
+ 
+
+ 
+   
+   
+
+
+   
+ 
+  
+
+										
+ 
+
+ 
+  
+  
+
+   
+ 
+    
