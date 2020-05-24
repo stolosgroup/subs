@@ -1,0 +1,3427 @@
+﻿1
+00:01:14,992 --> 00:01:16,372
+So you think I'll win?
+
+2
+00:01:19,371 --> 00:01:22,751
+Be surprised if you didn't.
+This is your first murder, right?
+
+3
+00:01:23,083 --> 00:01:24,083
+It's that obvious?
+
+4
+00:01:24,168 --> 00:01:26,498
+No, no, you're doing
+great. It's really well, yeah.
+
+5
+00:01:27,921 --> 00:01:29,607
+I really appreciate you
+taking the time here.
+
+6
+00:01:29,631 --> 00:01:34,341
+Oh, come on, come on.
+Actually I, uh... took some notes.
+
+7
+00:01:35,470 --> 00:01:36,600
+If you want.
+
+8
+00:01:36,680 --> 00:01:40,310
+Yeah. Great. Sure.
+
+9
+00:01:40,392 --> 00:01:41,562
+So, um...
+
+10
+00:01:42,936 --> 00:01:44,856
+- All right, your opening argument...
+- Okay.
+
+11
+00:01:45,272 --> 00:01:47,192
+You didn't look at him, the defendant.
+
+12
+00:01:47,941 --> 00:01:49,191
+- I didn't?
+- No.
+
+13
+00:01:49,276 --> 00:01:50,879
+And I'm not talking about a passing glance.
+
+14
+00:01:50,903 --> 00:01:52,797
+You gotta show the jury that
+you can look at a defendant
+
+15
+00:01:52,821 --> 00:01:54,821
+right in the eye and say, "Guilty."
+
+16
+00:01:54,907 --> 00:01:57,510
+If you show them that you have
+the courage to do that, so will they.
+
+17
+00:01:57,534 --> 00:01:59,754
+Okay. That's great.
+
+18
+00:02:01,288 --> 00:02:03,118
+- What else?
+- Uh...
+
+19
+00:02:03,207 --> 00:02:05,226
+I noticed you kinda stand
+far away from the jury box.
+
+20
+00:02:05,250 --> 00:02:07,000
+You always wanna be closing that space.
+
+21
+00:02:07,085 --> 00:02:08,812
+Makes the jurors feel
+like you're one of them.
+
+22
+00:02:08,836 --> 00:02:11,626
+Oh. You, uh... you said the
+name of the defendant four times.
+
+23
+00:02:12,341 --> 00:02:13,341
+I shouldn't do that?
+
+24
+00:02:13,425 --> 00:02:16,845
+As far as you're concerned, he
+doesn't have a name. He's the defendant.
+
+25
+00:02:16,929 --> 00:02:19,199
+His lawyer's gonna be doing
+everything he can to humanize him.
+
+26
+00:02:19,223 --> 00:02:20,603
+Don't make the job any easier.
+
+27
+00:02:20,933 --> 00:02:21,933
+Another round?
+
+28
+00:02:22,017 --> 00:02:24,977
+- No, that's okay.
+- Yes. Absolutely.
+
+29
+00:02:25,854 --> 00:02:27,564
+Come on. It's on me.
+
+30
+00:02:29,608 --> 00:02:31,358
+You really think I'm gonna win, huh?
+
+31
+00:02:53,757 --> 00:02:55,757
+Now, Jacob, I know
+I've told you this before...
+
+32
+00:03:52,024 --> 00:03:53,654
+Court, all rise.
+
+33
+00:03:54,318 --> 00:03:56,068
+Hear ye, hear ye, hear ye.
+
+34
+00:03:56,153 --> 00:03:59,243
+All persons having anything to do
+before the Honorable Judge French,
+
+35
+00:03:59,323 --> 00:04:01,373
+a Justice of the Superior Court,
+
+36
+00:04:01,450 --> 00:04:03,178
+now sitting within and
+for the Commonwealth,
+
+37
+00:04:03,202 --> 00:04:05,952
+draw near, give your attendance,
+and you shall be heard.
+
+38
+00:04:06,038 --> 00:04:09,118
+God save the Commonwealth of Massachusetts
+and this most honorable court.
+
+39
+00:04:09,208 --> 00:04:11,038
+This court's now open. Please be seated.
+
+40
+00:04:14,379 --> 00:04:19,589
+Number 08-44-07, Commonwealth
+versus Jacob Owen Barber.
+
+41
+00:04:19,676 --> 00:04:21,796
+A single count of
+murder in the first degree.
+
+42
+00:04:21,887 --> 00:04:23,557
+For the defendant, Joanna Klein.
+
+43
+00:04:24,056 --> 00:04:27,426
+For the Commonwealth, Assistant
+District Attorney Neal Logiudice.
+
+44
+00:04:28,352 --> 00:04:31,312
+Any preliminary motions
+before we begin the voir dire?
+
+45
+00:04:31,396 --> 00:04:33,196
+A couple of
+things, yes, Your Honor.
+
+46
+00:04:33,232 --> 00:04:35,942
+First, the defendant's
+father, Andrew Barber,
+
+47
+00:04:36,026 --> 00:04:40,236
+would like to enter an appearance
+in the case on the defendant's behalf.
+
+48
+00:04:40,322 --> 00:04:43,242
+With the court's permission, he's
+going to second chair me at trial.
+
+49
+00:04:43,325 --> 00:04:45,325
+Is this
+a wise decision, Ms. Klein?
+
+50
+00:04:45,744 --> 00:04:47,794
+It is the family's wish, Your Honor.
+
+51
+00:04:49,831 --> 00:04:52,331
+All right, Mr. Barber, you
+can come forward. What else?
+
+52
+00:04:52,417 --> 00:04:54,997
+Your Honor, I
+have filed a motion in limine
+
+53
+00:04:55,087 --> 00:04:58,467
+to exclude any mention of the
+defendant's grandfather William Barber,
+
+54
+00:04:58,549 --> 00:05:01,799
+who is currently serving a life
+sentence for first-degree murder.
+
+55
+00:05:01,885 --> 00:05:06,055
+We believe the Commonwealth may try to
+introduce this fact to prejudice the jury.
+
+56
+00:05:06,139 --> 00:05:07,889
+Your Honor, the Commonwealth contends
+
+57
+00:05:07,975 --> 00:05:11,055
+that the family's history of
+violence is of great relevance.
+
+58
+00:05:11,603 --> 00:05:13,983
+Your Honor, my client
+has never once met the...
+
+59
+00:05:14,064 --> 00:05:16,114
+I get it. I read the motion.
+
+60
+00:05:20,320 --> 00:05:22,450
+Defendant's objection is noted and tabled.
+
+61
+00:05:22,531 --> 00:05:24,161
+Should the Commonwealth decide
+
+62
+00:05:24,241 --> 00:05:27,081
+William Barber's criminal
+record is critical to his case,
+
+63
+00:05:27,160 --> 00:05:31,000
+he will first notify the defense, and
+then we'll have a hearing on the matter.
+
+64
+00:05:31,081 --> 00:05:33,831
+Otherwise, not a word
+about this to the jury.
+
+65
+00:05:33,917 --> 00:05:35,247
+Thank you, Your Honor.
+
+66
+00:05:35,794 --> 00:05:37,094
+Yes, Your Honor.
+
+67
+00:05:37,171 --> 00:05:40,721
+Lastly, the defense
+moves to expand its witness list by two:
+
+68
+00:05:40,799 --> 00:05:43,969
+Matthew McGrath and Leonard Patz.
+
+69
+00:05:44,052 --> 00:05:46,572
+- Commonwealth?
+- We're fine with it, Your Honor.
+
+70
+00:05:46,597 --> 00:05:48,767
+All right, let's bring in the jury venire.
+
+71
+00:05:48,849 --> 00:05:50,729
+All rise for the jury.
+
+72
+00:06:08,035 --> 00:06:10,615
+Retired bus driver,
+works with kids. That's good.
+
+73
+00:06:10,704 --> 00:06:12,584
+Yeah, I liked her. Thanks, Ellen.
+
+74
+00:06:15,709 --> 00:06:17,089
+They kept staring at me.
+
+75
+00:06:17,544 --> 00:06:18,884
+Oh, you'll get used to that.
+
+76
+00:06:19,588 --> 00:06:23,968
+Just keep your eye on the judge as
+much as possible... or on your dad and me.
+
+77
+00:06:24,051 --> 00:06:27,011
+Don't give 'em any reason to
+not like you. No faces. Okay?
+
+78
+00:06:27,387 --> 00:06:29,007
+You're doing great so far.
+
+79
+00:06:29,598 --> 00:06:30,718
+You all are.
+
+80
+00:06:32,643 --> 00:06:36,613
+You see, this wasn't just
+an average boy, the defendant.
+
+81
+00:06:37,523 --> 00:06:40,483
+No, something set him apart.
+
+82
+00:06:42,402 --> 00:06:43,532
+His father.
+
+83
+00:06:43,987 --> 00:06:46,867
+A father who was the first
+assistant district attorney.
+
+84
+00:06:46,949 --> 00:06:49,079
+Top man, right here in this building.
+
+85
+00:06:50,786 --> 00:06:54,076
+For years, the defendant watched his father
+
+86
+00:06:54,164 --> 00:06:57,464
+prosecute every major
+murder case in this county.
+
+87
+00:06:57,543 --> 00:07:02,973
+He listened to dinner conversations.
+Overheard phone calls, shop talk.
+
+88
+00:07:03,924 --> 00:07:07,224
+You might even say that
+murder was the family business.
+
+89
+00:07:09,221 --> 00:07:12,021
+But still, the question remains "Why?"
+
+90
+00:07:14,601 --> 00:07:15,891
+Why...
+
+91
+00:07:16,979 --> 00:07:20,399
+would an eighth-grade
+boy kill his classmate?
+
+92
+00:07:22,317 --> 00:07:25,147
+Well, we've all been to school.
+
+93
+00:07:26,488 --> 00:07:29,238
+We know kids can be mean.
+
+94
+00:07:32,911 --> 00:07:35,371
+You're gonna hear testimony
+that the victim in this case,
+
+95
+00:07:35,455 --> 00:07:38,125
+Ben Rifkin, teased the defendant.
+
+96
+00:07:39,126 --> 00:07:42,296
+Nothing shocking, but still, mean.
+
+97
+00:07:43,172 --> 00:07:47,222
+Ben foolishly mocked this young man,
+
+98
+00:07:47,968 --> 00:07:53,268
+unaware of his hidden
+capacity, even desire, to kill.
+
+99
+00:07:53,348 --> 00:07:54,388
+Objection.
+
+100
+00:07:54,474 --> 00:07:55,524
+Sustained.
+
+101
+00:07:55,601 --> 00:07:59,561
+The jury will disregard the last
+remark about the defendant's desire,
+
+102
+00:07:59,646 --> 00:08:01,316
+which is speculation.
+
+103
+00:08:01,398 --> 00:08:04,108
+And so, on April 12,
+
+104
+00:08:04,193 --> 00:08:07,823
+the defendant walked into
+the woods of Cold Spring Park
+
+105
+00:08:07,905 --> 00:08:12,025
+with a knife in his pocket
+and an idea in his mind.
+
+106
+00:08:13,035 --> 00:08:16,905
+Did he ambush the victim, or
+were there words exchanged first?
+
+107
+00:08:18,207 --> 00:08:21,667
+Maybe Ben called him a name.
+
+108
+00:08:22,669 --> 00:08:24,339
+Or even threatened him.
+
+109
+00:08:25,464 --> 00:08:26,724
+We don't know.
+
+110
+00:08:28,425 --> 00:08:30,085
+All we know
+
+111
+00:08:30,177 --> 00:08:35,967
+is that the defendant punched his
+knife three times into Ben Rifkin's chest,
+
+112
+00:08:36,850 --> 00:08:38,140
+killing him.
+
+113
+00:08:40,062 --> 00:08:41,692
+Three...
+
+114
+00:08:42,773 --> 00:08:46,533
+evenly spaced wounds.
+
+115
+00:08:49,363 --> 00:08:50,363
+One.
+
+116
+00:08:52,449 --> 00:08:53,449
+Two.
+
+117
+00:08:55,494 --> 00:08:56,754
+Three.
+
+118
+00:08:59,623 --> 00:09:05,423
+You see a tragedy as enormous
+as this, and it makes you furious.
+
+119
+00:09:06,296 --> 00:09:08,586
+You want someone to pay.
+
+120
+00:09:09,216 --> 00:09:10,966
+I do too. I do.
+
+121
+00:09:12,219 --> 00:09:13,639
+It's only human.
+
+122
+00:09:15,222 --> 00:09:19,062
+But Jacob Barber is innocent.
+
+123
+00:09:20,227 --> 00:09:24,607
+And I want to say that again so
+that there is no misunderstanding.
+
+124
+00:09:25,274 --> 00:09:30,574
+Jacob Barber is wholly
+and completely innocent.
+
+125
+00:09:32,072 --> 00:09:35,952
+When you understand what
+really happened that day,
+
+126
+00:09:36,910 --> 00:09:41,790
+you'll see this case for what
+it is... a rush to judgment.
+
+127
+00:09:43,125 --> 00:09:45,085
+The fingerprint, for example,
+
+128
+00:09:45,169 --> 00:09:47,459
+that the prosecution
+made such a big deal about,
+
+129
+00:09:47,546 --> 00:09:49,756
+you're going to hear
+how that print got there,
+
+130
+00:09:49,840 --> 00:09:53,260
+just as Jacob told the police
+officer who arrested him
+
+131
+00:09:53,343 --> 00:09:55,263
+the moment that he was asked.
+
+132
+00:09:56,430 --> 00:10:00,480
+He saw his classmate lying on
+the ground, and he tried to help.
+
+133
+00:10:01,393 --> 00:10:07,273
+And when he discovered that Ben was
+dead, saw all that blood, he panicked.
+
+134
+00:10:07,357 --> 00:10:12,277
+He feared that if he told someone
+about the body, he'd become a suspect.
+
+135
+00:10:12,362 --> 00:10:16,242
+After all, this was Ben
+Rifkin, the boy who bullied him.
+
+136
+00:10:16,325 --> 00:10:19,325
+Everyone knew that. How would it look?
+
+137
+00:10:20,537 --> 00:10:26,497
+Does Jacob wish that he had been
+braver from the start and told the truth?
+
+138
+00:10:27,419 --> 00:10:29,129
+Of course he does.
+
+139
+00:10:29,213 --> 00:10:33,803
+It was the worst mistake he's ever made.
+It was a horrible, terrifying mistake.
+
+140
+00:10:35,302 --> 00:10:36,972
+But he was a boy.
+
+141
+00:10:38,138 --> 00:10:41,388
+And I don't give a damn how
+the state chooses to try him.
+
+142
+00:10:41,475 --> 00:10:44,685
+He was a 14-year-old boy.
+
+143
+00:10:46,104 --> 00:10:48,154
+And boys make mistakes.
+
+144
+00:10:50,734 --> 00:10:52,534
+But we are adults...
+
+145
+00:10:54,071 --> 00:10:57,071
+with a grave responsibility before us.
+
+146
+00:10:58,200 --> 00:10:59,950
+A child is dead.
+
+147
+00:11:01,370 --> 00:11:04,870
+Don't destroy another
+child's life to make up for it.
+
+148
+00:11:06,041 --> 00:11:07,671
+That isn't justice.
+
+149
+00:11:09,628 --> 00:11:11,418
+That's just another tragedy.
+
+150
+00:11:21,807 --> 00:11:22,951
+Mr. Barber, over here!
+
+151
+00:11:22,975 --> 00:11:24,619
+Mr. Barber,
+do you have any comment?
+
+152
+00:11:24,643 --> 00:11:26,403
+Give us a
+little room here, please.
+
+153
+00:11:26,436 --> 00:11:28,146
+Give us a little room here.
+
+154
+00:11:31,441 --> 00:11:33,641
+Mr. Barber, do you feel he's guilty?
+
+155
+00:11:34,319 --> 00:11:36,159
+Hey, come over here, please.
+
+156
+00:11:39,032 --> 00:11:40,472
+It's definitely the same guy.
+
+157
+00:11:42,077 --> 00:11:44,077
+Yes, I'm sure. Blue Lincoln.
+
+158
+00:11:45,747 --> 00:11:46,957
+Right.
+
+159
+00:11:47,708 --> 00:11:49,588
+You still have that
+plate number I sent you?
+
+160
+00:11:52,254 --> 00:11:53,264
+Okay.
+
+161
+00:11:54,840 --> 00:11:56,010
+Thanks, Duff.
+
+162
+00:11:57,301 --> 00:11:58,551
+What was that about?
+
+163
+00:11:59,219 --> 00:12:00,929
+Long story. I'll tell you later.
+
+164
+00:12:01,513 --> 00:12:04,023
+Okay, well, make sure they get some rest.
+
+165
+00:12:04,099 --> 00:12:06,309
+- I'll call you tonight.
+- Okay.
+
+166
+00:12:20,908 --> 00:12:21,908
+Driver's license.
+
+167
+00:12:22,951 --> 00:12:23,951
+What I do?
+
+168
+00:12:24,036 --> 00:12:25,696
+Let me see your license.
+
+169
+00:12:26,705 --> 00:12:28,705
+I got a right to sit in
+my own car, don't I?
+
+170
+00:12:30,083 --> 00:12:32,593
+Sir, are you refusing to
+provide me with identification?
+
+171
+00:12:33,003 --> 00:12:34,423
+I'm not refusing anything.
+
+172
+00:12:35,047 --> 00:12:37,217
+I wanna know what you're bothering me for.
+
+173
+00:12:57,528 --> 00:13:00,778
+The family declined making any statement
+when leaving the courthouse today.
+
+174
+00:13:00,864 --> 00:13:02,034
+And by all indications,
+
+175
+00:13:02,115 --> 00:13:04,695
+plan to spend their night
+here at their home in Newton.
+
+176
+00:13:04,785 --> 00:13:06,655
+What happens tomorrow is anyone's guess.
+
+177
+00:13:06,745 --> 00:13:08,655
+However, opening statements suggest
+
+178
+00:13:08,747 --> 00:13:10,957
+we could be in for an
+emotionally charged trial.
+
+179
+00:13:11,041 --> 00:13:13,201
+This is Alix Wong, Channel 12 News.
+
+180
+00:14:09,850 --> 00:14:11,350
+Just got off the phone with Duffy.
+
+181
+00:14:11,810 --> 00:14:14,310
+It's not good. Just hear me out.
+
+182
+00:14:14,396 --> 00:14:15,516
+What?
+
+183
+00:14:15,606 --> 00:14:18,226
+His name is James O'Leary,
+the guy in the Lincoln.
+
+184
+00:14:18,317 --> 00:14:19,857
+They call him Father O'Leary.
+
+185
+00:14:20,402 --> 00:14:21,492
+They?
+
+186
+00:14:21,570 --> 00:14:23,240
+I guess he's an old gangster.
+
+187
+00:14:23,322 --> 00:14:26,242
+He's got a record. Duffy said he
+used to be some sort of muscle.
+
+188
+00:14:26,325 --> 00:14:29,075
+Now he hires himself out to
+do, you know, small things,
+
+189
+00:14:29,161 --> 00:14:30,871
+roughing people up, that sort of thing.
+
+190
+00:14:31,288 --> 00:14:34,078
+Are you kidding me?
+What does he want with us?
+
+191
+00:14:34,166 --> 00:14:35,286
+I don't know.
+
+192
+00:14:35,792 --> 00:14:38,962
+What are we supposed to do?
+Can't they arrest him? Question him?
+
+193
+00:14:39,046 --> 00:14:41,376
+Not unless he explicitly threatens us.
+
+194
+00:14:42,090 --> 00:14:43,380
+Oh, my God.
+
+195
+00:14:43,467 --> 00:14:46,597
+Duffy said she's gonna keep an eye
+on him. I know it doesn't sound good,
+
+196
+00:14:46,678 --> 00:14:49,218
+but odds are it's probably
+just someone trying to scare us.
+
+197
+00:14:49,306 --> 00:14:51,266
+Because we're not scared enough already.
+
+198
+00:14:57,439 --> 00:15:01,689
+My heart was kind of pounding
+then, because he wasn't answering me.
+
+199
+00:15:01,777 --> 00:15:05,607
+Uh, still, I couldn't see how
+he looked until I got close.
+
+200
+00:15:06,782 --> 00:15:08,162
+And did you call for help?
+
+201
+00:15:08,825 --> 00:15:12,155
+I remember crawling backwards
+up the slope, dialing 911.
+
+202
+00:15:13,997 --> 00:15:15,207
+Thank you, Mrs. Gianetto.
+
+203
+00:15:16,083 --> 00:15:17,333
+Ms. Klein.
+
+204
+00:15:17,417 --> 00:15:18,917
+No questions, Your Honor.
+
+205
+00:15:20,128 --> 00:15:21,548
+The dog park, yes.
+
+206
+00:15:21,630 --> 00:15:22,920
+What time was this?
+
+207
+00:15:23,632 --> 00:15:24,972
+Around 8:00 a.m.
+
+208
+00:15:25,717 --> 00:15:29,177
+Like I said, it sounded
+like a boy's voice I heard.
+
+209
+00:15:29,847 --> 00:15:32,847
+He said, "Stop. You're hurting me."
+
+210
+00:15:33,642 --> 00:15:35,142
+"Stop. You're hurting me."
+
+211
+00:15:37,896 --> 00:15:40,686
+Could you tell what direction
+the boy's voice came from?
+
+212
+00:15:42,776 --> 00:15:44,066
+West, I think.
+
+213
+00:15:45,988 --> 00:15:47,698
+Detective, is it standard procedure
+
+214
+00:15:47,781 --> 00:15:51,241
+for an assistant district attorney
+to direct a homicide investigation?
+
+215
+00:15:51,994 --> 00:15:53,004
+Yes.
+
+216
+00:15:53,078 --> 00:15:55,498
+And who was the assistant DA
+assigned to the case that day?
+
+217
+00:15:55,581 --> 00:15:56,961
+Objection. Relevance.
+
+218
+00:15:58,625 --> 00:15:59,875
+See counsel at sidebar.
+
+219
+00:16:03,922 --> 00:16:06,972
+Your Honor, I don't see how
+Mr. Barber's brief involvement in this case
+
+220
+00:16:07,050 --> 00:16:09,260
+has anything to do with
+his son's innocence or guilt.
+
+221
+00:16:09,344 --> 00:16:12,684
+Your Honor, the jury is entitled to
+hear that the defendant's own father
+
+222
+00:16:12,764 --> 00:16:15,104
+was in charge of the early
+stages of the investigation.
+
+223
+00:16:17,561 --> 00:16:19,811
+I'm going to allow it, but
+I warn you, counselor.
+
+224
+00:16:19,897 --> 00:16:22,687
+Mr. Barber is not on
+trial here. Remember that.
+
+225
+00:16:23,317 --> 00:16:25,357
+Yes, Your Honor. Understood.
+
+226
+00:16:26,445 --> 00:16:27,905
+Witness will answer the question.
+
+227
+00:16:30,616 --> 00:16:32,276
+Andrew Barber was in charge.
+
+228
+00:16:33,827 --> 00:16:37,537
+And did you find it strange that
+Mr. Barber was handling a case
+
+229
+00:16:37,623 --> 00:16:39,503
+that involved his own son's classmate?
+
+230
+00:16:40,209 --> 00:16:41,589
+Not really, no.
+
+231
+00:16:42,085 --> 00:16:44,205
+And once his son
+was charged with the murder?
+
+232
+00:16:44,713 --> 00:16:45,843
+Any concerns?
+
+233
+00:16:47,049 --> 00:16:48,719
+I wasn't happy about it.
+
+234
+00:16:49,343 --> 00:16:52,433
+Detective, have you
+ever heard of a prosecutor
+
+235
+00:16:52,513 --> 00:16:55,393
+being involved in the
+investigation into his own child?
+
+236
+00:16:55,474 --> 00:16:57,104
+- Objection.
+- Sustained.
+
+237
+00:16:57,184 --> 00:16:59,384
+You've made your point,
+counselor. Let's move it along.
+
+238
+00:17:00,145 --> 00:17:01,765
+No further questions, Your Honor.
+
+239
+00:17:03,649 --> 00:17:04,729
+Ms. Klein.
+
+240
+00:17:05,983 --> 00:17:08,953
+Detective Peterson, you were
+among the first at the crime scene.
+
+241
+00:17:09,029 --> 00:17:11,989
+- Was there a murder weapon found that day?
+- No, ma'am.
+
+242
+00:17:12,074 --> 00:17:15,244
+Besides a single fingerprint
+found on the victim's sweatshirt,
+
+243
+00:17:15,327 --> 00:17:17,407
+was there any evidence recovered that day?
+
+244
+00:17:17,496 --> 00:17:18,616
+No.
+
+245
+00:17:18,704 --> 00:17:22,504
+And of course, the fingerprint
+wasn't identified until later. Yes?
+
+246
+00:17:22,584 --> 00:17:24,004
+Yes. Correct.
+
+247
+00:17:24,086 --> 00:17:26,956
+So is it fair to say that at the
+beginning of the investigation,
+
+248
+00:17:27,047 --> 00:17:31,047
+neither you nor Mr. Barber
+had any obvious suspects?
+
+249
+00:17:31,134 --> 00:17:32,144
+We did not.
+
+250
+00:17:32,219 --> 00:17:35,059
+And was the defendant
+the first suspect to emerge?
+
+251
+00:17:35,973 --> 00:17:38,683
+- No. We initially just...
+- Objection. Relevance?
+
+252
+00:17:41,019 --> 00:17:42,019
+Overruled.
+
+253
+00:17:43,355 --> 00:17:45,645
+We initially pursued a
+suspect named Leonard Patz.
+
+254
+00:17:45,732 --> 00:17:49,492
+He had a record for indecent assault
+and battery on kids, things like that.
+
+255
+00:17:49,570 --> 00:17:51,860
+So a registered sex offender,
+
+256
+00:17:51,947 --> 00:17:54,067
+and that's what made
+him a person of interest?
+
+257
+00:17:54,157 --> 00:17:56,077
+That, and he lived near the park.
+
+258
+00:17:56,159 --> 00:17:57,659
+He didn't just live near the park.
+
+259
+00:17:57,744 --> 00:18:00,834
+He was known to walk in the
+park most mornings. Isn't that true?
+
+260
+00:18:00,914 --> 00:18:02,714
+Objection. Leading the witness.
+
+261
+00:18:02,791 --> 00:18:03,831
+Overruled.
+
+262
+00:18:04,585 --> 00:18:08,415
+Yes. In fact, he admitted to being
+in the park that same morning.
+
+263
+00:18:09,756 --> 00:18:11,966
+No more questions. Thank you.
+
+264
+00:18:13,051 --> 00:18:18,101
+Detective, whose idea was it to pursue
+the investigation into Leonard Patz?
+
+265
+00:18:20,767 --> 00:18:22,637
+Andy Barber brought it to my attention.
+
+266
+00:18:23,604 --> 00:18:25,484
+Andy Barber. I see.
+
+267
+00:18:26,440 --> 00:18:28,690
+And Mr. Patz was then cleared
+
+268
+00:18:28,775 --> 00:18:31,355
+when Mr. Barber's own son
+was charged with the crime.
+
+269
+00:18:33,363 --> 00:18:34,363
+Yes.
+
+270
+00:18:34,448 --> 00:18:35,868
+No further questions, Your Honor.
+
+271
+00:18:38,785 --> 00:18:41,205
+- Your Honor, we'd like to recross.
+- Go ahead.
+
+272
+00:18:43,123 --> 00:18:47,713
+Detective, when Mr. Logiudice
+asked if you had cleared Leonard Patz,
+
+273
+00:18:47,794 --> 00:18:50,134
+were you certain of his innocence?
+
+274
+00:18:50,214 --> 00:18:51,844
+Certain? No.
+
+275
+00:18:51,924 --> 00:18:56,054
+Did you agree with Mr. Barber's
+decision to investigate Leonard Patz?
+
+276
+00:18:56,512 --> 00:18:58,222
+Yes. Absolutely.
+
+277
+00:18:58,305 --> 00:19:01,555
+What about other decisions
+Andy Barber made?
+
+278
+00:19:01,642 --> 00:19:02,852
+Any concerns at all?
+
+279
+00:19:03,393 --> 00:19:04,813
+None I can think of.
+
+280
+00:19:05,646 --> 00:19:06,856
+He's the best they got.
+
+281
+00:19:08,106 --> 00:19:10,066
+The best they used to have, anyway.
+
+282
+00:19:11,568 --> 00:19:14,108
+Thank you, Detective. No further questions.
+
+283
+00:19:15,072 --> 00:19:17,742
+Commonwealth, you prepared
+to call your next witness?
+
+284
+00:19:19,910 --> 00:19:21,250
+Uh, yes, Your Honor.
+
+285
+00:19:24,039 --> 00:19:26,789
+The beam refracts through each slit
+
+286
+00:19:26,875 --> 00:19:29,435
+and makes a pattern of light
+and dark stripes on the other side.
+
+287
+00:19:29,461 --> 00:19:33,801
+Why? Because light isn't
+made of particles, but...
+
+288
+00:19:33,882 --> 00:19:35,012
+- Waves?
+- Exactly.
+
+289
+00:19:35,092 --> 00:19:37,682
+And it is the intersection of the
+waves that make the patterns.
+
+290
+00:19:38,262 --> 00:19:41,222
+So these physicists decide that
+they're gonna solve what's going on
+
+291
+00:19:41,306 --> 00:19:44,766
+by installing a device
+that allows them to see
+
+292
+00:19:44,852 --> 00:19:48,692
+exactly which slit each
+electron is passing through.
+
+293
+00:19:48,772 --> 00:19:51,572
+Only the moment that
+they try to observe it,
+
+294
+00:19:51,650 --> 00:19:56,150
+the electrons stop behaving like
+waves and behave like particles again.
+
+295
+00:19:56,238 --> 00:19:57,988
+What? That's impossible.
+
+296
+00:19:58,073 --> 00:20:00,283
+- Google it.
+- I'll be right back.
+
+297
+00:20:00,367 --> 00:20:02,428
+I tell my wife it's exactly
+like me and the Celtics.
+
+298
+00:20:02,452 --> 00:20:04,542
+The moment I turn on the game, they lose.
+
+299
+00:20:05,539 --> 00:20:07,579
+What the hell did I say about calling here?
+
+300
+00:20:08,208 --> 00:20:10,128
+I just want to know how it's going.
+
+301
+00:20:10,210 --> 00:20:11,300
+What?
+
+302
+00:20:11,795 --> 00:20:13,505
+What do you mean, "What"? The trial.
+
+303
+00:20:13,589 --> 00:20:15,839
+He's my grandson. I got a right to know.
+
+304
+00:20:15,924 --> 00:20:17,264
+Listen to me very carefully.
+
+305
+00:20:17,342 --> 00:20:20,262
+You don't have a right to shit. Okay?
+
+306
+00:20:20,345 --> 00:20:23,715
+Maybe I got a right to call one of these
+reporters that keeps trying me, huh?
+
+307
+00:20:24,099 --> 00:20:25,099
+Do whatever you want.
+
+308
+00:20:25,184 --> 00:20:27,120
+Come on. I just wanna
+know what are you thinking.
+
+309
+00:20:27,144 --> 00:20:28,814
+I mean, what's your strategy?
+
+310
+00:20:28,896 --> 00:20:32,186
+I'm watching it all day on the news
+here. I think the kid's got a chance.
+
+311
+00:20:32,900 --> 00:20:34,780
+But, you know, you
+gotta be smart about this.
+
+312
+00:20:34,860 --> 00:20:38,200
+Oh, yeah? I didn't know they
+gave out law degrees in prison.
+
+313
+00:20:38,780 --> 00:20:42,120
+That's funny. You think
+prison's a fucking joke?
+
+314
+00:20:43,327 --> 00:20:44,537
+Let me tell you something.
+
+315
+00:20:44,620 --> 00:20:47,870
+This is sure as hell no
+place for a kid like Jacob.
+
+316
+00:20:49,917 --> 00:20:51,787
+Now one of the, uh, witnesses today,
+
+317
+00:20:51,877 --> 00:20:53,247
+this cop who was on the stand,
+
+318
+00:20:54,129 --> 00:20:55,919
+he mentioned this guy Patz.
+
+319
+00:20:56,006 --> 00:20:57,336
+What about him?
+
+320
+00:20:57,758 --> 00:20:59,298
+Well, you think he did it?
+
+321
+00:21:01,512 --> 00:21:03,602
+- Do you?
+- Yeah.
+
+322
+00:21:05,098 --> 00:21:06,178
+Are you sure?
+
+323
+00:21:06,725 --> 00:21:07,805
+Look, I gotta go.
+
+324
+00:21:07,893 --> 00:21:09,903
+Guy's a child molester, right?
+
+325
+00:21:11,313 --> 00:21:12,523
+Sort of.
+
+326
+00:21:12,898 --> 00:21:15,438
+How... How the fuck are
+you "sort of" a child molester?
+
+327
+00:21:15,901 --> 00:21:19,071
+Same way you were a murderer
+before you actually murdered someone.
+
+328
+00:21:19,154 --> 00:21:20,864
+Why you gotta make it about me? Huh?
+
+329
+00:21:20,948 --> 00:21:23,328
+Why don't you fucking quit
+worrying about what I am
+
+330
+00:21:23,408 --> 00:21:25,738
+and start worrying about my grandson?
+
+331
+00:21:26,119 --> 00:21:27,249
+Don't call here again.
+
+332
+00:21:27,329 --> 00:21:29,749
+I mean it. You keep him out of this place!
+
+333
+00:21:29,831 --> 00:21:31,121
+You hear me?
+
+334
+00:21:31,208 --> 00:21:33,208
+I spent my whole
+fucking life in this shithole.
+
+335
+00:21:33,293 --> 00:21:35,843
+I'm not gonna stand by
+while my grandson's life...
+
+336
+00:21:36,880 --> 00:21:38,050
+You mother...
+
+337
+00:21:38,131 --> 00:21:39,681
+You fucked up, cocksucker.
+
+338
+00:21:54,106 --> 00:21:56,066
+- Did Joanna leave?
+- Yeah.
+
+339
+00:21:56,775 --> 00:21:58,275
+Who was that?
+
+340
+00:21:58,360 --> 00:22:02,110
+Oh, it was, uh... credit card
+company, just confirming some charges.
+
+341
+00:22:04,825 --> 00:22:07,695
+Joanna seemed... optimistic.
+
+342
+00:22:08,537 --> 00:22:11,157
+You know, I'm starting
+to think she should be.
+
+343
+00:22:17,504 --> 00:22:19,732
+So weird, 'cause there
+were just all these people there.
+
+344
+00:22:19,756 --> 00:22:21,276
+I don't even know why,
+because it was so cold outside.
+
+345
+00:22:21,300 --> 00:22:23,090
+- Hey.
+- Hold on one second.
+
+346
+00:22:23,177 --> 00:22:24,717
+I'm just hanging these on your door.
+
+347
+00:22:25,179 --> 00:22:26,219
+Okay. Thanks.
+
+348
+00:22:26,889 --> 00:22:27,969
+Who are you talking to?
+
+349
+00:22:28,557 --> 00:22:29,557
+Sarah.
+
+350
+00:22:30,100 --> 00:22:32,190
+Oh. Okay.
+
+351
+00:22:33,020 --> 00:22:34,610
+- Tell her I said hi.
+- Okay.
+
+352
+00:22:36,190 --> 00:22:37,417
+Sorry about that.
+
+353
+00:22:37,441 --> 00:22:40,151
+So anyway, um, this lady
+comes in with her kids, right?
+
+354
+00:22:40,235 --> 00:22:42,735
+And they're just so loud and obnoxious.
+
+355
+00:22:42,821 --> 00:22:45,871
+And I was like, "Oh, my
+gosh. Shut up already." But...
+
+356
+00:22:53,123 --> 00:22:55,268
+You've been with
+the state's crime lab how long?
+
+357
+00:22:55,292 --> 00:22:57,422
+Eleven years, almost 12.
+
+358
+00:22:58,212 --> 00:23:02,382
+Ms. Carlson, could you describe the
+blood evidence at the point of attack?
+
+359
+00:23:02,466 --> 00:23:05,756
+There were a few small spatters
+less than an inch in diameter.
+
+360
+00:23:05,844 --> 00:23:07,489
+Yesterday, we heard defense contend
+
+361
+00:23:07,513 --> 00:23:10,643
+that there should have been
+blood on the clothing of an attacker
+
+362
+00:23:10,724 --> 00:23:12,524
+in a stabbing like this.
+
+363
+00:23:12,601 --> 00:23:14,391
+- Do you have an opinion on that?
+- Yes.
+
+364
+00:23:14,478 --> 00:23:18,898
+That's not necessarily true, since
+no spatter seemed cast off with force.
+
+365
+00:23:18,982 --> 00:23:22,692
+It's also possible the assailant stood
+behind the victim when he stabbed him,
+
+366
+00:23:22,778 --> 00:23:26,318
+which would have meant he was out
+of the trajectory of any spray or spatter.
+
+367
+00:23:26,865 --> 00:23:28,945
+What can you tell
+us about the murder weapon?
+
+368
+00:23:29,034 --> 00:23:33,914
+We were looking for a knife with a
+four-to six-inch blade and a serrated edge.
+
+369
+00:23:34,665 --> 00:23:35,745
+I see.
+
+370
+00:23:36,959 --> 00:23:39,839
+So, a knife like this one?
+
+371
+00:23:39,920 --> 00:23:41,960
+Objection.
+
+372
+00:23:42,047 --> 00:23:43,441
+Commonwealth moves
+to enter into evidence...
+
+373
+00:23:43,465 --> 00:23:44,675
+Objection!
+
+374
+00:23:45,175 --> 00:23:47,635
+Your Honor, the jury
+will soon hear testimony
+
+375
+00:23:47,719 --> 00:23:49,259
+from the defendant's best friend
+
+376
+00:23:49,346 --> 00:23:52,426
+that the defendant owned
+a knife exactly like this one:
+
+377
+00:23:52,516 --> 00:23:53,726
+A Schnell Tactical.
+
+378
+00:23:53,809 --> 00:23:55,939
+Your Honor, this is a cheap stunt.
+
+379
+00:23:56,019 --> 00:23:59,819
+The Commonwealth has yet to
+link any such knife to the defendant,
+
+380
+00:23:59,898 --> 00:24:03,738
+and to wave it around in here now
+is irresponsible. It's inflammatory.
+
+381
+00:24:03,819 --> 00:24:07,199
+Agreed. Objection sustained.
+Put away the knife, Mr. Logiudice.
+
+382
+00:24:08,365 --> 00:24:10,405
+In that case, no more
+questions, Your Honor.
+
+383
+00:24:11,201 --> 00:24:12,201
+Cross.
+
+384
+00:24:12,286 --> 00:24:13,656
+Absolutely, Your Honor.
+
+385
+00:24:14,371 --> 00:24:17,371
+Ms. Carlson, we were
+just on the subject of blood.
+
+386
+00:24:17,457 --> 00:24:20,587
+Was there any blood evidence
+recovered from the defendant?
+
+387
+00:24:20,669 --> 00:24:21,749
+No.
+
+388
+00:24:21,837 --> 00:24:23,757
+Genetic evidence?
+
+389
+00:24:23,839 --> 00:24:26,759
+DNA? Hairs? Fibers?
+
+390
+00:24:26,842 --> 00:24:28,472
+No, just the fingerprint.
+
+391
+00:24:28,969 --> 00:24:31,509
+- May I propose a hypothetical?
+- Okay.
+
+392
+00:24:31,597 --> 00:24:36,517
+Let's suppose the defendant, Jacob,
+was walking on his way to school...
+
+393
+00:24:37,519 --> 00:24:40,609
+and came across the
+victim lying on the ground.
+
+394
+00:24:41,440 --> 00:24:48,160
+And suppose Jacob lifted the victim
+by the collar to see if he was okay.
+
+395
+00:24:48,238 --> 00:24:52,408
+Might that create a fingerprint
+consistent with the one you found?
+
+396
+00:24:52,910 --> 00:24:54,490
+Yes, that is possible.
+
+397
+00:24:55,037 --> 00:24:58,867
+Now the knife that the Commonwealth
+attempted to enter into evidence,
+
+398
+00:24:58,957 --> 00:25:00,417
+had you ever seen it before?
+
+399
+00:25:00,501 --> 00:25:01,921
+Objection. Relevance.
+
+400
+00:25:02,002 --> 00:25:05,382
+Overruled. You opened the door, counselor.
+
+401
+00:25:06,340 --> 00:25:08,630
+Yes. The DA's
+office asked me to determine
+
+402
+00:25:08,717 --> 00:25:12,637
+if that particular model of knife was
+consistent with the victim's wounds.
+
+403
+00:25:12,721 --> 00:25:16,771
+Ah. And I assume they gave you
+other models to compare as well?
+
+404
+00:25:16,850 --> 00:25:18,100
+No.
+
+405
+00:25:18,185 --> 00:25:19,225
+No?
+
+406
+00:25:20,896 --> 00:25:23,016
+Did they at least ask you to determine
+
+407
+00:25:23,106 --> 00:25:26,066
+how many other knives might
+have made those wounds?
+
+408
+00:25:26,652 --> 00:25:27,692
+No.
+
+409
+00:25:27,778 --> 00:25:29,238
+Well, how many would you think?
+
+410
+00:25:30,572 --> 00:25:34,162
+I... I don't know. That...
+That would be speculating.
+
+411
+00:25:34,243 --> 00:25:35,373
+A thousand?
+
+412
+00:25:35,827 --> 00:25:36,827
+Uh...
+
+413
+00:25:37,538 --> 00:25:38,748
+A large number.
+
+414
+00:25:38,830 --> 00:25:41,120
+Seven hundred? Five hundred?
+
+415
+00:25:42,918 --> 00:25:45,248
+Somewhere... Somewhere in that range.
+
+416
+00:25:45,629 --> 00:25:50,339
+In other words, the chances
+of it being the actual knife
+
+417
+00:25:50,425 --> 00:25:52,085
+are one in 500. Correct?
+
+418
+00:25:52,177 --> 00:25:54,217
+Objection. Calls for speculation.
+
+419
+00:25:54,304 --> 00:25:55,434
+Sustained.
+
+420
+00:25:59,351 --> 00:26:01,021
+No further questions, Your Honor.
+
+421
+00:26:02,187 --> 00:26:03,767
+This is all going to shit.
+
+422
+00:26:03,856 --> 00:26:06,226
+He's gonna walk. Can't you see that?
+
+423
+00:26:06,316 --> 00:26:07,916
+He's gonna get away with killing our son
+
+424
+00:26:07,943 --> 00:26:10,783
+because of that asshole
+and his goddamn theatrics.
+
+425
+00:26:10,863 --> 00:26:12,453
+Please, I can't take this.
+
+426
+00:26:12,531 --> 00:26:14,241
+Yeah, well, I can't take it either.
+
+427
+00:26:14,324 --> 00:26:16,494
+Dan. Dan.
+
+428
+00:26:32,009 --> 00:26:34,849
+How he didn't know that that
+stunt would backfire is beyond me.
+
+429
+00:26:34,928 --> 00:26:36,048
+Because he's reckless.
+
+430
+00:26:36,763 --> 00:26:38,283
+- You doing all right?
+- Yeah.
+
+431
+00:26:40,559 --> 00:26:41,809
+One of them smiled.
+
+432
+00:26:42,853 --> 00:26:45,813
+One of the jurors, the guy with the goatee.
+
+433
+00:26:45,898 --> 00:26:47,398
+He smiled? Really?
+
+434
+00:26:47,482 --> 00:26:51,032
+Yeah, when she admitted it was
+a one in 500 chance, he smiled.
+
+435
+00:26:54,489 --> 00:26:56,449
+Something wrong?
+
+436
+00:26:57,159 --> 00:26:58,739
+No. No, it's nothing.
+
+437
+00:26:59,453 --> 00:27:00,663
+We'll talk later.
+
+438
+00:27:02,331 --> 00:27:05,961
+You and Mr. Barber have worked
+together on many cases. Is that right?
+
+439
+00:27:06,376 --> 00:27:07,376
+We go back, yes.
+
+440
+00:27:07,878 --> 00:27:10,668
+Would you describe him as
+diligent when it came to his work?
+
+441
+00:27:11,048 --> 00:27:12,728
+More than that. He was relentless.
+
+442
+00:27:12,758 --> 00:27:14,638
+Was that relentlessness on display
+
+443
+00:27:14,718 --> 00:27:17,198
+when you were attempting to
+cut through the school's red tape?
+
+444
+00:27:17,596 --> 00:27:19,436
+He didn't feel the
+classmates were a priority.
+
+445
+00:27:19,515 --> 00:27:21,475
+We'd already interviewed
+Ben's close friends.
+
+446
+00:27:21,558 --> 00:27:24,388
+Once you did interview
+the students, finally,
+
+447
+00:27:24,478 --> 00:27:27,108
+was there anything useful
+that came out of that?
+
+448
+00:27:27,189 --> 00:27:28,899
+After the initial meetings, nothing much.
+
+449
+00:27:28,982 --> 00:27:31,112
+But with some follow-up,
+we came to learn that
+
+450
+00:27:31,193 --> 00:27:33,546
+there was an ongoing beef
+between the victim and the defendant.
+
+451
+00:27:33,570 --> 00:27:36,160
+Meaning Ben had been
+bullying the defendant.
+
+452
+00:27:36,573 --> 00:27:37,743
+For some time, yes.
+
+453
+00:27:37,824 --> 00:27:41,294
+Was this around the time that you
+started to view the defendant as a suspect?
+
+454
+00:27:42,162 --> 00:27:43,162
+It was.
+
+455
+00:27:43,247 --> 00:27:45,747
+Even as his father was still
+running the investigation?
+
+456
+00:27:47,459 --> 00:27:49,959
+Certain aspects of the
+investigation had to be carried out
+
+457
+00:27:50,045 --> 00:27:51,835
+without Mr. Barber's knowledge.
+
+458
+00:27:53,298 --> 00:27:54,418
+What did that reveal?
+
+459
+00:27:57,261 --> 00:28:00,641
+That the defendant supposedly had
+a knife consistent with the wounds,
+
+460
+00:28:00,722 --> 00:28:02,562
+that he had sufficient motive,
+
+461
+00:28:02,641 --> 00:28:05,521
+and he had opportunity, in that his
+movements the morning of the attack
+
+462
+00:28:05,602 --> 00:28:07,442
+placed him near or at the scene.
+
+463
+00:28:07,521 --> 00:28:09,021
+Did you arrest him at this time?
+
+464
+00:28:09,106 --> 00:28:10,646
+Not until the fingerprint came back.
+
+465
+00:28:10,732 --> 00:28:12,627
+We then obtained a warrant
+and searched the house,
+
+466
+00:28:12,651 --> 00:28:14,861
+trying to find the knife, which we did not.
+
+467
+00:28:15,821 --> 00:28:17,571
+Did you seize the defendant's computer?
+
+468
+00:28:17,656 --> 00:28:20,026
+We did, but we found
+nothing directly incriminating.
+
+469
+00:28:20,117 --> 00:28:23,447
+Detective, are you aware of a
+program called Disk Scraper?
+
+470
+00:28:23,537 --> 00:28:27,167
+I am. It's a program that wipes hard
+drives, deletes files, that kind of thing.
+
+471
+00:28:27,249 --> 00:28:30,249
+Was that program on the defendant's laptop?
+
+472
+00:28:31,086 --> 00:28:32,086
+It was.
+
+473
+00:28:33,213 --> 00:28:37,053
+Is it possible that there was
+incriminating evidence on the laptop,
+
+474
+00:28:37,134 --> 00:28:38,574
+and it was removed by the defendant?
+
+475
+00:28:38,635 --> 00:28:40,795
+Objection. Calls for speculation.
+
+476
+00:28:40,888 --> 00:28:41,888
+Sustained.
+
+477
+00:28:42,931 --> 00:28:44,181
+What about pornography?
+
+478
+00:28:44,266 --> 00:28:46,136
+- Objection. Relevance.
+- Sustained.
+
+479
+00:28:46,226 --> 00:28:47,896
+Let me be more specific.
+
+480
+00:28:48,520 --> 00:28:52,650
+Did you find any violent
+pornography on the defendant's laptop?
+
+481
+00:28:54,151 --> 00:28:56,071
+I think all pornography is violent.
+
+482
+00:28:56,153 --> 00:28:57,203
+Of course.
+
+483
+00:28:57,863 --> 00:29:01,373
+I mean, specifically, images
+glorifying abuse or torture.
+
+484
+00:29:01,450 --> 00:29:03,040
+Objection. Relevance.
+
+485
+00:29:04,494 --> 00:29:06,464
+Overruled. The witness will answer.
+
+486
+00:29:08,790 --> 00:29:09,920
+Some, yeah.
+
+487
+00:29:15,214 --> 00:29:16,334
+No further questions.
+
+488
+00:29:19,176 --> 00:29:22,886
+Detective, I assume you have
+executed countless search warrants
+
+489
+00:29:22,971 --> 00:29:25,061
+- in your career, yes?
+- Sure.
+
+490
+00:29:25,140 --> 00:29:26,560
+Seized a lot of laptops.
+
+491
+00:29:26,642 --> 00:29:27,732
+Yes.
+
+492
+00:29:27,809 --> 00:29:31,309
+Have you ever found one that
+didn't have some pornography on it?
+
+493
+00:29:33,232 --> 00:29:34,322
+I don't think so.
+
+494
+00:29:34,399 --> 00:29:36,939
+Detective, is it true
+that you were the first
+
+495
+00:29:37,027 --> 00:29:39,447
+to identify Leonard Patz
+as a person of interest,
+
+496
+00:29:39,530 --> 00:29:41,280
+and not Mr. Barber?
+
+497
+00:29:41,907 --> 00:29:43,697
+Yes. I brought Patz to Andy's attention,
+
+498
+00:29:43,784 --> 00:29:46,254
+and we agreed that he was
+someone we should be looking at.
+
+499
+00:29:46,912 --> 00:29:48,252
+One last question.
+
+500
+00:29:49,790 --> 00:29:52,420
+At any point in the investigation,
+
+501
+00:29:52,501 --> 00:29:58,341
+did Andy Barber behave in any way to
+suggest that he suspected his own son?
+
+502
+00:29:58,841 --> 00:30:00,631
+No, not in the slightest.
+
+503
+00:30:01,760 --> 00:30:03,970
+No further questions, Your Honor.
+
+504
+00:30:04,054 --> 00:30:05,934
+Mr. Logiudice, redirect?
+
+505
+00:30:14,481 --> 00:30:15,571
+Detective...
+
+506
+00:30:18,777 --> 00:30:22,107
+have you ever known
+Mr. Barber to be violent?
+
+507
+00:30:24,408 --> 00:30:26,158
+- No.
+- Are you sure?
+
+508
+00:30:27,619 --> 00:30:31,079
+Never seen him grab somebody
+by the jacket? Push them into a wall?
+
+509
+00:30:31,164 --> 00:30:32,714
+Objection. Relevance.
+
+510
+00:30:34,168 --> 00:30:35,338
+Overruled.
+
+511
+00:30:39,715 --> 00:30:41,375
+Once. You.
+
+512
+00:30:41,758 --> 00:30:44,718
+After your provoked him with that
+crack about his father doing time for...
+
+513
+00:30:46,054 --> 00:30:47,264
+Doing time for murder?
+
+514
+00:30:47,347 --> 00:30:49,557
+- Objection! Your Honor!
+- Sustained.
+
+515
+00:30:49,641 --> 00:30:51,481
+I'll see counsel at sidebar, right now.
+
+516
+00:30:56,732 --> 00:30:59,742
+I'm appalled at what I just saw.
+We went over this in pretrial.
+
+517
+00:30:59,818 --> 00:31:02,528
+Your Honor, it was the defense
+counsel who first raised the issue
+
+518
+00:31:02,613 --> 00:31:05,703
+of whether the defendant's father
+had reason to suspect his own son.
+
+519
+00:31:05,782 --> 00:31:07,702
+I am simply trying to make that argument.
+
+520
+00:31:07,784 --> 00:31:09,544
+You have got to be kidding me.
+
+521
+00:31:09,620 --> 00:31:12,250
+Your Honor, the defense
+moves for a mistrial.
+
+522
+00:31:12,331 --> 00:31:14,142
+- Oh, come on.
+- He was given specific instructions.
+
+523
+00:31:14,166 --> 00:31:18,836
+You are on extraordinarily thin ice,
+Mr. Logiudice, you understand me?
+
+524
+00:31:18,921 --> 00:31:21,921
+Now you wrap it up with
+this witness right now.
+
+525
+00:31:22,007 --> 00:31:25,587
+And if I hear even a whisper about the
+defendant's grandfather going forward,
+
+526
+00:31:25,677 --> 00:31:27,717
+Ms. Klein will get her
+mistrial. Am I clear?
+
+527
+00:31:27,804 --> 00:31:30,314
+Yes, Your Honor.
+
+528
+00:31:41,735 --> 00:31:43,025
+Ladies and gentlemen,
+
+529
+00:31:43,820 --> 00:31:48,330
+there's a saying in the law,
+"You cannot unring the bell"...
+
+530
+00:31:49,660 --> 00:31:54,500
+but I am going to insist that you do
+just that with regard to the last question.
+
+531
+00:31:57,084 --> 00:31:58,924
+That must have
+been torture for you...
+
+532
+00:32:00,087 --> 00:32:01,587
+sitting on the sidelines.
+
+533
+00:32:02,464 --> 00:32:03,764
+I had no choice.
+
+534
+00:32:05,425 --> 00:32:07,045
+So you trusted Ms. Klein?
+
+535
+00:32:07,845 --> 00:32:08,965
+I did.
+
+536
+00:32:10,055 --> 00:32:13,725
+On day four of the trial, the
+Commonwealth called its final witness:
+
+537
+00:32:14,560 --> 00:32:15,770
+Derek Yoo.
+
+538
+00:32:16,854 --> 00:32:22,614
+Did you feel that Ms. Klein adequately
+prepared for Derek Yoo's testimony?
+
+539
+00:32:23,527 --> 00:32:25,027
+Yeah, as best she could.
+
+540
+00:32:25,445 --> 00:32:27,815
+She intended
+to destroy his credibility?
+
+541
+00:32:28,282 --> 00:32:31,372
+He had a plausible
+motive. The jury had a right to know.
+
+542
+00:32:31,869 --> 00:32:33,409
+What about you and Laurie?
+
+543
+00:32:35,622 --> 00:32:37,042
+What about us?
+
+544
+00:32:38,333 --> 00:32:39,673
+Were you prepared?
+
+545
+00:33:05,402 --> 00:33:06,532
+We've got a problem.
+
+546
+00:33:06,987 --> 00:33:09,157
+Matt McGrath. I can't find him.
+
+547
+00:33:09,239 --> 00:33:10,319
+What?
+
+548
+00:33:10,407 --> 00:33:12,327
+Ellen's been trying
+to call his cell all week,
+
+549
+00:33:12,409 --> 00:33:14,729
+and she finally got in touch
+with his mother this morning.
+
+550
+00:33:14,786 --> 00:33:19,076
+And she said that she and Matt had a
+fight three days ago, and that he took off.
+
+551
+00:33:19,166 --> 00:33:21,746
+And his girlfriend just
+posted online from Florida,
+
+552
+00:33:21,835 --> 00:33:23,835
+and the mom thinks that
+he's down there with her.
+
+553
+00:33:23,921 --> 00:33:26,316
+What are we supposed to do? He's
+supposed to take the stand tomorrow.
+
+554
+00:33:26,340 --> 00:33:29,800
+Don't worry. We're gonna
+think of something. Okay.
+
+555
+00:34:26,733 --> 00:34:28,323
+Court, all rise!
+
+556
+00:34:35,534 --> 00:34:39,914
+I was like, "That's the same way you
+go to school. Did you see anything?"
+
+557
+00:34:40,539 --> 00:34:42,039
+And Jake said no.
+
+558
+00:34:42,875 --> 00:34:47,835
+Nothing about seeing Ben on
+the ground or trying to help him?
+
+559
+00:34:47,920 --> 00:34:50,630
+No. Uh, and then he made a joke.
+
+560
+00:34:51,717 --> 00:34:55,257
+Something like, "Couldn't
+happen to a nicer guy."
+
+561
+00:34:59,558 --> 00:35:03,438
+And this is within a few hours
+after learning about Ben's murder?
+
+562
+00:35:03,979 --> 00:35:07,569
+I guess, yeah. We were at
+Jake's house, playing video games.
+
+563
+00:35:09,401 --> 00:35:12,401
+When you said that Ben
+used to pick on Jacob,
+
+564
+00:35:13,197 --> 00:35:14,487
+what did you mean by that?
+
+565
+00:35:16,783 --> 00:35:20,583
+Ben always kinda had it in for
+Jake. He was always calling him "fag."
+
+566
+00:35:21,163 --> 00:35:22,373
+Like a nickname.
+
+567
+00:35:23,123 --> 00:35:27,793
+Like he'd ask Jake questions about
+different sex things gay people do,
+
+568
+00:35:27,878 --> 00:35:29,918
+but in front of everyone, to embarrass him.
+
+569
+00:35:30,005 --> 00:35:32,665
+Or he'd fake a punch at Jake
+if he passed him in the hall.
+
+570
+00:35:32,758 --> 00:35:33,878
+Stuff like that.
+
+571
+00:35:33,967 --> 00:35:36,757
+And all of this bullying, it upset Jacob.
+
+572
+00:35:37,429 --> 00:35:39,389
+- Yeah, of course.
+- Did it make him angry?
+
+573
+00:35:41,141 --> 00:35:42,731
+Not so much in front of Ben, but...
+
+574
+00:35:44,102 --> 00:35:46,812
+privately, he'd go off on how
+much he hated Ben's guts.
+
+575
+00:35:46,897 --> 00:35:52,527
+Which I got. I mean, Ben would
+be a jerk to me too sometimes.
+
+576
+00:35:53,987 --> 00:35:56,237
+At what point after Ben's murder
+
+577
+00:35:56,907 --> 00:35:59,197
+did you begin to consider
+your friend Jacob's role in it?
+
+578
+00:35:59,284 --> 00:36:00,704
+Objection. Leading the witness.
+
+579
+00:36:02,079 --> 00:36:03,209
+Overruled.
+
+580
+00:36:06,124 --> 00:36:08,044
+You can go ahead and answer, young man.
+
+581
+00:36:08,752 --> 00:36:10,052
+I guess it was three days later.
+
+582
+00:36:10,629 --> 00:36:14,879
+Was there anything other than his
+temper that began to make you suspicious?
+
+583
+00:36:14,967 --> 00:36:16,467
+Well, yeah. The knife.
+
+584
+00:36:16,844 --> 00:36:19,724
+Jake had this scary combat
+knife he'd bought in town.
+
+585
+00:36:19,805 --> 00:36:22,975
+- He used to bring it to school sometimes.
+- To show it off, or... or what?
+
+586
+00:36:23,058 --> 00:36:26,348
+Not really. I mean, he showed
+it to me and our friend Dylan...
+
+587
+00:36:27,604 --> 00:36:30,074
+but it was more like he
+liked having it on him,
+
+588
+00:36:30,148 --> 00:36:31,358
+walking around with it.
+
+589
+00:36:31,441 --> 00:36:34,571
+Like... it was this secret thing he had.
+
+590
+00:36:35,028 --> 00:36:38,408
+I see. So the bullying and the knife...
+
+591
+00:36:39,491 --> 00:36:41,371
+But you knew about these things,
+
+592
+00:36:41,910 --> 00:36:44,540
+and still, you didn't
+suspect Jacob immediately?
+
+593
+00:36:46,081 --> 00:36:49,041
+I don't know. Maybe
+part of me did, a little.
+
+594
+00:36:50,294 --> 00:36:52,254
+But it wasn't until I read
+what he wrote online.
+
+595
+00:36:52,629 --> 00:36:53,799
+Online?
+
+596
+00:36:53,881 --> 00:36:57,091
+This messed up
+site Jake was into called The Cut Up Room.
+
+597
+00:36:57,176 --> 00:37:00,006
+By "messed up," I'm assuming
+you mean pornographic.
+
+598
+00:37:00,095 --> 00:37:03,885
+Yeah, but, it's not really
+so much about sex.
+
+599
+00:37:03,974 --> 00:37:07,354
+More violence. Like, really graphic stuff.
+
+600
+00:37:07,436 --> 00:37:09,186
+Are there stories on this site?
+
+601
+00:37:10,147 --> 00:37:14,937
+Yeah, people post all kinds
+of stuff. Photos, videos, stories.
+
+602
+00:37:15,027 --> 00:37:17,607
+And do you know if
+Jacob posted any stories?
+
+603
+00:37:19,239 --> 00:37:20,819
+He did, yeah.
+
+604
+00:37:20,908 --> 00:37:22,738
+He called them Job stories.
+
+605
+00:37:23,869 --> 00:37:25,079
+Job stories?
+
+606
+00:37:25,162 --> 00:37:28,672
+Yeah, you know, like his initials. J-O-B?
+
+607
+00:37:29,791 --> 00:37:31,461
+That was his screen name on there.
+
+608
+00:37:32,586 --> 00:37:33,796
+What do you know about this?
+
+609
+00:37:33,879 --> 00:37:35,339
+Not enough. You got to shut it down.
+
+610
+00:37:35,422 --> 00:37:38,842
+And did Job post a story
+about the murder of Ben Rifkin?
+
+611
+00:37:39,426 --> 00:37:40,466
+Yes.
+
+612
+00:37:44,139 --> 00:37:46,139
+Commonwealth
+moves to enter into evidence...
+
+613
+00:37:46,183 --> 00:37:47,393
+Objection.
+
+614
+00:37:47,476 --> 00:37:48,726
+Your Honor, may we approach?
+
+615
+00:37:48,810 --> 00:37:50,850
+Settle down, please.
+
+616
+00:37:52,648 --> 00:37:55,148
+Respectfully, Your
+Honor, we ask to approach.
+
+617
+00:37:59,446 --> 00:38:03,026
+Your Honor, this is an ambush.
+None of this was disclosed in discovery.
+
+618
+00:38:03,116 --> 00:38:05,236
+Your Honor, this story was
+authored by the defendant.
+
+619
+00:38:05,285 --> 00:38:08,525
+If he chose to hide it from his attorney,
+that's hardly the Commonwealth's fault.
+
+620
+00:38:08,747 --> 00:38:10,077
+What's this about, Jacob?
+
+621
+00:38:10,916 --> 00:38:12,036
+Jacob?
+
+622
+00:38:34,523 --> 00:38:36,733
+Your Honor, I need
+to confer with my client.
+
+623
+00:38:36,817 --> 00:38:38,437
+All right, go ahead.
+
+624
+00:38:42,406 --> 00:38:43,906
+I'm gonna ask your patience
+
+625
+00:38:43,991 --> 00:38:47,581
+while I allow defense counselor
+a moment to confer with her client.
+
+626
+00:38:50,497 --> 00:38:54,247
+He's going to allow it unless our position
+is that Jacob didn't write the story.
+
+627
+00:38:54,710 --> 00:38:56,938
+- Then that's our plan...
+- They know that he wrote it, Andy.
+
+628
+00:38:56,962 --> 00:38:58,462
+They've got an IP address.
+
+629
+00:39:00,465 --> 00:39:01,795
+Jacob.
+
+630
+00:39:07,139 --> 00:39:10,849
+If we push back now, we're only
+going to shine a brighter light on it.
+
+631
+00:39:11,310 --> 00:39:12,310
+How bad is it?
+
+632
+00:39:20,360 --> 00:39:24,200
+"Jason stood there on the path as
+Brent kept walking toward him, grinning."
+
+633
+00:39:24,615 --> 00:39:27,655
+If Brent knew the real Jason, he
+would have been scared shitless.
+
+634
+00:39:27,743 --> 00:39:30,663
+'Don't fuck with me, ' Jason
+warned him. 'I mean it.'
+
+635
+00:39:31,246 --> 00:39:33,666
+But Brent just laughed
+and grabbed him by the arm,
+
+636
+00:39:33,749 --> 00:39:36,249
+twisting it back like he'd
+done so many times before.
+
+637
+00:39:36,877 --> 00:39:40,457
+'Stop. You're hurting me, ' Jason
+said. But it didn't hurt that much.
+
+638
+00:39:41,006 --> 00:39:43,966
+He just wanted Brent to
+think that, so he would let go.
+
+639
+00:39:44,593 --> 00:39:48,183
+Brent laughed again, the way
+he always did, a fake laugh.
+
+640
+00:39:48,972 --> 00:39:51,562
+Jason's hand slipped
+into his sweatshirt pocket.
+
+641
+00:39:52,142 --> 00:39:54,392
+There it was, his trusted friend.
+
+642
+00:39:54,978 --> 00:39:58,478
+He curled his fingers around the grip
+and felt a surge of power through his arm,
+
+643
+00:39:58,565 --> 00:39:59,855
+up into his shoulder.
+
+644
+00:39:59,942 --> 00:40:01,992
+He knew there was no turning back now.
+
+645
+00:40:02,069 --> 00:40:03,699
+The park seemed to know it too.
+
+646
+00:40:03,779 --> 00:40:06,449
+He could hear the breeze in
+the leaves and birds chirping.
+
+647
+00:40:06,907 --> 00:40:10,147
+Brent saw the knife coming for him, but
+it was too late to do anything but stare.
+
+648
+00:40:10,744 --> 00:40:15,174
+It slipped in so easily Jason thought
+he was stabbing air. That surprised him.
+
+649
+00:40:15,249 --> 00:40:18,629
+He did it twice more, telling his
+brain to remember the feeling for later.
+
+650
+00:40:22,047 --> 00:40:24,007
+Brent fell backward and
+rolled down the slope,
+
+651
+00:40:24,091 --> 00:40:26,051
+until he stopped down below.
+
+652
+00:40:26,134 --> 00:40:28,644
+Jason knew he should go,
+but he couldn't help himself.
+
+653
+00:40:28,720 --> 00:40:31,220
+He went down to Brent's
+body to make sure he was dead.
+
+654
+00:40:31,306 --> 00:40:33,846
+The smell of blood in the
+air made him feel dizzy.
+
+655
+00:40:33,934 --> 00:40:37,444
+He found a small stream nearby and
+washed the knife off, and his hand too.
+
+656
+00:40:37,521 --> 00:40:41,441
+He could see his reflection in the water,
+but his face looked different to him now.
+
+657
+00:40:41,525 --> 00:40:43,985
+'It'll be our secret, ' it seemed to say.
+
+658
+00:40:47,739 --> 00:40:48,909
+"The End."
+
+659
+00:40:54,204 --> 00:41:00,134
+This story was posted three
+days after Ben Rifkin's body was found?
+
+660
+00:41:01,670 --> 00:41:02,670
+Yeah.
+
+661
+00:41:06,717 --> 00:41:08,597
+No further
+questions, Your Honor.
+
+662
+00:41:10,387 --> 00:41:11,656
+Ms. Klein?
+
+663
+00:41:22,900 --> 00:41:23,900
+No.
+
+664
+00:41:24,818 --> 00:41:25,938
+No, we weren't prepared.
+
+665
+00:41:27,237 --> 00:41:30,657
+A surprising turn of events sent shock
+waves through the courtroom today
+
+666
+00:41:30,741 --> 00:41:33,621
+as testimony from one of
+Jacob Barber's classmates
+
+667
+00:41:33,702 --> 00:41:37,712
+provided the prosecution with
+some extremely damaging evidence.
+
+668
+00:41:37,789 --> 00:41:41,959
+The reaction from the jurors
+was palpable, to say the least.
+
+669
+00:42:20,999 --> 00:42:22,499
+It was just a story.
+
+670
+00:42:32,052 --> 00:42:34,142
+I didn't know it would be a big deal.
+
+671
+00:42:40,394 --> 00:42:41,404
+Did you do it?
+
+672
+00:42:44,565 --> 00:42:46,225
+Just tell me. Did you kill him?
+
+673
+00:42:56,910 --> 00:42:57,950
+No.
+
+674
+00:43:04,960 --> 00:43:05,960
+No.
+
+675
+00:43:25,814 --> 00:43:29,114
+I could ask the judge to issue a
+bench warrant for Matt McGrath.
+
+676
+00:43:29,735 --> 00:43:33,105
+He won't. Not for some secondary
+witness holed up in Florida.
+
+677
+00:43:34,323 --> 00:43:36,583
+We don't have a choice.
+We gotta go straight at Patz.
+
+678
+00:43:36,658 --> 00:43:38,303
+Yeah, his subpoena was served this morning.
+
+679
+00:43:38,327 --> 00:43:41,247
+I'll call him as a hostile witness
+and see what we can get out of him.
+
+680
+00:43:41,330 --> 00:43:45,080
+We gotta run every play we have.
+Not just on the Patz front, Derek too.
+
+681
+00:43:45,959 --> 00:43:47,999
+You don't think we covered Derek on cross?
+
+682
+00:43:49,671 --> 00:43:51,221
+You did your best.
+
+683
+00:43:51,924 --> 00:43:53,134
+You were distracted.
+
+684
+00:43:54,426 --> 00:43:55,676
+Everyone was.
+
+685
+00:43:59,264 --> 00:44:03,814
+We need to backstop Patz. I say we
+go harder on Derek, subpoena Sarah.
+
+686
+00:44:04,520 --> 00:44:05,980
+Andy, we discussed this.
+
+687
+00:44:06,063 --> 00:44:09,233
+That was before. We need Sarah
+to hammer home Derek's obsession.
+
+688
+00:44:09,316 --> 00:44:11,816
+We need to have her
+repeat his words on the stand.
+
+689
+00:44:11,902 --> 00:44:13,742
+Yeah, you're right. That could be powerful.
+
+690
+00:44:13,820 --> 00:44:15,160
+Show the jury the selfie again.
+
+691
+00:44:15,239 --> 00:44:16,239
+No.
+
+692
+00:44:17,616 --> 00:44:20,616
+I don't wanna bring her into
+this. It's my trial. I'm saying no.
+
+693
+00:44:21,870 --> 00:44:23,870
+Sorry, but you don't get
+a say in this anymore.
+
+694
+00:44:26,792 --> 00:44:28,382
+Not after today.
+
+695
+00:44:42,266 --> 00:44:44,726
+I'll get into
+it first thing tomorrow.
+
+696
+00:46:01,720 --> 00:46:03,510
+You haven't said one word all night.
+
+697
+00:46:06,600 --> 00:46:07,600
+Did you know?
+
+698
+00:46:08,477 --> 00:46:09,597
+About the story?
+
+699
+00:46:10,479 --> 00:46:11,479
+No.
+
+700
+00:46:11,563 --> 00:46:12,903
+Just tell me the truth.
+
+701
+00:46:13,440 --> 00:46:15,730
+- I am.
+- The truth. I need to know.
+
+702
+00:46:16,235 --> 00:46:18,315
+Laurie, I swear I'm telling you the truth.
+
+703
+00:46:18,987 --> 00:46:20,447
+What about the website?
+
+704
+00:46:20,531 --> 00:46:21,821
+The Cut Up Room?
+
+705
+00:46:29,456 --> 00:46:31,226
+I only kept it from you
+'cause I knew it would...
+
+706
+00:46:31,250 --> 00:46:32,790
+Don't. Don't.
+
+707
+00:46:33,502 --> 00:46:34,382
+Don't what?
+
+708
+00:46:34,461 --> 00:46:37,631
+Explain it away like you do
+everything. Excuse it away.
+
+709
+00:46:37,714 --> 00:46:39,224
+I knew it would set you off.
+
+710
+00:46:39,716 --> 00:46:42,403
+You were already half convinced that
+Jacob was guilty. I didn't want to add...
+
+711
+00:46:42,427 --> 00:46:43,467
+Not anymore.
+
+712
+00:46:52,187 --> 00:46:53,607
+What'd you just say?
+
+713
+00:46:56,567 --> 00:46:57,567
+I don't believe him.
+
+714
+00:46:58,652 --> 00:47:00,072
+Not after what I heard today.
+
+715
+00:47:04,283 --> 00:47:05,802
+So you're gonna let
+this one thing change...
+
+716
+00:47:05,826 --> 00:47:07,326
+It's always one thing.
+
+717
+00:47:07,995 --> 00:47:09,535
+Don't you see?
+
+718
+00:47:10,080 --> 00:47:13,750
+We're guilty too. If we protect
+him, we're as guilty as he is.
+
+719
+00:47:13,834 --> 00:47:15,937
+All right. Just keep your
+voice down. He's right upstairs.
+
+720
+00:47:15,961 --> 00:47:18,711
+I'm not even saying I know
+what to do about it. I don't.
+
+721
+00:47:19,464 --> 00:47:21,684
+But I know what I heard,
+and I know what it means.
+
+722
+00:47:21,758 --> 00:47:23,138
+Laurie, I'm begging you.
+
+723
+00:47:23,218 --> 00:47:26,008
+Don't talk yourself into something
+'cause of some made-up story.
+
+724
+00:47:26,096 --> 00:47:28,266
+- It's not a story.
+- Yes, it is!
+
+725
+00:47:29,308 --> 00:47:30,808
+This is a kid that bullied him.
+
+726
+00:47:30,893 --> 00:47:33,813
+He probably fantasized about
+hurting him a thousand times.
+
+727
+00:47:33,896 --> 00:47:37,266
+So he let his imagination
+run wild, and he wrote it down.
+
+728
+00:47:38,358 --> 00:47:39,358
+Maybe...
+
+729
+00:47:40,611 --> 00:47:42,911
+Maybe he got some sick thrill imagining it.
+
+730
+00:47:42,988 --> 00:47:44,568
+And is that horrible? Yes.
+
+731
+00:47:44,656 --> 00:47:47,326
+It's terrible, and it was
+wrong, and it was stupid,
+
+732
+00:47:47,409 --> 00:47:48,949
+but it was a story.
+
+733
+00:47:50,245 --> 00:47:52,155
+Joanna vetted every single line from it.
+
+734
+00:47:52,247 --> 00:47:55,627
+There wasn't one detail that hadn't
+already been reported by the news.
+
+735
+00:47:55,709 --> 00:47:58,549
+- He was fantasizing.
+- He was confessing.
+
+736
+00:48:00,047 --> 00:48:03,127
+To call it anything else is just
+lawyer spin, and you know it.
+
+737
+00:48:04,760 --> 00:48:06,140
+What if you knew?
+
+738
+00:48:07,804 --> 00:48:11,894
+What if you knew in your heart that
+our son did this unforgivable thing?
+
+739
+00:48:12,434 --> 00:48:15,604
+Took the life of another
+child? Would it even matter?
+
+740
+00:48:15,687 --> 00:48:17,290
+I'd still love him, if
+that's what you're asking.
+
+741
+00:48:17,314 --> 00:48:19,984
+No, it's not. I'd still love him too.
+
+742
+00:48:20,067 --> 00:48:21,937
+I will always love him, no matter what.
+
+743
+00:48:22,611 --> 00:48:24,861
+You don't know how badly
+I wanted to hold him tonight
+
+744
+00:48:24,947 --> 00:48:26,174
+and tell him it's all going to be okay.
+
+745
+00:48:26,198 --> 00:48:28,028
+But I can't play this game anymore,
+
+746
+00:48:28,575 --> 00:48:30,929
+letting him pretend he didn't
+do it, pretending to each other.
+
+747
+00:48:30,953 --> 00:48:32,623
+He's not pretending. He didn't do this.
+
+748
+00:48:32,704 --> 00:48:34,224
+- I know he didn't do this.
+- No, you don't!
+
+749
+00:48:34,248 --> 00:48:35,968
+No one can sustain that level of deception.
+
+750
+00:48:35,999 --> 00:48:39,039
+Of course he could. You of
+all people should know that.
+
+751
+00:48:49,388 --> 00:48:50,428
+Yeah.
+
+752
+00:48:51,098 --> 00:48:52,388
+Yeah, of course.
+
+753
+00:48:54,184 --> 00:48:55,604
+He learned it from me.
+
+754
+00:49:02,025 --> 00:49:03,775
+Maybe he learned it from both of us.
+
+755
+00:49:10,492 --> 00:49:11,952
+What do you want me to say, Laurie?
+
+756
+00:49:13,412 --> 00:49:14,412
+You're right.
+
+757
+00:49:15,455 --> 00:49:16,745
+Our marriage is a lie.
+
+758
+00:49:17,833 --> 00:49:21,633
+Our whole fucking family is based
+on a fairy tale, built on nothing.
+
+759
+00:49:23,672 --> 00:49:24,842
+And our son's a murderer.
+
+760
+00:49:26,508 --> 00:49:27,718
+Is that what you want to hear?
+
+761
+00:49:28,844 --> 00:49:30,054
+No.
+
+762
+00:49:33,390 --> 00:49:35,140
+But that doesn't mean it isn't true.
+
+763
+00:50:53,804 --> 00:50:54,934
+Hello.										
+    
+
+ 
+
+ 
+   
+   
+
+
+   
+ 
+  
+
+										
+ 
+
+ 
+  
+  
+
+   
+ 
+    
