@@ -1,0 +1,7415 @@
+﻿1
+00:00:06,000 --> 00:00:12,074
+Watch free HD Movies and TV Shows at
+StreamingSites.com
+
+2
+00:00:18,601 --> 00:00:22,230
+It's intensely contemplative.
+
+3
+00:00:26,025 --> 00:00:28,778
+It is almost hypnotic.
+
+4
+00:00:32,657 --> 00:00:38,163
+It's like putting your hand
+on the third rail of the universe.
+
+5
+00:00:39,622 --> 00:00:42,459
+If you play Go seriously,
+
+6
+00:00:42,542 --> 00:00:45,962
+there is a chance
+that you will get exposed
+
+7
+00:00:46,045 --> 00:00:50,008
+to this experience that...
+
+8
+00:00:50,925 --> 00:00:53,762
+is kind of like nothing else
+on the planet.
+
+9
+00:00:54,637 --> 00:00:56,598
+Go is putting you in a place
+
+10
+00:00:56,681 --> 00:01:01,061
+where you're always
+at the very farthest reaches
+
+11
+00:01:01,144 --> 00:01:02,437
+of your capacity.
+
+12
+00:01:04,189 --> 00:01:06,274
+There's a reason
+that people have been playing Go
+
+13
+00:01:06,357 --> 00:01:08,077
+for thousands and thousands
+of years, right?
+
+14
+00:01:09,402 --> 00:01:11,529
+It's not just that they want
+to understand Go.
+
+15
+00:01:12,781 --> 00:01:16,242
+They want to understand
+what understanding is.
+
+16
+00:01:17,911 --> 00:01:21,498
+And maybe that is truly
+what it means to be human.
+
+17
+00:01:26,544 --> 00:01:29,130
+When I was a kid,
+I loved playing games.
+
+18
+00:01:30,215 --> 00:01:32,884
+I started off with board games like chess.
+
+19
+00:01:33,802 --> 00:01:36,471
+And then I bought my first computer
+when I was eight
+
+20
+00:01:36,554 --> 00:01:38,264
+with winnings from a chess tournament.
+
+21
+00:01:39,557 --> 00:01:42,185
+Ever since then, I felt that computers
+
+22
+00:01:42,268 --> 00:01:46,481
+were this sort of magical device
+that could extend the power of your mind.
+
+23
+00:01:48,900 --> 00:01:50,735
+Virtual environments and games,
+
+24
+00:01:51,361 --> 00:01:55,156
+we think they're the perfect platform
+for developing and testing AI algorithms.
+
+25
+00:01:55,949 --> 00:01:59,327
+Games are very convenient,
+in that a lot of them have scores,
+
+26
+00:01:59,410 --> 00:02:02,497
+so it's very easy
+to measure incremental progress.
+
+27
+00:02:02,872 --> 00:02:06,876
+So I'm going to show you a few videos
+of the agent system, the AI.
+
+28
+00:02:06,960 --> 00:02:08,837
+So let's start off with Breakout.
+
+29
+00:02:08,920 --> 00:02:10,880
+So here you control the bat and ball,
+
+30
+00:02:10,964 --> 00:02:13,364
+and you're trying to break
+through this rainbow-colored wall.
+
+31
+00:02:13,758 --> 00:02:16,511
+The agent system has to learn
+everything for itself,
+
+32
+00:02:16,594 --> 00:02:18,054
+just from the raw pixels.
+
+33
+00:02:18,138 --> 00:02:19,806
+It doesn't know what it's controlling.
+
+34
+00:02:19,889 --> 00:02:22,517
+It doesn't even know
+what the object of the game is.
+
+35
+00:02:22,600 --> 00:02:26,771
+Now, at the beginning, after 100 games,
+you can see the agent is not very good.
+
+36
+00:02:26,855 --> 00:02:28,481
+It's missing the ball most of the time.
+
+37
+00:02:28,565 --> 00:02:30,441
+But it's starting to get
+the hang of the idea
+
+38
+00:02:30,525 --> 00:02:32,125
+that the bat should go towards the ball.
+
+39
+00:02:33,111 --> 00:02:34,612
+Now, after 300 games,
+
+40
+00:02:34,696 --> 00:02:36,990
+it's about as good
+as any human can play this,
+
+41
+00:02:37,073 --> 00:02:39,325
+and pretty much gets
+the ball back every time.
+
+42
+00:02:39,409 --> 00:02:40,845
+We thought, "Well, that's pretty cool."
+
+43
+00:02:40,869 --> 00:02:43,496
+But we left the system playing
+for another 200 games,
+
+44
+00:02:43,580 --> 00:02:44,831
+and it did this amazing thing.
+
+45
+00:02:44,914 --> 00:02:46,207
+It found the optimal strategy
+
+46
+00:02:46,291 --> 00:02:48,251
+was to dig a tunnel around the side.
+
+47
+00:02:48,334 --> 00:02:50,094
+And put the ball
+around the back of the wall.
+
+48
+00:02:50,879 --> 00:02:53,548
+The researchers working on this,
+the amazing AI developers,
+
+49
+00:02:53,631 --> 00:02:56,843
+well, they're not so good at Breakout,
+and they didn't know about that strategy.
+
+50
+00:02:56,926 --> 00:02:58,779
+So, they learned something
+from their own system,
+
+51
+00:02:58,803 --> 00:03:01,347
+which is, uh, you know,
+pretty funny and quite instructive,
+
+52
+00:03:01,431 --> 00:03:04,183
+I think, about the potential
+for general AI.
+
+53
+00:03:04,642 --> 00:03:06,895
+So, for us, what's the next step now?
+
+54
+00:03:06,978 --> 00:03:10,481
+Go is the most complex game,
+pretty much, ever devised by man.
+
+55
+00:03:10,565 --> 00:03:12,400
+Beating a professional player at Go
+
+56
+00:03:12,483 --> 00:03:15,904
+is a long-standing, grand challenge
+of AI research.
+
+57
+00:03:36,966 --> 00:03:38,009
+Wow.
+
+58
+00:03:39,594 --> 00:03:41,387
+You really want to kill me, yeah?
+
+59
+00:03:41,930 --> 00:03:44,599
+No, I don't want to,
+but I'm trying to survive.
+
+60
+00:03:44,682 --> 00:03:45,934
+Yes, that's it. That's it.
+
+61
+00:03:46,017 --> 00:03:47,977
+I am a Go professional player.
+
+62
+00:03:48,061 --> 00:03:49,646
+I am also a European Champion.
+
+63
+00:03:50,230 --> 00:03:51,689
+With that move,
+
+64
+00:03:51,773 --> 00:03:53,316
+you're going to lose for sure.
+
+65
+00:03:53,399 --> 00:03:56,110
+You were happy to defeat me
+but then you panicked.
+
+66
+00:03:56,611 --> 00:03:59,822
+You're afraid that victory
+will escape you.
+
+67
+00:03:59,906 --> 00:04:03,534
+In general, when you're afraid,
+victory always escapes you.
+
+68
+00:04:05,703 --> 00:04:07,205
+I was born in China.
+
+69
+00:04:07,664 --> 00:04:10,875
+When I was 18, I wanted to change my life.
+
+70
+00:04:11,417 --> 00:04:13,169
+That was why I went to France.
+
+71
+00:04:14,128 --> 00:04:16,506
+I wanted to try to forget Go.
+
+72
+00:04:17,882 --> 00:04:19,300
+But it was impossible.
+
+73
+00:04:19,884 --> 00:04:23,972
+Because all the things I learned
+in my life was through Go.
+
+74
+00:04:25,056 --> 00:04:26,432
+It looks like a mirror.
+
+75
+00:04:27,225 --> 00:04:30,561
+When I see Go, I also see myself.
+
+76
+00:04:32,272 --> 00:04:34,399
+For me, Go is real life.
+
+77
+00:04:40,238 --> 00:04:41,447
+Dear Mr. Fan.
+
+78
+00:04:41,823 --> 00:04:43,449
+My name is Demis Hassabis.
+
+79
+00:04:44,659 --> 00:04:48,413
+I run an artificial intelligence company
+based in London called DeepMind.
+
+80
+00:04:49,289 --> 00:04:51,291
+As the strongest Go player in Europe,
+
+81
+00:04:51,374 --> 00:04:53,918
+we would like to invite you
+to our offices in London,
+
+82
+00:04:54,002 --> 00:04:56,421
+both to meet you in person
+and to share with you
+
+83
+00:04:56,504 --> 00:04:58,840
+an exciting Go project
+that we are working on.
+
+84
+00:04:59,882 --> 00:05:01,802
+If you would be interested
+in coming to visit us,
+
+85
+00:05:01,884 --> 00:05:03,052
+please let us know.
+
+86
+00:05:03,803 --> 00:05:06,806
+Many thanks. Kind regards, Demis.
+
+87
+00:05:08,266 --> 00:05:10,184
+When I saw this e-mail,
+
+88
+00:05:10,268 --> 00:05:12,562
+I didn't know if it was true or not.
+
+89
+00:05:13,938 --> 00:05:16,065
+I will accept this. Why not?
+
+90
+00:05:18,026 --> 00:05:19,944
+For me, everything is an adventure.
+
+91
+00:05:21,612 --> 00:05:23,239
+I want to go visit DeepMind
+
+92
+00:05:23,323 --> 00:05:27,702
+to know what this Go project is.
+
+93
+00:05:31,581 --> 00:05:34,542
+On my first visit,
+I thought maybe they wanted me
+
+94
+00:05:34,625 --> 00:05:36,461
+to sit in a special room,
+
+95
+00:05:36,544 --> 00:05:39,172
+attach numerous wires to my head,
+
+96
+00:05:39,589 --> 00:05:41,049
+and also my body,
+
+97
+00:05:41,132 --> 00:05:44,385
+let me play to scan my brain.
+
+98
+00:05:45,011 --> 00:05:46,054
+I don't know,
+
+99
+00:05:46,804 --> 00:05:48,222
+to make some research.
+
+100
+00:05:48,890 --> 00:05:51,100
+We needed to get Fan Hui
+to DeepMind
+
+101
+00:05:51,184 --> 00:05:54,729
+to see we were a serious operation,
+and we were serious people...
+
+102
+00:05:55,563 --> 00:05:56,647
+doing proper research.
+
+103
+00:05:58,107 --> 00:06:00,068
+And the search time
+is getting better and better
+
+104
+00:06:00,151 --> 00:06:02,987
+as we go from, for example,
+one to eight, in any one of these,
+
+105
+00:06:03,071 --> 00:06:04,781
+it always goes up.
+
+106
+00:06:05,281 --> 00:06:07,158
+We think of DeepMind as...
+
+107
+00:06:07,241 --> 00:06:10,036
+kind of like an Apollo program effort
+for AI.
+
+108
+00:06:10,995 --> 00:06:14,248
+Our mission is to fundamentally
+understand intelligence,
+
+109
+00:06:14,332 --> 00:06:16,000
+and recreate it artificially.
+
+110
+00:06:16,334 --> 00:06:17,574
+And then, once we've done that,
+
+111
+00:06:17,627 --> 00:06:21,089
+we feel that we can use
+that technology to help society
+
+112
+00:06:21,172 --> 00:06:23,049
+solve all sorts of other problems.
+
+113
+00:06:23,132 --> 00:06:24,675
+If you step through
+the actual game,
+
+114
+00:06:24,759 --> 00:06:27,303
+we can see, kind of, how AlphaGo thinks,
+
+115
+00:06:27,386 --> 00:06:30,473
+what's the most likely variation
+that it thinks will happen.
+
+116
+00:06:30,556 --> 00:06:32,391
+We've been working
+on AlphaGo,
+
+117
+00:06:32,475 --> 00:06:35,770
+our program to play Go,
+for just under two years now.
+
+118
+00:06:36,354 --> 00:06:38,397
+All the little patterns cascade together,
+
+119
+00:06:38,481 --> 00:06:40,483
+layer after layer, after layer,
+after layer.
+
+120
+00:06:41,484 --> 00:06:45,822
+I started talking about the game of Go
+with Demis more than 20 years ago.
+
+121
+00:06:45,905 --> 00:06:48,324
+And so, this has been
+a really long journey.
+
+122
+00:06:48,407 --> 00:06:51,828
+The game of Go is the holy grail
+of artificial intelligence.
+
+123
+00:06:51,911 --> 00:06:54,163
+For many years,
+people have looked at this game
+
+124
+00:06:54,247 --> 00:06:56,874
+and they have thought,
+"Wow, this is just too hard."
+
+125
+00:06:56,958 --> 00:06:58,960
+Everything we have ever tried in AI,
+
+126
+00:06:59,043 --> 00:07:01,212
+it just falls over
+when you try the game of Go.
+
+127
+00:07:01,295 --> 00:07:04,674
+And so that's why it feels like
+a real litmus test of progress.
+
+128
+00:07:04,757 --> 00:07:07,468
+If we can crack Go,
+we know we've done something special.
+
+129
+00:07:09,679 --> 00:07:11,639
+So with Fan Hui,
+we started talking around
+
+130
+00:07:11,722 --> 00:07:13,641
+what the real purpose of the visit was.
+
+131
+00:07:13,724 --> 00:07:16,394
+It wasn't just a Go project
+we wanted him to help with,
+
+132
+00:07:16,477 --> 00:07:19,981
+that actually we wanted to play him,
+and we had a very strong program.
+
+133
+00:07:20,064 --> 00:07:21,691
+It's okay, it's just a program.
+
+134
+00:07:21,774 --> 00:07:23,401
+It's so easy.
+
+135
+00:07:23,484 --> 00:07:24,861
+So, it will be easy to play.
+
+136
+00:07:25,278 --> 00:07:27,864
+A lot of people have thought
+that it was decades away.
+
+137
+00:07:27,947 --> 00:07:29,383
+Some people thought it would be never.
+
+138
+00:07:29,407 --> 00:07:34,704
+Because they felt that to succeed at Go,
+you needed human intuition.
+
+139
+00:07:35,913 --> 00:07:40,168
+Go is the world's oldest
+continuously played board game.
+
+140
+00:07:40,251 --> 00:07:41,711
+And, in some sense,
+
+141
+00:07:41,794 --> 00:07:45,882
+it is one of the simplest
+and also most abstract.
+
+142
+00:07:46,382 --> 00:07:47,758
+There's only one type of piece.
+
+143
+00:07:47,842 --> 00:07:48,986
+There's only one type of move.
+
+144
+00:07:49,010 --> 00:07:50,570
+You just place that piece on the board.
+
+145
+00:07:51,053 --> 00:07:56,309
+And then, your goal is to create
+a linked group of your stones
+
+146
+00:07:56,392 --> 00:07:58,144
+that surrounds some empty territory.
+
+147
+00:07:58,811 --> 00:08:01,522
+And when you surround enemy stones,
+
+148
+00:08:01,606 --> 00:08:04,066
+you capture them,
+and remove them from the board.
+
+149
+00:08:05,067 --> 00:08:07,361
+You earn points by surrounding territory.
+
+150
+00:08:07,445 --> 00:08:11,782
+And, at the end of the game,
+the person with the most territory wins.
+
+151
+00:08:12,825 --> 00:08:14,619
+It seems really simple.
+
+152
+00:08:14,702 --> 00:08:17,580
+But, then you sit down to play,
+and you realize right away,
+
+153
+00:08:17,663 --> 00:08:20,917
+it's like, "Well, I technically know
+what I'm allowed to do,
+
+154
+00:08:21,000 --> 00:08:22,793
+but I have no clue what I should do."
+
+155
+00:08:22,877 --> 00:08:25,505
+Go is incredibly challenging
+for computers to tackle
+
+156
+00:08:25,588 --> 00:08:27,632
+because compared to, say, chess,
+
+157
+00:08:27,715 --> 00:08:30,801
+the number of possible moves
+in a position is much larger.
+
+158
+00:08:30,885 --> 00:08:32,303
+In chess, it's about 20.
+
+159
+00:08:32,386 --> 00:08:34,222
+In Go, it's about 200.
+
+160
+00:08:34,305 --> 00:08:37,183
+And the number of possible
+configurations of the board
+
+161
+00:08:37,266 --> 00:08:39,727
+is more than the number
+of atoms in the universe.
+
+162
+00:08:39,810 --> 00:08:42,313
+So even if you took all
+the computers in the world,
+
+163
+00:08:42,396 --> 00:08:43,814
+and ran them for a million years,
+
+164
+00:08:43,898 --> 00:08:48,236
+that wouldn't be enough compute power
+to calculate all the possible variations.
+
+165
+00:08:48,569 --> 00:08:52,114
+If you ask a great Go player
+why they played a particular move,
+
+166
+00:08:52,198 --> 00:08:54,617
+sometimes, they will just tell you
+it felt right.
+
+167
+00:08:54,700 --> 00:08:57,495
+So, we have to come up
+with some kind of clever algorithm
+
+168
+00:08:57,578 --> 00:09:00,373
+to mimic what people do
+with their intuition.
+
+169
+00:09:01,415 --> 00:09:03,751
+- Nice to meet you.
+- Oh, hello. Nice to meet you, too.
+
+170
+00:09:03,834 --> 00:09:06,837
+So with Fan Hui, we agreed
+a best-of-five match.
+
+171
+00:09:06,921 --> 00:09:09,006
+And we agreed it would be filmed.
+
+172
+00:09:09,090 --> 00:09:10,930
+You know, we would treat it
+as a serious match.
+
+173
+00:09:13,678 --> 00:09:15,346
+I played with AlphaGo.
+
+174
+00:09:15,429 --> 00:09:18,391
+Aja Huang pushed the stones for AlphaGo.
+
+175
+00:09:18,891 --> 00:09:21,978
+And, of course, I thought I will win
+the game with AlphaGo
+
+176
+00:09:22,061 --> 00:09:23,604
+because it's just a program.
+
+177
+00:09:24,689 --> 00:09:25,689
+Good game.
+
+178
+00:09:26,357 --> 00:09:27,357
+Have a nice game.
+
+179
+00:09:30,903 --> 00:09:33,698
+The first game,
+I made some mistakes,
+
+180
+00:09:33,781 --> 00:09:35,616
+and I lost the game.
+
+181
+00:09:36,158 --> 00:09:39,412
+Oh. Strange. Very strange game.
+
+182
+00:09:39,829 --> 00:09:42,748
+In that first match,
+I think something clicked for him
+
+183
+00:09:42,832 --> 00:09:46,544
+that this wasn't an ordinary Go program.
+
+184
+00:09:46,627 --> 00:09:49,630
+We weren't just doing
+the same as everyone else,
+
+185
+00:09:49,714 --> 00:09:51,215
+that something new was happening.
+
+186
+00:09:51,299 --> 00:09:53,926
+The second game,
+I tried to change my style.
+
+187
+00:09:54,594 --> 00:09:57,763
+But the problem
+is I also lost the second game.
+
+188
+00:09:57,847 --> 00:09:59,682
+And also the third game,
+
+189
+00:09:59,765 --> 00:10:00,891
+the fourth game,
+
+190
+00:10:01,392 --> 00:10:02,518
+even the last game.
+
+191
+00:10:03,936 --> 00:10:06,105
+I lost, five-zero.
+
+192
+00:10:08,190 --> 00:10:09,650
+AlphaGo won all the games.
+
+193
+00:10:10,318 --> 00:10:13,070
+After losing, losing, losing,
+
+194
+00:10:13,154 --> 00:10:16,407
+you can feel his pressure
+is getting heavier and heavier.
+
+195
+00:10:16,949 --> 00:10:18,993
+And several times after the game,
+
+196
+00:10:19,076 --> 00:10:23,289
+he said he wanted to go out for fresh air.
+
+197
+00:10:23,372 --> 00:10:25,625
+I said, "Oh, I can go with you
+and have a chat."
+
+198
+00:10:25,708 --> 00:10:27,228
+He said, "No, I want to go by myself."
+
+199
+00:10:30,004 --> 00:10:32,882
+I felt something very strange.
+
+200
+00:10:33,549 --> 00:10:34,842
+I lost to a program.
+
+201
+00:10:35,551 --> 00:10:39,096
+And I didn't understand myself anymore.
+
+202
+00:10:43,225 --> 00:10:45,311
+I worried whether
+he would even come back.
+
+203
+00:10:45,394 --> 00:10:47,938
+You know, he seemed very low,
+
+204
+00:10:48,022 --> 00:10:50,691
+and he spent about an hour away
+from the office.
+
+205
+00:10:50,775 --> 00:10:52,610
+He came back completely changed.
+
+206
+00:10:52,693 --> 00:10:56,405
+I told Maddy,
+"This is the first time in history
+
+207
+00:10:56,489 --> 00:11:00,493
+that a human professional Go player
+lost to a program.
+
+208
+00:11:00,993 --> 00:11:02,828
+She told me, "Yes, we know.
+
+209
+00:11:02,912 --> 00:11:05,873
+But for you... Are you okay?"
+
+210
+00:11:06,582 --> 00:11:07,667
+I told her...
+
+211
+00:11:09,418 --> 00:11:11,545
+"No, and yes."
+
+212
+00:11:12,213 --> 00:11:14,924
+I am not happy to lose a game,
+
+213
+00:11:15,383 --> 00:11:19,595
+but I'm very happy to play for history.
+
+214
+00:11:21,764 --> 00:11:25,935
+Artificial intelligence researchers
+have solved the game of Go
+
+215
+00:11:26,018 --> 00:11:28,396
+a decade earlier than expected.
+
+216
+00:11:28,479 --> 00:11:30,314
+The computer named AlphaGo,
+
+217
+00:11:30,398 --> 00:11:32,942
+was able to beat
+the European human champion.
+
+218
+00:11:33,025 --> 00:11:34,902
+Artificial intelligence researchers
+
+219
+00:11:34,985 --> 00:11:36,695
+have made a significant breakthrough.
+
+220
+00:11:36,779 --> 00:11:38,864
+It really is a big leap forward.
+
+221
+00:11:39,323 --> 00:11:44,120
+There's a big difference between
+the way the IBM computer beat Kasparov,
+
+222
+00:11:44,203 --> 00:11:46,747
+which was programmed
+by expert chess players,
+
+223
+00:11:46,831 --> 00:11:50,709
+and the way the Go-playing computer,
+more or less, learned itself.
+
+224
+00:11:50,793 --> 00:11:53,087
+The way we start off training AlphaGo
+
+225
+00:11:53,170 --> 00:11:57,299
+is by showing it 100,000 games
+that strong amateurs have played,
+
+226
+00:11:57,383 --> 00:11:59,027
+that we have downloaded from the Internet.
+
+227
+00:11:59,051 --> 00:12:02,680
+And we first initially get AlphaGo
+to mimic the human player.
+
+228
+00:12:02,763 --> 00:12:05,015
+And then, through self-playing,
+reinforcement learning,
+
+229
+00:12:05,099 --> 00:12:07,935
+it plays against different versions
+of itself many millions of times,
+
+230
+00:12:08,018 --> 00:12:09,687
+and learns from its errors.
+
+231
+00:12:09,770 --> 00:12:13,732
+The specific ideas
+that are driving AlphaGo
+
+232
+00:12:13,816 --> 00:12:15,526
+are going to drive our future.
+
+233
+00:12:15,860 --> 00:12:18,320
+The technologies
+at the heart of AlphaGo,
+
+234
+00:12:18,404 --> 00:12:20,698
+they are what are called
+deep neural networks
+
+235
+00:12:20,781 --> 00:12:22,700
+which essentially mimic
+
+236
+00:12:22,783 --> 00:12:24,910
+the web of neurons in the human brain.
+
+237
+00:12:24,994 --> 00:12:26,412
+It's a very old idea,
+
+238
+00:12:26,495 --> 00:12:30,207
+but recently, due to increases
+in computing power,
+
+239
+00:12:30,291 --> 00:12:33,002
+these neural networks
+have become extremely powerful,
+
+240
+00:12:33,085 --> 00:12:33,961
+almost overnight.
+
+241
+00:12:34,044 --> 00:12:37,214
+Big neural networks
+that operate on big data
+
+242
+00:12:37,298 --> 00:12:39,216
+can achieve surprising things.
+
+243
+00:12:39,300 --> 00:12:41,802
+AlphaGo found a way to learn
+how to play Go.
+
+244
+00:12:41,886 --> 00:12:44,722
+Learning is the key thing here.
+It is a machine learning.
+
+245
+00:12:44,805 --> 00:12:46,849
+The whole beauty
+about these types of algorithms
+
+246
+00:12:46,932 --> 00:12:48,827
+is that because they are learning
+for themselves,
+
+247
+00:12:48,851 --> 00:12:49,727
+they can go beyond
+
+248
+00:12:49,810 --> 00:12:52,730
+what we, as the programmers,
+know how to do,
+
+249
+00:12:52,813 --> 00:12:56,609
+and allow us to make new breakthroughs
+in areas of science and medicine.
+
+250
+00:12:56,692 --> 00:13:01,489
+So, AlphaGo is one significant step
+towards that ultimate goal.
+
+251
+00:13:11,165 --> 00:13:12,833
+My wife called me.
+
+252
+00:13:13,417 --> 00:13:16,378
+She told me, "Don't check the Internet.
+
+253
+00:13:16,462 --> 00:13:17,880
+Don't connect to the Internet,
+
+254
+00:13:17,963 --> 00:13:20,424
+because people are saying terrible things
+
+255
+00:13:20,508 --> 00:13:22,551
+about your match with AlphaGo."
+
+256
+00:13:23,052 --> 00:13:26,013
+"Fan Hui has been living
+for a long time in Europe,
+
+257
+00:13:26,096 --> 00:13:28,641
+he is not a real professional,
+he's just an amateur player."
+
+258
+00:13:29,475 --> 00:13:32,186
+This is so hard for me, so hard.
+
+259
+00:13:34,063 --> 00:13:35,856
+The Go world was skeptical
+
+260
+00:13:35,940 --> 00:13:38,442
+about how strong really was AlphaGo,
+
+261
+00:13:38,526 --> 00:13:40,027
+and how much further did it need
+
+262
+00:13:40,110 --> 00:13:41,904
+to get to beat the top professionals.
+
+263
+00:13:42,404 --> 00:13:45,074
+So our program is improving over time,
+
+264
+00:13:45,157 --> 00:13:47,952
+and we want to push
+the AI algorithm to the limit,
+
+265
+00:13:48,035 --> 00:13:51,622
+and see how far this kind
+of self-improving process can go.
+
+266
+00:13:52,373 --> 00:13:55,251
+So, we needed to look
+for an even greater challenge.
+
+267
+00:13:56,502 --> 00:14:00,130
+A match like no other
+is about to get underway in South Korea.
+
+268
+00:14:00,214 --> 00:14:02,424
+Se-dol Lee,
+the long-reigning global champ...
+
+269
+00:14:02,508 --> 00:14:04,009
+This guy is a genius...
+
+270
+00:14:04,093 --> 00:14:07,513
+...who will take on
+artificial intelligence program AlphaGo
+
+271
+00:14:07,596 --> 00:14:10,641
+in the ultimate
+human versus machine smackdown.
+
+272
+00:14:10,724 --> 00:14:14,687
+This is a huge moment for both
+the world of artificial intelligence
+
+273
+00:14:14,770 --> 00:14:16,855
+and I think, the world of Go.
+
+274
+00:14:16,939 --> 00:14:20,609
+So far, AlphaGo has beaten
+every challenge we have given it.
+
+275
+00:14:20,693 --> 00:14:23,737
+But we won't know
+its true strength until we play somebody
+
+276
+00:14:23,821 --> 00:14:26,740
+who is at the top of the world,
+like Se-dol Lee.
+
+277
+00:14:26,824 --> 00:14:28,284
+We chose Se-dol Lee
+
+278
+00:14:28,367 --> 00:14:31,912
+because we wanted
+a legendary, historic player.
+
+279
+00:14:31,996 --> 00:14:35,791
+Somebody who has been acknowledged
+as the greatest player of the last decade.
+
+280
+00:14:36,208 --> 00:14:40,170
+I don't want to sound too arrogant,
+
+281
+00:14:40,254 --> 00:14:42,298
+but, still, I think I have the advantage.
+
+282
+00:14:42,381 --> 00:14:44,508
+"I will not be too arrogant,
+
+283
+00:14:44,592 --> 00:14:47,803
+but I don't think
+that it will be a very close match.
+
+284
+00:14:47,887 --> 00:14:52,308
+The level of the player that AlphaGo
+went against in October
+
+285
+00:14:52,391 --> 00:14:53,893
+is not the same level as me.
+
+286
+00:14:53,976 --> 00:14:57,396
+So, given that a couple of months
+has only passed,
+
+287
+00:14:57,479 --> 00:15:01,233
+I don't think that it is enough for it
+to be able to catch up with me.
+
+288
+00:15:01,317 --> 00:15:06,322
+My hope is that it will be either
+five-zero for me, or maybe four to one.
+
+289
+00:15:06,405 --> 00:15:10,200
+So the critical point for me
+is to make sure I do not lose one."
+
+290
+00:15:10,784 --> 00:15:12,411
+High five, please.
+
+291
+00:15:13,412 --> 00:15:15,497
+We don't know how well
+
+292
+00:15:15,581 --> 00:15:17,291
+our system will play against someone
+
+293
+00:15:17,374 --> 00:15:19,418
+as creative as Se-dol Lee.
+
+294
+00:15:19,501 --> 00:15:20,586
+Also, he's very famous
+
+295
+00:15:20,669 --> 00:15:24,048
+- for very creative fighting play.
+- Yeah, yeah. Yeah.
+
+296
+00:15:24,131 --> 00:15:27,301
+So, this could be difficult for us,
+but we'll see.
+
+297
+00:15:27,384 --> 00:15:28,218
+Maybe, in some ways,
+
+298
+00:15:28,302 --> 00:15:30,142
+he's the most difficult opponent
+we could pick.
+
+299
+00:15:30,220 --> 00:15:31,055
+Yeah.
+
+300
+00:15:31,138 --> 00:15:33,557
+There was still so much
+of a question
+
+301
+00:15:33,641 --> 00:15:35,643
+about whether or not they could beat
+
+302
+00:15:35,726 --> 00:15:37,561
+someone like Se-dol Lee.
+
+303
+00:15:38,062 --> 00:15:39,438
+Fan Hui is a good player,
+
+304
+00:15:39,521 --> 00:15:42,650
+but he's nothing
+like the very top players.
+
+305
+00:15:42,733 --> 00:15:44,902
+Se-dol Lee
+is a 9-dan professional.
+
+306
+00:15:45,194 --> 00:15:48,739
+Nine-dan professional is the highest rank
+that you can achieve in Go.
+
+307
+00:15:48,822 --> 00:15:50,240
+The ranking system.
+
+308
+00:15:50,324 --> 00:15:54,161
+Fan Hui, who is the European Champion,
+is just a 2-dan professional.
+
+309
+00:15:54,244 --> 00:15:58,791
+On the other hand, at the very top,
+Se-dol Lee is a 9-dan professional.
+
+310
+00:15:58,874 --> 00:16:01,627
+Se-dol Lee is to Go
+what Roger Federer is to tennis.
+
+311
+00:16:01,710 --> 00:16:03,879
+He is playing in Wimbledon
+to win the Grand Slam.
+
+312
+00:16:03,963 --> 00:16:06,024
+And it's not just this year.
+He'll be there next year,
+
+313
+00:16:06,048 --> 00:16:08,258
+and the year after that,
+and the year after that.
+
+314
+00:16:08,342 --> 00:16:10,302
+Of course, the Internet,
+
+315
+00:16:10,386 --> 00:16:13,847
+and all the Go community, everyone,
+
+316
+00:16:14,932 --> 00:16:19,311
+maybe not 100%, maybe 99.999%
+
+317
+00:16:19,395 --> 00:16:22,940
+think Se-dol Lee will win very easily.
+
+318
+00:16:23,565 --> 00:16:25,985
+Teacher, I got stuck.
+
+319
+00:16:26,068 --> 00:16:27,361
+How do I go from here?
+
+320
+00:16:29,863 --> 00:16:31,615
+Good.
+Hold the stone properly.
+
+321
+00:16:31,699 --> 00:16:34,326
+Place the stone nicely, not like that.
+
+322
+00:16:34,410 --> 00:16:36,412
+And hold it nicely, like this.
+
+323
+00:16:37,746 --> 00:16:39,665
+Go is taken seriously in Korea.
+
+324
+00:16:39,957 --> 00:16:43,210
+It's so much part of the culture,
+like breathing, or, you know,
+
+325
+00:16:43,293 --> 00:16:45,796
+like taking swimming lessons,
+or something.
+
+326
+00:16:46,505 --> 00:16:48,132
+On the surface, it's a game,
+
+327
+00:16:48,215 --> 00:16:51,760
+but inside, it has a very deep philosophy.
+
+328
+00:16:51,844 --> 00:16:55,514
+The Go board reflects
+the individual who's playing.
+
+329
+00:16:55,597 --> 00:16:57,891
+The truth is going to show itself
+on the board.
+
+330
+00:16:57,975 --> 00:16:59,560
+You won't be able to hide it.
+
+331
+00:17:00,436 --> 00:17:03,689
+In ancient China, Japan, Korea,
+
+332
+00:17:03,772 --> 00:17:07,693
+Go is one of the four noble things,
+
+333
+00:17:07,776 --> 00:17:10,863
+like four accomplishments for literati,
+
+334
+00:17:11,280 --> 00:17:15,034
+with music, poetry, and painting.
+
+335
+00:17:15,117 --> 00:17:18,746
+So, people think the Go players
+
+336
+00:17:18,829 --> 00:17:21,415
+are very smart and very noble.
+
+337
+00:17:21,498 --> 00:17:22,833
+It's okay to lose,
+
+338
+00:17:22,916 --> 00:17:24,185
+as long as you played your best.
+
+339
+00:17:24,209 --> 00:17:26,879
+Bow to your opponent.
+
+340
+00:17:26,962 --> 00:17:29,339
+Master Kwon started this school,
+
+341
+00:17:29,423 --> 00:17:31,258
+so that he could produce
+
+342
+00:17:31,341 --> 00:17:32,885
+great players in Korea.
+
+343
+00:17:33,427 --> 00:17:36,180
+Se-dol Lee, when he was eight years old,
+
+344
+00:17:36,263 --> 00:17:38,557
+he came in here, attending class,
+
+345
+00:17:38,640 --> 00:17:41,810
+9:00 a.m. until 9:00 p.m.
+for seven days.
+
+346
+00:17:41,894 --> 00:17:44,063
+And then, he stayed with Master Kwon.
+
+347
+00:17:44,897 --> 00:17:47,024
+I remember his round face
+
+348
+00:17:47,107 --> 00:17:49,359
+and dark brown eyes.
+
+349
+00:17:49,985 --> 00:17:54,615
+Since he came
+from an island, he easily drew attention.
+
+350
+00:17:55,115 --> 00:17:58,911
+But unlike the other children,
+
+351
+00:17:58,994 --> 00:18:01,663
+his eyes shone brightly.
+
+352
+00:18:01,747 --> 00:18:02,747
+7TH WORLD GO CHAMPIONSHIP
+
+353
+00:18:02,790 --> 00:18:05,292
+Se-dol Lee was a little boy
+
+354
+00:18:05,375 --> 00:18:08,837
+that I remember when I was a student
+studying Go.
+
+355
+00:18:08,921 --> 00:18:14,343
+He was very young and rural enough
+to think that pizza grew on trees.
+
+356
+00:18:15,844 --> 00:18:17,346
+When I was young,
+
+357
+00:18:17,429 --> 00:18:19,848
+I started playing Go
+because I thought it was fun
+
+358
+00:18:19,932 --> 00:18:21,600
+to beat guys who were older than me.
+
+359
+00:18:21,683 --> 00:18:25,145
+Since then, it has become
+a type of creation of mine.
+
+360
+00:18:25,687 --> 00:18:27,856
+I want my style of Go
+to be something different,
+
+361
+00:18:27,940 --> 00:18:29,149
+something new,
+
+362
+00:18:30,150 --> 00:18:31,819
+my own thing.
+
+363
+00:18:33,654 --> 00:18:36,031
+Something that no one
+has thought of before.
+
+364
+00:18:36,615 --> 00:18:38,742
+Se-dol Lee plays things
+
+365
+00:18:38,826 --> 00:18:41,495
+that are interesting, where you felt like
+
+366
+00:18:41,578 --> 00:18:42,955
+he is beyond winning and losing.
+
+367
+00:18:43,038 --> 00:18:47,000
+He wants to do something that's innovative
+or takes things to the next level.
+
+368
+00:18:47,084 --> 00:18:49,628
+So every Go player
+studies his game for sure.
+
+369
+00:18:49,711 --> 00:18:50,921
+21ST ASIAN TV CUP CHAMPIONSHIP
+
+370
+00:18:51,004 --> 00:18:53,799
+Roughly for ten years, he dominated
+the professional Go world.
+
+371
+00:18:53,882 --> 00:18:55,968
+He won 18 World Championships.
+
+372
+00:18:56,051 --> 00:18:57,302
+Se-dol Lee
+
+373
+00:18:57,386 --> 00:18:59,054
+is a genius of the century.
+
+374
+00:18:59,138 --> 00:19:01,449
+2012 GO CHAMPIONSHIP AWARD CEREMONY
+AT GRAND CENTRAL HOTEL, CHINA
+
+375
+00:19:01,473 --> 00:19:05,394
+Even when I look back now,
+I am proud of him.
+
+376
+00:19:05,477 --> 00:19:08,522
+And I'm proud of myself, too.
+
+377
+00:19:09,148 --> 00:19:11,942
+Definitely, Se-dol Lee
+is going to win the game, five all.
+
+378
+00:19:12,025 --> 00:19:13,425
+IF YOU DESIRE TO WIN, YOU WILL LOSE
+
+379
+00:19:14,153 --> 00:19:15,571
+Yeah, all the games.
+
+380
+00:19:16,113 --> 00:19:17,531
+He's going to win all the games.
+
+381
+00:19:18,699 --> 00:19:21,368
+We had our evaluation match
+last week.
+
+382
+00:19:21,660 --> 00:19:23,579
+We won a game, and we lost a game.
+
+383
+00:19:23,662 --> 00:19:24,788
+And we lost a game in a way
+
+384
+00:19:24,872 --> 00:19:26,516
+that would have made us look
+extremely foolish
+
+385
+00:19:26,540 --> 00:19:28,125
+if that happened publicly.
+
+386
+00:19:28,917 --> 00:19:31,128
+It means that we still have work to do,
+
+387
+00:19:31,211 --> 00:19:32,856
+and we need to take this really seriously.
+
+388
+00:19:32,880 --> 00:19:35,215
+There's just too much risk that, actually,
+
+389
+00:19:35,299 --> 00:19:37,926
+we could lose, overall.
+
+390
+00:19:38,010 --> 00:19:41,638
+Not only that, but we could lose in a way
+that makes us look rather silly.
+
+391
+00:19:41,722 --> 00:19:43,307
+- Yeah.
+- So, I guess, um...
+
+392
+00:19:43,849 --> 00:19:46,244
+Yeah, Aja, did you want to say anything
+about what you're trying?
+
+393
+00:19:46,268 --> 00:19:47,644
+I'm working hard.
+
+394
+00:19:51,356 --> 00:19:53,317
+So, we're working round the clock
+at the moment,
+
+395
+00:19:53,400 --> 00:19:55,027
+training our algorithms further,
+
+396
+00:19:55,110 --> 00:19:57,112
+trying to incrementally keep on improving
+
+397
+00:19:57,196 --> 00:19:59,448
+right up to the moment
+where we have the match.
+
+398
+00:19:59,531 --> 00:20:00,866
+We have collected together
+
+399
+00:20:00,949 --> 00:20:03,452
+people with different skill sets
+onto the same team.
+
+400
+00:20:03,535 --> 00:20:07,456
+So we have researchers,
+engineers, valuation guys.
+
+401
+00:20:07,831 --> 00:20:09,809
+But you mean what happens
+if that creates something new
+
+402
+00:20:09,833 --> 00:20:11,501
+- which wasn't in heavy node?
+- Yeah.
+
+403
+00:20:12,044 --> 00:20:13,128
+Then we don't see it.
+
+404
+00:20:13,212 --> 00:20:14,254
+You'll see it.
+
+405
+00:20:14,338 --> 00:20:15,797
+- Okay.
+- The first thing to know...
+
+406
+00:20:15,881 --> 00:20:17,483
+I was thinking
+we have the perfect solution,
+
+407
+00:20:17,507 --> 00:20:19,218
+- but it's not perfect.
+- Yeah.
+
+408
+00:20:19,760 --> 00:20:24,431
+Aja is the lead programmer,
+and built the original search engine.
+
+409
+00:20:24,514 --> 00:20:26,516
+So Aja's responsibility
+is quite a big one.
+
+410
+00:20:26,600 --> 00:20:29,144
+He'll be the one sitting
+opposite Se-dol Lee
+
+411
+00:20:29,228 --> 00:20:32,606
+and actually playing
+the moves AlphaGo makes.
+
+412
+00:20:32,689 --> 00:20:34,691
+- I'm feeling excited.
+- Yeah?
+
+413
+00:20:36,401 --> 00:20:38,695
+Se-dol Lee is a great player,
+
+414
+00:20:38,779 --> 00:20:42,199
+and I feel honored to play with him.
+
+415
+00:20:42,866 --> 00:20:45,535
+Many of my friends,
+they are very excited about the match.
+
+416
+00:20:45,619 --> 00:20:48,914
+They keep telling me
+that the whole world is watching.
+
+417
+00:20:48,997 --> 00:20:51,083
+"Just prepare AlphaGo."
+
+418
+00:20:51,541 --> 00:20:52,542
+Hello.
+
+419
+00:20:52,626 --> 00:20:54,127
+Hello, Demis. Can you hear us?
+
+420
+00:20:54,211 --> 00:20:55,504
+Yes, I can hear you, guys.
+
+421
+00:20:55,587 --> 00:20:57,089
+Can you hear me okay?
+
+422
+00:20:57,172 --> 00:20:58,507
+Yes. Perfect.
+
+423
+00:20:58,590 --> 00:21:00,550
+"I was curious to meet you,
+
+424
+00:21:00,634 --> 00:21:02,803
+such an amazing developer
+
+425
+00:21:02,886 --> 00:21:04,846
+who made AlphaGo.
+
+426
+00:21:04,930 --> 00:21:06,306
+It's very nice to meet you."
+
+427
+00:21:06,390 --> 00:21:08,809
+Thank you, thank you. Likewise.
+
+428
+00:21:08,892 --> 00:21:11,395
+It's a real pleasure to meet you.
+
+429
+00:21:11,478 --> 00:21:14,147
+I love the game of Go. I'm not very good,
+
+430
+00:21:14,231 --> 00:21:16,775
+but I don't know if you know,
+
+431
+00:21:16,858 --> 00:21:19,111
+but we actually have something in common.
+
+432
+00:21:19,194 --> 00:21:22,572
+I actually also trained at a game
+at a young age.
+
+433
+00:21:22,656 --> 00:21:25,742
+I used to be, when I was young,
+a professional chess player.
+
+434
+00:21:25,826 --> 00:21:27,744
+He said that he was once
+
+435
+00:21:27,828 --> 00:21:28,888
+a professional chess player.
+
+436
+00:21:28,912 --> 00:21:32,082
+I used to play for the England team,
+
+437
+00:21:32,165 --> 00:21:36,086
+and then I stopped playing
+when I was about 14. I was...
+
+438
+00:21:36,169 --> 00:21:39,506
+When I was 13, I was the second
+highest-rated player in the world.
+
+439
+00:21:39,589 --> 00:21:40,924
+"After the match,
+
+440
+00:21:41,008 --> 00:21:44,761
+I would like to propose
+that I give you one teaching game of Go,
+
+441
+00:21:44,845 --> 00:21:47,347
+and you give me
+one teaching game of chess."
+
+442
+00:21:47,431 --> 00:21:48,974
+- Yeah.
+- "How does that sound?"
+
+443
+00:21:49,057 --> 00:21:52,561
+That sounds very good.
+I would be very honored to do that.
+
+444
+00:21:52,644 --> 00:21:56,523
+"I'm not sure if it's okay
+to ask you this question,
+
+445
+00:21:56,606 --> 00:21:59,192
+but I saw the games against Fan Hui,
+
+446
+00:21:59,276 --> 00:22:03,447
+and I didn't think it was quite
+at the level to play with me,
+
+447
+00:22:03,530 --> 00:22:06,700
+but I heard
+that it is getting really stronger.
+
+448
+00:22:06,783 --> 00:22:10,287
+Can I ask how much
+it got stronger since then?"
+
+449
+00:22:13,373 --> 00:22:16,585
+Yeah. I can't say too much, of course,
+
+450
+00:22:16,668 --> 00:22:20,172
+but it's definitely got
+significantly stronger.
+
+451
+00:22:21,757 --> 00:22:24,718
+With more time,
+I think, a logical approach
+
+452
+00:22:24,801 --> 00:22:27,929
+would be to follow up
+on Aja's local search,
+
+453
+00:22:28,013 --> 00:22:29,765
+- run that fast in AlphaGo,
+- Right.
+
+454
+00:22:29,848 --> 00:22:31,325
+- generate a whole new data set,
+- Exactly.
+
+455
+00:22:31,349 --> 00:22:33,018
+- and iterate more time.
+- Yeah.
+
+456
+00:22:33,101 --> 00:22:35,812
+But we're just out of time for that,
+so we have to be realistic.
+
+457
+00:22:35,896 --> 00:22:38,648
+We realized that
+if we wanted to prepare
+
+458
+00:22:38,732 --> 00:22:42,069
+for a mammoth task
+like taking on Se-dol Lee,
+
+459
+00:22:42,152 --> 00:22:45,405
+there would be nothing better
+than talking to a professional.
+
+460
+00:22:45,489 --> 00:22:48,200
+And we couldn't have picked
+a better person than Fan Hui.
+
+461
+00:22:51,661 --> 00:22:54,331
+We invited him as an advisor
+
+462
+00:22:54,414 --> 00:22:58,126
+because during the match,
+we realized he is a man of good spirit.
+
+463
+00:22:58,210 --> 00:22:59,961
+- Welcome back.
+- Thank you very much.
+
+464
+00:23:00,045 --> 00:23:02,506
+It's very precious
+that we have Fan Hui with us.
+
+465
+00:23:02,589 --> 00:23:03,757
+Let's go down this way.
+
+466
+00:23:05,383 --> 00:23:07,302
+He was crushed by AlphaGo,
+
+467
+00:23:07,385 --> 00:23:09,054
+but then, he became very positive
+
+468
+00:23:09,137 --> 00:23:10,847
+and was a big help to us.
+
+469
+00:23:11,973 --> 00:23:13,266
+When Demis told me,
+
+470
+00:23:13,350 --> 00:23:16,561
+"Can you come back to help us
+make AlphaGo stronger?"
+
+471
+00:23:17,646 --> 00:23:19,189
+I felt a sense of respect.
+
+472
+00:23:20,023 --> 00:23:22,025
+Of course, I accepted it.
+
+473
+00:23:24,152 --> 00:23:26,029
+I played with AlphaGo
+
+474
+00:23:26,113 --> 00:23:30,200
+to understand
+what AlphaGo's strong points are
+
+475
+00:23:30,283 --> 00:23:33,411
+and what may be its weakness.
+
+476
+00:23:34,329 --> 00:23:35,539
+I played in the morning,
+
+477
+00:23:36,123 --> 00:23:37,207
+in the afternoon,
+
+478
+00:23:38,333 --> 00:23:39,333
+all the time.
+
+479
+00:23:40,710 --> 00:23:42,295
+And I found something.
+
+480
+00:23:43,380 --> 00:23:46,258
+I found AlphaGo's big weakness.
+
+481
+00:23:46,925 --> 00:23:48,135
+It was a big one.
+
+482
+00:23:48,927 --> 00:23:50,345
+The superheroes always have
+
+483
+00:23:50,428 --> 00:23:52,389
+a hidden vulnerability, right?
+
+484
+00:23:52,472 --> 00:23:54,766
+And the same is true for AlphaGo.
+
+485
+00:23:54,850 --> 00:23:59,146
+It's unbelievably superhuman, in general,
+
+486
+00:23:59,229 --> 00:24:03,108
+but it has some particular weaknesses
+in some situations.
+
+487
+00:24:03,191 --> 00:24:04,818
+We can think of there
+being this space
+
+488
+00:24:04,901 --> 00:24:06,278
+of all the things it knows about,
+
+489
+00:24:06,361 --> 00:24:08,572
+and it knows about most of it
+extremely well.
+
+490
+00:24:08,655 --> 00:24:11,116
+Then there will be these tricky lumps
+of knowledge,
+
+491
+00:24:11,199 --> 00:24:13,910
+that it just understands very poorly.
+
+492
+00:24:13,994 --> 00:24:16,079
+And it's really hard for us
+to characterize
+
+493
+00:24:16,163 --> 00:24:18,206
+when it is going to enter
+into one of these lumps.
+
+494
+00:24:18,290 --> 00:24:20,542
+But if it does,
+it can be completely delusional,
+
+495
+00:24:20,625 --> 00:24:22,520
+thinking that it is alive
+on one part of the board
+
+496
+00:24:22,544 --> 00:24:24,546
+when, in fact, it's dead or vice versa.
+
+497
+00:24:25,005 --> 00:24:27,716
+So, there is a real risk
+that we could lose the match.
+
+498
+00:24:28,884 --> 00:24:30,552
+Everybody in the team
+
+499
+00:24:30,635 --> 00:24:33,513
+tried to work more and more
+to fix the problem,
+
+500
+00:24:33,597 --> 00:24:35,974
+but I thought it was difficult
+
+501
+00:24:36,057 --> 00:24:37,934
+for it to be fixed very quickly.
+
+502
+00:24:38,018 --> 00:24:40,520
+We've got version 18
+in the pipeline, haven't we?
+
+503
+00:24:41,062 --> 00:24:42,942
+Well, we will only go
+for version 18 if it makes
+
+504
+00:24:43,023 --> 00:24:45,108
+- a significant improvement which...
+- If it... Yes.
+
+505
+00:24:45,650 --> 00:24:49,112
+We're having to rerun all the tests
+because they went wrong, unfortunately,
+
+506
+00:24:49,196 --> 00:24:52,782
+so we're basically a day behind
+in our evaluation because of that.
+
+507
+00:24:53,325 --> 00:24:55,076
+Well, maybe we just need
+to be realistic.
+
+508
+00:24:55,160 --> 00:24:56,912
+That we've tried a bunch of things,
+
+509
+00:24:56,995 --> 00:24:59,315
+and we've come to the point
+where we said we would actually
+
+510
+00:24:59,372 --> 00:25:02,167
+start freezing the code, and saying,
+
+511
+00:25:02,250 --> 00:25:03,293
+"Look, it's...
+
+512
+00:25:04,419 --> 00:25:06,630
+not... actually, not panning out."
+
+513
+00:25:07,047 --> 00:25:10,842
+These delusions are still
+a realistic possibility for the match.
+
+514
+00:25:10,926 --> 00:25:12,510
+We have some weaknesses
+
+515
+00:25:12,594 --> 00:25:17,265
+that we... I don't think we are going
+to fix fully before the match,
+
+516
+00:25:17,349 --> 00:25:20,518
+so that's causing us
+a little bit of anxiety.
+
+517
+00:25:26,441 --> 00:25:29,194
+Se-dol Lee is getting ready to rumble.
+
+518
+00:25:29,277 --> 00:25:31,446
+On Wednesday, live across the Internet,
+
+519
+00:25:31,529 --> 00:25:33,865
+this professional South Korean Go player
+
+520
+00:25:33,949 --> 00:25:37,202
+will take on artificial intelligence
+program AlphaGo.
+
+521
+00:25:37,285 --> 00:25:42,249
+I am confident
+that I will win five to zero.
+
+522
+00:25:43,458 --> 00:25:46,503
+Tomorrow, Julian and George,
+they pack up version 18,
+
+523
+00:25:46,586 --> 00:25:49,047
+they stick it on a laptop,
+and they fly out to Seoul.
+
+524
+00:25:53,301 --> 00:25:54,803
+- See you all in Korea.
+- Safe trip.
+
+525
+00:25:54,886 --> 00:25:56,246
+- Have a safe trip.
+- See you, too.
+
+526
+00:26:07,983 --> 00:26:11,444
+Is everything all set
+for the victory against Se-dol Lee?
+
+527
+00:26:11,528 --> 00:26:12,612
+Everything is set, I think.
+
+528
+00:26:12,696 --> 00:26:15,615
+But when I get to the hotel,
+I'm going to catch up with the team.
+
+529
+00:26:15,699 --> 00:26:17,367
+What we should do
+in the time remaining
+
+530
+00:26:17,450 --> 00:26:21,579
+is list things that could go wrong
+in the solidity of the system.
+
+531
+00:26:21,663 --> 00:26:25,041
+We need somewhere
+to put AlphaGo under here.
+
+532
+00:26:25,125 --> 00:26:27,377
+All right, rehearsal.
+Let's go, please, folks!
+
+533
+00:26:28,003 --> 00:26:29,379
+Have you arranged the place
+
+534
+00:26:29,462 --> 00:26:30,922
+for Se-dol Lee to smoke?
+
+535
+00:26:31,006 --> 00:26:33,166
+When he is in a difficult situation,
+he likes to smoke.
+
+536
+00:26:33,216 --> 00:26:35,844
+Yes, there is a terrace,
+and we will have security,
+
+537
+00:26:35,927 --> 00:26:38,013
+so he will be able to go up there
+and be by himself.
+
+538
+00:26:38,096 --> 00:26:40,348
+Which one do you support,
+
+539
+00:26:40,432 --> 00:26:42,142
+Se-dol Lee or AlphaGo?
+
+540
+00:26:43,268 --> 00:26:44,853
+I am in an awkward position.
+
+541
+00:26:44,936 --> 00:26:46,855
+- As you can see, I am a referee.
+- I see.
+
+542
+00:26:46,938 --> 00:26:48,189
+I am a referee.
+
+543
+00:26:49,441 --> 00:26:50,692
+When I got here,
+
+544
+00:26:50,775 --> 00:26:52,485
+I didn't expect
+the attention on the match.
+
+545
+00:26:52,569 --> 00:26:54,487
+It was literally front-page news.
+
+546
+00:26:54,571 --> 00:26:57,866
+About eight million Koreans
+play the game of Go,
+
+547
+00:26:57,949 --> 00:27:00,452
+and, even those who don't,
+you know, recognize Se-dol Lee.
+
+548
+00:27:00,535 --> 00:27:02,037
+He is a national figure.
+
+549
+00:27:02,704 --> 00:27:03,955
+And so, there's that. Right?
+
+550
+00:27:04,039 --> 00:27:05,582
+There's some national pride involved.
+
+551
+00:27:05,665 --> 00:27:07,167
+But, it's more than that.
+
+552
+00:27:07,250 --> 00:27:11,713
+Just the very thought of a machine
+playing a human in something like this,
+
+553
+00:27:11,796 --> 00:27:13,882
+I think, is inherently intriguing
+to people.
+
+554
+00:27:14,883 --> 00:27:16,134
+We can bring him in?
+
+555
+00:27:16,968 --> 00:27:18,219
+Let's go in? Yes.
+
+556
+00:27:29,022 --> 00:27:31,483
+I am confident about the match.
+
+557
+00:27:31,566 --> 00:27:35,987
+I believe that human intuition
+is still too advanced
+
+558
+00:27:36,863 --> 00:27:40,825
+for AI to have caught up.
+
+559
+00:27:41,326 --> 00:27:45,747
+I'm going to do my best
+to protect human intelligence.
+
+560
+00:27:47,499 --> 00:27:49,834
+The whole world put pressure
+
+561
+00:27:49,918 --> 00:27:51,086
+to Se-dol Lee.
+
+562
+00:27:51,920 --> 00:27:56,091
+Before this, he played the tournament
+for his country, for himself.
+
+563
+00:27:56,674 --> 00:27:58,927
+But this time,
+he's playing for the human race.
+
+564
+00:28:07,936 --> 00:28:09,896
+I just really hope we win
+this first game.
+
+565
+00:28:09,979 --> 00:28:11,040
+If you lose the first game,
+
+566
+00:28:11,064 --> 00:28:12,708
+you literally have to win
+three out of four.
+
+567
+00:28:12,732 --> 00:28:13,732
+Yeah, that's right.
+
+568
+00:28:13,775 --> 00:28:15,276
+- Which is hard work.
+- Yeah.
+
+569
+00:28:15,360 --> 00:28:16,400
+Where are you going to be?
+
+570
+00:28:16,444 --> 00:28:17,838
+- I'll start in the match room.
+- Okay.
+
+571
+00:28:17,862 --> 00:28:19,924
+Then, I'm gonna come in here,
+make sure everything's fine.
+
+572
+00:28:19,948 --> 00:28:22,508
+- Yeah, you should probably be in here.
+- Or something like that.
+
+573
+00:28:25,745 --> 00:28:28,039
+- I know you're nervous.
+- Yeah, I'm nervous.
+
+574
+00:28:28,790 --> 00:28:29,874
+I'm nervous.
+
+575
+00:28:31,334 --> 00:28:32,603
+How are you? You're not nervous?
+
+576
+00:28:32,627 --> 00:28:34,212
+- A bit.
+- Little bit, yeah?
+
+577
+00:28:34,295 --> 00:28:36,089
+It's good to have a little bit of nerves.
+
+578
+00:28:38,133 --> 00:28:40,135
+It should be fine.
+
+579
+00:28:41,219 --> 00:28:42,470
+Be fine. Be fine.
+
+580
+00:28:42,971 --> 00:28:46,433
+Hello, and welcome
+to the DeepMind Challenge,
+
+581
+00:28:46,516 --> 00:28:48,685
+Game One, Round One,
+
+582
+00:28:48,768 --> 00:28:52,272
+live from the Four Seasons
+here in Seoul, Korea.
+
+583
+00:28:52,355 --> 00:28:55,233
+I'm Chris Garlock
+of The American Go E-Journal.
+
+584
+00:28:55,316 --> 00:28:58,445
+I'm here with Michael Redmond,
+9-dan professional.
+
+585
+00:28:58,528 --> 00:28:59,528
+Welcome, Michael.
+
+586
+00:28:59,571 --> 00:29:03,700
+Want to give a shout-out to all the folks
+watching around the world?
+
+587
+00:29:03,783 --> 00:29:06,453
+Well, the excitement
+is pretty palpable here in the hotel.
+
+588
+00:29:06,536 --> 00:29:10,206
+I've never seen a crush of interest
+of reporters from around the world.
+
+589
+00:29:10,290 --> 00:29:12,050
+- The cameras...
+- The media is overwhelming.
+
+590
+00:29:12,125 --> 00:29:13,918
+I am not sure how much AlphaGo
+
+591
+00:29:14,002 --> 00:29:17,714
+has changed in the last five months.
+
+592
+00:29:17,797 --> 00:29:20,216
+All right, folks. You're here,
+you're gonna see history made.
+
+593
+00:29:20,300 --> 00:29:21,300
+Stay with us.
+
+594
+00:29:21,468 --> 00:29:24,262
+Five minutes, guys. Five minutes.
+
+595
+00:29:29,851 --> 00:29:32,645
+Please don't push.
+
+596
+00:29:32,729 --> 00:29:34,272
+I just thought we should
+
+597
+00:29:34,355 --> 00:29:39,819
+take a moment together and just think
+about what is about to happen.
+
+598
+00:29:39,903 --> 00:29:41,488
+I'm extremely excited to be here.
+
+599
+00:29:41,571 --> 00:29:44,574
+Extremely proud of every one of you
+and what we have done.
+
+600
+00:29:44,657 --> 00:29:47,160
+And, win or loss, I think
+it is just amazing that we're here.
+
+601
+00:29:47,243 --> 00:29:49,621
+Isn't it strange your dad
+
+602
+00:29:49,704 --> 00:29:50,904
+is fighting against a machine?
+
+603
+00:29:52,373 --> 00:29:54,876
+I would like it if the machine
+
+604
+00:29:54,959 --> 00:29:56,795
+did not beat a human in Go yet.
+
+605
+00:29:59,005 --> 00:30:00,173
+One minute left.
+
+606
+00:30:45,176 --> 00:30:48,304
+Five, four, three, two, one.
+
+607
+00:30:53,977 --> 00:30:55,436
+The match will be
+
+608
+00:30:55,520 --> 00:30:57,689
+in Chinese rules, 7.5 points komi.
+
+609
+00:30:57,981 --> 00:31:01,192
+The time limit is two hours,
+and 60 seconds times three.
+
+610
+00:31:24,132 --> 00:31:25,842
+Please choose the stone.
+
+611
+00:31:27,176 --> 00:31:29,262
+Se-dol Lee, 9 dan, what have you chosen?
+
+612
+00:31:30,555 --> 00:31:31,555
+Black.
+
+613
+00:31:32,348 --> 00:31:34,142
+Please start the game.
+
+614
+00:31:59,042 --> 00:32:00,543
+We had worked so hard
+
+615
+00:32:00,627 --> 00:32:04,380
+to make sure that this would go
+technically smoothly.
+
+616
+00:32:04,756 --> 00:32:07,342
+We tested it and tested it and tested it.
+
+617
+00:32:08,009 --> 00:32:12,639
+And still, there comes that moment
+when you're live,
+
+618
+00:32:12,722 --> 00:32:15,850
+all the TV cameras
+are broadcasting everything,
+
+619
+00:32:15,934 --> 00:32:19,062
+and now it has to do
+the thing you built it to do.
+
+620
+00:32:20,521 --> 00:32:22,732
+AlphaGo is even considering
+
+621
+00:32:22,815 --> 00:32:24,317
+what to do from the first step.
+
+622
+00:32:24,400 --> 00:32:26,486
+If you look at the time closely,
+
+623
+00:32:26,569 --> 00:32:27,963
+- it has been over 30 seconds.
+- Yes.
+
+624
+00:32:27,987 --> 00:32:30,156
+AlphaGo is thinking too long
+at the second move.
+
+625
+00:32:30,239 --> 00:32:31,239
+Yes.
+
+626
+00:33:08,695 --> 00:33:10,363
+I was a bit nervous.
+
+627
+00:33:10,446 --> 00:33:15,535
+It's the first time that I sat
+in front of a world-class Go player.
+
+628
+00:33:16,369 --> 00:33:19,580
+And I actually felt
+the spirit and courtesy
+
+629
+00:33:19,664 --> 00:33:22,250
+of a great Go player like Se-dol Lee.
+
+630
+00:33:22,750 --> 00:33:25,670
+Because I think
+it was the first time he faced
+
+631
+00:33:25,753 --> 00:33:27,463
+a strange opponent, I think.
+
+632
+00:33:27,547 --> 00:33:30,967
+It is non-human,
+has no emotion, it's cold.
+
+633
+00:33:31,509 --> 00:33:33,511
+But he stayed very calm.
+
+634
+00:33:34,095 --> 00:33:37,432
+And I can feel his mental strength.
+
+635
+00:33:50,903 --> 00:33:51,946
+Oh.
+
+636
+00:33:52,071 --> 00:33:53,573
+AlphaGo peeped.
+
+637
+00:33:54,615 --> 00:33:56,701
+It's unbelievable.
+
+638
+00:33:57,493 --> 00:33:59,829
+This is the first time
+
+639
+00:33:59,912 --> 00:34:01,748
+I am seeing AlphaGo
+making a move like this.
+
+640
+00:34:01,831 --> 00:34:04,417
+It feels like AlphaGo is playing
+like a human.
+
+641
+00:34:04,500 --> 00:34:05,626
+I'm Andrew Jackson.
+
+642
+00:34:05,710 --> 00:34:09,297
+With me here is Myung-wan Kim, a 9-dan pro
+from the Korean Baduk Association.
+
+643
+00:34:09,380 --> 00:34:11,799
+We are here live at the Four Seasons Hotel
+
+644
+00:34:11,883 --> 00:34:12,967
+on the 21st floor.
+
+645
+00:34:13,176 --> 00:34:15,136
+What are we looking at?
+How's the game going?
+
+646
+00:34:16,387 --> 00:34:18,347
+Oh, it's fighting from the beginning.
+
+647
+00:34:18,431 --> 00:34:20,516
+- From the very beginning?
+- Yeah, yeah.
+
+648
+00:34:20,600 --> 00:34:23,019
+- AlphaGo is playing very well.
+- Yeah?
+
+649
+00:34:23,102 --> 00:34:26,481
+- It's just like a top professional.
+- Just like a top professional?
+
+650
+00:34:26,564 --> 00:34:28,316
+Yeah, it's very aggressive.
+
+651
+00:34:30,359 --> 00:34:31,736
+- It blocked!
+- Did it block?
+
+652
+00:34:32,737 --> 00:34:34,781
+How dare he disconnect it?
+
+653
+00:34:35,448 --> 00:34:37,909
+This can't be right.
+
+654
+00:34:37,992 --> 00:34:40,203
+Now, the fight is getting
+really complicated.
+
+655
+00:34:40,286 --> 00:34:43,372
+Um, this is actually the first time
+I have seen AlphaGo
+
+656
+00:34:43,998 --> 00:34:47,335
+playing a game
+that has this difficult fight.
+
+657
+00:34:52,048 --> 00:34:53,466
+This could make
+
+658
+00:34:53,549 --> 00:34:54,884
+Se-dol Lee nervous.
+
+659
+00:34:55,343 --> 00:34:58,221
+Because AlphaGo uses one minute
+to 1.5 minutes in any situation.
+
+660
+00:34:59,013 --> 00:35:02,558
+This action is not like a human at all.
+
+661
+00:35:03,559 --> 00:35:05,520
+No matter how complex you make the game,
+
+662
+00:35:05,603 --> 00:35:07,483
+AlphaGo plays as if it knows
+everything already.
+
+663
+00:35:09,899 --> 00:35:12,235
+I just saw him looking
+at his opponent's face.
+
+664
+00:35:12,485 --> 00:35:15,363
+- And that's just kind of a habit.
+- It's just an instinct,
+
+665
+00:35:15,571 --> 00:35:17,549
+as a player, to look at the person
+across from you.
+
+666
+00:35:17,573 --> 00:35:21,661
+Yeah, it's sort of something
+that Se-dol Lee would do
+
+667
+00:35:21,744 --> 00:35:23,871
+when he was wondering
+how his opponent was feeling.
+
+668
+00:35:23,955 --> 00:35:25,957
+- Right.
+- It's just a habit.
+
+669
+00:35:26,040 --> 00:35:29,544
+So, it's not as if Aja Huang
+is going to do any giveaway
+
+670
+00:35:29,627 --> 00:35:32,505
+- because Aja Huang isn't AlphaGo, right?
+- Right. Right.
+
+671
+00:35:41,472 --> 00:35:42,682
+He almost made a move.
+
+672
+00:35:42,765 --> 00:35:44,433
+Lee smiled for a second.
+
+673
+00:35:44,517 --> 00:35:46,727
+- No. That's...
+- I guess Lee is mistaken?
+
+674
+00:35:46,811 --> 00:35:48,980
+He was about to make a move
+that makes no sense.
+
+675
+00:35:49,063 --> 00:35:51,065
+- Here is the...
+- What is he doing?
+
+676
+00:35:52,275 --> 00:35:54,586
+If he had put his stone there,
+he would have lost the game today.
+
+677
+00:35:54,610 --> 00:35:57,405
+- He was trying to place it here,
+- His hand...
+
+678
+00:35:57,488 --> 00:35:59,365
+but he moved his hand there
+without thinking.
+
+679
+00:35:59,448 --> 00:36:01,701
+- He has so many things to ponder.
+- Well, I think...
+
+680
+00:36:03,119 --> 00:36:04,745
+He is exhausted now.
+
+681
+00:36:05,079 --> 00:36:06,414
+- I think...
+- Well...
+
+682
+00:36:07,331 --> 00:36:08,583
+He looks a little panicked.
+
+683
+00:36:10,418 --> 00:36:13,588
+This is the thing
+we were most afraid of.
+
+684
+00:36:13,671 --> 00:36:14,671
+Yes.
+
+685
+00:36:14,714 --> 00:36:16,299
+- Self-doubt.
+- Self-doubt.
+
+686
+00:36:28,519 --> 00:36:30,146
+With a human, when you play,
+
+687
+00:36:30,229 --> 00:36:32,523
+you can have an exchange, by feeling.
+
+688
+00:36:33,149 --> 00:36:36,986
+I look at you. I know that, okay,
+maybe you want to talk with me.
+
+689
+00:36:37,403 --> 00:36:38,988
+Maybe you fear me.
+
+690
+00:36:39,071 --> 00:36:40,781
+I can feel many, many things.
+
+691
+00:36:40,865 --> 00:36:43,659
+But with AlphaGo, you can feel nothing.
+
+692
+00:36:45,077 --> 00:36:47,914
+So, when you feel nothing when you play,
+
+693
+00:36:47,997 --> 00:36:50,791
+you have more questions to yourself.
+
+694
+00:36:51,417 --> 00:36:53,586
+In the beginning, you think,
+"Okay, my move was good.
+
+695
+00:36:53,669 --> 00:36:56,589
+Is it really good? Really good?
+
+696
+00:36:56,923 --> 00:36:57,924
+Oh, maybe it's bad.
+
+697
+00:36:58,007 --> 00:36:59,258
+Oh, terrible!
+
+698
+00:36:59,342 --> 00:37:00,676
+Why did I put it here?"
+
+699
+00:37:00,760 --> 00:37:01,886
+More and more.
+
+700
+00:37:02,929 --> 00:37:04,263
+It's hard to know where to be.
+
+701
+00:37:04,347 --> 00:37:06,617
+All the different rooms
+are like exciting in different ways.
+
+702
+00:37:06,641 --> 00:37:08,309
+Mm-hm. Right.
+
+703
+00:37:08,392 --> 00:37:11,145
+It's quite nice to be here
+at the heart of the operation.
+
+704
+00:37:11,229 --> 00:37:12,813
+Yeah, I feel safe here.
+
+705
+00:37:14,899 --> 00:37:16,943
+White is thinking of doing
+this huge invasion here
+
+706
+00:37:17,026 --> 00:37:18,069
+from its thick wall.
+
+707
+00:37:19,070 --> 00:37:20,154
+Yes, go for it.
+
+708
+00:37:20,905 --> 00:37:23,074
+Stone in. He's going in.
+
+709
+00:37:23,491 --> 00:37:25,251
+- Look at his face. Look at his face.
+- Yeah.
+
+710
+00:37:26,953 --> 00:37:28,454
+That is not a confident face.
+
+711
+00:37:28,829 --> 00:37:31,082
+He's pretty horrified by that.
+
+712
+00:37:31,624 --> 00:37:34,210
+I can't believe
+what I'm seeing right now.
+
+713
+00:37:34,293 --> 00:37:35,503
+Really...
+
+714
+00:37:35,962 --> 00:37:39,298
+- Se-dol, he's a little bit behind.
+- Mm-hm.
+
+715
+00:37:39,382 --> 00:37:41,592
+- And he made a very aggressive move here.
+- Okay.
+
+716
+00:37:41,676 --> 00:37:43,052
+And made it very complicated.
+
+717
+00:37:43,135 --> 00:37:44,804
+- Okay.
+- I think Se-dol Lee,
+
+718
+00:37:44,887 --> 00:37:47,306
+- if he doesn't respond correctly,
+- Uh-huh.
+
+719
+00:37:47,390 --> 00:37:49,267
+then he can collapse.
+
+720
+00:37:50,977 --> 00:37:55,106
+I mean, this is kind of unthinkable
+as a human Go player.
+
+721
+00:37:55,564 --> 00:37:57,441
+What if it knows everything
+
+722
+00:37:57,525 --> 00:37:59,193
+about what's going to happen next?
+
+723
+00:37:59,277 --> 00:38:00,194
+Where are we?
+
+724
+00:38:00,278 --> 00:38:04,532
+Here's our search depth,
+we're searching, 50 or 60 moves ahead.
+
+725
+00:38:05,074 --> 00:38:07,368
+That's the maximum number
+of moves ahead
+
+726
+00:38:07,451 --> 00:38:10,871
+that AlphaGo is looking
+from the current game position.
+
+727
+00:38:10,955 --> 00:38:15,209
+It's typically over 50.
+It's often over 60.
+
+728
+00:38:16,043 --> 00:38:19,630
+In the games we have seen,
+often around move 150,
+
+729
+00:38:19,714 --> 00:38:21,215
+AlphaGo goes for the kill.
+
+730
+00:38:21,299 --> 00:38:24,719
+We are at move 150 now,
+so we are getting to that tactical point.
+
+731
+00:38:28,347 --> 00:38:30,057
+We are all astonished,
+
+732
+00:38:30,725 --> 00:38:35,354
+just in the middle of the game
+because AlphaGo is, uh...
+
+733
+00:38:35,438 --> 00:38:38,941
+It seems to be doing a much better job
+than we all thought it would.
+
+734
+00:38:39,442 --> 00:38:43,946
+I thought Se-dol Lee would be leading
+the game comfortably,
+
+735
+00:38:44,030 --> 00:38:46,949
+but it turned out that he's struggling
+at the moment.
+
+736
+00:38:47,283 --> 00:38:50,578
+But, I think, eventually,
+he will prevail. I hope.
+
+737
+00:38:51,120 --> 00:38:54,123
+I was, you know, more five to zero,
+
+738
+00:38:55,041 --> 00:38:57,543
+but now, I'm not sure about that.
+
+739
+00:39:01,881 --> 00:39:03,215
+What is this?
+
+740
+00:39:03,674 --> 00:39:04,967
+AlphaGo made a mistake.
+
+741
+00:39:06,052 --> 00:39:07,172
+AlphaGo made a mistake here.
+
+742
+00:39:07,470 --> 00:39:09,096
+What a mistake.
+
+743
+00:39:09,180 --> 00:39:11,265
+It might be the first mistake,
+
+744
+00:39:11,640 --> 00:39:15,227
+kind of a clear mistake that white made.
+
+745
+00:39:15,603 --> 00:39:19,523
+AlphaGo is making mistakes
+at the endgame from time to time.
+
+746
+00:39:20,358 --> 00:39:23,402
+If AlphaGo wins
+by a small difference in the end,
+
+747
+00:39:23,861 --> 00:39:26,572
+it is possible that it played
+just enough to win.
+
+748
+00:39:27,239 --> 00:39:29,367
+The reason I stopped talking a minute ago
+
+749
+00:39:29,450 --> 00:39:32,370
+was that according to my count,
+AlphaGo may have more points.
+
+750
+00:39:33,371 --> 00:39:35,539
+I didn't tell you
+because I couldn't believe it.
+
+751
+00:39:35,623 --> 00:39:37,208
+It seems like a mistake,
+
+752
+00:39:37,291 --> 00:39:39,728
+but because it's based on calculation,
+it's actually not a mistake.
+
+753
+00:39:39,752 --> 00:39:40,878
+Yes, yes.
+
+754
+00:39:41,253 --> 00:39:43,589
+So if it's actually based
+on calculation...
+
+755
+00:39:44,590 --> 00:39:46,717
+it is so scary.
+
+756
+00:39:46,801 --> 00:39:50,137
+It means it's just playing
+with its opponent.
+
+757
+00:39:50,221 --> 00:39:52,061
+Myung-wan, it looks like
+you have got to count.
+
+758
+00:39:52,390 --> 00:39:53,474
+Yeah, right.
+
+759
+00:39:53,557 --> 00:39:55,935
+- What do you think? Yeah.
+- It's done. Yes.
+
+760
+00:39:56,018 --> 00:39:58,396
+White won a lot at this time.
+It looks like it.
+
+761
+00:39:58,479 --> 00:40:00,272
+If it's like this, white has won by a lot.
+
+762
+00:40:00,356 --> 00:40:01,190
+Yeah.
+
+763
+00:40:01,273 --> 00:40:02,900
+Two, three. I can't believe it.
+
+764
+00:40:03,317 --> 00:40:06,112
+Thirty-six, thirty-seven...
+
+765
+00:40:06,195 --> 00:40:07,196
+Seventy-two.
+
+766
+00:40:08,781 --> 00:40:09,949
+He lost.
+
+767
+00:40:11,367 --> 00:40:12,368
+He lost.
+
+768
+00:40:13,160 --> 00:40:14,829
+Whoa, it's so shocking.
+
+769
+00:40:14,912 --> 00:40:18,916
+I... I expected AlphaGo
+to win only one game.
+
+770
+00:40:24,296 --> 00:40:25,297
+Oh, gosh.
+
+771
+00:40:32,596 --> 00:40:36,267
+I can feel his pain. Like he was...
+
+772
+00:40:36,350 --> 00:40:39,103
+He couldn't believe, you know.
+He couldn't accept it.
+
+773
+00:40:39,186 --> 00:40:42,648
+It took him some time
+to accept the outcome.
+
+774
+00:40:44,733 --> 00:40:47,194
+Maybe AlphaGo is very strong now,
+
+775
+00:40:47,278 --> 00:40:49,989
+but he did not want
+to believe he will lose.
+
+776
+00:40:50,573 --> 00:40:52,199
+And as Go professional players,
+
+777
+00:40:52,283 --> 00:40:54,160
+we can't believe this,
+
+778
+00:40:54,243 --> 00:40:59,206
+because, for us,
+it's something unimaginable.
+
+779
+00:40:59,290 --> 00:41:02,543
+It's not something that can happen now.
+It's impossible.
+
+780
+00:41:03,085 --> 00:41:04,879
+But, in reality...
+
+781
+00:41:05,671 --> 00:41:06,714
+it is happening now.
+
+782
+00:41:08,257 --> 00:41:10,759
+I think he resigned
+in a very polite way.
+
+783
+00:41:11,677 --> 00:41:14,305
+Se-dol Lee plays black,
+but he put a white stone.
+
+784
+00:41:22,855 --> 00:41:24,190
+I think he resigned.
+
+785
+00:41:26,484 --> 00:41:27,526
+Oh, my gosh.
+
+786
+00:41:29,820 --> 00:41:31,322
+- Look at the time. It's slow.
+- Yeah.
+
+787
+00:41:31,405 --> 00:41:32,448
+Wow.
+
+788
+00:41:40,581 --> 00:41:41,581
+You got this.
+
+789
+00:41:42,166 --> 00:41:43,834
+- Congratulations.
+- Hey.
+
+790
+00:41:44,126 --> 00:41:45,126
+What's up?
+
+791
+00:41:46,504 --> 00:41:51,008
+I feel really good.
+I feel like I really believe in AlphaGo.
+
+792
+00:41:51,717 --> 00:41:54,136
+Of course, it's natural that humans
+want humans to win.
+
+793
+00:41:54,220 --> 00:41:56,180
+I mean, I think that's a natural response.
+
+794
+00:41:56,263 --> 00:41:58,015
+But AlphaGo is human-created,
+
+795
+00:41:58,098 --> 00:42:01,602
+and I think that's the ultimate sign
+of human ingenuity and cleverness.
+
+796
+00:42:01,977 --> 00:42:03,812
+Everything that AlphaGo does,
+
+797
+00:42:03,896 --> 00:42:07,983
+it does, because a human has either
+created the data that it learns from,
+
+798
+00:42:08,067 --> 00:42:10,903
+created the learning algorithm
+that learns from that data,
+
+799
+00:42:10,986 --> 00:42:12,446
+created the search algorithm.
+
+800
+00:42:12,530 --> 00:42:15,574
+All of these things have come from humans.
+
+801
+00:42:15,658 --> 00:42:18,536
+So, really, this is a human endeavor.
+
+802
+00:42:33,092 --> 00:42:35,261
+In the battle
+between man versus machine,
+
+803
+00:42:35,344 --> 00:42:36,929
+a computer just came out the victor.
+
+804
+00:42:37,012 --> 00:42:39,765
+DeepMind put
+its computer program to the test
+
+805
+00:42:39,848 --> 00:42:42,643
+against one of the brightest minds
+in the world and won.
+
+806
+00:42:42,726 --> 00:42:45,020
+AlphaGo beat
+a professional player
+
+807
+00:42:45,104 --> 00:42:48,482
+who has 18 Go World Championships
+under his belt.
+
+808
+00:42:48,566 --> 00:42:52,194
+The victory is considered a breakthrough
+in artificial intelligence.
+
+809
+00:42:54,196 --> 00:42:56,323
+First of all,
+
+810
+00:42:56,407 --> 00:42:58,093
+I would have to say
+that I was very surprised,
+
+811
+00:42:58,117 --> 00:43:01,620
+because I didn't think
+that I would lose the game.
+
+812
+00:43:02,705 --> 00:43:05,457
+I think the mistakes I made
+in the beginning
+
+813
+00:43:05,541 --> 00:43:07,376
+lasted until the very end.
+
+814
+00:43:07,459 --> 00:43:09,420
+That's why I lost this game.
+
+815
+00:43:09,795 --> 00:43:12,006
+I wasn't able to foresee.
+
+816
+00:43:12,089 --> 00:43:15,593
+I didn't think that AlphaGo would
+play the game in such a perfect manner.
+
+817
+00:43:15,676 --> 00:43:21,974
+I have won world championship titles
+and have a lot of experience,
+
+818
+00:43:22,057 --> 00:43:27,229
+so losing one game won't affect me
+in playing games in the future.
+
+819
+00:43:27,313 --> 00:43:31,483
+I think now it's 50/50.
+
+820
+00:43:31,984 --> 00:43:37,197
+I would like to express
+my respect to the team
+
+821
+00:43:37,281 --> 00:43:41,744
+for developing such an amazing program
+
+822
+00:43:41,827 --> 00:43:43,454
+like AlphaGo.
+
+823
+00:43:45,664 --> 00:43:46,790
+In research,
+
+824
+00:43:46,874 --> 00:43:49,710
+we normally work
+to produce an academic paper.
+
+825
+00:43:49,793 --> 00:43:51,813
+It gets published,
+and maybe we get to talk about it
+
+826
+00:43:51,837 --> 00:43:53,297
+in a conference if we're lucky.
+
+827
+00:43:55,215 --> 00:43:57,092
+This is not normal for a research.
+
+828
+00:43:57,176 --> 00:44:01,764
+In fact, I've never experienced any
+media attention remotely close to this.
+
+829
+00:44:01,847 --> 00:44:06,101
+So, it's a special moment for us all,
+and we're just enjoying it while it lasts.
+
+830
+00:44:11,690 --> 00:44:14,818
+In a matchup between
+man and machine, who wins?
+
+831
+00:44:14,902 --> 00:44:16,612
+So far, it's the machine.
+
+832
+00:44:16,695 --> 00:44:20,324
+In Seoul, South Korea,
+the artificially intelligent computer
+
+833
+00:44:20,407 --> 00:44:25,162
+defeated the global champion
+in the ancient Chinese board game Go.
+
+834
+00:44:25,245 --> 00:44:26,514
+AlphaGo Shock
+AI Shocked the World
+
+835
+00:44:26,538 --> 00:44:30,000
+Se-dol Lee lost the first matchup,
+but he's got four more chances.
+
+836
+00:44:30,376 --> 00:44:31,669
+This is the team
+
+837
+00:44:31,752 --> 00:44:35,255
+that played Go with Se-dol Lee.
+
+838
+00:44:35,339 --> 00:44:36,840
+We got our newspapers.
+
+839
+00:44:36,924 --> 00:44:39,284
+But we are not responsible.
+It's just the man in the beanie.
+
+840
+00:44:42,221 --> 00:44:43,055
+Sorry.
+
+841
+00:44:43,138 --> 00:44:45,182
+AI Defeats Human Brain
+
+842
+00:44:45,265 --> 00:44:47,309
+It is a bit strange
+being on the front cover
+
+843
+00:44:47,393 --> 00:44:49,478
+and everything as a computer scientist.
+
+844
+00:44:49,561 --> 00:44:51,939
+Normally, you sit there
+in your corner and you code.
+
+845
+00:44:52,022 --> 00:44:53,649
+Nobody really knows about it.
+
+846
+00:44:53,732 --> 00:44:54,918
+Perhaps you've heard the joke,
+
+847
+00:44:54,942 --> 00:44:57,069
+"How can you tell
+that a computer scientist
+
+848
+00:44:57,152 --> 00:44:59,405
+is an extrovert and not an introvert?"
+
+849
+00:45:00,114 --> 00:45:02,241
+If he's an extrovert,
+he looks at your shoes
+
+850
+00:45:02,324 --> 00:45:04,535
+when he's talking to you,
+instead of at his own.
+
+851
+00:45:06,412 --> 00:45:10,916
+If you look at Aja,
+he avoids all the cameras like crazy.
+
+852
+00:45:11,250 --> 00:45:14,253
+He's like, the game is finished,
+and he's, like, out the back,
+
+853
+00:45:14,336 --> 00:45:15,921
+and back in his room.
+
+854
+00:45:16,672 --> 00:45:20,175
+And I think a lot of computer scientists
+would be like that.
+
+855
+00:45:20,676 --> 00:45:24,179
+We are more about doing our work
+than standing in the spotlight.
+
+856
+00:45:25,848 --> 00:45:29,810
+Hello, and welcome
+to Game Two, Round Two,
+
+857
+00:45:29,893 --> 00:45:32,438
+in the Google DeepMind Challenge
+
+858
+00:45:32,521 --> 00:45:35,315
+throwdown between man and machine.
+
+859
+00:45:35,607 --> 00:45:39,111
+Game One, the machine takes down man.
+
+860
+00:45:39,445 --> 00:45:42,573
+Huge shock. Headlines around the world.
+
+861
+00:45:42,656 --> 00:45:46,702
+The reactions on the ground here
+from the folks in Korea were just stunned.
+
+862
+00:45:46,785 --> 00:45:50,289
+They estimate 60 million people
+watched the game in China alone.
+
+863
+00:45:50,372 --> 00:45:52,708
+Probably bringing it up
+to maybe 80 million people
+
+864
+00:45:52,791 --> 00:45:54,126
+who watched this game worldwide.
+
+865
+00:45:54,209 --> 00:45:55,711
+It was just incredible.
+
+866
+00:45:55,794 --> 00:45:59,381
+And if anything, today is probably
+even more of a madhouse.
+
+867
+00:46:00,048 --> 00:46:01,550
+So, Se-dol Lee knows today.
+
+868
+00:46:01,633 --> 00:46:04,261
+He knows that this is just
+a really important game. Right?
+
+869
+00:46:04,344 --> 00:46:05,344
+He has got to win.
+
+870
+00:46:09,725 --> 00:46:11,643
+Go, Se-dol Lee!
+
+871
+00:46:11,727 --> 00:46:12,895
+Fighting!
+
+872
+00:46:14,104 --> 00:46:15,606
+Can you tell what Lee
+
+873
+00:46:15,689 --> 00:46:17,000
+is thinking by looking at his face?
+
+874
+00:46:17,024 --> 00:46:17,858
+Does he seem nervous?
+
+875
+00:46:17,941 --> 00:46:20,360
+Yes.
+Lee seems to be very tense.
+
+876
+00:46:21,320 --> 00:46:24,531
+My guess is that
+he didn't sleep well last night.
+
+877
+00:46:24,615 --> 00:46:26,783
+Se-dol Lee on white,
+
+878
+00:46:26,867 --> 00:46:30,037
+I think probably looking
+for a little payback.
+
+879
+00:46:30,454 --> 00:46:33,707
+My impression is that maybe
+he underestimated AlphaGo,
+
+880
+00:46:33,790 --> 00:46:35,459
+and he is going to change his tactics.
+
+881
+00:46:37,711 --> 00:46:40,339
+Se-dol Lee is playing
+much, much slower today.
+
+882
+00:46:40,422 --> 00:46:41,298
+Yeah.
+
+883
+00:46:41,381 --> 00:46:42,925
+- Which is going to affect us.
+- Yes.
+
+884
+00:46:43,342 --> 00:46:44,982
+He's playing at half the speed, actually.
+
+885
+00:46:45,719 --> 00:46:47,846
+It is hard to say who is ahead
+
+886
+00:46:47,930 --> 00:46:49,097
+or better now.
+
+887
+00:46:49,181 --> 00:46:53,310
+The last two moves
+make me doubt AlphaGo's ability.
+
+888
+00:46:53,393 --> 00:46:56,104
+- But we have to stay alert.
+- Yes.
+
+889
+00:46:56,188 --> 00:46:58,469
+- Yes. This is difficult.
+- AlphaGo is hard to understand.
+
+890
+00:46:58,524 --> 00:47:00,400
+If I see anything about AlphaGo
+
+891
+00:47:00,484 --> 00:47:03,445
+that is not normal,
+is maybe the way it handles a game
+
+892
+00:47:03,529 --> 00:47:05,822
+- when it thinks it is ahead.
+- Yes.
+
+893
+00:47:05,906 --> 00:47:08,325
+We're actually going to have a visit
+from one of the team,
+
+894
+00:47:08,408 --> 00:47:10,994
+and we will talk about exactly
+that point from the inside.
+
+895
+00:47:11,078 --> 00:47:12,538
+Thanks so much for coming by, Thore.
+
+896
+00:47:12,621 --> 00:47:13,705
+I really appreciate it.
+
+897
+00:47:13,914 --> 00:47:18,418
+Can you sort of share a bit
+of what is going on in AlphaGo?
+
+898
+00:47:18,502 --> 00:47:21,797
+So, AlphaGo has these three
+main components.
+
+899
+00:47:21,880 --> 00:47:23,757
+There's the policy network,
+
+900
+00:47:23,840 --> 00:47:28,720
+which was trained on high-level games
+to imitate those players.
+
+901
+00:47:29,221 --> 00:47:33,058
+And then, we have a second component.
+We call this the value net.
+
+902
+00:47:33,141 --> 00:47:35,686
+And it can evaluate the board position
+
+903
+00:47:35,769 --> 00:47:39,773
+and say what is the probability of winning
+in this particular position.
+
+904
+00:47:40,107 --> 00:47:42,985
+And the third component
+is the tree search,
+
+905
+00:47:43,068 --> 00:47:46,780
+where it would look through
+different variations of the game
+
+906
+00:47:46,863 --> 00:47:49,449
+and try to figure out
+what will happen in the future.
+
+907
+00:47:52,744 --> 00:47:54,913
+So if we now take
+a position like this,
+
+908
+00:47:55,455 --> 00:47:58,875
+first, the policy network
+would scan the position
+
+909
+00:47:59,209 --> 00:48:03,839
+and come up with what would be
+the interesting spots to play,
+
+910
+00:48:04,339 --> 00:48:07,259
+and it builds up a tree of variations.
+
+911
+00:48:07,342 --> 00:48:10,053
+And then employs this value net
+
+912
+00:48:10,137 --> 00:48:14,975
+that tells it how promising is the outcome
+of this particular variation.
+
+913
+00:48:17,603 --> 00:48:22,274
+So, AlphaGo tries to maximize
+its probability of winning,
+
+914
+00:48:22,691 --> 00:48:26,445
+but it doesn't care at all about
+the margin by which it wins.
+
+915
+00:48:26,528 --> 00:48:28,655
+Okay, so when you see
+a slow-looking move,
+
+916
+00:48:28,739 --> 00:48:32,409
+that's maybe an indication that AlphaGo
+thinks it has a good chance to win.
+
+917
+00:48:32,492 --> 00:48:35,120
+- Yeah, that is a little giveaway.
+- Yeah.
+
+918
+00:48:35,203 --> 00:48:37,323
+- A little tell. We're looking for a tell.
+- Oh, yeah.
+
+919
+00:48:37,372 --> 00:48:39,333
+Se-dol Lee is playing
+
+920
+00:48:39,416 --> 00:48:41,877
+in a completely different style
+from his usual style.
+
+921
+00:48:41,960 --> 00:48:47,049
+This is a historic moment
+and Se-dol Lee is the center of attention.
+
+922
+00:48:47,132 --> 00:48:49,468
+He must be feeling immense pressure.
+
+923
+00:48:49,551 --> 00:48:54,264
+I hope he gets over
+this pressure and enjoys the match.
+
+924
+00:49:07,152 --> 00:49:08,904
+Ooh, it looks like Lee
+
+925
+00:49:08,987 --> 00:49:10,347
+is taking a little bit of a break.
+
+926
+00:49:28,632 --> 00:49:30,342
+Se-dol Lee goes to smoke,
+
+927
+00:49:30,842 --> 00:49:32,427
+and AlphaGo just plays.
+
+928
+00:49:32,511 --> 00:49:35,472
+It does not think about
+whether the opponent will be there or not.
+
+929
+00:49:35,889 --> 00:49:39,685
+So, Aja sees AlphaGo plays move 37,
+
+930
+00:49:40,477 --> 00:49:42,604
+and Aja puts the stone on the board.
+
+931
+00:49:44,648 --> 00:49:46,149
+- Oh.
+- Oh, wow.
+
+932
+00:49:48,193 --> 00:49:50,278
+- Oh, it's totally an unthinkable move.
+- Yes.
+
+933
+00:49:50,987 --> 00:49:52,114
+The value...
+
+934
+00:49:53,990 --> 00:49:56,702
+That's a very...
+That's a very surprising move.
+
+935
+00:49:56,785 --> 00:49:59,996
+I thought it was a mistake.
+
+936
+00:50:01,331 --> 00:50:04,710
+When I saw this move,
+for me, it was just a big shock.
+
+937
+00:50:04,793 --> 00:50:05,793
+What?
+
+938
+00:50:06,628 --> 00:50:08,422
+Normally, humans will never play this one
+
+939
+00:50:08,505 --> 00:50:10,048
+because it's bad.
+
+940
+00:50:11,299 --> 00:50:13,019
+It is just bad.
+We don't know why, it's bad.
+
+941
+00:50:13,593 --> 00:50:15,220
+It is a little bit high.
+
+942
+00:50:15,512 --> 00:50:16,388
+Yeah?
+
+943
+00:50:16,471 --> 00:50:17,764
+It's the fifth line.
+
+944
+00:50:17,848 --> 00:50:20,267
+Normally, you don't make
+a shoulder hit on the fifth line.
+
+945
+00:50:20,851 --> 00:50:24,146
+So, coming on top of a fourth line zone
+is really unusual.
+
+946
+00:50:24,646 --> 00:50:26,273
+Yeah, that's an exciting move.
+
+947
+00:50:26,356 --> 00:50:29,067
+I think we are seeing
+an original move here.
+
+948
+00:50:29,735 --> 00:50:34,114
+That is the kind of move
+that you play Go for.
+
+949
+00:50:35,657 --> 00:50:36,657
+Hey.
+
+950
+00:50:38,785 --> 00:50:40,203
+Interesting stuff.
+
+951
+00:50:40,287 --> 00:50:42,831
+- This fifth line shoulder hit was good.
+- Yeah.
+
+952
+00:50:42,914 --> 00:50:44,249
+And I wasn't expecting that.
+
+953
+00:50:45,250 --> 00:50:48,128
+I don't really know if it's a good
+or bad move at this point.
+
+954
+00:50:48,211 --> 00:50:51,673
+The professional commentators
+almost unanimously said
+
+955
+00:50:51,757 --> 00:50:54,926
+that not a single human player
+would have chosen move 37.
+
+956
+00:50:55,510 --> 00:50:57,554
+So, I actually had a poke around
+in AlphaGo
+
+957
+00:50:57,637 --> 00:50:59,389
+to see what AlphaGo thought.
+
+958
+00:50:59,890 --> 00:51:02,684
+And AlphaGo actually agreed
+with that assessment.
+
+959
+00:51:03,226 --> 00:51:06,521
+AlphaGo said there was
+a 1-in-10,000 probability
+
+960
+00:51:06,605 --> 00:51:10,108
+that move 37 would have been played
+by a human player.
+
+961
+00:51:10,192 --> 00:51:12,611
+So it knew that this was
+an extremely unlikely move.
+
+962
+00:51:12,694 --> 00:51:15,739
+It went beyond its human guide,
+
+963
+00:51:15,822 --> 00:51:19,034
+and it came up with something new
+and creative and different.
+
+964
+00:51:19,993 --> 00:51:24,748
+I am very much watching the game
+through these commentators.
+
+965
+00:51:24,831 --> 00:51:25,957
+That is the way it works.
+
+966
+00:51:26,041 --> 00:51:28,418
+So when they are confused,
+I'm certainly confused.
+
+967
+00:51:28,502 --> 00:51:30,262
+At the same time,
+I'm latching on to the fact
+
+968
+00:51:30,337 --> 00:51:31,922
+that they are confused, right?
+
+969
+00:51:32,005 --> 00:51:33,924
+That is an interesting moment.
+
+970
+00:51:34,007 --> 00:51:36,676
+When everyone else is confused,
+who is not confused, right,
+
+971
+00:51:36,760 --> 00:51:37,761
+besides the machine?
+
+972
+00:51:42,182 --> 00:51:45,769
+I want to see Se-dol Lee
+when he sees this move.
+
+973
+00:51:50,982 --> 00:51:52,651
+He is back. Lee is back.
+
+974
+00:52:14,881 --> 00:52:16,383
+I thought AlphaGo
+
+975
+00:52:16,466 --> 00:52:19,177
+was based on probability calculation
+
+976
+00:52:19,761 --> 00:52:23,682
+and that it was merely a machine.
+
+977
+00:52:24,349 --> 00:52:26,184
+But when I saw this move,
+I changed my mind.
+
+978
+00:52:27,352 --> 00:52:29,104
+Surely, AlphaGo is creative.
+
+979
+00:52:30,480 --> 00:52:36,528
+This move was really creative
+and beautiful.
+
+980
+00:52:39,781 --> 00:52:41,116
+Normally, he thinks
+
+981
+00:52:41,199 --> 00:52:43,243
+for about one or two minutes
+not more than that.
+
+982
+00:52:43,326 --> 00:52:46,371
+But this time, he thought
+for more than 12 minutes.
+
+983
+00:52:55,130 --> 00:52:59,050
+The more I look at this move,
+I feel something changed.
+
+984
+00:53:00,677 --> 00:53:03,471
+Maybe, for humans, we think it is bad,
+
+985
+00:53:03,555 --> 00:53:05,682
+but for AlphaGo, why not?
+
+986
+00:53:06,683 --> 00:53:08,184
+Go is like geopolitics,
+
+987
+00:53:08,268 --> 00:53:10,061
+like something small that happens here,
+
+988
+00:53:10,145 --> 00:53:11,396
+it can have a ripple effect,
+
+989
+00:53:11,938 --> 00:53:15,483
+you know, hours down the road
+in a different part of the board.
+
+990
+00:53:15,859 --> 00:53:18,945
+The game kind of turned on its axis
+at that moment.
+
+991
+00:53:19,654 --> 00:53:21,448
+This move was very special,
+
+992
+00:53:21,531 --> 00:53:22,824
+because with this move,
+
+993
+00:53:23,199 --> 00:53:25,243
+all the stones played before
+
+994
+00:53:25,327 --> 00:53:26,411
+worked together.
+
+995
+00:53:26,494 --> 00:53:27,704
+It was connected.
+
+996
+00:53:27,787 --> 00:53:30,123
+It looked like a network,
+linked everywhere.
+
+997
+00:53:30,582 --> 00:53:31,791
+It was very special.
+
+998
+00:53:32,250 --> 00:53:33,335
+Very special.
+
+999
+00:53:34,794 --> 00:53:36,504
+This move made me think
+
+1000
+00:53:36,588 --> 00:53:39,799
+about Go in a new light.
+
+1001
+00:53:40,675 --> 00:53:44,763
+What does creativity mean in Go?
+
+1002
+00:53:45,555 --> 00:53:47,766
+It was a really meaningful move.
+
+1003
+00:53:50,769 --> 00:53:52,270
+This is a tough game
+
+1004
+00:53:52,354 --> 00:53:53,229
+for Se-dol Lee.
+
+1005
+00:53:53,313 --> 00:53:55,690
+AlphaGo is just not letting Se-dol Lee
+
+1006
+00:53:55,774 --> 00:53:57,025
+- do what he wants.
+- Right.
+
+1007
+00:53:57,400 --> 00:54:00,070
+Black has almost 60 points. That's a lot.
+
+1008
+00:54:00,612 --> 00:54:01,988
+That's not a good sign.
+
+1009
+00:54:02,614 --> 00:54:04,032
+Oh. Oh.
+
+1010
+00:54:04,115 --> 00:54:06,701
+Se-dol Lee just slapped himself
+on the side of the head.
+
+1011
+00:54:07,827 --> 00:54:08,954
+Oh, wow.
+
+1012
+00:54:10,080 --> 00:54:11,665
+I think black is ahead at this point.
+
+1013
+00:54:12,999 --> 00:54:15,210
+It's looking good, isn't it?
+We're on that steady...
+
+1014
+00:54:16,086 --> 00:54:17,420
+steady path now.
+
+1015
+00:54:19,172 --> 00:54:21,132
+I just saw Se-dol Lee...
+
+1016
+00:54:22,092 --> 00:54:23,635
+lose so much.
+
+1017
+00:54:23,718 --> 00:54:26,846
+Normally, we would have resigned
+a long time ago, but he wanted to try.
+
+1018
+00:54:27,222 --> 00:54:28,682
+He continued to play.
+
+1019
+00:54:28,765 --> 00:54:31,059
+He just didn't want to resign.
+
+1020
+00:54:46,700 --> 00:54:48,576
+Because then white...
+Oh, he resigned.
+
+1021
+00:54:49,327 --> 00:54:52,038
+It looks like Se-dol Lee
+has just resigned.
+
+1022
+00:54:55,291 --> 00:54:57,419
+It doesn't make any sense.
+I didn't foresee that one.
+
+1023
+00:54:57,502 --> 00:54:59,879
+- Move 37, very beautiful.
+- Yes.
+
+1024
+00:54:59,963 --> 00:55:01,589
+Beautiful, yeah. Beautiful.
+
+1025
+00:55:05,010 --> 00:55:06,052
+Is he okay?
+
+1026
+00:55:07,345 --> 00:55:10,390
+I brought his friend,
+because yesterday I noticed
+
+1027
+00:55:10,473 --> 00:55:12,726
+that he really wanted to analyze the game.
+
+1028
+00:55:12,809 --> 00:55:16,104
+I didn't realize how bad it was.
+
+1029
+00:55:20,608 --> 00:55:22,402
+There was this heavy sadness
+
+1030
+00:55:22,485 --> 00:55:24,362
+over that whole floor,
+
+1031
+00:55:24,446 --> 00:55:25,989
+and you could feel it during the game.
+
+1032
+00:55:26,072 --> 00:55:27,532
+I felt it during the game.
+
+1033
+00:55:27,615 --> 00:55:31,453
+And I'm leaving the commentary room
+to go to the press conference,
+
+1034
+00:55:31,536 --> 00:55:32,954
+and I was stopped by someone,
+
+1035
+00:55:33,038 --> 00:55:34,330
+another technology reporter.
+
+1036
+00:55:34,414 --> 00:55:36,207
+At first, all he wanted to talk about
+
+1037
+00:55:36,291 --> 00:55:38,084
+was the technology and how great this was,
+
+1038
+00:55:38,168 --> 00:55:42,297
+but then, even he kind of slipped
+into this moment of melancholy
+
+1039
+00:55:42,380 --> 00:55:43,882
+where he was upset as well.
+
+1040
+00:55:45,675 --> 00:55:51,139
+Yesterday, I was surprised,
+but today, I am quite speechless.
+
+1041
+00:55:51,848 --> 00:55:53,683
+"I am quite speechless.
+
+1042
+00:55:53,767 --> 00:55:56,853
+I admit that it was a very clear loss
+on my part.
+
+1043
+00:55:57,270 --> 00:55:59,105
+From the very beginning of the game,
+
+1044
+00:55:59,189 --> 00:56:02,901
+there was not a moment in time
+that I felt that I was leading the game."
+
+1045
+00:56:03,610 --> 00:56:07,155
+You feel elated,
+and you feel a little bit scared.
+
+1046
+00:56:07,238 --> 00:56:10,492
+There is something, I think,
+frightening to people
+
+1047
+00:56:10,575 --> 00:56:12,786
+about a machine that learns on its own.
+
+1048
+00:56:13,369 --> 00:56:16,664
+For us, AlphaGo is obviously
+just some computer program.
+
+1049
+00:56:17,123 --> 00:56:19,667
+But looking at the commentary
+on the Internet,
+
+1050
+00:56:19,751 --> 00:56:22,045
+I already saw the commentators
+call AlphaGo
+
+1051
+00:56:22,128 --> 00:56:24,255
+like "he" and "she" during the games.
+
+1052
+00:56:25,006 --> 00:56:26,591
+Completely unconsciously.
+
+1053
+00:56:27,175 --> 00:56:30,512
+Which... AlphaGo is really
+a very, very simple program.
+
+1054
+00:56:30,595 --> 00:56:34,099
+It's not anywhere close to full AI,
+and we already see that happening.
+
+1055
+00:56:34,182 --> 00:56:35,558
+So I find that very interesting.
+
+1056
+00:56:40,647 --> 00:56:43,149
+The tendency
+to anthropomorphize AI systems
+
+1057
+00:56:43,233 --> 00:56:45,401
+is one of the big obstacles
+
+1058
+00:56:45,485 --> 00:56:47,403
+in the way of actually trying
+to understand
+
+1059
+00:56:47,487 --> 00:56:50,115
+how AI might impact the world
+in the future.
+
+1060
+00:56:50,198 --> 00:56:51,634
+For example, the conversation is about
+
+1061
+00:56:51,658 --> 00:56:53,618
+what could go wrong, what the risks are.
+
+1062
+00:56:53,993 --> 00:56:56,204
+And invariably, you see
+this Terminator picture.
+
+1063
+00:56:56,287 --> 00:56:58,957
+Every single time,
+there are these red glowing eyes, right?
+
+1064
+00:56:59,040 --> 00:57:01,543
+We're really closer
+to a smart washing machine
+
+1065
+00:57:01,626 --> 00:57:03,211
+than Terminator.
+
+1066
+00:57:03,294 --> 00:57:06,422
+If you look at today's AI,
+
+1067
+00:57:06,506 --> 00:57:09,050
+we are really very nascent.
+
+1068
+00:57:09,134 --> 00:57:11,136
+I'm extremely excited
+
+1069
+00:57:11,219 --> 00:57:14,472
+and passionate about AI's potential.
+
+1070
+00:57:14,556 --> 00:57:17,892
+But AI is still very limited in its power.
+
+1071
+00:57:18,393 --> 00:57:20,520
+I think that people
+are right to think
+
+1072
+00:57:21,146 --> 00:57:25,024
+that there is a danger that as we continue
+to improve these systems,
+
+1073
+00:57:25,108 --> 00:57:30,155
+that we might miss that threshold
+where we do cross over into danger.
+
+1074
+00:57:30,238 --> 00:57:31,239
+But the good news is
+
+1075
+00:57:31,322 --> 00:57:33,467
+that there are already people
+thinking about those dangers.
+
+1076
+00:57:33,491 --> 00:57:36,303
+You know, there's a lot of talk now,
+and we are leading the discussion on this,
+
+1077
+00:57:36,327 --> 00:57:37,763
+that maybe there should be a kind of,
+
+1078
+00:57:37,787 --> 00:57:40,540
+cross-industry best practices
+working group or something.
+
+1079
+00:57:40,623 --> 00:57:41,458
+Right.
+
+1080
+00:57:41,541 --> 00:57:45,295
+Where the leaders of the research teams
+in those organizations,
+
+1081
+00:57:45,378 --> 00:57:48,548
+you know, the big ones that are working
+on AI, IBM, Microsoft, so on,
+
+1082
+00:57:48,631 --> 00:57:52,552
+come together and make sure that AI
+is used ethically and responsibly.
+
+1083
+00:57:53,511 --> 00:57:57,390
+I think what is important
+is that there is this community of people
+
+1084
+00:57:57,474 --> 00:58:01,644
+who are leading the cutting edge of AI,
+
+1085
+00:58:01,728 --> 00:58:03,813
+who are interacting with academics,
+
+1086
+00:58:03,897 --> 00:58:06,900
+and already are thinking
+about the long term,
+
+1087
+00:58:06,983 --> 00:58:10,653
+and how we can ensure
+that innovation is responsible
+
+1088
+00:58:10,737 --> 00:58:12,780
+as the power of these machines
+gets even greater.
+
+1089
+00:58:12,864 --> 00:58:15,241
+Se-dol Lee Lost by Resignation
+
+1090
+00:58:15,325 --> 00:58:16,409
+This is it, folks.
+
+1091
+00:58:17,118 --> 00:58:21,664
+Day Three, Game Three.
+Se-dol Lee, Go Master.
+
+1092
+00:58:22,207 --> 00:58:25,627
+Back to the wall. He's down two-zero.
+
+1093
+00:58:25,710 --> 00:58:29,088
+He's got to win today to keep hope alive.
+
+1094
+00:58:29,172 --> 00:58:32,592
+Se-dol Lee had a day off
+
+1095
+00:58:32,675 --> 00:58:34,302
+after losing two games,
+
+1096
+00:58:34,719 --> 00:58:39,474
+and he gathered with Go professionals
+
+1097
+00:58:39,557 --> 00:58:43,186
+and analyzed the game all night.
+
+1098
+00:58:43,269 --> 00:58:46,606
+I heard that four pros, yeah,
+went to visit him.
+
+1099
+00:58:46,689 --> 00:58:49,776
+- Hm.
+- To console him and to review AlphaGo's...
+
+1100
+00:58:49,859 --> 00:58:52,570
+Console him?
+Do you think he's upset, or...
+
+1101
+00:58:52,654 --> 00:58:54,822
+I mean, Se-dol Lee
+is upset. Yeah.
+
+1102
+00:58:55,323 --> 00:58:58,117
+In the beginning,
+there was a fierce fight,
+
+1103
+00:58:58,201 --> 00:59:00,453
+and AlphaGo played very well.
+
+1104
+00:59:00,537 --> 00:59:02,580
+So he secured a very early lead.
+
+1105
+00:59:02,997 --> 00:59:06,334
+From move 50, the win rate
+was very high already.
+
+1106
+00:59:06,417 --> 00:59:08,795
+It was climbing toward 100%.
+
+1107
+00:59:09,128 --> 00:59:10,296
+Oh, that's a pretty move.
+
+1108
+00:59:10,380 --> 00:59:12,465
+What's your probability rating?
+
+1109
+00:59:12,549 --> 00:59:14,551
+- Like, 91?
+- No.
+
+1110
+00:59:14,634 --> 00:59:17,637
+- It seems 70, you think?
+- No.
+
+1111
+00:59:17,720 --> 00:59:19,931
+He must want to win desperately right now.
+
+1112
+00:59:20,014 --> 00:59:21,683
+THE CHALLENGE OF AI
+0 VS. 2
+
+1113
+00:59:21,766 --> 00:59:24,060
+But I think the pressure
+
+1114
+00:59:24,143 --> 00:59:26,688
+and the psychological burden is adding up.
+
+1115
+00:59:26,771 --> 00:59:29,816
+Today must be the worst.
+
+1116
+00:59:29,899 --> 00:59:31,609
+I personally believe,
+
+1117
+00:59:31,693 --> 00:59:35,947
+when you try too hard to win,
+you will lose.
+
+1118
+00:59:36,656 --> 00:59:37,907
+He tried to fight
+
+1119
+00:59:37,991 --> 00:59:39,200
+directly in the game
+
+1120
+00:59:39,284 --> 00:59:40,493
+but it's not his style.
+
+1121
+00:59:41,160 --> 00:59:44,581
+When we change our style
+to play against an opponent,
+
+1122
+00:59:44,664 --> 00:59:46,666
+normally, it's very, very bad.
+
+1123
+00:59:49,877 --> 00:59:53,506
+So it's an easier game for AlphaGo.
+
+1124
+00:59:54,632 --> 00:59:56,676
+- It's looking good for us.
+- Hopefully, I think...
+
+1125
+00:59:56,759 --> 00:59:59,721
+You know, that black group is huge,
+and it has got nowhere to go,
+
+1126
+00:59:59,804 --> 01:00:01,764
+and it is going to be running around.
+
+1127
+01:00:11,190 --> 01:00:14,152
+I don't know how
+to describe the situation.
+
+1128
+01:00:14,235 --> 01:00:16,404
+If I were black, I will resign.
+
+1129
+01:00:16,863 --> 01:00:21,618
+We should admit that we are facing
+the strongest existence ever,
+
+1130
+01:00:21,701 --> 01:00:23,244
+ever in the Go history.
+
+1131
+01:00:23,703 --> 01:00:25,663
+There's no point
+in playing out the endgame,
+
+1132
+01:00:25,747 --> 01:00:28,166
+and you're going to lose, right? So...
+
+1133
+01:00:31,127 --> 01:00:32,670
+Even if black can live there...
+
+1134
+01:00:32,754 --> 01:00:34,964
+- It's done. It's done.
+- Oh, he resigned. Okay.
+
+1135
+01:00:35,048 --> 01:00:36,799
+Wow. Wow.
+
+1136
+01:00:38,468 --> 01:00:41,095
+You saw history made here tonight.
+
+1137
+01:00:41,429 --> 01:00:43,306
+AlphaGo has won again.
+Three straight wins.
+
+1138
+01:00:43,389 --> 01:00:45,308
+Three straight wins.
+Has won the match.
+
+1139
+01:00:46,768 --> 01:00:50,480
+When Se-dol Lee resigned
+from the game, he looked unhappy.
+
+1140
+01:00:50,563 --> 01:00:53,024
+It was not just he lost the tournament,
+
+1141
+01:00:53,107 --> 01:00:55,401
+it was especially about this game,
+
+1142
+01:00:55,485 --> 01:00:58,029
+because he did not play his game.
+
+1143
+01:00:58,988 --> 01:01:02,241
+I am very hurt about this, very hurt.
+
+1144
+01:01:03,743 --> 01:01:05,870
+But, I can't do anything.
+
+1145
+01:01:08,956 --> 01:01:11,250
+You know, suddenly, I feel
+a bit ambivalent about it,
+
+1146
+01:01:11,334 --> 01:01:12,752
+given I'm a games player,
+
+1147
+01:01:12,835 --> 01:01:15,546
+and, you know, Go is the pinnacle
+of board games.
+
+1148
+01:01:15,630 --> 01:01:16,815
+But I really liked the statement
+
+1149
+01:01:16,839 --> 01:01:19,801
+of one of the top Chinese professionals.
+He said, you know,
+
+1150
+01:01:19,884 --> 01:01:25,139
+"If AlphaGo wins, maybe we'll really start
+to get to see what this game is about."
+
+1151
+01:01:26,808 --> 01:01:28,434
+I couldn't celebrate.
+
+1152
+01:01:28,768 --> 01:01:31,270
+It was fantastic that we had won,
+
+1153
+01:01:31,354 --> 01:01:33,231
+but there was such a big part of me
+
+1154
+01:01:33,314 --> 01:01:37,527
+that saw this man trying so hard
+
+1155
+01:01:37,610 --> 01:01:41,864
+and being so disappointed.
+
+1156
+01:01:58,005 --> 01:02:01,217
+I see on the Internet, many people
+are talking about Se-dol Lee.
+
+1157
+01:02:01,300 --> 01:02:02,927
+Maybe he didn't play his best.
+
+1158
+01:02:03,219 --> 01:02:05,388
+You know, we are Go players.
+
+1159
+01:02:05,471 --> 01:02:08,182
+Okay, sometimes in China,
+in Korea, in Japan
+
+1160
+01:02:08,266 --> 01:02:09,892
+we see Go like art.
+
+1161
+01:02:10,309 --> 01:02:11,686
+We are artists, you know.
+
+1162
+01:02:11,769 --> 01:02:14,897
+- We play our best for Go.
+- Right. Right.
+
+1163
+01:02:14,981 --> 01:02:17,692
+- So, please be gentle with Se-dol Lee.
+- Right.
+
+1164
+01:02:17,775 --> 01:02:20,862
+He is a very, very good player.
+He is a great player.
+
+1165
+01:02:21,404 --> 01:02:24,073
+I was in the room. I saw Se-dol Lee.
+He wanted to win.
+
+1166
+01:02:24,157 --> 01:02:26,284
+He tried everything.
+
+1167
+01:02:27,118 --> 01:02:30,496
+It's just we can't. It's just... So...
+
+1168
+01:02:32,749 --> 01:02:35,752
+I think I have to express
+my apologies first.
+
+1169
+01:02:37,962 --> 01:02:40,923
+If I had been able to play better
+or smarter,
+
+1170
+01:02:41,007 --> 01:02:43,050
+the results might have been different.
+
+1171
+01:02:43,134 --> 01:02:46,262
+I think I disappointed too many of you
+this time.
+
+1172
+01:02:46,345 --> 01:02:49,474
+I want to apologize
+for being so powerless.
+
+1173
+01:02:50,475 --> 01:02:52,477
+I've never felt...
+
+1174
+01:02:52,560 --> 01:02:55,146
+this much pressure,
+
+1175
+01:02:55,772 --> 01:02:58,065
+this much weight.
+
+1176
+01:02:58,149 --> 01:03:02,195
+I think I was too weak to overcome it.
+
+1177
+01:03:03,821 --> 01:03:07,074
+I can't believe
+this is happening.
+
+1178
+01:03:07,158 --> 01:03:10,036
+Regardless of your opponent's level,
+
+1179
+01:03:10,119 --> 01:03:12,914
+to be defeated not by three-zero,
+but five-zero?
+
+1180
+01:03:13,623 --> 01:03:17,835
+Losing to AlphaGo by five-zero
+
+1181
+01:03:17,919 --> 01:03:20,755
+would really hurt my pride.
+
+1182
+01:03:20,838 --> 01:03:26,052
+I also feel so bad for the people
+who have supported me.
+
+1183
+01:03:26,761 --> 01:03:28,179
+Se-dol Lee, 9 dan,
+
+1184
+01:03:28,262 --> 01:03:32,141
+has the strongest heart of anyone I know.
+
+1185
+01:03:32,517 --> 01:03:38,773
+He is fighting a lonely fight.
+
+1186
+01:03:38,856 --> 01:03:42,318
+His opponent does not exist
+in physical form.
+
+1187
+01:03:42,401 --> 01:03:44,779
+I really feel for him.
+
+1188
+01:03:44,862 --> 01:03:47,114
+We still have Games Four and Five,
+
+1189
+01:03:47,198 --> 01:03:53,162
+and if Se-dol Lee, 9 dan,
+plays like himself,
+
+1190
+01:03:53,246 --> 01:03:55,414
+I believe we can beat the machine.
+
+1191
+01:04:06,926 --> 01:04:08,886
+You could see he was more relaxed
+
+1192
+01:04:08,970 --> 01:04:11,055
+after he had lost three games in a row.
+
+1193
+01:04:11,556 --> 01:04:13,474
+That said, the stakes were still high.
+
+1194
+01:04:13,808 --> 01:04:16,811
+You know, in the end,
+it isn't about pride.
+
+1195
+01:04:18,229 --> 01:04:20,189
+He did not feel confident,
+
+1196
+01:04:20,606 --> 01:04:22,024
+but he felt light.
+
+1197
+01:04:22,900 --> 01:04:26,779
+Can Se-dol Lee
+find AlphaGo's weakness?
+
+1198
+01:04:26,863 --> 01:04:28,823
+Is there, in fact, a weakness?
+
+1199
+01:04:28,906 --> 01:04:30,586
+I was thinking I would just pull the plug.
+
+1200
+01:04:30,616 --> 01:04:32,052
+- You would just pull the plug?
+- Yeah.
+
+1201
+01:04:32,076 --> 01:04:34,412
+Everyone is still
+cheering for Se-dol Lee.
+
+1202
+01:04:34,495 --> 01:04:35,621
+And...
+
+1203
+01:04:36,497 --> 01:04:38,207
+Yeah, it's not going very well.
+
+1204
+01:04:38,708 --> 01:04:40,293
+Se-dol Lee has chosen
+
+1205
+01:04:40,376 --> 01:04:42,003
+to play conservatively.
+
+1206
+01:04:42,086 --> 01:04:45,172
+But I am not sure
+it will benefit him.
+
+1207
+01:04:45,256 --> 01:04:46,256
+I agree.
+
+1208
+01:04:46,299 --> 01:04:48,459
+Yes, it doesn't look like
+a very good strategy for him.
+
+1209
+01:04:49,010 --> 01:04:50,136
+It feels pretty good
+
+1210
+01:04:50,219 --> 01:04:51,929
+for black at this point.
+
+1211
+01:04:52,013 --> 01:04:54,616
+- It feels pretty good for black, yes.
+- It's pretty good for black. Yeah.
+
+1212
+01:04:54,640 --> 01:04:56,976
+I want Se-dol Lee to play his game.
+
+1213
+01:04:57,518 --> 01:05:00,187
+Because, at that moment,
+he tried various things
+
+1214
+01:05:00,271 --> 01:05:02,940
+to play with AlphaGo,
+to understand AlphaGo,
+
+1215
+01:05:03,024 --> 01:05:05,234
+but he never tried to play himself.
+
+1216
+01:05:06,319 --> 01:05:07,546
+I've said this many, many times,
+
+1217
+01:05:07,570 --> 01:05:10,448
+AlphaGo looks like a real mirror.
+
+1218
+01:05:10,990 --> 01:05:12,617
+When you play with AlphaGo,
+
+1219
+01:05:13,200 --> 01:05:15,369
+you feel very strange.
+
+1220
+01:05:15,745 --> 01:05:18,456
+It feels like you are naked all the time.
+
+1221
+01:05:19,081 --> 01:05:21,560
+The first time you see this,
+you wouldn't want to see because...
+
+1222
+01:05:21,584 --> 01:05:24,086
+"Oh, is this me? The real me?"
+
+1223
+01:05:24,921 --> 01:05:27,298
+And the more you see,
+you learn to accept it.
+
+1224
+01:05:27,673 --> 01:05:29,175
+"Oh, this is the real me.
+
+1225
+01:05:29,258 --> 01:05:32,053
+So, how... Now, what shall I do?"
+
+1226
+01:05:36,682 --> 01:05:39,226
+It's developing into a very,
+very dangerous fight.
+
+1227
+01:05:40,019 --> 01:05:44,190
+This is really Se-dol Lee's type of game.
+He likes this kind of fight.
+
+1228
+01:05:44,273 --> 01:05:46,525
+White has to find something
+inside black's territory.
+
+1229
+01:05:46,609 --> 01:05:49,862
+I think that he
+is already planning on trying something.
+
+1230
+01:05:49,946 --> 01:05:52,782
+So you believe in Se-dol Lee's ability
+
+1231
+01:05:52,865 --> 01:05:55,117
+to live in that very small area, right?
+
+1232
+01:05:55,201 --> 01:05:56,243
+Yes. Yes.
+
+1233
+01:05:56,327 --> 01:05:58,204
+There is a little potential there.
+
+1234
+01:05:58,621 --> 01:06:00,873
+And I think, maybe he is going to try
+to do something.
+
+1235
+01:06:00,957 --> 01:06:02,541
+- Se-dol Lee magic!
+- Nice.
+
+1236
+01:06:02,959 --> 01:06:05,711
+Oh, what would be
+the magic move?
+
+1237
+01:06:05,795 --> 01:06:07,588
+Se-dol Lee is running short on time,
+
+1238
+01:06:07,672 --> 01:06:09,590
+but he's going to have to use up
+all his time.
+
+1239
+01:06:09,674 --> 01:06:12,426
+Yeah, he has just burned, like,
+seven or eight minutes,
+
+1240
+01:06:12,510 --> 01:06:13,886
+just on this move already.
+
+1241
+01:06:14,512 --> 01:06:15,930
+I don't see anything.
+
+1242
+01:06:16,973 --> 01:06:18,849
+We can't find anything.
+
+1243
+01:06:18,933 --> 01:06:20,226
+Show us something.
+
+1244
+01:06:20,685 --> 01:06:22,144
+I don't see any possible move.
+
+1245
+01:06:22,228 --> 01:06:24,063
+What is Se-dol Lee up to here?
+
+1246
+01:06:24,146 --> 01:06:25,940
+Yeah, he is really concentrating.
+
+1247
+01:06:26,023 --> 01:06:27,483
+He really is. Look at that.
+
+1248
+01:06:28,734 --> 01:06:30,236
+Se-dol Lee is very patient.
+
+1249
+01:06:30,319 --> 01:06:32,863
+He waits. He waits for his moment.
+
+1250
+01:06:33,656 --> 01:06:36,158
+I feel, sometimes, he is like a wolf,
+
+1251
+01:06:36,659 --> 01:06:40,121
+waiting in the forest, in the winter.
+
+1252
+01:06:41,414 --> 01:06:43,541
+He is cold. He's very, very cold.
+
+1253
+01:06:44,333 --> 01:06:45,835
+But he needs patience.
+
+1254
+01:06:45,918 --> 01:06:48,045
+But, when the moment comes,
+
+1255
+01:06:48,129 --> 01:06:50,464
+he goes out to attack.
+
+1256
+01:06:51,841 --> 01:06:54,010
+This is the hinge of the game.
+
+1257
+01:06:54,093 --> 01:06:55,093
+Oh.
+
+1258
+01:06:55,177 --> 01:06:56,929
+Look at that move.
+That's an exciting move.
+
+1259
+01:06:57,096 --> 01:06:59,640
+- Basically, I believe that this time...
+- He found a wedge.
+
+1260
+01:06:59,724 --> 01:07:00,725
+Whoa.
+
+1261
+01:07:00,808 --> 01:07:03,686
+It's going to change
+the equation
+
+1262
+01:07:03,769 --> 01:07:05,438
+because now black cannot escape.
+
+1263
+01:07:05,521 --> 01:07:07,189
+That would be so cool if that works.
+
+1264
+01:07:11,193 --> 01:07:12,193
+Oh!
+
+1265
+01:07:14,447 --> 01:07:17,783
+AlphaGo has just played
+something maybe unusual.
+
+1266
+01:07:18,242 --> 01:07:21,662
+You know, I'm not actually sure
+what AlphaGo is trying to do here.
+
+1267
+01:07:21,746 --> 01:07:22,788
+What's that about?
+
+1268
+01:07:22,872 --> 01:07:24,498
+I don't really understand it.
+
+1269
+01:07:24,582 --> 01:07:25,458
+Well, well.
+
+1270
+01:07:25,541 --> 01:07:28,294
+That was a sharp drop in win rate.
+
+1271
+01:07:28,377 --> 01:07:30,880
+That is the sharpest drop
+in win rate we have seen.
+
+1272
+01:07:31,380 --> 01:07:33,799
+She dropped at eight percent.
+
+1273
+01:07:33,883 --> 01:07:35,092
+- Wow.
+- Wow.
+
+1274
+01:07:36,052 --> 01:07:39,180
+This could be that it actually
+can't find a way through.
+
+1275
+01:07:39,263 --> 01:07:40,365
+- I think this is...
+- Uh-huh.
+
+1276
+01:07:40,389 --> 01:07:43,100
+It has looked far enough ahead
+to see that it doesn't work,
+
+1277
+01:07:43,184 --> 01:07:44,935
+and now maybe it's on tilt. I don't know.
+
+1278
+01:07:45,728 --> 01:07:47,146
+There it comes.
+
+1279
+01:07:47,229 --> 01:07:49,190
+- That was one time.
+- There it comes, though.
+
+1280
+01:07:49,273 --> 01:07:51,734
+It looks like it has fallen off the cliff.
+
+1281
+01:07:52,568 --> 01:07:54,695
+- Yeah, it has made a mistake.
+- Yeah.
+
+1282
+01:07:54,779 --> 01:07:56,572
+Did anything strange happen in the...
+
+1283
+01:07:56,989 --> 01:07:58,449
+- No, it all looked normal.
+- Yeah.
+
+1284
+01:07:58,532 --> 01:08:01,077
+Well, we can definitely say
+there is a weakness.
+
+1285
+01:08:01,702 --> 01:08:03,382
+Well, we definitely say there's a mistake.
+
+1286
+01:08:04,789 --> 01:08:09,168
+I felt this mixture
+of this sinking feeling in my stomach,
+
+1287
+01:08:09,251 --> 01:08:12,588
+where I was wondering if AlphaGo
+was becoming delusional in this situation.
+
+1288
+01:08:12,671 --> 01:08:14,965
+Where I could see that it was starting
+to play strangely,
+
+1289
+01:08:15,341 --> 01:08:17,259
+and at the same time,
+relief, that Se-dol Lee,
+
+1290
+01:08:17,343 --> 01:08:19,970
+that he was actually in with a chance now.
+
+1291
+01:08:21,597 --> 01:08:24,350
+Aja is like trying not to look horrified.
+
+1292
+01:08:26,143 --> 01:08:30,439
+I knew after move 78,
+after, like, 10 or 20 moves,
+
+1293
+01:08:30,815 --> 01:08:33,859
+I saw AlphaGo's strange moves.
+
+1294
+01:08:33,943 --> 01:08:38,405
+And, I knew AlphaGo somehow
+became crazy, but I didn't realize why.
+
+1295
+01:08:38,489 --> 01:08:40,157
+What?
+
+1296
+01:08:40,241 --> 01:08:43,202
+We searched to 95 ahead at that point?
+
+1297
+01:08:43,285 --> 01:08:44,805
+At the part where it made the mistake?
+
+1298
+01:08:45,246 --> 01:08:47,206
+- Yes.
+- I think that something went wrong.
+
+1299
+01:08:47,289 --> 01:08:49,559
+That's the longest it has searched
+the entire game, isn't it?
+
+1300
+01:08:49,583 --> 01:08:50,417
+Yeah.
+
+1301
+01:08:50,501 --> 01:08:52,169
+I think it's like it searched so deeply,
+
+1302
+01:08:52,253 --> 01:08:54,213
+- it has lost itself.
+- It's tired.
+
+1303
+01:08:55,256 --> 01:08:56,465
+I do get the impression
+
+1304
+01:08:56,549 --> 01:08:58,884
+that AlphaGo has sort of,
+gone off on a tangent.
+
+1305
+01:08:58,968 --> 01:09:02,012
+- What is it doing now?
+- Well, maybe it has a master plan.
+
+1306
+01:09:02,096 --> 01:09:04,557
+No, it doesn't even think it has, does it?
+
+1307
+01:09:04,640 --> 01:09:08,269
+So it knows it has made a mistake,
+and it starts evaluating it the other way.
+
+1308
+01:09:08,769 --> 01:09:11,147
+Look, look, Lee is confused.
+He's like, "What is he doing?"
+
+1309
+01:09:11,230 --> 01:09:14,108
+That's not a "I'm scared" confused,
+that's a "What is it doing?"
+
+1310
+01:09:14,191 --> 01:09:15,442
+What's going on?
+
+1311
+01:09:15,818 --> 01:09:17,319
+You know, you asked if it was a bug.
+
+1312
+01:09:17,820 --> 01:09:20,656
+I've said before that if...
+
+1313
+01:09:20,739 --> 01:09:23,492
+- Yeah, right. That's what I thought.
+- If DeepMind has figured out
+
+1314
+01:09:23,576 --> 01:09:26,162
+how to write code that doesn't have bugs,
+
+1315
+01:09:26,245 --> 01:09:28,539
+that is a bigger news story than AlphaGo.
+
+1316
+01:09:28,622 --> 01:09:30,457
+- Are you kidding me?
+- Hm?
+
+1317
+01:09:30,541 --> 01:09:32,710
+This... Literally, this next move
+we are going to play,
+
+1318
+01:09:34,837 --> 01:09:37,715
+I think they are going to laugh.
+I think Lee is going to laugh.
+
+1319
+01:09:46,182 --> 01:09:47,516
+Oh! Oh!
+
+1320
+01:09:47,600 --> 01:09:48,601
+What is this?
+
+1321
+01:09:49,977 --> 01:09:51,812
+- Oh, that's ridiculous!
+- What's going on?
+
+1322
+01:09:51,896 --> 01:09:53,272
+What is it thinking?
+
+1323
+01:09:53,606 --> 01:09:55,858
+I don't really know what AlphaGo
+is trying to do here.
+
+1324
+01:09:57,151 --> 01:09:58,819
+That's the understatement of the year.
+
+1325
+01:09:59,320 --> 01:10:00,571
+Is it a mouse misclick
+
+1326
+01:10:00,654 --> 01:10:02,364
+- from Aja Huang?
+- Nope, that's the move.
+
+1327
+01:10:02,448 --> 01:10:03,908
+Aja Huang makes no misclicks.
+
+1328
+01:10:04,909 --> 01:10:06,535
+Se-dol Lee is very confused.
+
+1329
+01:10:06,994 --> 01:10:08,621
+These are not human moves.
+
+1330
+01:10:08,704 --> 01:10:12,208
+This move is also sort of inexplicable.
+
+1331
+01:10:12,291 --> 01:10:15,628
+I mean, those, you can clearly
+call those mistakes.
+
+1332
+01:10:15,711 --> 01:10:16,629
+Yes, of course.
+
+1333
+01:10:16,712 --> 01:10:18,881
+But it's the first time
+in the four matches
+
+1334
+01:10:18,964 --> 01:10:20,724
+- that we have seen moves like that.
+- Right.
+
+1335
+01:10:20,799 --> 01:10:22,593
+Oh, the value dropped even more.
+
+1336
+01:10:23,385 --> 01:10:24,386
+That's weird.
+
+1337
+01:10:25,221 --> 01:10:26,680
+They're like 45%.
+
+1338
+01:10:28,724 --> 01:10:29,724
+White.
+
+1339
+01:10:29,975 --> 01:10:32,228
+- White.
+- I think white is winning.
+
+1340
+01:10:32,311 --> 01:10:34,063
+Come on, Se-dol Lee.
+
+1341
+01:10:34,146 --> 01:10:37,024
+- It's unbelievable.
+- Yeah, all right!
+
+1342
+01:10:37,107 --> 01:10:41,695
+I was so confident that this black area
+would just be consolidated by black,
+
+1343
+01:10:41,779 --> 01:10:42,905
+and there was nothing there.
+
+1344
+01:10:42,988 --> 01:10:46,283
+And somehow, he has just erased it all.
+Like, it's gone.
+
+1345
+01:10:46,367 --> 01:10:47,743
+So, he has found his weakness.
+
+1346
+01:10:47,826 --> 01:10:50,329
+That wedge move probably surprised it.
+
+1347
+01:10:50,412 --> 01:10:51,747
+- The wedge, yeah.
+- Yeah.
+
+1348
+01:10:51,830 --> 01:10:54,375
+AlphaGo seemed to have
+such a good game, and then...
+
+1349
+01:10:54,458 --> 01:10:57,878
+this whole sequence in the center
+sort of changed that.
+
+1350
+01:10:57,962 --> 01:10:59,797
+He pulls off a miracle.
+
+1351
+01:11:00,130 --> 01:11:01,757
+He managed to make it so complicated
+
+1352
+01:11:01,840 --> 01:11:05,344
+that the artificial intelligence
+doesn't evaluate it correctly.
+
+1353
+01:11:05,427 --> 01:11:08,055
+I think it looks like Aja Huang
+maybe, sitting there,
+
+1354
+01:11:08,138 --> 01:11:10,015
+also knows that the game is over.
+
+1355
+01:11:10,432 --> 01:11:13,060
+I can't... I can't stop smiling.
+
+1356
+01:11:13,602 --> 01:11:14,895
+Did he smile?
+
+1357
+01:11:14,979 --> 01:11:16,647
+No, I haven't seen him smile yet.
+
+1358
+01:11:17,106 --> 01:11:19,191
+- I think he is still checking.
+- He's so serious.
+
+1359
+01:11:19,275 --> 01:11:20,526
+He's so serious.
+
+1360
+01:11:20,609 --> 01:11:22,861
+- He wants to be careful.
+- Yeah.
+
+1361
+01:11:22,945 --> 01:11:25,447
+He's concerned a lot.
+
+1362
+01:11:25,531 --> 01:11:26,991
+He really does his best.
+
+1363
+01:11:27,783 --> 01:11:30,244
+I think he feels like he has a sense of...
+
+1364
+01:11:30,953 --> 01:11:34,290
+uh, responsibility, or burden.
+
+1365
+01:11:34,873 --> 01:11:36,542
+I think it's almost over.
+
+1366
+01:11:37,209 --> 01:11:38,419
+So, what's the percentage?
+
+1367
+01:11:38,502 --> 01:11:40,713
+It shows as 18.2%.
+
+1368
+01:11:40,796 --> 01:11:42,715
+The next move should be resign.
+
+1369
+01:11:46,885 --> 01:11:49,471
+There you go. AlphaGo resigned.
+
+1370
+01:11:51,974 --> 01:11:54,226
+- It looks like AlphaGo has resigned.
+- Wow.
+
+1371
+01:11:55,352 --> 01:11:57,271
+The most amazing game.
+
+1372
+01:11:58,981 --> 01:12:03,068
+I'm almost going to tear up,
+was, uh, Game Four...
+
+1373
+01:12:03,152 --> 01:12:05,654
+um, where he comes back and wins, right?
+
+1374
+01:12:05,738 --> 01:12:07,072
+It resigned!
+
+1375
+01:12:09,867 --> 01:12:11,452
+I'm so happy!
+
+1376
+01:12:17,583 --> 01:12:19,918
+I heard people shouting in joy
+
+1377
+01:12:20,002 --> 01:12:22,546
+when it was clear that AlphaGo
+had lost the game.
+
+1378
+01:12:23,047 --> 01:12:24,715
+I think it is clear why.
+
+1379
+01:12:26,258 --> 01:12:28,427
+People felt helplessness and fear.
+
+1380
+01:12:29,219 --> 01:12:32,222
+It seemed like we humans
+are so weak and fragile.
+
+1381
+01:12:33,265 --> 01:12:35,976
+And this victory meant...
+
+1382
+01:12:36,810 --> 01:12:40,898
+we could still hold our own.
+
+1383
+01:12:40,981 --> 01:12:43,901
+As time goes on, it will probably be
+very difficult to beat AI.
+
+1384
+01:12:44,610 --> 01:12:50,282
+But winning this one time,
+it felt like it was enough.
+
+1385
+01:12:51,367 --> 01:12:52,743
+One time was enough.
+
+1386
+01:12:53,369 --> 01:12:55,746
+I heard from so many people saying
+
+1387
+01:12:55,829 --> 01:12:58,374
+they were running out in the street.
+
+1388
+01:12:58,457 --> 01:13:00,000
+They were so happy.
+
+1389
+01:13:00,084 --> 01:13:02,211
+They were chanting, they were celebrating.
+
+1390
+01:13:02,294 --> 01:13:05,172
+Especially after zero-three down,
+
+1391
+01:13:05,547 --> 01:13:10,469
+at the time, it seemed to be hopeless,
+that the end of the world was coming,
+
+1392
+01:13:10,552 --> 01:13:11,720
+but we saw the light.
+
+1393
+01:13:11,970 --> 01:13:13,514
+Usually...
+
+1394
+01:13:13,597 --> 01:13:17,643
+I'm happy when I win,
+not when my colleague wins.
+
+1395
+01:13:18,227 --> 01:13:21,897
+But, this time, it felt like my win.
+
+1396
+01:13:21,980 --> 01:13:24,400
+I didn't want to make a move
+which AlphaGo could predict.
+
+1397
+01:13:24,483 --> 01:13:25,526
+This part...
+
+1398
+01:13:26,485 --> 01:13:29,196
+It didn't anticipate this wedge move.
+
+1399
+01:13:30,155 --> 01:13:31,698
+I won one game at least.
+
+1400
+01:13:32,741 --> 01:13:33,826
+Good job today.
+
+1401
+01:14:02,271 --> 01:14:04,690
+But I didn't expect it
+
+1402
+01:14:04,773 --> 01:14:06,150
+to be like this.
+
+1403
+01:14:06,692 --> 01:14:08,819
+I couldn't believe I won one game.
+
+1404
+01:14:08,902 --> 01:14:11,321
+It was unbelievable.
+
+1405
+01:14:11,905 --> 01:14:12,990
+Thank you very much.
+
+1406
+01:14:14,324 --> 01:14:17,995
+I have never been congratulated so much
+for winning one game.
+
+1407
+01:14:18,745 --> 01:14:22,499
+After losing three games in a row,
+I couldn't be happier.
+
+1408
+01:14:25,377 --> 01:14:30,090
+This victory is so valuable
+that I wouldn't exchange it
+
+1409
+01:14:30,174 --> 01:14:32,885
+for anything in the world.
+
+1410
+01:14:33,343 --> 01:14:36,597
+My question is about move number 78.
+
+1411
+01:14:36,680 --> 01:14:39,933
+Chinese top Go player
+Gu Li said that it was a god's play.
+
+1412
+01:14:40,017 --> 01:14:42,519
+What were you thinking
+when you made that play? Thank you.
+
+1413
+01:14:42,895 --> 01:14:45,189
+At that point in the game,
+
+1414
+01:14:45,272 --> 01:14:48,150
+move 78 was the only move I could see.
+
+1415
+01:14:48,233 --> 01:14:50,611
+There was no other placement.
+
+1416
+01:14:50,694 --> 01:14:53,614
+It was the only option for me,
+so I put it there.
+
+1417
+01:14:53,697 --> 01:14:57,367
+I am quite humbled by all the praise
+I am getting for it.
+
+1418
+01:14:58,243 --> 01:15:01,663
+It does leave me a little bit
+in awe of the human brain's power,
+
+1419
+01:15:01,747 --> 01:15:05,584
+in particular, Lee's amazing ability
+to cause AlphaGo problems
+
+1420
+01:15:05,667 --> 01:15:08,337
+and find something
+seemingly out of nothing.
+
+1421
+01:15:08,420 --> 01:15:10,589
+And so, we really want
+to understand what had happened.
+
+1422
+01:15:11,298 --> 01:15:13,091
+So, it really was Lee's move?
+
+1423
+01:15:13,175 --> 01:15:14,176
+The key is the center.
+
+1424
+01:15:14,259 --> 01:15:15,945
+After the center got out,
+there was no chance.
+
+1425
+01:15:15,969 --> 01:15:16,887
+Come, come.
+
+1426
+01:15:16,970 --> 01:15:18,388
+We were winning before this.
+
+1427
+01:15:19,097 --> 01:15:20,682
+But if AlphaGo thought it was winning
+
+1428
+01:15:20,766 --> 01:15:24,019
+and it couldn't convert that win,
+that means it wasn't actually winning.
+
+1429
+01:15:24,102 --> 01:15:25,955
+Otherwise, it would have had
+the right responses.
+
+1430
+01:15:25,979 --> 01:15:27,105
+Would we have played it?
+
+1431
+01:15:27,189 --> 01:15:28,357
+Nerves of steel in there.
+
+1432
+01:15:28,440 --> 01:15:30,192
+What probability does it give it as white?
+
+1433
+01:15:33,445 --> 01:15:36,532
+It's 0.007% of...
+
+1434
+01:15:36,615 --> 01:15:38,283
+Is that in the position that he played?
+
+1435
+01:15:38,367 --> 01:15:39,636
+- That's when he played it.
+- I see.
+
+1436
+01:15:39,660 --> 01:15:41,971
+- We thought this was a 1-in-10,000 move.
+- I know it was like...
+
+1437
+01:15:41,995 --> 01:15:43,635
+- Yeah.
+- The values we didn't know about.
+
+1438
+01:15:45,499 --> 01:15:48,585
+- So the god move was literally a god move,
+- Yeah.
+
+1439
+01:15:48,669 --> 01:15:51,380
+because we believe
+that only one in 10,000 humans
+
+1440
+01:15:51,463 --> 01:15:53,066
+- would have found that move.
+- That's right.
+
+1441
+01:15:53,090 --> 01:15:55,384
+It doesn't come to mind as the top five...
+
+1442
+01:15:55,467 --> 01:15:57,803
+in the top five moves
+that you would consider.
+
+1443
+01:15:57,886 --> 01:15:59,906
+Unless you're Se-dol Lee,
+he said it was the only move.
+
+1444
+01:15:59,930 --> 01:16:02,891
+He thought it was the only move.
+Yeah, remarkable, isn't it?
+
+1445
+01:16:06,645 --> 01:16:08,814
+Welcome back to the Four Seasons.
+
+1446
+01:16:08,897 --> 01:16:10,732
+World Champion Se-dol Lee
+
+1447
+01:16:10,816 --> 01:16:16,113
+went looking for AlphaGo's weakness
+in Game Four, and he found it.
+
+1448
+01:16:16,196 --> 01:16:20,742
+Today, last round, he is looking to see
+if he can repeat that.
+
+1449
+01:16:20,826 --> 01:16:21,994
+We will see what happens.
+
+1450
+01:16:22,077 --> 01:16:23,704
+The place
+is a madhouse downstairs.
+
+1451
+01:16:23,787 --> 01:16:26,582
+Maybe as many, if not more,
+journalists here today
+
+1452
+01:16:26,665 --> 01:16:28,584
+than there were for Game One.
+
+1453
+01:16:29,793 --> 01:16:32,254
+We were really excited
+for the fifth match,
+
+1454
+01:16:32,337 --> 01:16:33,505
+to see what would happen.
+
+1455
+01:16:33,589 --> 01:16:36,842
+Was this going to be a three-two thing
+or was it going to be a four-one thing?
+
+1456
+01:16:36,925 --> 01:16:39,803
+And, you know, there's a different message
+with both of those.
+
+1457
+01:16:41,013 --> 01:16:44,433
+For me, I don't think
+AlphaGo will make the mistake again.
+
+1458
+01:16:45,350 --> 01:16:46,476
+But who knows.
+
+1459
+01:16:47,311 --> 01:16:48,437
+Maybe it will happen again.
+
+1460
+01:16:49,146 --> 01:16:53,066
+And Se-dol Lee now have more confidence
+about this.
+
+1461
+01:16:53,150 --> 01:16:58,739
+It looks like, maybe, Se-dol Lee has
+found the key in solving AlphaGo.
+
+1462
+01:16:59,364 --> 01:17:00,407
+Oh, this works!
+
+1463
+01:17:03,035 --> 01:17:06,246
+Is it fair to say
+that AlphaGo made a mistake?
+
+1464
+01:17:06,330 --> 01:17:07,770
+We might have another victory today.
+
+1465
+01:17:07,831 --> 01:17:11,084
+You weren't crazy
+about the timing on this move.
+
+1466
+01:17:11,168 --> 01:17:14,171
+- Yeah.
+- And now, you don't approve of this.
+
+1467
+01:17:14,838 --> 01:17:17,299
+Yeah, I'm sort of thinking
+that maybe AlphaGo
+
+1468
+01:17:17,382 --> 01:17:19,509
+hasn't recovered from Game Four yet. Yeah.
+
+1469
+01:17:20,052 --> 01:17:21,136
+Still deluded?
+
+1470
+01:17:21,845 --> 01:17:22,971
+We don't know.
+
+1471
+01:17:23,513 --> 01:17:24,640
+Oh, no, I hope he doesn't...
+
+1472
+01:17:24,723 --> 01:17:26,892
+No, no, he needs to play the...
+
+1473
+01:17:29,436 --> 01:17:31,688
+He played some moves.
+
+1474
+01:17:31,772 --> 01:17:32,773
+It was a bad move.
+
+1475
+01:17:32,856 --> 01:17:33,857
+I felt something.
+
+1476
+01:17:33,940 --> 01:17:36,777
+Oh, maybe his weakness
+has come back again.
+
+1477
+01:17:36,902 --> 01:17:39,863
+Are we seeing
+another short circuit?
+
+1478
+01:17:39,946 --> 01:17:42,074
+Or is there something, what's...
+
+1479
+01:17:42,157 --> 01:17:44,117
+I think it could be
+a kind of a misreading.
+
+1480
+01:17:44,910 --> 01:17:46,244
+And we are...
+
+1481
+01:17:46,328 --> 01:17:48,088
+You're pretty comfortable
+with saying that...
+
+1482
+01:17:48,121 --> 01:17:49,831
+That it is looking good
+for Se-dol Lee?
+
+1483
+01:17:49,915 --> 01:17:51,416
+It's looking good for Se-dol Lee.
+
+1484
+01:17:54,044 --> 01:17:55,420
+What is he playing in there for?
+
+1485
+01:17:55,504 --> 01:17:58,006
+There's no reason for white
+to be playing that move.
+
+1486
+01:17:58,090 --> 01:17:59,466
+It's a bad move.
+
+1487
+01:17:59,549 --> 01:18:02,386
+And in some cases,
+it's going to lose a point, too.
+
+1488
+01:18:02,469 --> 01:18:04,596
+It is exactly the same thing.
+
+1489
+01:18:04,680 --> 01:18:06,139
+It's 91% certain now.
+
+1490
+01:18:06,223 --> 01:18:08,225
+Someone was telling me
+that maybe it had...
+
+1491
+01:18:08,308 --> 01:18:10,268
+Yeah, because it's incorrect again.
+
+1492
+01:18:11,978 --> 01:18:13,647
+The whole game,
+we thought that AlphaGo
+
+1493
+01:18:13,730 --> 01:18:15,130
+was wrong about the board position.
+
+1494
+01:18:15,190 --> 01:18:18,193
+We were super worried that,
+"Oh, it's going to play garbage.
+
+1495
+01:18:18,276 --> 01:18:20,445
+It's going to be like lose
+in a very embarrassing way."
+
+1496
+01:18:20,529 --> 01:18:22,489
+And this continued for the whole game.
+
+1497
+01:18:23,323 --> 01:18:24,324
+This is a bit weird.
+
+1498
+01:18:25,158 --> 01:18:26,576
+- When did it play that?
+- Just now.
+
+1499
+01:18:26,660 --> 01:18:29,097
+- So I don't know. I mean, it doesn't...
+- Well, that we don't know.
+
+1500
+01:18:29,121 --> 01:18:31,182
+But we're not good enough
+Go players to know that, right?
+
+1501
+01:18:31,206 --> 01:18:32,040
+Yeah.
+
+1502
+01:18:32,124 --> 01:18:34,626
+As it turns out,
+none of us know Go well enough
+
+1503
+01:18:34,710 --> 01:18:36,920
+to accurately judge what AlphaGo is doing.
+
+1504
+01:18:37,003 --> 01:18:38,380
+The white is winning now.
+
+1505
+01:18:38,463 --> 01:18:39,943
+This one looks like white is winning.
+
+1506
+01:18:41,133 --> 01:18:42,008
+Ah!
+
+1507
+01:18:42,092 --> 01:18:46,888
+We all say some of AlphaGo's moves
+are so weird and strange,
+
+1508
+01:18:46,972 --> 01:18:48,390
+and may be mistakes.
+
+1509
+01:18:48,682 --> 01:18:51,977
+But after a game is finished,
+
+1510
+01:18:52,060 --> 01:18:56,148
+we have to doubt ourselves, our judgment.
+
+1511
+01:18:56,231 --> 01:18:59,401
+AlphaGo making another
+kind of nonsensical throw-in.
+
+1512
+01:18:59,985 --> 01:19:01,379
+I'm not really sure what that's about.
+
+1513
+01:19:01,403 --> 01:19:03,947
+This is what 10
+or maybe 11-dan play looks like.
+
+1514
+01:19:04,030 --> 01:19:06,700
+It looks weird,
+and we don't quite understand it.
+
+1515
+01:19:06,783 --> 01:19:10,245
+I think it's important to study more
+
+1516
+01:19:10,328 --> 01:19:13,832
+about AlphaGo's mistake-like moves.
+
+1517
+01:19:13,915 --> 01:19:17,878
+Then maybe we can adjust
+our knowledge about Go.
+
+1518
+01:19:17,961 --> 01:19:21,673
+To me, the most amazing thing
+to come out of my understanding of Go
+
+1519
+01:19:21,757 --> 01:19:23,383
+as a result of watching AlphaGo play
+
+1520
+01:19:23,467 --> 01:19:26,052
+are the infamous "slack moves."
+
+1521
+01:19:26,136 --> 01:19:27,471
+Well, there's something strange
+
+1522
+01:19:27,554 --> 01:19:29,097
+- about the way it is playing,
+- Yeah.
+
+1523
+01:19:29,181 --> 01:19:32,058
+because it's playing some moves
+that are not really necessary.
+
+1524
+01:19:32,142 --> 01:19:32,976
+Right.
+
+1525
+01:19:33,059 --> 01:19:36,062
+A "slack move" is a move
+that looks lazy.
+
+1526
+01:19:36,146 --> 01:19:39,900
+You can see these other better moves,
+and AlphaGo is rejecting them.
+
+1527
+01:19:39,983 --> 01:19:43,320
+But, what I think AlphaGo is teaching us
+
+1528
+01:19:43,403 --> 01:19:49,534
+is that we have been using score
+as a proxy for chance of winning.
+
+1529
+01:19:49,618 --> 01:19:52,621
+So the bigger my margin of territory,
+
+1530
+01:19:52,704 --> 01:19:54,706
+the more confident I am
+that I'm going to win.
+
+1531
+01:19:54,790 --> 01:19:56,416
+And AlphaGo is saying, "No, no, no.
+
+1532
+01:19:56,500 --> 01:19:58,251
+It shouldn't matter how much you win by,
+
+1533
+01:19:58,335 --> 01:20:00,462
+you only need to win by a single point.
+
+1534
+01:20:00,545 --> 01:20:03,465
+Why should I be seizing all this
+extra territory when I don't need it?"
+
+1535
+01:20:03,548 --> 01:20:05,926
+The lessons that AlphaGo is teaching us
+
+1536
+01:20:06,009 --> 01:20:11,598
+are going to influence how Go is played
+for the next thousand years.
+
+1537
+01:20:12,098 --> 01:20:14,518
+By my counting, white won this game.
+
+1538
+01:20:14,601 --> 01:20:17,562
+How... By how much?
+Are we talking two points?
+
+1539
+01:20:17,646 --> 01:20:19,564
+- One-and-a-half.
+- One-and-a-half points.
+
+1540
+01:20:19,981 --> 01:20:22,192
+One-and-a-half. Maybe half,
+one-and-a-half.
+
+1541
+01:20:22,275 --> 01:20:25,737
+Of course, Go is just a game,
+but we can learn important lessons
+
+1542
+01:20:25,821 --> 01:20:28,573
+from a computer being so successful at Go.
+
+1543
+01:20:28,657 --> 01:20:31,910
+Machines will have the capability
+not only to crunch
+
+1544
+01:20:31,993 --> 01:20:36,331
+through a huge amount of data,
+but also to analyze it intelligently.
+
+1545
+01:20:36,665 --> 01:20:39,251
+Just as in the case of the Go games,
+
+1546
+01:20:39,334 --> 01:20:42,712
+the machine made moves
+that surprised even the experts.
+
+1547
+01:20:42,796 --> 01:20:45,465
+And, eventually, the machines
+will gain our confidence
+
+1548
+01:20:45,549 --> 01:20:47,759
+because we will see that very, very often
+
+1549
+01:20:47,843 --> 01:20:50,846
+they make a better guess
+than we could have made as humans.
+
+1550
+01:20:53,849 --> 01:20:55,684
+AlphaGo has strong foundation.
+
+1551
+01:21:01,648 --> 01:21:03,149
+What surprised me the most was...
+
+1552
+01:21:03,608 --> 01:21:05,360
+that AlphaGo showed us
+
+1553
+01:21:05,443 --> 01:21:09,072
+that moves humans may have thought
+are creative, were actually conventional.
+
+1554
+01:21:09,781 --> 01:21:14,828
+I think this will bring
+a new paradigm to Go.
+
+1555
+01:21:14,911 --> 01:21:18,248
+AlphaGo won this area as well? Oh, god.
+
+1556
+01:21:18,331 --> 01:21:22,544
+- That makes me very uncomfortable.
+- Oh!
+
+1557
+01:21:22,627 --> 01:21:25,088
+Unfortunately, for Se-dol Lee,
+
+1558
+01:21:25,171 --> 01:21:27,424
+I think white might have
+a slight advantage here.
+
+1559
+01:21:27,507 --> 01:21:30,176
+White lights up in places,
+but if we count it like that, it's 1.5.
+
+1560
+01:21:30,260 --> 01:21:31,887
+They keep saying
+one-and-a-half points.
+
+1561
+01:21:31,970 --> 01:21:33,805
+How do you know the Korean room
+has called it?
+
+1562
+01:21:33,889 --> 01:21:35,432
+Someone, um...
+
+1563
+01:21:36,016 --> 01:21:38,101
+- Who told us the Koreans called it?
+- I don't know.
+
+1564
+01:21:38,184 --> 01:21:39,936
+The Koreans told you?
+
+1565
+01:21:40,020 --> 01:21:41,020
+Koreans called it.
+
+1566
+01:21:41,062 --> 01:21:44,024
+The Korean room
+has called it for AlphaGo.
+
+1567
+01:21:44,107 --> 01:21:47,360
+We would just like to know
+if someone Korean in there can find out.
+
+1568
+01:21:49,070 --> 01:21:50,906
+The Korean room
+think AlphaGo is winning.
+
+1569
+01:21:51,615 --> 01:21:53,241
+"Winning," okay, not... then not won.
+
+1570
+01:21:53,325 --> 01:21:54,552
+- That's what she said.
+- "Winning."
+
+1571
+01:21:54,576 --> 01:21:56,016
+She said they called it right there.
+
+1572
+01:22:01,499 --> 01:22:03,168
+AlphaGo is saying it's going to resign.
+
+1573
+01:22:03,251 --> 01:22:04,669
+- What...
+- No. I'm only joking.
+
+1574
+01:22:06,338 --> 01:22:08,214
+Jesus, I almost had a heart attack.
+
+1575
+01:22:08,798 --> 01:22:10,467
+That is ridiculous.
+
+1576
+01:22:11,217 --> 01:22:13,345
+That was very good.
+
+1577
+01:22:13,428 --> 01:22:14,763
+- Well played.
+- Yeah.
+
+1578
+01:22:14,846 --> 01:22:16,139
+- Well played.
+- No, not really.
+
+1579
+01:22:16,222 --> 01:22:19,309
+I couldn't do it for too long.
+I just couldn't think like that.
+
+1580
+01:22:19,392 --> 01:22:21,436
+David, you've been waiting
+two years to do that.
+
+1581
+01:22:21,519 --> 01:22:23,688
+He needs to do that.
+
+1582
+01:22:23,772 --> 01:22:26,316
+We don't know the score.
+We have no idea what's going on, right?
+
+1583
+01:22:27,150 --> 01:22:28,360
+Two-and-a-half points.
+
+1584
+01:22:28,443 --> 01:22:30,243
+Lee is two-and-a-half points behind,
+at least.
+
+1585
+01:22:31,488 --> 01:22:33,198
+The parting in the center,
+
+1586
+01:22:33,281 --> 01:22:35,116
+it's very hard to... It's very hard to...
+
+1587
+01:22:35,200 --> 01:22:38,119
+Lee is touching the bowl.
+
+1588
+01:22:38,203 --> 01:22:39,996
+It looks like
+he's considering resigning.
+
+1589
+01:22:40,080 --> 01:22:41,998
+Yes.
+I think he is thinking of resigning.
+
+1590
+01:22:53,176 --> 01:22:54,511
+- Did he resign?
+- He resigned.
+
+1591
+01:22:54,594 --> 01:22:56,054
+Hm? He has what?
+
+1592
+01:22:56,137 --> 01:22:57,555
+I think he resigned.
+
+1593
+01:22:57,639 --> 01:23:00,517
+- He resigned?
+- I think he resigned. Look.
+
+1594
+01:23:01,851 --> 01:23:03,812
+- He's moved everything in there.
+- What?
+
+1595
+01:23:03,895 --> 01:23:04,896
+He played the white.
+
+1596
+01:23:04,980 --> 01:23:06,147
+Aja is looking relaxed.
+
+1597
+01:23:06,231 --> 01:23:08,066
+- Yeah, he has resigned.
+- He has resigned.
+
+1598
+01:23:08,149 --> 01:23:09,275
+Yes, he is giving up.
+
+1599
+01:23:09,359 --> 01:23:11,861
+- Okay. That's it. He has given up.
+- Yeah.
+
+1600
+01:23:13,071 --> 01:23:14,906
+- Yeah!
+- Yes!
+
+1601
+01:23:23,623 --> 01:23:27,460
+I mean, I think it just really
+is a once-in-a-lifetime thing.
+
+1602
+01:23:27,877 --> 01:23:31,589
+I would say it is the most amazing thing,
+you know, I have experienced.
+
+1603
+01:23:32,298 --> 01:23:34,759
+You know, for us, it is the culmination
+of a 20-year dream.
+
+1604
+01:23:35,343 --> 01:23:39,055
+It started as a pure research endeavor.
+
+1605
+01:23:39,139 --> 01:23:42,350
+We just wanted to understand.
+Can neural networks play the game of Go?
+
+1606
+01:23:42,434 --> 01:23:47,981
+And from there, it went on
+to a level that I never expected.
+
+1607
+01:23:48,481 --> 01:23:51,568
+And, I'm unbelievably proud
+of the team.
+
+1608
+01:23:52,944 --> 01:23:55,155
+When I started doing
+artificial intelligence,
+
+1609
+01:23:55,238 --> 01:23:57,699
+it was four or five years ago,
+
+1610
+01:23:57,782 --> 01:23:59,617
+and I was really interested in that,
+
+1611
+01:23:59,701 --> 01:24:01,578
+but, like, many people
+would discourage me,
+
+1612
+01:24:01,661 --> 01:24:03,663
+and they would say,
+okay, there is no future.
+
+1613
+01:24:03,747 --> 01:24:07,125
+So, actually seeing that within five years
+
+1614
+01:24:07,208 --> 01:24:09,169
+we are at this stage right now,
+
+1615
+01:24:09,294 --> 01:24:10,795
+it's amazing by itself.
+
+1616
+01:24:10,879 --> 01:24:12,756
+Everybody say, "Nine dan."
+
+1617
+01:24:12,839 --> 01:24:14,090
+- Nine dan!
+- Nine dan!
+
+1618
+01:24:14,174 --> 01:24:15,300
+Kimchi!
+
+1619
+01:24:16,051 --> 01:24:18,428
+There are so many
+possible application domains
+
+1620
+01:24:18,511 --> 01:24:22,766
+where creativity, in a different dimension
+to what humans could do,
+
+1621
+01:24:22,849 --> 01:24:24,476
+could be immensely valuable to us.
+
+1622
+01:24:24,893 --> 01:24:26,653
+And I just love to have more
+of those moments
+
+1623
+01:24:26,728 --> 01:24:29,814
+where we look back and say,
+"Yeah, that was just like move 37.
+
+1624
+01:24:29,898 --> 01:24:31,900
+Something beautiful occurred there."
+
+1625
+01:24:32,192 --> 01:24:35,862
+At least in a broad sense,
+move 37 begat move 78,
+
+1626
+01:24:35,945 --> 01:24:40,784
+begat a new attitude in Se-dol Lee,
+a new way of seeing the game.
+
+1627
+01:24:41,785 --> 01:24:45,163
+He improved through this machine.
+
+1628
+01:24:45,663 --> 01:24:51,211
+His humanness was expanded
+after playing this inanimate creation.
+
+1629
+01:24:51,294 --> 01:24:53,755
+And the hope is that, that machine,
+
+1630
+01:24:53,838 --> 01:24:55,924
+and in particular,
+the technology behind it,
+
+1631
+01:24:56,007 --> 01:24:58,635
+can have the same effect with all of us.
+
+1632
+01:25:00,178 --> 01:25:03,723
+I remember hearing a talk
+by Kasparov, who says that, uh,
+
+1633
+01:25:03,807 --> 01:25:07,811
+a good human plus a machine
+is the best combination.
+
+1634
+01:25:09,479 --> 01:25:11,856
+This is a unique experience.
+
+1635
+01:25:12,982 --> 01:25:14,859
+Nobody can have this experience
+
+1636
+01:25:14,943 --> 01:25:16,986
+playing with AlphaGo,
+five games like this.
+
+1637
+01:25:17,403 --> 01:25:22,951
+So, I hope Se-dol Lee can find
+something in these five games.
+
+1638
+01:25:23,034 --> 01:25:25,286
+Maybe some change in his game.
+
+1639
+01:25:26,246 --> 01:25:29,040
+I saw today how he continuously fought.
+
+1640
+01:25:29,582 --> 01:25:30,583
+SE-DOL LEE
+2016-03-15
+
+1641
+01:25:30,667 --> 01:25:31,835
+He's very good,
+
+1642
+01:25:31,918 --> 01:25:34,170
+a master, a really great master.
+
+1643
+01:25:36,089 --> 01:25:37,757
+I have grown
+
+1644
+01:25:37,841 --> 01:25:39,634
+through this experience.
+
+1645
+01:25:39,717 --> 01:25:44,889
+I will make something out of it
+with the lessons I have learned.
+
+1646
+01:25:45,390 --> 01:25:49,894
+I feel thankful and feel like
+
+1647
+01:25:50,478 --> 01:25:54,607
+I have found the reason I play Go.
+
+1648
+01:25:54,691 --> 01:25:59,070
+I realize it was really a good choice,
+learning to play Go.
+
+1649
+01:26:00,238 --> 01:26:06,494
+It has been an unforgettable experience.
+
+1650
+01:26:09,581 --> 01:26:11,416
+This event is done,
+
+1651
+01:26:11,499 --> 01:26:14,836
+but for the story,
+maybe, it's just beginning.
+
+1652
+01:26:14,919 --> 01:26:15,919
+We don't know.
+
+1653
+01:26:19,966 --> 01:26:23,011
+It's just when I played with AlphaGo,
+he showed me something.
+
+1654
+01:26:23,261 --> 01:26:25,471
+I felt something beautiful. That was it.
+
+1655
+01:26:26,723 --> 01:26:30,977
+I saw the world differently,
+before everything began.
+
+1656
+01:26:32,437 --> 01:26:35,732
+What is really behind the game of Go?
+
+1657
+01:26:36,524 --> 01:26:39,611
+What that is, it can change my game.
+
+1658
+01:26:43,198 --> 01:26:47,076
+Maybe it can just show humans
+something we have never discovered.
+
+1659
+01:26:48,828 --> 01:26:50,705
+Maybe, there is beauty.
+
+1659
+01:26:51,305 --> 01:26:57,482
+Watch free HD Movies and TV Shows at
+StreamingSites.com
