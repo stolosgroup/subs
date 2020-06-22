@@ -1,0 +1,2827 @@
+1
+00:00:00,183 --> 00:00:02,031
+<i>Yo soy el Doctor Kreizler.</i>
+
+2
+00:00:02,069 --> 00:00:04,070
+<i>¿Puedes decirme quי viste?</i>
+
+3
+00:00:04,171 --> 00:00:05,637
+<i>ANTERIORMENTE EN
+THE ALIENIST</i>
+
+4
+00:00:05,672 --> 00:00:07,107
+<i>Giorgio Santorelli.</i>
+
+5
+00:00:07,108 --> 00:00:09,322
+<i>Es un chico-puta,
+trabaja en Paresis Hall.</i>
+
+6
+00:00:09,577 --> 00:00:12,245
+<i>Sara. Consםgueme el
+expediente del caso Zweig.</i>
+
+7
+00:00:12,280 --> 00:00:13,313
+<i>Necesitamos de tu ayuda.</i>
+
+8
+00:00:13,347 --> 00:00:15,190
+<i>El chico era un paciente mםo.</i>
+
+9
+00:00:15,225 --> 00:00:16,650
+<i>Un caso sin resolver.</i>
+
+10
+00:00:16,684 --> 00:00:18,585
+<i>Mis dos hijos estבn muertos.</i>
+
+11
+00:00:18,619 --> 00:00:19,986
+<i>Por su culpa.</i>
+
+12
+00:00:20,021 --> 00:00:22,589
+<i>Busquen cualquier cosa que pueda
+conectar a Benjamin Zweig...</i>
+
+13
+00:00:22,623 --> 00:00:24,057
+<i>...al chico Santorelli.</i>
+
+14
+00:00:24,091 --> 00:00:26,259
+<i>Debo seguir esto a
+donde quiera que vaya.</i>
+
+15
+00:00:26,294 --> 00:00:29,396
+<i>Aunque me lleve al mבs
+oscuro pozo del Infierno.</i>
+
+16
+00:00:32,905 --> 00:00:34,496
+<i>EN EL SIGLO 19 LAS PERSONAS QUE...</i>
+
+17
+00:00:34,597 --> 00:00:36,216
+<i>...SUFRֽAN DE
+ENFERMEDADES MENTALES...</i>
+
+18
+00:00:36,317 --> 00:00:37,893
+<i>...SE CREֽA DEBֽAN
+SER ALIENADAS DE...</i>
+
+19
+00:00:37,994 --> 00:00:39,569
+<i>...SUS PROPIAS
+NATURALEZAS AUTֹNTICAS.</i>
+
+20
+00:00:39,670 --> 00:00:43,216
+<i>LOS EXPERTOS QUE LOS ESTUDIARON...</i>
+
+21
+00:00:43,317 --> 00:00:46,961
+<i>...ERAN CONOCIDOS
+COMO "ALIENISTAS".</i>
+
+22
+00:01:09,103 --> 00:01:11,771
+¿Traen a muchos niסos aquם?
+
+23
+00:01:11,806 --> 00:01:14,341
+Sףlo traemos a los pobres.
+
+24
+00:01:14,875 --> 00:01:17,344
+Son los niסos mבs pobres
+los que me interesan.
+
+25
+00:01:17,378 --> 00:01:19,053
+Especםficamente homicidios.
+
+26
+00:01:19,088 --> 00:01:21,314
+Muchos de esos, tambiיn.
+
+27
+00:01:22,717 --> 00:01:24,684
+Tambiיn pueden haber
+sido removidos...
+
+28
+00:01:24,719 --> 00:01:26,097
+...de los ףrganos y
+partes del cuerpo.
+
+29
+00:01:26,120 --> 00:01:27,854
+Los ladrones de tumbas
+son aתn mבs comunes...
+
+30
+00:01:27,888 --> 00:01:30,290
+- ... de lo que nos gustarםa.
+- No, ladrones de tumbas no.
+
+31
+00:01:30,324 --> 00:01:33,059
+Estas mutilaciones no habrםan servido
+para ningתn propףsito mיdico...
+
+32
+00:01:33,094 --> 00:01:35,762
+...como la extirpaciףn
+de la lengua.
+
+33
+00:01:37,531 --> 00:01:39,599
+Levםtico...
+
+34
+00:01:39,633 --> 00:01:41,601
+Deuteronomio...
+
+35
+00:01:41,635 --> 00:01:44,304
+Proverbios.
+
+36
+00:01:44,338 --> 00:01:46,106
+¿Disculpe? ¿Cףmo dice?
+
+37
+00:01:47,115 --> 00:01:50,578
+No lleva ninguna seסal de su fe,
+doctor,
+
+38
+00:01:51,545 --> 00:01:53,803
+pero ustedes los
+hombres de Ciencia...
+
+39
+00:01:53,904 --> 00:01:57,335
+...insisten en que
+no se oponen a Dios.
+
+40
+00:01:58,018 --> 00:02:00,920
+Insisten en que son Dios.
+
+41
+00:02:00,955 --> 00:02:03,216
+No insisto en tal cosa.
+
+42
+00:02:03,791 --> 00:02:05,676
+Se lo preguntarי de nuevo:
+
+43
+00:02:06,160 --> 00:02:07,827
+¿Tiene experiencia
+con cadבveres...
+
+44
+00:02:07,862 --> 00:02:09,188
+...en donde se les quitף la lengua?
+
+45
+00:02:09,222 --> 00:02:10,515
+No.
+
+46
+00:02:12,266 --> 00:02:15,228
+Pero si es el chico-puta
+del puente,
+
+47
+00:02:16,604 --> 00:02:20,140
+dirםa que se lo merecםa.
+
+48
+00:02:30,079 --> 00:02:31,538
+¡Cבllala, Doyle!
+
+49
+00:02:33,507 --> 00:02:34,789
+Espera.
+
+50
+00:02:36,090 --> 00:02:39,793
+No muestres mבs tu cara
+por 300 de Mulberry,
+
+51
+00:02:39,827 --> 00:02:40,994
+estתpido conejillo de indias.
+
+52
+00:02:44,465 --> 00:02:47,133
+Cualquiera que venga a ver
+a la familia Santorelli,
+
+53
+00:02:47,168 --> 00:02:49,803
+le dices que no has visto nada.
+
+54
+00:03:05,877 --> 00:03:08,357
+Esto es una advertencia,
+seסor Santorelli.
+
+55
+00:03:11,592 --> 00:03:16,696
+¿Mantenga su sucia nariz de dago
+fuera de asuntos policiales?
+
+56
+00:03:45,797 --> 00:03:48,945
+<i>The Alienist - S01E02
+Una traducciףn de
+TaMaBin</i>
+
+57
+00:03:53,545 --> 00:03:55,615
+<i>WOLFF ABSUELTO EN EL
+ASESINATO DE SANTORELLI.</i>
+
+58
+00:04:01,501 --> 00:04:02,560
+Capitבn.
+
+59
+00:04:04,419 --> 00:04:06,438
+Seguramente es mבs
+agradable para los ojos...
+
+60
+00:04:06,473 --> 00:04:09,108
+...tener a una mujer en el lugar,
+¿no es asם, Sargento Doyle?
+
+61
+00:04:09,142 --> 00:04:10,435
+Lo es.
+
+62
+00:04:10,800 --> 00:04:12,244
+Seסorita Howard.
+
+63
+00:04:17,617 --> 00:04:19,418
+¿Estarםa el Comisionado por aquם?
+
+64
+00:04:19,452 --> 00:04:22,688
+Estב asistiendo a audiencias
+disciplinarias esta tarde.
+
+65
+00:04:23,355 --> 00:04:25,958
+Cierto, bueno,
+sףlo querםa hacerle saber...
+
+66
+00:04:25,992 --> 00:04:27,604
+Los Santorelli,
+no tenםan mucho que aסadir.
+
+67
+00:04:27,627 --> 00:04:30,796
+A los hechos de cףmo
+mataron a su pobre chico.
+
+68
+00:04:31,863 --> 00:04:34,433
+Asם que no parece necesario...
+
+69
+00:04:34,467 --> 00:04:36,536
+...realizar cualquier
+otra consulta...
+
+70
+00:04:37,337 --> 00:04:39,338
+...a lo largo de esas lםneas.
+
+71
+00:04:41,341 --> 00:04:42,841
+¿Hay algo mבs?
+
+72
+00:04:44,251 --> 00:04:45,744
+Con tu permiso.
+
+73
+00:04:49,349 --> 00:04:50,800
+Pestaסas.
+
+74
+00:04:54,287 --> 00:04:55,554
+Vamos, sopla.
+
+75
+00:04:55,588 --> 00:04:57,389
+Te traerב suerte.
+
+76
+00:05:13,206 --> 00:05:16,075
+Asegתrate de decirle al
+Comisionado lo que te dije.
+
+77
+00:05:28,492 --> 00:05:30,489
+No creo que haya capturado...
+
+78
+00:05:30,523 --> 00:05:33,826
+...la lםnea de su mandםbula,
+seסor Moore.
+
+79
+00:06:09,195 --> 00:06:10,429
+Allם.
+
+80
+00:06:10,463 --> 00:06:14,299
+El parecido ahora
+parece mבs correcto.
+
+81
+00:06:25,278 --> 00:06:27,346
+Hola.
+
+82
+00:06:28,815 --> 00:06:31,316
+Connor ha ido a ver
+a los Santorelli.
+
+83
+00:06:31,351 --> 00:06:32,518
+¿Lo sabe Roosevelt?
+
+84
+00:06:32,552 --> 00:06:33,685
+No estב adentro.
+
+85
+00:06:33,720 --> 00:06:35,354
+Pero quiero ir a hablar con ellos.
+
+86
+00:06:36,196 --> 00:06:38,590
+Pero trabajas como mecanףgrafa.
+
+87
+00:06:39,199 --> 00:06:40,370
+Prefiero el tיrmino "secretaria",
+
+88
+00:06:40,393 --> 00:06:43,362
+pero tengo buenas razones
+para querer involucrarme.
+
+89
+00:06:44,913 --> 00:06:46,176
+No serבs bienvenida en esa parte...
+
+90
+00:06:46,199 --> 00:06:47,633
+...del vecindario, ya sabes.
+
+91
+00:06:47,667 --> 00:06:49,101
+Puede que sףlo sea una secretaria,
+
+92
+00:06:49,135 --> 00:06:50,847
+pero trabajo para el
+Departamento de Policםa.
+
+93
+00:06:50,870 --> 00:06:53,238
+A la gentuza no le importarב eso.
+
+94
+00:06:53,273 --> 00:06:56,008
+Por eso necesito que me acompaסes.
+
+95
+00:06:57,210 --> 00:06:59,244
+Eso tampoco les importarב.
+
+96
+00:06:59,552 --> 00:07:01,547
+¿Estבs diciendo que tienes miedo?
+
+97
+00:07:24,904 --> 00:07:27,206
+¿Sabe Roosevelt que
+estבs haciendo esto?
+
+98
+00:07:27,240 --> 00:07:28,540
+Cuando se trata del Comisionado,
+
+99
+00:07:28,575 --> 00:07:30,676
+a veces me parece
+mejor pedir perdףn...
+
+100
+00:07:30,710 --> 00:07:31,910
+...que pedir permiso.
+
+101
+00:08:01,908 --> 00:08:04,376
+¡Dios mםo! Un bebי.
+
+102
+00:08:04,477 --> 00:08:06,445
+Sara, no lo toques.
+
+103
+00:08:06,480 --> 00:08:09,014
+Estos niסos a menudo
+estבn enfermos.
+
+104
+00:08:09,048 --> 00:08:10,082
+Pobrecito.
+
+105
+00:08:10,116 --> 00:08:13,018
+¿Dףnde estב tu madre?
+
+106
+00:08:34,807 --> 00:08:36,441
+Seסora Santorelli.
+
+107
+00:08:57,063 --> 00:08:58,864
+Cree que eres doctor.
+
+108
+00:08:59,422 --> 00:09:01,133
+Llamף hace una hora.
+
+109
+00:09:01,167 --> 00:09:02,534
+¿Quי debo hacer?
+
+110
+00:09:03,009 --> 00:09:04,670
+No lo sי. Finge.
+
+111
+00:09:09,342 --> 00:09:12,678
+¿Puedes contarnos sobre los hombres
+que le hicieron esto a tu padre?
+
+112
+00:09:18,817 --> 00:09:20,152
+Dos eran Policםas.
+
+113
+00:09:20,186 --> 00:09:24,198
+El otro era un sacerdote.
+
+114
+00:09:24,924 --> 00:09:26,425
+¿Quי es lo que dijeron?
+
+115
+00:09:26,459 --> 00:09:28,460
+Dicen que Giorgio muriף en pecado,
+
+116
+00:09:29,035 --> 00:09:30,996
+que era mejor para la familia...
+
+117
+00:09:31,030 --> 00:09:32,898
+...si mantenemos la boca cerrada.
+
+118
+00:09:42,208 --> 00:09:45,043
+No entiendo lo que dice.
+
+119
+00:09:45,078 --> 00:09:47,045
+Habla de mi hermano.
+
+120
+00:09:48,314 --> 00:09:50,148
+Giorgio no era como
+los otros chicos.
+
+121
+00:09:53,019 --> 00:09:56,555
+Papב, le pegaba a Giorgio.
+Lo llamף niסa.
+
+122
+00:09:56,589 --> 00:09:59,091
+Por eso se escapף.
+
+123
+00:10:06,599 --> 00:10:10,202
+Dice que la Policםa dijo que
+con Giorgio es lo mismo...
+
+124
+00:10:10,236 --> 00:10:13,005
+...como los otros chicos
+que fueron asesinados.
+
+125
+00:10:13,039 --> 00:10:14,806
+A nadie le importa.
+
+126
+00:10:14,841 --> 00:10:16,541
+¿Otros chicos?
+
+127
+00:10:24,283 --> 00:10:26,551
+Dיjame probar יse.
+
+128
+00:10:28,821 --> 00:10:30,522
+Eso se ve bien.
+
+129
+00:10:48,975 --> 00:10:50,776
+Mira.
+Las mismas marcas de cuchillo.
+
+130
+00:10:53,097 --> 00:10:54,147
+Nos llevaremos יste.
+
+131
+00:11:02,255 --> 00:11:05,190
+¿Estבs pensando en convertirte
+en socialista ahora?
+
+132
+00:11:05,224 --> 00:11:06,958
+¿Sabes la diferencia
+entre el capitalismo...
+
+133
+00:11:06,993 --> 00:11:07,959
+...y socialismo?
+
+134
+00:11:07,994 --> 00:11:09,345
+No.
+
+135
+00:11:12,231 --> 00:11:14,767
+En el capitalismo,
+el hombre explota al hombre.
+
+136
+00:11:16,168 --> 00:11:18,164
+En el socialismo, es al revיs.
+
+137
+00:11:18,199 --> 00:11:19,237
+¡Sigue!
+
+138
+00:11:19,272 --> 00:11:20,806
+Para ahם.
+
+139
+00:11:31,851 --> 00:11:37,289
+Todas las noches, doctor Kreizler,
+todas las noches, ella se toca.
+
+140
+00:11:39,165 --> 00:11:43,095
+El sacerdote dice que necesita
+un baסo de hielo y sanguijuelas.
+
+141
+00:11:43,129 --> 00:11:44,421
+¿Sanguijuelas?
+
+142
+00:11:46,700 --> 00:11:49,365
+El sacerdote dice que hay
+algo mal en su mente.
+
+143
+00:11:50,203 --> 00:11:51,670
+Por eso se la traigo.
+
+144
+00:11:51,704 --> 00:11:53,305
+Seסora Rajk, no hay nada malo...
+
+145
+00:11:53,339 --> 00:11:55,107
+...con la mente de su hija.
+
+146
+00:11:56,582 --> 00:11:58,710
+Te estבs convirtiendo
+en una mujer joven.
+
+147
+00:11:59,185 --> 00:12:01,346
+Y no hay nada que tu madre,
+ni ningתn sacerdote...
+
+148
+00:12:01,380 --> 00:12:03,148
+...puedan hacer al respecto.
+
+149
+00:12:04,611 --> 00:12:06,192
+<i>¿Por quי la trajiste aquם?</i>
+
+150
+00:12:07,039 --> 00:12:09,289
+<i>Necesita de Dios, ¡no un doctor!</i>
+
+151
+00:12:09,989 --> 00:12:13,925
+El cuerpo es el templo
+del Espםritu Santo.
+
+152
+00:12:13,960 --> 00:12:18,096
+Es un don bendito el no ser
+profanado por la lujuria.
+
+153
+00:12:19,287 --> 00:12:23,028
+<i>Aquel que no ama,
+no conoce a Dios...</i>
+
+154
+00:12:23,363 --> 00:12:26,458
+<i>...porque Dios es amor.</i>
+
+155
+00:12:27,317 --> 00:12:30,709
+Sם, yo tambiיn aprendם las
+Escrituras cuando era joven.
+
+156
+00:12:30,743 --> 00:12:33,612
+Pero en vez de respuestas,
+sףlo encontrי preguntas.
+
+157
+00:12:33,646 --> 00:12:36,748
+¿Por quי Dios nos permite
+sentir placer y dolor?
+
+158
+00:12:36,783 --> 00:12:38,650
+¿Por quי le ha dado a una
+jovencita como Berthe...
+
+159
+00:12:38,684 --> 00:12:39,751
+...impulsos y deseos...
+
+160
+00:12:39,786 --> 00:12:41,753
+...que no puede empezar
+a comprender o controlar?
+
+161
+00:12:42,119 --> 00:12:45,290
+¿Hablamos del mismo Dios?
+
+162
+00:12:45,324 --> 00:12:47,692
+Este es un santuario
+para los jףvenes.
+
+163
+00:12:47,727 --> 00:12:49,294
+No tolerarי su transgresiףn,
+
+164
+00:12:49,328 --> 00:12:50,996
+ni por el hombre, ni por Dios.
+
+165
+00:12:51,030 --> 00:12:54,299
+Ahora, por favor,
+vבyase del lugar.
+
+166
+00:13:03,124 --> 00:13:05,044
+Disculpe, Detective.
+
+167
+00:13:11,655 --> 00:13:13,572
+El Comisionado busca
+unos archivos...
+
+168
+00:13:13,607 --> 00:13:15,020
+...de casos sin resolver.
+
+169
+00:13:15,054 --> 00:13:16,680
+Homicidios.
+
+170
+00:13:17,089 --> 00:13:18,557
+¿Dףnde podrםa encontrarlos?
+
+171
+00:13:19,015 --> 00:13:21,574
+- Los perros viejos.
+- ¿Disculpe?
+
+172
+00:13:21,609 --> 00:13:23,795
+Casos no resueltos.
+
+173
+00:13:26,632 --> 00:13:29,968
+Siguen ladrando desde los archivos.
+
+174
+00:13:30,002 --> 00:13:32,571
+Como perros viejos.
+
+175
+00:13:33,105 --> 00:13:35,365
+Guau. Guau.
+
+176
+00:13:36,042 --> 00:13:37,209
+Ya veo.
+
+177
+00:13:37,658 --> 00:13:39,511
+Ahם dentro.
+
+178
+00:13:59,565 --> 00:14:01,365
+<i>HOMICIDIOS, ADULTOS.
+HOMBRES; 0527
+MUJERES; 0528</i>
+
+179
+00:14:08,467 --> 00:14:11,331
+<i>ARCHIVOS DE CASO
+C074 HOMICIDIO;
+ADULTO, MUJER
+MAYOR DE 16 AׁOS</i>
+
+180
+00:14:16,796 --> 00:14:19,128
+<i>HOMICIDIO, JUVENIL.
+HOMBRES; 0525
+MUJERES; 0526</i>
+
+181
+00:14:40,994 --> 00:14:42,852
+<i>CAPITֱN CONNOR</i>
+
+182
+00:15:33,012 --> 00:15:35,422
+<i>MORTON, AARON</i>
+
+183
+00:15:38,130 --> 00:15:39,831
+Lo sי.
+
+184
+00:15:53,064 --> 00:15:54,772
+Hubo otros chicos asesinados...
+
+185
+00:15:56,615 --> 00:15:58,483
+...como sospechaba, en la morgue.
+
+186
+00:15:58,517 --> 00:16:00,185
+¿Quiיnes eran?
+
+187
+00:16:00,219 --> 00:16:01,898
+La identidad del chico negro
+fue desconocida.
+
+188
+00:16:01,921 --> 00:16:03,621
+El otro chico se
+llamaba Aaron Morton.
+
+189
+00:16:03,656 --> 00:16:05,457
+Encontrי una breve menciףn
+de יl en el Herald...
+
+190
+00:16:05,491 --> 00:16:06,925
+...hace un mes.
+
+191
+00:16:07,308 --> 00:16:10,628
+Trabajaba en un burdel
+llamado "Shang Draper's".
+
+192
+00:16:10,663 --> 00:16:12,141
+<i>Fue asesinado como
+el chico Santorelli.</i>
+
+193
+00:16:12,164 --> 00:16:14,265
+<i>Y su cuerpo escondido en
+el puente de Brooklyn.</i>
+
+194
+00:16:14,300 --> 00:16:15,667
+Es imperativo que los examinemos...
+
+195
+00:16:15,701 --> 00:16:16,913
+...para ver si hay alguna conexiףn.
+
+196
+00:16:16,936 --> 00:16:18,036
+Imposible.
+
+197
+00:16:18,070 --> 00:16:19,371
+La morgue de negros en Bleecker...
+
+198
+00:16:19,405 --> 00:16:20,850
+...quema los restos de cualquiera
+que quede sin reclamar.
+
+199
+00:16:20,873 --> 00:16:23,575
+Y no pude encontrar a la familia,
+lo que significa que Aaron Morton...
+
+200
+00:16:23,609 --> 00:16:25,543
+...fue probablemente
+enterrado en Potter's Field.
+
+201
+00:16:26,211 --> 00:16:27,611
+Pero eso no es todo.
+
+202
+00:16:27,870 --> 00:16:30,248
+Los archivos de ambos chicos
+se mantuvieron ocultos.
+
+203
+00:16:30,282 --> 00:16:32,384
+Los encontrי por casualidad.
+
+204
+00:16:32,667 --> 00:16:34,486
+Podrםa haber otros.
+
+205
+00:16:40,054 --> 00:16:42,473
+Esta informaciףn es invaluable,
+seסorita Howard.
+
+206
+00:16:42,495 --> 00:16:43,728
+Gracias.
+
+207
+00:16:43,763 --> 00:16:46,064
+<i>¿Roosevelt sabe lo que has hecho?</i>
+
+208
+00:16:46,098 --> 00:16:47,298
+No.
+
+209
+00:16:48,307 --> 00:16:49,801
+¿Tienes planes para esta noche?
+
+210
+00:16:50,059 --> 00:16:51,269
+Sם.
+
+211
+00:16:51,477 --> 00:16:54,272
+Si mando un carruaje
+a las 9:00 p.m.,
+
+212
+00:16:54,306 --> 00:16:55,807
+¿se pueden alterar tus planes?
+
+213
+00:16:55,841 --> 00:16:57,675
+¿Es una peticiףn o una orden,
+doctor?
+
+214
+00:16:58,664 --> 00:17:00,196
+Como le parezca,
+seסorita Howard.
+
+215
+00:17:04,532 --> 00:17:06,243
+Dיjame ayudarte.
+
+216
+00:17:27,206 --> 00:17:28,940
+Gracias, Mary.
+
+217
+00:17:36,689 --> 00:17:38,917
+¿Quי mבs aprendiste
+sobre Santorelli?
+
+218
+00:17:39,191 --> 00:17:40,592
+Su hermano dijo que
+era "diferente".
+
+219
+00:17:40,619 --> 00:17:42,020
+¿Diferente?
+
+220
+00:17:42,054 --> 00:17:44,022
+Tenםa la clara impresiףn
+de que otros chicos...
+
+221
+00:17:44,023 --> 00:17:47,758
+...encontraban a Giorgio de
+alguna manera, efםmero o...
+
+222
+00:17:47,860 --> 00:17:52,597
+...bueno, se inclinaba hacia
+el instinto sexual contrario.
+
+223
+00:17:52,631 --> 00:17:53,965
+Ser efםmero e inclinado...
+
+224
+00:17:53,999 --> 00:17:55,667
+...hacia un instinto
+sexual contrario...
+
+225
+00:17:55,701 --> 00:17:56,768
+...son dos cosas diferentes.
+
+226
+00:17:56,802 --> 00:17:58,069
+¿El chico era uno u otro?
+
+227
+00:17:58,104 --> 00:18:00,371
+¿O era a la vez el
+primero y el segundo?
+
+228
+00:18:00,406 --> 00:18:02,340
+Estoy seguro de que no lo sי.
+
+229
+00:18:02,715 --> 00:18:04,053
+Todo lo que su hermano
+dijo fue que Giorgio...
+
+230
+00:18:04,076 --> 00:18:06,845
+...era diferente a los otros
+chicos y que habםa huido.
+
+231
+00:18:12,308 --> 00:18:14,119
+¿Lo golpearon?
+
+232
+00:18:14,153 --> 00:18:17,731
+¿Quי chico no estב en esa
+parte olvidada de la ciudad?
+
+233
+00:18:19,523 --> 00:18:21,860
+Dos chicos mבs asesinados.
+
+234
+00:18:23,629 --> 00:18:26,198
+Necesita alimentar su
+hambre como un adicto.
+
+235
+00:18:26,632 --> 00:18:29,367
+No puede pasar mucho
+tiempo sin matar otra vez.
+
+236
+00:18:54,793 --> 00:18:56,928
+Acיrcate, criatura.
+
+237
+00:19:00,725 --> 00:19:02,365
+¿Quי te pasa en la boca?
+
+238
+00:19:12,886 --> 00:19:14,954
+¡Oye! ¡Oye!
+
+239
+00:19:15,571 --> 00:19:17,044
+Hבblame de la seסorita Howard.
+
+240
+00:19:17,795 --> 00:19:19,159
+Te hablarי de la seסorita Howard...
+
+241
+00:19:19,194 --> 00:19:20,535
+...si me dices adףnde vamos.
+
+242
+00:19:21,536 --> 00:19:23,795
+Noto que usa un anillo
+de hombre.
+
+243
+00:19:24,477 --> 00:19:25,700
+¿Por quי sientes tanto placer...
+
+244
+00:19:25,701 --> 00:19:28,002
+...en mantener a todos
+sin saber tus planes?
+
+245
+00:19:32,644 --> 00:19:34,599
+El anillo era de su padre.
+
+246
+00:19:35,641 --> 00:19:38,649
+Una situaciףn bastante triste.
+
+247
+00:19:38,683 --> 00:19:42,352
+Un accidente de caza, o al menos
+esa fue la historia oficial.
+
+248
+00:19:42,387 --> 00:19:45,735
+Los rumores eran que
+muriף por su propia mano.
+
+249
+00:19:46,702 --> 00:19:48,035
+¿Quי edad tenםa?
+
+250
+00:19:48,336 --> 00:19:49,106
+Doce.
+
+251
+00:19:49,474 --> 00:19:51,642
+A esa edad fue enviada
+a un Sanatorio.
+
+252
+00:19:51,677 --> 00:19:54,465
+Habםa perdido a su madre
+cuando aתn era muy joven.
+
+253
+00:19:55,667 --> 00:19:57,634
+Tal vez deberםas medir su crבneo...
+
+254
+00:19:57,669 --> 00:19:59,970
+...para ver cףmo le afectף.
+
+255
+00:20:03,502 --> 00:20:04,975
+¿Tienes interיs en ella?
+
+256
+00:20:05,009 --> 00:20:07,578
+Dios mםo, Laszlo.
+La conozco desde que era una niסa.
+
+257
+00:20:07,612 --> 00:20:08,745
+Ya no es una niסa.
+
+258
+00:20:08,780 --> 00:20:10,280
+No he pensado en
+ella de esa manera.
+
+259
+00:20:10,315 --> 00:20:11,803
+Por supuesto que sם.
+
+260
+00:20:20,358 --> 00:20:21,758
+No, Tessie.
+
+261
+00:20:22,021 --> 00:20:23,460
+No me pondrי un vestido de noche.
+
+262
+00:20:23,495 --> 00:20:25,362
+Ya que no tengo
+necesidad de halagarme.
+
+263
+00:20:25,858 --> 00:20:27,965
+¿Habrב caballeros presentes?
+
+264
+00:20:29,528 --> 00:20:32,324
+Deberםa decir, mבs bien,
+que habrב colegas presentes.
+
+265
+00:20:33,004 --> 00:20:35,072
+Los colegas tambiיn son caballeros.
+
+266
+00:20:35,106 --> 00:20:38,041
+Razףn de mבs para dejar
+una buena impresiףn.
+
+267
+00:20:58,062 --> 00:21:00,352
+¿Quiיn es ese que estב
+sentado con Roosevelt?
+
+268
+00:21:01,769 --> 00:21:03,500
+¿Quieres decir que no reconoces...
+
+269
+00:21:03,535 --> 00:21:05,135
+...al Alcalde de Nueva York?
+
+270
+00:21:05,170 --> 00:21:06,470
+¿Ese es el Alcalde Strong?
+
+271
+00:21:08,640 --> 00:21:10,474
+Dios mםo, estב envejecido.
+
+272
+00:21:20,280 --> 00:21:22,999
+Su familia crece dםa a dםa.
+
+273
+00:21:23,555 --> 00:21:25,289
+¿De quי estבs hablando?
+
+274
+00:21:25,323 --> 00:21:27,090
+J.P. Morgan.
+
+275
+00:21:27,670 --> 00:21:30,093
+Todas las hermosas jovencitas
+que han sido vistas con יl...
+
+276
+00:21:30,128 --> 00:21:31,995
+...dice que son su sobrina.
+
+277
+00:21:35,633 --> 00:21:37,868
+Pobre Roosevelt.
+
+278
+00:21:38,411 --> 00:21:40,537
+No le gusta la ףpera,
+tanto como a ti.
+
+279
+00:21:40,572 --> 00:21:43,674
+Dudoso.
+
+280
+00:21:45,910 --> 00:21:48,078
+No nos esperes despierta
+esta noche, mamב.
+
+281
+00:21:48,179 --> 00:21:49,363
+<i>¿Adףnde van?</i>
+
+282
+00:21:50,615 --> 00:21:52,279
+Tenemos asuntos policiales.
+
+283
+00:21:53,235 --> 00:21:55,991
+<i>No huele como a asuntos
+de la Policםa.</i>
+
+284
+00:21:56,026 --> 00:21:57,732
+Quiere decir que apestas
+como una puta de 10 centavos.
+
+285
+00:21:57,755 --> 00:21:59,327
+¿Cףmo lo sabrםas?
+
+286
+00:22:01,254 --> 00:22:02,152
+¿Mami?
+
+287
+00:22:02,453 --> 00:22:05,670
+<i>Mamב, acuיrdate de apagar las velas
+antes de ir a la cama.</i>
+
+288
+00:22:05,917 --> 00:22:07,925
+<i>Pero es el Sabbat.</i>
+
+289
+00:22:08,866 --> 00:22:10,797
+No es esta noche, mamב.
+
+290
+00:22:40,464 --> 00:22:41,373
+¿Ya se acabף?
+
+291
+00:22:41,599 --> 00:22:42,966
+<i>El intermedio.</i>
+
+292
+00:22:54,178 --> 00:22:55,579
+Gracias.
+
+293
+00:22:59,784 --> 00:23:03,120
+Muy bien.
+Me verי obligado a beber por dos.
+
+294
+00:23:06,758 --> 00:23:08,058
+Alcalde Strong.
+
+295
+00:23:08,092 --> 00:23:10,294
+Es maravilloso verlo de nuevo.
+
+296
+00:23:10,328 --> 00:23:11,628
+Tiene buen aspecto, seסor.
+
+297
+00:23:11,663 --> 00:23:13,297
+Gracias.
+
+298
+00:23:13,331 --> 00:23:14,903
+Soy el doctor Kreizler.
+
+299
+00:23:15,566 --> 00:23:17,364
+¿El alienista?
+
+300
+00:23:17,869 --> 00:23:19,699
+Buenas noches, seסor Comisionado.
+
+301
+00:23:21,533 --> 00:23:23,573
+- Buenas noches, seסor Roosevelt.
+- Robert.
+
+302
+00:23:23,608 --> 00:23:25,475
+- Theodore.
+- Tom.
+
+303
+00:23:25,510 --> 00:23:27,311
+- ¿Por quי esta noche?
+- Buenas noches, Comisionado.
+
+304
+00:23:27,345 --> 00:23:29,035
+Necesito algo de ti.
+
+305
+00:23:29,069 --> 00:23:31,481
+El examen del chico Zweig
+revelף serraciones...
+
+306
+00:23:31,516 --> 00:23:34,651
+...en el hueso malar y la cresta
+supraorbital de ambos ojos.
+
+307
+00:23:34,686 --> 00:23:36,486
+Alguien le cortף los
+ojos con un cuchillo.
+
+308
+00:23:36,521 --> 00:23:37,954
+Este no es ni el momento,
+ni el lugar...
+
+309
+00:23:37,989 --> 00:23:39,756
+...para discutir la
+autopsia de un niסo.
+
+310
+00:23:39,791 --> 00:23:41,958
+Ni siquiera deberםan
+verme hablando contigo.
+
+311
+00:23:41,993 --> 00:23:43,850
+No fue ningתn carroסero
+el que dejף esas marcas,
+
+312
+00:23:43,873 --> 00:23:45,162
+y si fuera un apostador,
+
+313
+00:23:45,196 --> 00:23:47,208
+- apostarםa una suma bastante grande...
+- Buenas noches, Comisionado.
+
+314
+00:23:47,231 --> 00:23:48,877
+...sobre la probabilidad
+de que las mismas marcas...
+
+315
+00:23:48,900 --> 00:23:51,735
+...estarבn presentes en las
+ףrbitas de Giorgio Santorelli.
+
+316
+00:23:51,769 --> 00:23:53,737
+Eso lo determinarב el forense.
+
+317
+00:23:53,771 --> 00:23:55,772
+Eso puede tardar meses,
+si es que alguna vez pasa.
+
+318
+00:23:55,807 --> 00:23:57,574
+Y dos chicos mבs de
+las clases bajas...
+
+319
+00:23:57,608 --> 00:23:59,076
+...han sido asesinados
+recientemente,
+
+320
+00:23:59,110 --> 00:24:00,722
+aunque tu Policםa parece
+estar mבs preocupada...
+
+321
+00:24:00,745 --> 00:24:03,580
+...con tapar los crםmenes,
+que encontrar al perpetrador.
+
+322
+00:24:04,076 --> 00:24:05,782
+¿Cףmo has llegado a
+este conocimiento?
+
+323
+00:24:05,817 --> 00:24:07,551
+Eso no puedo decםrtelo.
+
+324
+00:24:08,747 --> 00:24:10,324
+Aunque quisiera,
+
+325
+00:24:10,359 --> 00:24:12,089
+no puedo permitirte
+el acceso al cuerpo,
+
+326
+00:24:12,123 --> 00:24:14,091
+ya que aתn estב bajo
+custodia policial.
+
+327
+00:24:14,125 --> 00:24:16,259
+Tus hermanos Isaacson se
+han probado a sם mismos...
+
+328
+00:24:16,294 --> 00:24:17,394
+...mבs que capaces.
+
+329
+00:24:20,098 --> 00:24:21,631
+T.R.
+
+330
+00:24:21,666 --> 00:24:23,346
+J.P.
+
+331
+00:24:25,410 --> 00:24:26,649
+Maldita sea, Kreizler.
+
+332
+00:24:27,266 --> 00:24:29,406
+Ademבs, necesitarי un enlace...
+
+333
+00:24:29,440 --> 00:24:30,652
+...quiיn proporcionarב
+la informaciףn...
+
+334
+00:24:30,675 --> 00:24:32,020
+...desde dentro del
+Departamento de Policםa...
+
+335
+00:24:32,043 --> 00:24:33,710
+...sin revelar su conexiףn conmigo.
+
+336
+00:24:33,845 --> 00:24:35,611
+¿Estבs sugiriendo que
+se te deberםa permitir...
+
+337
+00:24:35,612 --> 00:24:37,572
+...llevar a cabo una
+investigaciףn paralela?
+
+338
+00:24:37,948 --> 00:24:39,116
+Sם.
+
+339
+00:24:39,344 --> 00:24:42,703
+Su secretaria, la seסorita Howard,
+estב perfectamente posicionada.
+
+340
+00:24:53,582 --> 00:24:55,616
+Por favor,
+disfruten del resto de la velada.
+
+341
+00:24:55,651 --> 00:24:57,051
+Gracias.
+
+342
+00:25:04,259 --> 00:25:06,460
+Me alegro de volver a verte.
+
+343
+00:25:09,898 --> 00:25:12,767
+Gracias.
+
+344
+00:25:17,019 --> 00:25:18,673
+Muy bien.
+
+345
+00:25:21,276 --> 00:25:22,410
+<i>¡Suיltame!</i>
+
+346
+00:25:22,444 --> 00:25:23,573
+Gracias.
+
+347
+00:25:49,605 --> 00:25:51,189
+¿Cףmo estבs?
+
+348
+00:26:05,554 --> 00:26:07,888
+¿Es posible que estיs
+esperando al doctor Kreizler?
+
+349
+00:26:07,923 --> 00:26:09,490
+Sם, lo hago.
+
+350
+00:26:09,524 --> 00:26:11,913
+Soy el Sargento Detective
+Marcus Isaacson.
+
+351
+00:26:13,539 --> 00:26:14,929
+Este es mi hermano.
+
+352
+00:26:14,963 --> 00:26:17,999
+Sargento Detective Lucius Isaacson.
+
+353
+00:26:19,161 --> 00:26:20,550
+Soy Sara Howard.
+
+354
+00:26:20,751 --> 00:26:22,376
+Trabajo para el Comisionado Roosevelt.
+
+355
+00:26:23,505 --> 00:26:25,260
+¿Estבs aquם para tomar notas?
+
+356
+00:26:26,274 --> 00:26:28,012
+Francamente,
+no sי por quי estoy aquם.
+
+357
+00:26:29,555 --> 00:26:32,684
+Mis disculpas por el
+retraso de nuestra llegada.
+
+358
+00:26:33,475 --> 00:26:35,404
+Charlie, puedes dejar
+que Monsieur Ranhofer...
+
+359
+00:26:35,438 --> 00:26:36,871
+...sepa que estamos listos.
+
+360
+00:26:38,920 --> 00:26:40,187
+Un brindis.
+
+361
+00:26:40,222 --> 00:26:43,658
+Por el comienzo de una
+fructםfera colaboraciףn.
+
+362
+00:26:50,332 --> 00:26:51,799
+No creo que el vino sea kosher.
+
+363
+00:26:51,833 --> 00:26:54,702
+Pensי en que empecemos con
+una sopa de "terrapin au clair".
+
+364
+00:26:54,736 --> 00:26:56,937
+Una de las especialidades
+de la casa.
+
+365
+00:26:59,841 --> 00:27:03,177
+Espero que a nadie le importe una
+conversaciףn seria mientras comemos,
+
+366
+00:27:03,211 --> 00:27:06,047
+pero creo que es mejor
+para tener con que empezar.
+
+367
+00:27:06,081 --> 00:27:07,682
+Bueno, quizבs podrםas decirnos...
+
+368
+00:27:07,716 --> 00:27:10,051
+...quי es exactamente lo que
+estaremos haciendo para empezar.
+
+369
+00:27:10,085 --> 00:27:11,352
+¡Dios!
+
+370
+00:27:11,386 --> 00:27:12,821
+Me he adelantado, ¿no?
+
+371
+00:27:12,856 --> 00:27:14,588
+Por supuesto.
+
+372
+00:27:14,623 --> 00:27:15,890
+Deberםa explicarlo.
+
+373
+00:27:15,924 --> 00:27:17,058
+Quizבs si empezamos,
+
+374
+00:27:17,059 --> 00:27:19,579
+sus intenciones se
+explicarםan por sם mismas.
+
+375
+00:27:23,532 --> 00:27:24,819
+Por favor.
+
+376
+00:27:25,777 --> 00:27:28,135
+Ya hemos hecho que el
+doctor Kreizler sepa...
+
+377
+00:27:28,170 --> 00:27:30,805
+...de los resultados de
+nuestro examen al chico Zweig.
+
+378
+00:27:30,839 --> 00:27:32,440
+El torso fue gravemente violado...
+
+379
+00:27:32,474 --> 00:27:34,720
+...mientras que los ojos fueron
+cuidadosamente arrancados de sus cuencas.
+
+380
+00:27:34,743 --> 00:27:35,788
+Caballeros.
+
+381
+00:27:36,311 --> 00:27:38,079
+Hay una dama presente.
+
+382
+00:27:38,113 --> 00:27:39,580
+Suficiente, John.
+
+383
+00:27:39,958 --> 00:27:41,982
+Soy perfectamente capaz de oםr...
+
+384
+00:27:42,017 --> 00:27:44,085
+...lo que sea que haya que decir.
+
+385
+00:27:46,088 --> 00:27:48,756
+Continתen, por favor.
+
+386
+00:27:49,718 --> 00:27:52,927
+Asם que, nos preguntamos:
+"¿Quי instrumento...
+
+387
+00:27:52,961 --> 00:27:56,497
+...puede ser capaz
+de cortar mתsculos y tendones...
+
+388
+00:27:56,531 --> 00:27:59,400
+...y remover los
+ojos de sus cuencas?"
+
+389
+00:27:59,434 --> 00:28:03,637
+Contemplen,
+el palillo de dientes de Arkansas.
+
+390
+00:28:05,040 --> 00:28:06,485
+La hoja es lo suficientemente
+fuerte como para causar...
+
+391
+00:28:06,508 --> 00:28:08,375
+...las heridas que el
+chico sufriף en su torso.
+
+392
+00:28:08,410 --> 00:28:12,367
+Pero finamente pesada para
+remover delicadamente sus ojos.
+
+393
+00:28:32,834 --> 00:28:34,802
+Vamos.
+
+394
+00:28:42,778 --> 00:28:43,940
+Vamos a comer.
+
+395
+00:28:45,547 --> 00:28:50,071
+Has estado preparando los caballos,
+limpiando los establos,
+
+396
+00:28:50,585 --> 00:28:52,490
+y tocando tu propio yo privado.
+
+397
+00:28:53,255 --> 00:28:55,201
+Lבvate las manos antes de comer.
+
+398
+00:28:55,992 --> 00:28:58,392
+No sי por quי tengo que
+seguir diciיndote eso.
+
+399
+00:28:59,913 --> 00:29:01,729
+Caballeros,
+han hecho un buen trabajo.
+
+400
+00:29:01,763 --> 00:29:05,232
+Pero puede que haya miles de
+palillos de dientes de Arkansas,
+
+401
+00:29:05,267 --> 00:29:07,046
+incluso en Nueva York.
+
+402
+00:29:07,736 --> 00:29:09,503
+Por eso es que tenemos algo...
+
+403
+00:29:09,538 --> 00:29:12,540
+...que puede resultar
+infinitamente mבs תtil.
+
+404
+00:29:12,574 --> 00:29:14,375
+Dactiloscopia.
+
+405
+00:29:14,986 --> 00:29:16,731
+La ciencia del dedo,
+la palma de la mano,
+
+406
+00:29:16,732 --> 00:29:18,594
+o pisada, dejando una
+clara impresiףn.
+
+407
+00:29:19,181 --> 00:29:20,548
+La de la izquierda es mםa.
+
+408
+00:29:20,582 --> 00:29:22,316
+Y la de la derecha es mםa.
+
+409
+00:29:22,644 --> 00:29:24,185
+Y aתn asם somos gemelos.
+
+410
+00:29:24,219 --> 00:29:25,220
+Fraternales.
+
+411
+00:29:27,189 --> 00:29:29,623
+Hay algunos, incluyendo la
+mayorםa de nuestros colegas...
+
+412
+00:29:29,658 --> 00:29:32,393
+...en el Departamento de Policםa,
+que no aceptan huellas dactilares...
+
+413
+00:29:32,427 --> 00:29:35,162
+...como evidencia, pero la
+ciencia detrבs de ello ha...
+
+414
+00:29:35,197 --> 00:29:36,997
+Ha demostrado ser fiable.
+
+415
+00:29:39,501 --> 00:29:40,800
+He leםdo sobre esto.
+
+416
+00:29:41,854 --> 00:29:43,865
+¿No se supone que las
+huellas de una persona...
+
+417
+00:29:43,939 --> 00:29:45,439
+...no cambian a lo
+largo de su vida...
+
+418
+00:29:45,473 --> 00:29:46,740
+...y que cada una es תnica?
+
+419
+00:29:46,941 --> 00:29:48,317
+Precisamente, pero
+ciertas condiciones se...
+
+420
+00:29:48,325 --> 00:29:50,046
+...deben mantener,
+para preservarlas.
+
+421
+00:29:50,345 --> 00:29:53,147
+Y cuerpos sumergidos en
+el agua como los Zweig...
+
+422
+00:29:53,181 --> 00:29:54,481
+...no cumplirםan esas condiciones.
+
+423
+00:29:54,516 --> 00:29:59,320
+De hecho no, pero, encontramos esto.
+
+424
+00:30:07,729 --> 00:30:11,332
+Una mancha ensangrentada
+en el dorso de este reloj.
+
+425
+00:30:12,110 --> 00:30:13,500
+Descubrimos la baratija...
+
+426
+00:30:13,535 --> 00:30:15,903
+...dentro del traje
+funerario del chico Zweig.
+
+427
+00:30:17,839 --> 00:30:19,740
+Su archivo lo referenciף.
+
+428
+00:30:19,774 --> 00:30:22,376
+Fue encontrada en el techo
+cerca del tanque de agua, ¿no?
+
+429
+00:30:22,377 --> 00:30:23,984
+Y de ahם la degradaciףn.
+
+430
+00:30:24,840 --> 00:30:26,914
+La persona que dejף
+una huella como esta...
+
+431
+00:30:26,949 --> 00:30:29,008
+...bien podrםa aportar
+una muestra clara.
+
+432
+00:30:32,954 --> 00:30:34,300
+Y asם lo hizo.
+
+433
+00:30:35,634 --> 00:30:37,291
+¿Quiיn?
+
+434
+00:30:37,325 --> 00:30:39,193
+Hablas de יl como si lo conocieras.
+
+435
+00:30:39,227 --> 00:30:40,891
+Aתn no lo conocemos, John.
+
+436
+00:30:41,544 --> 00:30:42,832
+Pero lo haremos.
+
+437
+00:30:43,767 --> 00:30:47,268
+Puede que no sepamos
+su nombre o dףnde vive,
+
+438
+00:30:47,302 --> 00:30:49,536
+pero existe a plena vista.
+
+439
+00:30:49,571 --> 00:30:51,572
+Aunque las pruebas no lo
+revelan inmediatamente,
+
+440
+00:30:51,606 --> 00:30:53,974
+hay indicios e indicaciones
+de su identidad...
+
+441
+00:30:54,009 --> 00:30:56,364
+...que ha dejado inconscientemente.
+
+442
+00:30:57,112 --> 00:31:00,581
+Ahora, nuestra tarea es reunir
+esos indicios e indicaciones...
+
+443
+00:31:00,615 --> 00:31:02,516
+...para construir una
+imagen del hombre...
+
+444
+00:31:02,550 --> 00:31:05,452
+...su edad, sus antecedentes,
+sus hבbitos,
+
+445
+00:31:05,487 --> 00:31:09,056
+pero lo mבs importante,
+sus apetitos.
+
+446
+00:31:09,090 --> 00:31:11,462
+Investigar quiיnes
+son sus vםctimas,
+
+447
+00:31:12,093 --> 00:31:15,763
+donde comete sus crםmenes,
+y quי hace exactamente con ellos...
+
+448
+00:31:15,797 --> 00:31:18,010
+...hasta que un patrףn
+empiece a emerger.
+
+449
+00:31:20,001 --> 00:31:23,057
+Todas y cada una de las
+decisiones que toma...
+
+450
+00:31:23,505 --> 00:31:27,144
+...revelarבn un aspecto
+oculto de su mente alienada.
+
+451
+00:31:30,512 --> 00:31:32,650
+Y hay una cosa mבs.
+
+452
+00:31:34,150 --> 00:31:35,697
+Sabemos que los
+pensamientos conscientes...
+
+453
+00:31:35,732 --> 00:31:37,697
+...del asesino, estבn
+fijados en la violencia.
+
+454
+00:31:39,187 --> 00:31:40,955
+Si nos acercamos demasiado,
+
+455
+00:31:40,989 --> 00:31:44,158
+esa violencia bien podrםa
+derramarse sobre nosotros.
+
+456
+00:31:56,221 --> 00:31:57,548
+No le pedirבs a Sara...
+
+457
+00:31:57,582 --> 00:31:59,643
+...unirse a esta loca
+aventura tuya, ¿verdad?
+
+458
+00:31:59,644 --> 00:32:01,478
+La pondrבs en una
+posiciףn comprometedora.
+
+459
+00:32:01,493 --> 00:32:03,331
+Mira las bestias que
+la rodean a diario.
+
+460
+00:32:03,366 --> 00:32:04,847
+Creo que estב a la
+altura de la tarea.
+
+461
+00:32:05,648 --> 00:32:07,750
+No es tan fuerte como le
+gustarםa que creyeras.
+
+462
+00:32:08,180 --> 00:32:09,585
+John, por favor.
+
+463
+00:32:10,301 --> 00:32:11,755
+No dejes que tu afecto
+por la seסorita Howard...
+
+464
+00:32:11,778 --> 00:32:13,912
+...se interponga en
+el camino de la lףgica.
+
+465
+00:32:13,946 --> 00:32:15,881
+¡¿Mi afecto?!
+
+466
+00:32:16,693 --> 00:32:17,963
+¡Dios mםo!
+
+467
+00:32:18,064 --> 00:32:20,814
+¿Nunca te cansas del sonido
+de tu propia voz?
+
+468
+00:32:21,364 --> 00:32:23,488
+La seסorita Howard es ingeniosa,
+leal a Roosevelt.
+
+469
+00:32:23,523 --> 00:32:26,792
+Y como es mujer, es poco
+probable que despierte sospechas.
+
+470
+00:32:27,009 --> 00:32:28,977
+Eso es suficiente
+para mis propףsitos.
+
+471
+00:32:29,011 --> 00:32:33,169
+¿Y cuבl es mi papel en todo esto?
+
+472
+00:32:37,088 --> 00:32:39,153
+Tal vez ya lo has jugado.
+
+473
+00:32:45,894 --> 00:32:46,963
+<i>Es algo nuevo.</i>
+
+474
+00:32:46,964 --> 00:32:49,008
+La Ciencia Forense emparentבndose
+con la Psicologםa Humana.
+
+475
+00:32:49,164 --> 00:32:50,977
+Uno podrםa imaginar fבcilmente
+las ramificaciones...
+
+476
+00:32:51,000 --> 00:32:52,166
+...si tenemos יxito.
+
+477
+00:32:52,201 --> 00:32:53,522
+Me gusta bastante.
+
+478
+00:32:54,295 --> 00:32:55,495
+Seסorita Howard.
+
+479
+00:32:55,519 --> 00:32:56,640
+- Seסorita Howard.
+- Caballeros.
+
+480
+00:32:56,672 --> 00:32:58,640
+- ¿Puedo llevarles?
+- No, gracias, doctor.
+
+481
+00:32:58,674 --> 00:33:00,408
+- Por favor, sigan sin nosotros.
+- Muy bien.
+
+482
+00:33:00,442 --> 00:33:02,443
+- Buenas noches, seסores.
+- Buenas noches.
+
+483
+00:33:04,813 --> 00:33:07,615
+John. ¿Vienes con nosotros?
+
+484
+00:33:07,650 --> 00:33:08,916
+Preferirםa caminar.
+
+485
+00:33:08,951 --> 00:33:10,184
+¿A estas horas?
+
+486
+00:33:10,219 --> 00:33:11,999
+No soy un niסo.
+
+487
+00:33:14,785 --> 00:33:16,057
+Ha bebido demasiado.
+
+488
+00:33:16,091 --> 00:33:17,325
+Le ofrecם llevarlo.
+
+489
+00:33:17,359 --> 00:33:18,926
+Quizבs podrםa haber insistido.
+
+490
+00:33:19,381 --> 00:33:22,301
+Un poco de resentimiento e
+introspecciףn le harבn bien.
+
+491
+00:33:22,802 --> 00:33:25,191
+No es tan fuerte,
+cףmo le gusta pensar.
+
+492
+00:33:26,869 --> 00:33:28,516
+¿Lo encuentra divertido?
+
+493
+00:33:29,004 --> 00:33:30,383
+Nuestras debilidades
+a veces nos sirven...
+
+494
+00:33:30,406 --> 00:33:31,739
+...mejor que nuestras fuerzas.
+
+495
+00:33:32,143 --> 00:33:34,020
+Me sorprende que admita
+que tiene una debilidad.
+
+496
+00:33:34,043 --> 00:33:36,144
+Estaba hablando metafףricamente.
+
+497
+00:33:40,983 --> 00:33:42,531
+- ¡Stevie!
+- ¿Sם, seסor?
+
+498
+00:33:42,632 --> 00:33:44,636
+Ve corriendo y vigila
+al seסor Moore.
+
+499
+00:33:44,653 --> 00:33:45,720
+Por supuesto que sם.
+
+500
+00:33:50,092 --> 00:33:52,360
+Vamos, muchachos. Vamos.
+
+501
+00:33:58,634 --> 00:34:01,002
+El hombre trabajador, mujer,
+
+502
+00:34:01,036 --> 00:34:03,071
+y, con demasiada frecuencia,
+el niסo trabajador...
+
+503
+00:34:03,105 --> 00:34:05,707
+...son, en efecto,
+los esclavos de EE.UU.
+
+504
+00:34:07,609 --> 00:34:10,665
+Hacemos un llamamiento a todos
+los ciudadanos honestos...
+
+505
+00:34:10,700 --> 00:34:12,359
+...para que se unan
+bajo el estandarte...
+
+506
+00:34:12,394 --> 00:34:14,749
+...del Partido Obrero
+Socialista de EE.UU...
+
+507
+00:34:16,318 --> 00:34:18,820
+...que podamos hacer uso de
+nuestra libertad polםtica...
+
+508
+00:34:18,854 --> 00:34:22,190
+...y poner fin a la
+bבrbara lucha actual...
+
+509
+00:34:22,224 --> 00:34:23,358
+...de los oprimidos.
+
+510
+00:34:23,359 --> 00:34:25,228
+¡Sם!
+
+511
+00:34:25,494 --> 00:34:26,289
+Buenas noches.
+
+512
+00:34:26,295 --> 00:34:28,313
+- Esta emancipaciףn...
+- Sם.
+
+513
+00:34:28,348 --> 00:34:30,465
+...no sףlo es posible...
+Es inevitable,
+
+514
+00:34:30,499 --> 00:34:33,468
+ya que todo lo que necesitamos
+hacer para avanzar en igualdad...
+
+515
+00:34:33,502 --> 00:34:36,270
+...es estar juntos ahora en unidad.
+
+516
+00:34:39,252 --> 00:34:42,590
+Disculpe mi franqueza,
+pero siento que debo preguntar.
+
+517
+00:34:43,590 --> 00:34:46,177
+¿Habםa planeado esta
+velada enteramente?
+
+518
+00:34:48,053 --> 00:34:50,723
+¿Quי quiere decir exactamente con
+"enteramente"?
+
+519
+00:34:52,390 --> 00:34:54,722
+Que nosotros... Yo...
+
+520
+00:34:54,757 --> 00:34:56,437
+...aceptarםa ayudarle.
+
+521
+00:34:57,729 --> 00:34:59,627
+Aparte del trabajo de fregar pisos,
+
+522
+00:34:59,661 --> 00:35:01,062
+eres la primera mujer empleada...
+
+523
+00:35:01,096 --> 00:35:03,069
+...por el Departamento
+de Policםa de Nueva York.
+
+524
+00:35:03,465 --> 00:35:05,299
+Eso demuestra iniciativa...
+
+525
+00:35:05,334 --> 00:35:08,449
+...y un deseo de avanzar
+en tu lugar en la sociedad.
+
+526
+00:35:09,371 --> 00:35:11,139
+¿Estoy equivocado?
+
+527
+00:35:12,285 --> 00:35:13,908
+No.
+
+528
+00:35:14,704 --> 00:35:15,710
+Le he pedido al Comisionado...
+
+529
+00:35:15,744 --> 00:35:18,479
+...que tת seas el
+enlace entre nosotros.
+
+530
+00:35:18,514 --> 00:35:20,381
+Tu tarea serב
+mantenerme informado...
+
+531
+00:35:20,416 --> 00:35:22,057
+...de los desarrollos
+dentro del Departamento...
+
+532
+00:35:22,084 --> 00:35:25,424
+...y mantener a Roosevelt al
+tanto de nuestras acciones fuera.
+
+533
+00:35:26,155 --> 00:35:27,789
+¿Y aceptף?
+
+534
+00:35:30,325 --> 00:35:32,727
+Tal vez no en tantas palabras.
+
+535
+00:35:34,229 --> 00:35:35,363
+Vamos, chico.
+
+536
+00:35:41,570 --> 00:35:42,723
+Calma.
+
+537
+00:35:50,479 --> 00:35:52,993
+¿Puedo asumir que
+tienes un interיs?
+
+538
+00:35:53,910 --> 00:35:56,818
+No serםa justo asumir
+nada sobre mם, doctor.
+
+539
+00:35:58,887 --> 00:36:01,956
+Se ve encantadora esta noche,
+seסorita Howard.
+
+540
+00:36:05,127 --> 00:36:06,841
+Cyrus.
+
+541
+00:36:07,296 --> 00:36:08,808
+Por favor, acompaסa a la
+seסorita Howard a la puerta.
+
+542
+00:36:08,831 --> 00:36:10,064
+Sם, seסor.
+
+543
+00:36:10,593 --> 00:36:12,467
+Puedo yo misma entrar, gracias.
+
+544
+00:36:46,401 --> 00:36:48,236
+¿Cףmo dijiste que te llamabas?
+
+545
+00:36:48,270 --> 00:36:50,238
+Esther. ¿Y tת?
+
+546
+00:36:50,272 --> 00:36:51,439
+Marcus.
+
+547
+00:36:51,473 --> 00:36:52,907
+Encantada de conocerte.
+
+548
+00:36:52,941 --> 00:36:54,342
+Igualmente.
+
+549
+00:37:10,792 --> 00:37:12,660
+¡Atenciףn!
+
+550
+00:37:15,731 --> 00:37:18,366
+Sם, seסor, esto curarב
+literalmente la psoriasis.
+
+551
+00:37:21,036 --> 00:37:23,204
+¡Corbatas! ¡Buenas corbatas!
+
+552
+00:37:23,238 --> 00:37:24,772
+¡Buenas corbatas!
+
+553
+00:37:32,930 --> 00:37:34,435
+Damas y caballeros...
+
+554
+00:37:34,616 --> 00:37:37,018
+...descansen en este hermoso sofב.
+
+555
+00:37:37,052 --> 00:37:38,953
+Acיrquese.
+
+556
+00:38:02,948 --> 00:38:04,364
+Buenas noches, seסor.
+
+557
+00:38:34,102 --> 00:38:35,493
+Ven aquם, hijo.
+
+558
+00:39:23,827 --> 00:39:26,162
+¡Bravo!
+
+559
+00:39:27,431 --> 00:39:29,499
+¡Eso fue bonito!
+
+560
+00:39:29,533 --> 00:39:32,835
+¡Eso es lo que dije!
+
+561
+00:39:32,870 --> 00:39:35,405
+Buenas noches... Seסor.
+
+562
+00:39:35,439 --> 00:39:38,574
+Si no haces preguntas,
+yo no doy respuestas.
+
+563
+00:39:38,609 --> 00:39:39,876
+Modales.
+
+564
+00:39:39,910 --> 00:39:41,944
+- Me agradas.
+- Me agradas.
+
+565
+00:39:41,979 --> 00:39:43,679
+No eres igual que los otros chicos.
+
+566
+00:39:43,714 --> 00:39:45,281
+No, no lo soy.
+
+567
+00:39:45,315 --> 00:39:46,616
+Entonces, ¿cuבl es tu precio?
+
+568
+00:39:46,650 --> 00:39:48,084
+¿Cuבl es tu precio?
+
+569
+00:39:48,118 --> 00:39:50,553
+Ahora, tenemos todo tipo de
+entretenimiento aquם, amigo.
+
+570
+00:39:51,314 --> 00:39:54,390
+¿Un poco de placer?
+
+571
+00:39:54,425 --> 00:39:57,560
+- ¿Un poco de dolor?
+- ¿Quieres bailar?
+
+572
+00:39:57,594 --> 00:39:59,162
+¿Quי te apetece?
+
+573
+00:40:00,764 --> 00:40:03,066
+Necesito un trago.
+
+574
+00:40:04,535 --> 00:40:06,636
+Estoy buscando informaciףn.
+
+575
+00:40:06,996 --> 00:40:09,305
+Quiero saber sobre
+Giorgio Santorelli.
+
+576
+00:40:16,747 --> 00:40:18,247
+¿Y por quי deberםa decirte algo?
+
+577
+00:40:18,282 --> 00:40:21,612
+- ¿No se lo he dicho a la Policםa?
+- Es muy quisquilloso.
+
+578
+00:40:21,985 --> 00:40:24,887
+Porque podrםa volver a pasar.
+
+579
+00:40:24,922 --> 00:40:29,459
+Otra de tus chicas
+podrםa desaparecer,
+
+580
+00:40:29,493 --> 00:40:30,960
+y su cuerpo desmembrado...
+
+581
+00:40:30,994 --> 00:40:34,817
+...terminarםa aventado
+en un lugar solitario.
+
+582
+00:40:35,866 --> 00:40:37,700
+Sףlo hay pocas veces...
+
+583
+00:40:37,734 --> 00:40:40,536
+...en que la Policםa puede
+mirar para el otro lado.
+
+584
+00:40:43,474 --> 00:40:44,707
+Muy bien.
+
+585
+00:40:44,741 --> 00:40:46,242
+¿Quי es lo que quieres saber?
+
+586
+00:40:46,276 --> 00:40:48,163
+¿Quiיn vio al chico?
+
+587
+00:40:49,813 --> 00:40:51,514
+¿Quי tipo de clientes eran?
+
+588
+00:40:51,548 --> 00:40:53,182
+¿Cuבles eran sus predilecciones?
+
+589
+00:40:53,918 --> 00:40:56,018
+El chico tenםa una boca sucia.
+
+590
+00:40:56,421 --> 00:40:58,699
+A sus clientes habituales les
+gustaba oםr lo inתtiles que eran,
+
+591
+00:40:58,722 --> 00:41:01,657
+cףmo no estaban a la altura.
+
+592
+00:41:01,692 --> 00:41:03,804
+Ustedes, los de la Quinta Avenida,
+no sufren lo suficiente.
+
+593
+00:41:03,827 --> 00:41:05,795
+Tienen que venir aquם
+y pagarme por ello.
+
+594
+00:41:10,901 --> 00:41:13,188
+Pero deberםas quedarte por aquם.
+
+595
+00:41:14,304 --> 00:41:17,006
+Parece que te vas a divertir.
+
+596
+00:41:35,292 --> 00:41:37,360
+Vamos.
+
+597
+00:41:37,394 --> 00:41:39,381
+No seas tםmido.
+
+598
+00:41:40,730 --> 00:41:41,763
+Me llamo Sally,
+
+599
+00:41:41,764 --> 00:41:43,855
+y puedo hacer realidad
+todos tus sueסos.
+
+600
+00:42:23,840 --> 00:42:26,042
+Oye. Por aquם.
+
+601
+00:42:38,522 --> 00:42:41,657
+¿Quי tal si te pago $3...
+
+602
+00:42:42,401 --> 00:42:46,429
+...y me dices lo que sabes
+de Giorgio Santorelli?
+
+603
+00:42:47,631 --> 00:42:49,298
+$5.
+
+604
+00:42:55,706 --> 00:42:57,876
+No, no, no.
+
+605
+00:42:58,775 --> 00:43:01,964
+Hבblame de Giorgio.
+
+606
+00:43:02,672 --> 00:43:04,280
+Gloria.
+
+607
+00:43:07,084 --> 00:43:09,452
+Tenםa muchos clientes habituales.
+
+608
+00:43:09,486 --> 00:43:11,787
+Algunos muy atractivos.
+
+609
+00:43:12,223 --> 00:43:14,590
+Algunos muy ricos.
+
+610
+00:43:15,393 --> 00:43:19,228
+Pero sףlo hablaba del que
+tenםa la sonrisa plateada.
+
+611
+00:43:21,398 --> 00:43:23,165
+¿Sonrisa plateada?
+
+612
+00:43:25,602 --> 00:43:27,603
+¿Cףmo se llamaba?
+
+613
+00:43:28,197 --> 00:43:29,408
+¿Lo sabes?
+
+614
+00:43:30,324 --> 00:43:32,375
+No eres muy divertido.
+
+615
+00:43:36,580 --> 00:43:38,414
+De hecho, no eres nada divertido.
+
+616
+00:43:41,318 --> 00:43:44,089
+¿Se fue con יl esa noche?
+
+617
+00:43:44,855 --> 00:43:47,342
+¿El de la sonrisa plateada?
+
+618
+00:43:47,791 --> 00:43:50,059
+Gloria nunca saliף
+de su habitaciףn.
+
+619
+00:43:52,972 --> 00:43:55,631
+La oםmos ahם dentro,
+pero nunca saliף.
+
+620
+00:44:00,203 --> 00:44:02,271
+Nos cansamos de esperar.
+
+621
+00:44:02,690 --> 00:44:04,785
+Cuando rompimos la cerradura,
+no habםa rastro de ella.
+
+622
+00:44:04,808 --> 00:44:06,609
+No habםa seסales de nadie.
+
+623
+00:44:23,327 --> 00:44:25,422
+Era una caםda de tres pisos.
+
+624
+00:44:27,048 --> 00:44:29,265
+Y Gloria no tenםa alas.
+
+625
+00:44:36,440 --> 00:44:37,873
+Estבs mintiendo.
+
+626
+00:44:47,818 --> 00:44:50,019
+Estבs mintiendo.
+
+627
+00:45:02,065 --> 00:45:07,436
+Incluso sin alas,
+Gloria se fue volando.
+
+628
+00:45:09,506 --> 00:45:12,041
+Y algתn dםa yo tambiיn lo harי.
+
+629
+00:45:12,075 --> 00:45:13,109
+¿Es eso...
+
+630
+00:45:38,201 --> 00:45:39,935
+¿No es dulce?
+
+631
+00:45:39,970 --> 00:45:41,137
+¿Sabes quiיn es יl?
+
+632
+00:45:42,682 --> 00:45:44,355
+Lo he visto antes.
+
+633
+00:45:44,674 --> 00:45:46,041
+Es amigo de Roosevelt.
+
+634
+00:45:46,076 --> 00:45:48,377
+Y de ese alienista hijo de perra.
+
+635
+00:45:48,412 --> 00:45:51,680
+Es una situaciףn desafortunada,
+caballeros.
+
+636
+00:45:51,915 --> 00:45:55,251
+Me temo que nos obligarב a
+tomar nuestras propias acciones.
+
+637
+00:45:57,696 --> 00:45:59,537
+¿Quי quieres hacer con יl?
+
+638
+00:46:02,826 --> 00:46:04,352
+Vamos pasen, chicas.
