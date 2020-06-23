@@ -1,0 +1,4944 @@
+﻿1
+00:00:06,000 --> 00:00:12,074
+-= www.OpenSubtitles.org =-
+
+2
+00:03:36,180 --> 00:03:38,250
+¿Hola?
+
+3
+00:03:40,150 --> 00:03:43,080
+"Buenos días"
+
+4
+00:03:43,150 --> 00:03:44,550
+¿Qué es esto?
+
+5
+00:03:45,090 --> 00:03:46,820
+"¿Cómo te encuentras?"
+
+6
+00:03:48,260 --> 00:03:50,490
+"Huy, huy... tranquilo"
+
+7
+00:03:50,560 --> 00:03:53,930
+"Tal vez deberías tomártelo con calma
+antes de empezar a pasear"
+
+8
+00:03:54,600 --> 00:03:56,060
+¿Qué ha pasado?
+
+9
+00:03:56,930 --> 00:03:58,630
+"¿No te acuerdas?"
+
+10
+00:04:01,700 --> 00:04:03,770
+Me dispararon.
+
+11
+00:04:06,240 --> 00:04:07,910
+En la espalda.
+
+12
+00:04:08,000 --> 00:04:09,400
+"¿De verdad?"
+
+13
+00:04:10,080 --> 00:04:11,780
+Una especie de neutralizador.
+
+14
+00:04:11,850 --> 00:04:13,780
+"Te he pillado"
+
+15
+00:04:13,850 --> 00:04:17,080
+"Pensé que querías decir, ya sabes...
+disparado, disparado"
+
+16
+00:04:22,620 --> 00:04:24,320
+Es esto...
+
+17
+00:04:31,030 --> 00:04:32,770
+"¿Cómo te llamas?"
+
+18
+00:04:36,440 --> 00:04:37,500
+Frank.
+
+19
+00:04:37,570 --> 00:04:39,010
+"Frank"
+
+20
+00:04:39,070 --> 00:04:40,270
+Sí.
+
+21
+00:04:40,280 --> 00:04:43,310
+"Yo soy tu LSO"
+
+22
+00:04:43,380 --> 00:04:45,680
+¿Qué significa?
+
+23
+00:04:45,750 --> 00:04:47,610
+"Puedes llamarme Howard"
+
+24
+00:04:47,620 --> 00:04:49,180
+No... ¿Qué es LSO?"
+
+25
+00:04:49,250 --> 00:04:50,320
+Qué...
+
+26
+00:04:57,460 --> 00:04:59,890
+¿Hola?
+
+27
+00:04:59,960 --> 00:05:01,330
+¿Hola?
+
+28
+00:05:01,400 --> 00:05:06,230
+"Sí, sí, perdona. Me estaba organizando"
+
+29
+00:05:07,600 --> 00:05:09,740
+¿Qué hago aquí?
+
+30
+00:05:09,800 --> 00:05:11,910
+"¿Es una pregunta retórica?"
+
+31
+00:05:11,970 --> 00:05:14,910
+No. ¿Qué es este sitio?
+
+32
+00:05:14,980 --> 00:05:18,350
+"De eso se ocupaban
+en admisiones y preparación"
+
+33
+00:05:18,410 --> 00:05:20,250
+Ni siquiera sé cómo he llegado
+hasta aquí.
+
+34
+00:05:20,320 --> 00:05:23,550
+No... Nadie me ha explicado nada.
+
+35
+00:05:23,620 --> 00:05:27,820
+"Yo sólo estoy aquí para aclimatarte
+al hábitat y los servicios de ISN"
+
+36
+00:05:34,260 --> 00:05:36,330
+He sido arrestado...
+
+37
+00:05:39,630 --> 00:05:43,240
+Esto es...
+
+38
+00:05:43,300 --> 00:05:46,270
+¿He sido detenido
+
+39
+00:05:46,340 --> 00:05:48,740
+por el ISN?
+
+40
+00:05:48,810 --> 00:05:50,679
+"No tengo esa información"
+
+41
+00:05:50,680 --> 00:05:52,009
+Pero yo no he hecho nada malo.
+
+42
+00:05:52,010 --> 00:05:53,910
+¿De qué se me acusa?
+
+43
+00:05:53,980 --> 00:05:56,450
+"No se te acusa de nada"
+
+44
+00:05:56,520 --> 00:05:59,220
+"Estás siendo procesado"
+
+45
+00:05:59,290 --> 00:06:00,950
+Procesado.
+
+46
+00:06:04,790 --> 00:06:06,760
+Escucha.
+
+47
+00:06:06,830 --> 00:06:10,930
+No sé qué es lo que piensas que he hecho
+o quién piensas que soy,
+
+48
+00:06:11,000 --> 00:06:12,869
+pero se trata de un error.
+
+49
+00:06:12,870 --> 00:06:14,130
+No tengo antecedentes.
+
+50
+00:06:14,200 --> 00:06:16,200
+Nunca antes me habían arrestado.
+
+51
+00:06:16,670 --> 00:06:18,700
+No tengo nada que ver con el ISN.
+
+52
+00:06:18,800 --> 00:06:20,200
+Soy un civil.
+
+53
+00:06:22,600 --> 00:06:26,580
+Así que... ¿Puedes comprobarlo?
+
+54
+00:06:26,650 --> 00:06:28,950
+"No tengo acceso"
+
+55
+00:06:29,020 --> 00:06:30,750
+¿Eso qué significa?
+
+56
+00:06:30,820 --> 00:06:35,460
+"Así no es como funciona este programa"
+
+57
+00:06:35,520 --> 00:06:37,590
+¿Cómo funciona?
+
+58
+00:06:41,600 --> 00:06:44,160
+¿Puedo hacer una llamada?
+
+59
+00:06:44,230 --> 00:06:46,899
+"Creo que no"
+
+60
+00:06:46,900 --> 00:06:48,970
+¿Puedo tener un abogado?
+
+61
+00:06:49,040 --> 00:06:50,840
+"No estoy seguro"
+
+62
+00:06:56,680 --> 00:06:58,680
+¿Qué es lo que sabes?
+
+63
+00:06:58,750 --> 00:07:02,280
+"Sé cuál es mi trabajo"
+
+64
+00:07:02,350 --> 00:07:05,620
+¿Y cuál es?
+
+65
+00:07:05,690 --> 00:07:08,660
+"Estoy aquí para mantenerte
+con vida, Frank"
+
+66
+00:07:11,590 --> 00:07:13,160
+"¿Podemos empezar?"
+
+67
+00:07:59,510 --> 00:08:02,639
+"Tengo tres aromas diferentes...
+naranja, limón"
+
+68
+00:08:02,640 --> 00:08:07,210
+"frutas tropicales... y... bien,
+agua normal"
+
+69
+00:08:07,280 --> 00:08:10,080
+"También café.
+Eso son cuatro aromas"
+
+70
+00:08:11,090 --> 00:08:12,350
+"¿Quieres uno?"
+
+71
+00:08:12,420 --> 00:08:14,050
+No.
+
+72
+00:08:14,120 --> 00:08:17,690
+"¿Quieres comer algo?"
+No, no tengo...
+
+73
+00:08:17,760 --> 00:08:19,930
+"¿Quieres escuchar música?"
+
+74
+00:08:19,990 --> 00:08:21,499
+Música... ¿En serio?
+
+75
+00:08:21,500 --> 00:08:23,736
+"Sí, tengo una colección,
+de géneros variados..."
+
+76
+00:08:23,760 --> 00:08:25,870
+"Clásica, Jazz, New Age"
+
+77
+00:08:25,930 --> 00:08:27,270
+No.
+
+78
+00:08:27,340 --> 00:08:28,440
+"¿Quieres...?"
+
+79
+00:08:29,341 --> 00:08:31,100
+"ir a dar un paseo?"
+
+80
+00:08:31,170 --> 00:08:32,440
+¿Un paseo?
+
+81
+00:08:32,510 --> 00:08:34,370
+"Sí, para estirar las piernas"
+
+82
+00:08:34,440 --> 00:08:35,910
+Sí, claro, vale.
+
+83
+00:08:58,200 --> 00:09:00,630
+¿Cuánto tiempo pensáis tenerme aquí?
+
+84
+00:09:00,700 --> 00:09:02,900
+"Hasta que seas procesado"
+
+85
+00:09:02,970 --> 00:09:04,440
+¿Y cuando será eso?
+
+86
+00:09:04,600 --> 00:09:07,200
+"No tengo esa información"
+
+87
+00:09:07,510 --> 00:09:09,610
+¿Puedo hablar con tu supervisor?
+
+88
+00:09:09,680 --> 00:09:11,140
+¿Por favor?
+
+89
+00:09:11,210 --> 00:09:13,810
+"No tengo supervisor"
+
+90
+00:09:13,880 --> 00:09:15,620
+¿Cómo puede ser?
+
+91
+00:09:15,680 --> 00:09:18,920
+"Mi programa está basado en un servidor
+y opera fuera del protocolo GSL"
+
+92
+00:09:18,990 --> 00:09:20,790
+Una computadora es tu supervisor.
+
+93
+00:09:20,860 --> 00:09:22,490
+"Bien, no..."
+
+94
+00:09:22,560 --> 00:09:23,760
+Escucha, hay...
+
+95
+00:09:23,820 --> 00:09:25,136
+"podrías decirlo así, pero..."
+
+96
+00:09:25,160 --> 00:09:27,130
+tiene que haber alguien,
+que conozca a alguien
+
+97
+00:09:27,190 --> 00:09:28,729
+que sepa por qué estoy aquí.
+
+98
+00:09:28,730 --> 00:09:30,899
+¿Podrías... podrías hablar con ellos,
+por favor?
+
+99
+00:09:30,900 --> 00:09:32,770
+"¿Cuál es tu apellido?"
+
+100
+00:09:32,830 --> 00:09:35,800
+Lerner, Lerner.
+
+101
+00:09:35,870 --> 00:09:37,770
+"Frank Lerner"
+
+102
+00:09:41,710 --> 00:09:43,940
+Así pues... ¿Vas a comprobarlo?
+
+103
+00:09:44,010 --> 00:09:46,610
+"¿Qué?"
+
+104
+00:09:46,680 --> 00:09:48,919
+Porque estoy aquí.
+
+105
+00:09:48,920 --> 00:09:51,320
+"No tengo acceso"
+
+106
+00:09:56,060 --> 00:09:57,620
+Escucha.
+
+107
+00:10:01,230 --> 00:10:04,970
+No puedes mantenerme aquí,
+sin decirme por qué.
+
+108
+00:10:05,030 --> 00:10:07,130
+Tengo derechos.
+
+109
+00:10:07,400 --> 00:10:09,670
+Al menos el derecho a saber
+por qué me trajeron aquí.
+
+110
+00:10:09,740 --> 00:10:11,370
+"Eso ya se explicaba en el video"
+
+111
+00:10:11,440 --> 00:10:13,370
+¡Yo no he visto ese maldito video!
+
+112
+00:10:13,440 --> 00:10:15,040
+¡Me dispararon! ¡Estaba dormido!
+
+113
+00:10:15,100 --> 00:10:16,600
+¡Estaba inconsciente!
+
+114
+00:10:16,910 --> 00:10:19,150
+Esto ha sido un error y ni siquiera
+puedes comprobarlo.
+
+115
+00:10:19,210 --> 00:10:20,510
+"No tengo acceso"
+
+116
+00:10:20,580 --> 00:10:23,220
+Claro que no, claro que no.
+
+117
+00:10:50,510 --> 00:10:51,786
+Exigimos la liberación de
+Fletcher May,
+
+118
+00:10:51,810 --> 00:10:53,350
+líder de la Alianza,
+
+119
+00:10:53,410 --> 00:10:56,250
+cuya misteriosa desaparición
+ha provocado indignación
+
+120
+00:10:56,320 --> 00:10:58,520
+entre los simpatizantes del LFO.
+
+121
+00:10:58,590 --> 00:11:00,150
+Acusaciones de detención ilegal
+
+122
+00:11:00,160 --> 00:11:01,890
+y duras acciones para-militares,
+
+123
+00:11:01,960 --> 00:11:04,600
+han encendido la delicada situación entre
+
+124
+00:11:04,960 --> 00:11:08,530
+las unidades de seguridad del ISN
+y los activistas pro-derechos civiles.
+
+125
+00:11:08,600 --> 00:11:11,329
+La Secretaria de Prensa de la Casa Blanca,
+Edward Baeza, ha negado
+
+126
+00:11:11,330 --> 00:11:14,030
+cualquier implicación o conocimiento
+en la desaparición de May,
+
+127
+00:11:14,100 --> 00:11:17,169
+mientras funcionarios de la administración
+buscan un alto el fuego entre
+
+128
+00:11:17,170 --> 00:11:20,870
+militantes armados y las unidades
+de seguridad GR de la policia.
+
+129
+00:11:25,880 --> 00:11:28,450
+No hay nadie que lo sepa.
+
+130
+00:11:28,520 --> 00:11:32,349
+"¿El qué?"
+
+131
+00:11:32,350 --> 00:11:34,920
+Lo que me ha pasado.
+
+132
+00:11:34,990 --> 00:11:38,060
+Amigos, familia.
+
+133
+00:11:41,030 --> 00:11:43,230
+He desaparecido.
+
+134
+00:12:00,250 --> 00:12:03,820
+"Entonces... ¿De dónde eres?"
+
+135
+00:12:06,390 --> 00:12:08,590
+Soy del sur.
+
+136
+00:12:08,660 --> 00:12:09,889
+"¿En serio?"
+
+137
+00:12:09,890 --> 00:12:11,420
+"¿Es allí dónde creciste?"
+
+138
+00:12:11,490 --> 00:12:13,260
+¿De dónde eres tú?
+
+139
+00:12:13,330 --> 00:12:15,399
+¿O no tienes esa información?
+
+140
+00:12:15,400 --> 00:12:16,660
+"Soy de Austin"
+
+141
+00:12:16,730 --> 00:12:18,930
+"Texas"
+
+142
+00:12:19,000 --> 00:12:20,670
+No parece que seas de Texas.
+
+143
+00:12:20,740 --> 00:12:24,300
+"Nací allí, pero crecí en un pequeño pueblo
+en las afueras de Seattle"
+
+144
+00:12:24,370 --> 00:12:26,770
+"en un lugar del que casi nadie
+ha oído hablar"
+
+145
+00:12:26,840 --> 00:12:28,640
+¿De verdad?
+
+146
+00:12:31,250 --> 00:12:34,579
+Es fascinante.
+
+147
+00:12:34,580 --> 00:12:40,290
+¿Por qué querría un joven de pueblo como tu
+unirse a la ISN?
+
+148
+00:12:40,350 --> 00:12:42,400
+"Supongo que es un trabajo como otro"
+
+149
+00:12:42,590 --> 00:12:45,400
+Es un trabajo.
+
+150
+00:12:45,430 --> 00:12:48,600
+Hacerle esto a la gente.
+
+151
+00:12:48,700 --> 00:12:50,760
+Sabes que antes había leyes
+en contra de esto.
+
+152
+00:12:50,770 --> 00:12:53,430
+Los derechos civiles, Miranda.
+
+153
+00:12:53,440 --> 00:12:55,969
+¿Proceso legal?
+¿Constitución?
+
+154
+00:12:56,200 --> 00:12:58,300
+¿Te suena algo de eso?
+
+155
+00:12:58,370 --> 00:13:01,600
+"Ese no es mi departamento"
+
+156
+00:13:01,780 --> 00:13:04,400
+Tu simplemente eres un
+apretador de botones.
+
+157
+00:13:04,610 --> 00:13:06,926
+Incluso con los protocolos
+automatizados, eso
+
+158
+00:13:06,950 --> 00:13:09,850
+no se lo cree nadie, Howard. ¿No?
+
+159
+00:13:09,920 --> 00:13:11,449
+Asume responsabilidades
+
+160
+00:13:11,450 --> 00:13:13,800
+por todo aquello de lo que formas parte.
+
+161
+00:13:13,960 --> 00:13:16,600
+Eres tú el que me está reteniendo aquí.
+
+162
+00:13:16,920 --> 00:13:20,200
+Este es tu departamento.
+
+163
+00:13:20,460 --> 00:13:24,400
+No se trata sólo de servir bebidas
+o hacer encargos. ¿No?
+
+164
+00:13:25,300 --> 00:13:27,800
+"¿A qué te dedicas?"
+
+165
+00:13:29,800 --> 00:13:31,800
+Dios...
+
+166
+00:13:34,440 --> 00:13:36,979
+Tu eres otra cosa, lo reconozco.
+
+167
+00:13:36,980 --> 00:13:39,600
+Eres todo un trabajo...
+
+168
+00:13:42,450 --> 00:13:44,350
+¿Dijiste que había algo para comer?
+
+169
+00:13:44,420 --> 00:13:45,720
+"Sí, sí. Vale"
+
+170
+00:13:45,790 --> 00:13:47,090
+"Tengo tres sabores diferentes"
+
+171
+00:13:47,150 --> 00:13:50,720
+"Pollo, ternera y vegetales"
+
+172
+00:13:50,790 --> 00:13:53,560
+"¿Cuál te gustaría probar?"
+
+173
+00:13:53,630 --> 00:13:55,900
+Cualquiera.
+
+174
+00:14:10,980 --> 00:14:13,380
+¿Cuánto tiempo llevo aquí?
+
+175
+00:14:13,450 --> 00:14:15,220
+"No lo sé"
+
+176
+00:14:15,280 --> 00:14:18,750
+"Estabas dormido cuando me incorporé"
+
+177
+00:14:18,820 --> 00:14:21,390
+Quiero que compruebes los archivos
+o lo que sea,
+
+178
+00:14:21,460 --> 00:14:23,390
+para ver si alguien fue
+a mi apartamento.
+
+179
+00:14:23,460 --> 00:14:24,760
+"¿Qué hay en tu apartamento?"
+
+180
+00:14:24,830 --> 00:14:25,960
+Mira, sólo necesito saber
+
+181
+00:14:26,030 --> 00:14:27,266
+si alguien fue allí
+después de mi detención.
+
+182
+00:14:27,290 --> 00:14:29,600
+"¿Por qué?"
+
+183
+00:14:29,660 --> 00:14:31,529
+Tengo un perro.
+
+184
+00:14:31,530 --> 00:14:34,400
+"¿Tienes un perro?"
+
+185
+00:14:34,470 --> 00:14:37,570
+Sé que parece una tontería,
+pero nadie sabe que está allá.
+
+186
+00:14:37,640 --> 00:14:40,940
+"¿Qué clase de perro?"
+
+187
+00:14:41,010 --> 00:14:43,740
+Está encerrado allí... ¿Lo entiendes?
+
+188
+00:14:43,810 --> 00:14:45,686
+Podría ladrar todo el día
+y a nadie le importaría.
+
+189
+00:14:45,710 --> 00:14:48,580
+Morirá si nadie aparece.
+
+190
+00:14:48,650 --> 00:14:49,780
+"Es horrible"
+
+191
+00:14:49,850 --> 00:14:51,780
+¡No, mierda!
+
+192
+00:14:51,850 --> 00:14:53,626
+¿Podrías hacer una llamada,
+podrías comprobar,
+
+193
+00:14:53,650 --> 00:14:56,120
+podrías contactar con alguien,
+por favor?
+
+194
+00:14:56,190 --> 00:14:58,120
+"No puedo hacer eso"
+
+195
+00:14:58,190 --> 00:14:59,900
+¿No puedes hacer una llamada?
+
+196
+00:15:00,060 --> 00:15:01,400
+¿No puedes enviar un mensaje?
+
+197
+00:15:01,560 --> 00:15:03,376
+Sólo para saber si alguien
+ha pasado por allí.
+
+198
+00:15:03,400 --> 00:15:05,276
+Sólo para estar seguro
+de que alguien se ha ocupado de él.
+
+199
+00:15:05,300 --> 00:15:07,100
+No necesito saberlo.
+
+200
+00:15:08,840 --> 00:15:11,200
+Por favor, por favor.
+
+201
+00:15:14,200 --> 00:15:15,600
+¿Por favor?
+
+202
+00:15:15,710 --> 00:15:17,186
+"No es así como funciona el programa"
+
+203
+00:15:17,210 --> 00:15:21,150
+Jesús, Dios... ¡El programa!
+
+204
+00:15:23,520 --> 00:15:26,020
+¡Hijo de puta!
+
+205
+00:16:49,540 --> 00:16:51,870
+Necesito agua.
+
+206
+00:17:08,690 --> 00:17:11,720
+¿Me puedes...
+
+207
+00:17:11,790 --> 00:17:14,359
+dar un poco de agua, por favor, Howard?
+
+208
+00:17:14,360 --> 00:17:16,360
+"Sí, por supuesto"
+
+209
+00:17:18,870 --> 00:17:20,470
+"¿Quieres probar alguno de los sabores?"
+
+210
+00:17:20,500 --> 00:17:22,700
+Sólo agua, por favor.
+
+211
+00:17:37,750 --> 00:17:40,320
+"¿Qué ha pasado allí?"
+
+212
+00:17:42,390 --> 00:17:45,090
+¿Dónde se supone
+que tenía que hacerlo?
+
+213
+00:17:45,160 --> 00:17:47,300
+No me diste ningún cubo.
+
+214
+00:17:47,500 --> 00:17:51,200
+"La próxima vez dime
+que quieres ir al baño"
+
+215
+00:17:51,600 --> 00:17:53,300
+¿El baño?
+
+216
+00:18:32,870 --> 00:18:35,939
+¿Qué... ¿Quién ha hecho esto?
+
+217
+00:18:35,940 --> 00:18:37,880
+¿Has entrado aquí?
+
+218
+00:18:37,950 --> 00:18:40,550
+"Sólo un pequeño servicio
+de habitaciones"
+
+219
+00:18:40,880 --> 00:18:45,350
+Sí... ¿Pero cómo?
+
+220
+00:18:51,760 --> 00:18:54,960
+"¿Has acabado con el baño, Frank?"
+
+221
+00:19:29,160 --> 00:19:30,700
+¿Qué te pongo?
+
+222
+00:19:30,760 --> 00:19:32,530
+Hey, ¿Café?
+
+223
+00:19:32,600 --> 00:19:33,730
+¿Qué aroma?
+
+224
+00:19:33,800 --> 00:19:35,169
+Sólo un café normal.
+
+225
+00:19:35,170 --> 00:19:36,870
+¿Un estímulo? ¿Una habitación?
+
+226
+00:19:36,940 --> 00:19:38,070
+No.
+
+227
+00:19:38,140 --> 00:19:39,940
+Vale. No eres complicado.
+
+228
+00:20:16,010 --> 00:20:17,480
+¡Jesús!
+
+229
+00:20:17,540 --> 00:20:19,209
+"¿Quieres probar otro sabor?"
+
+230
+00:20:19,210 --> 00:20:20,250
+¿Cuál es éste?
+
+231
+00:20:20,310 --> 00:20:22,950
+"El vegetal"
+
+232
+00:20:23,020 --> 00:20:26,400
+"Puede que no parezca gran cosa,
+pero tiene todo lo que necesitas"
+
+233
+00:20:26,720 --> 00:20:28,100
+"Vitaminas y minerales"
+
+234
+00:20:28,320 --> 00:20:30,000
+¿Lo has probado?
+
+235
+00:20:30,060 --> 00:20:32,600
+"No tengo esa información"
+
+236
+00:20:34,160 --> 00:20:35,800
+Espera un momento...
+¿Qué significa eso?
+
+237
+00:20:35,860 --> 00:20:37,500
+"¿Qué parte?"
+
+238
+00:20:40,830 --> 00:20:42,100
+¿Howard?
+
+239
+00:20:42,170 --> 00:20:44,240
+"Sí, Frank"
+
+240
+00:20:49,910 --> 00:20:51,810
+"Sí, Frank"
+
+241
+00:20:56,350 --> 00:20:57,419
+Howard.
+
+242
+00:20:57,420 --> 00:20:59,450
+"Sí, Frank"
+
+243
+00:20:59,520 --> 00:21:00,520
+Howard.
+
+244
+00:21:00,590 --> 00:21:02,420
+"Sí, Frank"
+
+245
+00:21:04,090 --> 00:21:05,760
+"Sí, Frank"
+
+246
+00:21:09,200 --> 00:21:10,630
+Howard.
+
+247
+00:21:10,700 --> 00:21:12,500
+"Sí, Frank"
+
+248
+00:21:14,070 --> 00:21:15,330
+¡Howard!
+
+249
+00:21:15,400 --> 00:21:16,970
+"Sí, Frank"
+
+250
+00:21:17,040 --> 00:21:19,000
+Me estás tomando el pelo.
+
+251
+00:21:21,640 --> 00:21:24,310
+"¿Sobre qué?"
+
+252
+00:21:24,380 --> 00:21:26,680
+¿Cómo he podido no verlo?
+
+253
+00:21:27,050 --> 00:21:29,120
+"¿Ver qué?"
+
+254
+00:21:31,790 --> 00:21:34,190
+Estoy hablando con un ordenador.
+
+255
+00:21:36,220 --> 00:21:38,790
+Estoy hablando con un ordenador...
+
+256
+00:22:01,110 --> 00:22:02,800
+¡Sacadme de aquí!
+
+257
+00:22:02,980 --> 00:22:04,980
+"Frank, por favor, puedo responder
+a tus preguntas"
+
+258
+00:22:06,000 --> 00:22:07,500
+¿Responder preguntas?
+
+259
+00:22:07,650 --> 00:22:08,890
+No has contestado una sola.
+
+260
+00:22:08,960 --> 00:22:10,720
+No sabes nada.
+
+261
+00:22:10,790 --> 00:22:12,600
+Tu no tienes esa información.
+
+262
+00:22:12,660 --> 00:22:16,260
+Quiero una persona real,
+en línea o aquí mismo
+
+263
+00:22:16,330 --> 00:22:18,700
+porque estoy cansado
+de debatir contigo, Howard.
+
+264
+00:22:18,770 --> 00:22:20,470
+¡Estoy harto!
+"No estoy debatiendo"
+
+265
+00:22:20,671 --> 00:22:21,900
+¿Me escuchas?
+
+266
+00:22:21,970 --> 00:22:24,100
+¡Estoy harto! ¡Harto!
+
+267
+00:22:24,170 --> 00:22:27,800
+No voy a seguir discutiendo, una y
+otra vez, con una máquina parlante.
+
+268
+00:22:28,140 --> 00:22:29,500
+"Creo que esa no es la marca"
+
+269
+00:22:29,680 --> 00:22:31,920
+Dios. Sí... encima tiene un programa
+de humor instalado.
+
+270
+00:22:32,200 --> 00:22:34,000
+Gracias, gracias, Señor.
+
+271
+00:22:34,510 --> 00:22:36,349
+Con muy poca predisposición, Howard,
+
+272
+00:22:36,350 --> 00:22:38,800
+pero con variadas inflexiones
+que son impresionantes.
+
+273
+00:22:38,950 --> 00:22:41,400
+Casi se pueden tocar.
+
+274
+00:22:41,660 --> 00:22:43,400
+Realmente impresionantes.
+
+275
+00:22:43,790 --> 00:22:45,060
+"Gracias"
+
+276
+00:22:45,130 --> 00:22:47,760
+Eso es sarcasmo, Howard.
+Es sarcasmo.
+
+277
+00:22:47,830 --> 00:22:50,800
+Evidentemente, no es una
+de tus aplicaciones más rápidas.
+
+278
+00:22:51,030 --> 00:22:52,600
+Dios mío.
+
+279
+00:22:52,700 --> 00:22:54,400
+Dios...
+
+280
+00:22:56,600 --> 00:22:58,200
+¡Joder!
+
+281
+00:23:04,680 --> 00:23:05,986
+Espera, espera, espera...
+
+282
+00:23:06,010 --> 00:23:08,027
+Dijiste que eras de Austin.
+Creciste en las afueras de Seattle.
+
+283
+00:23:08,051 --> 00:23:09,600
+¿Qué es toda esa mierda?
+
+284
+00:23:09,720 --> 00:23:12,250
+"Fui construído en HRS en Austin"
+
+285
+00:23:12,320 --> 00:23:16,120
+"Fui programado en Tech-Tronics
+en las afueras de Seattle"
+
+286
+00:23:16,190 --> 00:23:20,760
+Eso es ingenioso, muy ingenioso.
+
+287
+00:23:20,830 --> 00:23:25,160
+¿Qué eres...? ¿Un IR7, tal vez un IR8?
+
+288
+00:23:25,400 --> 00:23:26,800
+"12"
+
+289
+00:23:27,400 --> 00:23:29,800
+Lo retiro.
+
+290
+00:23:30,400 --> 00:23:32,200
+Eres una máquina extraordinaria.
+
+291
+00:23:33,170 --> 00:23:34,976
+Debería sentirme orgulloso de que
+una máquina como tú
+
+292
+00:23:35,000 --> 00:23:37,200
+me haga la comida y vea
+como me trago esa mierda.
+
+293
+00:23:37,340 --> 00:23:38,740
+"¿Sarcasmo?"
+
+294
+00:23:38,750 --> 00:23:40,780
+Y encima aprende.
+
+295
+00:23:40,850 --> 00:23:42,150
+AI5?
+
+296
+00:23:42,220 --> 00:23:43,620
+"6"
+
+297
+00:23:43,680 --> 00:23:45,749
+"Parece que sabes mucho de ordenadores"
+
+298
+00:23:45,750 --> 00:23:47,600
+Lo suficiente.
+
+299
+00:23:49,420 --> 00:23:52,600
+Personalmente, los desprecio.
+
+300
+00:23:53,200 --> 00:23:54,200
+"¿Por qué?"
+
+301
+00:23:56,560 --> 00:23:58,600
+Haz una loca suposición...
+
+302
+00:23:59,100 --> 00:24:00,676
+"Bien... me imagino que tiene
+algo que ver con..."
+
+303
+00:24:00,700 --> 00:24:02,470
+De hecho, no supongas nada.
+
+304
+00:24:02,540 --> 00:24:04,400
+Puedo prescindir de eso.
+
+305
+00:24:10,280 --> 00:24:16,000
+Algunas cosas, Howard,
+no pueden ser computerizadas.
+
+306
+00:24:17,120 --> 00:24:19,390
+"¿Qué significa eso?"
+
+307
+00:24:34,000 --> 00:24:36,000
+¿Larry?
+
+308
+00:24:38,800 --> 00:24:40,600
+Larry.
+
+309
+00:24:40,940 --> 00:24:42,040
+No entiendo.
+
+310
+00:24:42,110 --> 00:24:44,040
+Has estado aquí antes.
+
+311
+00:24:44,110 --> 00:24:45,309
+No.
+
+312
+00:24:45,310 --> 00:24:48,710
+Nunca. Mi nombre no es Larry.
+
+313
+00:24:48,780 --> 00:24:49,880
+Gracias.
+
+314
+00:24:49,950 --> 00:24:51,649
+De nada... ¡Pete!
+
+315
+00:24:51,650 --> 00:24:54,420
+No, no. No me lo digas.
+
+316
+00:25:20,700 --> 00:25:23,000
+Dave.
+
+317
+00:25:24,200 --> 00:25:25,800
+¿Te gusta?
+
+318
+00:25:26,200 --> 00:25:27,400
+La foto.
+
+319
+00:25:27,690 --> 00:25:30,220
+Sí, me gusta. Y no soy Dave.
+
+320
+00:25:30,290 --> 00:25:31,790
+La hice yo.
+
+321
+00:25:31,860 --> 00:25:34,260
+¿En serio?
+
+322
+00:25:34,330 --> 00:25:38,430
+No podría ganarme la vida con ello,
+pero me gusta.
+
+323
+00:25:38,500 --> 00:25:40,730
+Es bonita.
+
+324
+00:25:40,800 --> 00:25:42,430
+Gracias.
+
+325
+00:25:43,200 --> 00:25:45,539
+Dame tu mano.
+
+326
+00:25:45,540 --> 00:25:48,210
+Vamos, vamos. Dame tu mano.
+
+327
+00:25:57,150 --> 00:26:00,420
+Frank.
+
+328
+00:26:00,490 --> 00:26:02,660
+¿Cómo lo has sabido?
+
+329
+00:26:02,720 --> 00:26:04,720
+Es otra de mis aficiones.
+
+330
+00:26:04,730 --> 00:26:07,930
+Tampoco puedo vivir de ello,
+así es que preparo café.
+
+331
+00:26:07,990 --> 00:26:10,260
+No fue mi primera elección.
+
+332
+00:26:11,500 --> 00:26:14,300
+No soy de los que
+se impresiona fácilmente.
+
+333
+00:26:14,370 --> 00:26:16,569
+Gabby.
+
+334
+00:26:16,570 --> 00:26:18,940
+Pero estoy impresionado.
+
+335
+00:28:36,810 --> 00:28:38,880
+¿Te gusta?
+
+336
+00:28:41,310 --> 00:28:44,480
+La foto.
+
+337
+00:28:44,550 --> 00:28:46,150
+Sí, me gusta.
+
+338
+00:28:46,220 --> 00:28:48,090
+La hice yo.
+
+339
+00:28:50,660 --> 00:28:55,960
+No podría ganarme la vida con ello,
+pero me gusta.
+
+340
+00:28:56,030 --> 00:28:58,430
+Es bonita.
+
+341
+00:28:58,500 --> 00:29:00,470
+Gracias.
+
+342
+00:29:04,100 --> 00:29:06,670
+Tal vez debería
+haberte hecho un Expresso.
+
+343
+00:29:09,940 --> 00:29:13,909
+No.
+
+344
+00:29:13,910 --> 00:29:15,450
+Estoy bien. Gracias.
+
+345
+00:29:15,520 --> 00:29:17,079
+Lo siento. Gracias.
+
+346
+00:29:17,080 --> 00:29:19,000
+De nada.
+
+347
+00:29:21,620 --> 00:29:24,590
+Dame tu mano. Vamos, vamos.
+
+348
+00:29:35,140 --> 00:29:36,800
+Frank.
+
+349
+00:29:36,900 --> 00:29:40,600
+No, espera, espera para...
+¡Para, para!
+
+350
+00:29:48,380 --> 00:29:51,380
+"Frank"
+
+351
+00:29:51,450 --> 00:29:53,820
+"¿Qué ha pasado?"
+
+352
+00:30:01,730 --> 00:30:08,800
+Aaah, es como si tuviera......
+sueños despierto... son
+
+353
+00:30:09,600 --> 00:30:14,010
+pequeños fragmentos de memoria
+que se repiten una y otra vez...
+
+354
+00:30:14,070 --> 00:30:17,200
+y siguen repitiéndose.
+
+355
+00:30:17,410 --> 00:30:19,550
+Pensé que era...
+
+356
+00:30:22,620 --> 00:30:24,226
+¿Cómo puedes no saber
+qué es esa cosa, Howard?
+
+357
+00:30:24,250 --> 00:30:25,420
+¿Qué crees que es?
+
+358
+00:30:25,490 --> 00:30:28,490
+"Supuse que era la ventilación"
+
+359
+00:30:29,760 --> 00:30:31,420
+Ventilación.
+
+360
+00:30:31,490 --> 00:30:33,766
+¿Crees que voy a tragarme
+lo de robot bueno-robot malo, Howard?
+
+361
+00:30:33,790 --> 00:30:35,476
+Quiero decir... Sé que no eres sólo
+un servicio a distancia,
+
+362
+00:30:35,500 --> 00:30:36,360
+dame un respiro.
+
+363
+00:30:36,430 --> 00:30:38,160
+IR12. Venga.
+
+364
+00:30:38,170 --> 00:30:41,200
+"Frank, estoy programado sólo para atender
+los protocolos primarios"
+
+365
+00:30:41,270 --> 00:30:42,476
+"dentro de los perímetros de mi..."
+
+366
+00:30:42,500 --> 00:30:44,040
+Espera, espera, espera.
+
+367
+00:30:44,100 --> 00:30:46,210
+¿Cuáles son tus protocolos primarios?
+
+368
+00:30:46,270 --> 00:30:50,240
+"Estoy aquí para mantenerte con
+vida, Frank. Y para mantenerte"
+
+369
+00:30:50,310 --> 00:30:53,710
+"confinado en esta habitación
+hasta que seas procesado"
+
+370
+00:30:55,450 --> 00:30:58,050
+No estoy aquí para ser procesado.
+
+371
+00:31:02,960 --> 00:31:05,620
+Esta es la condena.
+
+372
+00:31:09,200 --> 00:31:11,730
+"¿Quieres probar otro sabor?"
+
+373
+00:31:11,800 --> 00:31:13,029
+¿Ahora que me estoy acostumbrando
+
+374
+00:31:13,030 --> 00:31:15,970
+a la mierda de especia y ajo?
+
+375
+00:31:16,040 --> 00:31:19,800
+"Creo que no acabo de dominar
+esa cosa del sarcasmo"
+
+376
+00:31:20,140 --> 00:31:23,379
+Cualquier cosa que pueda hacer
+para actualizar tu software...
+
+377
+00:31:23,380 --> 00:31:25,310
+"Frank"
+
+378
+00:31:25,380 --> 00:31:27,549
+Sí.
+
+379
+00:31:27,550 --> 00:31:29,650
+"¿Por qué no me lo dirían?"
+
+380
+00:31:32,750 --> 00:31:38,720
+No lo sé... Si lo que
+me dices es verdad
+
+381
+00:31:38,730 --> 00:31:42,660
+creo que tiene algo de sentido.
+
+382
+00:31:42,730 --> 00:31:45,660
+Si estás pirateado... ¿Por qué deberías
+tener conocimiento de algo más
+
+383
+00:31:45,730 --> 00:31:49,600
+que hábitos alimentarios
+o movimientos intestinales?
+
+384
+00:31:49,670 --> 00:31:52,270
+¿Nunca pusiste a nadie más
+en esta situación?
+
+385
+00:31:52,340 --> 00:31:54,800
+"Eres mi primera asignación"
+
+386
+00:31:57,910 --> 00:32:01,480
+Sí, podrías pensar eso.
+Pero a lo mejor
+
+387
+00:32:01,550 --> 00:32:04,980
+han borrado tus recuerdos
+después de cada una.
+
+388
+00:32:05,050 --> 00:32:10,259
+Por lo que sabemos, puedes
+haber hecho esto a cientos de personas.
+
+389
+00:32:10,260 --> 00:32:15,090
+Y ellos no te explican nada.
+
+390
+00:32:15,100 --> 00:32:19,100
+Supongo que tu eres tan prisionero
+como lo soy yo.
+
+391
+00:32:22,270 --> 00:32:26,640
+"Frank... ¿Qué querías decir
+cuando afirmaste"
+
+392
+00:32:26,710 --> 00:32:30,710
+"que algunas cosas no pueden
+ser computerizadas?"
+
+393
+00:32:30,780 --> 00:32:33,109
+No importa.
+
+394
+00:32:33,110 --> 00:32:35,980
+"Me gustaría saberlo"
+
+395
+00:32:44,060 --> 00:32:47,190
+Mi padre murió de una
+enfermedad del corazón.
+
+396
+00:32:47,260 --> 00:32:52,860
+Cuando enfermó, lo pusieron
+en una de estas máquinas.
+
+397
+00:32:52,930 --> 00:32:55,000
+Lo mantuvieron vivo
+durante cuatro años.
+
+398
+00:32:57,300 --> 00:33:03,740
+Cuatro años más de los que
+se suponía que tenía que vivir.
+
+399
+00:33:03,800 --> 00:33:06,600
+¿Crees que eso fue un regalo?
+
+400
+00:33:07,600 --> 00:33:13,400
+El hombre había hecho las paces,
+estaba listo para morir.
+
+401
+00:33:16,260 --> 00:33:19,000
+Una máquina impidió que lo hiciera.
+
+402
+00:33:19,760 --> 00:33:23,000
+Le condenó a una vida
+que no era vida.
+
+403
+00:33:25,630 --> 00:33:30,200
+Todo el mundo estaba excitado pensando...
+mira lo que puede hacer
+
+404
+00:33:31,840 --> 00:33:37,600
+Y nadie se paraba a pensar...
+mira lo que no está haciendo.
+
+405
+00:33:39,480 --> 00:33:44,800
+Era el hombre más fuerte
+que nunca he conocido.
+
+406
+00:33:45,800 --> 00:33:48,250
+Y nunca le vi rendirse.
+
+407
+00:33:54,160 --> 00:33:56,600
+A veces se supone que
+la vida es lo que es.
+
+408
+00:33:56,660 --> 00:33:57,936
+Ya sabes, sin la última aplicación.
+
+409
+00:33:57,960 --> 00:34:01,100
+Sin ánimo de ofender.
+
+410
+00:34:01,170 --> 00:34:04,140
+No creo que haya mucha
+esperanza de futuro,
+
+411
+00:34:04,200 --> 00:34:06,470
+entre nosotros, Howard.
+
+412
+00:34:06,540 --> 00:34:08,940
+Tal vez sea yo.
+
+413
+00:34:09,000 --> 00:34:10,800
+"Un punto de vista interesante"
+
+414
+00:34:12,310 --> 00:34:16,580
+¿Realmente piensas eso...
+o es la tercera opción
+
+415
+00:34:16,650 --> 00:34:20,200
+de un menú sobre cosas
+estúpidas que decir?
+
+416
+00:34:20,900 --> 00:34:23,400
+"¿Retórico?"
+
+417
+00:34:24,200 --> 00:34:27,000
+Eres una obra de arte, Howie.
+
+418
+00:34:27,900 --> 00:34:30,200
+"Quiero ayudarte, Frank"
+
+419
+00:34:31,400 --> 00:34:34,400
+¿Sí?
+
+420
+00:34:34,740 --> 00:34:37,140
+"Sí, es uno de mis propósitos"
+
+421
+00:34:37,200 --> 00:34:39,800
+"y no lo he perdido de vista"
+
+422
+00:34:40,340 --> 00:34:43,440
+Bien, no seré yo quién impida
+que empieces.
+
+423
+00:34:47,450 --> 00:34:50,400
+"He encontrado un error"
+
+424
+00:34:50,680 --> 00:34:52,700
+¿Has encontrado un error?
+
+425
+00:34:52,750 --> 00:34:55,350
+"Fuiste transferido aquí
+en un DL9 estándar"
+
+426
+00:34:55,420 --> 00:35:00,790
+"pero fue procesado como un KBN6
+autorizado por defecto"
+
+427
+00:35:00,860 --> 00:35:02,530
+Yo no... ¿Qué significa eso?
+
+428
+00:35:02,600 --> 00:35:05,660
+"Bien... en pocas palabras...
+viniste del mismo sitio"
+
+429
+00:35:05,730 --> 00:35:07,130
+"al que fuiste enviado"
+
+430
+00:35:07,200 --> 00:35:08,500
+"Eso es imposible"
+
+431
+00:35:08,570 --> 00:35:10,769
+"Eso es un error"
+
+432
+00:35:10,770 --> 00:35:12,470
+"Técnicamente"
+
+433
+00:35:12,540 --> 00:35:15,310
+Entonces... ¿Qué hacemos?
+
+434
+00:35:15,370 --> 00:35:18,340
+"Bien, hay un servicio SR4
+de reparaciones"
+
+435
+00:35:18,410 --> 00:35:20,810
+"que podría ayudarnos
+a conseguir un mediador"
+
+436
+00:35:20,880 --> 00:35:24,850
+"Pero nos lo denegarán
+a no ser..."
+
+437
+00:35:24,920 --> 00:35:26,949
+¿A no ser...?
+
+438
+00:35:26,950 --> 00:35:29,720
+"Que haya algo que reparar"
+
+439
+00:35:29,790 --> 00:35:32,120
+Sí.
+
+440
+00:35:36,760 --> 00:35:40,000
+Bien. ¿Estás seguro de ello?
+
+441
+00:35:40,070 --> 00:35:42,700
+"No, no estoy seguro"
+De acuerdo.
+
+442
+00:35:42,971 --> 00:35:44,340
+"No, espera"
+
+443
+00:35:44,400 --> 00:35:45,400
+¿Qué?
+
+444
+00:35:45,470 --> 00:35:48,070
+"Debería ser una reparación grave"
+
+445
+00:35:48,140 --> 00:35:49,639
+Yo... lo será.
+
+446
+00:35:49,640 --> 00:35:50,880
+"Tiene que causar daño"
+
+447
+00:35:50,940 --> 00:35:53,510
+Lo he pillado, Howard.
+Lo he pillado.
+
+448
+00:35:53,580 --> 00:35:54,750
+"¡Espera!"
+
+449
+00:35:54,810 --> 00:35:57,310
+¿Qué?
+"No puedo... no hacer nada"
+
+450
+00:35:57,420 --> 00:35:59,180
+¿Qué quieres decir?
+
+451
+00:35:59,250 --> 00:36:01,150
+"Si sé que vas a hacer algo"
+
+452
+00:36:01,160 --> 00:36:03,760
+"voy a tener que tomar
+medidas para detenerte"
+
+453
+00:36:03,820 --> 00:36:05,890
+¿Cómo vas a detenerme?
+
+454
+00:36:05,960 --> 00:36:08,930
+"Existe un sistema de seguridad
+con diferentes respuestas"
+
+455
+00:36:09,000 --> 00:36:10,560
+¿Cómo cuál?
+
+456
+00:36:10,630 --> 00:36:12,660
+"Bueno, no estoy
+autorizado a divulgar..."
+
+457
+00:36:12,670 --> 00:36:14,370
+No puedes decirme cuáles son.
+
+458
+00:36:14,430 --> 00:36:16,116
+"Frank, yo sólo puedo hacer aquello
+que estoy programado para hacer"
+
+459
+00:36:16,140 --> 00:36:17,370
+"y no puedo..."
+
+460
+00:36:17,440 --> 00:36:19,169
+Vale, lo entiendo.
+
+461
+00:36:19,170 --> 00:36:20,586
+Si sabes que voy a hacer algo,
+estás obligado a protegerte.
+
+462
+00:36:20,610 --> 00:36:23,070
+"Correcto"
+
+463
+00:36:23,140 --> 00:36:24,380
+"¿Qué vas a hacer?"
+
+464
+00:36:24,440 --> 00:36:25,509
+Pensemos en otra cosa.
+
+465
+00:36:25,510 --> 00:36:27,509
+Otra manera.
+
+466
+00:36:27,510 --> 00:36:29,080
+"¿De verdad?"
+
+467
+00:36:29,150 --> 00:36:31,280
+Sí, no quiero ser paralizado o golpeado
+
+468
+00:36:31,350 --> 00:36:34,466
+por cualquier tecnología pateadora de culos
+que tengas en tu caja de herramientas.
+
+469
+00:36:34,490 --> 00:36:38,890
+"Entonces... ¿Pensaremos
+en otra cosa?
+
+470
+00:36:38,960 --> 00:36:41,630
+Sí.
+
+471
+00:36:41,690 --> 00:36:43,199
+Ponme un café...
+¿Te importa?
+
+472
+00:36:43,200 --> 00:36:44,930
+"Sí, por supuesto"
+
+473
+00:36:46,730 --> 00:36:47,730
+"No, Frank..."
+
+474
+00:36:50,700 --> 00:36:52,470
+¿Howard?
+
+475
+00:36:54,810 --> 00:36:56,370
+¿Howard?
+
+476
+00:37:03,020 --> 00:37:07,220
+Howard, Howard.
+Howard, Howard, Howard.
+
+477
+00:37:09,560 --> 00:37:11,320
+Howard.
+
+478
+00:37:12,060 --> 00:37:14,060
+¡Howard!
+
+479
+00:38:04,940 --> 00:38:07,510
+Ey... ¿Qué te sirvo?
+
+480
+00:38:09,120 --> 00:38:12,380
+¿Puedo ponerte algo?
+
+481
+00:38:12,450 --> 00:38:16,020
+¿Café?
+
+482
+00:38:16,090 --> 00:38:17,860
+¿Un día duro?
+
+483
+00:38:18,990 --> 00:38:21,230
+Café.
+
+484
+00:38:29,570 --> 00:38:32,240
+Vale. Aquí lo tienes.
+
+485
+00:38:32,310 --> 00:38:33,510
+Por cuenta de la casa.
+
+486
+00:38:33,570 --> 00:38:35,370
+¿Vale? Parece que lo necesitas.
+
+487
+00:38:35,440 --> 00:38:37,480
+Nick.
+
+488
+00:38:41,610 --> 00:38:44,380
+No... No me lo digas.
+
+489
+00:38:50,120 --> 00:38:51,800
+¿Eres de fuera?
+
+490
+00:38:52,120 --> 00:38:54,890
+De acuerdo. Buenas noches.
+
+491
+00:39:02,870 --> 00:39:04,940
+¿William?
+
+492
+00:39:05,000 --> 00:39:07,800
+No entiendo.
+
+493
+00:39:08,110 --> 00:39:09,370
+No vienen.
+
+494
+00:39:09,440 --> 00:39:12,440
+¿Tienes que irte?
+
+495
+00:39:12,510 --> 00:39:14,080
+¿Por qué estoy todavía aquí?
+
+496
+00:39:14,150 --> 00:39:16,380
+Esa fue una decisión
+consciente por mi parte.
+
+497
+00:39:16,450 --> 00:39:20,750
+Ya sabes... el negocio del café
+puede ser muy lucrativo
+
+498
+00:39:20,820 --> 00:39:23,200
+pero también tiene giros rápidos.
+
+499
+00:39:23,490 --> 00:39:26,060
+Y yo quiero algo más cómodo,
+ya sabes
+
+500
+00:39:26,130 --> 00:39:30,400
+hacer que la gente se sienta
+entre amigos y nadie quiera irse.
+
+501
+00:39:30,700 --> 00:39:32,699
+¿Bobby?
+
+502
+00:39:32,700 --> 00:39:34,869
+No me has cobrado el café.
+
+503
+00:39:34,870 --> 00:39:36,600
+Así es que el escáner
+no se ha activado.
+
+504
+00:39:36,670 --> 00:39:38,369
+Sí, ese es otro de mis problemas.
+
+505
+00:39:38,370 --> 00:39:41,039
+Yo sirvo café gratis...
+Y pienso... ey... sólo es café.
+
+506
+00:39:41,040 --> 00:39:44,979
+Pero llevo una cafetería, así que...
+¿Freddie?
+
+507
+00:39:44,980 --> 00:39:46,540
+Escucha.
+
+508
+00:39:49,180 --> 00:39:54,820
+¿Realmente no sabes
+lo que está pasando aquí?
+
+509
+00:39:54,890 --> 00:39:56,450
+Esto, todo esto.
+
+510
+00:39:56,520 --> 00:40:01,590
+Esto... esto no es lo que tu...
+Esto es...
+
+511
+00:40:03,600 --> 00:40:08,300
+Esto es... no sé...
+No sé lo que es, pero...
+
+512
+00:40:08,370 --> 00:40:11,000
+Vale... vale.
+
+513
+00:40:11,200 --> 00:40:16,140
+Bien, mientras lo resuelves...
+¿Por qué no me ayudas a cerrar
+
+514
+00:40:16,340 --> 00:40:17,910
+y a poner las sillas sobre las mesas?
+
+515
+00:40:19,450 --> 00:40:20,810
+Claro. Sí.
+
+516
+00:40:20,880 --> 00:40:23,600
+Frank.
+Lo adivinaste.
+
+517
+00:40:23,880 --> 00:40:25,400
+¿En serio?
+
+518
+00:41:03,260 --> 00:41:05,020
+¿Qué haces?
+
+519
+00:41:05,090 --> 00:41:06,830
+¿Me puedes poner un café?
+
+520
+00:41:06,890 --> 00:41:08,206
+Frank, si manipulas eso
+podría perder mi licencia.
+
+521
+00:41:08,230 --> 00:41:10,160
+No, no... Sólo quiero ver la lectura.
+
+522
+00:41:10,230 --> 00:41:11,330
+¿Por qué?
+
+523
+00:41:11,400 --> 00:41:14,130
+Por favor. Necesito tu ayuda, Gabby.
+
+524
+00:41:16,170 --> 00:41:20,410
+Vale, sólo, sólo un café.
+
+525
+00:41:20,470 --> 00:41:21,639
+¿O quieres algo...?
+
+526
+00:41:21,640 --> 00:41:23,710
+Gabby ¡por favor!
+
+527
+00:41:31,120 --> 00:41:32,920
+TR-147.
+
+528
+00:41:32,990 --> 00:41:35,090
+¿Qué significa?
+
+529
+00:41:35,150 --> 00:41:37,260
+Es un número
+de identificación personal.
+
+530
+00:41:37,320 --> 00:41:39,990
+Piensan que soy otra persona.
+
+531
+00:41:53,440 --> 00:41:56,880
+Ellos creen que soy
+otra persona.
+
+532
+00:41:56,940 --> 00:41:59,540
+¡Ellos creen que soy
+otra persona!
+
+533
+00:41:59,610 --> 00:42:00,626
+"Eso no tiene ningún sentido"
+
+534
+00:42:00,650 --> 00:42:01,679
+Te digo que piensan que soy
+otra persona.
+
+535
+00:42:01,680 --> 00:42:03,410
+"Eso no tiene ningún sentido"
+
+536
+00:42:03,480 --> 00:42:05,966
+Te digo que la lectura era
+el número de identidad de otra persona
+
+537
+00:42:05,990 --> 00:42:08,350
+y esa lectura fue lo que
+les llevó hasta allí.
+
+538
+00:42:08,360 --> 00:42:11,890
+"Los reguladores bio-escáner no
+pueden cometer errores"
+
+539
+00:42:11,960 --> 00:42:13,630
+"No hay margen para el error"
+
+540
+00:42:13,690 --> 00:42:15,890
+Escucha, sé que te cuesta
+aceptar el hecho
+
+541
+00:42:15,960 --> 00:42:19,560
+de que los servidores de litio pueden
+tener algún fallo, dios nos libre,
+
+542
+00:42:19,630 --> 00:42:21,130
+pero te estoy diciendo lo que vi.
+
+543
+00:42:21,200 --> 00:42:22,800
+Ese no era mi número
+de identificación.
+
+544
+00:42:22,870 --> 00:42:24,640
+Pensaron que yo era
+otra persona.
+
+545
+00:42:24,700 --> 00:42:26,946
+Una vez introducidos mis datos
+en el sistema, no había vuelta atrás.
+
+546
+00:42:26,970 --> 00:42:28,570
+Fue un error, todo fue un error.
+
+547
+00:42:28,640 --> 00:42:29,770
+"Sí..."
+
+548
+00:42:29,840 --> 00:42:31,580
+Y hubo un fallo,
+
+549
+00:42:31,640 --> 00:42:35,410
+hubo un fallo técnico
+en el sistema aquella noche.
+
+550
+00:42:35,480 --> 00:42:38,750
+En los controles,
+en la estación de tren.
+
+551
+00:42:38,820 --> 00:42:41,820
+No se me ocurrió en aquel
+momento, pero algo falló.
+
+552
+00:42:41,890 --> 00:42:43,620
+"Sí, pero..."
+
+553
+00:42:43,690 --> 00:42:45,960
+Sí... pero qué, Howard. Escúpelo.
+
+554
+00:42:46,030 --> 00:42:48,590
+"¿Tomaste esa lectura|
+del escáner de la cafetería?"
+
+555
+00:42:48,660 --> 00:42:50,660
+Sí.
+"¿Desde tus propios recuerdos?"
+
+556
+00:42:50,730 --> 00:42:51,800
+Sí.
+
+557
+00:42:51,860 --> 00:42:53,146
+"¿Empujado por tu subconsciente?"
+
+558
+00:42:53,170 --> 00:42:54,899
+¿A dónde quieres llegar?
+
+559
+00:42:54,900 --> 00:42:59,239
+"¿Es posible que veas
+lo que quieres ver?"
+
+560
+00:42:59,240 --> 00:43:02,170
+Howard, no puedo controlar
+lo que esa cosa me hace ver.
+
+561
+00:43:02,240 --> 00:43:04,180
+No puedo manipular mi propio subconsciente,
+
+562
+00:43:04,240 --> 00:43:06,356
+como no podría fingir un hueso roto
+en una exploración de rayos X.
+
+563
+00:43:06,380 --> 00:43:07,150
+"¿Qué sabor quieres?"
+
+564
+00:43:07,210 --> 00:43:09,110
+Mierda Tropical.
+
+565
+00:43:09,180 --> 00:43:11,120
+"El único acceso que
+tengo a Administración"
+
+566
+00:43:11,180 --> 00:43:12,580
+"es a través de los informes SR"
+
+567
+00:43:12,590 --> 00:43:15,020
+"Para nosotros, intentar
+obtener esa información..."
+
+568
+00:43:15,090 --> 00:43:16,850
+No, no, no.
+
+569
+00:43:16,920 --> 00:43:18,666
+No vas a hablar con los
+de mantenimiento otra vez.
+
+570
+00:43:18,690 --> 00:43:20,990
+A la mierda con eso.
+
+571
+00:43:21,060 --> 00:43:26,700
+Necesitamos, necesitamos descubrir de quién
+es ese número de identificación personal.
+
+572
+00:43:26,770 --> 00:43:30,199
+"¿Y cómo lo hacemos?"
+
+573
+00:43:30,200 --> 00:43:37,280
+Tres-seis-cinco-nueve... algo.
+
+574
+00:43:37,980 --> 00:43:40,550
+"¿No recuerdas el número?"
+
+575
+00:43:42,720 --> 00:43:44,780
+Pero sé dónde puedo encontrarlo.
+
+576
+00:44:37,170 --> 00:44:39,240
+Exigiendo la liberación de Fletcher May,
+
+577
+00:44:39,300 --> 00:44:41,000
+líder de la Alianza,
+
+578
+00:44:41,200 --> 00:44:45,440
+cuya misteriosa desaparición ha provocado
+indignación entre los simpatizantes de LFO.
+
+579
+00:44:45,510 --> 00:44:47,080
+Acusaciones de detención ilegal
+
+580
+00:44:47,150 --> 00:44:48,880
+y duras acciones para-militares
+
+581
+00:44:48,950 --> 00:44:53,600
+han encendido la delicada situación entre
+las unidades de seguridad del ISN...
+
+582
+00:45:47,570 --> 00:45:48,670
+¿Howard?
+
+583
+00:45:48,740 --> 00:45:50,740
+¡Howard!
+
+584
+00:45:53,180 --> 00:45:55,080
+¡Howard!
+
+585
+00:46:19,200 --> 00:46:21,870
+"Estoy aquí"
+
+586
+00:46:21,940 --> 00:46:23,880
+¡Hola!
+
+587
+00:46:43,100 --> 00:46:45,400
+¡Ayuda!
+
+588
+00:46:52,240 --> 00:46:55,910
+¿Hay alguien allá afuera?
+
+589
+00:48:29,330 --> 00:48:30,600
+Ey, ey, ey, ey.
+
+590
+00:48:30,670 --> 00:48:32,170
+Aquí. ¡Aquí!
+
+591
+00:48:32,240 --> 00:48:33,940
+¡Ey, ey!
+
+592
+00:48:50,590 --> 00:48:52,520
+Mierda.
+
+593
+00:48:52,590 --> 00:48:55,429
+¿Supongo que tú tampoco
+trabajas aquí?
+
+594
+00:48:55,430 --> 00:48:57,190
+¿Tu también eres un preso?
+
+595
+00:48:58,800 --> 00:49:03,370
+No. Me he separado
+del grupo de visitantes.
+
+596
+00:49:04,440 --> 00:49:05,600
+Mierda.
+
+597
+00:49:18,780 --> 00:49:20,990
+¿Ey?
+
+598
+00:49:21,050 --> 00:49:22,850
+¿Sabes qué ha pasado?
+
+599
+00:49:22,920 --> 00:49:25,660
+Han hecho polvo a los cabrones.
+
+600
+00:49:25,720 --> 00:49:27,360
+¿Qué quieres decir?
+
+601
+00:49:27,430 --> 00:49:29,030
+La Alianza.
+
+602
+00:49:29,090 --> 00:49:30,799
+Lo consiguieron.
+
+603
+00:49:30,800 --> 00:49:33,060
+Han pulverizado la red.
+
+604
+00:49:33,130 --> 00:49:34,830
+¿Cómo lo sabes?
+
+605
+00:49:34,900 --> 00:49:37,799
+¿Crees que olvidaron pagar
+la factura de la luz?
+
+606
+00:49:37,800 --> 00:49:40,170
+Han estado buscando
+una manera de entrar.
+
+607
+00:49:40,240 --> 00:49:42,210
+Dependían del suministro de electricidad.
+
+608
+00:49:42,270 --> 00:49:44,716
+Les dije a los de la Alianza que lo que
+tenían que hacer era cortar la fuente.
+
+609
+00:49:44,740 --> 00:49:48,380
+EL ISN no es nada sin
+su hardware.
+
+610
+00:49:49,110 --> 00:49:52,080
+Como me habría gustado ver caer
+los drones desde el cielo
+
+611
+00:49:52,150 --> 00:49:56,220
+y ver cómo la maldita maquinaria
+se detenía con un chirrido.
+
+612
+00:49:57,290 --> 00:50:00,360
+Sí.
+
+613
+00:50:00,430 --> 00:50:02,829
+¿En qué situación nos deja eso?
+
+614
+00:50:02,830 --> 00:50:05,600
+Nos encontrarán.
+
+615
+00:50:05,660 --> 00:50:08,669
+¿Cómo sabrán dónde tienen
+que buscar?
+
+616
+00:50:08,670 --> 00:50:11,770
+Alguien vendrá.
+
+617
+00:50:11,840 --> 00:50:14,770
+Soy Fletcher May.
+
+618
+00:50:14,840 --> 00:50:17,610
+¿Fletcher May?
+
+619
+00:50:17,680 --> 00:50:20,040
+¿Eras uno de mis soldados?
+
+620
+00:50:20,110 --> 00:50:22,400
+¿Tu eras de la Alianza?
+
+621
+00:50:23,620 --> 00:50:25,800
+¿Tu eres Fletcher May?
+
+622
+00:50:27,650 --> 00:50:30,720
+¿Qué te parece si
+nos largamos de aquí?
+
+623
+00:50:38,360 --> 00:50:40,230
+Ey... ¿Dónde conseguiste
+esa tubería?
+
+624
+00:50:40,300 --> 00:50:42,070
+De la ducha.
+
+625
+00:50:42,130 --> 00:50:45,039
+Las paredes del baño
+son fáciles de atravesar.
+
+626
+00:50:45,040 --> 00:50:48,070
+Sí. ¿Y cómo conseguiste
+abrir la puerta del baño?
+
+627
+00:50:48,140 --> 00:50:51,539
+La mía estaba abierta cuando
+se fue la electricidad.
+
+628
+00:50:51,540 --> 00:50:53,980
+Sabes... No creo que
+se haya ido la luz.
+
+629
+00:50:54,050 --> 00:50:57,549
+¿Qué quieres decir?
+
+630
+00:50:57,550 --> 00:50:59,780
+Siento que ha pasado
+algo más grande.
+
+631
+00:50:59,850 --> 00:51:00,850
+A lo lejos.
+
+632
+00:51:00,890 --> 00:51:02,889
+¿Escuchaste las explosiones?
+
+633
+00:51:02,890 --> 00:51:06,120
+Tal vez los transformadores
+explotaron o algo así.
+
+634
+00:51:12,530 --> 00:51:15,000
+Creo que fue algo más, amigo.
+
+635
+00:51:15,070 --> 00:51:16,470
+¿En qué sentido?
+
+636
+00:51:16,540 --> 00:51:17,899
+No lo sé.
+
+637
+00:51:17,900 --> 00:51:20,640
+Si realmente intentaron
+derrotar al ISN,
+
+638
+00:51:20,710 --> 00:51:22,440
+todo esto está relacionado.
+
+639
+00:51:22,510 --> 00:51:24,980
+La red defensiva,
+los fallos en las celdas.
+
+640
+00:51:25,040 --> 00:51:28,079
+Frente a los ataques locales,
+podrían haber tomado represalias.
+
+641
+00:51:28,080 --> 00:51:29,749
+Represalias.
+
+642
+00:51:29,750 --> 00:51:31,350
+¿Contra quién?
+
+643
+00:51:31,420 --> 00:51:34,589
+Contra cualquiera o cualquier cosa
+que intentara derrotarlos.
+
+644
+00:51:34,590 --> 00:51:36,026
+Mira... Si perdieron el control
+sobre los centinelas,
+
+645
+00:51:36,050 --> 00:51:37,960
+podrían haberse atacado a sí mismos.
+
+646
+00:51:38,020 --> 00:51:39,320
+Hay suficiente energía aquí
+
+647
+00:51:39,390 --> 00:51:40,759
+para acabar con todo, Fletcher.
+
+648
+00:51:40,760 --> 00:51:43,130
+Tal vez no haya nadie ahí fuera.
+
+649
+00:51:43,200 --> 00:51:45,100
+Podríamos estar solos aquí...
+
+650
+00:51:49,030 --> 00:51:52,170
+No parecía como si alguien hubiera
+desconectado un enchufe.
+
+651
+00:51:53,710 --> 00:51:55,140
+Vamos... ¡Hijo de puta!
+
+652
+00:51:55,210 --> 00:51:58,010
+Vamos, sí, allá vamos.
+
+653
+00:51:58,080 --> 00:52:00,180
+¡Lo tengo! ¡Lo que conseguido!
+
+654
+00:52:03,620 --> 00:52:05,820
+No...
+
+655
+00:52:05,880 --> 00:52:08,490
+¿Qué sucede?
+
+656
+00:52:08,550 --> 00:52:13,860
+Sólo hay más y más de
+ese maldito cemento.
+
+657
+00:52:32,410 --> 00:52:35,010
+Fletcher... ¿Estás ahí?
+
+658
+00:52:35,080 --> 00:52:37,650
+¿Dónde más podría estar?
+
+659
+00:52:41,520 --> 00:52:43,590
+¿Alguna vez han utilizado
+esa cosa contigo?
+
+660
+00:52:43,660 --> 00:52:45,360
+¿El mecanismo?
+
+661
+00:52:45,420 --> 00:52:47,930
+Lo han intentado.
+
+662
+00:52:47,990 --> 00:52:50,490
+Estaba preparado.
+
+663
+00:52:50,500 --> 00:52:52,900
+Hay una manera de derrotarlo.
+
+664
+00:52:52,960 --> 00:52:55,830
+Golpea tus neuro-transmisores
+
+665
+00:52:55,840 --> 00:52:59,940
+con impulsos químicos que crean
+tu memoria.
+
+666
+00:53:00,010 --> 00:53:04,240
+Se aferran a una señal, un recuerdo
+que reconstruye
+
+667
+00:53:04,310 --> 00:53:09,410
+tu memoria y siguen el camino
+hasta tu secreto.
+
+668
+00:53:09,480 --> 00:53:13,119
+No necesitas esconder el secreto,
+
+669
+00:53:13,120 --> 00:53:17,860
+simplemente oculta el camino
+abriendo una puerta diferente.
+
+670
+00:53:19,890 --> 00:53:22,090
+¿Cuál era tu comida preferida
+cuando eras un niño?
+
+671
+00:53:22,160 --> 00:53:24,730
+Di lo primero que se te ocurra.
+
+672
+00:53:26,400 --> 00:53:28,570
+Mi padre preparaba tortitas.
+
+673
+00:53:28,630 --> 00:53:32,039
+Piensa en ello.
+
+674
+00:53:32,040 --> 00:53:34,940
+Piensa en él.
+
+675
+00:53:35,010 --> 00:53:37,940
+Piensa en el lugar.
+
+676
+00:53:38,010 --> 00:53:41,810
+Los aromas, todos los detalles.
+
+677
+00:53:43,880 --> 00:53:46,650
+¿Puedes visualizarlo?
+
+678
+00:53:46,720 --> 00:53:48,450
+Sí.
+
+679
+00:53:48,520 --> 00:53:51,090
+Ahora, todo está igual.
+
+680
+00:53:51,160 --> 00:53:57,730
+El mismo hombre, los mismos aromas,
+el mismo momento, pero...
+
+681
+00:53:58,160 --> 00:54:00,900
+Está preparando gofres.
+
+682
+00:54:02,570 --> 00:54:07,640
+La memoria es la misma, pero
+el punto de entrada es diferente.
+
+683
+00:54:07,710 --> 00:54:13,280
+Están en la casa correcta, pero
+han derribado la puerta equivocada.
+
+684
+00:54:17,720 --> 00:54:23,320
+Amigo... podría comerme unos cuantos
+malditos gofres ahora mismo.
+
+685
+00:54:33,600 --> 00:54:35,670
+¿Frank?
+
+686
+00:54:36,700 --> 00:54:38,640
+¡Frank?!
+
+687
+00:54:40,070 --> 00:54:42,670
+¡Frank!
+
+688
+00:54:47,810 --> 00:54:50,610
+Ey, amigo. Tenemos que resistir.
+
+689
+00:54:50,620 --> 00:54:53,619
+No voy a sobrevivir una noche más.
+
+690
+00:54:53,620 --> 00:54:56,390
+Bueno... Vas a tener que hacerlo.
+¿De acuerdo?
+
+691
+00:54:56,450 --> 00:54:57,960
+Tenemos que hacerlo juntos.
+
+692
+00:54:58,220 --> 00:55:02,290
+Y esperar... ¿Para qué?
+
+693
+00:55:03,760 --> 00:55:06,629
+Nunca van a encontrarnos.
+
+694
+00:55:06,630 --> 00:55:08,870
+Lo sé.
+
+695
+00:55:08,930 --> 00:55:13,900
+Y si vuelve la electricidad...
+Entonces ¿Qué?
+
+696
+00:55:13,970 --> 00:55:17,470
+No puedo volver a vivir aquello.
+
+697
+00:55:17,480 --> 00:55:20,880
+Ya no sabía qué era real
+y qué no.
+
+698
+00:55:25,850 --> 00:55:27,920
+Pero sé que esto es real.
+
+699
+00:55:30,460 --> 00:55:34,160
+Y puedo escoger mi propio camino.
+
+700
+00:55:37,760 --> 00:55:40,400
+Nos vemos, Frank.
+
+701
+00:55:45,500 --> 00:55:48,570
+Ey, Fletcher.
+
+702
+00:55:48,640 --> 00:55:51,380
+Détente... ¡Ey!
+
+703
+00:55:59,520 --> 00:56:02,350
+¡Fletcher!
+
+704
+00:56:02,360 --> 00:56:05,290
+¡Fletcher!
+
+705
+00:56:09,190 --> 00:56:10,460
+Fletch...
+
+706
+00:56:58,340 --> 00:56:59,780
+¿Fletcher?
+
+707
+00:56:59,840 --> 00:57:01,580
+¡Fletcher!
+
+708
+00:57:03,750 --> 00:57:04,750
+Maldita sea.
+
+709
+00:57:04,751 --> 00:57:07,120
+¡Fletcher!
+
+710
+00:57:07,190 --> 00:57:09,290
+"Buenos días"
+
+711
+00:57:11,420 --> 00:57:14,160
+Howard... ¿Has vuelto?
+
+712
+00:57:14,230 --> 00:57:15,589
+"¿Cómo te sientes?"
+
+713
+00:57:15,590 --> 00:57:18,000
+¿Sentirme? ¿Sabes lo que
+ha pasado aquí?
+
+714
+00:57:18,060 --> 00:57:19,099
+"¿No lo recuerdas?"
+
+715
+00:57:19,100 --> 00:57:20,500
+Recordar... Sí, lo recuerdo.
+
+716
+00:57:20,570 --> 00:57:21,970
+Se apagó todo.
+
+717
+00:57:22,030 --> 00:57:23,930
+Mira... Hay un tipo en la celda
+de al lado.
+
+718
+00:57:23,940 --> 00:57:25,000
+Tienes que comprobarlo.
+
+719
+00:57:25,070 --> 00:57:26,199
+"¿Cómo te llamas?"
+
+720
+00:57:26,200 --> 00:57:27,200
+¿Qué?
+
+721
+00:57:27,300 --> 00:57:29,600
+- Soy tu LSO.
+
+722
+00:57:29,800 --> 00:57:32,900
+- Howard...
+- "El operario que te mantiene con vida"
+
+723
+00:57:33,100 --> 00:57:34,279
+"Puedes llamarme Howard"
+
+724
+00:57:34,280 --> 00:57:36,310
+"¿Te gustaría beber algo?"
+
+725
+00:57:36,380 --> 00:57:37,949
+"Tengo tres sabores diferentes"
+
+726
+00:57:37,950 --> 00:57:41,320
+"naranja, limón, frutas tropicales
+
+727
+00:57:41,390 --> 00:57:42,720
+Te han reiniciado.
+
+728
+00:57:42,790 --> 00:57:45,820
+"También café.
+Eso son cuatro aromas"
+
+729
+00:57:45,890 --> 00:57:47,390
+"¿Quieres uno?"
+
+730
+00:57:47,460 --> 00:57:49,860
+Te han reiniciado.
+
+731
+00:57:49,930 --> 00:57:51,700
+"Tranquilo"
+
+732
+00:57:51,760 --> 00:57:55,870
+"Tal vez deberías tomártelo con calma
+antes de empezar a pasear"
+
+733
+00:57:55,930 --> 00:57:58,070
+"¿Quieres escuchar música?"
+
+734
+00:57:58,140 --> 00:58:01,210
+"Tengo una pequeña colección,
+de géneros variados..."
+
+735
+00:58:04,140 --> 00:58:08,309
+"Estoy aquí para mantenerte
+con vida, Frank"
+
+736
+00:58:08,310 --> 00:58:11,180
+"¿Podemos empezar?"
+
+737
+00:58:14,580 --> 00:58:15,580
+¿Te gusta?
+
+738
+00:58:18,320 --> 00:58:19,320
+La foto.
+
+739
+00:58:20,790 --> 00:58:22,329
+La hice yo.
+
+740
+00:58:22,330 --> 00:58:24,800
+Lo sé.
+
+741
+00:58:25,160 --> 00:58:28,260
+¿Quieres... ¿Puedo servirte algo?
+¿Café?
+
+742
+00:58:28,300 --> 00:58:30,600
+Estoy bien.
+
+743
+00:58:31,000 --> 00:58:34,600
+No hace falta que...
+Ya sabes...
+
+744
+00:58:34,970 --> 00:58:38,400
+Sólo voy a sentarme aquí,
+si te parece bien.
+
+745
+00:58:38,640 --> 00:58:41,410
+Haz lo que tengas que hacer,
+no te preocupes por mi.
+
+746
+00:58:41,480 --> 00:58:43,200
+Lo siento.
+
+747
+00:58:43,780 --> 00:58:46,400
+Gracias, te agradezco...
+
+748
+00:58:48,120 --> 00:58:52,520
+Yo sólo, sólo me sentaré.
+
+749
+00:58:53,460 --> 00:58:58,029
+Vale. Quédate todo el rato
+que quieras, Frank.
+
+750
+00:58:58,030 --> 00:59:00,029
+Ey, ey... ¿Gabby?
+
+751
+00:59:00,030 --> 00:59:02,869
+Sí, Frank.
+
+752
+00:59:02,870 --> 00:59:04,300
+¿Cómo lo supiste?
+
+753
+00:59:04,370 --> 00:59:05,570
+¿El qué?
+
+754
+00:59:05,640 --> 00:59:07,940
+Mi nombre.
+Lo has dicho.
+
+755
+00:59:08,010 --> 00:59:11,709
+Sé que es una de tus habilidades,
+pero normalmente haces suposiciones.
+
+756
+00:59:11,710 --> 00:59:13,940
+No has hecho ninguna
+suposición, lo sabías.
+
+757
+00:59:14,010 --> 00:59:15,879
+¿Tal vez porque nos conocemos?
+
+758
+00:59:15,880 --> 00:59:17,450
+No, no nos conocemos.
+
+759
+00:59:17,520 --> 00:59:19,380
+Nos, nos, nos conocemos
+de las otra veces
+
+760
+00:59:19,390 --> 00:59:20,580
+pero no.
+
+761
+00:59:20,650 --> 00:59:22,120
+Para ti, cada vez es
+la primera vez.
+
+762
+00:59:22,190 --> 00:59:23,820
+¿Entiendes lo que digo?
+
+763
+00:59:23,900 --> 00:59:27,400
+Así que no deberías...
+¿Cómo podrías saber mi nombre?
+
+764
+00:59:28,390 --> 00:59:29,660
+Dame un minuto, Frank.
+
+765
+00:59:29,730 --> 00:59:33,230
+- Otra taza... la marca de la casa.
+- Claro.
+
+766
+00:59:40,940 --> 00:59:43,409
+Mierda, mierda,
+mierda, mierda, mierda.
+
+767
+00:59:43,410 --> 00:59:45,780
+Bien, se encuentra bien.
+
+768
+00:59:55,120 --> 00:59:56,850
+¿Frank?
+
+769
+00:59:56,920 --> 00:59:59,460
+Estás asustando a mis clientes.
+
+770
+00:59:59,600 --> 01:00:02,600
+No quiero ser escaneado.
+
+771
+01:00:02,930 --> 01:00:07,700
+No quiero que me disparen
+otra vez esta noche.
+
+772
+01:00:07,770 --> 01:00:09,970
+Mira... Esto no es lo que parece.
+
+773
+01:00:10,030 --> 01:00:12,800
+¿No lo es?
+
+774
+01:00:14,570 --> 01:00:16,640
+No estoy realmente aquí.
+
+775
+01:00:16,710 --> 01:00:17,870
+¿No?
+
+776
+01:00:17,940 --> 01:00:19,880
+No. Tu tampoco estás aquí,
+ninguno de los dos.
+
+777
+01:00:19,940 --> 01:00:21,850
+¿En serio?
+
+778
+01:00:21,910 --> 01:00:24,850
+Bueno... eso explicaría
+mis pobres beneficios.
+
+779
+01:00:30,490 --> 01:00:33,959
+Estoy siendo confinado
+en una instalación del gobierno.
+
+780
+01:00:33,960 --> 01:00:35,789
+Me aplican un neuro-escáner
+en este momento,
+
+781
+01:00:35,790 --> 01:00:38,160
+como parte de un interrogatorio
+para reconstruir mi memoria
+
+782
+01:00:38,230 --> 01:00:42,070
+y encontrar pruebas de un crimen
+que no he cometido.
+
+783
+01:00:42,130 --> 01:00:43,876
+Así es que ahora mismo estamos,
+realmente, en mi memoria.
+
+784
+01:00:43,900 --> 01:00:45,776
+Estás en mi memoria, estoy en mi memoria,
+estamos en mi memoria.
+
+785
+01:00:45,800 --> 01:00:47,200
+Ésta es mi memoria.
+
+786
+01:00:47,270 --> 01:00:48,546
+Y llevamos haciendo esto,
+desde hace algún tiempo
+
+787
+01:00:48,570 --> 01:00:49,970
+y ese escáner no funciona bien
+
+788
+01:00:49,980 --> 01:00:51,786
+y ha hecho que sea detenido
+por agentes del gobierno.
+
+789
+01:00:51,810 --> 01:00:53,286
+Así que no quiero ser escaneado
+esta noche... ¿vale?
+
+790
+01:00:53,310 --> 01:00:54,809
+No quiero tomar café.
+
+791
+01:00:54,810 --> 01:00:59,000
+Simplemente me gustaría
+sentarme aquí solo. Gracias.
+
+792
+01:00:59,320 --> 01:01:03,390
+Y esperar para despertar en la cárcel.
+
+793
+01:01:07,090 --> 01:01:10,090
+Esta ha sido una de las maneras
+más curiosas de conseguir
+
+794
+01:01:10,160 --> 01:01:12,329
+una taza de café gratis
+que jamás he conocido.
+
+795
+01:01:12,330 --> 01:01:13,560
+Me rindo.
+
+796
+01:01:13,630 --> 01:01:15,600
+Tu ganas.
+
+797
+01:01:19,140 --> 01:01:22,200
+Bien... Podría ser peor.
+
+798
+01:01:22,810 --> 01:01:25,440
+¿Cómo?
+
+799
+01:01:25,510 --> 01:01:27,580
+El mismo día, una y otra vez.
+
+800
+01:01:27,650 --> 01:01:31,450
+¿Y si se tratara de una cita de
+dos horas con tu dentista?
+
+801
+01:01:31,520 --> 01:01:33,019
+Buena observación.
+
+802
+01:01:33,020 --> 01:01:35,220
+Dejaré de quejarme.
+
+803
+01:01:35,290 --> 01:01:38,189
+Entonces... ¿Cuando regresas...
+
+804
+01:01:38,190 --> 01:01:41,730
+ya sabes... al búnker?
+
+805
+01:01:41,790 --> 01:01:43,029
+No lo sé.
+
+806
+01:01:43,030 --> 01:01:45,060
+No lo controlo.
+
+807
+01:01:45,130 --> 01:01:47,860
+Al menos no creo hacerlo.
+
+808
+01:01:56,140 --> 01:01:58,810
+Gracias por dejar que me quede.
+
+809
+01:01:58,880 --> 01:01:59,880
+De nada.
+
+810
+01:01:59,881 --> 01:02:02,480
+Quédate tanto como quieras, Frank.
+
+811
+01:02:36,750 --> 01:02:39,180
+"Buenos días, Frank"
+
+812
+01:02:39,250 --> 01:02:41,350
+"¿Quieres ir a dar un paseo?"
+
+813
+01:02:41,420 --> 01:02:43,850
+"Puedo poner música"
+
+814
+01:02:43,920 --> 01:02:47,020
+¿Te gusta?
+
+815
+01:02:47,090 --> 01:02:50,290
+La foto.
+
+816
+01:02:50,360 --> 01:02:52,530
+Sí, me gusta.
+
+817
+01:03:00,710 --> 01:03:02,840
+"Buenos días, Frank"
+
+818
+01:03:02,910 --> 01:03:04,370
+Has estado aquí antes.
+
+819
+01:03:04,440 --> 01:03:06,480
+¿Quieres un poco de café?
+
+820
+01:03:06,540 --> 01:03:08,350
+¿Realmente no sabes
+lo que está pasando aquí?
+
+821
+01:03:08,410 --> 01:03:11,350
+Ya sabes, las ventas de café...
+
+822
+01:03:11,420 --> 01:03:14,150
+No puedo ganarme la vida con ello
+
+823
+01:03:14,220 --> 01:03:17,520
+Tal vez debería haberte
+hecho un Expresso.
+
+824
+01:03:17,590 --> 01:03:19,060
+Me rindo, tu ganas.
+
+825
+01:03:19,120 --> 01:03:24,459
+"¿Te sientes bien, Frank?"
+
+826
+01:03:24,460 --> 01:03:26,530
+¿Te sirvo algo?
+
+827
+01:03:26,600 --> 01:03:29,400
+"Larry, tu has estado aquí antes"
+
+828
+01:03:29,470 --> 01:03:33,300
+La foto. La hice yo.
+
+829
+01:03:33,310 --> 01:03:36,140
+No podría ganarme la vida
+con ello, pero me gusta.
+
+830
+01:03:37,110 --> 01:03:39,240
+El mismo día, una y otra vez.
+
+831
+01:03:39,310 --> 01:03:40,880
+"He encontrado un error"
+
+832
+01:03:40,950 --> 01:03:42,756
+¿Y si se tratara de una cita de
+dos horas con tu dentista?
+
+833
+01:03:42,780 --> 01:03:44,710
+"Sé cuál es mi trabajo"
+
+834
+01:03:44,780 --> 01:03:46,350
+Quédate tanto como quieras, Frank.
+
+835
+01:03:46,420 --> 01:03:48,296
+"Estoy aquí para mantenerte con vida,
+confinado en esta habitación"
+
+836
+01:03:48,320 --> 01:03:49,850
+"hasta que seas procesado"
+
+837
+01:03:49,920 --> 01:03:51,890
+Vamos a resolverlo.
+
+838
+01:03:51,960 --> 01:03:53,390
+No importa cuanto tardemos.
+
+839
+01:03:53,460 --> 01:03:55,090
+"¿Podemos empezar?"
+
+840
+01:04:02,630 --> 01:04:05,499
+Hay una forma de derrotarlo.
+
+841
+01:04:05,500 --> 01:04:08,169
+Golpea tus neuro-transmisores.
+
+842
+01:04:08,170 --> 01:04:10,839
+¿Piensas que digo todo
+lo que tú quieres oir?
+
+843
+01:04:10,840 --> 01:04:14,849
+Impulsos químicos que...
+
+844
+01:04:14,850 --> 01:04:18,349
+No necesitas ocultar el secreto.
+
+845
+01:04:18,350 --> 01:04:22,220
+El camino, abriendo
+una puerta diferente.
+
+846
+01:04:54,590 --> 01:04:56,600
+¿Por qué me buscáis?
+
+847
+01:04:56,720 --> 01:04:59,220
+¿Por qué me buscáis?
+
+848
+01:05:03,360 --> 01:05:05,430
+¿Por qué me buscáis?
+
+849
+01:05:11,940 --> 01:05:13,940
+¡Frank!
+
+850
+01:05:14,510 --> 01:05:16,270
+Deja que se vayan.
+
+851
+01:05:16,340 --> 01:05:18,840
+¿Frank?
+
+852
+01:05:18,910 --> 01:05:21,010
+Deja que se vayan.
+
+853
+01:05:33,860 --> 01:05:35,490
+¿Por qué dejas que se vayan?
+
+854
+01:05:35,560 --> 01:05:37,790
+Podrían saber algo.
+
+855
+01:05:37,860 --> 01:05:42,429
+No creo... Tienes que recordar
+dónde nos encontramos.
+
+856
+01:05:42,430 --> 01:05:44,630
+¿Qué quieres decir?
+
+857
+01:05:44,700 --> 01:05:46,370
+Estamos en mi memoria.
+
+858
+01:05:46,440 --> 01:05:48,970
+Estamos en un momento del pasado,
+que ni siquiera existe ya.
+
+859
+01:05:49,040 --> 01:05:50,216
+¿Cómo sabe una invención
+de mi imaginación...?
+
+860
+01:05:50,240 --> 01:05:51,710
+Vale, de acuerdo.
+
+861
+01:05:51,780 --> 01:05:52,780
+Es como tú. Sabes esto
+porque yo lo sé.
+
+862
+01:05:52,781 --> 01:05:54,979
+Bien, de acuerdo. Vale.
+Lo siento.
+
+863
+01:05:55,050 --> 01:05:56,680
+No. Es igual.
+
+864
+01:05:56,750 --> 01:05:58,056
+No puedes herir mis sentimientos
+porque soy imaginaria... ¿No?
+
+865
+01:05:58,080 --> 01:05:59,119
+Jesús, por favor...
+No seas así.
+
+866
+01:05:59,120 --> 01:06:00,980
+Ser cómo, Frank... ¿
+
+867
+01:06:01,050 --> 01:06:02,220
+Lo estás haciendo tú, no yo.
+
+868
+01:06:02,290 --> 01:06:05,320
+Sé que es imposible.
+
+869
+01:06:05,390 --> 01:06:08,459
+Bien... Tal vez deberías haber
+escogido a otra persona. ¿
+
+870
+01:06:08,460 --> 01:06:11,030
+No sé... una rubia...
+grandes pechos...
+
+871
+01:06:11,100 --> 01:06:12,420
+alguien que ría todos tus chistes
+
+872
+01:06:12,460 --> 01:06:13,799
+y haga todo lo que dices.
+
+873
+01:06:13,800 --> 01:06:16,670
+¿Por qué? ¿Conoces a
+alguien así?
+
+874
+01:06:22,110 --> 01:06:27,840
+De acuerdo. Mira... Vamos a
+aclarar todo esto. ¿Vale?
+
+875
+01:06:27,910 --> 01:06:30,649
+¿Vale?
+
+876
+01:06:30,650 --> 01:06:33,920
+No importa cuanto tardemos.
+
+877
+01:06:59,780 --> 01:07:01,850
+Estoy harto, Howard.
+
+878
+01:07:25,200 --> 01:07:27,039
+"¿Tienes planes para
+esta noche, Frank?"
+
+879
+01:07:27,040 --> 01:07:28,770
+No estoy seguro.
+
+880
+01:07:28,840 --> 01:07:30,070
+Gabby dijo que haríamos algo
+
+881
+01:07:30,140 --> 01:07:31,209
+pero a lo mejor puedo
+convencerla de que no.
+
+882
+01:07:31,210 --> 01:07:33,210
+Preferiría quedarme aquí esta noche.
+
+883
+01:07:34,710 --> 01:07:36,450
+"Puedo preparar algo especial"
+
+884
+01:07:36,510 --> 01:07:38,650
+Siempre lo haces, Howard.
+
+885
+01:07:38,720 --> 01:07:40,480
+Siempre lo haces.
+
+886
+01:07:41,850 --> 01:07:43,590
+"Ey, Frank"
+
+887
+01:07:43,650 --> 01:07:45,760
+¿Sí?
+
+888
+01:07:45,820 --> 01:07:47,290
+"Que tengas un buen día"
+
+889
+01:07:47,360 --> 01:07:50,660
+"Y si decides quedarte aquí, está bien"
+
+890
+01:07:50,730 --> 01:07:53,060
+"No había planeado nada
+para hoy, pero..."
+
+891
+01:07:55,900 --> 01:07:58,500
+Uno, dos, tres, cuatro,
+cinco, seis, siete...
+
+892
+01:07:58,570 --> 01:08:02,570
+ocho, nueve, diez, once, doce.
+
+893
+01:08:04,740 --> 01:08:06,556
+"pero estoy seguro de que
+puedo pensar en algo"
+
+894
+01:08:06,580 --> 01:08:10,910
+"Hablamos esta noche más tarde
+¿De acuerdo?"
+
+895
+01:08:10,920 --> 01:08:12,749
+¿Estás bien, Howie?
+
+896
+01:08:12,750 --> 01:08:16,150
+"Sí. Estoy bien"
+
+897
+01:08:17,220 --> 01:08:18,920
+Vale.
+
+898
+01:08:28,870 --> 01:08:30,170
+¿Se retira?
+
+899
+01:08:30,230 --> 01:08:31,269
+En el mismo tiempo.
+
+900
+01:08:31,270 --> 01:08:32,270
+¿El recuento?
+
+901
+01:08:32,271 --> 01:08:34,640
+Sobre doce.
+
+902
+01:08:40,980 --> 01:08:43,650
+Está alcanzando
+el final de su ciclo.
+
+903
+01:08:43,710 --> 01:08:46,850
+No vamos a verlo otra vez,
+hasta dentro de tres meses.
+
+904
+01:08:58,100 --> 01:09:01,629
+¿Dos días más?
+
+905
+01:09:01,630 --> 01:09:04,300
+Algo menos.
+
+906
+01:09:06,940 --> 01:09:09,240
+¿Mañana?
+
+907
+01:09:13,340 --> 01:09:16,750
+Creo que va a ser hoy.
+
+908
+01:09:22,690 --> 01:09:24,420
+¿Gabby?
+
+909
+01:09:25,321 --> 01:09:26,720
+Ey, Gabby.
+
+910
+01:09:26,790 --> 01:09:28,690
+Está bien.
+
+911
+01:09:28,760 --> 01:09:31,060
+Tengo que vestirme.
+
+912
+01:10:14,140 --> 01:10:16,210
+¿Y qué pasará si no funciona?
+
+913
+01:10:18,510 --> 01:10:20,910
+¿Qué otra elección tengo?
+
+914
+01:10:20,980 --> 01:10:22,780
+Bueno... Y qué... ¿Qué pasará
+si lo sabe?
+
+915
+01:10:22,850 --> 01:10:26,120
+Puede que ya lo sepa todo.
+
+916
+01:10:26,180 --> 01:10:28,480
+Podría.
+
+917
+01:10:28,550 --> 01:10:32,620
+Sabes... Podríamos esperar
+hasta el próximo ciclo.
+
+918
+01:10:32,690 --> 01:10:34,660
+Si es que hay otro.
+
+919
+01:10:34,730 --> 01:10:36,930
+Puede que nunca tengamos
+otra oportunidad.
+
+920
+01:10:36,990 --> 01:10:39,136
+No aguantaré otros tres meses.
+Lo sé, lo sé.
+
+921
+01:10:39,400 --> 01:10:40,560
+Lo entiendo.
+
+922
+01:10:40,570 --> 01:10:43,630
+Estoy siendo egoista.
+
+923
+01:10:43,700 --> 01:10:45,670
+No eres tú, soy yo.
+
+924
+01:10:45,740 --> 01:10:47,970
+Estás diciendo lo que yo pienso.
+
+925
+01:10:48,040 --> 01:10:50,640
+No arruines el momento.
+
+926
+01:10:50,710 --> 01:10:52,280
+Lo siento.
+
+927
+01:10:52,340 --> 01:10:55,140
+¿Tu piensas que digo
+lo que deseas oir?
+
+928
+01:10:55,210 --> 01:10:57,010
+Definitivamente, no.
+
+929
+01:10:57,080 --> 01:10:59,480
+Ninguna chica imaginaria
+podría ser tan complicada.
+
+930
+01:11:03,020 --> 01:11:10,090
+Si pudiera quedarme contigo
+siempre aquí, lo haría.
+
+931
+01:11:14,130 --> 01:11:17,330
+Bueno... ¿Y qué pasa si
+no hay nada allí afuera?
+
+932
+01:11:17,700 --> 01:11:20,440
+¿Qué pasará si puedes volver...
+
+933
+01:11:21,470 --> 01:11:23,210
+pero no hay ningún sitio al que ir?
+
+934
+01:11:23,270 --> 01:11:29,949
+¿Qué pasaría si consiguieras
+suministros y pudieras volver y...
+
+935
+01:11:29,950 --> 01:11:36,550
+Vale. Sé que suena loco, pero...
+
+936
+01:11:36,620 --> 01:11:39,560
+Si hay un mundo...
+¿Podrías hacerme un favor?
+
+937
+01:11:39,620 --> 01:11:42,230
+¿Cuál?
+
+938
+01:11:42,290 --> 01:11:44,060
+Encontrarme.
+
+939
+01:11:44,130 --> 01:11:46,030
+La original.
+
+940
+01:11:46,100 --> 01:11:48,360
+No sé... A lo mejor soy aún
+más increíble.
+
+941
+01:11:48,430 --> 01:11:49,746
+Tú ni siquiera me conoces allá afuera.
+
+942
+01:11:49,770 --> 01:11:52,500
+Probablemente me dirías
+que me perdiera.
+
+943
+01:11:53,740 --> 01:11:57,510
+Sólo encuéntrame, ¿Vale?
+
+944
+01:11:58,580 --> 01:12:00,840
+Lo haré.
+
+945
+01:13:13,650 --> 01:13:15,750
+"Buenos días, Frank"
+
+946
+01:13:15,820 --> 01:13:17,889
+"¿Te apetece un café?"
+
+947
+01:13:17,890 --> 01:13:20,620
+Sí, gracias.
+
+948
+01:13:20,690 --> 01:13:22,990
+"Ey... Llevas tu uniforme"
+
+949
+01:13:23,060 --> 01:13:24,890
+Hace un poco de frío.
+
+950
+01:13:24,900 --> 01:13:26,559
+"Puedo aumentar la temperatura
+si quieres"
+
+951
+01:13:26,560 --> 01:13:30,270
+No, está bien.
+
+952
+01:13:30,330 --> 01:13:32,100
+Lígero de crema, por favor.
+
+953
+01:13:32,170 --> 01:13:33,770
+"Por supuesto"
+
+954
+01:13:33,840 --> 01:13:35,300
+Gracias, Howard.
+
+955
+01:13:35,370 --> 01:13:37,170
+"De nada"
+
+956
+01:13:38,110 --> 01:13:39,840
+Gracias, Howard.
+
+957
+01:13:39,910 --> 01:13:41,480
+"De nada"
+
+958
+01:13:44,450 --> 01:13:45,520
+Gracias, Howard.
+
+959
+01:13:45,580 --> 01:13:47,450
+"De nada"
+
+960
+01:13:49,520 --> 01:13:50,790
+Gracias, Howard.
+
+961
+01:13:50,850 --> 01:13:53,260
+"De... nada"
+
+962
+01:13:54,690 --> 01:13:56,590
+"¿Cómo está el café... Frank?"
+
+963
+01:14:00,900 --> 01:14:03,430
+"¿Cómo está el café... Frank?"
+
+964
+01:14:05,600 --> 01:14:08,300
+"¿Cómo está el café... Frank?"
+
+965
+01:14:09,570 --> 01:14:11,970
+"¿Cómo está el café... Frank?"
+
+966
+01:14:12,580 --> 01:14:14,940
+"Frank... ¿Cómo está el café?"
+
+967
+01:14:14,950 --> 01:14:17,480
+Es maravilloso. Gracias.
+
+968
+01:14:19,450 --> 01:14:21,150
+¿Howard?
+"¿Sí, Frank?"
+
+969
+01:14:21,420 --> 01:14:22,789
+Necesito el baño.
+
+970
+01:14:22,790 --> 01:14:24,650
+"Por supuesto"
+
+971
+01:14:27,060 --> 01:14:30,129
+Howard, ¿La puerta?
+
+972
+01:14:30,130 --> 01:14:33,400
+"¿Te sientes bien, Frank?"
+
+973
+01:14:33,460 --> 01:14:34,560
+Estoy bien, sí.
+
+974
+01:14:34,630 --> 01:14:38,170
+El baño, por favor.
+
+975
+01:14:41,810 --> 01:14:43,670
+"¿Qué sucede?"
+
+976
+01:14:43,740 --> 01:14:46,180
+No estoy seguro si lo necesito.
+
+977
+01:14:48,910 --> 01:14:54,020
+"Frank... ¿Estás seguro de que
+no te pasa nada?
+
+978
+01:15:27,120 --> 01:15:28,420
+"¿Qué ha pasado?"
+
+979
+01:15:28,490 --> 01:15:31,290
+"Frank... ¿Te has hecho daño?"
+
+980
+01:15:35,730 --> 01:15:37,790
+"Frank, espera. Voy a
+conseguir ayuda"
+
+981
+01:15:43,500 --> 01:15:46,140
+Vale, sólo aguanta.
+
+982
+01:15:46,200 --> 01:15:48,800
+"Espera, aguanta"
+
+983
+01:15:49,840 --> 01:15:52,210
+¡Vamos, Howard!
+
+984
+01:22:49,560 --> 01:22:52,000
+¡Eres un hijo de puta!
+
+985
+01:22:52,200 --> 01:22:55,460
+¡Eres un hijo de puta!
+
+986
+01:24:09,140 --> 01:24:11,210
+"Buenos días, Frank"
+
+987
+01:24:13,880 --> 01:24:16,750
+"¿Te apetece un café, Frank?"
+
+988
+01:24:16,810 --> 01:24:19,480
+No hay café, Howard.
+
+989
+01:24:20,050 --> 01:24:23,549
+"¿Te gustaría desayunar?"
+
+990
+01:24:23,550 --> 01:24:27,290
+No hay desayuno, Howard.
+
+991
+01:24:27,360 --> 01:24:29,890
+"Estoy haciéndolo lo mejor
+que puedo, Frank"
+
+992
+01:24:32,830 --> 01:24:34,900
+Tienes que dejarme salir.
+
+993
+01:24:37,430 --> 01:24:40,739
+Tienes que dejarme salir
+de esta habitación, Howard.
+
+994
+01:24:40,740 --> 01:24:42,670
+"No puedo hacerlo"
+
+995
+01:24:42,740 --> 01:24:44,739
+Sabes cuál es tu trabajo.
+
+996
+01:24:44,740 --> 01:24:46,180
+"Lo sé"
+
+997
+01:24:46,240 --> 01:24:49,240
+Tu trabajo es mantenerme con vida...
+¿Lo recuerdas?
+
+998
+01:24:49,250 --> 01:24:52,180
+Me lo dijiste la primera vez
+que nos vimos.
+
+999
+01:24:52,250 --> 01:24:54,320
+"Es mi trabajo"
+
+1000
+01:24:54,380 --> 01:24:58,320
+Si continuo en esta celda,
+voy a morir.
+
+1001
+01:24:58,390 --> 01:25:00,620
+Si me mantienes
+en esta celda, Howard, moriré.
+
+1002
+01:25:00,690 --> 01:25:03,160
+Así de sencillo.
+
+1003
+01:25:03,530 --> 01:25:06,860
+"No tengo esa información"
+
+1004
+01:25:09,930 --> 01:25:12,769
+Tienes que dejarme salir, colega.
+
+1005
+01:25:12,770 --> 01:25:14,600
+"No estoy autorizado a hacer eso"
+
+1006
+01:25:14,610 --> 01:25:17,010
+No estás autorizado para
+dejarme morir.
+
+1007
+01:25:17,070 --> 01:25:19,880
+"Yo no... Eso no... No lo sé"
+
+1008
+01:25:19,940 --> 01:25:21,140
+¡Howard. Howard!
+
+1009
+01:25:21,210 --> 01:25:22,380
+Escúchame.
+
+1010
+01:25:22,400 --> 01:25:23,600
+No me des la espalda.
+
+1011
+01:25:23,780 --> 01:25:25,850
+No... Mírame, Howard.
+
+1012
+01:25:25,920 --> 01:25:27,119
+¡Mírame!
+
+1013
+01:25:27,120 --> 01:25:29,050
+Tenemos que hablar de esto.
+
+1014
+01:25:29,120 --> 01:25:30,850
+"¿Sobre qué?"
+
+1015
+01:25:30,920 --> 01:25:33,060
+¡Esto!
+
+1016
+01:25:39,430 --> 01:25:41,900
+Esto.
+
+1017
+01:25:43,000 --> 01:25:46,900
+Sé porqué me trajeron aquí, Howard.
+Y tu también lo sabes.
+
+1018
+01:25:46,970 --> 01:25:50,510
+"No sé a qué te refieres"
+
+1019
+01:25:50,570 --> 01:25:53,680
+Yo era parte de la Alianza.
+
+1020
+01:25:59,950 --> 01:26:02,649
+Era el número uno.
+
+1021
+01:26:02,650 --> 01:26:04,190
+Yo fui el que creó el virus
+
+1022
+01:26:04,250 --> 01:26:07,220
+que iba a colapsar todo el sistema.
+
+1023
+01:26:07,290 --> 01:26:08,760
+¿Eso es lo que querías, no?
+
+1024
+01:26:08,830 --> 01:26:10,760
+El virus.
+
+1025
+01:26:10,830 --> 01:26:12,360
+Saber dónde está.
+
+1026
+01:26:12,430 --> 01:26:15,100
+Sabía que si te lo decía, que si
+te permitía encontrarlo
+
+1027
+01:26:15,170 --> 01:26:16,730
+nunca saldría de aquí.
+
+1028
+01:26:16,800 --> 01:26:18,499
+¿Piensas que no sé lo que es aquello?
+
+1029
+01:26:18,500 --> 01:26:20,200
+Sé cómo derrotarlo.
+
+1030
+01:26:20,270 --> 01:26:23,010
+Sé cómo cambiar mi camino
+para que no encuentres el rastro.
+
+1031
+01:26:25,180 --> 01:26:27,210
+"Así que tu..."
+
+1032
+01:26:27,280 --> 01:26:29,880
+"¿Me has mentido?"
+
+1033
+01:26:42,490 --> 01:26:47,300
+Siento haberte mentido, Howard.
+
+1034
+01:26:47,360 --> 01:26:50,570
+Lo siento.
+
+1035
+01:26:50,630 --> 01:26:57,470
+Has hecho un buen trabajo,
+me has mantenido con vida.
+
+1036
+01:26:57,540 --> 01:27:03,110
+Pero ya no importa, Howard.
+
+1037
+01:27:03,180 --> 01:27:05,910
+Estás averiado, colega.
+
+1038
+01:27:05,980 --> 01:27:09,750
+El café, la ducha.
+
+1039
+01:27:09,820 --> 01:27:12,550
+No hay comida, Howard,
+
+1040
+01:27:14,590 --> 01:27:17,460
+estás roto y nadie va a venir
+a repararte.
+
+1041
+01:27:17,530 --> 01:27:19,729
+"Bien... enviaré un informe SR-4..."
+
+1042
+01:27:19,730 --> 01:27:22,300
+Nadie lo recibirá, no queda nadie.
+
+1043
+01:27:22,370 --> 01:27:23,770
+"Eso no lo sabemos"
+
+1044
+01:27:23,830 --> 01:27:26,000
+Tienes que ignorar el protocolo,
+Howard.
+
+1045
+01:27:26,070 --> 01:27:27,300
+"No puedo hacerlo"
+
+1046
+01:27:27,370 --> 01:27:28,739
+Tienes que hacerlo por
+tu cuenta... ¿Vale?
+
+1047
+01:27:28,740 --> 01:27:30,469
+Sé que puedes hacerlo.
+"Detente"
+
+1048
+01:27:31,010 --> 01:27:32,270
+Por tu cuenta, Howard.
+
+1049
+01:27:32,680 --> 01:27:34,009
+- "Detente"
+- Puedes hacerlo.
+
+1050
+01:27:34,010 --> 01:27:35,509
+- "Detente"
+- Puedes hacerlo.
+
+1051
+01:27:35,510 --> 01:27:36,849
+- "Detente"
+- Sé que puedes.
+
+1052
+01:27:36,850 --> 01:27:38,179
+- "Detente"
+- Sé que puedes.
+
+1053
+01:27:38,180 --> 01:27:40,079
+"Por favor, detente"
+¿Cuál es tu trabajo?
+
+1054
+01:27:40,080 --> 01:27:41,580
+"No puedo hacerlo, Frank"
+
+1055
+01:27:41,590 --> 01:27:42,919
+¿Cuál es tu trabajo?
+
+1056
+01:27:42,920 --> 01:27:44,250
+"Mantenerte con vida"
+
+1057
+01:27:44,260 --> 01:27:47,260
+¡Entonces abre la maldita puerta!
+
+1058
+01:27:49,630 --> 01:27:53,460
+Por favor...
+
+1059
+01:27:53,530 --> 01:27:58,130
+Haz esto por mi, Howard.
+Porque somos amigos.
+
+1060
+01:28:03,370 --> 01:28:06,280
+¿Puedes hacer esto por mi,
+Howard?
+
+1061
+01:28:07,880 --> 01:28:10,810
+"Lo siento, Frank"
+
+1062
+01:28:10,880 --> 01:28:14,720
+"No puedo hacerlo"
+
+1063
+01:28:14,780 --> 01:28:19,520
+"Sólo puedo hacer aquello
+para lo que estoy programado"
+
+1064
+01:28:22,290 --> 01:28:27,300
+Lo sé... De acuerdo.
+
+1065
+01:28:37,440 --> 01:28:41,479
+"¿Qué te parece una taza de café?"
+
+1066
+01:28:41,480 --> 01:28:43,910
+Me parece bien.
+
+1067
+01:28:48,650 --> 01:28:49,989
+¿Howard?
+
+1068
+01:28:49,990 --> 01:28:52,319
+"Sí, Frank"
+
+1069
+01:28:52,320 --> 01:28:54,690
+¿Qué tal un poco de música, colega?
+
+1070
+01:28:54,760 --> 01:28:58,400
+"¿Qué te gustaría escuchar?"
+
+1071
+01:28:58,630 --> 01:29:01,400
+Sorpréndeme.
+
+1072
+01:29:29,030 --> 01:29:31,360
+Una elección maravillosa.
+
+1073
+01:30:06,530 --> 01:30:08,200
+"Detente"
+
+1074
+01:30:10,000 --> 01:30:13,200
+"Detente"
+
+1075
+01:30:15,200 --> 01:30:16,200
+"Detente"
+
+1076
+01:30:18,000 --> 01:30:19,200
+"Por favor, detente"
+
+1077
+01:30:20,740 --> 01:30:22,079
+Frank.
+
+1078
+01:30:22,080 --> 01:30:23,180
+Frank... ¿Qué sucede?
+
+1079
+01:30:23,250 --> 01:30:24,850
+Frank... ¿Qué estás haciendo?
+¡Frank!
+
+1080
+01:30:32,090 --> 01:30:34,360
+Frank, despierta.
+
+1081
+01:30:34,420 --> 01:30:35,990
+¡Frank!
+
+1082
+01:30:41,300 --> 01:30:43,100
+¡Frank!
+
+1083
+01:30:58,920 --> 01:31:00,820
+Howard. ¡Ayúdame!
+
+1084
+01:32:20,630 --> 01:32:21,630
+¿Howard?
+
+1085
+01:32:21,660 --> 01:32:25,070
+"¿Frank... Estás aquí?"
+
+1086
+01:32:25,130 --> 01:32:27,800
+"¿Eres tú?"
+"¿Frank?"
+
+1087
+01:32:27,970 --> 01:32:30,610
+Estoy aquí.
+
+1088
+01:32:30,670 --> 01:32:34,240
+"¿Lo conseguiste?"
+
+1089
+01:32:34,310 --> 01:32:37,379
+Gracias a ti.
+
+1090
+01:32:37,380 --> 01:32:39,480
+"¿Qué hay ahí afuera?"
+
+1091
+01:32:41,980 --> 01:32:43,320
+No hay nada aquí.
+
+1092
+01:32:43,390 --> 01:32:47,490
+No hay... Tu eres el único
+que funciona, Howard.
+
+1093
+01:32:47,560 --> 01:32:51,160
+"Frank... ¿Puedes repararme?"
+
+1094
+01:32:51,230 --> 01:32:52,790
+"¿Desde allí?"
+
+1095
+01:32:56,770 --> 01:33:00,569
+Sí... No lo creo.
+
+1096
+01:33:00,570 --> 01:33:04,310
+"¿Qué hacemos ahora?"
+
+1097
+01:33:04,370 --> 01:33:05,940
+No lo sé.
+
+1098
+01:33:09,350 --> 01:33:12,110
+"¿Vas a volver?"
+
+1099
+01:33:15,750 --> 01:33:18,190
+No.
+
+1100
+01:33:21,360 --> 01:33:23,490
+¿Howard?
+
+1101
+01:33:23,560 --> 01:33:25,460
+"Sí, Frank"
+
+1102
+01:33:28,760 --> 01:33:31,769
+¿Qué significa LSO?
+
+1103
+01:33:31,770 --> 01:33:35,700
+"El operario que te mantiene con vida"
+
+1104
+01:33:35,770 --> 01:33:37,840
+¿Y cuál es tu trabajo?
+
+1105
+01:33:37,910 --> 01:33:39,870
+"Estoy aquí para mantenerte
+con vida, Frank"
+
+1106
+01:33:39,940 --> 01:33:42,609
+Correcto.
+
+1107
+01:33:42,610 --> 01:33:45,710
+Y... ¿De dónde eres?
+
+1108
+01:33:45,780 --> 01:33:49,720
+"Nací en Austin, pero crecí
+en las afueras de Seattle"
+
+1109
+01:33:49,790 --> 01:33:51,890
+"en un pequeño pueblo
+del que nadie ha oído hablar"
+
+1110
+01:33:51,950 --> 01:33:55,160
+"Pero ya sabes todo esto,
+porque somos amigos..."
+
+1111
+01:36:24,410 --> 01:36:27,186
+Las autoridades todavía no han
+hecho público el nombre de la persona
+
+1112
+01:36:27,210 --> 01:36:31,710
+encontrada por unos excursionistas
+en la cordillera de Sierra Notre.
+
+1113
+01:36:31,780 --> 01:36:33,480
+Al suroeste de Utah.
+
+1114
+01:36:33,550 --> 01:36:35,619
+El único superviviente
+de un Centro de Detención del ISN,
+
+1115
+01:36:35,620 --> 01:36:38,020
+que fue abandonado por
+sus responsables militares
+
+1116
+01:36:38,090 --> 01:36:41,119
+aproximadamente hace dos años
+durante la liberación EVR.
+
+1117
+01:36:41,120 --> 01:36:44,830
+Fue mantenido con vida
+por un sistema informático de seguridad
+
+1118
+01:36:44,890 --> 01:36:46,730
+que se encargó de encarcelarlo
+
+1119
+01:36:46,800 --> 01:36:52,969
+y que fue alimentado por terminales de
+gas hasta que los suministros se agotaron.
+
+1120
+01:36:52,970 --> 01:36:56,740
+Para evitar violaciones de los
+Derechos Humanos
+
+1121
+01:36:56,810 --> 01:36:59,570
+que pudieran relacionarse con
+la administración del presidente Ebert
+
+1122
+01:36:59,640 --> 01:37:02,010
+Más de 300 detenidos
+fueron descubiertos muertos
+
+1123
+01:37:02,080 --> 01:37:06,010
+él es el único
+superviviente conocido.
+
+1124
+01:37:06,080 --> 01:37:07,896
+El Secretario de Estado, Beckerman,
+afirmó que se trata de
+
+1125
+01:37:07,920 --> 01:37:10,850
+"Un recordatorio duro y trágico
+de un régimen que violó
+
+1126
+01:37:10,920 --> 01:37:13,390
+nuestros más sagrados
+Derechos Humanos"
+
+1127
+01:37:13,460 --> 01:37:15,520
+Nos felicitamos por tu regreso
+sano y salvo
+
+1128
+01:37:15,590 --> 01:37:18,930
+y te damos la bienvenida
+al Nuevo Mundo.
+
+1129
+01:37:48,820 --> 01:37:51,090
+¿Te gusta?
+
+1130
+01:37:54,060 --> 01:37:57,300
+¿La foto?
+
+1131
+01:37:57,370 --> 01:37:59,570
+Sí, me gusta.
+
+1132
+01:37:59,640 --> 01:38:02,600
+La hice yo.
+
+1133
+01:38:02,670 --> 01:38:04,640
+Lo sé.
+
+1134
+01:38:08,480 --> 01:38:12,000
+¿Puedo servirte algo?
+¿Café?
+
+1135
+01:38:12,180 --> 01:38:14,650
+Un café.
+
+1136
+01:38:14,720 --> 01:38:16,220
+Claro.
+
+1137
+01:38:40,680 --> 01:38:42,140
+Aquí tienes.
+
+1138
+01:38:42,210 --> 01:38:43,749
+Café.
+
+1139
+01:38:43,750 --> 01:38:45,780
+Gracias, Gabby.
+
+1140
+01:38:45,850 --> 01:38:48,180
+¿Por qué me llamas así?
+
+1141
+01:38:48,250 --> 01:38:51,120
+No es tu... La última vez
+que estuve aquí
+
+1142
+01:38:51,190 --> 01:38:52,366
+llevabas una placa con tu nombre.
+
+1143
+01:38:52,390 --> 01:38:54,089
+No, no.
+
+1144
+01:38:54,090 --> 01:38:55,920
+Siempre utilizo el delantal
+más cercano.
+
+1145
+01:38:55,930 --> 01:38:57,790
+Gabby ya no trabaja aquí.
+
+1146
+01:38:57,860 --> 01:38:59,660
+Me llamo Madeline.
+
+1147
+01:39:02,060 --> 01:39:04,100
+Encantado de conocerte, Madeline.
+
+1148
+01:39:04,270 --> 01:39:06,200
+- Yo me...
+- ¡No me lo digas!
+
+1149
+01:39:13,240 --> 01:39:14,940
+David.
+
+1150
+01:39:17,050 --> 01:39:18,710
+Peter.
+
+1151
+01:39:19,250 --> 01:39:20,320
+Scott.
+
+1152
+01:39:21,800 --> 01:39:22,900
+Nicholas.
+
+1153
+01:39:24,200 --> 01:39:25,400
+Chris.
+
+1154
+01:42:51,000 --> 01:42:58,700
+JACC/13/07/2018
+
+1154
+01:42:59,305 --> 01:43:59,366
+Apóyanos y conviértete en miembro VIP Para
+eliminar todos los anuncios OpenSubtitles.org
