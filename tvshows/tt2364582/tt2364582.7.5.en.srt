@@ -1,0 +1,3402 @@
+1
+00:00:00,000 --> 00:00:02,834
+Previously on Marvel's
+"Agents of S.H.I.E.L.D."...
+
+2
+00:00:02,836 --> 00:00:04,005
+I have orders to kill him.
+
+3
+00:00:04,007 --> 00:00:06,207
+Put the gun down now! That's an order.
+
+4
+00:00:06,209 --> 00:00:09,010
+The kid we let live in 1931
+
+5
+00:00:09,012 --> 00:00:11,946
+had come back to haunt us in 1955.
+
+6
+00:00:11,948 --> 00:00:16,017
+I think S.H.I.E.L.D. has
+been infiltrated by Hydra.
+
+7
+00:00:16,019 --> 00:00:17,121
+Say hello to Howard.
+
+8
+00:00:17,123 --> 00:00:18,211
+You were shot
+
+9
+00:00:18,213 --> 00:00:20,054
+after delivering that gadget.
+
+10
+00:00:20,056 --> 00:00:21,829
+I'm not dead.
+
+11
+00:00:21,831 --> 00:00:23,464
+We didn't change history. We just...
+
+12
+00:00:23,466 --> 00:00:25,000
+faked your death.
+
+13
+00:00:26,836 --> 00:00:28,102
+Job is done.
+
+14
+00:00:28,104 --> 00:00:29,608
+No more prying eyes.
+
+15
+00:00:29,610 --> 00:00:31,823
+You're alive, but to
+anyone not on this plane,
+
+16
+00:00:31,825 --> 00:00:33,073
+you were killed at that hotel.
+
+17
+00:00:33,075 --> 00:00:34,808
+Here we go.
+
+18
+00:00:36,646 --> 00:00:39,613
+Let me guess... we're
+not in 1955 anymore.
+
+19
+00:00:39,615 --> 00:00:40,814
+Nope.
+
+20
+00:00:40,816 --> 00:00:43,150
+I have been left behind to help you.
+
+21
+00:00:43,152 --> 00:00:45,786
+S.H.I.E.L.D. will destroy
+all you have built.
+
+22
+00:00:45,788 --> 00:00:47,921
+- It is time to prevent that.
+- How?
+
+23
+00:00:47,923 --> 00:00:50,659
+By doing exactly what I say.
+
+24
+00:00:51,827 --> 00:00:54,896
+- Synced and corrected by<font color="#00BFFF"> Firefly</font> -
+- <font color="#00ffff">www.addic7ed.com</font> -
+
+25
+00:01:02,271 --> 00:01:07,141
+Marvel's "Agents of S.H.I.E.L.D."
+
+26
+00:01:07,143 --> 00:01:10,277
+Starring...
+
+27
+00:01:10,279 --> 00:01:11,680
+Clark Gregg...
+
+28
+00:01:13,683 --> 00:01:14,883
+... Ming-Na Wen...
+
+29
+00:01:16,919 --> 00:01:18,119
+... Chloe Bennet...
+
+30
+00:01:20,323 --> 00:01:21,890
+... Elizabeth Henstridge...
+
+31
+00:01:24,026 --> 00:01:25,794
+... Henry Simmons...
+
+32
+00:01:27,330 --> 00:01:29,464
+... Natalia Cordova-Buckley...
+
+33
+00:01:31,033 --> 00:01:32,833
+... Jeff Ward.
+
+34
+00:01:32,835 --> 00:01:35,936
+Tonight's episode...
+"A Trout in the Milk".
+
+35
+00:01:37,000 --> 00:01:43,074
+Advertise your product or brand here
+contact www.OpenSubtitles.org today
+
+36
+00:01:50,453 --> 00:01:53,220
+Now, this is the
+New York City I remember.
+
+37
+00:01:53,222 --> 00:01:57,825
+The honking, the smell of hot dog water.
+
+38
+00:01:57,827 --> 00:01:59,059
+And these are the clothes
+
+39
+00:01:59,061 --> 00:02:00,894
+the grown-ups wore when we were kids,
+
+40
+00:02:00,896 --> 00:02:03,330
+am I right?
+
+41
+00:02:03,332 --> 00:02:05,899
+Still not gonna give me anything, huh?
+
+42
+00:02:05,901 --> 00:02:08,569
+Even copping attitude
+would be a warm relief.
+
+43
+00:02:08,571 --> 00:02:10,103
+Hard to care about where we stand
+
+44
+00:02:10,105 --> 00:02:11,772
+when the only emotions I have
+
+45
+00:02:11,774 --> 00:02:13,707
+are the ones other people pass to me.
+
+46
+00:02:13,709 --> 00:02:14,908
+Oh!
+
+47
+00:02:14,910 --> 00:02:16,076
+Like this guy here,
+
+48
+00:02:16,078 --> 00:02:18,446
+who's feeling ticked off and impatient!
+
+49
+00:02:21,450 --> 00:02:23,050
+Well, that's good that you're learning
+
+50
+00:02:23,052 --> 00:02:24,751
+to label and communicate them.
+
+51
+00:02:24,753 --> 00:02:26,387
+That's good. Very healthy.
+
+52
+00:02:26,389 --> 00:02:28,555
+Now that feeling's extended to you.
+
+53
+00:02:40,069 --> 00:02:42,035
+- Hey, looking sharp.
+- _
+
+54
+00:02:42,037 --> 00:02:43,737
+Thanks.
+
+55
+00:02:43,739 --> 00:02:44,872
+Where's Agent Sousa?
+
+56
+00:02:44,874 --> 00:02:46,507
+He's still inside,
+picking out his threads.
+
+57
+00:02:46,509 --> 00:02:48,175
+How's he handling the transition?
+
+58
+00:02:48,177 --> 00:02:51,406
+Honestly, the fact that he's not
+projectile vomiting from the shock
+
+59
+00:02:51,408 --> 00:02:52,708
+is a miracle.
+
+60
+00:02:54,750 --> 00:02:56,917
+What happened to blending in?
+
+61
+00:02:56,919 --> 00:03:00,220
+I just don't understand the
+functional appeal of those...
+
+62
+00:03:00,222 --> 00:03:02,356
+elephant... pants.
+
+63
+00:03:02,358 --> 00:03:04,602
+- You mean the bell-bottoms?
+- Sure.
+
+64
+00:03:04,604 --> 00:03:05,970
+How do people in your time
+
+65
+00:03:05,972 --> 00:03:08,773
+function with all the extra
+fabric around their feet?
+
+66
+00:03:08,775 --> 00:03:09,974
+I got news for you.
+
+67
+00:03:09,976 --> 00:03:11,442
+This isn't actually our time period.
+
+68
+00:03:11,444 --> 00:03:12,578
+Well, fortunately,
+
+69
+00:03:12,580 --> 00:03:14,379
+there's unfashionable
+squares in every decade,
+
+70
+00:03:14,381 --> 00:03:16,248
+so you are... set.
+
+71
+00:03:18,518 --> 00:03:20,985
+And nobody seems to
+look you in the eye now.
+
+72
+00:03:20,987 --> 00:03:23,955
+Hmm. Wait 'til they all get cellphones.
+
+73
+00:03:23,957 --> 00:03:25,189
+So, I was thinking,
+
+74
+00:03:25,191 --> 00:03:27,792
+how do you guys know I was
+supposed to die in 1955?
+
+75
+00:03:27,794 --> 00:03:29,227
+It's in the history books.
+
+76
+00:03:29,229 --> 00:03:30,495
+Yeah, but...
+
+77
+00:03:30,497 --> 00:03:32,730
+but what if you always
+plucked me out of time?
+
+78
+00:03:32,732 --> 00:03:34,165
+Does that mean I always survive?
+
+79
+00:03:34,167 --> 00:03:36,200
+And if we end up in your present,
+
+80
+00:03:36,202 --> 00:03:37,869
+will we even be in the same timeline?
+
+81
+00:03:37,871 --> 00:03:40,171
+I'd stop thinking about it.
+Your brains will spill out.
+
+82
+00:03:40,173 --> 00:03:41,973
+Simmons can explain... sort of...
+
+83
+00:03:41,975 --> 00:03:43,940
+but maybe you'd feel more comfortable
+
+84
+00:03:43,942 --> 00:03:45,176
+staying back on Zephyr One.
+
+85
+00:03:45,178 --> 00:03:46,411
+No. No, no, no.
+
+86
+00:03:46,413 --> 00:03:48,046
+I'm here. No going back.
+
+87
+00:03:48,048 --> 00:03:51,883
+Might as well dive in
+and embrace the 1970s.
+
+88
+00:03:51,885 --> 00:03:54,218
+♪ Freaky deak, freaky deak ♪
+
+89
+00:03:57,057 --> 00:03:58,457
+Starting now.
+
+90
+00:03:59,993 --> 00:04:02,627
+I can't believe this old
+hideout is still running.
+
+91
+00:04:02,629 --> 00:04:04,762
+Did you ever stop by back in the day?
+
+92
+00:04:04,764 --> 00:04:05,930
+Once or twice.
+
+93
+00:04:05,932 --> 00:04:07,832
+Only the top brass knew about it.
+
+94
+00:04:07,834 --> 00:04:09,233
+Good place to lie low.
+
+95
+00:04:09,235 --> 00:04:10,368
+Oh, yeah?
+
+96
+00:04:10,370 --> 00:04:12,370
+I wish I could've seen it back then.
+
+97
+00:04:12,372 --> 00:04:14,238
+I heard Dooley had a reserved booth
+
+98
+00:04:14,240 --> 00:04:15,973
+with one of those plaque
+things next to it...
+
+99
+00:04:15,975 --> 00:04:18,910
+Okay, Dad, let's not keep
+Enoch waiting any longer.
+
+100
+00:04:18,912 --> 00:04:21,312
+He's been chilling
+for like four decades.
+
+101
+00:04:47,240 --> 00:04:50,508
+♪ Put your feet to
+the sole, my friends ♪
+
+102
+00:04:50,510 --> 00:04:53,878
+♪ And remember those hobnail boots ♪
+
+103
+00:04:53,880 --> 00:04:56,948
+- ♪ Jump around in the mud again ♪
+- So much for lying low.
+
+104
+00:04:56,950 --> 00:04:58,316
+I wonder what all this is about.
+
+105
+00:04:58,318 --> 00:04:59,884
+♪ Ain't it fine gettin'
+back to the roots ♪
+
+106
+00:04:59,886 --> 00:05:01,586
+Maybe Enoch will know what's going on.
+
+107
+00:05:01,588 --> 00:05:03,888
+♪ Take a good walk in the country ♪
+
+108
+00:05:03,890 --> 00:05:07,225
+♪ Where there ain't no bricks or steel ♪
+
+109
+00:05:07,227 --> 00:05:08,292
+♪ Take a good walk... ♪
+
+110
+00:05:22,809 --> 00:05:24,175
+Sometimes you punch the bag,
+
+111
+00:05:24,177 --> 00:05:27,945
+sometimes the bag punches
+you, am I right?
+
+112
+00:05:27,947 --> 00:05:29,247
+I get that Mack wants me to do
+
+113
+00:05:29,249 --> 00:05:30,982
+combat training before
+I return to the field,
+
+114
+00:05:30,984 --> 00:05:33,684
+but seriously, I got kidnapped
+by a Hydra boss one time.
+
+115
+00:05:33,686 --> 00:05:35,953
+I don't think Freddy will
+be bothering you anymore,
+
+116
+00:05:35,955 --> 00:05:38,723
+considering his funeral
+was three years ago.
+
+117
+00:05:38,725 --> 00:05:40,344
+Good riddance.
+
+118
+00:05:40,346 --> 00:05:41,746
+Not that I was...
+
+119
+00:05:41,748 --> 00:05:44,348
+rooting for his death, but kinda.
+
+120
+00:05:46,653 --> 00:05:48,320
+Did you hear anything from Bobo?
+
+121
+00:05:52,192 --> 00:05:53,324
+Bobo...
+
+122
+00:05:53,326 --> 00:05:55,425
+or grandpappy,
+
+123
+00:05:55,427 --> 00:05:56,694
+whatever you want to call him.
+
+124
+00:05:56,696 --> 00:05:59,464
+Oh, Fitz. No, I haven't heard.
+
+125
+00:05:59,466 --> 00:06:01,933
+But, um, even if I had,
+I couldn't disclose...
+
+126
+00:06:01,935 --> 00:06:03,334
+Right, because the Chronicoms
+
+127
+00:06:03,336 --> 00:06:05,203
+will probe our brains
+and blah, blah, blah,
+
+128
+00:06:05,205 --> 00:06:07,739
+and it's very dangerous,
+no one can know... I get it.
+
+129
+00:06:07,741 --> 00:06:09,407
+We'll be reunited soon.
+
+130
+00:06:09,409 --> 00:06:11,008
+Well, I hope so.
+
+131
+00:06:11,010 --> 00:06:12,978
+Because if you and Fitz don't...
+
+132
+00:06:15,415 --> 00:06:18,217
+bump lemons... so to speak...
+
+133
+00:06:21,387 --> 00:06:23,087
+You know, my mom is
+never going to exist,
+
+134
+00:06:23,089 --> 00:06:25,556
+and then I won't be born...
+
+135
+00:06:25,558 --> 00:06:27,091
+again.
+
+136
+00:06:27,093 --> 00:06:29,293
+I think.
+
+137
+00:06:29,295 --> 00:06:32,063
+But, honestly, I've made
+so many mistakes in my life,
+
+138
+00:06:32,065 --> 00:06:34,098
+I wouldn't mind a chance
+at a little do-over.
+
+139
+00:06:34,100 --> 00:06:36,400
+Wouldn't it be easier
+to prevent the mistakes
+
+140
+00:06:36,402 --> 00:06:38,636
+through, say, preparation?
+
+141
+00:06:42,976 --> 00:06:44,142
+Taking the hint.
+
+142
+00:06:44,144 --> 00:06:45,576
+Letting you get back to work.
+
+143
+00:06:46,946 --> 00:06:48,412
+Bye, Nana.
+
+144
+00:07:30,490 --> 00:07:33,024
+Looks like it always did.
+
+145
+00:07:33,026 --> 00:07:35,459
+A good place to hole up.
+
+146
+00:07:35,461 --> 00:07:37,628
+Any year, right?
+
+147
+00:07:37,630 --> 00:07:39,297
+Happy now?
+
+148
+00:07:39,299 --> 00:07:40,865
+Not yet.
+
+149
+00:07:40,867 --> 00:07:42,099
+History says S.H.I.E.L.D.
+
+150
+00:07:42,101 --> 00:07:44,902
+abandoned this place in '72, but...
+
+151
+00:07:44,904 --> 00:07:46,871
+You had to see it for yourself.
+
+152
+00:07:46,873 --> 00:07:49,507
+Yeah.
+
+153
+00:07:49,509 --> 00:07:53,211
+I like the simple pleasures in life...
+
+154
+00:07:53,213 --> 00:07:55,513
+a preserved timeline,
+
+155
+00:07:55,515 --> 00:07:58,083
+an empty base, and good company.
+
+156
+00:08:00,787 --> 00:08:03,455
+Recon isn't the only
+reason why we're here.
+
+157
+00:08:05,491 --> 00:08:06,991
+- You're for real?
+- Yeah.
+
+158
+00:08:06,993 --> 00:08:09,493
+I'm for real.
+
+159
+00:08:09,495 --> 00:08:11,128
+We left the plane alone.
+
+160
+00:08:11,130 --> 00:08:14,165
+In, uh... In my book,
+
+161
+00:08:14,167 --> 00:08:17,568
+that constitutes as a date night.
+
+162
+00:08:17,570 --> 00:08:20,671
+I was wondering why you brought me here.
+
+163
+00:08:20,673 --> 00:08:23,407
+I'm hardly even fit for recon.
+
+164
+00:08:23,409 --> 00:08:25,543
+What if we run into complications, Mack?
+
+165
+00:08:25,545 --> 00:08:27,511
+You're damn fine at what you do,
+
+166
+00:08:27,513 --> 00:08:28,880
+with or without your powers.
+
+167
+00:08:28,882 --> 00:08:30,081
+They don't define you.
+
+168
+00:08:30,083 --> 00:08:32,550
+Then why do you call me Yo-Yo?
+
+169
+00:08:32,552 --> 00:08:34,218
+'Cause you always bounce back.
+
+170
+00:09:09,756 --> 00:09:11,690
+Something's different.
+
+171
+00:09:31,577 --> 00:09:32,944
+Ohh. Okay.
+
+172
+00:09:32,946 --> 00:09:35,613
+Glad you're enjoying yourself.
+
+173
+00:09:37,116 --> 00:09:38,916
+Any word on Enoch?
+
+174
+00:09:38,918 --> 00:09:41,619
+Oh, uh, negative.
+
+175
+00:09:41,621 --> 00:09:44,021
+Um, you know, I'm worried
+
+176
+00:09:44,023 --> 00:09:46,223
+that it's more serious than we think.
+
+177
+00:09:46,225 --> 00:09:48,526
+Also, I might be drunk.
+
+178
+00:09:48,528 --> 00:09:49,593
+- Yeah.
+- Hmm.
+
+179
+00:09:49,595 --> 00:09:50,761
+I think you might have discovered
+
+180
+00:09:50,763 --> 00:09:53,531
+- a new form of Contact High.
+- Hmm.
+
+181
+00:09:53,533 --> 00:09:55,032
+They're all three sheets to the wind.
+
+182
+00:09:56,469 --> 00:09:57,802
+I'm at least one sheet to the wind.
+
+183
+00:09:57,804 --> 00:09:58,970
+Give me a moment.
+
+184
+00:10:02,375 --> 00:10:04,575
+I talked to the staff,
+
+185
+00:10:04,577 --> 00:10:07,979
+and, uh, they haven't
+seen Enoch in at least...
+
+186
+00:10:07,981 --> 00:10:09,780
+over a year.
+
+187
+00:10:16,322 --> 00:10:17,621
+I'm better now.
+
+188
+00:10:20,159 --> 00:10:21,792
+Good to know S.H.I.E.L.D.
+is going strong.
+
+189
+00:10:21,794 --> 00:10:23,794
+Just wish I knew what
+they were celebrating.
+
+190
+00:10:23,796 --> 00:10:26,598
+Whatever it is, it seems
+to be centered on him.
+
+191
+00:10:30,470 --> 00:10:34,071
+No. Is that...
+
+192
+00:10:34,073 --> 00:10:35,639
+Little Ricky?
+
+193
+00:10:35,641 --> 00:10:39,043
+If by Little Ricky you mean
+General Rick Stoner, then yes.
+
+194
+00:10:39,045 --> 00:10:41,645
+He's top brass at
+S.H.I.E.L.D. You knew him?
+
+195
+00:10:41,647 --> 00:10:43,180
+Yeah.
+
+196
+00:10:43,182 --> 00:10:44,849
+I remember when he was an enlistee.
+
+197
+00:10:44,851 --> 00:10:47,718
+Poor kid couldn't
+tell a mag from a clip.
+
+198
+00:10:49,322 --> 00:10:51,555
+Alright, thank you.
+Thank you for coming.
+
+199
+00:10:51,557 --> 00:10:53,324
+Ladies and gentlemen,
+
+200
+00:10:53,326 --> 00:10:57,695
+I would like to thank all
+of you for being here today.
+
+201
+00:10:57,697 --> 00:11:00,765
+I know that you are all excited
+
+202
+00:11:00,767 --> 00:11:05,036
+to, uh, kick off S.H.I.E.L.D.'s
+next phase in global security.
+
+203
+00:11:05,038 --> 00:11:08,172
+So please welcome the man responsible,
+
+204
+00:11:08,174 --> 00:11:10,841
+my boss and our friend,
+
+205
+00:11:10,843 --> 00:11:12,576
+Wilfred Malick.
+
+206
+00:11:22,655 --> 00:11:24,188
+Freddy's still alive.
+
+207
+00:11:24,190 --> 00:11:25,556
+Thanks, General.
+
+208
+00:11:25,558 --> 00:11:26,924
+So good to be here.
+
+209
+00:11:26,926 --> 00:11:29,527
+I got my start working
+in this gin joint,
+
+210
+00:11:29,529 --> 00:11:31,629
+long before it was a S.H.I.E.L.D. asset.
+
+211
+00:11:31,631 --> 00:11:33,798
+Look how far we've come.
+
+212
+00:11:33,800 --> 00:11:36,700
+From hiding underground,
+keeping vigilant watch,
+
+213
+00:11:36,702 --> 00:11:38,602
+to having eyes in the sky,
+
+214
+00:11:38,604 --> 00:11:41,872
+ensuring the Earth's safety.
+
+215
+00:11:41,874 --> 00:11:46,210
+Using targeting satellites
+and pinpoint laser telemetry,
+
+216
+00:11:46,212 --> 00:11:48,813
+S.H.I.E.L.D. will now be
+able to neutralize hostiles
+
+217
+00:11:48,815 --> 00:11:52,316
+anywhere in the world
+before they pose a threat.
+
+218
+00:11:52,318 --> 00:11:53,717
+This sound familiar to you?
+
+219
+00:11:53,719 --> 00:11:55,219
+Yeah.
+
+220
+00:11:55,221 --> 00:11:57,755
+Sounds like Hydra's 40
+years ahead of schedule.
+
+221
+00:11:57,757 --> 00:11:59,223
+I present to you...
+
+222
+00:11:59,225 --> 00:12:01,058
+Project Insight.
+
+223
+00:12:16,237 --> 00:12:18,271
+So, these folks are secretly squids.
+
+224
+00:12:18,273 --> 00:12:20,440
+No, just a few at the top are Hydra.
+
+225
+00:12:20,442 --> 00:12:22,775
+Most are loyal S.H.I.E.L.D.,
+like Stoner.
+
+226
+00:12:22,777 --> 00:12:25,645
+Seems to me the joint is still
+pretty jazzed about Insight.
+
+227
+00:12:25,647 --> 00:12:27,613
+They think it'll keep the world safe.
+
+228
+00:12:27,615 --> 00:12:29,849
+Nobody figures it's a Hydra plot.
+
+229
+00:12:29,851 --> 00:12:32,518
+Same happened in my time.
+
+230
+00:12:32,520 --> 00:12:35,655
+So the past is doomed
+to repeat the present.
+
+231
+00:12:35,657 --> 00:12:37,824
+Any idea how Hydra got Insight so early?
+
+232
+00:12:37,826 --> 00:12:40,426
+I got a feeling it's the Chronicoms.
+
+233
+00:12:40,428 --> 00:12:42,295
+You sure, or is that
+just a trout in the milk?
+
+234
+00:12:42,297 --> 00:12:44,464
+♪ Now, I'm not claiming... ♪
+
+235
+00:12:44,466 --> 00:12:45,832
+Trout in the milk.
+
+236
+00:12:45,834 --> 00:12:47,467
+Is that...
+
+237
+00:12:47,469 --> 00:12:49,135
+Must be old-timey speak.
+
+238
+00:12:49,137 --> 00:12:51,065
+We call it circumstantial evidence,
+
+239
+00:12:51,067 --> 00:12:53,773
+so yes, but I like it.
+
+240
+00:12:53,775 --> 00:12:56,009
+The Chronicoms told me if
+I didn't take their deal,
+
+241
+00:12:56,011 --> 00:12:57,610
+they'd alter the timeline.
+
+242
+00:12:57,612 --> 00:13:01,547
+Keeping Malick alive past
+1970 must be the first thread.
+
+243
+00:13:01,549 --> 00:13:04,350
+You're saying the
+timeline is already broken.
+
+244
+00:13:04,352 --> 00:13:06,018
+So I died for nothing.
+
+245
+00:13:06,020 --> 00:13:07,253
+You look alive to me.
+
+246
+00:13:07,255 --> 00:13:08,654
+But maybe you should've left me.
+
+247
+00:13:08,656 --> 00:13:10,623
+I could've stopped Hydra back then.
+
+248
+00:13:10,625 --> 00:13:12,125
+No telling how that would've played out,
+
+249
+00:13:12,127 --> 00:13:15,194
+especially with the Chronicoms involved.
+
+250
+00:13:15,196 --> 00:13:16,529
+Looks like we have some work to do.
+
+251
+00:13:16,531 --> 00:13:17,630
+Let's make the rounds,
+
+252
+00:13:17,632 --> 00:13:19,499
+get some intel on Project Insight.
+
+253
+00:13:19,501 --> 00:13:21,568
+Keep an eye out for Enoch.
+
+254
+00:13:22,971 --> 00:13:25,138
+Oh, and one more thing.
+
+255
+00:13:25,140 --> 00:13:26,806
+Keep a low profile.
+
+256
+00:13:26,808 --> 00:13:28,841
+You're kind of famous
+among S.H.I.E.L.D. agents.
+
+257
+00:13:28,843 --> 00:13:30,476
+You get made, the jig is up.
+
+258
+00:13:30,478 --> 00:13:33,346
+Got it. I'll stay off the radar.
+
+259
+00:13:33,348 --> 00:13:35,114
+Is that a thing? Off the radar?
+
+260
+00:13:35,116 --> 00:13:36,583
+We still have that.
+
+261
+00:13:39,721 --> 00:13:42,321
+♪ We are all in this together ♪
+
+262
+00:13:42,323 --> 00:13:44,624
+Want to buy a girl a drink?
+
+263
+00:13:44,626 --> 00:13:47,092
+Well, pardon me, miss, but
+as a commanding officer,
+
+264
+00:13:47,094 --> 00:13:48,966
+purchasing you an alcoholic beverage
+
+265
+00:13:48,968 --> 00:13:50,668
+would be a violation of HR guidelines.
+
+266
+00:13:50,670 --> 00:13:53,538
+However, uh, if you need assistance,
+
+267
+00:13:53,540 --> 00:13:55,406
+I would be happy to use my privilege
+
+268
+00:13:55,408 --> 00:13:58,109
+to flag down a server.
+
+269
+00:13:58,111 --> 00:14:00,144
+Agent Chastity McBride.
+
+270
+00:14:00,146 --> 00:14:01,779
+Deputy HR Liaison.
+
+271
+00:14:01,781 --> 00:14:05,516
+And I find your professional
+decorum refreshing.
+
+272
+00:14:05,518 --> 00:14:06,984
+Oh, thank you, Agent McBride.
+
+273
+00:14:06,986 --> 00:14:08,719
+I've...
+
+274
+00:14:08,721 --> 00:14:10,421
+attended a number of seminars.
+
+275
+00:14:10,423 --> 00:14:12,790
+You're a good man. I can tell.
+
+276
+00:14:12,792 --> 00:14:14,258
+♪ May not pertain to you ♪
+
+277
+00:14:14,260 --> 00:14:16,060
+That's why I was thinking
+about transferring
+
+278
+00:14:16,062 --> 00:14:17,161
+to your division.
+
+279
+00:14:17,163 --> 00:14:18,329
+Oh, you should.
+
+280
+00:14:18,331 --> 00:14:20,831
+I would very much
+enjoy working with you.
+
+281
+00:14:20,833 --> 00:14:22,867
+From a professional standpoint.
+
+282
+00:14:22,869 --> 00:14:26,037
+Professional. Of course.
+
+283
+00:14:26,039 --> 00:14:27,872
+Tell me...
+
+284
+00:14:27,874 --> 00:14:31,143
+how close is Insight to completion?
+
+285
+00:14:32,712 --> 00:14:35,646
+Well, not close enough. I
+wish we could launch today.
+
+286
+00:14:35,648 --> 00:14:37,114
+I bet.
+
+287
+00:14:37,116 --> 00:14:38,849
+♪ Nobody wants to be... ♪
+
+288
+00:14:38,851 --> 00:14:40,851
+Uh, we're still three years away,
+
+289
+00:14:40,853 --> 00:14:42,386
+but rest assured,
+
+290
+00:14:42,388 --> 00:14:45,656
+1976 won't just be the bicentennial.
+
+291
+00:14:45,658 --> 00:14:48,993
+It will also be a new birth for freedom.
+
+292
+00:14:48,995 --> 00:14:51,095
+Hmm.
+
+293
+00:14:51,097 --> 00:14:55,666
+♪ ... wants to be somebody ♪
+
+294
+00:14:55,668 --> 00:14:58,903
+♪ Nobody wants to be like everybody ♪
+
+295
+00:14:58,905 --> 00:15:02,373
+My brother's so
+miserable at these things.
+
+296
+00:15:02,375 --> 00:15:04,108
+If Nathaniel had his
+way, he'd be at home
+
+297
+00:15:04,110 --> 00:15:06,711
+listening to The
+Carpenters on his hi-fi.
+
+298
+00:15:06,713 --> 00:15:09,046
+Nathaniel.
+
+299
+00:15:09,048 --> 00:15:12,516
+So that must make you Gideon Malick.
+
+300
+00:15:12,518 --> 00:15:13,919
+Guilty as charged.
+
+301
+00:15:17,488 --> 00:15:20,256
+You've heard of me. That
+can't be a bad thing.
+
+302
+00:15:20,258 --> 00:15:21,557
+Uh, yeah, well, everyone knows
+
+303
+00:15:21,559 --> 00:15:23,692
+you're in line to be the next big thing.
+
+304
+00:15:23,694 --> 00:15:25,528
+Well, to be clear, it's not nepotism.
+
+305
+00:15:25,530 --> 00:15:26,929
+Definitely earned my spot.
+
+306
+00:15:26,931 --> 00:15:28,898
+Definitely. Yeah.
+
+307
+00:15:28,900 --> 00:15:30,666
+Self-made.
+
+308
+00:15:30,668 --> 00:15:33,335
+But you must hear all the
+secrets about S.H.I.E.L.D.
+
+309
+00:15:33,337 --> 00:15:35,504
+- from your dad.
+- Mm, some.
+
+310
+00:15:35,506 --> 00:15:36,672
+Lately, he's been locked up
+
+311
+00:15:36,674 --> 00:15:38,221
+in his windowless office all day,
+
+312
+00:15:38,223 --> 00:15:39,909
+but, uh, I'm in the loop.
+
+313
+00:15:39,911 --> 00:15:42,778
+But enough about my
+dad. Let's talk about us.
+
+314
+00:15:42,780 --> 00:15:44,513
+Maybe you start by telling me your name.
+
+315
+00:15:45,583 --> 00:15:47,750
+I actually have to get going, so...
+
+316
+00:15:47,752 --> 00:15:50,319
+How about you stick around?
+
+317
+00:15:50,321 --> 00:15:53,255
+Maybe we could share
+some secrets of our own.
+
+318
+00:15:53,257 --> 00:15:54,657
+Hi, sweetheart.
+
+319
+00:15:54,659 --> 00:15:55,858
+Who's your new friend?
+
+320
+00:15:55,860 --> 00:15:57,810
+This is Gideon Malick.
+
+321
+00:15:57,812 --> 00:15:58,926
+Gideon, this is...
+
+322
+00:15:58,928 --> 00:16:01,630
+Her fiancé. Honey,
+I think we need to go.
+
+323
+00:16:01,632 --> 00:16:03,867
+Oh. Excuse us.
+
+324
+00:16:07,472 --> 00:16:09,004
+You're welcome for the drink.
+
+325
+00:16:09,006 --> 00:16:11,373
+Don't worry. I'll pay you back later.
+
+326
+00:16:11,375 --> 00:16:12,808
+What was that about?
+
+327
+00:16:12,810 --> 00:16:15,010
+Long story, but apparently,
+
+328
+00:16:15,012 --> 00:16:17,011
+Freddy's son Nathaniel is still alive,
+
+329
+00:16:17,013 --> 00:16:19,248
+and he was also supposed to die in 1970.
+
+330
+00:16:19,250 --> 00:16:21,283
+Another change in the timeline.
+
+331
+00:16:21,285 --> 00:16:23,252
+- Get any intel?
+- No.
+
+332
+00:16:23,254 --> 00:16:26,422
+But I did get a clue on
+where we could find some.
+
+333
+00:16:26,424 --> 00:16:27,823
+Project Insight?
+
+334
+00:16:27,825 --> 00:16:30,759
+And Freddy Malick is responsible?
+
+335
+00:16:30,761 --> 00:16:32,761
+We suspect the
+Chronicoms kept him alive,
+
+336
+00:16:32,763 --> 00:16:35,865
+but we can't be sure 'til
+we get ahold of Enoch.
+
+337
+00:16:35,867 --> 00:16:37,566
+And you still haven't found him yet?
+
+338
+00:16:37,568 --> 00:16:38,734
+We're looking.
+
+339
+00:16:38,736 --> 00:16:39,935
+I'm sure he'll turn up,
+
+340
+00:16:39,937 --> 00:16:41,770
+and he knows how to contact us.
+
+341
+00:16:41,772 --> 00:16:43,370
+You know, if you have
+his last whereabouts,
+
+342
+00:16:43,372 --> 00:16:45,107
+I can take point on the search.
+
+343
+00:16:45,109 --> 00:16:47,810
+I appreciate your concern
+for a 30,000-year-old robot,
+
+344
+00:16:47,812 --> 00:16:50,312
+but Project Insight is our priority.
+
+345
+00:16:50,314 --> 00:16:51,714
+Copy that.
+
+346
+00:16:51,716 --> 00:16:53,983
+I'll see what I can
+pull from radio chatter.
+
+347
+00:16:53,985 --> 00:16:56,118
+- Good luck.
+- You, too.
+
+348
+00:16:58,322 --> 00:17:00,155
+Malick's still alive?
+
+349
+00:17:00,157 --> 00:17:01,990
+So Daisy was right. I
+should've taken him out.
+
+350
+00:17:01,992 --> 00:17:03,592
+It's not your fault.
+
+351
+00:17:03,594 --> 00:17:05,628
+You made the right call
+to preserve the timeline.
+
+352
+00:17:05,630 --> 00:17:07,074
+No, to hell with the status quo.
+
+353
+00:17:07,076 --> 00:17:08,597
+Thousands of lives are at risk.
+
+354
+00:17:08,599 --> 00:17:09,932
+There's still time.
+
+355
+00:17:09,934 --> 00:17:11,767
+Insight hasn't even launched yet.
+
+356
+00:17:11,769 --> 00:17:13,769
+But Insight is just the
+part that we know about.
+
+357
+00:17:13,771 --> 00:17:15,471
+The guy's had three extra years.
+
+358
+00:17:15,473 --> 00:17:17,240
+Who knows what else he's gotten into.
+
+359
+00:17:19,710 --> 00:17:21,077
+All of this looks different.
+
+360
+00:17:24,148 --> 00:17:25,714
+These guys have been busy.
+
+361
+00:17:25,716 --> 00:17:30,553
+It looks like they're rerouting
+power to something big.
+
+362
+00:17:30,555 --> 00:17:32,621
+Probably nothing good.
+
+363
+00:17:32,623 --> 00:17:34,390
+Let's take the Quinjet and get back.
+
+364
+00:17:34,392 --> 00:17:35,824
+What, are you worried?
+
+365
+00:17:35,826 --> 00:17:37,860
+It's still S.H.I.E.L.D.,
+just an active base.
+
+366
+00:17:37,862 --> 00:17:39,795
+You saw the man in blue.
+
+367
+00:17:39,797 --> 00:17:41,764
+The Agent in the throwback uni?
+
+368
+00:17:41,766 --> 00:17:44,833
+Well, hell, I thought
+he looked pretty tight.
+
+369
+00:17:44,835 --> 00:17:46,869
+You ever see a James Bond movie, Mack?
+
+370
+00:17:46,871 --> 00:17:50,005
+An underground base full
+of men in jumpsuits...
+
+371
+00:17:50,007 --> 00:17:52,007
+always a bad deal.
+
+372
+00:18:07,758 --> 00:18:09,659
+See? Called it.
+
+373
+00:18:13,497 --> 00:18:16,131
+He mentioned a windowless office.
+
+374
+00:18:16,133 --> 00:18:18,234
+Malick must be using this space.
+
+375
+00:18:24,742 --> 00:18:26,141
+What, have you been here before?
+
+376
+00:18:26,143 --> 00:18:27,743
+A few days ago.
+
+377
+00:18:27,745 --> 00:18:28,945
+1931.
+
+378
+00:18:31,749 --> 00:18:33,950
+He redecorated.
+
+379
+00:18:37,788 --> 00:18:39,823
+Whoa. High-tech.
+
+380
+00:18:41,025 --> 00:18:42,926
+It must be his new base of operations.
+
+381
+00:18:56,774 --> 00:18:58,774
+Hydra won't be needing this, will they?
+
+382
+00:18:58,776 --> 00:19:01,677
+Good thing about computers in 1973...
+
+383
+00:19:01,679 --> 00:19:04,947
+no firewalls.
+
+384
+00:19:04,949 --> 00:19:06,715
+I have no idea what that means.
+
+385
+00:19:06,717 --> 00:19:08,584
+What are you looking for?
+
+386
+00:19:08,586 --> 00:19:11,620
+It's a list of targets for Insight.
+
+387
+00:19:11,622 --> 00:19:13,922
+These are mostly S.H.I.E.L.D. assets.
+
+388
+00:19:13,924 --> 00:19:15,592
+Wait.
+
+389
+00:19:15,594 --> 00:19:17,259
+Bruce Banner?
+
+390
+00:19:17,261 --> 00:19:18,560
+Never heard of him.
+
+391
+00:19:18,562 --> 00:19:20,107
+That's 'cause he's just a kid now,
+
+392
+00:19:20,109 --> 00:19:22,164
+but in a few decades,
+he becomes an Avenger.
+
+393
+00:19:22,166 --> 00:19:23,899
+Is that a good thing or a bad thing?
+
+394
+00:19:23,901 --> 00:19:26,268
+It's a good thing.
+
+395
+00:19:26,270 --> 00:19:28,501
+S-So they'll do a bad thing...
+
+396
+00:19:28,503 --> 00:19:30,305
+pick him off while he's still young.
+
+397
+00:19:30,307 --> 00:19:32,441
+Exactly.
+
+398
+00:19:32,443 --> 00:19:34,376
+I'm starting to think
+you guys made the timeline
+
+399
+00:19:34,378 --> 00:19:35,945
+worse than it was before.
+
+400
+00:19:35,947 --> 00:19:37,646
+We have no time to speculate.
+
+401
+00:19:37,648 --> 00:19:39,768
+Speculate? This is more than
+just a trout in the milk.
+
+402
+00:19:41,319 --> 00:19:44,086
+There's only one way Hydra could
+have gotten names from the future.
+
+403
+00:19:52,006 --> 00:19:54,874
+They're here. Time to go.
+
+404
+00:19:54,876 --> 00:19:57,310
+Hey.
+
+405
+00:19:57,312 --> 00:19:59,479
+Just wanted to thank you
+for coming in tonight.
+
+406
+00:19:59,481 --> 00:20:00,646
+Pleasure.
+
+407
+00:20:00,648 --> 00:20:02,014
+It's an honor to serve S.H.I.E.L.D.
+
+408
+00:20:02,016 --> 00:20:03,182
+I bet it is.
+
+409
+00:20:03,184 --> 00:20:06,052
+Uh... sorry,
+
+410
+00:20:06,054 --> 00:20:08,588
+what's your name again?
+
+411
+00:20:08,590 --> 00:20:10,089
+Patrick.
+
+412
+00:20:10,091 --> 00:20:12,174
+- Patrick Kutik.
+- Right.
+
+413
+00:20:12,176 --> 00:20:13,877
+And remind me, where did you come from?
+
+414
+00:20:13,879 --> 00:20:14,961
+Uh, processing.
+
+415
+00:20:14,963 --> 00:20:16,395
+Systems Analysis.
+
+416
+00:20:16,397 --> 00:20:18,030
+It's a little bit of quantitative.
+
+417
+00:20:18,032 --> 00:20:19,799
+Some days, a lot of qualitative.
+
+418
+00:20:19,801 --> 00:20:21,667
+Have you ever been up to River's End?
+
+419
+00:20:21,669 --> 00:20:23,301
+I just bought a house in town.
+
+420
+00:20:23,303 --> 00:20:24,537
+I can't say that I have.
+
+421
+00:20:24,539 --> 00:20:25,972
+Yeah?
+
+422
+00:20:25,974 --> 00:20:28,007
+My friends told me differently.
+
+423
+00:20:35,116 --> 00:20:37,651
+Did you really think I
+wouldn't remember you?
+
+424
+00:20:43,910 --> 00:20:45,610
+Those are Chronicoms? They look...
+
+425
+00:20:45,612 --> 00:20:47,412
+Subtle, I know.
+
+426
+00:20:47,414 --> 00:20:48,813
+So, what's our play?
+
+427
+00:20:54,821 --> 00:20:57,522
+We first met 40 years ago,
+
+428
+00:20:57,524 --> 00:20:59,658
+in this very room.
+
+429
+00:20:59,660 --> 00:21:02,327
+I've lived an entire
+lifetime since then.
+
+430
+00:21:02,329 --> 00:21:03,795
+What have you been doing?
+
+431
+00:21:03,797 --> 00:21:06,137
+You should've taken our offer
+when you had the chance,
+
+432
+00:21:06,139 --> 00:21:07,505
+Mr. Coulson.
+
+433
+00:21:07,507 --> 00:21:10,308
+Surrender now, and we'll
+go easy on the rest of you.
+
+434
+00:21:16,850 --> 00:21:18,449
+Counter offer.
+
+435
+00:21:18,451 --> 00:21:20,184
+Let us go, and the kid walks.
+
+436
+00:21:20,186 --> 00:21:21,352
+You wouldn't.
+
+437
+00:21:21,354 --> 00:21:23,120
+Nathaniel's got nothing to do with this.
+
+438
+00:21:23,122 --> 00:21:24,822
+He's a ripple.
+
+439
+00:21:24,824 --> 00:21:26,490
+Doesn't belong here.
+
+440
+00:21:26,492 --> 00:21:28,993
+I'd hate to do something
+we'd all regret.
+
+441
+00:21:28,995 --> 00:21:30,362
+So what's it gonna be?
+
+442
+00:21:31,865 --> 00:21:33,664
+Enough.
+
+443
+00:21:33,666 --> 00:21:36,300
+This ends now.
+
+444
+00:21:39,272 --> 00:21:41,873
+Stand down. Stand down!
+
+445
+00:21:50,183 --> 00:21:51,917
+Sorry, kid. It's nothing personal.
+
+446
+00:21:53,887 --> 00:21:55,887
+This is strange behavior.
+
+447
+00:21:55,889 --> 00:21:57,739
+I had no choice. They have my son.
+
+448
+00:21:57,741 --> 00:21:58,907
+Get them.
+
+449
+00:22:01,027 --> 00:22:02,660
+So S.H.I.E.L.D. takes hostages now?
+
+450
+00:22:02,662 --> 00:22:04,429
+Anything else you aren't telling me?
+
+451
+00:22:12,872 --> 00:22:14,238
+I'll explain later. Let's go.
+
+452
+00:22:22,015 --> 00:22:23,881
+We got to find some
+wheels and get out of here.
+
+453
+00:22:31,324 --> 00:22:34,359
+Come with me if you want
+to continue to exist!
+
+454
+00:22:36,429 --> 00:22:38,262
+Enoch, you're here.
+
+455
+00:22:38,264 --> 00:22:39,363
+Yes.
+
+456
+00:22:39,365 --> 00:22:41,899
+As I have been for the last 40 years.
+
+457
+00:22:41,901 --> 00:22:42,934
+Now buckle up.
+
+458
+00:22:42,936 --> 00:22:44,235
+Sorry we left you behind,
+
+459
+00:22:44,237 --> 00:22:45,335
+thanks for the lift,
+
+460
+00:22:45,337 --> 00:22:46,704
+and sweet ride.
+
+461
+00:22:46,706 --> 00:22:48,072
+Thank you.
+
+462
+00:22:48,074 --> 00:22:49,440
+Consumer Reports gave this vehicle
+
+463
+00:22:49,442 --> 00:22:50,841
+a five-star safety rating,
+
+464
+00:22:50,843 --> 00:22:52,977
+and its fuel economy is best in class.
+
+465
+00:23:06,025 --> 00:23:08,060
+It's time we change the rules.
+
+466
+00:23:09,796 --> 00:23:12,263
+So, Hydra's attempting Insight in 1973.
+
+467
+00:23:12,265 --> 00:23:14,131
+With no Helicarriers.
+
+468
+00:23:14,133 --> 00:23:15,741
+According to Malick,
+S.H.I.E.L.D. has a system
+
+469
+00:23:15,743 --> 00:23:17,007
+of satellites and lasers,
+
+470
+00:23:17,009 --> 00:23:18,403
+which, as I say it, sounds really cool,
+
+471
+00:23:18,405 --> 00:23:19,971
+but it's definitely not cool.
+
+472
+00:23:19,973 --> 00:23:22,006
+And it explains the launch
+pad at the Lighthouse.
+
+473
+00:23:22,008 --> 00:23:23,908
+Must be where they're planning
+to send up the satellite.
+
+474
+00:23:23,910 --> 00:23:25,276
+Any idea who the targets are?
+
+475
+00:23:25,278 --> 00:23:27,611
+Well, we found a dossier of
+mostly S.H.I.E.L.D. assets...
+
+476
+00:23:27,613 --> 00:23:28,946
+Bruce Banner, Nick Fury.
+
+477
+00:23:28,948 --> 00:23:30,014
+Peggy Carter.
+
+478
+00:23:30,016 --> 00:23:31,482
+Picking us off, one by one.
+
+479
+00:23:31,484 --> 00:23:32,984
+Not yet.
+
+480
+00:23:32,986 --> 00:23:35,886
+If we move now, we can disable
+Insight before it's launch capable.
+
+481
+00:23:35,888 --> 00:23:37,121
+Guys, I think something's wrong.
+
+482
+00:23:37,123 --> 00:23:38,674
+They know we're coming,
+so we have to assume
+
+483
+00:23:38,676 --> 00:23:40,157
+the Lighthouse is
+fortified with a battalion...
+
+484
+00:23:40,159 --> 00:23:41,993
+Guys! Is it supposed to do that?
+
+485
+00:23:44,998 --> 00:23:46,864
+Simmons, what's happening?
+
+486
+00:23:50,570 --> 00:23:51,602
+We're about to jump.
+
+487
+00:23:51,604 --> 00:23:53,004
+Tell me you can override it.
+
+488
+00:23:53,006 --> 00:23:55,105
+I'm trying, but something's
+messed with the algorithm.
+
+489
+00:23:55,107 --> 00:23:57,274
+How is that possible?
+
+490
+00:23:57,276 --> 00:23:59,210
+The Chronicoms have changed plans.
+
+491
+00:23:59,212 --> 00:24:01,211
+- They're jumping early.
+- To when?! Where are we going?
+
+492
+00:24:01,213 --> 00:24:02,780
+I don't know! I can't control it!
+
+493
+00:24:02,782 --> 00:24:04,181
+This is our only chance to stop Insight.
+
+494
+00:24:04,183 --> 00:24:06,150
+We can't be on this ship.
+
+495
+00:24:21,134 --> 00:24:22,367
+You tried.
+
+496
+00:24:24,203 --> 00:24:25,436
+There's nothing else you could've done.
+
+497
+00:24:25,438 --> 00:24:27,405
+How far did we jump?
+
+498
+00:24:29,175 --> 00:24:33,380
+_
+
+499
+00:24:34,347 --> 00:24:35,981
+Happy 200.
+
+500
+00:24:38,618 --> 00:24:40,785
+Happy Bicentennial.
+
+501
+00:24:40,787 --> 00:24:42,454
+God bless America.
+
+502
+00:24:45,124 --> 00:24:46,657
+Sir.
+
+503
+00:24:46,659 --> 00:24:48,225
+We have the official green light.
+
+504
+00:24:48,227 --> 00:24:50,393
+Project Insight is ready for launch.
+
+505
+00:24:50,395 --> 00:24:51,462
+Well, then let's give them
+
+506
+00:24:51,464 --> 00:24:54,231
+the biggest darn fireworks
+they've ever seen.
+
+507
+00:25:07,671 --> 00:25:09,191
+Three years.
+
+508
+00:25:09,193 --> 00:25:11,589
+How the hell did we just
+jump three more years?
+
+509
+00:25:11,591 --> 00:25:14,226
+I told you, I don't know.
+We can't control it.
+
+510
+00:25:15,132 --> 00:25:16,533
+Well, who does?!
+
+511
+00:25:24,642 --> 00:25:26,175
+Enoch.
+
+512
+00:25:26,177 --> 00:25:27,409
+Where have you been?
+
+513
+00:25:27,411 --> 00:25:30,179
+Here. Where you abandoned me.
+
+514
+00:25:30,181 --> 00:25:31,213
+For 40 years.
+
+515
+00:25:31,215 --> 00:25:33,215
+Something's wrong.
+
+516
+00:25:33,217 --> 00:25:36,251
+Without you, I feel like
+I've been... slipping.
+
+517
+00:25:36,253 --> 00:25:37,752
+Was I supposed to know
+that we would jump?
+
+518
+00:25:37,754 --> 00:25:40,222
+- I keep forgetting.
+- Jemma Simmons,
+
+519
+00:25:40,224 --> 00:25:41,623
+you are forgetting?
+
+520
+00:25:41,625 --> 00:25:44,059
+And getting confused. I...
+
+521
+00:25:44,061 --> 00:25:46,429
+- I'm not sure...
+- Have you told anyone else?
+
+522
+00:25:48,032 --> 00:25:50,199
+I'm afraid to.
+
+523
+00:25:50,201 --> 00:25:52,168
+But why am I afraid to tell these...
+
+524
+00:25:53,704 --> 00:25:55,837
+Come with me.
+
+525
+00:25:55,839 --> 00:25:57,240
+Everything will be fine.
+
+526
+00:26:00,844 --> 00:26:01,877
+Why did we just jump?
+
+527
+00:26:01,879 --> 00:26:04,413
+Agent Sousa. I'm sorry.
+
+528
+00:26:04,415 --> 00:26:05,948
+We're... We are working on it,
+
+529
+00:26:05,950 --> 00:26:07,416
+- but it's complicated.
+- Complicated.
+
+530
+00:26:07,418 --> 00:26:09,017
+Then explain it to me. I'm a big boy.
+
+531
+00:26:09,019 --> 00:26:11,320
+Uh, we don't f-fully understand...
+
+532
+00:26:11,322 --> 00:26:13,589
+You're in charge, and you
+don't know how this works?!
+
+533
+00:26:13,591 --> 00:26:15,591
+Nobody understands the time drive.
+
+534
+00:26:15,593 --> 00:26:17,836
+- That is by design.
+- So you're screwing with time,
+
+535
+00:26:17,838 --> 00:26:19,864
+but you have no idea what you're doing.
+
+536
+00:26:19,866 --> 00:26:21,697
+Hey. Back off! She's trying.
+
+537
+00:26:21,699 --> 00:26:23,033
+That's not good enough!
+
+538
+00:26:23,035 --> 00:26:24,766
+You're playing with matches
+and burning the house down.
+
+539
+00:26:24,768 --> 00:26:25,867
+Leave her alone!
+
+540
+00:26:25,869 --> 00:26:27,236
+Not until I get some answers.
+
+541
+00:26:27,238 --> 00:26:28,770
+Lives are at stake.
+
+542
+00:26:28,772 --> 00:26:30,465
+I was taken out of my life for this.
+
+543
+00:26:30,467 --> 00:26:32,134
+Yeah, we all were!
+
+544
+00:26:34,778 --> 00:26:36,179
+We all were.
+
+545
+00:26:37,781 --> 00:26:40,048
+Listen up!
+
+546
+00:26:40,050 --> 00:26:42,684
+It's launch day for Project Insight.
+
+547
+00:26:42,686 --> 00:26:45,120
+Hey, it's better than the day after.
+
+548
+00:26:45,122 --> 00:26:48,056
+We move fast, we stop that satellite.
+
+549
+00:26:48,058 --> 00:26:49,791
+How? The base is fortified by now.
+
+550
+00:26:49,793 --> 00:26:52,227
+And the Zephyr can't open
+fire. We'd give up our position.
+
+551
+00:26:52,229 --> 00:26:55,264
+We infiltrate on the ground.
+May and I can sneak in.
+
+552
+00:26:55,266 --> 00:26:56,299
+With these.
+
+553
+00:26:57,268 --> 00:26:58,467
+We're gonna blow up the place?
+
+554
+00:26:58,469 --> 00:26:59,835
+We're gonna flood it.
+
+555
+00:26:59,837 --> 00:27:01,270
+If we can position the charges right,
+
+556
+00:27:01,272 --> 00:27:02,304
+we can rupture some leaks
+
+557
+00:27:02,306 --> 00:27:03,605
+and fill the base with lake water.
+
+558
+00:27:03,607 --> 00:27:05,874
+Which would set off evac
+protocol and shut down the launch.
+
+559
+00:27:05,876 --> 00:27:07,397
+If we can't tell
+S.H.I.E.L.D. from Hydra,
+
+560
+00:27:07,399 --> 00:27:09,211
+our best bet is to clear everybody out.
+
+561
+00:27:09,213 --> 00:27:10,245
+Exactly.
+
+562
+00:27:10,247 --> 00:27:11,346
+We need the base empty
+
+563
+00:27:11,348 --> 00:27:12,781
+to preserve its state in the timeline.
+
+564
+00:27:12,783 --> 00:27:14,149
+Hydra could be holding prisoners.
+
+565
+00:27:14,151 --> 00:27:15,450
+They could get trapped in the flood.
+
+566
+00:27:15,452 --> 00:27:16,985
+That's where you come in.
+
+567
+00:27:16,987 --> 00:27:18,620
+I need you to hack
+into the security system
+
+568
+00:27:18,622 --> 00:27:19,921
+and get us a surveillance feed.
+
+569
+00:27:19,923 --> 00:27:21,256
+Once we have eyes, we'll scan
+
+570
+00:27:21,258 --> 00:27:22,424
+and make sure no one is left behind.
+
+571
+00:27:22,426 --> 00:27:24,159
+I'm going with her.
+
+572
+00:27:24,161 --> 00:27:25,661
+I'd rather be out there
+working the problem
+
+573
+00:27:25,663 --> 00:27:27,596
+than in here where we
+disappear at any moment.
+
+574
+00:27:37,941 --> 00:27:39,775
+What about Malick?
+We got a plan for him?
+
+575
+00:27:39,777 --> 00:27:40,942
+The waves won't stop coming
+
+576
+00:27:40,944 --> 00:27:42,444
+until we remove him from the timeline.
+
+577
+00:27:42,446 --> 00:27:45,314
+Coulson said Malick has
+an estate in River's End.
+
+578
+00:27:45,316 --> 00:27:47,316
+I want you to take
+the Quinjet and find it.
+
+579
+00:27:47,318 --> 00:27:49,117
+I'm in.
+
+580
+00:27:49,119 --> 00:27:51,119
+Malick's kind of my
+area of expertise now.
+
+581
+00:27:51,121 --> 00:27:52,821
+Good. Find Malick, and bring him in.
+
+582
+00:27:52,823 --> 00:27:55,256
+- And do what with him?
+- I don't know yet.
+
+583
+00:27:55,258 --> 00:27:57,159
+We can't keep him
+locked up forever, Mack.
+
+584
+00:27:57,161 --> 00:27:58,193
+We'll figure it out.
+
+585
+00:27:58,195 --> 00:27:59,995
+Just bring him in. The clock's ticking.
+
+586
+00:28:08,057 --> 00:28:10,758
+Had a feeling you'd be back today.
+
+587
+00:28:14,096 --> 00:28:15,861
+You know, I have the best view in town
+
+588
+00:28:15,863 --> 00:28:17,030
+for watching the launch.
+
+589
+00:28:17,032 --> 00:28:19,166
+That is not why I am here.
+
+590
+00:28:19,168 --> 00:28:22,035
+We need to talk about your
+transgression in New York.
+
+591
+00:28:22,037 --> 00:28:23,584
+At the bar?
+
+592
+00:28:23,586 --> 00:28:24,919
+That was three years ago.
+
+593
+00:28:24,921 --> 00:28:26,454
+You're still angry about that?
+
+594
+00:28:26,456 --> 00:28:28,256
+Chronicoms do not get angry.
+
+595
+00:28:28,258 --> 00:28:30,291
+We adapt.
+
+596
+00:28:30,293 --> 00:28:31,416
+In fact, you taught us a lesson
+
+597
+00:28:31,418 --> 00:28:33,428
+about human behavior that day.
+
+598
+00:28:33,430 --> 00:28:35,330
+- Did I?
+- You were handed victory
+
+599
+00:28:35,332 --> 00:28:38,032
+and the power to eradicate
+thousands of your foes.
+
+600
+00:28:38,034 --> 00:28:41,269
+Yet you would have thrown
+it away to save one person.
+
+601
+00:28:41,271 --> 00:28:43,371
+My son.
+
+602
+00:28:43,373 --> 00:28:45,306
+I had no choice.
+
+603
+00:28:45,308 --> 00:28:47,375
+It only seemed that way.
+
+604
+00:28:47,377 --> 00:28:49,511
+The fatal flaw in the human condition,
+
+605
+00:28:49,513 --> 00:28:51,746
+which you'll now help us exploit.
+
+606
+00:28:51,748 --> 00:28:53,081
+Sibyl, our predictor,
+
+607
+00:28:53,083 --> 00:28:54,949
+has seen that S.H.I.E.L.D.
+will find you here.
+
+608
+00:28:54,951 --> 00:28:56,951
+And when they do,
+
+609
+00:28:56,953 --> 00:28:58,686
+you will have leverage.
+
+610
+00:29:08,598 --> 00:29:11,167
+Why not just put these two on the list?
+
+611
+00:29:14,104 --> 00:29:16,037
+That would not be as effective.
+
+612
+00:29:16,039 --> 00:29:18,106
+We want S.H.I.E.L.D.
+to reveal themselves,
+
+613
+00:29:18,108 --> 00:29:20,074
+to give up their position.
+
+614
+00:29:20,076 --> 00:29:23,378
+You will deliver this message.
+
+615
+00:29:23,380 --> 00:29:24,647
+Loud and clear.
+
+616
+00:29:34,157 --> 00:29:36,791
+You do your thing. I got your back.
+
+617
+00:29:36,793 --> 00:29:39,327
+I'm guessing you don't
+really carry a piece, do you,
+
+618
+00:29:39,329 --> 00:29:42,231
+seeing as you got that
+super serum powers.
+
+619
+00:29:43,433 --> 00:29:47,036
+Yeah, it's not really
+a super serum thing.
+
+620
+00:29:51,074 --> 00:29:52,875
+Didn't expect a straight
+answer out of you.
+
+621
+00:29:57,681 --> 00:29:59,948
+How is there a firewall already?
+
+622
+00:30:05,355 --> 00:30:09,524
+Seems things just get worse
+the later in time you go.
+
+623
+00:30:09,526 --> 00:30:12,494
+I think this is my last stop.
+
+624
+00:30:12,496 --> 00:30:14,629
+It's okay. This is just a setback.
+
+625
+00:30:14,631 --> 00:30:16,030
+My software will crack it.
+
+626
+00:30:16,032 --> 00:30:18,933
+It just needs... a minute to load.
+
+627
+00:30:18,935 --> 00:30:21,403
+_
+
+628
+00:30:23,540 --> 00:30:25,006
+Maybe you need a bigger computer.
+
+629
+00:30:25,008 --> 00:30:27,475
+That thing's... too small.
+
+630
+00:30:29,480 --> 00:30:30,545
+What?
+
+631
+00:30:30,547 --> 00:30:32,514
+Um...
+
+632
+00:30:32,516 --> 00:30:33,615
+What?
+
+633
+00:30:34,818 --> 00:30:36,518
+What's that?
+
+634
+00:30:36,520 --> 00:30:37,551
+This is a phone.
+
+635
+00:30:39,222 --> 00:30:41,323
+But only old people use it for calls.
+
+636
+00:30:44,594 --> 00:30:46,394
+How did you do that?
+
+637
+00:30:46,396 --> 00:30:49,731
+Check it out.
+
+638
+00:30:49,733 --> 00:30:51,333
+Wow.
+
+639
+00:30:52,836 --> 00:30:53,902
+Wow!
+
+640
+00:30:53,904 --> 00:30:55,370
+Yeah, you look...
+
+641
+00:30:55,372 --> 00:30:57,939
+you look okay for a guy
+who just aged 20 years.
+
+642
+00:31:04,381 --> 00:31:07,082
+Looks like I missed a lot.
+
+643
+00:31:10,487 --> 00:31:11,519
+I'm sorry.
+
+644
+00:31:11,521 --> 00:31:14,489
+This is just so weird and messed up,
+
+645
+00:31:14,491 --> 00:31:15,522
+but the Chronicoms jumped,
+
+646
+00:31:15,524 --> 00:31:17,692
+and we had to dive in after them.
+
+647
+00:31:17,694 --> 00:31:19,527
+Without us, it's...
+
+648
+00:31:19,529 --> 00:31:21,796
+it's way worse.
+
+649
+00:31:21,798 --> 00:31:23,097
+I get it.
+
+650
+00:31:23,099 --> 00:31:25,433
+Just...
+
+651
+00:31:25,435 --> 00:31:27,468
+wish I could've said some goodbyes.
+
+652
+00:31:36,079 --> 00:31:37,178
+Daisy's in.
+
+653
+00:31:37,180 --> 00:31:38,546
+We've got eyes in the base.
+
+654
+00:31:38,548 --> 00:31:39,647
+The doors are unlocked.
+
+655
+00:31:39,649 --> 00:31:41,716
+Coulson, May, you're clear for entry.
+
+656
+00:31:49,092 --> 00:31:51,626
+I'm digging these throwback uniforms.
+
+657
+00:31:51,628 --> 00:31:53,528
+Covert and fashionable.
+
+658
+00:31:53,530 --> 00:31:55,798
+Should get us past
+the security perimeter.
+
+659
+00:31:59,769 --> 00:32:01,169
+We're at the first checkpoint.
+
+660
+00:32:01,171 --> 00:32:03,404
+- Waiting on access.
+- Copy that.
+
+661
+00:32:03,406 --> 00:32:05,673
+Kinda feels like back in the day.
+
+662
+00:32:05,675 --> 00:32:07,842
+We were good Agents together,
+
+663
+00:32:07,844 --> 00:32:10,278
+regardless of what we became later.
+
+664
+00:32:10,280 --> 00:32:13,081
+Just wondering if it'll
+ever feel that way again.
+
+665
+00:32:13,083 --> 00:32:15,817
+I'm wondering if I'm ever going
+to feel anything again.
+
+666
+00:32:22,292 --> 00:32:23,791
+We're approaching the hangar.
+
+667
+00:32:24,995 --> 00:32:27,595
+Copy that. I'm working on
+unlocking the next checkpoint.
+
+668
+00:32:27,597 --> 00:32:28,796
+Just give me a sec.
+
+669
+00:32:28,798 --> 00:32:30,932
+Hey, could you help open that panel?
+
+670
+00:32:42,779 --> 00:32:44,745
+They told me if someone
+poked around in the system,
+
+671
+00:32:44,747 --> 00:32:47,315
+it would be you.
+
+672
+00:32:51,655 --> 00:32:54,489
+So happy you came back into my life.
+
+673
+00:33:08,974 --> 00:33:12,342
+T-minus 5 minutes to launch.
+
+674
+00:33:16,981 --> 00:33:18,612
+We're at the second checkpoint.
+
+675
+00:33:18,614 --> 00:33:20,282
+Daisy, can you get us in?
+
+676
+00:33:20,284 --> 00:33:22,885
+Daisy?
+
+677
+00:33:22,887 --> 00:33:24,286
+Daisy, do you copy?
+
+678
+00:33:24,288 --> 00:33:25,877
+Simmons, I'm not getting a response.
+
+679
+00:33:25,879 --> 00:33:27,089
+Her signal has dropped.
+
+680
+00:33:27,091 --> 00:33:29,458
+Keep trying to reach her.
+We're running out of time.
+
+681
+00:33:35,166 --> 00:33:38,264
+You of all people.
+
+682
+00:33:38,266 --> 00:33:40,100
+Yeah, I didn't think
+I'd see you again either,
+
+683
+00:33:40,102 --> 00:33:41,169
+but here we are.
+
+684
+00:33:41,171 --> 00:33:44,240
+Actually, I had a notion
+that you'd turn up.
+
+685
+00:33:44,242 --> 00:33:47,491
+Just like they said you would.
+
+686
+00:33:47,493 --> 00:33:49,626
+We have a fine view
+of the launch... moments away.
+
+687
+00:33:49,628 --> 00:33:51,562
+Hmm?
+
+688
+00:33:51,564 --> 00:33:52,596
+Well, I hate to interrupt
+
+689
+00:33:52,598 --> 00:33:54,488
+your otherwise leisurely afternoon...
+
+690
+00:33:54,490 --> 00:33:55,566
+The launch isn't happening.
+
+691
+00:33:55,568 --> 00:33:57,134
+- S.H.I.E.L.D. is shutting it down.
+- That so?
+
+692
+00:33:57,136 --> 00:33:58,792
+Because I can't escape the feeling
+
+693
+00:33:58,794 --> 00:34:01,138
+that you guys have no idea
+what you're up against.
+
+694
+00:34:01,140 --> 00:34:02,372
+Well, then you can fill us in
+
+695
+00:34:02,374 --> 00:34:03,841
+'cause you're coming with us now.
+
+696
+00:34:03,843 --> 00:34:05,109
+No.
+
+697
+00:34:05,111 --> 00:34:07,511
+I'm not going anywhere.
+
+698
+00:34:07,513 --> 00:34:09,546
+Cell blocks 1 through 6 are clear.
+
+699
+00:34:09,548 --> 00:34:11,348
+Any word from Daisy and Sousa?
+
+700
+00:34:11,350 --> 00:34:12,449
+Still nothing.
+
+701
+00:34:12,451 --> 00:34:13,951
+Do you think they've been compromised?
+
+702
+00:34:13,953 --> 00:34:15,619
+Let's hope not.
+
+703
+00:34:15,621 --> 00:34:16,949
+We're less than 5 minutes from launch.
+
+704
+00:34:16,951 --> 00:34:19,123
+We have to get Coulson
+and May into position.
+
+705
+00:34:19,125 --> 00:34:21,792
+Is there some other way to
+bypass the security gates?
+
+706
+00:34:29,502 --> 00:34:32,269
+Coulson, May... new plan.
+
+707
+00:34:37,510 --> 00:34:39,344
+General Stoner! Wait.
+
+708
+00:34:41,647 --> 00:34:43,947
+Agent McBride, is that you?
+
+709
+00:34:43,949 --> 00:34:47,284
+I never thought I'd see you again.
+
+710
+00:34:47,286 --> 00:34:49,445
+General, I can't explain
+everything I'm about to say,
+
+711
+00:34:49,447 --> 00:34:50,721
+but you have to believe me.
+
+712
+00:34:50,723 --> 00:34:52,356
+You cannot launch that satellite.
+
+713
+00:34:52,358 --> 00:34:54,124
+Chastity, who is this man?
+
+714
+00:34:54,126 --> 00:34:55,659
+Listen to me.
+
+715
+00:34:55,661 --> 00:34:57,943
+S.H.I.E.L.D. has been
+infiltrated by a Hydra cell,
+
+716
+00:34:57,945 --> 00:35:00,296
+aided by sentient time-traveling aliens.
+
+717
+00:35:00,298 --> 00:35:01,565
+STTAs?
+
+718
+00:35:01,567 --> 00:35:04,635
+Synthetic or organic?
+
+719
+00:35:04,637 --> 00:35:06,470
+A combination of both, actually.
+
+720
+00:35:08,340 --> 00:35:09,640
+Sounds problematic.
+
+721
+00:35:09,642 --> 00:35:12,543
+Well... this could take some doing.
+
+722
+00:35:12,545 --> 00:35:13,911
+Exactly.
+
+723
+00:35:13,913 --> 00:35:16,092
+That's why we need you to
+suspend the launch protocol,
+
+724
+00:35:16,094 --> 00:35:17,127
+and then we can...
+
+725
+00:35:17,129 --> 00:35:18,563
+Chastity, what are you...
+
+726
+00:35:20,057 --> 00:35:21,857
+Hey.
+
+727
+00:35:21,859 --> 00:35:23,725
+I was getting through to him.
+
+728
+00:35:23,727 --> 00:35:25,093
+He felt otherwise.
+
+729
+00:35:30,634 --> 00:35:31,677
+Sorry, sir.
+
+730
+00:35:31,679 --> 00:35:34,036
+T-minus 3 minutes to launch.
+
+731
+00:35:52,389 --> 00:35:54,356
+If you keep fighting the Chronicoms,
+
+732
+00:35:54,358 --> 00:35:58,026
+things are only going to get messier.
+
+733
+00:35:58,028 --> 00:36:00,696
+We have something
+you'll desperately want.
+
+734
+00:36:00,698 --> 00:36:03,165
+Will you quit talking? Let's go.
+
+735
+00:36:03,167 --> 00:36:05,000
+It's time you answer for your crimes.
+
+736
+00:36:05,002 --> 00:36:07,436
+The ones you've committed
+and the ones you're about to.
+
+737
+00:36:07,438 --> 00:36:10,439
+The dominos are already falling.
+
+738
+00:36:10,441 --> 00:36:11,740
+Come on.
+
+739
+00:36:11,742 --> 00:36:15,677
+The Chronicoms knew exactly
+how this was going to unfold.
+
+740
+00:36:15,679 --> 00:36:18,880
+They let you think that
+you had a fighting chance...
+
+741
+00:36:21,952 --> 00:36:24,721
+T-minus 2 minutes to launch.
+
+742
+00:36:27,758 --> 00:36:30,392
+... but they were always 10 steps ahead.
+
+743
+00:36:34,932 --> 00:36:37,633
+And even if you figure
+out what's going on,
+
+744
+00:36:37,635 --> 00:36:40,769
+there's nothing you can do...
+
+745
+00:36:40,771 --> 00:36:43,338
+because the Chronicoms see everything.
+
+746
+00:36:43,340 --> 00:36:45,127
+They see what you're going to do,
+
+747
+00:36:45,129 --> 00:36:46,329
+and they know exac...
+
+748
+00:36:49,813 --> 00:36:51,713
+They see that coming?
+
+749
+00:36:51,715 --> 00:36:52,848
+What did you just do?
+
+750
+00:36:52,850 --> 00:36:54,783
+He's supposed to be dead, right?
+
+751
+00:36:54,785 --> 00:36:55,984
+Status quo.
+
+752
+00:37:04,795 --> 00:37:05,895
+No.
+
+753
+00:37:07,598 --> 00:37:10,165
+T-minus 1 minute to launch.
+
+754
+00:37:10,167 --> 00:37:15,437
+59, 58, 57, 56...
+
+755
+00:37:15,439 --> 00:37:16,972
+- Charge is in position.
+- ... 55...
+
+756
+00:37:16,974 --> 00:37:20,208
+- Mack, we're ready to detonate on your signal.
+- ... 54, 53...
+
+757
+00:37:20,210 --> 00:37:21,810
+Waiting on your signal, Mack.
+
+758
+00:37:26,617 --> 00:37:27,617
+Mack.
+
+759
+00:37:33,123 --> 00:37:34,624
+Are those prisoners?
+
+760
+00:37:37,461 --> 00:37:38,794
+They're my parents.
+
+761
+00:37:43,767 --> 00:37:45,868
+If Coulson and May flood the base...
+
+762
+00:37:47,971 --> 00:37:49,338
+... then they'll drown.
+
+763
+00:37:54,445 --> 00:37:57,179
+Insight.
+
+764
+00:37:57,181 --> 00:37:59,014
+We can't let it launch.
+
+765
+00:38:07,658 --> 00:38:08,758
+Abort.
+
+766
+00:38:11,128 --> 00:38:12,662
+Abort.
+
+767
+00:38:14,998 --> 00:38:18,433
+12, 11, 10...
+
+768
+00:38:18,435 --> 00:38:20,969
+Abort. Abort.
+
+769
+00:38:20,971 --> 00:38:22,137
+Are you sure?
+
+770
+00:38:22,139 --> 00:38:23,772
+Mack, this is our only chance.
+
+771
+00:38:23,774 --> 00:38:25,340
+Abort!
+
+772
+00:38:25,342 --> 00:38:26,941
+... 5, 4...
+
+773
+00:38:26,943 --> 00:38:29,010
+... 3...
+
+774
+00:38:29,012 --> 00:38:31,546
+2, 1.
+
+775
+00:38:31,548 --> 00:38:33,348
+Ignition.
+
+776
+00:38:36,559 --> 00:38:38,559
+Hold it.
+
+777
+00:38:38,561 --> 00:38:40,061
+... down.
+
+778
+00:38:40,063 --> 00:38:42,157
+Get your hands up. Now!
+
+779
+00:38:56,471 --> 00:38:58,739
+- Initiate countermeasures.
+- Mack, are you saying that...
+
+780
+00:38:58,741 --> 00:39:00,108
+I'm saying arm the damn missiles.
+
+781
+00:39:44,955 --> 00:39:46,455
+Direct hit.
+
+782
+00:39:46,457 --> 00:39:48,757
+Missiles detonated on impact.
+
+783
+00:39:48,759 --> 00:39:50,092
+Insight has been destroyed.
+
+784
+00:39:52,095 --> 00:39:53,995
+But we just gave up our position.
+
+785
+00:39:59,760 --> 00:40:01,027
+We'll return in a moment.
+
+786
+00:40:06,000 --> 00:40:07,031
+White hair.
+
+787
+00:40:07,033 --> 00:40:10,201
+Round glasses. Total "Mein Kampf" vibe.
+
+788
+00:40:10,203 --> 00:40:12,503
+You can't miss him.
+
+789
+00:40:12,505 --> 00:40:14,038
+No. Mnh-mnh.
+
+790
+00:40:14,040 --> 00:40:16,541
+No, Daniel Whitehall.
+
+791
+00:40:16,543 --> 00:40:20,044
+Daniel. Cell block D.
+
+792
+00:40:20,046 --> 00:40:22,290
+No, I don't want to see the old man.
+
+793
+00:40:22,292 --> 00:40:23,648
+I just want his instructions.
+
+794
+00:40:23,650 --> 00:40:27,919
+Detailed instructions.
+
+795
+00:40:27,921 --> 00:40:32,222
+Yes, genius, I want them written down.
+
+796
+00:40:32,224 --> 00:40:33,457
+He had a theory
+
+797
+00:40:33,459 --> 00:40:35,794
+about transferring enhanced
+abilities surgically.
+
+798
+00:40:38,231 --> 00:40:40,299
+I'm gonna find out if it works.
+
+799
+00:40:41,305 --> 00:41:41,371
+Support us and become VIP member 
+to remove all ads from www.OpenSubtitles.org										
+    
+
+ 
+
+ 
+   
+   
+
+
+   
+ 
+  
+
+										
+ 
+
+ 
+  
+  
+
+   
+ 
+    
