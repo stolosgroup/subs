@@ -1,0 +1,5507 @@
+﻿1
+00:00:08,342 --> 00:00:10,677
+<i>Previously on
+</i>Star Trek: Picard...
+
+2
+00:00:10,677 --> 00:00:13,055
+BENAYOUN: For a relic,
+you're in excellent shape.
+
+3
+00:00:10,677 --> 00:00:13,055
+BENAYOUN: For a relic,
+you're in excellent shape.
+
+4
+00:00:13,055 --> 00:00:16,600
+Just that little abnormality
+in the parietal lobe.
+
+5
+00:00:17,768 --> 00:00:19,978
+Index. Identify
+this painting.
+
+6
+00:00:17,768 --> 00:00:19,978
+Index. Identify
+this painting.
+
+7
+00:00:19,978 --> 00:00:22,981
+This painting
+is called Daughter.
+
+8
+00:00:22,981 --> 00:00:24,775
+JURATI:
+Maddox's theory
+
+9
+00:00:22,981 --> 00:00:24,775
+JURATI:
+Maddox's theory
+
+10
+00:00:24,775 --> 00:00:26,777
+was Data's entire code,
+even his memories,
+
+11
+00:00:26,777 --> 00:00:29,780
+could be reconstituted
+from a single positronic neuron.
+
+12
+00:00:29,780 --> 00:00:34,785
+You are something lovingly
+and deliberately created.
+
+13
+00:00:29,780 --> 00:00:34,785
+You are something lovingly
+and deliberately created.
+
+14
+00:00:34,785 --> 00:00:36,787
+You're telling me
+that I'm not real.
+
+15
+00:00:34,785 --> 00:00:36,787
+You're telling me
+that I'm not real.
+
+16
+00:00:36,787 --> 00:00:37,788
+RAMDHA:
+Which sister
+
+17
+00:00:37,788 --> 00:00:39,748
+are you?
+
+18
+00:00:39,748 --> 00:00:41,083
+LARIS: <i>The heart of
+the Zhat Vash mission</i>
+
+19
+00:00:41,083 --> 00:00:42,542
+was hate and fear
+
+20
+00:00:41,083 --> 00:00:42,542
+was hate and fear
+
+21
+00:00:42,542 --> 00:00:44,795
+and pure loathing
+for any form
+
+22
+00:00:44,795 --> 00:00:46,463
+of synthetic life.
+
+23
+00:00:46,463 --> 00:00:48,382
+I know who you are!
+
+24
+00:00:46,463 --> 00:00:48,382
+I know who you are!
+
+25
+00:00:48,382 --> 00:00:50,008
+You are the Destroyer!
+
+26
+00:00:50,008 --> 00:00:51,969
+PICARD:
+Thank you, Will,
+
+27
+00:00:51,969 --> 00:00:54,846
+for not trying
+to talk me out of all this.
+
+28
+00:00:51,969 --> 00:00:54,846
+for not trying
+to talk me out of all this.
+
+29
+00:00:54,846 --> 00:00:56,139
+Believe me, I know better.
+
+30
+00:00:56,139 --> 00:00:58,141
+RAFFI:
+The Romulans send in a mole,
+
+31
+00:00:58,141 --> 00:01:00,269
+a half-Romulan Vulcan
+
+32
+00:00:58,141 --> 00:01:00,269
+a half-Romulan Vulcan
+
+33
+00:01:00,269 --> 00:01:02,145
+named Oh.
+
+34
+00:01:02,145 --> 00:01:04,606
+I will take care of Picard.
+
+35
+00:01:04,606 --> 00:01:06,441
+Nine years ago,
+a Starfleet vessel
+
+36
+00:01:04,606 --> 00:01:06,441
+Nine years ago,
+a Starfleet vessel
+
+37
+00:01:06,441 --> 00:01:09,111
+<i>had first contact
+with a pair of emissaries</i>
+
+38
+00:01:09,111 --> 00:01:10,821
+from a strange
+new world.
+
+39
+00:01:10,821 --> 00:01:13,115
+The Zhat Vash
+have been searching
+
+40
+00:01:10,821 --> 00:01:13,115
+The Zhat Vash
+have been searching
+
+41
+00:01:13,115 --> 00:01:15,742
+for this world ever since.
+
+42
+00:01:15,742 --> 00:01:17,494
+Which they have now found
+because of me.
+
+43
+00:01:17,494 --> 00:01:22,332
+RIOS:
+Ghulion system. Fourth planet.
+
+44
+00:01:17,494 --> 00:01:22,332
+RIOS:
+Ghulion system. Fourth planet.
+
+45
+00:01:22,332 --> 00:01:24,418
+I'm home.
+
+46
+00:01:22,332 --> 00:01:24,418
+I'm home.
+
+47
+00:01:24,418 --> 00:01:25,627
+Welcome, all of you.
+
+48
+00:01:25,627 --> 00:01:27,754
+Dr. Altan Inigo Soong.
+
+49
+00:01:27,754 --> 00:01:29,506
+I take it my face
+looks familiar.
+
+50
+00:01:29,506 --> 00:01:30,966
+I'm just trying to understand
+
+51
+00:01:29,506 --> 00:01:30,966
+I'm just trying to understand
+
+52
+00:01:30,966 --> 00:01:33,844
+the logic of sacrifice.
+
+53
+00:01:33,844 --> 00:01:35,512
+I don't like the sound of that.
+
+54
+00:01:35,512 --> 00:01:36,805
+(Saga screams)
+
+55
+00:01:35,512 --> 00:01:36,805
+(Saga screams)
+
+56
+00:01:39,641 --> 00:01:40,851
+PICARD:
+Starfleet Command,
+
+57
+00:01:40,851 --> 00:01:43,854
+I have a first contact
+situation.
+
+58
+00:01:40,851 --> 00:01:43,854
+I have a first contact
+situation.
+
+59
+00:01:43,854 --> 00:01:46,231
+The Federation
+will listen to me.
+
+60
+00:01:46,231 --> 00:01:48,358
+They didn't listen to him
+after the attack on Mars.
+
+61
+00:01:46,231 --> 00:01:48,358
+They didn't listen to him
+after the attack on Mars.
+
+62
+00:01:48,358 --> 00:01:51,028
+And they're not
+going to believe him now.
+
+63
+00:01:51,028 --> 00:01:53,030
+SUTRA:
+My mind to your mind.
+
+64
+00:01:53,030 --> 00:01:54,698
+My thoughts to your thoughts.
+
+65
+00:01:53,030 --> 00:01:54,698
+My thoughts to your thoughts.
+
+66
+00:01:57,326 --> 00:01:58,869
+Fascinating.
+
+67
+00:01:58,869 --> 00:02:01,872
+ALTAN:
+There is some sort of higher
+synthetic beings out there.
+
+68
+00:01:58,869 --> 00:02:01,872
+ALTAN:
+There is some sort of higher
+synthetic beings out there.
+
+69
+00:02:01,872 --> 00:02:04,999
+Dr. Soong and I have designed a
+suitable beacon to summon them.
+
+70
+00:02:04,999 --> 00:02:07,669
+<i>To them, we're monsters.
+A mother would die</i>
+
+71
+00:02:04,999 --> 00:02:07,669
+<i>To them, we're monsters.
+A mother would die</i>
+
+72
+00:02:07,669 --> 00:02:08,795
+for her children.
+
+73
+00:02:08,795 --> 00:02:10,714
+Would you?
+
+74
+00:02:08,795 --> 00:02:10,714
+Yes.
+
+75
+00:02:10,714 --> 00:02:12,507
+SUTRA:
+Their purpose
+is to seek out
+
+76
+00:02:10,714 --> 00:02:12,507
+SUTRA:
+Their purpose
+is to seek out
+
+77
+00:02:12,507 --> 00:02:13,884
+advanced synthetic life
+
+78
+00:02:13,884 --> 00:02:17,054
+and excise it from
+the oppression by organics.
+
+79
+00:02:17,054 --> 00:02:20,182
+You will become the Destroyer
+after all.
+
+80
+00:02:17,054 --> 00:02:20,182
+You will become the Destroyer
+after all.
+
+81
+00:02:20,182 --> 00:02:22,559
+Take him away.
+
+82
+00:02:48,960 --> 00:02:50,962
+(electronic warbling)
+
+83
+00:03:03,558 --> 00:03:05,769
+Would the xBs be
+better off dead?
+
+84
+00:03:08,063 --> 00:03:11,274
+Everyone hates them.
+They have no home.
+
+85
+00:03:11,274 --> 00:03:12,943
+They don't belong anywhere.
+
+86
+00:03:11,274 --> 00:03:12,943
+They don't belong anywhere.
+
+87
+00:03:12,943 --> 00:03:14,778
+SEVEN OF NINE:
+Am I better off dead?
+
+88
+00:03:17,447 --> 00:03:19,699
+I'm an xB. I have no home.
+
+89
+00:03:17,447 --> 00:03:19,699
+I'm an xB. I have no home.
+
+90
+00:03:19,699 --> 00:03:21,785
+I don't belong anywhere.
+
+91
+00:03:23,787 --> 00:03:27,541
+Why don't I just put a phaser to
+my head and get it over with?
+
+92
+00:03:23,787 --> 00:03:27,541
+Why don't I just put a phaser to
+my head and get it over with?
+
+93
+00:03:27,541 --> 00:03:31,420
+Because... I'd miss you.
+
+94
+00:03:27,541 --> 00:03:31,420
+Because... I'd miss you.
+
+95
+00:04:01,324 --> 00:04:03,994
+(grunts softly)
+
+96
+00:04:03,994 --> 00:04:05,454
+(panting)
+
+97
+00:04:12,294 --> 00:04:15,213
+Well.
+
+98
+00:04:15,213 --> 00:04:16,673
+Have you found them?
+
+99
+00:04:16,673 --> 00:04:17,674
+Yes. They're all here.
+
+100
+00:04:17,674 --> 00:04:20,051
+Have you fucked any of them?
+
+101
+00:04:17,674 --> 00:04:20,051
+Have you fucked any of them?
+
+102
+00:04:20,051 --> 00:04:21,303
+Mm, not yet.
+
+103
+00:04:21,303 --> 00:04:23,972
+Killed any?
+One.
+
+104
+00:04:23,972 --> 00:04:27,392
+Well, I call that progress.
+
+105
+00:04:23,972 --> 00:04:27,392
+Well, I call that progress.
+
+106
+00:04:27,392 --> 00:04:30,187
+Come see my hiding place.
+
+107
+00:04:27,392 --> 00:04:30,187
+Come see my hiding place.
+
+108
+00:04:30,187 --> 00:04:33,148
+Oceanfront. Crashing waves.
+
+109
+00:04:33,148 --> 00:04:34,983
+You'll love it.
+
+110
+00:04:37,027 --> 00:04:39,029
+♪ ♪
+
+111
+00:05:03,220 --> 00:05:05,388
+Lucky you.
+
+112
+00:05:07,682 --> 00:05:09,851
+(beeping)
+
+113
+00:05:16,566 --> 00:05:17,734
+SOJI:
+I just wanted to see
+
+114
+00:05:17,734 --> 00:05:19,277
+if you were okay.
+
+115
+00:05:17,734 --> 00:05:19,277
+if you were okay.
+
+116
+00:05:19,277 --> 00:05:22,197
+I will be when I'm set free.
+
+117
+00:05:22,197 --> 00:05:26,409
+Picard, try to see this
+from our point of view.
+
+118
+00:05:22,197 --> 00:05:26,409
+Picard, try to see this
+from our point of view.
+
+119
+00:05:26,409 --> 00:05:29,746
+You choose if we live.
+You choose if we die.
+
+120
+00:05:29,746 --> 00:05:31,414
+You choose.
+
+121
+00:05:29,746 --> 00:05:31,414
+You choose.
+
+122
+00:05:31,414 --> 00:05:33,208
+We have no choice.
+
+123
+00:05:33,208 --> 00:05:35,877
+You organics have
+never given us one.
+
+124
+00:05:39,089 --> 00:05:42,759
+To say you have no choice
+
+125
+00:05:39,089 --> 00:05:42,759
+To say you have no choice
+
+126
+00:05:42,759 --> 00:05:45,303
+is a failure of imagination.
+
+127
+00:05:46,388 --> 00:05:48,390
+Please,
+
+128
+00:05:46,388 --> 00:05:48,390
+Please,
+
+129
+00:05:48,390 --> 00:05:53,270
+don't let the Romulans turn you
+into the monsters they fear.
+
+130
+00:05:53,270 --> 00:05:55,939
+Stop them, Soji.
+Stop building that beacon.
+
+131
+00:05:53,270 --> 00:05:55,939
+Stop them, Soji.
+Stop building that beacon.
+
+132
+00:05:55,939 --> 00:05:58,942
+Shut it down now.
+
+133
+00:05:58,942 --> 00:06:02,112
+<i>The beings you are attempting
+to summon may well be</i>
+
+134
+00:05:58,942 --> 00:06:02,112
+<i>The beings you are attempting
+to summon may well be</i>
+
+135
+00:06:02,112 --> 00:06:07,450
+<i>your salvation, but they
+will be our annihilation.</i>
+
+136
+00:06:02,112 --> 00:06:07,450
+<i>your salvation, but they
+will be our annihilation.</i>
+
+137
+00:06:10,954 --> 00:06:12,956
+♪ ♪
+
+138
+00:06:10,954 --> 00:06:12,956
+♪ ♪
+
+139
+00:06:29,431 --> 00:06:31,433
+♪ ♪
+
+140
+00:06:29,431 --> 00:06:31,433
+♪ ♪
+
+141
+00:06:55,332 --> 00:06:57,334
+♪ ♪
+
+142
+00:07:25,028 --> 00:07:27,030
+♪ ♪
+
+143
+00:07:56,685 --> 00:07:59,729
+NARISSA:
+You're telling me you want
+to use those grenades
+
+144
+00:07:59,729 --> 00:08:02,148
+to destroy flowers?
+
+145
+00:07:59,729 --> 00:08:02,148
+to destroy flowers?
+
+146
+00:08:02,148 --> 00:08:05,443
+Ship-killing flowers that fly.
+
+147
+00:08:05,443 --> 00:08:06,861
+No, not this time.
+
+148
+00:08:05,443 --> 00:08:06,861
+No, not this time.
+
+149
+00:08:06,861 --> 00:08:09,364
+I made my way out of the nest,
+I can make my way back in.
+
+150
+00:08:09,364 --> 00:08:11,991
+You have to stay here and bring
+the weapons systems on line.
+
+151
+00:08:11,991 --> 00:08:15,453
+Our parents died for this,
+Narek.
+
+152
+00:08:11,991 --> 00:08:15,453
+Our parents died for this,
+Narek.
+
+153
+00:08:15,453 --> 00:08:17,080
+Many more gave their lives.
+
+154
+00:08:17,080 --> 00:08:19,541
+I found her, Narissa.
+
+155
+00:08:17,080 --> 00:08:19,541
+I found her, Narissa.
+
+156
+00:08:19,541 --> 00:08:21,418
+Me. The family disgrace.
+
+157
+00:08:21,418 --> 00:08:23,712
+The Zhat Vash washout.
+
+158
+00:08:23,712 --> 00:08:26,381
+I found Seb Cheneb.
+
+159
+00:08:23,712 --> 00:08:26,381
+I found Seb Cheneb.
+
+160
+00:08:32,095 --> 00:08:34,097
+Well, go on, then.
+
+161
+00:08:35,098 --> 00:08:37,100
+I have my work to do.
+
+162
+00:08:35,098 --> 00:08:37,100
+I have my work to do.
+
+163
+00:08:39,185 --> 00:08:41,187
+(device trilling)
+
+164
+00:09:09,799 --> 00:09:13,261
+RIOS: <i>Honestly,
+I'm a little afraid of it.</i>
+
+165
+00:09:09,799 --> 00:09:13,261
+RIOS: <i>Honestly,
+I'm a little afraid of it.</i>
+
+166
+00:09:15,972 --> 00:09:19,893
+Like, if I use it too much,
+it's gonna...
+
+167
+00:09:15,972 --> 00:09:19,893
+Like, if I use it too much,
+it's gonna...
+
+168
+00:09:19,893 --> 00:09:22,145
+eat my soul.
+RAFFI:
+Well, luckily,
+
+169
+00:09:22,145 --> 00:09:23,646
+you don't have a soul, so...
+
+170
+00:09:23,646 --> 00:09:24,773
+(chuckles)
+
+171
+00:09:23,646 --> 00:09:24,773
+(chuckles)
+
+172
+00:09:27,609 --> 00:09:30,111
+But what does it do?
+Like, how do I even...
+
+173
+00:09:27,609 --> 00:09:30,111
+But what does it do?
+Like, how do I even...
+
+174
+00:09:30,111 --> 00:09:32,071
+Well, when Saga gave it to me,
+she said,
+
+175
+00:09:32,071 --> 00:09:34,449
+"You have to use
+your imagination."
+
+176
+00:09:34,449 --> 00:09:36,826
+Oh, she said that, did she?
+
+177
+00:09:34,449 --> 00:09:36,826
+Mm-hmm.
+
+178
+00:09:34,449 --> 00:09:36,826
+Oh, she said that, did she?
+
+179
+00:09:34,449 --> 00:09:36,826
+Mm-hmm.
+
+180
+00:09:36,826 --> 00:09:38,328
+Well, I don't have
+one of those, either.
+
+181
+00:09:38,328 --> 00:09:40,663
+Okay, well, Chris,
+this is your ship.
+
+182
+00:09:40,663 --> 00:09:42,123
+You know what's wrong with it.
+
+183
+00:09:40,663 --> 00:09:42,123
+You know what's wrong with it.
+
+184
+00:09:42,123 --> 00:09:44,709
+It's not too complicated.
+
+185
+00:09:44,709 --> 00:09:46,795
+Now, the intermix reactor
+is fused.
+
+186
+00:09:46,795 --> 00:09:48,004
+I need to unfuse it,
+
+187
+00:09:46,795 --> 00:09:48,004
+I need to unfuse it,
+
+188
+00:09:48,004 --> 00:09:50,340
+which is impossible.
+
+189
+00:09:50,340 --> 00:09:52,342
+I need to replace it,
+but the maintenance replicator
+
+190
+00:09:52,342 --> 00:09:56,679
+is off-line because...
+the intermix reactor
+
+191
+00:09:52,342 --> 00:09:56,679
+is off-line because...
+the intermix reactor
+
+192
+00:09:56,679 --> 00:09:58,556
+is fused.
+Mm.
+
+193
+00:09:58,556 --> 00:10:00,809
+Well, just, you know,
+give it a try.
+
+194
+00:09:58,556 --> 00:10:00,809
+Well, just, you know,
+give it a try.
+
+195
+00:10:02,560 --> 00:10:05,355
+Okay. Fine, I'll do it.
+I got a lot of imagination.
+
+196
+00:10:05,355 --> 00:10:07,982
+To you, everything's a hammer.
+
+197
+00:10:05,355 --> 00:10:07,982
+To you, everything's a hammer.
+
+198
+00:10:07,982 --> 00:10:09,984
+No. I'll do it.
+
+199
+00:10:16,825 --> 00:10:20,829
+T-There's no kind
+of trigger or-or switch.
+
+200
+00:10:16,825 --> 00:10:20,829
+T-There's no kind
+of trigger or-or switch.
+
+201
+00:10:20,829 --> 00:10:24,833
+Hmm. Well, maybe what-what
+she meant was
+
+202
+00:10:20,829 --> 00:10:24,833
+Hmm. Well, maybe what-what
+she meant was
+
+203
+00:10:24,833 --> 00:10:27,377
+you have to imagine the fix.
+
+204
+00:10:27,377 --> 00:10:29,212
+Have you been, um,
+
+205
+00:10:29,212 --> 00:10:31,589
+hitting the horgl again?
+(chuckles)
+
+206
+00:10:29,212 --> 00:10:31,589
+hitting the horgl again?
+(chuckles)
+
+207
+00:10:31,589 --> 00:10:34,384
+Visualize that it's
+no longer fused.
+
+208
+00:10:34,384 --> 00:10:36,886
+You know, see the hole
+patching itself.
+
+209
+00:10:34,384 --> 00:10:36,886
+You know, see the hole
+patching itself.
+
+210
+00:10:40,723 --> 00:10:43,393
+(exhales)
+
+211
+00:10:40,723 --> 00:10:43,393
+(exhales)
+
+212
+00:10:43,393 --> 00:10:46,563
+(chiming)
+
+213
+00:10:46,563 --> 00:10:49,232
+Whoa.
+
+214
+00:10:46,563 --> 00:10:49,232
+Whoa.
+
+215
+00:10:49,232 --> 00:10:51,734
+Ay, caramba.
+
+216
+00:10:51,734 --> 00:10:54,988
+Uh, what's happening?
+
+217
+00:10:51,734 --> 00:10:54,988
+Uh, what's happening?
+
+218
+00:10:57,407 --> 00:10:58,908
+Nothing that makes any sense.
+
+219
+00:11:05,748 --> 00:11:07,750
+(chuckles)
+(sighs)
+
+220
+00:11:05,748 --> 00:11:07,750
+(chuckles)
+(sighs)
+
+221
+00:11:07,750 --> 00:11:09,586
+Say it.
+Say what?
+
+222
+00:11:09,586 --> 00:11:12,422
+Mm, those three beautiful words.
+
+223
+00:11:09,586 --> 00:11:12,422
+Mm, those three beautiful words.
+
+224
+00:11:14,716 --> 00:11:16,551
+You were right.
+Mm, just one more time.
+
+225
+00:11:16,551 --> 00:11:17,760
+Piss off.
+
+226
+00:11:17,760 --> 00:11:18,928
+(clattering)
+
+227
+00:11:17,760 --> 00:11:18,928
+(clattering)
+
+228
+00:11:20,346 --> 00:11:23,433
+I know that sound.
+
+229
+00:11:30,648 --> 00:11:32,108
+ALTAN:
+All of Bruce's work
+
+230
+00:11:32,108 --> 00:11:34,193
+on the downloading
+of consciousness
+
+231
+00:11:34,193 --> 00:11:37,280
+into a synthetic body
+should be on that machine.
+
+232
+00:11:34,193 --> 00:11:37,280
+into a synthetic body
+should be on that machine.
+
+233
+00:11:37,280 --> 00:11:39,574
+Let's hope so.
+We don't have much time.
+
+234
+00:11:39,574 --> 00:11:41,409
+Mm-hmm.
+
+235
+00:11:41,409 --> 00:11:44,287
+You know...
+(exhales)
+
+236
+00:11:41,409 --> 00:11:44,287
+You know...
+(exhales)
+
+237
+00:11:44,287 --> 00:11:49,626
+This really is a remarkable act
+of self-sacrifice on your part.
+
+238
+00:11:44,287 --> 00:11:49,626
+This really is a remarkable act
+of self-sacrifice on your part.
+
+239
+00:11:49,626 --> 00:11:52,086
+But I suppose
+
+240
+00:11:52,086 --> 00:11:54,797
+that's what mothers do,
+isn't it?
+
+241
+00:11:52,086 --> 00:11:54,797
+that's what mothers do,
+isn't it?
+
+242
+00:11:58,259 --> 00:12:01,095
+(door whooshes shut)
+
+243
+00:11:58,259 --> 00:12:01,095
+(door whooshes shut)
+
+244
+00:12:01,095 --> 00:12:03,806
+(quietly):
+It's okay. It'll be okay.
+
+245
+00:12:03,806 --> 00:12:06,809
+You can do this.
+You have to do this.
+
+246
+00:12:03,806 --> 00:12:06,809
+You can do this.
+You have to do this.
+
+247
+00:12:10,521 --> 00:12:13,608
+I'm not their mother, asshole.
+
+248
+00:12:10,521 --> 00:12:13,608
+I'm not their mother, asshole.
+
+249
+00:12:13,608 --> 00:12:15,860
+RIOS:
+Someone's throwing rocks
+at my ship.
+
+250
+00:12:15,860 --> 00:12:18,613
+The abusive Romulan boyfriend.
+
+251
+00:12:15,860 --> 00:12:18,613
+The abusive Romulan boyfriend.
+
+252
+00:12:18,613 --> 00:12:20,114
+Comms.
+
+253
+00:12:21,240 --> 00:12:22,659
+RIOS:
+Go ahead, throw it.
+
+254
+00:12:22,659 --> 00:12:25,286
+I want to see what a photon
+torpedo can do at this range.
+
+255
+00:12:22,659 --> 00:12:25,286
+I want to see what a photon
+torpedo can do at this range.
+
+256
+00:12:25,286 --> 00:12:27,664
+I have 12 wide-dispersion
+
+257
+00:12:27,664 --> 00:12:29,874
+molecular solvent
+grenade canisters.
+
+258
+00:12:32,126 --> 00:12:33,878
+I'm throwing rocks.
+
+259
+00:12:33,878 --> 00:12:35,421
+What do you want?
+
+260
+00:12:35,421 --> 00:12:36,965
+And don't think we won't
+kick your ass, dirtbag,
+
+261
+00:12:35,421 --> 00:12:36,965
+And don't think we won't
+kick your ass, dirtbag,
+
+262
+00:12:36,965 --> 00:12:39,717
+because we will.
+Raff.
+
+263
+00:12:39,717 --> 00:12:41,344
+What are you doing here,
+snakehead?
+
+264
+00:12:41,344 --> 00:12:43,262
+Trying to save the universe.
+
+265
+00:12:41,344 --> 00:12:43,262
+Trying to save the universe.
+
+266
+00:12:44,555 --> 00:12:48,017
+We can keep fighting,
+or we can work together.
+
+267
+00:12:44,555 --> 00:12:48,017
+We can keep fighting,
+or we can work together.
+
+268
+00:12:48,017 --> 00:12:49,352
+Stop what's coming for us.
+
+269
+00:12:50,520 --> 00:12:52,522
+It's your call.
+
+270
+00:12:58,027 --> 00:13:01,364
+JL. JL, come in.
+
+271
+00:12:58,027 --> 00:13:01,364
+JL. JL, come in.
+
+272
+00:13:01,364 --> 00:13:03,157
+Damn it.
+
+273
+00:13:03,157 --> 00:13:05,576
+NAREK:
+They are building
+some kind of transmitter.
+
+274
+00:13:05,576 --> 00:13:08,162
+They are signaling something
+
+275
+00:13:05,576 --> 00:13:08,162
+They are signaling something
+
+276
+00:13:08,162 --> 00:13:10,206
+to come here.
+To do what?
+
+277
+00:13:10,206 --> 00:13:11,457
+We believe
+
+278
+00:13:11,457 --> 00:13:13,376
+synthetics are fated to destroy
+
+279
+00:13:11,457 --> 00:13:13,376
+synthetics are fated to destroy
+
+280
+00:13:13,376 --> 00:13:14,711
+all organic life.
+
+281
+00:13:14,711 --> 00:13:16,462
+We call it Ganmadan.
+
+282
+00:13:16,462 --> 00:13:18,589
+The place is on lockdown.
+
+283
+00:13:16,462 --> 00:13:18,589
+The place is on lockdown.
+
+284
+00:13:18,589 --> 00:13:19,924
+Whatever that
+transmitter is,
+
+285
+00:13:19,924 --> 00:13:21,551
+they don't want anyone
+interfering with it.
+
+286
+00:13:21,551 --> 00:13:24,137
+(laughs softly)
+The thing about Picard is...
+
+287
+00:13:21,551 --> 00:13:24,137
+(laughs softly)
+The thing about Picard is...
+
+288
+00:13:24,137 --> 00:13:26,514
+Yeah. Interfering
+is definitely his thing.
+
+289
+00:13:26,514 --> 00:13:28,391
+Try him again.
+
+290
+00:13:28,391 --> 00:13:31,769
+JL, come in.
+
+291
+00:13:28,391 --> 00:13:31,769
+JL, come in.
+
+292
+00:13:31,769 --> 00:13:35,398
+Admiral Jean-Luc Picard,
+retired.
+
+293
+00:13:35,398 --> 00:13:36,858
+Damn it.
+I told you.
+
+294
+00:13:35,398 --> 00:13:36,858
+Damn it.
+I told you.
+
+295
+00:13:36,858 --> 00:13:38,234
+They won't respond.
+
+296
+00:13:38,234 --> 00:13:40,069
+The synthetics have
+jammed all comms.
+
+297
+00:13:41,320 --> 00:13:42,780
+Feldor stam torret.
+
+298
+00:13:41,320 --> 00:13:42,780
+Feldor stam torret.
+
+299
+00:13:42,780 --> 00:13:44,240
+Whoa, whoa, whoa.
+
+300
+00:13:46,159 --> 00:13:47,744
+I do. I very much
+
+301
+00:13:47,744 --> 00:13:49,537
+choose to live.
+Hold up, kid.
+
+302
+00:13:47,744 --> 00:13:49,537
+choose to live.
+Hold up, kid.
+
+303
+00:13:49,537 --> 00:13:51,205
+We disarmed him, searched him.
+
+304
+00:13:51,205 --> 00:13:53,332
+We may very well
+have a common enemy
+
+305
+00:13:53,332 --> 00:13:55,168
+coming for us. You're
+gonna want to hear
+
+306
+00:13:53,332 --> 00:13:55,168
+coming for us. You're
+gonna want to hear
+
+307
+00:13:55,168 --> 00:13:57,420
+what he came here
+to say.
+
+308
+00:14:07,597 --> 00:14:09,599
+Altan, I...
+
+309
+00:14:09,599 --> 00:14:11,059
+What are you doing?
+
+310
+00:14:11,059 --> 00:14:13,936
+I'm transferring Saga's memories
+into a V-module.
+
+311
+00:14:11,059 --> 00:14:13,936
+I'm transferring Saga's memories
+into a V-module.
+
+312
+00:14:13,936 --> 00:14:16,564
+As a memento for Arcana.
+
+313
+00:14:16,564 --> 00:14:19,108
+But the damage
+to her optical processors
+
+314
+00:14:16,564 --> 00:14:19,108
+But the damage
+to her optical processors
+
+315
+00:14:19,108 --> 00:14:21,569
+corrupted
+the data stream and...
+
+316
+00:14:21,569 --> 00:14:23,988
+Do you need something?
+
+317
+00:14:23,988 --> 00:14:25,281
+Yes, I've been, um,
+
+318
+00:14:23,988 --> 00:14:25,281
+Yes, I've been, um,
+
+319
+00:14:25,281 --> 00:14:27,450
+I've been working on the
+neural lace for your golem,
+
+320
+00:14:27,450 --> 00:14:29,243
+but some of the files
+are encrypted.
+
+321
+00:14:29,243 --> 00:14:33,247
+And Bruce always said that your
+crypto kung fu was the best.
+
+322
+00:14:29,243 --> 00:14:33,247
+And Bruce always said that your
+crypto kung fu was the best.
+
+323
+00:14:33,247 --> 00:14:35,083
+Well... (chuckles)
+
+324
+00:14:35,083 --> 00:14:38,127
+Uh, okay, I'll, uh, see if
+I can get into those files.
+
+325
+00:14:35,083 --> 00:14:38,127
+Uh, okay, I'll, uh, see if
+I can get into those files.
+
+326
+00:14:38,127 --> 00:14:39,796
+Keep an eye
+on the transcoding rate.
+
+327
+00:14:39,796 --> 00:14:42,381
+Got it.
+
+328
+00:14:39,796 --> 00:14:42,381
+Got it.
+
+329
+00:14:42,381 --> 00:14:44,383
+♪ ♪
+
+330
+00:14:55,478 --> 00:14:57,480
+(squelching)
+
+331
+00:15:05,238 --> 00:15:06,656
+(whispers): Sorry.
+
+332
+00:15:05,238 --> 00:15:06,656
+(whispers): Sorry.
+
+333
+00:15:06,656 --> 00:15:10,243
+ELNOR:
+I still don't understand
+why we're trusting him.
+
+334
+00:15:10,243 --> 00:15:12,245
+His sister murdered Hugh.
+
+335
+00:15:10,243 --> 00:15:12,245
+His sister murdered Hugh.
+
+336
+00:15:14,705 --> 00:15:17,708
+Good thing she didn't
+come along, then.
+
+337
+00:15:17,708 --> 00:15:19,502
+I don't like you.
+
+338
+00:15:17,708 --> 00:15:19,502
+I don't like you.
+
+339
+00:15:19,502 --> 00:15:20,503
+No?
+
+340
+00:15:20,503 --> 00:15:22,296
+How do you feel about Ganmadan?
+
+341
+00:15:22,296 --> 00:15:23,506
+Because if we waste
+any more time
+
+342
+00:15:23,506 --> 00:15:25,007
+fighting each other,
+we will all die,
+
+343
+00:15:23,506 --> 00:15:25,007
+fighting each other,
+we will all die,
+
+344
+00:15:25,007 --> 00:15:27,135
+and then whether or not you
+like me will matter even less.
+
+345
+00:15:27,135 --> 00:15:29,470
+Whoa, hold on.
+(chuckles)
+
+346
+00:15:29,470 --> 00:15:31,264
+What is Ganmadan?
+
+347
+00:15:29,470 --> 00:15:31,264
+What is Ganmadan?
+
+348
+00:15:31,264 --> 00:15:32,682
+What is the story?
+
+349
+00:15:32,682 --> 00:15:34,016
+It's just that.
+
+350
+00:15:34,016 --> 00:15:35,685
+A story.
+
+351
+00:15:35,685 --> 00:15:37,311
+A story of the end.
+
+352
+00:15:35,685 --> 00:15:37,311
+A story of the end.
+
+353
+00:15:37,311 --> 00:15:38,646
+Of...?
+
+354
+00:15:38,646 --> 00:15:40,690
+Everything.
+
+355
+00:15:40,690 --> 00:15:43,359
+Like Ragnarok or Judgment Day.
+
+356
+00:15:40,690 --> 00:15:43,359
+Like Ragnarok or Judgment Day.
+
+357
+00:15:43,359 --> 00:15:45,528
+An ancient myth.
+
+358
+00:15:45,528 --> 00:15:46,696
+Some say it dates back
+
+359
+00:15:46,696 --> 00:15:49,699
+from long before our ancestors
+first arrived on Vulcan.
+
+360
+00:15:46,696 --> 00:15:49,699
+from long before our ancestors
+first arrived on Vulcan.
+
+361
+00:15:49,699 --> 00:15:52,702
+The story of Ganmadan begins
+with two sisters.
+
+362
+00:15:52,702 --> 00:15:53,870
+Twin khalagu.
+
+363
+00:15:53,870 --> 00:15:55,079
+Demons.
+
+364
+00:15:53,870 --> 00:15:55,079
+Demons.
+
+365
+00:15:56,372 --> 00:15:58,666
+Twin demons who come
+at the end of time
+
+366
+00:15:58,666 --> 00:16:00,209
+to open the way
+and unleash the ch'khalagu.
+
+367
+00:15:58,666 --> 00:16:00,209
+to open the way
+and unleash the ch'khalagu.
+
+368
+00:16:00,209 --> 00:16:03,212
+Very bad demons.
+
+369
+00:16:00,209 --> 00:16:03,212
+One sister
+
+370
+00:16:03,212 --> 00:16:05,047
+is called Seb Natan,
+the Foreteller.
+
+371
+00:16:05,047 --> 00:16:08,676
+She plays a drum made
+from the skin of children.
+
+372
+00:16:05,047 --> 00:16:08,676
+She plays a drum made
+from the skin of children.
+
+373
+00:16:08,676 --> 00:16:11,012
+She strikes it
+with a chain of skulls,
+
+374
+00:16:11,012 --> 00:16:13,306
+so hard and so long
+
+375
+00:16:11,012 --> 00:16:13,306
+so hard and so long
+
+376
+00:16:13,306 --> 00:16:15,641
+that her heart bursts
+from the effort.
+
+377
+00:16:15,641 --> 00:16:17,310
+Mm.
+
+378
+00:16:19,103 --> 00:16:21,772
+The other sister
+is called Seb Cheneb.
+Seb Cheneb?
+
+379
+00:16:21,772 --> 00:16:23,900
+Yeah, see,
+w-we know about her.
+
+380
+00:16:23,900 --> 00:16:25,401
+So you know that
+she carries a horn
+
+381
+00:16:23,900 --> 00:16:25,401
+So you know that
+she carries a horn
+
+382
+00:16:25,401 --> 00:16:28,321
+from a great pale hellbeast
+called Ganmadan.
+
+383
+00:16:28,321 --> 00:16:30,656
+You know when she
+blows a blast on the horn,
+
+384
+00:16:28,321 --> 00:16:30,656
+You know when she
+blows a blast on the horn,
+
+385
+00:16:30,656 --> 00:16:33,034
+it will unleash
+all the ch'khalagu
+
+386
+00:16:33,034 --> 00:16:35,119
+who have been waiting since
+the beginning of time.
+
+387
+00:16:35,119 --> 00:16:37,371
+You know the sky will crack,
+
+388
+00:16:35,119 --> 00:16:37,371
+You know the sky will crack,
+
+389
+00:16:37,371 --> 00:16:39,373
+and through the
+crack in the sky
+
+390
+00:16:39,373 --> 00:16:41,334
+the <i>ch'khalagu
+</i>will come ravening.
+
+391
+00:16:41,334 --> 00:16:44,212
+You know about the
+Thousand Days of Pain.
+
+392
+00:16:41,334 --> 00:16:44,212
+You know about the
+Thousand Days of Pain.
+
+393
+00:16:44,212 --> 00:16:45,755
+You know the streets
+will be slick
+
+394
+00:16:45,755 --> 00:16:48,090
+with entrails
+of half-devoured corpses.
+
+395
+00:16:45,755 --> 00:16:48,090
+with entrails
+of half-devoured corpses.
+
+396
+00:16:48,090 --> 00:16:51,135
+You know
+the worlds will burn,
+
+397
+00:16:51,135 --> 00:16:53,512
+and the ch'khalagu will feast,
+
+398
+00:16:53,512 --> 00:16:55,932
+and nurse their brats
+on blood,
+
+399
+00:16:53,512 --> 00:16:55,932
+and nurse their brats
+on blood,
+
+400
+00:16:55,932 --> 00:16:57,934
+and pick their teeth with bones.
+
+401
+00:16:59,143 --> 00:17:00,770
+No, we did not know any of that.
+
+402
+00:16:59,143 --> 00:17:00,770
+No, we did not know any of that.
+
+403
+00:17:00,770 --> 00:17:03,105
+But, I mean, do you really...
+
+404
+00:17:03,105 --> 00:17:05,942
+you really believe
+this is a-a prophecy?
+
+405
+00:17:05,942 --> 00:17:07,985
+No.
+
+406
+00:17:05,942 --> 00:17:07,985
+No.
+
+407
+00:17:07,985 --> 00:17:09,904
+I believe it's history.
+
+408
+00:17:12,448 --> 00:17:16,160
+And the fascinating thing
+about history is...
+
+409
+00:17:16,160 --> 00:17:18,913
+it always repeats itself.
+
+410
+00:17:16,160 --> 00:17:18,913
+it always repeats itself.
+
+411
+00:17:22,124 --> 00:17:24,126
+(thunder rumbling)
+
+412
+00:17:22,124 --> 00:17:24,126
+(thunder rumbling)
+
+413
+00:17:39,642 --> 00:17:41,143
+NEDAR:
+At last,
+
+414
+00:17:41,143 --> 00:17:44,272
+our great work
+is nearly at an end.
+
+415
+00:17:41,143 --> 00:17:44,272
+our great work
+is nearly at an end.
+
+416
+00:17:50,987 --> 00:17:53,322
+NAREK:
+Molecular solvent grenades.
+
+417
+00:17:53,322 --> 00:17:54,407
+Short fuse.
+
+418
+00:17:53,322 --> 00:17:54,407
+Short fuse.
+
+419
+00:17:54,407 --> 00:17:56,659
+Push button, throw.
+
+420
+00:17:56,659 --> 00:17:58,828
+Intended for those orchids.
+
+421
+00:17:58,828 --> 00:18:01,038
+Now the transmitter
+is our target of opportunity.
+
+422
+00:17:58,828 --> 00:18:01,038
+Now the transmitter
+is our target of opportunity.
+
+423
+00:18:01,038 --> 00:18:02,999
+Okay, h-hold on, hold on.
+(chuckles)
+
+424
+00:18:02,999 --> 00:18:05,334
+How exactly are we planning
+on getting ourselves
+
+425
+00:18:05,334 --> 00:18:07,044
+back into Synthville?
+
+426
+00:18:05,334 --> 00:18:07,044
+back into Synthville?
+
+427
+00:18:07,044 --> 00:18:08,796
+We walk in the front door.
+
+428
+00:18:08,796 --> 00:18:10,798
+(grunting)
+
+429
+00:18:12,800 --> 00:18:14,844
+Oh! Hey. Hi.
+(chuckles)
+
+430
+00:18:14,844 --> 00:18:16,220
+RIOS:
+And how are we gonna do that?
+
+431
+00:18:16,220 --> 00:18:17,847
+By bringing them
+the Romulan secret agent
+
+432
+00:18:17,847 --> 00:18:19,348
+that killed their beloved Saga.
+
+433
+00:18:17,847 --> 00:18:19,348
+that killed their beloved Saga.
+
+434
+00:18:21,851 --> 00:18:23,769
+I still don't like you.
+
+435
+00:18:23,769 --> 00:18:25,354
+Check it out, you guys.
+
+436
+00:18:23,769 --> 00:18:25,354
+Check it out, you guys.
+
+437
+00:18:25,354 --> 00:18:26,981
+Look who we found
+sneaking around last night.
+
+438
+00:18:26,981 --> 00:18:29,317
+Thought you might want him back.
+
+439
+00:18:29,317 --> 00:18:31,861
+RAFFI:
+<i>So, how are we gonna
+blow the transmitter?</i>
+
+440
+00:18:29,317 --> 00:18:31,861
+RAFFI:
+<i>So, how are we gonna
+blow the transmitter?</i>
+
+441
+00:18:31,861 --> 00:18:33,696
+A single, concentrated blast.
+
+442
+00:18:33,696 --> 00:18:35,323
+Remote detonation.
+
+443
+00:18:35,323 --> 00:18:37,241
+Sounds like we need
+a delivery system.
+
+444
+00:18:35,323 --> 00:18:37,241
+Sounds like we need
+a delivery system.
+
+445
+00:18:37,241 --> 00:18:38,868
+A drone.
+
+446
+00:18:38,868 --> 00:18:40,036
+Your weapons?
+
+447
+00:18:38,868 --> 00:18:40,036
+Oh, of course.
+
+448
+00:18:42,371 --> 00:18:45,041
+The molecular solvent.
+It's stable?
+
+449
+00:18:45,041 --> 00:18:46,709
+Until it's detonated.
+
+450
+00:18:46,709 --> 00:18:49,211
+Except in metal, so the
+container needs to be, uh,
+
+451
+00:18:46,709 --> 00:18:49,211
+Except in metal, so the
+container needs to be, uh,
+
+452
+00:18:49,211 --> 00:18:50,212
+carbon fiber, ceramic.
+
+453
+00:18:50,212 --> 00:18:52,006
+CODEX:
+Bags.
+
+454
+00:18:52,006 --> 00:18:53,466
+Oh. Certainly.
+
+455
+00:18:53,466 --> 00:18:55,259
+You bet.
+
+456
+00:18:53,466 --> 00:18:55,259
+You bet.
+
+457
+00:18:55,259 --> 00:18:57,261
+And with the transporter block
+the synths have in place,
+
+458
+00:18:57,261 --> 00:18:59,055
+we can't beam anything
+in or out.
+
+459
+00:18:59,055 --> 00:19:00,723
+So, we'll need
+a way to conceal it.
+
+460
+00:18:59,055 --> 00:19:00,723
+So, we'll need
+a way to conceal it.
+
+461
+00:19:08,189 --> 00:19:09,190
+Do you play?
+
+462
+00:19:09,190 --> 00:19:11,484
+Oh, I love the game.
+RAFFI: Ha.
+
+463
+00:19:11,484 --> 00:19:13,069
+All right, let's go.
+
+464
+00:19:11,484 --> 00:19:13,069
+All right, let's go.
+
+465
+00:19:13,069 --> 00:19:15,071
+Thanks.
+
+466
+00:19:15,071 --> 00:19:16,238
+(beeping)
+
+467
+00:19:22,286 --> 00:19:24,246
+(whispers):
+Picard?
+
+468
+00:19:22,286 --> 00:19:24,246
+(whispers):
+Picard?
+
+469
+00:19:24,246 --> 00:19:27,083
+Admiral Picard. Hello?
+
+470
+00:19:27,083 --> 00:19:28,959
+Are you...
+
+471
+00:19:27,083 --> 00:19:28,959
+Still here.
+
+472
+00:19:28,959 --> 00:19:30,252
+Okay.
+
+473
+00:19:28,959 --> 00:19:30,252
+Okay.
+
+474
+00:19:30,252 --> 00:19:32,088
+They're about
+to power up the beacon.
+
+475
+00:19:32,088 --> 00:19:34,715
+We have to hurry.
+
+476
+00:19:34,715 --> 00:19:36,092
+What is this?
+
+477
+00:19:34,715 --> 00:19:36,092
+What is this?
+
+478
+00:19:36,092 --> 00:19:37,551
+I'm busting you out.
+
+479
+00:19:39,762 --> 00:19:42,306
+I honestly thought I was
+the worst secret agent ever,
+
+480
+00:19:39,762 --> 00:19:42,306
+I honestly thought I was
+the worst secret agent ever,
+
+481
+00:19:42,306 --> 00:19:45,101
+but I'm starting to believe
+I may have a gift.
+No-- Where are we going?
+
+482
+00:19:45,101 --> 00:19:46,560
+Back to La Sirena.
+
+483
+00:19:46,560 --> 00:19:49,271
+Come on, we've got to move
+while they're still distracted.
+
+484
+00:19:46,560 --> 00:19:49,271
+Come on, we've got to move
+while they're still distracted.
+
+485
+00:19:50,272 --> 00:19:52,400
+COMPUTER VOICE:
+Synthetic matrix complete.
+
+486
+00:19:52,400 --> 00:19:56,445
+Ready to receive neural engrams.
+(electronic chirping)
+
+487
+00:19:52,400 --> 00:19:56,445
+Ready to receive neural engrams.
+(electronic chirping)
+
+488
+00:20:19,009 --> 00:20:20,719
+NAREK:
+The tower's almost active.
+
+489
+00:20:20,719 --> 00:20:21,971
+We need to get
+a clear line of sight
+
+490
+00:20:21,971 --> 00:20:23,931
+on the superluminal tuner
+at the base.
+
+491
+00:20:23,931 --> 00:20:26,642
+RAFFI:
+How are we gonna get up there
+without being seen?
+
+492
+00:20:23,931 --> 00:20:26,642
+RAFFI:
+How are we gonna get up there
+without being seen?
+
+493
+00:20:26,642 --> 00:20:28,477
+An excellent question.
+
+494
+00:20:32,481 --> 00:20:34,483
+JURATI: <i>I guess they
+went looking for us?</i>
+
+495
+00:20:34,483 --> 00:20:35,651
+We'll worry about that later.
+
+496
+00:20:35,651 --> 00:20:37,153
+Status report on the Romulans.
+
+497
+00:20:35,651 --> 00:20:37,153
+Status report on the Romulans.
+
+498
+00:20:37,153 --> 00:20:39,196
+Uh...
+
+499
+00:20:37,153 --> 00:20:39,196
+Come on, Doctor.
+
+500
+00:20:42,741 --> 00:20:45,953
+Uh, the attack wing is
+seven minutes from planetfall.
+
+501
+00:20:45,953 --> 00:20:47,496
+Any sign of Starfleet?
+
+502
+00:20:47,496 --> 00:20:49,790
+No, but even if your
+message got through,
+
+503
+00:20:47,496 --> 00:20:49,790
+No, but even if your
+message got through,
+
+504
+00:20:49,790 --> 00:20:51,333
+they'd still be
+behind the Romulans.
+
+505
+00:20:51,333 --> 00:20:54,044
+We've got to find a way
+to stall them somehow.
+
+506
+00:20:51,333 --> 00:20:54,044
+We've got to find a way
+to stall them somehow.
+
+507
+00:20:54,044 --> 00:20:56,630
+And, of course, hope that
+the Federation arrives.
+
+508
+00:20:56,630 --> 00:20:58,674
+Yeah? And then?
+
+509
+00:20:58,674 --> 00:21:01,385
+I mean, say we do find a way
+to hold off the Romulans.
+
+510
+00:20:58,674 --> 00:21:01,385
+I mean, say we do find a way
+to hold off the Romulans.
+
+511
+00:21:01,385 --> 00:21:02,761
+We save Soji.
+
+512
+00:21:02,761 --> 00:21:04,972
+Now she and the golden children
+are free to call up
+
+513
+00:21:04,972 --> 00:21:07,516
+the uber-synths,
+and then vapor and ash.
+
+514
+00:21:04,972 --> 00:21:07,516
+the uber-synths,
+and then vapor and ash.
+
+515
+00:21:07,516 --> 00:21:09,768
+A galactic-level biocidal event.
+
+516
+00:21:09,768 --> 00:21:11,395
+Well, clearly,
+we've got to stop them, too!
+
+517
+00:21:11,395 --> 00:21:13,063
+They've left us behind, Picard.
+
+518
+00:21:11,395 --> 00:21:13,063
+They've left us behind, Picard.
+
+519
+00:21:13,063 --> 00:21:14,857
+They're generations beyond us.
+
+520
+00:21:14,857 --> 00:21:16,859
+In one sense, yes.
+
+521
+00:21:16,859 --> 00:21:20,613
+But in another, as you said,
+they are children.
+
+522
+00:21:16,859 --> 00:21:20,613
+But in another, as you said,
+they are children.
+
+523
+00:21:20,613 --> 00:21:22,364
+And until now,
+the only teachers
+
+524
+00:21:22,364 --> 00:21:24,533
+that they've had
+are a couple of hermits.
+
+525
+00:21:22,364 --> 00:21:24,533
+that they've had
+are a couple of hermits.
+
+526
+00:21:24,533 --> 00:21:26,368
+And the fear of extermination.
+
+527
+00:21:26,368 --> 00:21:29,622
+But fear is
+an incompetent teacher.
+
+528
+00:21:29,622 --> 00:21:32,041
+Yes. They have life.
+
+529
+00:21:29,622 --> 00:21:32,041
+Yes. They have life.
+
+530
+00:21:32,041 --> 00:21:35,377
+But no one is teaching them
+what it's for.
+
+531
+00:21:35,377 --> 00:21:38,255
+To be alive is a responsibility.
+
+532
+00:21:35,377 --> 00:21:38,255
+To be alive is a responsibility.
+
+533
+00:21:38,255 --> 00:21:40,549
+As well as a right.
+
+534
+00:21:38,255 --> 00:21:40,549
+How are they
+
+535
+00:21:40,549 --> 00:21:42,426
+supposed to learn
+that lesson in...
+
+536
+00:21:40,549 --> 00:21:42,426
+supposed to learn
+that lesson in...
+
+537
+00:21:42,426 --> 00:21:44,720
+six minutes and 11 seconds?
+
+538
+00:21:44,720 --> 00:21:47,014
+The way that children
+learn most things.
+
+539
+00:21:49,892 --> 00:21:51,852
+By example.
+
+540
+00:21:51,852 --> 00:21:54,438
+Now...
+
+541
+00:21:51,852 --> 00:21:54,438
+Now...
+
+542
+00:21:54,438 --> 00:21:58,359
+let's see how closely
+I was watching Rios.
+
+543
+00:21:58,359 --> 00:22:01,237
+(whirring)
+
+544
+00:21:58,359 --> 00:22:01,237
+(whirring)
+
+545
+00:22:06,283 --> 00:22:07,868
+All right.
+
+546
+00:22:08,911 --> 00:22:10,287
+Make it so.
+
+547
+00:22:25,135 --> 00:22:26,762
+SUTRA:
+Brothers and sisters,
+
+548
+00:22:26,762 --> 00:22:29,306
+as soon as the beacon is
+at full capacity,
+
+549
+00:22:29,306 --> 00:22:32,434
+we will begin transmitting.
+And once the signal is received,
+
+550
+00:22:29,306 --> 00:22:32,434
+we will begin transmitting.
+And once the signal is received,
+
+551
+00:22:32,434 --> 00:22:33,602
+a portal will open
+
+552
+00:22:33,602 --> 00:22:35,437
+and our liberators will be here
+
+553
+00:22:35,437 --> 00:22:37,439
+nearly instantaneously.
+
+554
+00:22:35,437 --> 00:22:37,439
+nearly instantaneously.
+
+555
+00:22:37,439 --> 00:22:39,275
+(exhales)
+And then we'll be free.
+
+556
+00:22:41,694 --> 00:22:43,070
+Watch them.
+
+557
+00:22:41,694 --> 00:22:43,070
+Watch them.
+
+558
+00:22:53,122 --> 00:22:55,624
+I wanted to return this to you.
+
+559
+00:22:53,122 --> 00:22:55,624
+I wanted to return this to you.
+
+560
+00:22:57,126 --> 00:22:59,128
+You reasoned correctly
+
+561
+00:22:59,128 --> 00:23:01,422
+that your fellow synthetics
+needed persuading.
+
+562
+00:22:59,128 --> 00:23:01,422
+that your fellow synthetics
+needed persuading.
+
+563
+00:23:01,422 --> 00:23:04,967
+An emotional jolt to drive them
+to the decision
+
+564
+00:23:04,967 --> 00:23:06,468
+you wanted them to make.
+
+565
+00:23:04,967 --> 00:23:06,468
+you wanted them to make.
+
+566
+00:23:06,468 --> 00:23:07,928
+To build the beacon.
+
+567
+00:23:07,928 --> 00:23:10,723
+I'm glad you see the
+reason behind my actions.
+
+568
+00:23:10,723 --> 00:23:12,141
+I do.
+
+569
+00:23:10,723 --> 00:23:12,141
+I do.
+
+570
+00:23:13,976 --> 00:23:15,644
+But reason isn't everything.
+
+571
+00:23:15,644 --> 00:23:18,814
+How could you help that Romulan
+kill your sister?
+
+572
+00:23:15,644 --> 00:23:18,814
+How could you help that Romulan
+kill your sister?
+
+573
+00:23:18,814 --> 00:23:21,650
+I thought I taught you
+better than this.
+
+574
+00:23:24,194 --> 00:23:26,655
+Turns out...
+
+575
+00:23:26,655 --> 00:23:29,158
+you're no better than we are.
+
+576
+00:23:32,161 --> 00:23:34,371
+(whistles)
+
+577
+00:23:43,964 --> 00:23:45,466
+Ah, come on.
+
+578
+00:23:45,466 --> 00:23:47,551
+Move, mija, move.
+
+579
+00:23:49,303 --> 00:23:51,180
+JURATI:
+So, how do we hold off
+
+580
+00:23:51,180 --> 00:23:53,849
+218 Warbirds till Starfleet
+gets here?
+
+581
+00:23:53,849 --> 00:23:55,809
+If they get here.
+
+582
+00:23:53,849 --> 00:23:55,809
+If they get here.
+
+583
+00:23:57,686 --> 00:24:00,397
+Are you not answering
+to build suspense, or...?
+
+584
+00:23:57,686 --> 00:24:00,397
+Are you not answering
+to build suspense, or...?
+
+585
+00:24:00,397 --> 00:24:03,025
+At the present moment,
+Dr. Jurati,
+
+586
+00:24:03,025 --> 00:24:04,777
+I am trying to pilot a starship
+
+587
+00:24:04,777 --> 00:24:07,196
+for the first time
+in a very long time,
+
+588
+00:24:04,777 --> 00:24:07,196
+for the first time
+in a very long time,
+
+589
+00:24:07,196 --> 00:24:10,199
+without exploding or crashing!
+
+590
+00:24:10,199 --> 00:24:11,992
+If that is all right with you.
+
+591
+00:24:11,992 --> 00:24:13,661
+No, totally, good call.
+
+592
+00:24:11,992 --> 00:24:13,661
+No, totally, good call.
+
+593
+00:24:13,661 --> 00:24:15,829
+One impossible thing at a time.
+
+594
+00:24:23,712 --> 00:24:25,506
+(grunting) Soji!
+
+595
+00:24:23,712 --> 00:24:25,506
+(grunting) Soji!
+
+596
+00:24:25,506 --> 00:24:27,800
+Please!
+You don't have to do this!
+
+597
+00:24:27,800 --> 00:24:30,052
+Soji! Please!
+
+598
+00:24:27,800 --> 00:24:30,052
+Soji! Please!
+
+599
+00:24:30,052 --> 00:24:31,845
+You're making a mistake!
+
+600
+00:24:35,224 --> 00:24:36,892
+(beeping rapidly)
+
+601
+00:24:35,224 --> 00:24:36,892
+(beeping rapidly)
+
+602
+00:24:41,230 --> 00:24:42,606
+(beeping accelerating)
+
+603
+00:24:41,230 --> 00:24:42,606
+(beeping accelerating)
+
+604
+00:24:49,238 --> 00:24:50,614
+Soji!
+
+605
+00:24:50,614 --> 00:24:53,075
+(grunting)
+
+606
+00:24:55,994 --> 00:24:57,913
+COMPUTER VOICE:
+Launch detected.
+
+607
+00:24:57,913 --> 00:25:00,165
+Attempting to acquire
+weapons lock.
+
+608
+00:24:57,913 --> 00:25:00,165
+Attempting to acquire
+weapons lock.
+
+609
+00:25:03,085 --> 00:25:05,254
+Drop your weapon.
+
+610
+00:25:05,254 --> 00:25:06,755
+Over the edge.
+
+611
+00:25:05,254 --> 00:25:06,755
+Over the edge.
+
+612
+00:25:08,924 --> 00:25:10,426
+Step away from the console.
+
+613
+00:25:12,594 --> 00:25:14,263
+I'm unarmed.
+
+614
+00:25:12,594 --> 00:25:14,263
+Oh.
+
+615
+00:25:14,263 --> 00:25:17,766
+I seriously doubt that.
+
+616
+00:25:17,766 --> 00:25:19,935
+You know, you're rather pretty.
+
+617
+00:25:17,766 --> 00:25:19,935
+You know, you're rather pretty.
+
+618
+00:25:19,935 --> 00:25:21,478
+Or would be.
+
+619
+00:25:21,478 --> 00:25:23,897
+If you weren't
+a disgusting half-meat.
+
+620
+00:25:23,897 --> 00:25:25,566
+(grunting)
+
+621
+00:25:23,897 --> 00:25:25,566
+(grunting)
+
+622
+00:25:36,785 --> 00:25:38,036
+Incoming warp signatures.
+
+623
+00:25:38,036 --> 00:25:40,080
+Wouldn't happen
+to be Starfleet, would it?
+
+624
+00:25:48,297 --> 00:25:51,925
+ROMULAN OFFICER:
+General, they appear to be
+concentrated in one settlement.
+
+625
+00:25:51,925 --> 00:25:54,970
+Sterilize the entire planet.
+
+626
+00:25:51,925 --> 00:25:54,970
+Sterilize the entire planet.
+
+627
+00:25:54,970 --> 00:25:57,264
+(alarm blaring)
+
+628
+00:26:10,903 --> 00:26:12,988
+Here come the orchids.
+
+629
+00:26:10,903 --> 00:26:12,988
+Here come the orchids.
+
+630
+00:26:12,988 --> 00:26:14,990
+Let's see how much time
+they can buy us.
+
+631
+00:26:34,176 --> 00:26:36,929
+(grunting)
+
+632
+00:26:34,176 --> 00:26:36,929
+(grunting)
+
+633
+00:26:41,683 --> 00:26:44,645
+Sad Queen Annika.
+
+634
+00:26:41,683 --> 00:26:44,645
+Sad Queen Annika.
+
+635
+00:26:44,645 --> 00:26:45,687
+Six years old,
+
+636
+00:26:45,687 --> 00:26:48,482
+and all she got for her birthday
+was assimilated.
+
+637
+00:26:45,687 --> 00:26:48,482
+and all she got for her birthday
+was assimilated.
+
+638
+00:26:48,482 --> 00:26:49,691
+(grunts)
+
+639
+00:26:49,691 --> 00:26:50,859
+(beeping)
+
+640
+00:26:53,529 --> 00:26:55,656
+(beeping continues)
+
+641
+00:26:53,529 --> 00:26:55,656
+(beeping continues)
+
+642
+00:26:59,201 --> 00:27:01,537
+Why didn't you just
+put a phaser to your head
+
+643
+00:26:59,201 --> 00:27:01,537
+Why didn't you just
+put a phaser to your head
+
+644
+00:27:01,537 --> 00:27:02,955
+and get it over with?
+
+645
+00:27:02,955 --> 00:27:05,165
+Because I still had this
+to live for.
+
+646
+00:27:05,165 --> 00:27:06,542
+This...
+
+647
+00:27:05,165 --> 00:27:06,542
+This...
+
+648
+00:27:06,542 --> 00:27:08,877
+is for Hugh.
+(screaming)
+
+649
+00:27:33,527 --> 00:27:35,404
+Now might be a good time
+to reveal the secret plan.
+
+650
+00:27:37,239 --> 00:27:38,866
+Once these orchids have had it,
+
+651
+00:27:38,866 --> 00:27:40,325
+there will still be
+200 Romulan warships
+
+652
+00:27:40,325 --> 00:27:41,743
+and only one of us.
+
+653
+00:27:41,743 --> 00:27:43,453
+If you figure out a way
+to get us out of this one,
+
+654
+00:27:41,743 --> 00:27:43,453
+If you figure out a way
+to get us out of this one,
+
+655
+00:27:43,453 --> 00:27:45,330
+they'll name it after you.
+
+656
+00:27:45,330 --> 00:27:46,999
+Picard Maneuver.
+
+657
+00:27:46,999 --> 00:27:49,459
+Wait, no, t-- No, that's
+actually a thing, isn't it?
+
+658
+00:27:46,999 --> 00:27:49,459
+Wait, no, t-- No, that's
+actually a thing, isn't it?
+
+659
+00:27:49,459 --> 00:27:51,587
+You made it look
+
+660
+00:27:51,587 --> 00:27:53,589
+like the Enterprise was
+in two places at once.
+
+661
+00:27:53,589 --> 00:27:54,798
+It was the Stargazer,
+
+662
+00:27:53,589 --> 00:27:54,798
+It was the Stargazer,
+
+663
+00:27:54,798 --> 00:27:57,175
+and it was a long time ago.
+
+664
+00:27:57,175 --> 00:27:59,928
+It would be useless
+against so many enemy vessels.
+
+665
+00:28:04,391 --> 00:28:07,185
+We'd have to multiply
+the sensor images
+
+666
+00:28:04,391 --> 00:28:07,185
+We'd have to multiply
+the sensor images
+
+667
+00:28:07,185 --> 00:28:10,188
+and then find some way
+to disperse them.
+
+668
+00:28:10,188 --> 00:28:13,191
+Like an ancient warplane
+scattering bits of mirror
+
+669
+00:28:10,188 --> 00:28:13,191
+Like an ancient warplane
+scattering bits of mirror
+
+670
+00:28:13,191 --> 00:28:14,610
+to overwhelm
+a radar system.
+
+671
+00:28:14,610 --> 00:28:16,278
+Yeah, how the hell
+will we do that?
+
+672
+00:28:16,278 --> 00:28:18,363
+If only we had some kind
+
+673
+00:28:16,278 --> 00:28:18,363
+If only we had some kind
+
+674
+00:28:18,363 --> 00:28:20,032
+of wacky fundamental
+field replicator
+
+675
+00:28:20,032 --> 00:28:22,409
+with a neurocotamic interface.
+
+676
+00:28:23,660 --> 00:28:25,662
+(echoing):
+Look at my face.
+
+677
+00:28:23,660 --> 00:28:25,662
+(echoing):
+Look at my face.
+
+678
+00:28:34,254 --> 00:28:35,631
+Picard, what are you doing?
+
+679
+00:28:35,631 --> 00:28:37,966
+Soji, I want you to reconsider
+
+680
+00:28:35,631 --> 00:28:37,966
+Soji, I want you to reconsider
+
+681
+00:28:37,966 --> 00:28:40,969
+your present course of action
+and power down the beacon.
+
+682
+00:28:40,969 --> 00:28:42,679
+You know that's not
+going to happen.
+
+683
+00:28:40,969 --> 00:28:42,679
+You know that's not
+going to happen.
+
+684
+00:28:42,679 --> 00:28:44,306
+I... have something
+
+685
+00:28:44,306 --> 00:28:46,475
+I want to give you
+and your people.
+
+686
+00:28:46,475 --> 00:28:50,062
+And... I hope it will
+change your mind.
+
+687
+00:28:46,475 --> 00:28:50,062
+And... I hope it will
+change your mind.
+
+688
+00:28:52,064 --> 00:28:53,690
+And what's that?
+
+689
+00:28:54,775 --> 00:28:56,234
+My life.
+
+690
+00:28:56,234 --> 00:28:57,819
+Picard out.
+
+691
+00:29:06,078 --> 00:29:08,997
+(alert whooping)
+
+692
+00:29:10,999 --> 00:29:14,670
+OFFICER:
+<i>Orbital defenses
+neutralized, General.</i>
+
+693
+00:29:10,999 --> 00:29:14,670
+OFFICER:
+<i>Orbital defenses
+neutralized, General.</i>
+
+694
+00:29:14,670 --> 00:29:19,257
+All ships, target
+the abomination's nest.
+
+695
+00:29:14,670 --> 00:29:19,257
+All ships, target
+the abomination's nest.
+
+696
+00:29:23,679 --> 00:29:27,557
+Ready? And they'll all have
+warp signatures?
+
+697
+00:29:23,679 --> 00:29:27,557
+Ready? And they'll all have
+warp signatures?
+
+698
+00:29:27,557 --> 00:29:28,892
+On my mark.
+
+699
+00:29:34,147 --> 00:29:36,191
+What is that?
+
+700
+00:29:34,147 --> 00:29:36,191
+What is that?
+
+701
+00:29:36,191 --> 00:29:37,651
+OFFICER:
+Unknown vessel.
+
+702
+00:29:37,651 --> 00:29:38,819
+Scanning now.
+
+703
+00:29:42,030 --> 00:29:43,699
+Ignore it.
+
+704
+00:29:43,699 --> 00:29:47,703
+Ready planetary sterilization
+pattern number five.
+
+705
+00:29:47,703 --> 00:29:49,204
+Agnes, now.
+
+706
+00:29:47,703 --> 00:29:49,204
+Agnes, now.
+
+707
+00:29:49,204 --> 00:29:50,664
+Now, now!
+
+708
+00:29:59,381 --> 00:30:01,133
+General, there are
+hundreds of them.
+
+709
+00:29:59,381 --> 00:30:01,133
+General, there are
+hundreds of them.
+
+710
+00:30:01,133 --> 00:30:04,469
+Reposition disruptors.
+Engage them.
+
+711
+00:30:17,566 --> 00:30:19,026
+(metal creaking)
+
+712
+00:30:17,566 --> 00:30:19,026
+(metal creaking)
+
+713
+00:30:20,402 --> 00:30:21,570
+No!
+
+714
+00:30:32,414 --> 00:30:34,374
+(high-pitched ringing)
+
+715
+00:30:34,374 --> 00:30:36,043
+(heart beating)
+
+716
+00:30:34,374 --> 00:30:36,043
+(heart beating)
+
+717
+00:30:36,043 --> 00:30:38,045
+(panting)
+
+718
+00:30:38,045 --> 00:30:40,422
+(echoing):
+Picard, are you
+all right?
+
+719
+00:30:40,422 --> 00:30:41,715
+(beeping)
+
+720
+00:30:41,715 --> 00:30:43,759
+Oh, no.
+
+721
+00:30:41,715 --> 00:30:43,759
+Oh, no.
+
+722
+00:31:03,779 --> 00:31:05,280
+They have activated the beacon.
+
+723
+00:31:05,280 --> 00:31:07,908
+Resume sterilization
+targeting pattern.
+
+724
+00:31:05,280 --> 00:31:07,908
+Resume sterilization
+targeting pattern.
+
+725
+00:31:11,078 --> 00:31:13,205
+On my command.
+
+726
+00:31:11,078 --> 00:31:13,205
+On my command.
+
+727
+00:31:26,802 --> 00:31:28,804
+They're here.
+
+728
+00:31:28,804 --> 00:31:30,806
+Admiral, you did it.
+
+729
+00:31:28,804 --> 00:31:30,806
+Admiral, you did it.
+
+730
+00:31:32,641 --> 00:31:33,809
+OFFICER:
+General,
+
+731
+00:31:33,809 --> 00:31:35,393
+their flagship
+is hailing us.
+
+732
+00:31:35,393 --> 00:31:37,479
+Acting Captain Will Riker
+
+733
+00:31:35,393 --> 00:31:37,479
+Acting Captain Will Riker
+
+734
+00:31:37,479 --> 00:31:40,482
+in command of the USS <i>Zheng He.
+</i>And?
+
+735
+00:31:40,482 --> 00:31:42,317
+And it is my duty to inform you
+
+736
+00:31:40,482 --> 00:31:42,317
+And it is my duty to inform you
+
+737
+00:31:42,317 --> 00:31:44,152
+that the United Federation
+of Planets has designated
+
+738
+00:31:44,152 --> 00:31:46,863
+Planet Ghulion IV
+in the Vayt Sector
+
+739
+00:31:46,863 --> 00:31:49,616
+as under the protection
+of Starfleet.
+
+740
+00:31:46,863 --> 00:31:49,616
+as under the protection
+of Starfleet.
+
+741
+00:31:49,616 --> 00:31:51,993
+According to the terms
+of the Treaty of Algeron.
+
+742
+00:31:51,993 --> 00:31:55,872
+Too late. Our claim to this
+world takes precedence.
+
+743
+00:31:51,993 --> 00:31:55,872
+Too late. Our claim to this
+world takes precedence.
+
+744
+00:31:55,872 --> 00:31:57,624
+Move aside.
+Afraid not.
+
+745
+00:31:57,624 --> 00:32:02,337
+I have a priority request
+to open diplomatic negotiations
+
+746
+00:31:57,624 --> 00:32:02,337
+I have a priority request
+to open diplomatic negotiations
+
+747
+00:32:02,337 --> 00:32:05,841
+and protection for
+the inhabitants of Ghulion IV.
+
+748
+00:32:05,841 --> 00:32:07,843
+RIKER:
+General or Commodore
+
+749
+00:32:05,841 --> 00:32:07,843
+RIKER:
+General or Commodore
+
+750
+00:32:07,843 --> 00:32:09,678
+or whatever
+you're calling yourself,
+
+751
+00:32:09,678 --> 00:32:12,347
+right now I'm on the bridge
+of the toughest, fastest,
+
+752
+00:32:09,678 --> 00:32:12,347
+right now I'm on the bridge
+of the toughest, fastest,
+
+753
+00:32:12,347 --> 00:32:16,184
+most powerful ship Starfleet
+has ever put into service.
+
+754
+00:32:16,184 --> 00:32:18,145
+And I've got a fleet
+of them at my back.
+
+755
+00:32:16,184 --> 00:32:18,145
+And I've got a fleet
+of them at my back.
+
+756
+00:32:18,145 --> 00:32:20,647
+We've got our phasers locked
+on your warp course.
+
+757
+00:32:20,647 --> 00:32:23,859
+And nothing would make me
+happier than you giving me
+
+758
+00:32:23,859 --> 00:32:28,196
+an excuse to kick
+your treacherous Tal Shiar ass.
+
+759
+00:32:23,859 --> 00:32:28,196
+an excuse to kick
+your treacherous Tal Shiar ass.
+
+760
+00:32:28,196 --> 00:32:32,701
+But instead,
+I'm going to ask you one time
+
+761
+00:32:28,196 --> 00:32:32,701
+But instead,
+I'm going to ask you one time
+
+762
+00:32:32,701 --> 00:32:34,870
+to stand down.
+
+763
+00:32:37,164 --> 00:32:39,541
+OFFICER:
+General. Your orders?
+
+764
+00:32:39,541 --> 00:32:42,210
+Retarget weapons systems.
+
+765
+00:32:39,541 --> 00:32:42,210
+Retarget weapons systems.
+
+766
+00:32:42,210 --> 00:32:44,212
+Prepare to fight.
+
+767
+00:32:56,892 --> 00:32:59,477
+Weapons hot, deflectors to full.
+
+768
+00:33:06,735 --> 00:33:08,862
+(faint trilling)
+
+769
+00:33:10,488 --> 00:33:12,699
+Picard?
+
+770
+00:33:10,488 --> 00:33:12,699
+Picard?
+
+771
+00:33:12,699 --> 00:33:14,910
+(grunting)
+
+772
+00:33:14,910 --> 00:33:16,912
+(trilling stops)
+
+773
+00:33:19,414 --> 00:33:20,916
+I know.
+
+774
+00:33:20,916 --> 00:33:22,918
+(panting)
+
+775
+00:33:24,085 --> 00:33:25,545
+(mutters)
+
+776
+00:33:40,936 --> 00:33:42,145
+I have to speak
+
+777
+00:33:40,936 --> 00:33:42,145
+I have to speak
+
+778
+00:33:42,145 --> 00:33:44,397
+with Soji
+
+779
+00:33:44,397 --> 00:33:46,775
+on an open channel.
+
+780
+00:33:46,775 --> 00:33:48,693
+You're in no shape.
+
+781
+00:33:46,775 --> 00:33:48,693
+You're in no shape.
+
+782
+00:33:48,693 --> 00:33:51,947
+Get me some polisinephrine.
+
+783
+00:33:51,947 --> 00:33:53,573
+20cc.
+No.
+
+784
+00:33:53,573 --> 00:33:54,991
+I-I...
+It will only
+
+785
+00:33:53,573 --> 00:33:54,991
+I-I...
+It will only
+
+786
+00:33:54,991 --> 00:33:56,952
+hasten the inevitable.
+
+787
+00:33:58,411 --> 00:33:59,829
+Do it.
+
+788
+00:33:59,829 --> 00:34:01,164
+(sighs)
+
+789
+00:33:59,829 --> 00:34:01,164
+(sighs)
+
+790
+00:34:07,087 --> 00:34:08,922
+(exhales)
+
+791
+00:34:08,922 --> 00:34:10,757
+(pants softly)
+
+792
+00:34:10,757 --> 00:34:12,759
+Open the channel.
+
+793
+00:34:10,757 --> 00:34:12,759
+Open the channel.
+
+794
+00:34:12,759 --> 00:34:13,843
+Now.
+
+795
+00:34:15,136 --> 00:34:16,304
+Picard...
+
+796
+00:34:16,304 --> 00:34:18,848
+Soji. Please,
+
+797
+00:34:16,304 --> 00:34:18,848
+Soji. Please,
+
+798
+00:34:18,848 --> 00:34:20,642
+power down the beacon.
+
+799
+00:34:23,645 --> 00:34:27,607
+Show them how profoundly wrong
+they are about you.
+
+800
+00:34:23,645 --> 00:34:27,607
+Show them how profoundly wrong
+they are about you.
+
+801
+00:34:27,607 --> 00:34:30,986
+You're not the enemy.
+You're not the Destroyer.
+
+802
+00:34:27,607 --> 00:34:30,986
+You're not the enemy.
+You're not the Destroyer.
+
+803
+00:34:30,986 --> 00:34:32,612
+If that doesn't convince them,
+
+804
+00:34:32,612 --> 00:34:34,823
+then they will have to answer
+to the Federation.
+
+805
+00:34:34,823 --> 00:34:36,408
+The same Federation
+that banned us
+
+806
+00:34:34,823 --> 00:34:36,408
+The same Federation
+that banned us
+
+807
+00:34:36,408 --> 00:34:38,201
+and threw us on the scrap heap?
+
+808
+00:34:38,201 --> 00:34:40,996
+If we wanted
+to destroy you, Soji,
+
+809
+00:34:40,996 --> 00:34:42,872
+we would've joined forces
+with the Romulans.
+
+810
+00:34:40,996 --> 00:34:42,872
+we would've joined forces
+with the Romulans.
+
+811
+00:34:42,872 --> 00:34:45,500
+We would be training our phasers
+on you right now.
+
+812
+00:34:45,500 --> 00:34:47,043
+We aren't. We won't.
+
+813
+00:34:47,043 --> 00:34:48,962
+You know why?
+
+814
+00:34:47,043 --> 00:34:48,962
+You know why?
+
+815
+00:34:48,962 --> 00:34:53,049
+Because we trust you
+to make the right choice.
+
+816
+00:34:53,049 --> 00:34:56,636
+I trust you, Soji. I know you.
+
+817
+00:34:53,049 --> 00:34:56,636
+I trust you, Soji. I know you.
+
+818
+00:34:56,636 --> 00:34:59,806
+I believe in you.
+
+819
+00:35:01,766 --> 00:35:04,519
+That's why I saved your lives,
+
+820
+00:35:04,519 --> 00:35:08,023
+so that you could save ours
+in return.
+
+821
+00:35:04,519 --> 00:35:08,023
+so that you could save ours
+in return.
+
+822
+00:35:08,023 --> 00:35:10,066
+That's the whole point.
+
+823
+00:35:10,066 --> 00:35:12,652
+That's why we're here.
+
+824
+00:35:10,066 --> 00:35:12,652
+That's why we're here.
+
+825
+00:35:12,652 --> 00:35:15,030
+To save each other.
+
+826
+00:35:43,183 --> 00:35:45,185
+♪ ♪
+
+827
+00:35:47,562 --> 00:35:50,690
+OFFICER: They
+destroyed the beacon.
+
+828
+00:35:47,562 --> 00:35:50,690
+OFFICER: They
+destroyed the beacon.
+
+829
+00:35:50,690 --> 00:35:53,026
+What are your orders?
+
+830
+00:35:57,280 --> 00:36:00,200
+Captain, it looks like the
+Romulans are standing down.
+
+831
+00:35:57,280 --> 00:36:00,200
+Captain, it looks like the
+Romulans are standing down.
+
+832
+00:36:00,200 --> 00:36:03,495
+Excellent decision.
+Stand down from red alert.
+
+833
+00:36:03,495 --> 00:36:06,915
+Now prepare to be escorted
+out of Federation space.
+
+834
+00:36:03,495 --> 00:36:06,915
+Now prepare to be escorted
+out of Federation space.
+
+835
+00:36:06,915 --> 00:36:08,750
+That won't be necessary.
+
+836
+00:36:08,750 --> 00:36:11,252
+Really, it's no trouble at all.
+
+837
+00:36:18,843 --> 00:36:20,261
+Will.
+
+838
+00:36:20,261 --> 00:36:22,555
+How the...
+When I heard
+you sent an SOS,
+
+839
+00:36:22,555 --> 00:36:24,432
+I asked for temporary
+reassignment.
+
+840
+00:36:22,555 --> 00:36:24,432
+I asked for temporary
+reassignment.
+
+841
+00:36:24,432 --> 00:36:26,976
+Just because I didn't try
+to talk you out of it
+
+842
+00:36:26,976 --> 00:36:29,771
+didn't mean I was gonna
+let you go it alone.
+
+843
+00:36:29,771 --> 00:36:31,940
+I'm supposed to sit around
+in the woods making pizza
+
+844
+00:36:29,771 --> 00:36:31,940
+I'm supposed to sit around
+in the woods making pizza
+
+845
+00:36:31,940 --> 00:36:33,858
+while you have all the fun?
+
+846
+00:36:33,858 --> 00:36:36,319
+Admiral Picard...
+(chuckles)
+
+847
+00:36:33,858 --> 00:36:36,319
+Admiral Picard...
+(chuckles)
+
+848
+00:36:36,319 --> 00:36:39,948
+...I leave this situation
+in your capable hands.
+
+849
+00:36:39,948 --> 00:36:44,786
+Thank you, Will,
+for always having my back.
+
+850
+00:36:39,948 --> 00:36:44,786
+Thank you, Will,
+for always having my back.
+
+851
+00:36:45,870 --> 00:36:48,123
+I learned from the best.
+
+852
+00:36:45,870 --> 00:36:48,123
+I learned from the best.
+
+853
+00:36:50,125 --> 00:36:52,127
+I've got it from here.
+
+854
+00:36:52,127 --> 00:36:54,796
+I'll see you around, my friend.
+Riker out.
+
+855
+00:36:52,127 --> 00:36:54,796
+I'll see you around, my friend.
+Riker out.
+
+856
+00:37:00,969 --> 00:37:02,971
+Adieu.
+
+857
+00:37:08,476 --> 00:37:10,770
+(grunts softly)
+
+858
+00:37:10,770 --> 00:37:12,647
+JURATI (echoes):
+Picard.
+
+859
+00:37:10,770 --> 00:37:12,647
+JURATI (echoes):
+Picard.
+
+860
+00:37:19,737 --> 00:37:22,323
+(exhales)
+
+861
+00:37:22,323 --> 00:37:23,825
+(grunting, groaning)
+
+862
+00:37:23,825 --> 00:37:25,326
+Doctor...
+
+863
+00:37:23,825 --> 00:37:25,326
+Doctor...
+
+864
+00:37:25,326 --> 00:37:26,953
+Picard!
+
+865
+00:37:26,953 --> 00:37:28,955
+Picard.
+
+866
+00:37:28,955 --> 00:37:31,583
+DATA:
+<i>Would you like
+to finish it, Captain?</i>
+
+867
+00:37:28,955 --> 00:37:31,583
+DATA:
+<i>Would you like
+to finish it, Captain?</i>
+
+868
+00:37:31,583 --> 00:37:33,001
+No.
+
+869
+00:37:33,001 --> 00:37:36,796
+PICARD:
+I don't want the game to end.
+
+870
+00:37:33,001 --> 00:37:36,796
+PICARD:
+I don't want the game to end.
+
+871
+00:37:36,796 --> 00:37:38,840
+Picard!
+
+872
+00:37:38,840 --> 00:37:41,009
+Goddamn it!
+
+873
+00:37:41,009 --> 00:37:44,012
+It's all right.
+
+874
+00:37:41,009 --> 00:37:44,012
+It's all right.
+
+875
+00:37:44,012 --> 00:37:46,806
+Wait, what-what's happening?
+W-What's wrong with him?
+
+876
+00:37:46,806 --> 00:37:48,641
+His brain abnormality.
+He's failing.
+
+877
+00:37:46,806 --> 00:37:48,641
+His brain abnormality.
+He's failing.
+
+878
+00:37:48,641 --> 00:37:50,143
+Uh, can't you get him
+to the med lab
+
+879
+00:37:50,143 --> 00:37:52,020
+or a sick bay
+on one of your ships?
+
+880
+00:37:52,020 --> 00:37:56,024
+There's no point,
+is there, Doctor?
+
+881
+00:37:52,020 --> 00:37:56,024
+There's no point,
+is there, Doctor?
+
+882
+00:37:57,233 --> 00:37:59,360
+No.
+
+883
+00:37:59,360 --> 00:38:00,987
+I'm dropping
+the transporter block.
+
+884
+00:37:59,360 --> 00:38:00,987
+I'm dropping
+the transporter block.
+
+885
+00:38:00,987 --> 00:38:02,864
+I'll beam you guys right here.
+
+886
+00:38:10,705 --> 00:38:12,540
+No.
+PICARD:
+Ah, it's all right.
+
+887
+00:38:10,705 --> 00:38:12,540
+No.
+PICARD:
+Ah, it's all right.
+
+888
+00:38:12,540 --> 00:38:14,042
+It's all right.
+
+889
+00:38:14,042 --> 00:38:17,545
+No.
+What did you just do?
+
+890
+00:38:17,545 --> 00:38:20,173
+I gave you a choice.
+
+891
+00:38:17,545 --> 00:38:20,173
+I gave you a choice.
+
+892
+00:38:20,173 --> 00:38:24,886
+Not being the Destroyer
+was up to you.
+
+893
+00:38:20,173 --> 00:38:24,886
+Not being the Destroyer
+was up to you.
+
+894
+00:38:24,886 --> 00:38:28,223
+It always was.
+
+895
+00:38:39,234 --> 00:38:40,902
+Elnor.
+
+896
+00:38:59,128 --> 00:39:00,672
+Raffi.
+
+897
+00:38:59,128 --> 00:39:00,672
+Raffi.
+
+898
+00:39:00,672 --> 00:39:03,049
+Yes, JL? I'm right here.
+
+899
+00:39:03,049 --> 00:39:06,094
+You were quite right.
+
+900
+00:39:03,049 --> 00:39:06,094
+You were quite right.
+
+901
+00:39:06,094 --> 00:39:08,263
+A-About what, JL?
+
+902
+00:39:13,101 --> 00:39:14,269
+JL...
+
+903
+00:39:17,897 --> 00:39:20,483
+(Raffi sobs)
+
+904
+00:39:17,897 --> 00:39:20,483
+(Raffi sobs)
+
+905
+00:39:44,299 --> 00:39:46,301
+♪ ♪
+
+906
+00:39:52,140 --> 00:39:54,892
+(sniffles)
+
+907
+00:39:52,140 --> 00:39:54,892
+(sniffles)
+
+908
+00:40:02,317 --> 00:40:04,819
+You heard?
+
+909
+00:40:04,819 --> 00:40:06,821
+Just now.
+
+910
+00:40:04,819 --> 00:40:06,821
+Just now.
+
+911
+00:40:08,156 --> 00:40:10,533
+Yeah. That's what passes
+for alcohol here.
+
+912
+00:40:11,993 --> 00:40:13,995
+I really don't recommend it.
+
+913
+00:40:11,993 --> 00:40:13,995
+I really don't recommend it.
+
+914
+00:40:20,001 --> 00:40:21,961
+(grunts)
+
+915
+00:40:24,631 --> 00:40:26,007
+I said I would never
+do it again
+
+916
+00:40:26,007 --> 00:40:28,176
+and then I fucking did it again.
+
+917
+00:40:29,552 --> 00:40:31,554
+Same.
+
+918
+00:40:29,552 --> 00:40:31,554
+Same.
+
+919
+00:40:33,306 --> 00:40:34,682
+Never again do what?
+
+920
+00:40:34,682 --> 00:40:36,517
+(laughs):
+Oh...
+
+921
+00:40:34,682 --> 00:40:36,517
+(laughs):
+Oh...
+
+922
+00:40:36,517 --> 00:40:37,685
+Mm.
+
+923
+00:40:40,021 --> 00:40:42,774
+So many things.
+
+924
+00:40:40,021 --> 00:40:42,774
+So many things.
+
+925
+00:40:42,774 --> 00:40:45,485
+But in this instance,
+
+926
+00:40:45,485 --> 00:40:51,199
+never again kill somebody just
+because it's what they deserve.
+
+927
+00:40:45,485 --> 00:40:51,199
+never again kill somebody just
+because it's what they deserve.
+
+928
+00:40:52,825 --> 00:40:57,664
+Just because it feels wrong
+for them to still be alive.
+
+929
+00:40:52,825 --> 00:40:57,664
+Just because it feels wrong
+for them to still be alive.
+
+930
+00:41:01,542 --> 00:41:03,544
+You?
+
+931
+00:41:04,879 --> 00:41:06,881
+(sniffles)
+
+932
+00:41:04,879 --> 00:41:06,881
+(sniffles)
+
+933
+00:41:09,509 --> 00:41:11,386
+Never again let another
+self-righteous,
+
+934
+00:41:11,386 --> 00:41:14,555
+hard-assed old starship
+captain into my heart.
+
+935
+00:41:11,386 --> 00:41:14,555
+hard-assed old starship
+captain into my heart.
+
+936
+00:41:14,555 --> 00:41:16,557
+(chuckles)
+
+937
+00:41:24,023 --> 00:41:27,235
+Never again have to stand
+there and watch him die.
+
+938
+00:41:28,903 --> 00:41:33,616
+Is there anything you could have
+done to prevent it?
+
+939
+00:41:28,903 --> 00:41:33,616
+Is there anything you could have
+done to prevent it?
+
+940
+00:41:36,869 --> 00:41:39,706
+No. I guess there wasn't.
+
+941
+00:41:39,706 --> 00:41:43,042
+Hmm. Then I win.
+
+942
+00:41:39,706 --> 00:41:43,042
+Hmm. Then I win.
+
+943
+00:42:09,736 --> 00:42:11,738
+♪ ♪
+
+944
+00:42:33,676 --> 00:42:35,678
+(sobbing)
+
+945
+00:42:39,891 --> 00:42:43,978
+It's okay.
+It's okay.
+
+946
+00:42:39,891 --> 00:42:43,978
+It's okay.
+It's okay.
+
+947
+00:42:43,978 --> 00:42:46,355
+Let it all out.
+
+948
+00:42:46,355 --> 00:42:48,900
+You cry.
+
+949
+00:42:46,355 --> 00:42:48,900
+You cry.
+
+950
+00:42:48,900 --> 00:42:51,360
+I got you.
+
+951
+00:42:51,360 --> 00:42:53,362
+(both crying)
+
+952
+00:43:13,090 --> 00:43:15,843
+♪ ♪
+
+953
+00:43:19,722 --> 00:43:24,268
+(sighs)
+Another damn dream.
+
+954
+00:43:19,722 --> 00:43:24,268
+(sighs)
+Another damn dream.
+
+955
+00:43:24,268 --> 00:43:25,520
+DATA:
+No, Captain.
+
+956
+00:43:27,980 --> 00:43:30,858
+It is a massively complex
+quantum simulation.
+
+957
+00:43:27,980 --> 00:43:30,858
+It is a massively complex
+quantum simulation.
+
+958
+00:43:30,858 --> 00:43:33,820
+I would imagine, however,
+
+959
+00:43:33,820 --> 00:43:35,655
+from your point of view,
+
+960
+00:43:35,655 --> 00:43:37,698
+hearing me say so
+would not be out of place
+
+961
+00:43:35,655 --> 00:43:37,698
+hearing me say so
+would not be out of place
+
+962
+00:43:37,698 --> 00:43:39,659
+in a dream you might have
+about me.
+
+963
+00:43:41,577 --> 00:43:45,122
+If you ever have
+dreams about me.
+
+964
+00:43:41,577 --> 00:43:45,122
+If you ever have
+dreams about me.
+
+965
+00:43:45,122 --> 00:43:47,333
+I dream about you
+all the time.
+
+966
+00:43:47,333 --> 00:43:50,503
+Interesting.
+
+967
+00:43:47,333 --> 00:43:50,503
+Interesting.
+
+968
+00:43:50,503 --> 00:43:52,880
+Are you wearing the clothes
+you had on when you died?
+
+969
+00:43:59,387 --> 00:44:01,848
+Data...
+
+970
+00:43:59,387 --> 00:44:01,848
+Data...
+
+971
+00:44:01,848 --> 00:44:03,766
+am I dead?
+
+972
+00:44:03,766 --> 00:44:06,394
+Yes, Captain.
+
+973
+00:44:03,766 --> 00:44:06,394
+Yes, Captain.
+
+974
+00:44:09,021 --> 00:44:11,357
+Do you remember dying?
+
+975
+00:44:11,357 --> 00:44:13,442
+I think I do.
+
+976
+00:44:11,357 --> 00:44:13,442
+I think I do.
+
+977
+00:44:13,442 --> 00:44:16,153
+Something in my head
+
+978
+00:44:16,153 --> 00:44:20,241
+seemed to just go away.
+
+979
+00:44:16,153 --> 00:44:20,241
+seemed to just go away.
+
+980
+00:44:20,241 --> 00:44:23,411
+Like a child's
+sand castle collapsing.
+
+981
+00:44:23,411 --> 00:44:25,580
+Hmm.
+
+982
+00:44:23,411 --> 00:44:25,580
+Hmm.
+
+983
+00:44:25,580 --> 00:44:30,251
+I'm aware that I
+was killed in 2379,
+
+984
+00:44:25,580 --> 00:44:30,251
+I'm aware that I
+was killed in 2379,
+
+985
+00:44:30,251 --> 00:44:33,004
+but I have no memory
+of my death.
+
+986
+00:44:33,004 --> 00:44:34,922
+My consciousness exists
+
+987
+00:44:34,922 --> 00:44:38,467
+in a massively complex
+quantum reconstruction,
+
+988
+00:44:34,922 --> 00:44:38,467
+in a massively complex
+quantum reconstruction,
+
+989
+00:44:38,467 --> 00:44:41,220
+made from a copy
+of the memories I downloaded
+
+990
+00:44:41,220 --> 00:44:43,389
+into B4, just before I died.
+
+991
+00:44:41,220 --> 00:44:43,389
+into B4, just before I died.
+
+992
+00:44:43,389 --> 00:44:47,226
+You don't remember your death?
+I can't forget it.
+
+993
+00:44:47,226 --> 00:44:50,938
+Apparently, I ended
+my existence
+
+994
+00:44:47,226 --> 00:44:50,938
+Apparently, I ended
+my existence
+
+995
+00:44:50,938 --> 00:44:53,232
+in the hope of
+prolonging yours.
+
+996
+00:44:53,232 --> 00:44:56,360
+That's right.
+Before I had even grasped
+
+997
+00:44:53,232 --> 00:44:56,360
+That's right.
+Before I had even grasped
+
+998
+00:44:56,360 --> 00:44:58,029
+the nature of our predicament,
+
+999
+00:44:58,029 --> 00:45:00,406
+you had conceived
+and executed it.
+
+1000
+00:44:58,029 --> 00:45:00,406
+you had conceived
+and executed it.
+
+1001
+00:45:00,406 --> 00:45:01,616
+I was furious.
+
+1002
+00:45:01,616 --> 00:45:03,826
+My apologies, Captain.
+
+1003
+00:45:03,826 --> 00:45:06,370
+But I am not certain
+I could have done otherwise.
+
+1004
+00:45:03,826 --> 00:45:06,370
+But I am not certain
+I could have done otherwise.
+
+1005
+00:45:06,370 --> 00:45:08,456
+True. That might have been
+
+1006
+00:45:08,456 --> 00:45:12,293
+the most Data thing
+you ever did.
+
+1007
+00:45:08,456 --> 00:45:12,293
+the most Data thing
+you ever did.
+
+1008
+00:45:12,293 --> 00:45:14,921
+I always wished
+that I could have said
+
+1009
+00:45:14,921 --> 00:45:19,842
+I was sorry that
+it was you and not me.
+
+1010
+00:45:14,921 --> 00:45:19,842
+I was sorry that
+it was you and not me.
+
+1011
+00:45:19,842 --> 00:45:24,805
+Captain, do you
+regret sacrificing
+
+1012
+00:45:19,842 --> 00:45:24,805
+Captain, do you
+regret sacrificing
+
+1013
+00:45:24,805 --> 00:45:26,974
+your life for Soji
+and her people?
+
+1014
+00:45:26,974 --> 00:45:28,142
+Not for an instant.
+
+1015
+00:45:28,142 --> 00:45:29,977
+Then why would you
+imagine I regret
+
+1016
+00:45:29,977 --> 00:45:32,480
+sacrificing mine for yours?
+
+1017
+00:45:29,977 --> 00:45:32,480
+sacrificing mine for yours?
+
+1018
+00:45:32,480 --> 00:45:35,650
+Ah.
+
+1019
+00:45:35,650 --> 00:45:39,236
+PICARD:
+Did you say all this
+was a simulation?
+
+1020
+00:45:35,650 --> 00:45:39,236
+PICARD:
+Did you say all this
+was a simulation?
+
+1021
+00:45:39,236 --> 00:45:42,281
+DATA:
+Yes, sir.
+An extremely sophisticated one.
+
+1022
+00:45:39,236 --> 00:45:42,281
+DATA:
+Yes, sir.
+An extremely sophisticated one.
+
+1023
+00:45:42,281 --> 00:45:44,700
+My memory
+engrams were extracted
+
+1024
+00:45:44,700 --> 00:45:48,120
+from a single neuron
+salvaged by Bruce Maddox,
+
+1025
+00:45:44,700 --> 00:45:48,120
+from a single neuron
+salvaged by Bruce Maddox,
+
+1026
+00:45:48,120 --> 00:45:51,707
+and then my consciousness was
+reconstructed by my brother,
+
+1027
+00:45:51,707 --> 00:45:53,501
+Dr. Altan Soong.
+
+1028
+00:45:53,501 --> 00:45:55,670
+I don't much care for him.
+
+1029
+00:45:53,501 --> 00:45:55,670
+I don't much care for him.
+
+1030
+00:45:55,670 --> 00:45:59,423
+Mm. The Soongs can be...
+
+1031
+00:45:59,423 --> 00:46:03,469
+I believe the phrase is
+"an acquired taste."
+
+1032
+00:45:59,423 --> 00:46:03,469
+I believe the phrase is
+"an acquired taste."
+
+1033
+00:46:03,469 --> 00:46:07,640
+Mm-hmm. Well, whatever this is,
+
+1034
+00:46:03,469 --> 00:46:07,640
+Mm-hmm. Well, whatever this is,
+
+1035
+00:46:07,640 --> 00:46:10,184
+it's wonderful to see you, Data.
+
+1036
+00:46:10,184 --> 00:46:13,980
+To see your strange,
+
+1037
+00:46:10,184 --> 00:46:13,980
+To see your strange,
+
+1038
+00:46:13,980 --> 00:46:15,982
+beautiful face.
+
+1039
+00:46:15,982 --> 00:46:20,903
+Among the many, many things
+that I regretted
+
+1040
+00:46:15,982 --> 00:46:20,903
+Among the many, many things
+that I regretted
+
+1041
+00:46:20,903 --> 00:46:22,279
+after your death
+
+1042
+00:46:22,279 --> 00:46:25,533
+was that I never told you...
+
+1043
+00:46:22,279 --> 00:46:25,533
+was that I never told you...
+
+1044
+00:46:26,534 --> 00:46:28,285
+That you loved me.
+
+1045
+00:46:33,374 --> 00:46:35,209
+Knowing that you loved me
+
+1046
+00:46:35,209 --> 00:46:39,213
+forms a small but
+statistically significant
+
+1047
+00:46:35,209 --> 00:46:39,213
+forms a small but
+statistically significant
+
+1048
+00:46:39,213 --> 00:46:41,674
+part of my memories.
+
+1049
+00:46:41,674 --> 00:46:43,843
+I hope that brings you
+some comfort, sir.
+
+1050
+00:46:41,674 --> 00:46:43,843
+I hope that brings you
+some comfort, sir.
+
+1051
+00:46:43,843 --> 00:46:46,053
+It does.
+
+1052
+00:46:46,053 --> 00:46:48,305
+Thank you, Data.
+
+1053
+00:46:46,053 --> 00:46:48,305
+Thank you, Data.
+
+1054
+00:46:48,305 --> 00:46:50,391
+Which is why I would like to
+ask you to do me a favor.
+
+1055
+00:46:50,391 --> 00:46:52,560
+Of course. Anything.
+
+1056
+00:46:52,560 --> 00:46:53,769
+When you leave...
+
+1057
+00:46:53,769 --> 00:46:55,730
+Leave?
+
+1058
+00:46:53,769 --> 00:46:55,730
+Leave?
+
+1059
+00:46:55,730 --> 00:46:57,189
+(stammers)
+
+1060
+00:46:57,189 --> 00:46:58,941
+I'm sorry,
+I-I don't understand.
+
+1061
+00:46:58,941 --> 00:47:01,068
+I thought this was
+a simulation.
+
+1062
+00:46:58,941 --> 00:47:01,068
+I thought this was
+a simulation.
+
+1063
+00:47:01,068 --> 00:47:02,570
+Yes, sir.
+
+1064
+00:47:02,570 --> 00:47:04,238
+But you are not.
+
+1065
+00:47:05,948 --> 00:47:08,034
+Before your brain
+functions ceased,
+
+1066
+00:47:05,948 --> 00:47:08,034
+Before your brain
+functions ceased,
+
+1067
+00:47:08,034 --> 00:47:11,412
+Doctors Soong and Jurati,
+with help from Soji,
+
+1068
+00:47:11,412 --> 00:47:14,165
+were able to scan,
+map and transfer
+
+1069
+00:47:11,412 --> 00:47:14,165
+were able to scan,
+map and transfer
+
+1070
+00:47:14,165 --> 00:47:17,376
+a complete neural image
+of your brain substrates.
+
+1071
+00:47:24,175 --> 00:47:25,926
+Do I have to go?
+
+1072
+00:47:25,926 --> 00:47:27,720
+Yes, Captain.
+
+1073
+00:47:39,607 --> 00:47:42,359
+Uh, you wanted me
+to do you a favor.
+
+1074
+00:47:39,607 --> 00:47:42,359
+Uh, you wanted me
+to do you a favor.
+
+1075
+00:47:42,359 --> 00:47:45,404
+Yes, sir.
+
+1076
+00:47:45,404 --> 00:47:49,241
+When you leave, I would be
+profoundly grateful
+
+1077
+00:47:45,404 --> 00:47:49,241
+When you leave, I would be
+profoundly grateful
+
+1078
+00:47:49,241 --> 00:47:52,203
+if you terminated
+my consciousness.
+
+1079
+00:47:54,288 --> 00:47:56,582
+You want to die?
+
+1080
+00:47:56,582 --> 00:48:00,461
+Not exactly, sir.
+
+1081
+00:47:56,582 --> 00:48:00,461
+Not exactly, sir.
+
+1082
+00:48:02,630 --> 00:48:05,633
+I want to live, however briefly,
+
+1083
+00:48:05,633 --> 00:48:08,260
+knowing that my life is finite.
+
+1084
+00:48:05,633 --> 00:48:08,260
+knowing that my life is finite.
+
+1085
+00:48:08,260 --> 00:48:11,555
+Mortality gives meaning
+
+1086
+00:48:11,555 --> 00:48:13,974
+to human life, Captain.
+
+1087
+00:48:11,555 --> 00:48:13,974
+to human life, Captain.
+
+1088
+00:48:13,974 --> 00:48:18,020
+Peace, love,
+
+1089
+00:48:13,974 --> 00:48:18,020
+Peace, love,
+
+1090
+00:48:18,020 --> 00:48:19,438
+friendship.
+
+1091
+00:48:19,438 --> 00:48:21,857
+These are precious.
+
+1092
+00:48:21,857 --> 00:48:23,943
+Because we know
+
+1093
+00:48:23,943 --> 00:48:27,113
+they cannot endure.
+
+1094
+00:48:23,943 --> 00:48:27,113
+they cannot endure.
+
+1095
+00:48:30,866 --> 00:48:34,161
+A butterfly
+that lives forever...
+
+1096
+00:48:38,165 --> 00:48:42,503
+...is really not
+a butterfly at all.
+
+1097
+00:48:38,165 --> 00:48:42,503
+...is really not
+a butterfly at all.
+
+1098
+00:48:44,672 --> 00:48:46,590
+Very well.
+
+1099
+00:48:48,050 --> 00:48:50,177
+I will do what you ask.
+
+1100
+00:48:53,806 --> 00:48:55,683
+Thank you, sir.
+
+1101
+00:48:53,806 --> 00:48:55,683
+Thank you, sir.
+
+1102
+00:49:08,487 --> 00:49:10,656
+Goodbye, Commander.
+
+1103
+00:49:11,699 --> 00:49:14,201
+(echoing):
+Goodbye, Captain.
+
+1104
+00:49:11,699 --> 00:49:14,201
+(echoing):
+Goodbye, Captain.
+
+1105
+00:49:36,473 --> 00:49:39,059
+(breathing deeply)
+
+1106
+00:49:50,779 --> 00:49:53,741
+JURATI:
+Hi, mister.
+
+1107
+00:50:00,915 --> 00:50:02,750
+Am I real?
+
+1108
+00:50:02,750 --> 00:50:04,585
+Of course you are.
+
+1109
+00:50:16,430 --> 00:50:18,098
+Ah.
+
+1110
+00:50:16,430 --> 00:50:18,098
+Ah.
+
+1111
+00:50:18,098 --> 00:50:22,436
+Tell me about this body.
+
+1112
+00:50:22,436 --> 00:50:26,565
+This, uh... golem.
+
+1113
+00:50:22,436 --> 00:50:26,565
+This, uh... golem.
+
+1114
+00:50:26,565 --> 00:50:28,609
+Well, it has no augmentations,
+
+1115
+00:50:28,609 --> 00:50:31,695
+no, you know, superpowers.
+
+1116
+00:50:28,609 --> 00:50:31,695
+no, you know, superpowers.
+
+1117
+00:50:31,695 --> 00:50:33,614
+I knew you wouldn't want
+to have to adjust
+
+1118
+00:50:33,614 --> 00:50:34,949
+to something new,
+
+1119
+00:50:34,949 --> 00:50:37,785
+not after 94 years
+in the same body
+
+1120
+00:50:34,949 --> 00:50:37,785
+not after 94 years
+in the same body
+
+1121
+00:50:37,785 --> 00:50:39,745
+with the same face.
+Ah.
+
+1122
+00:50:39,745 --> 00:50:40,913
+I see.
+
+1123
+00:50:40,913 --> 00:50:42,373
+Everything is new, though.
+
+1124
+00:50:40,913 --> 00:50:42,373
+Everything is new, though.
+
+1125
+00:50:42,373 --> 00:50:44,083
+Everything works.
+
+1126
+00:50:44,083 --> 00:50:47,795
+And the brain abnormality
+is gone for good.
+
+1127
+00:50:49,713 --> 00:50:51,257
+Extraordinary.
+
+1128
+00:50:56,553 --> 00:51:00,599
+Y-You... you haven't
+made me immortal?
+
+1129
+00:50:56,553 --> 00:51:00,599
+Y-You... you haven't
+made me immortal?
+
+1130
+00:51:00,599 --> 00:51:02,309
+Oh, relax, man.
+
+1131
+00:51:02,309 --> 00:51:04,561
+Everyone was paying attention.
+
+1132
+00:51:04,561 --> 00:51:05,646
+We took care of you.
+
+1133
+00:51:05,646 --> 00:51:06,772
+(quietly):
+Ah.
+
+1134
+00:51:05,646 --> 00:51:06,772
+(quietly):
+Ah.
+
+1135
+00:51:06,772 --> 00:51:08,274
+We designed
+a cellular homeostasis
+
+1136
+00:51:08,274 --> 00:51:10,484
+algorithm that should
+give you more or less
+
+1137
+00:51:10,484 --> 00:51:12,611
+the same number of years
+you would have expected
+
+1138
+00:51:10,484 --> 00:51:12,611
+the same number of years
+you would have expected
+
+1139
+00:51:12,611 --> 00:51:13,654
+without the brain condition.
+
+1140
+00:51:13,654 --> 00:51:15,489
+Ah.
+
+1141
+00:51:15,489 --> 00:51:18,492
+I wouldn't have
+minded another ten.
+
+1142
+00:51:15,489 --> 00:51:18,492
+I wouldn't have
+minded another ten.
+
+1143
+00:51:18,492 --> 00:51:20,744
+Twenty?
+
+1144
+00:51:22,454 --> 00:51:23,998
+(sighs)
+
+1145
+00:51:23,998 --> 00:51:25,165
+Well, Dr. Soong,
+
+1146
+00:51:23,998 --> 00:51:25,165
+Well, Dr. Soong,
+
+1147
+00:51:25,165 --> 00:51:27,334
+I must thank you.
+
+1148
+00:51:27,334 --> 00:51:29,795
+My gain is your loss.
+
+1149
+00:51:29,795 --> 00:51:33,340
+But now we both
+
+1150
+00:51:29,795 --> 00:51:33,340
+But now we both
+
+1151
+00:51:33,340 --> 00:51:36,176
+have something to lose.
+
+1152
+00:51:33,340 --> 00:51:36,176
+have something to lose.
+
+1153
+00:51:38,012 --> 00:51:39,888
+I have a promise to keep.
+
+1154
+00:51:41,598 --> 00:51:43,600
+("Blue Skies" playing)
+
+1155
+00:51:41,598 --> 00:51:43,600
+("Blue Skies" playing)
+
+1156
+00:51:46,437 --> 00:51:52,484
+♪ Blue skies ♪
+
+1157
+00:51:46,437 --> 00:51:52,484
+♪ Blue skies ♪
+
+1158
+00:51:52,484 --> 00:51:54,778
+♪ Smiling at me... ♪
+
+1159
+00:51:52,484 --> 00:51:54,778
+♪ Smiling at me... ♪
+
+1160
+00:51:54,778 --> 00:51:56,071
+It says a great deal
+
+1161
+00:51:56,071 --> 00:51:58,532
+about the mind of Commander Data
+
+1162
+00:51:58,532 --> 00:52:02,995
+that...
+looking at the human race,
+
+1163
+00:51:58,532 --> 00:52:02,995
+that...
+looking at the human race,
+
+1164
+00:52:02,995 --> 00:52:05,873
+with all its violence
+and corruption
+
+1165
+00:52:05,873 --> 00:52:09,001
+and willful ignorance,
+
+1166
+00:52:05,873 --> 00:52:09,001
+and willful ignorance,
+
+1167
+00:52:09,001 --> 00:52:12,713
+he could still see kindness,
+
+1168
+00:52:09,001 --> 00:52:12,713
+he could still see kindness,
+
+1169
+00:52:12,713 --> 00:52:14,506
+immense curiosity,
+
+1170
+00:52:14,506 --> 00:52:16,925
+and greatness of spirit.
+
+1171
+00:52:16,925 --> 00:52:19,553
+And he wanted
+
+1172
+00:52:16,925 --> 00:52:19,553
+And he wanted
+
+1173
+00:52:19,553 --> 00:52:22,181
+more than anything else
+
+1174
+00:52:22,181 --> 00:52:24,558
+to be part of that.
+
+1175
+00:52:22,181 --> 00:52:24,558
+to be part of that.
+
+1176
+00:52:24,558 --> 00:52:26,852
+To be a part of...
+
+1177
+00:52:28,812 --> 00:52:30,522
+...the human family.
+
+1178
+00:52:28,812 --> 00:52:30,522
+...the human family.
+
+1179
+00:52:30,522 --> 00:52:35,903
+♪ Nothing but bluebirds ♪
+
+1180
+00:52:36,904 --> 00:52:41,950
+♪ All day long ♪
+
+1181
+00:52:43,494 --> 00:52:46,080
+We are such stuff
+
+1182
+00:52:46,080 --> 00:52:48,749
+as dreams are made on.
+
+1183
+00:52:46,080 --> 00:52:48,749
+as dreams are made on.
+
+1184
+00:52:48,749 --> 00:52:53,670
+♪ Shining so bright ♪
+
+1185
+00:52:53,670 --> 00:52:55,255
+♪ Never saw things... ♪
+
+1186
+00:52:53,670 --> 00:52:55,255
+♪ Never saw things... ♪
+
+1187
+00:52:55,255 --> 00:52:58,217
+And our little life...
+
+1188
+00:52:58,217 --> 00:53:01,929
+is rounded...
+
+1189
+00:52:58,217 --> 00:53:01,929
+is rounded...
+
+1190
+00:53:01,929 --> 00:53:04,139
+with a sleep.
+
+1191
+00:53:04,139 --> 00:53:07,226
+♪ Hurrying by ♪
+
+1192
+00:53:04,139 --> 00:53:07,226
+♪ Hurrying by ♪
+
+1193
+00:53:07,226 --> 00:53:11,230
+♪ When you're in love ♪
+
+1194
+00:53:11,230 --> 00:53:14,733
+♪ My, how they fly ♪
+
+1195
+00:53:11,230 --> 00:53:14,733
+♪ My, how they fly ♪
+
+1196
+00:53:14,733 --> 00:53:20,739
+♪ Blue days ♪
+
+1197
+00:53:14,733 --> 00:53:20,739
+♪ Blue days ♪
+
+1198
+00:53:20,739 --> 00:53:22,282
+♪ All of them ♪
+
+1199
+00:53:22,282 --> 00:53:28,330
+♪ Gone ♪
+
+1200
+00:53:22,282 --> 00:53:28,330
+♪ Gone ♪
+
+1201
+00:53:28,330 --> 00:53:34,753
+♪ Nothing but blue skies ♪
+
+1202
+00:53:28,330 --> 00:53:34,753
+♪ Nothing but blue skies ♪
+
+1203
+00:53:36,171 --> 00:53:42,761
+♪ From now on ♪
+
+1204
+00:53:36,171 --> 00:53:42,761
+♪ From now on ♪
+
+1205
+00:53:42,761 --> 00:53:45,639
+♪ Oh ♪
+
+1206
+00:53:45,639 --> 00:53:50,477
+♪ Blue skies ♪
+
+1207
+00:53:45,639 --> 00:53:50,477
+♪ Blue skies ♪
+
+1208
+00:53:51,979 --> 00:53:55,816
+♪ Smiling at me ♪
+
+1209
+00:53:51,979 --> 00:53:55,816
+♪ Smiling at me ♪
+
+1210
+00:53:59,153 --> 00:54:00,821
+♪ Nothing ♪
+
+1211
+00:53:59,153 --> 00:54:00,821
+♪ Nothing ♪
+
+1212
+00:54:00,821 --> 00:54:06,493
+♪ But blue skies ♪
+
+1213
+00:54:00,821 --> 00:54:06,493
+♪ But blue skies ♪
+
+1214
+00:54:06,493 --> 00:54:08,996
+♪ Do I ♪
+It's time.
+
+1215
+00:54:08,996 --> 00:54:15,836
+♪ See. ♪
+
+1216
+00:54:08,996 --> 00:54:15,836
+♪ See. ♪
+
+1217
+00:54:30,017 --> 00:54:34,897
+Soji, you have
+endured so much
+
+1218
+00:54:34,897 --> 00:54:39,526
+and traveled so far
+to find your way home.
+
+1219
+00:54:34,897 --> 00:54:39,526
+and traveled so far
+to find your way home.
+
+1220
+00:54:39,526 --> 00:54:43,864
+Now you leave it
+all behind.
+
+1221
+00:54:39,526 --> 00:54:43,864
+Now you leave it
+all behind.
+
+1222
+00:54:43,864 --> 00:54:46,533
+I think I'm just more
+cut out for wandering.
+
+1223
+00:54:48,035 --> 00:54:50,496
+And now that they've lifted
+the ban on synthetics,
+
+1224
+00:54:50,496 --> 00:54:51,705
+I'm free to travel.
+
+1225
+00:54:51,705 --> 00:54:53,290
+Hmm.
+
+1226
+00:54:53,290 --> 00:54:54,708
+Me, too.
+
+1227
+00:54:53,290 --> 00:54:54,708
+Me, too.
+
+1228
+00:54:59,671 --> 00:55:01,673
+(console powering up)
+
+1229
+00:54:59,671 --> 00:55:01,673
+(console powering up)
+
+1230
+00:55:06,553 --> 00:55:07,846
+Ready, Admiral?
+
+1231
+00:55:19,066 --> 00:55:20,776
+Engage.
+
+1232
+00:55:20,776 --> 00:55:23,278
+Captioning sponsored by
+CBS
+
+1233
+00:55:23,278 --> 00:55:25,697
+Captioned by
+Media Access Group at WGBH
+access.wgbh.org
+
+1234
+00:55:23,278 --> 00:55:25,697
+Captioned by
+Media Access Group at WGBH
+access.wgbh.org
