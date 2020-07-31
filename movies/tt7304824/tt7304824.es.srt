@@ -1,0 +1,8126 @@
+﻿1
+00:00:06,000 --> 00:00:12,074
+Anuncie su producto o marca aquí
+contáctenos www.OpenSubtitles.org hoy
+
+2
+00:00:40,708 --> 00:00:42,708
+<i>[motor de coche]</i>
+
+3
+00:00:44,708 --> 00:00:45,958
+<i>[puerta de coche cerrada]</i>
+
+4
+00:00:46,041 --> 00:00:47,666
+<i>- [pasos]</i>
+<i>- [tintineo de llaves]</i>
+
+5
+00:00:48,708 --> 00:00:51,166
+<i>[puerta abierta y cerrada]</i>
+
+6
+00:00:56,500 --> 00:00:58,500
+<i>[truenos]</i>
+
+7
+00:01:16,708 --> 00:01:18,166
+<i>[hombre respira hondo]</i>
+
+8
+00:01:21,916 --> 00:01:23,916
+<i>[exhala lentamente]</i>
+
+9
+00:01:24,458 --> 00:01:28,000
+<i>[llanto de bebé]</i>
+
+10
+00:01:39,500 --> 00:01:41,500
+{\an8}<i>[llanto desgarrador de mujer]</i>
+
+11
+00:01:51,833 --> 00:01:54,875
+{\an8}<i>- [lluvia]</i>
+<i>- [conversaciones indistintas]</i>
+
+12
+00:02:44,166 --> 00:02:45,083
+{\an8}<i>[puerta cerrada]</i>
+
+13
+00:02:58,875 --> 00:03:00,166
+<i>[mujer grita] ¡Es él!</i>
+
+14
+00:03:00,250 --> 00:03:01,250
+<i>¿Valentín Esparza?</i>
+
+15
+00:03:01,375 --> 00:03:03,125
+{\an8}<i>Solo queremos hablar con usted.</i>
+
+16
+00:03:03,208 --> 00:03:04,166
+{\an8}<i>¡Alto! ¡Para!</i>
+
+17
+00:03:06,458 --> 00:03:07,416
+<i>[policía] ¡Alto!</i>
+
+18
+00:03:08,583 --> 00:03:09,541
+{\an8}<i>- ¡Alto!</i>
+<i>- ¡Párese!</i>
+
+19
+00:03:09,625 --> 00:03:11,708
+{\an8}<i>[policía] ¡He dicho que se pare! ¡Alto!</i>
+
+20
+00:03:12,083 --> 00:03:13,208
+<i>¡Oiga!</i>
+
+21
+00:03:15,041 --> 00:03:16,750
+<i>[continúan gritando]</i>
+
+22
+00:03:16,833 --> 00:03:18,083
+<i>[jadeos]</i>
+
+23
+00:03:19,125 --> 00:03:19,958
+<i>¡Quédese quieto!</i>
+
+24
+00:03:22,666 --> 00:03:24,291
+{\an8}<i>- ¡Alto!</i>
+<i>- ¡Alto, joder!</i>
+
+25
+00:03:27,875 --> 00:03:29,250
+{\an8}<i>[estrépito de cristales]</i>
+
+26
+00:03:42,916 --> 00:03:44,000
+<i>[gruñe]</i>
+
+27
+00:03:52,208 --> 00:03:54,208
+<i>[jadea]</i>
+
+28
+00:03:56,416 --> 00:03:58,958
+<i>- [policía] ¿Adónde ha ido? ¿Adónde?</i>
+<i>- ¡Por allí!</i>
+
+29
+00:04:03,291 --> 00:04:04,333
+{\an8}<i>[Jonan] ¡Valentín!</i>
+
+30
+00:04:05,750 --> 00:04:06,583
+{\an8}<i>¡Alto!</i>
+
+31
+00:04:07,291 --> 00:04:08,583
+{\an8}<i>[jadeos]</i>
+
+32
+00:04:10,791 --> 00:04:12,500
+<i>[golpe] ¡Quieto!</i>
+
+33
+00:04:14,000 --> 00:04:15,041
+<i>[gime]</i>
+
+34
+00:04:15,125 --> 00:04:16,583
+<i>[Amaia] ¡Jonan, la mochila!</i>
+
+35
+00:04:16,958 --> 00:04:17,791
+<i>Quieto.</i>
+
+36
+00:04:19,833 --> 00:04:20,666
+<i>[Amaia] Quieto.</i>
+
+37
+00:04:22,000 --> 00:04:22,833
+<i>¡El brazo!</i>
+
+38
+00:04:23,750 --> 00:04:25,500
+<i>[Valentín] Tengo que acabar con esto.</i>
+
+39
+00:04:26,458 --> 00:04:27,416
+<i>Tengo que acabarlo.</i>
+
+40
+00:04:30,000 --> 00:04:31,083
+<i>Tengo que acabar con esto.</i>
+
+41
+00:04:32,791 --> 00:04:34,083
+<i>Tengo que acabar con esto.</i>
+
+42
+00:04:35,041 --> 00:04:36,208
+<i>Tengo que acabarlo.</i>
+
+43
+00:04:37,541 --> 00:04:39,541
+<i>[truenos]</i>
+
+44
+00:05:00,750 --> 00:05:01,958
+<i>[Amaia] ¿Puedo sentarme?</i>
+
+45
+00:05:05,541 --> 00:05:07,291
+<i>A estas horas estoy agotada.</i>
+
+46
+00:05:07,375 --> 00:05:09,750
+<i>Fui mamá hace cinco meses</i>
+<i>y apenas puedo dormir.</i>
+
+47
+00:05:11,541 --> 00:05:13,875
+<i>Un bebé te cambia la vida, ¿verdad?</i>
+
+48
+00:05:15,208 --> 00:05:18,333
+<i>A veces pienso que no es raro</i>
+<i>que algún padre pierda la cabeza.</i>
+
+49
+00:05:19,166 --> 00:05:20,875
+<i>¿Qué edad tenía tu hija, Valentín?</i>
+
+50
+00:05:20,958 --> 00:05:22,125
+<i>Cuatro meses.</i>
+
+51
+00:05:25,791 --> 00:05:27,041
+<i>¿Adónde te la llevabas?</i>
+
+52
+00:05:27,916 --> 00:05:29,916
+<i>Solo quería tenerla un poco más.</i>
+
+53
+00:05:30,416 --> 00:05:33,000
+<i>Tu suegra dice</i>
+<i>que fuiste a su casa por la noche.</i>
+
+54
+00:05:33,583 --> 00:05:35,833
+<i>Oyó un ruido,</i>
+<i>abrió la ventana y te vio huyendo.</i>
+
+55
+00:05:35,916 --> 00:05:38,250
+<i>No paraba de llorar</i>
+<i>mientras nos lo contaba.</i>
+
+56
+00:05:38,333 --> 00:05:39,500
+<i>Mi suegra miente mucho.</i>
+
+57
+00:05:40,583 --> 00:05:41,750
+<i>Sin embargo, no miente</i>
+
+58
+00:05:41,833 --> 00:05:44,625
+<i>al decir que el cadáver</i>
+<i>tenía una marca en la frente,</i>
+
+59
+00:05:45,166 --> 00:05:47,250
+<i>que no estaba allí cuando ella la acostó.</i>
+
+60
+00:05:47,750 --> 00:05:50,750
+{\an8}<i>Una marca debida a la presión de un objeto</i>
+<i>que coincide</i>
+
+61
+00:05:50,833 --> 00:05:52,166
+{\an8}<i>con el ojo de este muñeco.</i>
+
+62
+00:05:52,583 --> 00:05:55,000
+<i>[respira agitado]</i>
+<i>Mi suegra es una puta cabrona.</i>
+
+63
+00:05:56,500 --> 00:06:00,166
+<i>Tú también viste la marca, Valentín.</i>
+<i>Por eso la tapaste con maquillaje.</i>
+
+64
+00:06:00,625 --> 00:06:03,041
+<i>Y por eso ordenaste</i>
+<i>que cerraran pronto el ataúd.</i>
+
+65
+00:06:03,583 --> 00:06:05,541
+<i>Pero tu suegra no iba a rendirse.</i>
+
+66
+00:06:05,958 --> 00:06:07,916
+<i>Por eso te llevaste su cuerpo, ¿verdad?</i>
+
+67
+00:06:08,000 --> 00:06:11,041
+<i>No. Eso era porque querían incinerarla.</i>
+
+68
+00:06:11,125 --> 00:06:14,500
+<i>- Y tú querías un entierro.</i>
+<i>- No deben incinerarla. Debo terminarlo.</i>
+
+69
+00:06:15,208 --> 00:06:17,208
+<i>¿Qué es lo que debes terminar, Valentín?</i>
+
+70
+00:06:17,291 --> 00:06:20,458
+<i>Si no lo termino,</i>
+<i>todo esto no habrá servido de nada.</i>
+
+71
+00:06:20,541 --> 00:06:21,958
+<i>¿Y para qué habrá de servir?</i>
+
+72
+00:06:29,375 --> 00:06:30,583
+<i>¿Mataste a tu hija?</i>
+
+73
+00:06:32,041 --> 00:06:32,875
+<i>No.</i>
+
+74
+00:06:34,125 --> 00:06:35,625
+<i>Yo no la maté.</i>
+
+75
+00:06:36,166 --> 00:06:37,250
+<i>La entregué.</i>
+
+76
+00:06:38,333 --> 00:06:39,166
+<i>¿A quién?</i>
+
+77
+00:06:41,875 --> 00:06:43,041
+<i>¿A quién la entregaste?</i>
+
+78
+00:06:45,958 --> 00:06:46,791
+<i>¿Para qué?</i>
+
+79
+00:06:49,416 --> 00:06:50,875
+<i>Dígales que no la incineren.</i>
+
+80
+00:06:51,583 --> 00:06:52,458
+<i>Por favor.</i>
+
+81
+00:06:53,291 --> 00:06:55,458
+<i>Nada de incinerarla.</i>
+
+82
+00:06:55,916 --> 00:06:56,875
+<i>[Amaia] </i><span style="style2">¿A quién?</i>
+
+83
+00:07:00,125 --> 00:07:01,291
+<i>¿A quién la entregaste?</i>
+
+84
+00:07:01,875 --> 00:07:05,208
+<i>[Montes] Se le ve mover los labios,</i>
+<i>pero no se entiende qué dice.</i>
+
+85
+00:07:05,291 --> 00:07:06,208
+<i>[Amaia] </i><span style="style2">¿Para qué?</i>
+
+86
+00:07:06,625 --> 00:07:08,833
+<i>Goñi, a ver qué se puede hacer</i>
+<i>con el sonido.</i>
+
+87
+00:07:09,250 --> 00:07:11,791
+<i>O mejor,</i>
+<i>llama a alguien que sepa leer los labios.</i>
+
+88
+00:07:12,083 --> 00:07:12,958
+<i>Muy bien, jefa.</i>
+
+89
+00:07:13,125 --> 00:07:15,291
+<i>¿Alguien puede</i>
+<i>arreglar la máquina de café? </i>
+
+90
+00:07:15,375 --> 00:07:17,500
+<i>- ¿A quién hay que decírselo?</i>
+<i>- Me encargo.</i>
+
+91
+00:07:23,500 --> 00:07:27,125
+<i>[Flora] </i><span style="style2">Como estaba el río, es imposible</i>
+<span style="style2">que la </i><i>ama</i><span style="style2"> saliera sana y salva.</i>
+
+92
+00:07:27,500 --> 00:07:29,958
+<i>Hablé con el juez</i>
+<i>que lleva el caso en Pamplona.</i>
+
+93
+00:07:30,041 --> 00:07:32,000
+<i>Está de acuerdo</i>
+<i>con celebrar el funeral.</i>
+
+94
+00:07:32,083 --> 00:07:34,000
+<i>- ¿Llamaste a Markina?</i>
+<i>- No, llamó él.</i>
+
+95
+00:07:34,083 --> 00:07:35,916
+<i>Es un hombre encantador, por cierto.</i>
+
+96
+00:07:36,125 --> 00:07:37,916
+<i>Hablé también con el padre Germán.</i>
+
+97
+00:07:38,000 --> 00:07:40,416
+<i>Hemos decidido celebrarlo el viernes.</i>
+
+98
+00:07:40,500 --> 00:07:42,000
+<i>- ¿"Hemos decidido"?</i>
+<i>- Sí.</i>
+
+99
+00:07:42,083 --> 00:07:44,541
+<i>Cuanto antes terminemos con esto,</i>
+<i>mejor para todos.</i>
+
+100
+00:07:44,625 --> 00:07:47,208
+<i>Hasta que no aparezca su cuerpo,</i>
+<i>no la podemos dar por muerta.</i>
+
+101
+00:07:47,291 --> 00:07:50,625
+<i>No seas ridícula. Hace más de un mes</i>
+<i>que sacaron el abrigo del río.</i>
+
+102
+00:07:50,708 --> 00:07:51,708
+<i>Es un señuelo.</i>
+
+103
+00:07:51,791 --> 00:07:54,416
+<i>- No significa nada.</i>
+<i>- Creo que es buena idea, Amaia.</i>
+
+104
+00:07:55,333 --> 00:07:56,583
+<i>Tenemos que pasar página.</i>
+
+105
+00:07:59,125 --> 00:08:00,416
+<i>No creo que esté muerta.</i>
+
+106
+00:08:00,500 --> 00:08:04,500
+<i>¿Y dónde está? Sola, de noche,</i>
+<i>una anciana que apenas puede caminar.</i>
+
+107
+00:08:04,583 --> 00:08:06,541
+<i>No es una anciana</i>
+<i>que apenas puede caminar.</i>
+
+108
+00:08:06,625 --> 00:08:07,583
+<i>[Flora] Da igual.</i>
+
+109
+00:08:07,875 --> 00:08:08,916
+<i>Para ya.</i>
+
+110
+00:08:10,875 --> 00:08:12,250
+<i>La </i><span style="style2">ama</i><i> está muerta.</i>
+
+111
+00:08:18,125 --> 00:08:20,958
+<i>Si necesitas ayuda para los preparativos,</i>
+<i>cuenta conmigo.</i>
+
+112
+00:08:21,041 --> 00:08:23,041
+<i>Muy bien. [suspira]</i>
+
+113
+00:08:23,125 --> 00:08:23,958
+<i>[Rosaura] Amaia.</i>
+
+114
+00:08:40,083 --> 00:08:42,583
+<i>[en inglés] Tú no la viste, James.</i>
+<i>Se escapó.</i>
+
+115
+00:08:42,666 --> 00:08:45,000
+<i>Vino a esta casa, se llevó a nuestro hijo.</i>
+
+116
+00:08:45,375 --> 00:08:47,125
+<i>No era una anciana débil.</i>
+
+117
+00:08:47,208 --> 00:08:49,208
+<i>Era una mujer decidida. Yo estaba allí.</i>
+
+118
+00:08:49,291 --> 00:08:51,291
+<i>[en inglés] Sí, y yo no estaba. Lo sé.</i>
+
+119
+00:08:51,833 --> 00:08:53,833
+<i>Pero entonces, ¿por qué no ha aparecido?</i>
+
+120
+00:08:53,916 --> 00:08:55,250
+<i>El agua la arrastró.</i>
+
+121
+00:08:55,333 --> 00:08:58,583
+<i>Lo dijo la policía, tus colegas,</i>
+<i>hasta tu puto amigo el juez.</i>
+
+122
+00:08:58,666 --> 00:09:01,375
+<i>- No me importa, no me lo creo.</i>
+<i>- Y ese es el problema.</i>
+
+123
+00:09:01,833 --> 00:09:05,166
+<i>¿Te has parado a pensar</i>
+<i>en lo que sienten los demás, tus hermanas?</i>
+
+124
+00:09:05,541 --> 00:09:08,375
+<i>¿En que quizá necesitan poner fin</i>
+<i>a este jodido asunto?</i>
+
+125
+00:09:10,250 --> 00:09:13,583
+<i>Sé que has sufrido mucho, Amaia,</i>
+<i>pero no eres la única.</i>
+
+126
+00:09:15,583 --> 00:09:17,083
+<i>[bebé llora]</i>
+
+127
+00:09:17,166 --> 00:09:18,000
+<i>[James] Yo voy.</i>
+
+128
+00:09:20,541 --> 00:09:21,375
+<i>Eh, colega.</i>
+
+129
+00:09:24,416 --> 00:09:26,750
+<i>No hay nada de malo</i>
+<i>en celebrar el funeral.</i>
+
+130
+00:09:27,458 --> 00:09:28,833
+<i>Yo voy a acudir,</i>
+
+131
+00:09:28,916 --> 00:09:30,333
+<i>y espero que vengas conmigo.</i>
+
+132
+00:09:33,458 --> 00:09:36,083
+<i>- Amaia, cariño.</i>
+<i>- Ahora no, tía, por favor.</i>
+
+133
+00:09:38,916 --> 00:09:39,833
+<i>Por favor.</i>
+
+134
+00:09:51,166 --> 00:09:53,166
+<i>[ladridos lejanos]</i>
+
+135
+00:10:07,541 --> 00:10:08,583
+<i>Eh.</i>
+
+136
+00:10:20,333 --> 00:10:23,750
+<i>[Berasategui] Yo solo soy el director</i>
+<i>de escena de una representación</i>
+
+137
+00:10:23,833 --> 00:10:25,750
+<i>que consta de muchos actores.</i>
+
+138
+00:10:26,416 --> 00:10:27,250
+<i>¿Ah, sí?</i>
+
+139
+00:10:28,083 --> 00:10:29,500
+<i>En las imágenes de su huida,</i>
+
+140
+00:10:29,583 --> 00:10:33,416
+<i>se ve un director de escena sumiso.</i>
+<i>Obedeciendo a una anciana.</i>
+
+141
+00:10:33,916 --> 00:10:36,625
+<i>Total, para acabar uno entre rejas</i>
+<i>y la otra desaparecida.</i>
+
+142
+00:10:37,208 --> 00:10:38,541
+<i>Menudo director de escena.</i>
+
+143
+00:10:38,625 --> 00:10:40,208
+<i>Se equivoca, inspectora.</i>
+
+144
+00:10:41,416 --> 00:10:44,416
+<i>Excepto que el bebé fuera un varón,</i>
+<i>todo salió como esperaba.</i>
+
+145
+00:10:44,500 --> 00:10:46,750
+<i>¿De dónde sacaron el brazo</i>
+<i>que dejaron en la iglesia?</i>
+
+146
+00:10:46,833 --> 00:10:49,208
+<i>- ¿Se lo contó Rosario?</i>
+<i>- No sé de qué habla.</i>
+
+147
+00:10:50,875 --> 00:10:54,750
+<i>Sabemos que cuando venía al Baztán,</i>
+<i>no se alojaba con su padre ni en un hotel.</i>
+
+148
+00:10:55,166 --> 00:10:59,291
+<i>Creo que tiene una casa, un lugar seguro</i>
+<i>al que mi madre fue tras huir de la cueva.</i>
+
+149
+00:10:59,375 --> 00:11:00,708
+<i>¿Dónde está esa casa?</i>
+
+150
+00:11:01,791 --> 00:11:02,833
+<i>[resopla con sorna]</i>
+
+151
+00:11:03,625 --> 00:11:04,583
+<i>Está viva, ¿verdad?</i>
+
+152
+00:11:08,125 --> 00:11:08,958
+<i>¿Usted qué cree?</i>
+
+153
+00:11:09,041 --> 00:11:11,125
+<i>Tenían un plan de huida y ella lo siguió.</i>
+
+154
+00:11:12,750 --> 00:11:15,625
+<i>Hay que ser inteligente</i>
+<i>para valorar la inteligencia.</i>
+
+155
+00:11:16,750 --> 00:11:18,750
+<i>Y usted y yo nos hemos reconocido.</i>
+
+156
+00:11:20,041 --> 00:11:22,125
+<i>Así que solo por eso, le haré un regalo.</i>
+
+157
+00:11:23,625 --> 00:11:25,000
+<i>[Berasategui] Escuche bien,</i>
+
+158
+00:11:25,708 --> 00:11:27,541
+<i>porque es un mensaje de su madre.</i>
+
+159
+00:11:32,166 --> 00:11:34,791
+<i>Duerme con un ojo abierto, pequeña zorra,</i>
+
+160
+00:11:35,500 --> 00:11:36,750
+<i>porque tarde o temprano,</i>
+
+161
+00:11:37,250 --> 00:11:38,083
+<i>la </i><span style="style2">ama...</i>
+
+162
+00:11:38,833 --> 00:11:39,666
+<i>te comerá.</i>
+
+163
+00:11:40,166 --> 00:11:41,000
+<i>[gime]</i>
+
+164
+00:11:43,041 --> 00:11:44,291
+<i>[Amaia] ¡Abran la puerta!</i>
+
+165
+00:11:45,583 --> 00:11:47,083
+<i>¡Abran la puerta!</i>
+
+166
+00:11:48,000 --> 00:11:49,625
+<i>¿No me oye? ¡Abra la puerta!</i>
+
+167
+00:11:58,708 --> 00:11:59,875
+<i>[apertura eléctrica]</i>
+
+168
+00:12:04,875 --> 00:12:06,458
+<i>[Markina] </i><span style="style2">Vio tu debilidad y la usó.</i>
+
+169
+00:12:06,541 --> 00:12:08,916
+<i>En realidad no tiene</i>
+<i>ningún mensaje de tu madre.</i>
+
+170
+00:12:09,000 --> 00:12:11,791
+<i>[Amaia] </i><span style="style2">Tiene a los guardias sometidos,</i>
+<span style="style2">controlados como perros.</i>
+
+171
+00:12:12,166 --> 00:12:14,750
+<i>¿Dónde estás?</i>
+<i>Dime dónde estás y voy para ahí.</i>
+
+172
+00:12:14,833 --> 00:12:16,833
+<i>Llame al director de la cárcel</i>
+<i>y que lo aíslen.</i>
+
+173
+00:12:16,916 --> 00:12:19,833
+<i>Por supuesto.</i>
+<i>Amaia, siento mucho lo que te ha pasado.</i>
+
+174
+00:12:20,208 --> 00:12:21,500
+<i>Veámonos esta noche.</i>
+
+175
+00:12:21,583 --> 00:12:22,833
+<i>Te recojo donde me digas.</i>
+
+176
+00:12:22,916 --> 00:12:25,583
+<i>Es importante que avise al director</i>
+<i>cuanto antes.</i>
+
+177
+00:12:25,666 --> 00:12:28,333
+<i>- Lo dejo, tengo una llamada.</i>
+<span style="style1">- Vale, no te preocupes.</i>
+
+178
+00:12:29,666 --> 00:12:31,000
+<i>[botón móvil] Dime, Jonan.</i>
+
+179
+00:12:34,708 --> 00:12:37,666
+<i>[mujer 1] Dejamos todos los ramos</i>
+<i>y las flores con cuidado,</i>
+
+180
+00:12:38,125 --> 00:12:40,250
+<i>y hoy hemos llegado y estaba todo movido.</i>
+
+181
+00:12:41,041 --> 00:12:42,541
+<i>[mujer 2] Todo tirado estaba.</i>
+
+182
+00:12:42,666 --> 00:12:45,541
+<i>[Montes] El funcionario dice</i>
+<i>que han movido la losa.</i>
+
+183
+00:12:45,625 --> 00:12:46,458
+<i>[mujer 2] Por aquí.</i>
+
+184
+00:12:47,125 --> 00:12:48,458
+<i>[goteo de agua]</i>
+
+185
+00:12:59,250 --> 00:13:00,958
+<i>Este lo han movido, señora.</i>
+
+186
+00:13:14,750 --> 00:13:15,750
+<i>Está vacío.</i>
+
+187
+00:13:28,750 --> 00:13:30,750
+<i>[mujer llora]</i>
+
+188
+00:13:30,958 --> 00:13:33,708
+<i>Avisa a la cárcel</i>
+<i>que vamos a hablar con Esparza.</i>
+
+189
+00:13:33,791 --> 00:13:36,333
+<i>[en euskera] Deberíamos</i>
+<i>haberla enterrado cerca de la granja.</i>
+
+190
+00:13:36,416 --> 00:13:39,333
+<i>Y usted, deje de buscar</i>
+<i>asesinos de carne y hueso.</i>
+
+191
+00:13:39,416 --> 00:13:41,791
+<i>A nuestra niña la mató Inguma.</i>
+
+192
+00:13:41,875 --> 00:13:43,041
+<i>[llanto]</i>
+
+193
+00:13:43,166 --> 00:13:44,166
+<i>[en español] Jefa.</i>
+
+194
+00:13:47,333 --> 00:13:49,541
+<i>- Dime.</i>
+<i>- Han asesinado a Valentín Esparza.</i>
+
+195
+00:13:51,083 --> 00:13:51,916
+<i>¿Cómo?</i>
+
+196
+00:13:53,166 --> 00:13:55,500
+<i>[Jonan]</i>
+<i>Su compañero de celda lo ha apuñalado.</i>
+
+197
+00:13:55,583 --> 00:13:58,208
+<i>Era un preso muy tranquilo</i>
+<i>y no saben qué ha podido pasar.</i>
+
+198
+00:13:58,833 --> 00:14:00,583
+<i>¿Y las imágenes del interrogatorio?</i>
+
+199
+00:14:00,666 --> 00:14:03,208
+<i>La pista de sonido está sucia,</i>
+<i>lo he repasado con un logopeda.</i>
+
+200
+00:14:05,166 --> 00:14:08,166
+<i>[Goñi] "La entregué a Inguma,</i>
+<i>como tantos otros sacrificios".</i>
+
+201
+00:14:09,166 --> 00:14:10,041
+<i>Vuelve a ponerlo.</i>
+
+202
+00:14:13,125 --> 00:14:16,208
+<i>"La entregué a Inguma,</i>
+<i>como tantos otros sacrificios".</i>
+
+203
+00:14:18,208 --> 00:14:19,041
+<i>Inguma.</i>
+
+204
+00:14:19,375 --> 00:14:21,958
+<i>Es uno de los demonios más antiguos</i>
+<i>de la mitología.</i>
+
+205
+00:14:22,041 --> 00:14:24,083
+<i>Se dice que mata a la gente</i>
+<i>mientras duerme</i>
+
+206
+00:14:24,166 --> 00:14:26,333
+<i>y que provoca la muerte súbita</i>
+<i>de los bebés,</i>
+
+207
+00:14:26,416 --> 00:14:29,208
+<i>pegando su boca sobre ellos</i>
+<i>y bebiéndose su aliento hasta que mueren.</i>
+
+208
+00:14:29,541 --> 00:14:30,458
+<i>A ver.</i>
+
+209
+00:14:31,750 --> 00:14:32,666
+<i>Gracias, Goñi.</i>
+
+210
+00:14:36,708 --> 00:14:39,791
+<i>Al ver ese ataúd vacío,</i>
+<i>solo podía pensar en el de mi hermana.</i>
+
+211
+00:14:40,875 --> 00:14:42,666
+<i>Ni se han molestado en poner gravilla.</i>
+
+212
+00:14:43,875 --> 00:14:46,750
+<i>Quiero investigar todos los casos</i>
+<i>de muerte súbita de lactantes</i>
+
+213
+00:14:46,833 --> 00:14:48,250
+<i>los últimos cinco años en el valle.</i>
+
+214
+00:14:49,083 --> 00:14:49,916
+<i>Vale.</i>
+
+215
+00:14:54,375 --> 00:14:55,875
+<i>[llaman a la puerta]</i>
+
+216
+00:14:57,583 --> 00:14:58,458
+<i>[Amaia] ¿Elena?</i>
+
+217
+00:14:59,083 --> 00:15:00,291
+<i>Soy Amaia Salazar.</i>
+
+218
+00:15:03,708 --> 00:15:06,375
+<i>Son los mismos símbolos</i>
+<i>que dibujaba el maestro</i>
+
+219
+00:15:06,458 --> 00:15:09,666
+<i>cuando sacrificábamos animales, pero...</i>
+<i>[solloza]</i>
+
+220
+00:15:09,916 --> 00:15:11,291
+<i>...no sé lo que significan.</i>
+
+221
+00:15:12,541 --> 00:15:15,041
+<i>Elena, sé que mi madre está viva,</i>
+
+222
+00:15:15,333 --> 00:15:17,041
+<i>que está escondida en algún lugar.</i>
+
+223
+00:15:17,125 --> 00:15:20,541
+<i>Debo encontrar la casa donde se reunían,</i>
+<i>el caserío del que me habló.</i>
+
+224
+00:15:22,166 --> 00:15:24,625
+<i>Es muy importante que me respondas,</i>
+<i>te lo ruego.</i>
+
+225
+00:15:26,625 --> 00:15:28,583
+<i>¿Llegaron a hacer sacrificios humanos?</i>
+
+226
+00:15:28,666 --> 00:15:30,625
+<i>Pero ¿no te das cuenta, Amaia?</i>
+
+227
+00:15:30,750 --> 00:15:31,958
+<i>Si hablo, me matarán.</i>
+
+228
+00:15:32,041 --> 00:15:35,250
+<i>¿Quiénes? Yo te daré protección.</i>
+
+229
+00:15:35,750 --> 00:15:38,125
+<i>- Tú no puedes protegerme de esto.</i>
+<i>- Por favor.</i>
+
+230
+00:15:38,208 --> 00:15:39,833
+<i>Contéstame, por favor.</i>
+
+231
+00:15:40,625 --> 00:15:42,208
+<i>¿Hicieron sacrificios humanos?</i>
+
+232
+00:15:45,083 --> 00:15:46,416
+<i>En aquella época,</i>
+
+233
+00:15:46,666 --> 00:15:49,458
+<i>la única mujer embarazada del grupo</i>
+<i>era tu madre.</i>
+
+234
+00:15:50,791 --> 00:15:54,916
+<i>Si tú estás viva,</i>
+<i>quiere decir que todo era palabrería.</i>
+
+235
+00:15:55,500 --> 00:15:56,583
+<i>[solloza]</i>
+
+236
+00:15:56,833 --> 00:16:00,041
+<i>No sabes las miles de veces</i>
+<i>que he dado las gracias</i>
+
+237
+00:16:00,333 --> 00:16:02,000
+<i>cuando te he visto por el pueblo.</i>
+
+238
+00:16:02,083 --> 00:16:05,583
+<i>Elena, yo nací junto a otra hermana.</i>
+
+239
+00:16:07,000 --> 00:16:09,458
+<i>Una hermana gemela</i>
+<i>que murió de muerte de cuna.</i>
+
+240
+00:16:09,583 --> 00:16:12,333
+<i>- ¿Dónde está enterrada?</i>
+<i>- No lo sé. Encontré la tumba,</i>
+
+241
+00:16:12,416 --> 00:16:14,000
+<i>- pero el ataúd estaba vacío.</i>
+<i>- ¡No!</i>
+
+242
+00:16:14,083 --> 00:16:15,750
+<i>- Por favor...</i>
+<i>- ¡Vete de mi casa!</i>
+
+243
+00:16:16,166 --> 00:16:19,041
+<i>- ¡Vete ahora mismo de mi casa!</i>
+<i>- Es muy importante.</i>
+
+244
+00:16:19,125 --> 00:16:20,166
+<i>- [Amaia] Escúchame.</i>
+<i>- Vete.</i>
+
+245
+00:16:20,250 --> 00:16:22,333
+<i>Dime al menos </i>
+<i>dónde estaban los cuerpos.</i>
+
+246
+00:16:22,416 --> 00:16:24,416
+<i>¿Qué hacíais con los cuerpos? Por favor.</i>
+
+247
+00:16:24,500 --> 00:16:26,500
+<i>- [chilla aterrada]</i>
+<i>- Elena, por favor.</i>
+
+248
+00:16:26,583 --> 00:16:27,958
+<i>- ¡Vete!</i>
+<i>- [portazo]</i>
+
+249
+00:16:58,291 --> 00:17:01,041
+<i>[latidos acelerados]</i>
+
+250
+00:17:01,208 --> 00:17:02,583
+<i>[inspiración ahogada]</i>
+
+251
+00:17:05,000 --> 00:17:09,583
+<i>[quejidos ahogados]</i>
+
+252
+00:17:20,250 --> 00:17:22,250
+<i>[patadas]</i>
+
+253
+00:17:25,875 --> 00:17:29,125
+<i>[gritos sofocados]</i>
+
+254
+00:17:30,416 --> 00:17:33,500
+<i>[música tensa]</i>
+
+255
+00:17:36,833 --> 00:17:40,916
+<i>[llanto de bebé]</i>
+
+256
+00:18:06,375 --> 00:18:07,666
+<i>[en inglés] ¿Estás bien?</i>
+
+257
+00:18:08,541 --> 00:18:09,750
+<i>[James suspira]</i>
+
+258
+00:18:10,000 --> 00:18:12,291
+<i>[en inglés] Es mi padre. Acaba de llamar.</i>
+
+259
+00:18:13,208 --> 00:18:14,791
+<i>Tiene una lesión en el corazón.</i>
+
+260
+00:18:15,916 --> 00:18:17,375
+<i>Lo siento.</i>
+
+261
+00:18:17,791 --> 00:18:19,083
+<i>Lo siento mucho.</i>
+
+262
+00:18:20,916 --> 00:18:23,041
+<i>Tienen que hacerle un baipás</i>
+<i>de emergencia.</i>
+
+263
+00:18:24,000 --> 00:18:25,958
+<i>Le darán fecha mañana, pero...</i>
+
+264
+00:18:26,666 --> 00:18:28,166
+<i>me iré después del funeral.</i>
+
+265
+00:18:28,416 --> 00:18:29,416
+<i>Por supuesto.</i>
+
+266
+00:18:30,375 --> 00:18:32,541
+<i>Terminaré lo que tengo que hacer</i>
+<i>aquí mañana</i>
+
+267
+00:18:32,625 --> 00:18:33,875
+<i>e iré a por los billetes.</i>
+
+268
+00:18:38,708 --> 00:18:41,500
+<i>[hombre] </i><span style="style2">Estaba aislado y desde su visita,</i>
+<span style="style2">no veía a nadie.</i>
+
+269
+00:18:41,958 --> 00:18:45,791
+<i>Un funcionario vio que estaba inmóvil,</i>
+<i>dio el aviso y nos lo encontramos así.</i>
+
+270
+00:18:45,916 --> 00:18:51,000
+<i>No presenta petequias, heridas de defensa</i>
+<i>o síntomas de sufrimiento.</i>
+
+271
+00:18:51,083 --> 00:18:54,125
+<i>Y a juzgar por la cantidad de espuma</i>
+<i>que salió de su boca,</i>
+
+272
+00:18:54,208 --> 00:18:57,958
+<i>yo diría que se quitó la vida tomando algo</i>
+<i>que le produjo un fallo cardíaco.</i>
+
+273
+00:18:59,333 --> 00:19:01,291
+<i>El doctor Berasategui no quería morir.</i>
+
+274
+00:19:01,708 --> 00:19:04,583
+<i>El suicidio no encaja</i>
+<i>con un comportamiento narcisista.</i>
+
+275
+00:19:04,666 --> 00:19:06,708
+<i>[Markina]</i>
+<i>¿Se suicidó, pero no quería morir?</i>
+
+276
+00:19:07,250 --> 00:19:08,666
+<i>¿Cómo puede saber algo así?</i>
+
+277
+00:19:10,791 --> 00:19:12,208
+<i>Porque lloró mientras moría.</i>
+
+278
+00:19:12,291 --> 00:19:15,416
+<i>Se tumbó, y en un ataque de autocompasión,</i>
+<i>lloró por su muerte.</i>
+
+279
+00:19:22,333 --> 00:19:24,333
+<i>Pare. Pinche la cinco.</i>
+
+280
+00:19:31,375 --> 00:19:32,708
+<i>Ahí. Le ha dado algo.</i>
+
+281
+00:19:40,500 --> 00:19:41,708
+<i>[Jonan] Pinche la nueve.</i>
+
+282
+00:20:06,583 --> 00:20:07,416
+<i>[Markina] Amaia.</i>
+
+283
+00:20:08,708 --> 00:20:11,041
+<i>Magistrado. ¿Ha pasado algo?</i>
+
+284
+00:20:11,958 --> 00:20:14,208
+<i>Os habéis ido</i>
+<i>y no me has dicho cómo estás.</i>
+
+285
+00:20:15,875 --> 00:20:17,541
+<i>Estoy bien. Muchas gracias.</i>
+
+286
+00:20:18,708 --> 00:20:21,625
+<i>Recuerda que puedes contar conmigo</i>
+<i>para lo que necesites.</i>
+
+287
+00:20:22,750 --> 00:20:24,750
+<i>- Gracias.</i>
+<i>- Me importas, Amaia.</i>
+
+288
+00:20:28,083 --> 00:20:29,375
+<i>[claxon]</i>
+
+289
+00:20:38,375 --> 00:20:39,500
+<i>Solo quería decirte</i>
+
+290
+00:20:39,583 --> 00:20:42,250
+<i>que mis sentimientos hacia ti</i>
+<i>no han cambiado.</i>
+
+291
+00:20:43,791 --> 00:20:44,875
+<i>Ni van a cambiar.</i>
+
+292
+00:20:53,125 --> 00:20:53,958
+<i>Magistrado.</i>
+
+293
+00:20:55,666 --> 00:20:58,375
+<i>¿Llamó a mi hermana</i>
+<i>para apoyar el funeral de mi madre?</i>
+
+294
+00:20:58,458 --> 00:21:00,333
+<i>Le dije que era una buena idea, sí.</i>
+
+295
+00:21:00,833 --> 00:21:02,625
+<i>Pero fue ella la que me llamó a mí.</i>
+
+296
+00:21:04,000 --> 00:21:04,958
+<i>[ríe por lo bajo]</i>
+
+297
+00:21:23,083 --> 00:21:25,250
+<i>[truenos y lluvia]</i>
+
+298
+00:21:25,333 --> 00:21:27,458
+<i>[Amaia]</i>
+<i>¿Visitó al Dr. Berasategui en la cárcel?</i>
+
+299
+00:21:27,541 --> 00:21:28,666
+<i>En tres ocasiones.</i>
+
+300
+00:21:28,958 --> 00:21:32,541
+<i>¿Le habló de la fuga de Rosario,</i>
+<i>de lo que sucedió aquella noche?</i>
+
+301
+00:21:32,625 --> 00:21:35,833
+<i>Lo intenté cada vez, inspectora,</i>
+<i>pero él cambió de tema.</i>
+
+302
+00:21:36,958 --> 00:21:38,791
+<i>Mi madre se esconde en algún lugar.</i>
+
+303
+00:21:39,500 --> 00:21:42,583
+<i>Y todo esto forma parte</i>
+<i>de un plan muchísimo más complejo.</i>
+
+304
+00:21:42,916 --> 00:21:45,291
+<i>Me alegra ver</i>
+<i>que empieza a comprender, Salazar.</i>
+
+305
+00:21:46,000 --> 00:21:47,750
+<i>[Jonan] ¿Cree que hay conexión</i>
+
+306
+00:21:47,833 --> 00:21:50,625
+<i>entre las prácticas de brujería antiguas</i>
+<i>en el valle</i>
+
+307
+00:21:50,708 --> 00:21:52,333
+<i>y lo que pasó en esta cueva?</i>
+
+308
+00:21:53,708 --> 00:21:56,083
+<i>Siempre se ha dicho</i>
+<i>que las brujas comían niños,</i>
+
+309
+00:21:56,166 --> 00:21:59,166
+<i>que se alimentaban de vida</i>
+<i>de inocentes sacrificados.</i>
+
+310
+00:21:59,250 --> 00:22:00,666
+<i>¿Y qué obtenían a cambio?</i>
+
+311
+00:22:01,416 --> 00:22:03,666
+<i>Salud... vida.</i>
+
+312
+00:22:04,166 --> 00:22:05,458
+<i>Riquezas materiales.</i>
+
+313
+00:22:05,541 --> 00:22:09,541
+<i>- ¿Aún puede haber alguien que crea eso?</i>
+<i>- Dejen de plantearse si es lógico o no.</i>
+
+314
+00:22:10,500 --> 00:22:13,958
+<i>No juzguen, y admitan</i>
+<i>que si algo tiene consecuencias reales,</i>
+
+315
+00:22:14,041 --> 00:22:14,875
+<i>es real.</i>
+
+316
+00:22:19,041 --> 00:22:21,458
+<i>¿Y por qué niños? ¿Cómo los usaban?</i>
+
+317
+00:22:23,291 --> 00:22:25,833
+<i>[Sarasola] Deben ser niños</i>
+<i>de menos de dos años</i>
+
+318
+00:22:25,916 --> 00:22:28,500
+<i>porque hasta entonces,</i>
+<i>transitan en dos mundos</i>
+
+319
+00:22:28,916 --> 00:22:31,333
+<i>y pueden ver y escuchar</i>
+<i>lo que pasa en ambos.</i>
+
+320
+00:22:32,666 --> 00:22:34,250
+<i>Hay que matarlos con un ritual.</i>
+
+321
+00:22:35,500 --> 00:22:37,458
+<i>Lo más frecuente es desangrarlos.</i>
+
+322
+00:22:37,541 --> 00:22:39,541
+<i>En ocasiones, también se les desmembra</i>
+
+323
+00:22:39,625 --> 00:22:41,541
+<i>para ser utilizados por partes.</i>
+
+324
+00:22:42,375 --> 00:22:45,416
+<i>El cráneo y los huesos más largos</i>
+<i>son los más valorados.</i>
+
+325
+00:22:45,791 --> 00:22:49,541
+<i>Pero hay prácticas en las que se utilizan</i>
+<i>las uñas, el pelo y los dientes</i>
+
+326
+00:22:50,000 --> 00:22:53,333
+<i>y el polvo resultante</i>
+<i>de machacar sus huesos más pequeños.</i>
+
+327
+00:22:54,958 --> 00:22:58,333
+<i>Y si un cuerpo fuera robado</i>
+<i>para sacrificarlo, ¿dónde lo llevarían?</i>
+
+328
+00:22:58,708 --> 00:23:01,750
+<i>A un lugar mágico, seguro y protegido.</i>
+
+329
+00:23:03,833 --> 00:23:07,375
+<i>Sé que está pensando</i>
+<i>en templos o iglesias, inspectora,</i>
+
+330
+00:23:08,041 --> 00:23:10,583
+<i>pero la brujería no es lo mismo</i>
+<i>que el satanismo.</i>
+
+331
+00:23:10,666 --> 00:23:12,333
+<i>No busca ofender a Dios,</i>
+
+332
+00:23:13,000 --> 00:23:15,625
+<i>sino convocar y venerar a los espíritus.</i>
+
+333
+00:23:16,541 --> 00:23:17,750
+<i>[Amaia] ¿Qué espíritus?</i>
+
+334
+00:23:18,208 --> 00:23:20,291
+<i>Aker... Por ejemplo.</i>
+
+335
+00:23:20,375 --> 00:23:23,125
+<i>Así han llamado ustedes de siempre</i>
+<i>al demonio en Baztán.</i>
+
+336
+00:23:23,208 --> 00:23:26,541
+<i>- ¿Usted se cree eso, padre?</i>
+<i>- Vuelve a plantearlo mal, inspectora.</i>
+
+337
+00:23:26,916 --> 00:23:28,250
+<i>Lo importante no es creer.</i>
+
+338
+00:23:28,333 --> 00:23:30,625
+<i>Lo que importa es la fuerza que eso tiene.</i>
+
+339
+00:23:31,166 --> 00:23:33,583
+<i>Lo que importa</i>
+<i>es que tiene consecuencias reales,</i>
+
+340
+00:23:33,708 --> 00:23:36,875
+<i>y hay gente que está dispuesta</i>
+<i>a morir y a matar por ello.</i>
+
+341
+00:23:52,250 --> 00:23:54,666
+{\an8}<i>JAMES, ESTOY PREOCUPADA,</i>
+<i>NO TE LOCALIZO, LLÁMAME.</i>
+
+342
+00:23:54,750 --> 00:23:58,333
+{\an8}<i>Sonia dice que Valentín hablaba</i>
+<i>de tradiciones y del poder de la tierra.</i>
+
+343
+00:23:59,333 --> 00:24:01,208
+<i>Incluso le pidió que pariera en casa,</i>
+
+344
+00:24:01,291 --> 00:24:03,375
+<i>pero la niña nació prematura</i>
+<i>en el hospital.</i>
+
+345
+00:24:03,458 --> 00:24:04,708
+<i>¿Nombró a alguna partera?</i>
+
+346
+00:24:05,291 --> 00:24:07,375
+<i>No ha dicho nada, pero hablaré con ella.</i>
+
+347
+00:24:08,041 --> 00:24:09,208
+<i>[notificación de móvil]</i>
+
+348
+00:24:11,458 --> 00:24:12,291
+<i>Es Iriarte.</i>
+
+349
+00:24:13,083 --> 00:24:17,000
+<i>En los últimos siete años, hay cinco casos</i>
+<i>de muerte súbita de niñas en Baztán</i>
+
+350
+00:24:17,083 --> 00:24:20,333
+<i>y en tres de ellas, los servicios sociales</i>
+<i>abrieron investigación.</i>
+
+351
+00:24:20,416 --> 00:24:23,041
+<i>Hablad con ellos</i>
+<i>y preguntadles qué llamó su atención</i>
+
+352
+00:24:23,125 --> 00:24:25,708
+<i>- y cómo reaccionaron las familias.</i>
+<i>- De acuerdo.</i>
+
+353
+00:24:33,708 --> 00:24:37,208
+<i>[radio] </i><span style="style2">Atención, unidades.</i><i> </i><span style="style2">Acudan</i>
+<span style="style2">a la avenida Padre Donostia. Cambio.</i>
+
+354
+00:24:37,916 --> 00:24:39,083
+<i>Es al lado del obrador.</i>
+
+355
+00:24:40,250 --> 00:24:44,000
+<i>[sirenas]</i>
+
+356
+00:24:55,666 --> 00:24:59,208
+<i>[hombre]</i>
+<i>Necesito que cortéis todas las entradas.</i>
+
+357
+00:25:01,875 --> 00:25:03,500
+<i>[Amaia] Montes, ¿qué ha pasado?</i>
+
+358
+00:25:03,583 --> 00:25:05,541
+<i>Ha aparecido el cadáver de una mujer.</i>
+
+359
+00:25:06,708 --> 00:25:07,958
+<i>La ha encontrado su hija,</i>
+
+360
+00:25:08,041 --> 00:25:10,666
+<i>que ha venido de Pamplona</i>
+<i>porque no le cogía el teléfono.</i>
+
+361
+00:25:10,750 --> 00:25:13,333
+<i>La médico que la ha visto</i>
+<i>dice que hay algo raro en el asunto.</i>
+
+362
+00:25:14,208 --> 00:25:15,041
+<i>[Jonan] Ahora subo.</i>
+
+363
+00:25:15,166 --> 00:25:19,291
+<i>[conversaciones de fondo]</i>
+
+364
+00:25:20,500 --> 00:25:22,000
+<i>[agentes hablan entre ellos]</i>
+
+365
+00:25:25,416 --> 00:25:26,458
+<i>[agente] Inspectora.</i>
+
+366
+00:25:46,750 --> 00:25:50,250
+<i>Me pareció</i><span style="style2"> </i><i>una hemorragia interna</i>
+<i>que le había colapsado los pulmones.</i>
+
+367
+00:25:50,916 --> 00:25:51,750
+<i>Pero mire.</i>
+
+368
+00:25:52,916 --> 00:25:56,041
+<i>Su vómito está lleno de pequeñas astillas</i>
+<i>de cáscara de nuez.</i>
+
+369
+00:25:56,458 --> 00:25:58,125
+<i>Cortan como cuchillas de afeitar.</i>
+
+370
+00:25:58,666 --> 00:26:02,041
+<i>Al tragarlas, debieron perforarle</i>
+<i>el estómago, el duodeno y la tráquea,</i>
+
+371
+00:26:02,125 --> 00:26:04,875
+<i>y cuando luego las vomitó,</i>
+<i>destrozaron todo a su paso.</i>
+
+372
+00:26:05,666 --> 00:26:08,375
+<i>Desde luego es una manera horrible</i>
+<i>de suicidarse.</i>
+
+373
+00:26:15,750 --> 00:26:17,916
+<i>Mi madre jamás se suicidaría.</i>
+
+374
+00:26:19,041 --> 00:26:22,083
+<i>Además, ella odiaba las nueces.</i>
+<i>La volvían loca de miedo.</i>
+
+375
+00:26:23,083 --> 00:26:25,458
+<i>De pequeña, me hizo jurar</i>
+<i>que nunca las tocaría.</i>
+
+376
+00:26:31,250 --> 00:26:34,125
+<i>¿Notaste algún comportamiento extraño</i>
+<i>en los últimos días?</i>
+
+377
+00:26:36,375 --> 00:26:38,708
+<i>Desde un mes a esta parte,</i>
+<i>estaba muy nerviosa.</i>
+
+378
+00:26:38,791 --> 00:26:39,791
+<i>Paranoica.</i>
+
+379
+00:26:41,541 --> 00:26:43,416
+<i>Pero no conseguí que me contara nada.</i>
+
+380
+00:26:46,291 --> 00:26:47,125
+<i>Gracias.</i>
+
+381
+00:26:52,833 --> 00:26:54,666
+<i>Tú eres la hija de Rosario, ¿verdad?</i>
+
+382
+00:26:55,791 --> 00:26:58,833
+<i>He visto tantas veces llorar a mi madre</i>
+<i>por culpa de ella...</i>
+
+383
+00:27:01,541 --> 00:27:03,208
+<i>[llora]</i>
+
+384
+00:27:22,166 --> 00:27:25,916
+<i>[en inglés] </i><span style="style2">Soy Aloisius Dupree.</i>
+<span style="style2">Deja tu mensaje y te llamaré más tarde.</i>
+
+385
+00:27:26,166 --> 00:27:30,041
+<i>[en inglés] Aloisius,</i>
+<i>todo el que se implica acaba muriendo.</i>
+
+386
+00:27:32,000 --> 00:27:36,250
+<i>Creo que alguien está creando </i>
+<i>un cortafuegos a mi alrededor.</i>
+
+387
+00:27:37,875 --> 00:27:39,333
+<i>Llámame cuando puedas.</i>
+
+388
+00:27:43,458 --> 00:27:44,750
+<i>[motor de coche]</i>
+
+389
+00:27:47,625 --> 00:27:48,750
+<i>[freno de mano]</i>
+
+390
+00:28:10,041 --> 00:28:13,041
+<i>[en inglés] ¿Dónde estabas?</i>
+<i>He estado preocupada todo el día.</i>
+
+391
+00:28:15,041 --> 00:28:16,291
+<i>[en inglés] Ya estoy aquí.</i>
+
+392
+00:28:16,708 --> 00:28:19,208
+<i>Te he llamado varias veces</i>
+<i>y no me lo has cogido.</i>
+
+393
+00:28:19,916 --> 00:28:22,375
+<i>¿A las seis de la tarde?</i>
+<i>¿Después de todo el día?</i>
+
+394
+00:28:23,250 --> 00:28:24,416
+<i>¿Qué pasa, James?</i>
+
+395
+00:28:24,833 --> 00:28:25,666
+<i>Dímelo tú.</i>
+
+396
+00:28:26,750 --> 00:28:27,666
+<i>No lo sé.</i>
+
+397
+00:28:32,083 --> 00:28:34,333
+<i>Operan a mi padre el lunes.</i>
+
+398
+00:28:35,291 --> 00:28:38,666
+<i>He reservado billetes para los tres</i>
+<i>a Estados Unidos para el sábado.</i>
+
+399
+00:28:39,541 --> 00:28:41,375
+<i>Ven con Ibai y conmigo, Amaia.</i>
+
+400
+00:28:42,416 --> 00:28:43,875
+<i>Tómate unos días de descanso.</i>
+
+401
+00:28:46,041 --> 00:28:48,708
+<i>Te vendrá bien</i>
+<i>alejarte de todo y de todos.</i>
+
+402
+00:28:51,833 --> 00:28:52,750
+<i>Lo haré.</i>
+
+403
+00:28:54,291 --> 00:28:55,125
+<i>De acuerdo.</i>
+
+404
+00:29:02,708 --> 00:29:06,291
+<i>[crepitar del fuego]</i>
+
+405
+00:29:19,166 --> 00:29:21,666
+<i>- [hija de Elena] No quería asustarla.</i>
+<i>- No, tranquila.</i>
+
+406
+00:29:22,125 --> 00:29:24,958
+<i>Es que al ir a acostarme,</i>
+<i>he apartado la almohada y...</i>
+
+407
+00:29:26,541 --> 00:29:27,833
+<i>y he encontrado esto.</i>
+
+408
+00:29:28,708 --> 00:29:29,666
+<i>Es para usted.</i>
+
+409
+00:29:33,708 --> 00:29:35,458
+<i>Supongo que tenían razón y que...</i>
+
+410
+00:29:37,208 --> 00:29:38,833
+<i>la pobre mujer se suicidó.</i>
+
+411
+00:29:41,500 --> 00:29:44,708
+<i>Es solo la localización de un lugar</i>
+<i>al que solía ir con mi madre.</i>
+
+412
+00:29:45,500 --> 00:29:46,416
+<i>Nada más.</i>
+
+413
+00:29:58,333 --> 00:30:00,333
+<i>[música de intriga]</i>
+
+414
+00:30:03,583 --> 00:30:04,750
+<i>[Elena] </i><span style="style2">Lo saben.</i>
+
+415
+00:30:05,125 --> 00:30:06,708
+<i>Te dije que se enterarían.</i>
+
+416
+00:30:06,791 --> 00:30:08,875
+<i>Nadie puede protegerte de ellos.</i>
+
+417
+00:30:09,958 --> 00:30:13,583
+<i>Algo me está devorando las entrañas,</i>
+<i>siento que va a matarme,</i>
+
+418
+00:30:14,250 --> 00:30:16,458
+<i>y ya no tiene sentido ocultarlo más.</i>
+
+419
+00:30:19,000 --> 00:30:24,375
+<i>La casa es un viejo caserío destartalado</i>
+<i>de paredes sucias y tejado oscuro.</i>
+
+420
+00:30:25,416 --> 00:30:27,666
+<i>Está en la carretera de Orabidea.</i>
+
+421
+00:30:28,125 --> 00:30:30,208
+<i>Y aunque es invisible desde arriba,</i>
+
+422
+00:30:30,416 --> 00:30:33,833
+<i>de pronto podrás verlo un momento</i>
+<i>al torcer el camino.</i>
+
+423
+00:30:36,916 --> 00:30:40,416
+<i>Es una casa negra,</i>
+<i>y no lo digo por su color,</i>
+
+424
+00:30:40,583 --> 00:30:42,458
+<i>sino por lo que hay dentro.</i>
+
+425
+00:30:44,750 --> 00:30:46,541
+<i>Si tú eres quien dices ser</i>
+
+426
+00:30:46,625 --> 00:30:49,916
+<i>y sobreviviste al destino</i>
+<i>que ellos te tenían preparado,</i>
+
+427
+00:30:50,250 --> 00:30:52,208
+<i>dará igual que los busques o no.</i>
+
+428
+00:30:52,750 --> 00:30:55,625
+<i>Tarde o temprano, te encontrarán.</i>
+
+429
+00:30:56,000 --> 00:30:57,333
+<i>Que Dios te ayude.</i>
+
+430
+00:30:58,250 --> 00:30:59,208
+<i>[interfono]</i>
+
+431
+00:31:48,000 --> 00:31:50,458
+<i>[balidos y ladridos de fondo]</i>
+
+432
+00:31:52,041 --> 00:31:54,291
+<i>- Buenos días. ¿Qué se le ofrece?</i>
+<i>- [en vasco] Buenos días.</i>
+
+433
+00:31:54,375 --> 00:31:57,500
+<i>Busco una casa antigua</i>
+<i>y podría ser la finca de ahí abajo,</i>
+
+434
+00:31:57,583 --> 00:32:00,250
+<i>- pero parece bastante nueva...</i>
+<i>- No sé nada de casas.</i>
+
+435
+00:32:00,833 --> 00:32:02,541
+<i>Es importante que me ayude.</i>
+
+436
+00:32:04,541 --> 00:32:06,333
+<i>¿Investiga usted a esa gentuza?</i>
+
+437
+00:32:06,416 --> 00:32:07,250
+<i>Sí.</i>
+
+438
+00:32:07,666 --> 00:32:10,166
+<i>¿Ha visto usted</i>
+<i>a alguna de estas personas por ahí?</i>
+
+439
+00:32:14,625 --> 00:32:16,583
+<i>Al hombre lo he visto muchas veces, sí.</i>
+
+440
+00:32:16,875 --> 00:32:19,250
+<i>A esas dos amargadas</i>
+<i>no las he visto en mi vida.</i>
+
+441
+00:32:19,750 --> 00:32:21,333
+<i>¿Me diría su nombre, por favor?</i>
+
+442
+00:32:21,500 --> 00:32:22,458
+<i>Ana Mari Ezkurra.</i>
+
+443
+00:32:22,541 --> 00:32:25,708
+<i>- ¿Hace mucho que vive aquí?</i>
+<i>- Pregúnteles qué pasó con Ainara.</i>
+
+444
+00:32:25,791 --> 00:32:28,000
+<i>Ainara es el único nombre que importa.</i>
+<i>Corra.</i>
+
+445
+00:32:35,375 --> 00:32:36,333
+<i>[Amaia] ¡Espere!</i>
+
+446
+00:32:42,333 --> 00:32:43,208
+<i>Buenos días.</i>
+
+447
+00:32:45,166 --> 00:32:48,166
+<i>Soy la inspectora Salazar,</i>
+<i>de Homicidios de la Policía Foral.</i>
+
+448
+00:32:48,250 --> 00:32:51,083
+<i>- ¿Son los propietarios de esta casa?</i>
+<i>- Sí. ¿Por qué?</i>
+
+449
+00:32:51,583 --> 00:32:53,041
+<i>Les traigo malas noticias.</i>
+
+450
+00:32:53,583 --> 00:32:55,833
+<i>Su amigo, el doctor Berasategui,</i>
+<i>ha fallecido.</i>
+
+451
+00:32:58,375 --> 00:32:59,583
+<i>¿De qué se conocían?</i>
+
+452
+00:32:59,666 --> 00:33:02,750
+<i>Nuestra relación está protegida</i>
+<i>por el secreto profesional.</i>
+
+453
+00:33:02,875 --> 00:33:04,125
+<i>Si nos disculpa...</i>
+
+454
+00:33:04,416 --> 00:33:06,125
+<i>Una última pregunta, disculpe.</i>
+
+455
+00:33:07,875 --> 00:33:11,291
+<i>¿Vieron al doctor Berasategui alguna vez</i>
+<i>con esta mujer?</i>
+
+456
+00:33:13,791 --> 00:33:15,041
+<i>No la hemos visto nunca.</i>
+
+457
+00:33:17,375 --> 00:33:18,625
+<i>¿Hay alguien más en la casa?</i>
+
+458
+00:33:18,708 --> 00:33:21,875
+<i>Inspectora, acaba de decirnos</i>
+<i>que alguien muy querido ha fallecido.</i>
+
+459
+00:33:21,958 --> 00:33:23,708
+<i>Necesitamos tiempo para asimilarlo.</i>
+
+460
+00:33:24,083 --> 00:33:25,250
+<i>Si tiene más preguntas,</i>
+
+461
+00:33:25,500 --> 00:33:27,125
+<i>diríjase a nuestro abogado.</i>
+
+462
+00:33:33,291 --> 00:33:36,500
+<i>[San Martín] Murió</i>
+<i>por la ingestión de objetos cortantes.</i>
+
+463
+00:33:36,583 --> 00:33:38,833
+<i>Y le aseguro</i>
+<i>que no fue de forma voluntaria.</i>
+
+464
+00:33:39,250 --> 00:33:43,458
+<i>Alguien le hizo tragar cáscaras de nuez</i>
+<i>hasta destrozarla por dentro.</i>
+
+465
+00:33:43,583 --> 00:33:44,833
+<i>Y una vez muerta,</i>
+
+466
+00:33:44,916 --> 00:33:50,166
+<i>la embutieron con más cáscaras a la fuerza</i>
+<i>hasta reventarle los intestinos.</i>
+
+467
+00:33:50,416 --> 00:33:51,625
+<i>[Amaia] Gracias, doctor.</i>
+
+468
+00:33:52,000 --> 00:33:54,833
+<i>- Jefa, tenemos la partida de nacimiento.</i>
+<i>- [Amaia] Bien.</i>
+
+469
+00:33:55,083 --> 00:33:58,875
+<i>[Jonan] Ainara Martínez Batón,</i>
+<i>11 de diciembre de 1977.</i>
+
+470
+00:33:58,958 --> 00:34:00,583
+<i>La hija de los dueños del caserío.</i>
+
+471
+00:34:00,666 --> 00:34:03,416
+<i>Nació en el domicilio familiar,</i>
+<i>el caserío Argi Beltz,</i>
+
+472
+00:34:03,666 --> 00:34:06,250
+<i>- y asistida por la partera Fina Hidalgo.</i>
+<i>- Joder...</i>
+
+473
+00:34:06,541 --> 00:34:09,333
+<i>Lo que no aparece por ningún lado</i>
+<i>es el certificado de defunción.</i>
+
+474
+00:34:09,416 --> 00:34:11,791
+<i>- "Argi Beltz" quiere decir "luz negra".</i>
+<i>- Dime, Montes.</i>
+
+475
+00:34:11,875 --> 00:34:15,166
+<i>[Montes] </i><span style="style2">Hablamos con las familias</i>
+<span style="style2">que investigó servicios sociales.</i>
+
+476
+00:34:15,250 --> 00:34:18,416
+<i>Cuando sus bebés murieron,</i>
+<i>eran gente de lo más normalito,</i>
+
+477
+00:34:18,500 --> 00:34:20,416
+<i>pero ahora están todos forrados.</i>
+
+478
+00:34:20,500 --> 00:34:22,083
+<i>Laboratorios farmacéuticos,</i>
+
+479
+00:34:22,166 --> 00:34:24,541
+<i>negocios inmobiliarios,</i>
+<i>un bufete de abogados...</i>
+
+480
+00:34:24,625 --> 00:34:28,416
+<i>- Han tenido mucha suerte en la vida.</i>
+<i>- Una flor en el culo han tenido.</i>
+
+481
+00:34:28,625 --> 00:34:30,041
+<i>Hay hasta una abogada</i>
+
+482
+00:34:30,125 --> 00:34:32,791
+<i>que tenía cáncer terminal</i>
+<i>y ahora está de puta madre.</i>
+
+483
+00:34:34,333 --> 00:34:36,791
+<i>- [Amaia] ¿Cómo se llama?</i>
+<i>- [Goñi] </i><span style="style2">Karmele Andía.</i>
+
+484
+00:34:36,875 --> 00:34:39,333
+<i>Es una de los dueños</i>
+<i>del bufete Lejarreta y Andía.</i>
+
+485
+00:34:47,166 --> 00:34:49,166
+<i>[conversaciones animadas]</i>
+
+486
+00:34:56,625 --> 00:34:58,625
+<i>[pasos acercándose]</i>
+
+487
+00:35:00,458 --> 00:35:04,583
+<i>Berasategui, mi madre, Elena Ochoa...</i>
+<i>Todos tienen en común esa casa,</i>
+
+488
+00:35:05,000 --> 00:35:06,166
+<i>ese grupo de gente</i>
+
+489
+00:35:06,250 --> 00:35:08,375
+<i>y una pareja de abogados ricos</i>
+<i>de Pamplona,</i>
+
+490
+00:35:08,666 --> 00:35:10,375
+<i>que también perdieron una hija.</i>
+
+491
+00:35:10,916 --> 00:35:14,541
+<i>¿Has encontrado algo alarmante</i>
+<i>en los informes de los servicios sociales?</i>
+
+492
+00:35:14,833 --> 00:35:15,666
+<i>No.</i>
+
+493
+00:35:15,750 --> 00:35:18,875
+<i>¿Has establecido alguna relación directa</i>
+<i>entre esas familias?</i>
+
+494
+00:35:18,958 --> 00:35:21,458
+<i>Podría ser una enfermera</i>
+<i>llamada Fina Hidalgo,</i>
+
+495
+00:35:21,541 --> 00:35:24,583
+<i>la matrona que asistió a todos los partos,</i>
+<i>incluido el de mi hermana.</i>
+
+496
+00:35:24,666 --> 00:35:27,083
+<i>Admitió delante mío</i>
+<i>haber matado a recién nacidos.</i>
+
+497
+00:35:27,166 --> 00:35:28,791
+<i>"Podría ser". No estás segura.</i>
+
+498
+00:35:29,750 --> 00:35:31,166
+<i>No tengo nada que lo pruebe.</i>
+
+499
+00:35:31,250 --> 00:35:32,916
+<i>¿Oyó alguien más la conversación</i>
+
+500
+00:35:33,000 --> 00:35:35,000
+<i>- en la que la matrona admitió los hechos?</i>
+<i>- No.</i>
+
+501
+00:35:37,750 --> 00:35:41,416
+<i>Javier, por favor, necesito que me ayudes.</i>
+<i>Necesito entrar a Argi Beltz.</i>
+
+502
+00:35:41,958 --> 00:35:44,375
+<i>Y necesito los archivos</i>
+<i>que conserva la matrona.</i>
+
+503
+00:35:44,458 --> 00:35:47,083
+<i>Si aparecen los certificados</i>
+<i>de defunción de las niñas,</i>
+
+504
+00:35:47,166 --> 00:35:49,000
+<i>habría que exhumar sus cadáveres.</i>
+
+505
+00:35:51,833 --> 00:35:54,791
+<i>Autorizaré la orden de registro</i>
+<i>para los archivos.</i>
+
+506
+00:35:55,416 --> 00:35:57,416
+<i>Pero lo demás que me pides, Amaia...</i>
+
+507
+00:35:57,833 --> 00:35:58,916
+<i>Por favor.</i>
+
+508
+00:36:00,125 --> 00:36:03,458
+<i>Es cierto que hay algo</i>
+<i>en la actitud de la partera sospechoso.</i>
+
+509
+00:36:03,875 --> 00:36:06,166
+<i>Aún no has establecido</i>
+<i>una relación directa</i>
+
+510
+00:36:06,250 --> 00:36:07,583
+<i>entre todas esas personas.</i>
+
+511
+00:36:08,291 --> 00:36:11,000
+<i>Me tienes que traer algo sólido, Amaia.</i>
+
+512
+00:36:12,791 --> 00:36:13,625
+<i>Lo haré.</i>
+
+513
+00:36:19,500 --> 00:36:20,500
+<i>[Amaia] ¿Todo bien?</i>
+
+514
+00:36:26,333 --> 00:36:31,083
+<i>[Markina] Cuando tenía 12 años,</i>
+<i>mi madre volvió a quedar embarazada.</i>
+
+515
+00:36:33,250 --> 00:36:37,708
+<i>Mis padres estaban radiantes.</i>
+<i>El embarazo fue bien y el bebé nació sano.</i>
+
+516
+00:36:41,083 --> 00:36:44,416
+<i>Pero a las tres semanas,</i>
+<i>mi hermano falleció.</i>
+
+517
+00:36:46,416 --> 00:36:47,625
+<i>A partir de ese momento,</i>
+
+518
+00:36:47,708 --> 00:36:51,083
+<i>mi madre solo hablaba </i>
+<i>para preguntar por su bebé.</i>
+
+519
+00:36:52,166 --> 00:36:53,583
+<i>Se volvió loca de dolor.</i>
+
+520
+00:36:53,958 --> 00:36:57,333
+<i>Hasta intentó suicidarse</i>
+<i>y la internaron en una clínica.</i>
+
+521
+00:37:00,750 --> 00:37:02,083
+<i>A los dos años, murió.</i>
+
+522
+00:37:05,916 --> 00:37:06,958
+<i>[suspira]</i>
+
+523
+00:37:07,125 --> 00:37:09,583
+<i>No abriré una tumba para...</i>
+
+524
+00:37:10,166 --> 00:37:12,166
+<i>desenterrar tanto sufrimiento.</i>
+
+525
+00:37:13,916 --> 00:37:17,625
+<i>A menos que me traigas a un testigo</i>
+<i>que viera a los padres matar a su hija,</i>
+
+526
+00:37:18,666 --> 00:37:21,708
+<i>una declaración de un forense</i>
+<i>retractándose por su informe anterior</i>
+
+527
+00:37:21,791 --> 00:37:23,333
+<i>y presentando nuevas pruebas.</i>
+
+528
+00:37:24,666 --> 00:37:28,000
+<i>Si no es así, no autorizaré</i>
+<i>la exhumación del cadáver de un bebé.</i>
+
+529
+00:37:32,250 --> 00:37:33,333
+<i>¿Cómo lo superaste?</i>
+
+530
+00:37:35,083 --> 00:37:36,708
+<i>Perdonando, Amaia.</i>
+
+531
+00:37:38,041 --> 00:37:39,458
+<i>Perdonando a mi madre,</i>
+
+532
+00:37:40,416 --> 00:37:41,375
+<i>a mi padre,</i>
+
+533
+00:37:42,208 --> 00:37:43,416
+<i>a mi hermano pequeño.</i>
+
+534
+00:37:44,916 --> 00:37:45,916
+<i>Hasta a mí mismo.</i>
+
+535
+00:37:47,000 --> 00:37:48,125
+<i>Deberías probar.</i>
+
+536
+00:38:06,875 --> 00:38:07,958
+<i>¿Qué es tan gracioso?</i>
+
+537
+00:38:08,958 --> 00:38:10,875
+<i>Me siento bien por habértelo contado.</i>
+
+538
+00:38:13,125 --> 00:38:14,791
+<i>Nunca lo he compartido con nadie.</i>
+
+539
+00:38:38,000 --> 00:38:40,208
+<i>¿Cuento con la orden para los archivos?</i>
+
+540
+00:38:40,625 --> 00:38:42,125
+<i>No vas a parar nunca, ¿verdad?</i>
+
+541
+00:38:44,458 --> 00:38:45,333
+<i>Nunca.</i>
+
+542
+00:38:46,083 --> 00:38:48,333
+<i>Inspectora Salazar, voy a besarte.</i>
+
+543
+00:38:58,750 --> 00:39:01,583
+<i>- No deberías.</i>
+<i>- No deberías hacer eso.</i>
+
+544
+00:39:38,041 --> 00:39:38,916
+<i>[balbuceos]</i>
+
+545
+00:39:48,125 --> 00:39:50,791
+<i>[en inglés]</i>
+<i>Qué horas de llegar a casa, jovencita.</i>
+
+546
+00:39:51,750 --> 00:39:53,125
+<i>[en inglés] ¿Cómo está tu padre?</i>
+
+547
+00:39:54,958 --> 00:39:55,791
+<i>Está animado.</i>
+
+548
+00:39:58,791 --> 00:39:59,791
+<i>¿Te quedas con nosotros?</i>
+
+549
+00:40:01,083 --> 00:40:03,833
+<i>- Tengo que hacer algo y vuelvo, ¿vale?</i>
+<i>- De acuerdo.</i>
+
+550
+00:40:04,541 --> 00:40:05,375
+<i>Amaia.</i>
+
+551
+00:40:05,958 --> 00:40:07,541
+<i>¿Has pedido ya unas vacaciones?</i>
+
+552
+00:40:08,333 --> 00:40:10,750
+<i>Sí, pero todavía no me han contestado.</i>
+
+553
+00:40:11,250 --> 00:40:12,083
+<i>Vale.</i>
+
+554
+00:40:13,541 --> 00:40:14,916
+<i>- No tardes.</i>
+<i>- No.</i>
+
+555
+00:40:19,375 --> 00:40:20,583
+<i>[suspiro]</i>
+
+556
+00:40:26,750 --> 00:40:29,208
+<i>¿Seguro que no quieres echar</i>
+<i>unos trocitos de pan?</i>
+
+557
+00:40:29,541 --> 00:40:30,583
+<i>Seguro, tía.</i>
+
+558
+00:40:34,000 --> 00:40:34,958
+<i>Ay, mi niña...</i>
+
+559
+00:40:39,958 --> 00:40:41,416
+<i>[campanadas lejanas]</i>
+
+560
+00:40:54,458 --> 00:40:55,291
+<i>Por aquí.</i>
+
+561
+00:40:58,250 --> 00:41:00,500
+<i>Los expedientes de pacientes</i>
+<i>en los archivadores</i>
+
+562
+00:41:00,583 --> 00:41:02,583
+<i>y los certificados y las actas...</i>
+
+563
+00:41:08,708 --> 00:41:09,541
+<i>No están.</i>
+
+564
+00:41:09,625 --> 00:41:10,666
+<i>No hay nada.</i>
+
+565
+00:41:11,916 --> 00:41:12,875
+<i>[Jonan] Vamos.</i>
+
+566
+00:41:14,458 --> 00:41:18,125
+<i>Menuda casualidad más nefasta.</i>
+<i>Aquí dice que venían a ver esos papeles</i>
+
+567
+00:41:18,208 --> 00:41:20,166
+<i>y justo ayer me dio por hacer limpieza.</i>
+
+568
+00:41:20,250 --> 00:41:22,583
+<i>- [Amaia] ¿Y los certificados?</i>
+<i>- Como vino a verlos,</i>
+
+569
+00:41:22,666 --> 00:41:26,208
+<i>me recordó que estaban allí cogiendo polvo</i>
+<i>y me dio por tirarlos.</i>
+
+570
+00:41:26,291 --> 00:41:27,333
+<i>¿Qué ha hecho con ellos?</i>
+
+571
+00:41:27,875 --> 00:41:29,708
+<i>Lo que se hace con el papel inservible.</i>
+
+572
+00:41:29,791 --> 00:41:31,791
+<i>- [Jonan] ¡Jefa!</i>
+<i>- Un buen fuego.</i>
+
+573
+00:41:37,375 --> 00:41:39,708
+<i>[Jonan] Está todo quemado,</i>
+<i>y las cenizas, machacadas.</i>
+
+574
+00:41:48,458 --> 00:41:50,666
+<i>Parece que no es usted</i>
+<i>una mujer con suerte.</i>
+
+575
+00:41:52,916 --> 00:41:53,750
+<i>[Jonan] Vámonos.</i>
+
+576
+00:41:54,833 --> 00:41:56,583
+<i>Amaia. </i>
+
+577
+00:42:01,833 --> 00:42:04,541
+<i>Quiero los nombres</i>
+<i>de todos los que sabían que veníamos</i>
+
+578
+00:42:04,625 --> 00:42:06,583
+<i>y una lista de las llamadas</i>
+<i>desde comisaría,</i>
+
+579
+00:42:06,666 --> 00:42:09,541
+<i>- incluidos teléfonos personales.</i>
+<i>- ¿Nos acusa a nosotros?</i>
+
+580
+00:42:09,625 --> 00:42:11,875
+<i>Alguien ha sido descuidado</i>
+<i>con la información.</i>
+
+581
+00:42:11,958 --> 00:42:14,291
+<i>Esta visita no era información reservada.</i>
+
+582
+00:42:14,375 --> 00:42:17,375
+<i>- Yo lo he comentado esta mañana.</i>
+<i>- No veníamos a una plantación de coca.</i>
+
+583
+00:42:17,458 --> 00:42:20,333
+<i>Veníamos a por unos papeles.</i>
+<i>No lo saquemos de quicio.</i>
+
+584
+00:42:20,958 --> 00:42:23,333
+<i>Quiero el nombre del responsable</i>
+<i>en cuanto vuelva.</i>
+
+585
+00:42:28,458 --> 00:42:31,583
+<i>[Ana Mari] He llevado muchísimas veces</i>
+<i>esas fotos a la policía.</i>
+
+586
+00:42:32,375 --> 00:42:34,500
+<i>Allí ha habido siempre una gente muy rara.</i>
+
+587
+00:42:35,208 --> 00:42:38,291
+<i>Hace 40, años vino una pareja</i>
+<i>que andaban siempre en pelotas,</i>
+
+588
+00:42:38,625 --> 00:42:41,791
+<i>que tenían animales</i>
+<i>y que traían a mucha gente a reunirse.</i>
+
+589
+00:42:43,541 --> 00:42:47,000
+<i>Solían quemar hierbas que olían muy fuerte</i>
+<i>y a veces oíamos chillidos.</i>
+
+590
+00:42:47,708 --> 00:42:49,500
+<i>Como si aquello fuera un matadero.</i>
+
+591
+00:42:52,125 --> 00:42:53,500
+<i>Ainara era su hija.</i>
+
+592
+00:42:56,000 --> 00:42:57,541
+<i>Tenía como año y pico.</i>
+
+593
+00:42:58,041 --> 00:43:00,416
+<i>No le hacían caso nunca</i>
+<i>ni le daban de comer.</i>
+
+594
+00:43:00,833 --> 00:43:02,833
+<i>Y andaba siempre sucia y sola.</i>
+
+595
+00:43:04,708 --> 00:43:06,208
+<i>¿No alimentaban a su hija?</i>
+
+596
+00:43:06,291 --> 00:43:08,375
+<i>Un día que hice rosquillas, las olió</i>
+
+597
+00:43:08,458 --> 00:43:10,708
+<i>y vino andando desde su casa</i>
+<i>muerta de hambre.</i>
+
+598
+00:43:11,625 --> 00:43:12,458
+<i>Aquí está.</i>
+
+599
+00:43:12,541 --> 00:43:14,041
+<i>Le dimos rosquillas con leche</i>
+
+600
+00:43:14,458 --> 00:43:16,458
+<i>y se lo comió todo con un ansia...</i>
+
+601
+00:43:16,875 --> 00:43:18,708
+<i>que yo pensé que se iba a ahogar.</i>
+
+602
+00:43:19,208 --> 00:43:21,458
+<i>Los padres todavía son los dueños,</i>
+<i>aunque...</i>
+
+603
+00:43:21,750 --> 00:43:23,125
+<i>de jipis, nada.</i>
+
+604
+00:43:23,541 --> 00:43:24,750
+<i>Ahora están forrados</i>
+
+605
+00:43:24,833 --> 00:43:27,958
+<i>y siempre les visitan ricos con cochazos</i>
+<i>y hasta con escolta.</i>
+
+606
+00:43:28,875 --> 00:43:30,791
+<i>Cualquier día veo ahí al lendakari.</i>
+
+607
+00:43:31,500 --> 00:43:32,833
+<i>¿Qué pasó con Ainara?</i>
+
+608
+00:43:33,083 --> 00:43:36,083
+<i>Una noche fui a llevarles </i>
+<i>unas ropas de mis hijas,</i>
+
+609
+00:43:36,166 --> 00:43:37,333
+<i>y cuando llegué allí,</i>
+
+610
+00:43:38,416 --> 00:43:40,833
+<i>vi que había un montón de gente</i>
+<i>celebrando algo.</i>
+
+611
+00:43:41,000 --> 00:43:43,041
+<i>Pregunté por Ainara y me dijeron</i>
+
+612
+00:43:43,250 --> 00:43:44,875
+<i>que había muerto de un ictus.</i>
+
+613
+00:43:46,125 --> 00:43:48,416
+<i>La cría muerta y ellos tan contentos.</i>
+
+614
+00:43:49,916 --> 00:43:51,333
+<i>Ni funeral le hicieron.</i>
+
+615
+00:43:52,958 --> 00:43:55,166
+<i>Dijeron que fue</i>
+<i>durante un viaje a Inglaterra</i>
+
+616
+00:43:55,250 --> 00:43:56,833
+<i>y que la habían enterrado allí.</i>
+
+617
+00:44:00,333 --> 00:44:02,791
+<i>¿Recuerda haber visto a esta mujer</i>
+<i>por el caserío?</i>
+
+618
+00:44:03,458 --> 00:44:05,250
+<i>[Ana Mari] Uy, infinidad de veces.</i>
+
+619
+00:44:05,875 --> 00:44:07,000
+<i>Esa sigue viniendo.</i>
+
+620
+00:44:09,583 --> 00:44:12,583
+<i>Muchísimas gracias.</i>
+<i>Su testimonio me va a ser de gran ayuda.</i>
+
+621
+00:44:13,333 --> 00:44:14,333
+<i>Un poco tarde.</i>
+
+622
+00:44:17,166 --> 00:44:19,291
+<i>Tú anda con mucho cuidado, maja.</i>
+
+623
+00:44:19,791 --> 00:44:22,666
+<i>A las brujas y al demonio</i>
+<i>no se los puede matar con balas.</i>
+
+624
+00:44:25,666 --> 00:44:26,833
+<i>[obturador de cámara]</i>
+
+625
+00:44:31,291 --> 00:44:32,208
+<i>Disculpe.</i>
+
+626
+00:44:34,416 --> 00:44:35,250
+<i>Disculpe.</i>
+
+627
+00:44:36,083 --> 00:44:37,250
+<i>Un momento, por favor.</i>
+
+628
+00:44:37,916 --> 00:44:40,916
+<i>[Amaia] ¡Por favor! ¡Eh! Espere.</i>
+
+629
+00:44:43,583 --> 00:44:45,583
+<i>¡Eh! </i>
+
+630
+00:44:45,875 --> 00:44:46,708
+<i>¡Deténgase!</i>
+
+631
+00:44:48,166 --> 00:44:50,208
+<i>[mujer jadea]</i>
+
+632
+00:44:53,958 --> 00:44:55,250
+<i>[mujer grita]</i>
+
+633
+00:44:59,083 --> 00:45:00,458
+<i>[mujer] ¡Suéltame, asesina!</i>
+
+634
+00:45:00,541 --> 00:45:01,833
+<i>- ¡Quieta!</i>
+<i>- Conozco mis derechos.</i>
+
+635
+00:45:01,916 --> 00:45:03,041
+<i>- [Amaia] ¡Para!</i>
+<i>- Asesina.</i>
+
+636
+00:45:03,125 --> 00:45:04,750
+<i>Soy policía. Solo quiero hablar.</i>
+
+637
+00:45:04,833 --> 00:45:07,666
+<i>¿Vale? Solo quiero saber</i>
+<i>por qué hacías fotos a esa casa.</i>
+
+638
+00:45:07,750 --> 00:45:08,916
+<i>Porque esa gente...</i>
+
+639
+00:45:10,166 --> 00:45:11,750
+<i>mató a mis hijos.</i>
+
+640
+00:45:12,958 --> 00:45:14,583
+<i>[llora]</i>
+
+641
+00:45:15,208 --> 00:45:16,791
+<i>Yo nunca quise tener niños.</i>
+
+642
+00:45:17,666 --> 00:45:19,291
+<i>Era mi marido quien los quería.</i>
+
+643
+00:45:21,625 --> 00:45:24,000
+<i>Pero cuando nacieron y vi sus caritas...</i>
+
+644
+00:45:26,416 --> 00:45:27,666
+<i>¿Cómo se llama su marido?</i>
+
+645
+00:45:28,333 --> 00:45:29,333
+<i>Es francés.</i>
+
+646
+00:45:30,750 --> 00:45:32,166
+<i>Todavía estamos casados.</i>
+
+647
+00:45:32,750 --> 00:45:33,583
+<i>Aunque...</i>
+
+648
+00:45:34,666 --> 00:45:38,625
+<i>Él ahora vive en nuestra casa de Ainhoa</i>
+<i>con una puta que se ha buscado.</i>
+
+649
+00:45:39,875 --> 00:45:41,625
+<i>¿Cómo se llama su marido, Yolanda?</i>
+
+650
+00:45:42,166 --> 00:45:43,541
+<i>Marcel Tremond.</i>
+
+651
+00:45:44,458 --> 00:45:46,291
+<i>Al principio era todo atenciones,</i>
+
+652
+00:45:46,375 --> 00:45:49,708
+<i>pero estando yo embarazada,</i>
+<i>conoció a la gente de esa casa</i>
+
+653
+00:45:49,791 --> 00:45:51,416
+<i>y se nos fue todo a la mierda.</i>
+
+654
+00:45:52,625 --> 00:45:55,083
+<i>- ¿Le propuso dar a luz en casa?</i>
+<i>- Vaya que sí.</i>
+
+655
+00:45:55,583 --> 00:45:57,333
+<i>"A la antigua", decía.</i>
+
+656
+00:45:58,083 --> 00:46:01,125
+<i>Pero lo descartamos</i>
+<i>cuando supimos que teníamos gemelos.</i>
+
+657
+00:46:01,875 --> 00:46:03,291
+<i>¿De qué murieron sus gemelos?</i>
+
+658
+00:46:04,416 --> 00:46:06,541
+<i>De muerte de cuna. [sollozo]</i>
+
+659
+00:46:06,958 --> 00:46:08,500
+<i>Los dos, la misma noche.</i>
+
+660
+00:46:08,875 --> 00:46:10,291
+<i>Lloré tanto...</i>
+
+661
+00:46:10,375 --> 00:46:12,500
+<i>Pensé que se me rajaba la garganta.</i>
+
+662
+00:46:13,750 --> 00:46:16,416
+<i>Yo me volví loca, lo reconozco.</i>
+
+663
+00:46:16,500 --> 00:46:18,041
+<i>Por perderlos, y...</i>
+
+664
+00:46:21,208 --> 00:46:23,916
+<i>Y por ver lo que hizo mi marido</i>
+<i>el día del entierro.</i>
+
+665
+00:46:24,333 --> 00:46:25,166
+<i>¿Qué hizo?</i>
+
+666
+00:46:25,833 --> 00:46:27,291
+<i>Llevarse los cuerpos.</i>
+
+667
+00:46:27,791 --> 00:46:29,041
+<i>Eso es lo que hizo.</i>
+
+668
+00:46:29,375 --> 00:46:32,333
+<i>[Yolanda] </i><span style="style2">Dijo que a partir de su muerte,</i>
+<span style="style2">todo nos iría bien.</i>
+
+669
+00:46:32,416 --> 00:46:35,708
+<i>Mandó cerrar sus cajitas,</i>
+<i>pero yo las abrí.</i>
+
+670
+00:46:36,458 --> 00:46:39,416
+<i>Y vi que solo había toallas</i>
+<i>y paquetes de azúcar.</i>
+
+671
+00:46:39,708 --> 00:46:42,875
+<i>Le dije que no me creía</i>
+<i>que los bebés estuvieran en su tumba</i>
+
+672
+00:46:43,000 --> 00:46:44,750
+<i>y que quería abrirla, pero...</i>
+
+673
+00:46:45,291 --> 00:46:48,791
+<i>el panteón de Ainhoa es de su familia</i>
+<i>y él se niega.</i>
+
+674
+00:46:50,416 --> 00:46:52,250
+<i>Después de eso,</i>
+<i>su marido no estaba en casa.</i>
+
+675
+00:46:52,333 --> 00:46:55,250
+<i>Empezó a seguirlo y a hacerle fotos</i>
+<i>y siempre iba a ese caserío.</i>
+
+676
+00:46:55,333 --> 00:46:58,125
+<i>Por curiosidad, jefa,</i>
+<i>¿cómo ha llegado hasta allí?</i>
+
+677
+00:46:58,208 --> 00:46:59,250
+<i>Buscando a mi madre.</i>
+
+678
+00:47:00,000 --> 00:47:03,375
+<i>Goñi, Yolanda tiene tarjetas de memoria</i>
+<i>con fotos que hay que recoger.</i>
+
+679
+00:47:03,458 --> 00:47:04,416
+<i>[Goñi] En ello.</i>
+
+680
+00:47:04,500 --> 00:47:07,625
+<i>A las empresas del marido las representa</i>
+<i>el bufete de Pamplona.</i>
+
+681
+00:47:07,708 --> 00:47:09,250
+<i>- Todo encaja.</i>
+<i>- [Montes] Todo no.</i>
+
+682
+00:47:09,333 --> 00:47:11,833
+<i>Este es el primer caso</i>
+<i>de hermanos fallecidos a la vez,</i>
+
+683
+00:47:11,916 --> 00:47:13,458
+<i>y de niños, en lugar de niñas.</i>
+
+684
+00:47:13,625 --> 00:47:16,250
+<i>Además, un juez</i>
+<i>podría considerarla una resentida</i>
+
+685
+00:47:16,333 --> 00:47:20,291
+<i>- que solo busca vengarse de su exmarido.</i>
+<i>- Pero ahora es lo único que tenemos.</i>
+
+686
+00:47:20,375 --> 00:47:22,166
+<i>Consigamos los informes de las autopsias.</i>
+
+687
+00:47:22,250 --> 00:47:25,208
+<i>Markina no nos va a dejar</i>
+<i>abrir tumbas de niños sin pruebas.</i>
+
+688
+00:47:25,291 --> 00:47:26,333
+<i>[Jonan] Pero, jefa,</i>
+
+689
+00:47:26,416 --> 00:47:29,750
+<i>Ainhoa está en Francia</i>
+<i>y allí Markina no tiene jurisdicción.</i>
+
+690
+00:47:32,791 --> 00:47:33,625
+<i>Venga.</i>
+
+691
+00:47:35,375 --> 00:47:37,625
+<i>[Montes] Jefa. No, que...</i>
+
+692
+00:47:39,666 --> 00:47:42,333
+<i>- Dime.</i>
+<i>- Todos nos estamos dejando los huevos</i>
+
+693
+00:47:42,416 --> 00:47:44,833
+<i>por esas niñas, por todas.</i>
+
+694
+00:47:45,583 --> 00:47:46,583
+<i>¿Qué quieres decir?</i>
+
+695
+00:47:47,000 --> 00:47:48,541
+<i>Estamos de su parte, joder.</i>
+
+696
+00:47:49,041 --> 00:47:51,416
+<i>No somos un atajo de chivatos chapuceros.</i>
+
+697
+00:47:55,500 --> 00:47:58,166
+{\an8}<i>[campanadas]</i>
+
+698
+00:47:58,875 --> 00:48:01,875
+<i>[sirenas]</i>
+
+699
+00:48:05,375 --> 00:48:07,291
+<i>[Jonan] Muy bien, de acuerdo.</i>
+
+700
+00:48:07,708 --> 00:48:10,875
+<i>Los hijos de Yolanda fallecieron</i>
+<i>en el hospital en el que nacieron,</i>
+
+701
+00:48:10,958 --> 00:48:13,208
+<i>y por lo que hemos averiguado,</i>
+<i>no hubo autopsia.</i>
+
+702
+00:48:16,000 --> 00:48:17,250
+<i>[jueza en francés] Vamos.</i>
+
+703
+00:48:27,666 --> 00:48:29,083
+<i>[suena móvil]</i>
+
+704
+00:48:29,166 --> 00:48:31,333
+<i>POLICÍA</i>
+
+705
+00:48:32,750 --> 00:48:35,416
+<i>[jueza en francés]</i>
+<i>Dígame. Sí, lo escucho. Sí, soy yo.</i>
+
+706
+00:48:37,416 --> 00:48:38,250
+<i>Soy yo.</i>
+
+707
+00:48:43,000 --> 00:48:44,416
+<i>¡Paren! Paren un momento.</i>
+
+708
+00:48:46,916 --> 00:48:47,750
+<i>De acuerdo.</i>
+
+709
+00:48:49,041 --> 00:48:50,416
+<i>Gracias por la información.</i>
+
+710
+00:48:51,250 --> 00:48:52,541
+<i>[en francés] ¿Algún problema?</i>
+
+711
+00:48:52,625 --> 00:48:55,833
+<i>El juez del caso desautoriza</i>
+<i>la apertura de la tumba de los niños.</i>
+
+712
+00:48:55,916 --> 00:48:58,458
+<i>Pero fue por otro caso</i>
+<i>con el que no hay relación.</i>
+
+713
+00:48:58,541 --> 00:49:00,583
+<i>Escuche, nunca, ¿entiende ese término?</i>
+
+714
+00:49:00,875 --> 00:49:04,375
+<i>Nunca vuelva a llamarme porque no</i>
+<i>tendrá mi colaboración, ¿está claro?</i>
+
+715
+00:49:05,375 --> 00:49:06,375
+<i>Póngalo en su sitio.</i>
+
+716
+00:49:06,458 --> 00:49:09,125
+<i>No. [llora]</i>
+
+717
+00:49:09,625 --> 00:49:11,583
+<i>¡No! Mis bebés.</i>
+
+718
+00:49:11,750 --> 00:49:14,291
+<i>[Yolanda llora] No, mis bebés.</i>
+
+719
+00:49:19,458 --> 00:49:21,583
+<i>[Amaia] Javier, déjame que te explique.</i>
+
+720
+00:49:21,791 --> 00:49:23,166
+<i>[llamada desconectada]</i>
+
+721
+00:50:01,500 --> 00:50:05,083
+<i>[en inglés] </i><span style="style2">Soy Aloisius Dupree.</i>
+<span style="style2">Deja tu mensaje y te llamaré más tarde.</i>
+
+722
+00:50:14,125 --> 00:50:15,583
+<i>[balbuceo]</i>
+
+723
+00:50:19,166 --> 00:50:20,958
+<i>[tía] Qué pronto, cariño, qué bien.</i>
+
+724
+00:50:24,416 --> 00:50:25,625
+<i>[susurra] Hola, mi amor.</i>
+
+725
+00:50:29,291 --> 00:50:31,291
+<i>[grifo abierto]</i>
+
+726
+00:50:48,500 --> 00:50:50,500
+<i>[murmullo de río]</i>
+
+727
+00:50:51,666 --> 00:50:54,166
+<i>[niña]</i>
+<span style="style2">Limpia el río, Amaia. Lava la ofensa.</i>
+
+728
+00:50:55,416 --> 00:50:56,791
+<i>[James en inglés] </i><span style="style2">Sécate el pelo.</i>
+
+729
+00:50:58,375 --> 00:50:59,625
+<i>Te vas a resfriar.</i>
+
+730
+00:51:04,166 --> 00:51:06,083
+<i>[en inglés] ¿Cuánto tiempo he dormido?</i>
+
+731
+00:51:06,416 --> 00:51:09,250
+<i>Bueno, Ibai ya está en la universidad y...</i>
+
+732
+00:51:11,333 --> 00:51:12,166
+<i>¿Sabes?</i>
+
+733
+00:51:16,833 --> 00:51:18,541
+<i>¿Quieres decirme qué está pasando?</i>
+
+734
+00:51:19,250 --> 00:51:21,250
+<i>El caso se ha complicado mucho.</i>
+
+735
+00:51:22,458 --> 00:51:24,250
+<i>Y he cometido un error terrible.</i>
+
+736
+00:51:25,416 --> 00:51:26,833
+<i>He traicionado a un juez.</i>
+
+737
+00:51:28,791 --> 00:51:31,500
+<i>Y ahora no sé qué va a pasar.</i>
+
+738
+00:51:33,666 --> 00:51:34,500
+<i>¿Markina?</i>
+
+739
+00:51:39,416 --> 00:51:40,250
+<i>¿Sabes?</i>
+
+740
+00:51:41,750 --> 00:51:45,000
+<i>A veces es mejor rendirse hoy</i>
+<i>para poder pelear mañana.</i>
+
+741
+00:51:48,791 --> 00:51:50,625
+<i>Pase lo que pase, estaré a tu lado.</i>
+
+742
+00:51:54,416 --> 00:51:55,291
+<i>Lo sé.</i>
+
+743
+00:51:57,375 --> 00:51:58,708
+<i>Siempre lo tengo presente.</i>
+
+744
+00:51:59,541 --> 00:52:03,208
+<i>Te hará bien alejarte unos días,</i>
+<i>desconectar.</i>
+
+745
+00:52:07,708 --> 00:52:10,250
+<i>Mañana iré contigo al funeral de Rosario.</i>
+
+746
+00:52:11,083 --> 00:52:13,333
+<i>Luego iremos juntos a ver a tu padre.</i>
+
+747
+00:52:15,833 --> 00:52:16,666
+<i>Bien.</i>
+
+748
+00:52:31,875 --> 00:52:33,875
+<i>[murmullo del agua]</i>
+
+749
+00:52:37,291 --> 00:52:40,000
+<i>[vibración de móvil]</i>
+
+750
+00:52:46,833 --> 00:52:49,000
+<i>[Amaia] Iriarte, ¿qué pasa?</i>
+
+751
+00:52:50,166 --> 00:52:52,666
+<i>[jefe en francés] Alrededor</i>
+<i>de la medianoche, Yolanda Berrueta</i>
+
+752
+00:52:52,750 --> 00:52:56,166
+<i>ha hecho explotar la tumba de sus hijos</i>
+<i>para comprobar si estaban dentro.</i>
+
+753
+00:52:57,125 --> 00:53:00,500
+<i>Parece ser que encontró</i>
+<i>un viejo cargamento de explosivos</i>
+
+754
+00:53:00,666 --> 00:53:02,375
+<i>que no habían sido destruidos</i>
+
+755
+00:53:02,708 --> 00:53:06,208
+<i>en unas minas propiedad de su familia.</i>
+
+756
+00:53:06,750 --> 00:53:09,666
+<i>El explosivo detonó, pero no funcionó.</i>
+
+757
+00:53:09,750 --> 00:53:12,458
+<i>Así que ella se acercó</i>
+<i>para ver qué había pasado</i>
+
+758
+00:53:12,541 --> 00:53:14,125
+<i>y le explotó en la cara.</i>
+
+759
+00:53:14,208 --> 00:53:17,000
+<i>La explosión le reventó dos dedos</i>
+
+760
+00:53:17,083 --> 00:53:20,708
+<i>y otros dos dedos han sido encontrados</i>
+<i>pegados en el panteón de enfrente.</i>
+
+761
+00:53:20,958 --> 00:53:23,833
+<i>Y también... ha perdido un ojo.</i>
+
+762
+00:53:27,000 --> 00:53:30,416
+<i>[jefe] Lo siento, pero si la jueza</i>
+<i>se entera de que te lo he dicho...</i>
+
+763
+00:53:30,500 --> 00:53:33,625
+<i>[Iriarte en francés]</i>
+<i>Tranquilo, Gaspar. Gracias por todo.</i>
+
+764
+00:53:34,083 --> 00:53:35,291
+<i>Te debo un gran favor.</i>
+
+765
+00:53:35,666 --> 00:53:39,333
+<i>[Gaspar] A pesar de las heridas,</i>
+<i>la mujer logró arrastrarse hasta la tumba</i>
+
+766
+00:53:39,416 --> 00:53:42,125
+<i>y se acercó para mirar dentro.</i>
+
+767
+00:54:22,083 --> 00:54:26,041
+<i>[móvil]</i>
+
+768
+00:54:30,916 --> 00:54:31,833
+<i>Magistrado.</i>
+
+769
+00:54:35,375 --> 00:54:36,208
+<i>Ahí estaré.</i>
+
+770
+00:54:39,625 --> 00:54:42,250
+<i>[con acento]</i>
+<i>Mi exmujer siempre ha sido muy delicada.</i>
+
+771
+00:54:42,708 --> 00:54:46,125
+<i>En el embarazo fue muy descuidada.</i>
+<i>Fumaba, bebía...</i>
+
+772
+00:54:46,500 --> 00:54:50,000
+<i>Tomaba tranquilizantes,</i>
+<i>pastillas para adelgazar...</i>
+
+773
+00:54:50,083 --> 00:54:52,500
+<i>Los niños nacieron</i>
+<i>con problemas respiratorios</i>
+
+774
+00:54:52,583 --> 00:54:54,083
+<i>y ella se sintió muy culpable.</i>
+
+775
+00:54:54,750 --> 00:54:57,208
+<i>[mujer con acento]</i>
+<i>Intentó suicidarse dos veces.</i>
+
+776
+00:54:57,541 --> 00:55:00,708
+<i>Y le convencimos</i>
+<i>para ingresar en nuestra clínica.</i>
+
+777
+00:55:00,958 --> 00:55:02,958
+<i>Además de ser los suegros de Yolanda,</i>
+
+778
+00:55:03,083 --> 00:55:04,708
+<i>Lisa es la jefa de Pediatría</i>
+
+779
+00:55:04,791 --> 00:55:07,750
+<i>en el hospital donde nacieron</i>
+<i>y murieron los niños.</i>
+
+780
+00:55:07,833 --> 00:55:11,291
+<i>Si quiere hacer alguna pregunta,</i>
+<i>inspectora, es el momento.</i>
+
+781
+00:55:14,666 --> 00:55:16,708
+<i>¿Por qué no hicieron una autopsia?</i>
+
+782
+00:55:16,791 --> 00:55:18,333
+<i>Se hace en caso de muerte súbita.</i>
+
+783
+00:55:18,416 --> 00:55:20,333
+<i>Porque no fue muerte súbita.</i>
+
+784
+00:55:20,583 --> 00:55:24,791
+<i>La causa fue la deficiencia pulmonar</i>
+<i>que presentaban desde su nacimiento.</i>
+
+785
+00:55:24,875 --> 00:55:27,541
+<i>Además, ella se negó en redondo.</i>
+
+786
+00:55:27,875 --> 00:55:31,125
+<i>"No abráis en canal a mis hijos", dijo.</i>
+
+787
+00:55:31,583 --> 00:55:33,666
+<i>Yolanda toma una medicación muy fuerte.</i>
+
+788
+00:55:34,083 --> 00:55:36,083
+<i>Confunde fechas, situaciones...</i>
+
+789
+00:55:36,541 --> 00:55:38,208
+<i>[Marcel] Lo confunde todo.</i>
+
+790
+00:55:40,625 --> 00:55:43,666
+<i>¿Qué relación mantienen</i>
+<i>con los abogados Lejarreta y Andía?</i>
+
+791
+00:55:43,750 --> 00:55:47,791
+<i>- Son nuestros asesores y amigos.</i>
+<i>- [Amaia] ¿Les presentaron ellos</i>
+
+792
+00:55:47,875 --> 00:55:49,500
+<i>- al matrimonio Martínez-Batón?</i>
+<i>- Sí.</i>
+
+793
+00:55:49,750 --> 00:55:53,458
+<i>¿Cuál es la naturaleza de las reuniones</i>
+<i>a las que asistían con Berasategui?</i>
+
+794
+00:55:56,166 --> 00:56:01,833
+<i>El doctor dirigía un grupo de ayuda</i>
+<i>para padres que han perdido a un hijo.</i>
+
+795
+00:56:02,166 --> 00:56:06,041
+<i>Nos impactó mucho conocer los cargos</i>
+<i>que había contra el doctor.</i>
+
+796
+00:56:06,625 --> 00:56:09,000
+<i>[Lisa] Con nosotros fue siempre ejemplar.</i>
+
+797
+00:56:10,625 --> 00:56:14,583
+<i>Muchísimas gracias. Han sido realmente</i>
+<i>muy amables. Los acompaño.</i>
+
+798
+00:56:16,583 --> 00:56:17,958
+<i>[Markina] Muchas gracias.. </i>
+
+799
+00:56:19,833 --> 00:56:20,708
+<i>Gracias.</i>
+
+800
+00:56:24,583 --> 00:56:26,583
+<i>[puerta abierta y cerrada]</i>
+
+801
+00:56:40,583 --> 00:56:43,291
+<i>¿Qué se supone que debo hacer</i>
+<i>con usted, inspectora?</i>
+
+802
+00:56:44,500 --> 00:56:46,208
+<i>Me equivoqué acudiendo a la jueza.</i>
+
+803
+00:56:46,833 --> 00:56:48,875
+<i>Pensé que obtendría una nueva línea</i>
+<i>de investigación.</i>
+
+804
+00:56:48,958 --> 00:56:50,583
+<i>¿Por qué no viniste a mí, Amaia?</i>
+
+805
+00:56:50,666 --> 00:56:53,708
+<i>- ¿Vuelvo a ser Amaia?</i>
+<i>- Te doy todo lo que me pides, todo.</i>
+
+806
+00:56:54,125 --> 00:56:56,500
+<i>Y a la primera de cambio,</i>
+<i>me tratas como si no fuera nadie.</i>
+
+807
+00:57:03,333 --> 00:57:05,708
+<i>¿Cómo fue el registro de los archivos</i>
+<i>del Dr. Hidalgo?</i>
+
+808
+00:57:05,791 --> 00:57:06,625
+<i>Mal.</i>
+
+809
+00:57:07,333 --> 00:57:10,250
+<i>Alguien avisó a la enfermera</i>
+<i>y lo había quemado todo.</i>
+
+810
+00:57:10,333 --> 00:57:12,125
+<i>¿Sospechas de alguien de comisaría?</i>
+
+811
+00:57:13,208 --> 00:57:15,208
+<i>Pues ten cuidado si acusas a alguien. </i>
+
+812
+00:57:16,583 --> 00:57:17,875
+<i>Puedes causar mucho daño.</i>
+
+813
+00:57:19,583 --> 00:57:21,416
+<i>Me voy a ir fuera unos días, Javier.</i>
+
+814
+00:57:21,750 --> 00:57:23,625
+<i>Debo atender un asunto personal y...</i>
+
+815
+00:57:24,083 --> 00:57:25,916
+<i>necesito tomar distancia de todo.</i>
+
+816
+00:57:26,958 --> 00:57:27,875
+<i>¿De todo?</i>
+
+817
+00:57:30,125 --> 00:57:31,250
+<i>De la investigación.</i>
+
+818
+00:57:44,291 --> 00:57:46,416
+<i>[Jonan] ¿La llevo a comisaría o a su casa?</i>
+
+819
+00:57:47,666 --> 00:57:48,750
+<i>Déjame en la iglesia.</i>
+
+820
+00:57:59,875 --> 00:58:01,625
+<i>[apaga el motor]</i>
+
+821
+00:58:02,125 --> 00:58:04,125
+<i>No sé por qué va al funeral de su madre.</i>
+
+822
+00:58:05,541 --> 00:58:06,750
+<i>Sabe que no está muerta.</i>
+
+823
+00:58:11,666 --> 00:58:12,875
+<i>No sé nada, Jonan.</i>
+
+824
+00:58:13,291 --> 00:58:15,916
+<i>- Quizá también estoy equivocada con esto.</i>
+<i>- No.</i>
+
+825
+00:58:16,500 --> 00:58:19,625
+<i>Una cosa es equivocarse y meter la pata</i>
+<i>y otra muy distinta es rendirse.</i>
+
+826
+00:58:19,750 --> 00:58:20,958
+<i>No es meter la pata.</i>
+
+827
+00:58:21,291 --> 00:58:24,291
+<i>Es cometer un error</i>
+<i>que casi le cuesta la vida a una persona.</i>
+
+828
+00:58:24,708 --> 00:58:26,083
+<i>Esa mujer está loca, Amaia.</i>
+
+829
+00:58:26,166 --> 00:58:28,208
+<i>Markina no te puede hacer responsable.</i>
+
+830
+00:58:28,708 --> 00:58:31,000
+<i>Y no habríamos recurrido</i>
+<i>a la jueza francesa</i>
+
+831
+00:58:31,083 --> 00:58:32,458
+<i>si él te hubiera apoyado.</i>
+
+832
+00:58:32,541 --> 00:58:34,166
+<i>No debí pasarle por encima.</i>
+
+833
+00:58:34,625 --> 00:58:35,708
+<i>Se está equivocando.</i>
+
+834
+00:58:37,458 --> 00:58:38,958
+<i>No está siendo objetiva, jefa.</i>
+
+835
+00:58:39,208 --> 00:58:42,166
+<i>Me enseñó que el instinto es fundamental</i>
+<i>en un investigador.</i>
+
+836
+00:58:42,458 --> 00:58:44,416
+<i>Que investigar es equivocarse y seguir,</i>
+
+837
+00:58:44,666 --> 00:58:45,500
+<i>insistir,</i>
+
+838
+00:58:45,958 --> 00:58:47,166
+<i>abrir nuevas líneas,</i>
+
+839
+00:58:47,791 --> 00:58:49,041
+<i>luchar como soldados.</i>
+
+840
+00:58:49,250 --> 00:58:53,166
+<i>Y, sin embargo, hoy...</i>
+<i>niega todo lo que me ha enseñado.</i>
+
+841
+00:58:55,208 --> 00:58:57,458
+<i>No puedo pensar, Jonan. [coge aire]</i>
+
+842
+00:58:59,375 --> 00:59:01,041
+<i>Y no quiero volver a equivocarme.</i>
+
+843
+00:59:01,916 --> 00:59:03,500
+<i>El abrigo en el río fue un señuelo.</i>
+
+844
+00:59:03,583 --> 00:59:06,333
+<i>Ambos sabemos que su madre no está muerta,</i>
+<i>digan lo que digan.</i>
+
+845
+00:59:06,916 --> 00:59:09,333
+<i>También creo</i>
+<i>que avisaron a la enfermera Hidalgo.</i>
+
+846
+00:59:10,166 --> 00:59:12,208
+<i>- Y respecto al juez...</i>
+<i>- ¿Qué?</i>
+
+847
+00:59:12,291 --> 00:59:14,416
+<i>Su implicación personal con él la ciega.</i>
+
+848
+00:59:14,500 --> 00:59:15,708
+<i>¿Cómo te atreves?</i>
+
+849
+00:59:20,291 --> 00:59:21,333
+<i>Porque me importas.</i>
+
+850
+00:59:23,666 --> 00:59:26,291
+<i>Nunca dejaría que algo personal</i>
+<i>afectara a una investigación.</i>
+
+851
+00:59:26,791 --> 00:59:27,958
+<i>Pues no empieces hoy.</i>
+
+852
+00:59:46,833 --> 00:59:47,958
+<i>[Amaia suspira]</i>
+
+853
+01:00:07,958 --> 01:00:09,416
+<i>Lárgate de aquí ahora mismo.</i>
+
+854
+01:00:41,708 --> 01:00:44,333
+<i>[sonido del río]</i>
+
+855
+01:00:49,166 --> 01:00:50,000
+<i>[puerta]</i>
+
+856
+01:00:50,083 --> 01:00:51,750
+<i>[tintineo de llaves]</i>
+
+857
+01:00:59,500 --> 01:01:00,625
+<i>[suspira]</i>
+
+858
+01:01:02,250 --> 01:01:03,416
+<i>- Tía.</i>
+<i>- Hola.</i>
+
+859
+01:01:03,500 --> 01:01:05,916
+<i>- Pensé que habías ido al funeral.</i>
+<i>- Casi voy.</i>
+
+860
+01:01:07,125 --> 01:01:10,541
+<i>Pero no puedes ir al funeral de alguien</i>
+<i>que crees que no está muerta.</i>
+
+861
+01:01:10,625 --> 01:01:11,875
+<i>Farsante no soy, Amaia.</i>
+
+862
+01:01:12,916 --> 01:01:13,750
+<i>Y además,</i>
+
+863
+01:01:14,166 --> 01:01:16,250
+<i>que no me sale a mí rezar por su alma.</i>
+
+864
+01:01:16,458 --> 01:01:18,916
+<i>Intentó matar a Ibai y casi me mata a mí.</i>
+
+865
+01:01:19,666 --> 01:01:21,083
+<i>Una cosa es ser piadosa...</i>
+
+866
+01:01:21,583 --> 01:01:22,833
+<i>y otra, gilipollas.</i>
+
+867
+01:01:30,500 --> 01:01:32,625
+<i>¿Qué sabes</i>
+<i>de la brujería en el valle, tía?</i>
+
+868
+01:01:33,291 --> 01:01:36,583
+<i>Hace un siglo, había más gente aquí</i>
+<i>que creía en las brujas</i>
+
+869
+01:01:36,666 --> 01:01:38,125
+<i>que en la Santísima Trinidad.</i>
+
+870
+01:01:39,416 --> 01:01:42,041
+<i>¿Crees que hay gente</i>
+<i>convocando a esas fuerzas ahora?</i>
+
+871
+01:01:42,583 --> 01:01:43,541
+<i>Ay, </i><span style="style2">ama...</i>
+
+872
+01:01:44,250 --> 01:01:47,375
+<i>Mi niña analítica hablando de brujería</i>
+<i>en el siglo XXI.</i>
+
+873
+01:01:48,916 --> 01:01:50,333
+<i>Tía, están matando bebés.</i>
+
+874
+01:01:50,541 --> 01:01:51,875
+<i>Para hacer sacrificios.</i>
+
+875
+01:01:52,625 --> 01:01:53,708
+<i>Ofrendas al mal.</i>
+
+876
+01:01:53,791 --> 01:01:57,041
+<i>Dioses menores</i>
+<i>que alguien está intentando despertar.</i>
+
+877
+01:02:01,291 --> 01:02:05,666
+<i>Cariño, ayer durante una tirada,</i>
+<i>vi algo que me dio miedo.</i>
+
+878
+01:02:06,000 --> 01:02:06,833
+<i>¿El qué?</i>
+
+879
+01:02:07,166 --> 01:02:10,500
+<i>Las cartas me dijeron</i>
+<i>que un buen amigo tuyo está en peligro.</i>
+
+880
+01:02:11,625 --> 01:02:13,333
+<i>Al parecer, han venido a buscarle.</i>
+
+881
+01:02:14,291 --> 01:02:15,125
+<i>Aloisius.</i>
+
+882
+01:02:19,333 --> 01:02:23,083
+<i>[en inglés] </i><span style="style2">No, no hemos sabido</i>
+<span style="style2">del agente Dupree desde hace varios días.</i>
+
+883
+01:02:23,166 --> 01:02:25,541
+<i>No envió el informe</i>
+<i>que dijo que iba a enviar</i>
+
+884
+01:02:25,625 --> 01:02:26,875
+<i>y tampoco nos ha llamado.</i>
+
+885
+01:02:27,625 --> 01:02:30,291
+<i>[en inglés] Me dijo</i>
+<i>que investigaba un caso peligroso.</i>
+
+886
+01:02:30,500 --> 01:02:31,958
+<i>¿Podría estar conectado?</i>
+
+887
+01:02:32,041 --> 01:02:35,041
+<i>Estaba investigando grupos de control y...</i>
+
+888
+01:02:35,458 --> 01:02:39,291
+<i>sí, sospechamos que ha sido capturado.</i>
+<i>Pero no puedo decirle nada más.</i>
+
+889
+01:02:39,375 --> 01:02:41,333
+<i>¿"Grupos de control"?</i>
+
+890
+01:02:43,000 --> 01:02:45,208
+<i>Hablo de sectas, Amaia.</i>
+
+891
+01:02:45,833 --> 01:02:47,208
+<i>No puedo contarle nada más.</i>
+
+892
+01:02:47,541 --> 01:02:49,416
+<i>Cuando se ponga en contacto,</i>
+<i>se lo haré saber.</i>
+
+893
+01:02:50,625 --> 01:02:51,458
+<i>Gracias.</i>
+
+894
+01:02:56,375 --> 01:02:57,208
+<i>[balbuceos]</i>
+
+895
+01:02:57,416 --> 01:02:59,166
+<i>[Flora] El oficio ha sido precioso.</i>
+
+896
+01:02:59,708 --> 01:03:03,166
+<i>- Y había muchísima gente.</i>
+<i>- [Rosaura] Estaba el pueblo entero.</i>
+
+897
+01:03:04,083 --> 01:03:07,583
+<i>María Rosa me ha dado recuerdos</i>
+<i>para ti, tía, que a ver cuándo quedáis.</i>
+
+898
+01:03:08,583 --> 01:03:09,458
+<i>Vale, muy bien.</i>
+
+899
+01:03:10,708 --> 01:03:14,416
+<i>[Flora] Bueno, aprovechando que estamos</i>
+<i>todos juntos, quería contaros algo.</i>
+
+900
+01:03:15,125 --> 01:03:17,291
+<i>Si Amaia deja el teléfono</i>
+<i>de una vez, claro.</i>
+
+901
+01:03:18,083 --> 01:03:20,791
+<i>- Estoy pendiente de algo importante.</i>
+<i>- [Flora] Solo un minuto.</i>
+
+902
+01:03:20,875 --> 01:03:22,500
+<i>El mundo seguirá girando sin ti.</i>
+
+903
+01:03:24,541 --> 01:03:27,291
+<i>Quería deciros</i>
+<i>que he empezado una relación con alguien.</i>
+
+904
+01:03:27,375 --> 01:03:29,291
+<i>Bueno, en realidad hemos retomado.</i>
+
+905
+01:03:29,750 --> 01:03:30,750
+<i>Se llama Fermín.</i>
+
+906
+01:03:31,291 --> 01:03:32,666
+<i>Y Amaia lo conoce bien,</i>
+
+907
+01:03:32,750 --> 01:03:34,208
+<i>- porque trabaja para ella.</i>
+<i>- Montes.</i>
+
+908
+01:03:35,041 --> 01:03:35,875
+<i>El mismo.</i>
+
+909
+01:03:35,958 --> 01:03:38,083
+<i>- Si a ti te hace feliz, Flora...</i>
+<i>- [Flora] Sí.</i>
+
+910
+01:03:39,958 --> 01:03:42,083
+<i>Me ha dicho que mañana salís unos días.</i>
+
+911
+01:03:43,375 --> 01:03:44,833
+<i>Sí, ya os lo había dicho.</i>
+
+912
+01:03:45,375 --> 01:03:47,125
+<i>Perdonadme, debo hacer una llamada.</i>
+
+913
+01:03:55,500 --> 01:03:58,833
+<i>[en inglés] </i><span style="style2">La persona</i>
+<span style="style2">a quien llama no está disponible.</i>
+
+914
+01:04:01,708 --> 01:04:03,750
+<i>[James en inglés]</i>
+<i>Flora regresa a Elizondo.</i>
+
+915
+01:04:03,833 --> 01:04:06,041
+<i>Quiere comprar la parte de Rosaura</i>
+<i>del obrador.</i>
+
+916
+01:04:06,125 --> 01:04:07,333
+<i>Es por lo que discutían.</i>
+
+917
+01:04:11,208 --> 01:04:12,083
+<i>¿Qué pasa, Amaia?</i>
+
+918
+01:04:14,208 --> 01:04:15,875
+<i>Estoy bien. Es solo que...</i>
+
+919
+01:04:17,083 --> 01:04:18,041
+<i>me siento...</i>
+
+920
+01:04:18,541 --> 01:04:19,833
+<i>un poco nerviosa.</i>
+
+921
+01:04:28,458 --> 01:04:29,625
+<i>¿Puedo hacer algo?</i>
+
+922
+01:04:30,333 --> 01:04:31,375
+<i>No, está bien.</i>
+
+923
+01:04:33,125 --> 01:04:37,041
+<i>[móvil]</i>
+
+924
+01:04:37,833 --> 01:04:38,875
+<i>¿Sí?</i>
+
+925
+01:04:39,041 --> 01:04:40,458
+<i>[mujer] </i><span style="style2">¿Inspectora Salazar?</i>
+
+926
+01:04:41,000 --> 01:04:41,833
+<i>Sí.</i>
+
+927
+01:04:41,916 --> 01:04:43,875
+<i>Soy la madre del subinspector Etxaide.</i>
+
+928
+01:04:44,333 --> 01:04:46,875
+<i>Perdone la llamada,</i>
+<i>pero estoy un poco preocupada.</i>
+
+929
+01:04:47,208 --> 01:04:48,416
+<i>¿Está mi hijo con usted?</i>
+
+930
+01:04:49,041 --> 01:04:51,583
+<i>No, Jonan se fue a Pamplona esta mañana.</i>
+
+931
+01:04:51,666 --> 01:04:53,708
+<i>Yo estoy en Elizondo. ¿Ha pasado algo?</i>
+
+932
+01:04:53,791 --> 01:04:56,500
+<i>Es que había quedado</i>
+<i>en venir a casa a comer a la una</i>
+
+933
+01:04:56,583 --> 01:04:58,333
+<i>y ni ha aparecido ni me ha avisado.</i>
+
+934
+01:04:58,416 --> 01:05:01,291
+<i>- Siempre llama y su móvil está apagado.</i>
+<span style="style1">- No se preocupe.</i>
+
+935
+01:05:01,666 --> 01:05:04,541
+<i>Seguro que está con algún compañero.</i>
+<i>Ahora mismo le llamo.</i>
+
+936
+01:05:04,625 --> 01:05:06,625
+<i>Hago unas llamadas y le llamo de vuelta.</i>
+
+937
+01:05:06,791 --> 01:05:08,875
+<i>- No se preocupe.</i>
+<span style="style2">- Muchas gracias, Amaia.</i>
+
+938
+01:05:10,625 --> 01:05:12,625
+<i>[música tensa]</i>
+
+939
+01:05:17,250 --> 01:05:19,833
+<i>[Jonan]</i>
+<span style="style2">Este es el contestador de Jonan Etxaide.</i>
+
+940
+01:05:19,916 --> 01:05:21,958
+<i>Cuando quieras, deja tu mensaje. </i><span style="style1">Agur.</i>
+
+941
+01:05:22,041 --> 01:05:24,541
+<i>Jonan, soy Amaia.</i>
+<i>Llámame cuando puedas, por favor.</i>
+
+942
+01:05:32,958 --> 01:05:34,708
+<i>[tono de llamada]</i>
+
+943
+01:05:35,000 --> 01:05:36,125
+<i>[Montes] </i><span style="style2">Diga, jefa.</i>
+
+944
+01:05:36,416 --> 01:05:40,125
+<i>Fermín, me ha llamado la madre de Jonan.</i>
+<i>Está preocupada porque no lo localiza.</i>
+
+945
+01:05:40,208 --> 01:05:43,500
+<i>Tranquila, llamo a Goñi, que vive cerca,</i>
+<i>para que se pase a mirar.</i>
+
+946
+01:05:43,583 --> 01:05:46,291
+<i>Seguro que este se ha dormido</i>
+<i>con el móvil en silencio.</i>
+
+947
+01:05:46,375 --> 01:05:47,458
+<i>Sí, hazlo, por favor.</i>
+
+948
+01:05:52,625 --> 01:05:54,375
+<i>[respiración agitada]</i>
+
+949
+01:05:55,541 --> 01:05:56,666
+<i>[en inglés] ¿Qué pasa?</i>
+
+950
+01:06:00,041 --> 01:06:01,041
+<i>[James] Amaia.</i>
+
+951
+01:06:01,666 --> 01:06:03,083
+<i>Amaia, ¿qué está pasando?</i>
+
+952
+01:06:06,208 --> 01:06:07,625
+<i>[en inglés] Me tengo que ir.</i>
+
+953
+01:06:08,375 --> 01:06:09,250
+<i>¿Adónde vas?</i>
+
+954
+01:06:18,416 --> 01:06:20,416
+<i>- [tía] ¿Pasa algo, Amaia?</i>
+<i>- Ahora vengo.</i>
+
+955
+01:06:25,791 --> 01:06:27,958
+<i>- Montes.</i>
+<i>- Jefa, Etxaide estaba en su casa.</i>
+
+956
+01:06:28,041 --> 01:06:30,541
+<i>Goñi ha ido allí</i>
+<i>y ha encontrado la puerta abierta.</i>
+
+957
+01:06:30,625 --> 01:06:32,958
+<i>- ¿Y?</i>
+<i>- Joder, Amaia, que estaba en el suelo.</i>
+
+958
+01:06:33,041 --> 01:06:34,000
+<i>Le han disparado.</i>
+
+959
+01:06:35,750 --> 01:06:36,875
+<i>Dios. Vamos.</i>
+
+960
+01:06:42,041 --> 01:06:44,041
+<i>[sirena]</i>
+
+961
+01:06:48,208 --> 01:06:49,666
+<i>¿Qué ha dicho Goñi exactamente?</i>
+
+962
+01:06:49,750 --> 01:06:53,875
+<i>Que cuando llegó, iba a llamar al timbre,</i>
+<i>pero vio la puerta entornada.</i>
+
+963
+01:06:53,958 --> 01:06:56,083
+<i>Entró y se lo encontró tendido</i>
+<i>en el suelo.</i>
+
+964
+01:06:56,166 --> 01:06:58,166
+<i>[Amaia]</i>
+<i>¿Cuántas veces le han disparado y dónde?</i>
+
+965
+01:06:58,250 --> 01:07:00,666
+<i>[Montes] No lo sé.</i>
+<i>Acababa de entrar cuando hemos hablado.</i>
+
+966
+01:07:01,500 --> 01:07:02,333
+<i>Llámale.</i>
+
+967
+01:07:02,416 --> 01:07:05,250
+<i>- Le he vuelto a llamar y no contesta.</i>
+<i>- ¡Insiste, joder!</i>
+
+968
+01:07:20,666 --> 01:07:21,666
+<i>No lo coge.</i>
+
+969
+01:07:32,916 --> 01:07:34,041
+<i>¿En qué hospital está?</i>
+
+970
+01:07:34,375 --> 01:07:35,583
+<i>No, está en su casa.</i>
+
+971
+01:07:38,291 --> 01:07:39,375
+<i>¿En su casa por qué?</i>
+
+972
+01:07:39,458 --> 01:07:41,750
+<i>No lo sé, le estarán estabilizando.</i>
+
+973
+01:07:43,541 --> 01:07:45,208
+<i>[chirrido de neumáticos]</i>
+
+974
+01:07:47,458 --> 01:07:49,458
+<i>- [claxon]</i>
+<i>- [sirena]</i>
+
+975
+01:07:51,166 --> 01:07:52,250
+<i>[solloza]</i>
+
+976
+01:08:02,083 --> 01:08:02,916
+<i>[agente] Alto.</i>
+
+977
+01:08:13,041 --> 01:08:15,333
+<i>- [Montes] ¡Dejen paso!</i>
+<i>- [hombre] Cuidado.</i>
+
+978
+01:08:17,125 --> 01:08:18,958
+<i>¿Qué hace aquí el coche</i>
+<i>del Sr. San Martín?</i>
+
+979
+01:08:26,916 --> 01:08:27,791
+<i>[agente] Pasen.</i>
+
+980
+01:08:28,541 --> 01:08:30,541
+<i>[respiración agitada]</i>
+
+981
+01:08:33,333 --> 01:08:34,750
+<i>- Déjame pasar.</i>
+<i>- No entre.</i>
+
+982
+01:08:34,833 --> 01:08:36,000
+<i>- Déjame pasar.</i>
+<i>- No lo haga.</i>
+
+983
+01:08:36,083 --> 01:08:37,458
+<i>- Déjame pasar.</i>
+<i>- Por favor.</i>
+
+984
+01:08:37,541 --> 01:08:39,375
+<i>- [Goñi solloza] Por favor.</i>
+<i>- Déjame.</i>
+
+985
+01:08:42,375 --> 01:08:43,208
+<i>[llora] Déjame.</i>
+
+986
+01:08:48,791 --> 01:08:51,291
+<i>[llanto desgarrador] No.</i>
+
+987
+01:08:58,375 --> 01:08:59,208
+<i>[solloza] No.</i>
+
+988
+01:09:15,500 --> 01:09:16,708
+<i>[San Martín] Lo siento. </i>
+
+989
+01:09:17,625 --> 01:09:18,458
+<i>No lo toques.</i>
+
+990
+01:09:40,250 --> 01:09:43,000
+<i>[Amaia] Perdóname.</i>
+
+991
+01:09:44,833 --> 01:09:46,416
+<i>Perdóname, Jonan.</i>
+
+992
+01:09:52,708 --> 01:09:54,083
+<i>Dios, no.</i>
+
+993
+01:10:04,833 --> 01:10:07,541
+<i>[Iriarte] Si quiere que alguien</i>
+<i>la acompañe a casa, inspectora...</i>
+
+994
+01:10:08,416 --> 01:10:11,083
+<i>Si alguno de ustedes no soporta estar aquí</i>
+<i>puede irse.</i>
+
+995
+01:10:11,500 --> 01:10:13,666
+<i>No soy la jefa de Homicidios</i>
+<i>por casualidad.</i>
+
+996
+01:10:15,000 --> 01:10:18,541
+<i>No tardarán mucho en apartarnos del caso,</i>
+<i>así que hagan fotos de todo.</i>
+
+997
+01:10:19,041 --> 01:10:20,250
+<i>Antes de que nos echen.</i>
+
+998
+01:10:20,500 --> 01:10:22,750
+<i>- Por supuesto, inspectora.</i>
+<i>- Claro, jefa.</i>
+
+999
+01:10:41,333 --> 01:10:43,333
+<i>[conversaciones inaudibles]</i>
+
+1000
+01:11:21,125 --> 01:11:21,958
+<i>[Amaia] James.</i>
+
+1001
+01:11:23,375 --> 01:11:26,041
+<i>[en inglés]</i>
+<i>No te vayas, por favor. Quédate conmigo.</i>
+
+1002
+01:11:26,833 --> 01:11:29,333
+<i>[James en inglés]</i>
+<span style="style2">No puedo, Amaia, debo estar allí.</i>
+
+1003
+01:11:33,208 --> 01:11:34,666
+<i>[suspira]</i>
+
+1004
+01:11:35,291 --> 01:11:39,416
+<i>Lo sé. No sé por qué lo he dicho.</i>
+<i>Es que esto es...</i>
+
+1005
+01:11:41,500 --> 01:11:43,125
+<i>tan duro... [llora]</i>
+
+1006
+01:11:43,916 --> 01:11:46,041
+<i>Lo sé.</i>
+
+1007
+01:11:48,333 --> 01:11:50,208
+<i>- Te quiero.</i>
+<i>- [Amaia] </i><span style="style2">Te quiero.</i>
+
+1008
+01:11:52,708 --> 01:11:54,000
+<i>Os quiero a los dos.</i>
+
+1009
+01:11:54,500 --> 01:11:56,083
+<i>[James] Te vemos pronto, ¿vale?</i>
+
+1010
+01:12:18,083 --> 01:12:22,375
+<i>[Amaia] El asesino utilizó munición</i>
+<i>subsónica 9 mm IMI</i><span style="style2"> </i><i>con silenciador.</i>
+
+1011
+01:12:22,833 --> 01:12:25,166
+<i>[Iriarte] Eso explica</i>
+<i>que ningún vecino oyera nada.</i>
+
+1012
+01:12:25,250 --> 01:12:27,583
+<i>Todo apunta</i>
+<i>a que Etxaide conocía a su agresor.</i>
+
+1013
+01:12:28,125 --> 01:12:29,958
+<i>Le abrió la puerta, le dejó pasar...</i>
+
+1014
+01:12:30,625 --> 01:12:31,666
+<i>y entró con él.</i>
+
+1015
+01:12:32,500 --> 01:12:34,666
+<i>Por eso su cuerpo estaba</i>
+<i>al fondo del salón.</i>
+
+1016
+01:12:35,041 --> 01:12:37,041
+<i>Y tampoco parece el típico robo.</i>
+
+1017
+01:12:37,583 --> 01:12:38,958
+<i>No había nada revuelto</i>
+
+1018
+01:12:39,291 --> 01:12:41,375
+<i>y solo se llevaron el portátil,</i>
+
+1019
+01:12:41,541 --> 01:12:44,333
+<i>la cámara de fotos,</i>
+<i>discos duros y tarjetas de memoria.</i>
+
+1020
+01:12:44,833 --> 01:12:45,750
+<i>Y la pistola.</i>
+
+1021
+01:12:45,833 --> 01:12:48,791
+<i>Para un sicario, una pistola limpia</i>
+<i>es más valiosa que el dinero.</i>
+
+1022
+01:12:49,333 --> 01:12:52,000
+<i>El inspector Clemos ha enviado</i>
+<i>el informe de la autopsia.</i>
+
+1023
+01:12:52,083 --> 01:12:53,625
+<i>No soporto a ese gilipollas.</i>
+
+1024
+01:12:53,708 --> 01:12:57,208
+<i>O empieza a comunicarse con nosotros</i>
+<i>por escrito o se me escapará una hostia.</i>
+
+1025
+01:12:57,291 --> 01:13:00,541
+<i>El informe dice que recibió un disparo</i>
+<i>en el torso y otro en la frente,</i>
+
+1026
+01:13:00,625 --> 01:13:04,041
+<i>y que por la trayectoria del primero,</i>
+<i>el asesino debía estar sentado o...</i>
+
+1027
+01:13:04,125 --> 01:13:05,041
+<i>O de rodillas.</i>
+
+1028
+01:13:06,250 --> 01:13:08,541
+<i>Un sicario nunca haría</i>
+<i>un primer disparo tan bajo.</i>
+
+1029
+01:13:09,041 --> 01:13:10,833
+<i>Y el segundo podría ser para asegurarse,</i>
+
+1030
+01:13:10,916 --> 01:13:12,708
+<i>pero el informe dice</i>
+<i>que con el primer disparo,</i>
+
+1031
+01:13:12,791 --> 01:13:15,083
+<i>- habría bastado para matarlo.</i>
+<i>- ¿Qué insinúa?</i>
+
+1032
+01:13:15,791 --> 01:13:18,333
+<i>Que el segundo lo hizo</i>
+<i>para ahorrarle sufrimiento.</i>
+
+1033
+01:13:19,958 --> 01:13:20,958
+<i>Fue piadoso.</i>
+
+1034
+01:13:21,041 --> 01:13:22,291
+<i>No me jodas, Salazar.</i>
+
+1035
+01:13:22,375 --> 01:13:24,375
+<i>¿Desde cuándo es piadoso</i>
+<i>un tiro en la cabeza?</i>
+
+1036
+01:13:24,458 --> 01:13:27,291
+<i>Cuando no hay intención</i>
+<i>de causar más daño del necesario.</i>
+
+1037
+01:13:27,625 --> 01:13:30,458
+<i>¿Y eso lo sabes</i>
+<i>solo porque le pegó otro tiro?</i>
+
+1038
+01:13:31,375 --> 01:13:32,208
+<i>Por eso...</i>
+
+1039
+01:13:32,958 --> 01:13:34,583
+<i>y porque le cerró los ojos después.</i>
+
+1040
+01:13:55,916 --> 01:13:56,916
+<i>[susurra] Lo siento.</i>
+
+1041
+01:14:01,000 --> 01:14:01,833
+<i>Lo siento.</i>
+
+1042
+01:14:13,541 --> 01:14:16,166
+<i>[conversaciones ininteligibles]</i>
+
+1043
+01:14:28,625 --> 01:14:29,541
+<i>Inspectora.</i>
+
+1044
+01:14:31,375 --> 01:14:32,541
+<i>Gracias por venir.</i>
+
+1045
+01:14:32,625 --> 01:14:34,291
+<i>Llámeme Amaia, por favor.</i>
+
+1046
+01:14:34,666 --> 01:14:37,083
+<i>Jonan la apreciaba y la respetaba mucho.</i>
+
+1047
+01:14:37,208 --> 01:14:38,500
+<i>Y yo a él muchísimo.</i>
+
+1048
+01:14:57,458 --> 01:14:59,458
+<i>Los de asuntos internos han detectado</i>
+
+1049
+01:14:59,541 --> 01:15:02,375
+<i>que Etxaide entraba</i>
+<i>en su ordenador personal habitualmente</i>
+
+1050
+01:15:02,458 --> 01:15:03,291
+<i>de modo remoto</i>
+
+1051
+01:15:03,375 --> 01:15:05,458
+<i>para copiar archivos y correos.</i>
+
+1052
+01:15:05,833 --> 01:15:07,583
+<i>[Amaia] Sí, por supuesto, lo hacía.</i>
+
+1053
+01:15:07,666 --> 01:15:09,791
+<i>Jonan era mi ayudante,</i>
+<i>tenía acceso a todo.</i>
+
+1054
+01:15:10,416 --> 01:15:14,125
+<i>Sí, pero dicen</i>
+<i>que entró en su ordenador personal</i>
+
+1055
+01:15:14,208 --> 01:15:18,375
+<i>el día que fuimos a casa de la partera</i>
+<i>y que pudo ser él el que la avisó.</i>
+
+1056
+01:15:19,125 --> 01:15:20,291
+<i>Eso es imposible.</i>
+
+1057
+01:15:21,500 --> 01:15:22,375
+<i>Montes.</i>
+
+1058
+01:15:22,625 --> 01:15:25,500
+<i>¿Es cierto que entraba en su ordenador</i>
+<i>sin autorización?</i>
+
+1059
+01:15:25,750 --> 01:15:29,083
+<i>Etxaide conocía todos mis pasos.</i>
+<i>No necesitaba autorización, joder.</i>
+
+1060
+01:15:29,333 --> 01:15:31,875
+<i>¿Ni siquiera para ver</i>
+<i>el correo personal suyo?</i>
+
+1061
+01:15:32,083 --> 01:15:34,541
+<i>A ver, igual accedió</i>
+<i>para instalar un antivirus</i>
+
+1062
+01:15:34,625 --> 01:15:36,125
+<i>o alguna chorrada de esas.</i>
+
+1063
+01:15:48,833 --> 01:15:49,666
+<i>Amaia.</i>
+
+1064
+01:15:52,875 --> 01:15:53,833
+<i>Soy Marc.</i>
+
+1065
+01:15:55,833 --> 01:15:57,375
+<i>El marido de Jonan.</i>
+
+1066
+01:15:57,791 --> 01:15:58,625
+<i>Marc.</i>
+
+1067
+01:15:59,875 --> 01:16:01,958
+<i>No sabía que Jonan estuviera con alguien.</i>
+
+1068
+01:16:02,875 --> 01:16:04,208
+<i>No se preocupe.</i>
+
+1069
+01:16:04,750 --> 01:16:07,083
+<i>Ya sabe que él era muy reservado</i>
+<i>con sus cosas.</i>
+
+1070
+01:16:08,125 --> 01:16:10,083
+<i>Sin embargo, me hablaba mucho de usted.</i>
+
+1071
+01:16:12,125 --> 01:16:14,875
+<i>Voy a cogerle, Marc, te lo prometo.</i>
+
+1072
+01:16:16,416 --> 01:16:17,875
+<i>Eso no va a devolvérnoslo.</i>
+
+1073
+01:16:19,583 --> 01:16:20,416
+<i>No.</i>
+
+1074
+01:16:21,416 --> 01:16:23,583
+<i>[ambos sollozan]</i>
+
+1075
+01:16:25,208 --> 01:16:26,541
+<i>[Marc] Él lo sabía, Amaia.</i>
+
+1076
+01:16:28,625 --> 01:16:30,791
+<i>[solloza]</i>
+<i>Jonan sabía que estaba en peligro.</i>
+
+1077
+01:16:32,000 --> 01:16:33,125
+<i>[Amaia] ¿Te dijo algo?</i>
+
+1078
+01:16:33,250 --> 01:16:35,750
+<i>Presentía que podía pasarle algo</i>
+<i>y te dejó un mensaje.</i>
+
+1079
+01:16:35,833 --> 01:16:36,750
+<i>¿Qué mensaje?</i>
+
+1080
+01:16:37,083 --> 01:16:38,291
+<i>No es un mensaje al uso,</i>
+
+1081
+01:16:38,708 --> 01:16:40,833
+<i>pero hace como 15 días me dijo que...</i>
+
+1082
+01:16:41,166 --> 01:16:44,125
+<i>te estaba preparando algo,</i>
+<i>y que si no podía dártelo él,</i>
+
+1083
+01:16:44,208 --> 01:16:45,250
+<i>debería hacerlo yo.</i>
+
+1084
+01:16:45,458 --> 01:16:46,333
+<i>¿Y qué te dio?</i>
+
+1085
+01:16:46,791 --> 01:16:47,625
+<i>Una palabra.</i>
+
+1086
+01:16:48,208 --> 01:16:50,125
+<i>Dijo que tú sabrías cómo usarla.</i>
+
+1087
+01:16:50,208 --> 01:16:51,208
+<i>"Ofrenda".</i>
+
+1088
+01:16:52,500 --> 01:16:53,708
+<i>"Ofrenda y su número".</i>
+
+1089
+01:16:56,291 --> 01:16:57,166
+<i>¿Eso es todo?</i>
+
+1090
+01:16:57,500 --> 01:16:59,583
+<i>Dijo que confiaba en ti más que en nadie.</i>
+
+1091
+01:16:59,875 --> 01:17:01,875
+<i>Y que si no podía dártelo él,</i>
+
+1092
+01:17:03,041 --> 01:17:04,375
+<i>yo debería recordar eso.</i>
+
+1093
+01:17:05,166 --> 01:17:06,666
+<i>"Ofrenda y su número".</i>
+
+1094
+01:17:23,625 --> 01:17:24,458
+<i>[Markina] Amaia.</i>
+
+1095
+01:17:26,875 --> 01:17:27,833
+<i>Magistrado.</i>
+
+1096
+01:17:28,708 --> 01:17:29,583
+<i>¿Qué hace aquí?</i>
+
+1097
+01:17:36,916 --> 01:17:38,000
+<i>Lo siento mucho.</i>
+
+1098
+01:17:41,458 --> 01:17:43,791
+<i>- Gracias.</i>
+<i>- ¿Te apetece ir a tomar una copa?</i>
+
+1099
+01:17:44,916 --> 01:17:46,291
+<i>Conozco el lugar perfecto.</i>
+
+1100
+01:17:50,166 --> 01:17:51,000
+<i>Sí.</i>
+
+1101
+01:18:00,791 --> 01:18:02,958
+<i>[Markina]</i>
+<i>No te imaginaba bebiendo güisqui.</i>
+
+1102
+01:18:06,083 --> 01:18:08,333
+<i>¿No me imaginabas a mí</i>
+<i>o a ninguna otra mujer?</i>
+
+1103
+01:18:09,625 --> 01:18:12,041
+<i>No me imaginaba a la inspectora Salazar.</i>
+
+1104
+01:18:14,416 --> 01:18:15,500
+<i>Tiene algo que...</i>
+
+1105
+01:18:16,958 --> 01:18:18,083
+<i>te duerme el dolor.</i>
+
+1106
+01:18:20,208 --> 01:18:22,208
+<i>Y a la vez, te mantiene la mente lúcida.</i>
+
+1107
+01:18:25,166 --> 01:18:28,291
+<i>Una vez fui a un funeral irlandés</i>
+
+1108
+01:18:29,500 --> 01:18:32,666
+<i>y en lugar de lamentarse</i>
+<i>por la pérdida de su amigo,</i>
+
+1109
+01:18:32,750 --> 01:18:34,041
+<i>lo que hicieron fue...</i>
+
+1110
+01:18:34,541 --> 01:18:36,416
+<i>celebrar la vida que había tenido.</i>
+
+1111
+01:18:37,708 --> 01:18:39,958
+<i>Me dijeron que,</i>
+<i>según las leyendas locales,</i>
+
+1112
+01:18:40,500 --> 01:18:42,833
+<i>los funerales duraban tres días,</i>
+
+1113
+01:18:42,916 --> 01:18:45,958
+<i>para asegurarse de que el fallecido</i>
+<i>no fingía su muerte,</i>
+
+1114
+01:18:46,416 --> 01:18:48,041
+<i>ya que ningún irlandés era capaz</i>
+
+1115
+01:18:48,125 --> 01:18:51,333
+<i>de resistirse a tres días</i>
+<i>de güisqui, fiesta, amigos...</i>
+
+1116
+01:18:51,458 --> 01:18:53,000
+<i>sin levantarse del ataúd.</i>
+
+1117
+01:18:57,916 --> 01:18:58,833
+<i>Gracias.</i>
+
+1118
+01:18:59,708 --> 01:19:01,000
+<i>Nunca vi a Jonan beber.</i>
+
+1119
+01:19:02,875 --> 01:19:05,583
+<i>Una cerveza le vi tomarse una vez.</i>
+
+1120
+01:19:07,125 --> 01:19:08,625
+<i>Pero creo que era sin alcohol.</i>
+
+1121
+01:19:12,750 --> 01:19:15,250
+<i>La primera vez que le vi, me pareció...</i>
+
+1122
+01:19:15,541 --> 01:19:16,833
+<i>un sabelotodo.</i>
+
+1123
+01:19:18,333 --> 01:19:19,375
+<i>Casi pedante.</i>
+
+1124
+01:19:21,125 --> 01:19:22,916
+<i>Pero después me di cuenta de que...</i>
+
+1125
+01:19:23,958 --> 01:19:25,708
+<i>lo que quería era impresionarme.</i>
+
+1126
+01:19:28,416 --> 01:19:29,541
+<i>A los pocos días,</i>
+
+1127
+01:19:30,541 --> 01:19:33,291
+<i>le vi interrogar a unos niños</i>
+<i>de los que habían abusado.</i>
+
+1128
+01:19:33,750 --> 01:19:35,625
+<i>Y me di cuenta de que era un maestro.</i>
+
+1129
+01:19:37,625 --> 01:19:38,541
+<i>De esos...</i>
+
+1130
+01:19:39,416 --> 01:19:40,250
+<i>buenos.</i>
+
+1131
+01:19:42,458 --> 01:19:43,375
+<i>Y cercanos.</i>
+
+1132
+01:19:46,041 --> 01:19:47,875
+<i>Ese mismo día llamé al comisario...</i>
+
+1133
+01:19:48,750 --> 01:19:51,333
+<i>y le dije que no se atreviera</i>
+<i>a alejarlo de mí.</i>
+
+1134
+01:19:52,958 --> 01:19:54,166
+<i>Y en pocas semanas,</i>
+
+1135
+01:19:55,041 --> 01:19:57,291
+<i>se había convertido</i>
+<i>en alguien imprescindible.</i>
+
+1136
+01:20:01,250 --> 01:20:02,583
+<i>¿Se lo dijiste alguna vez? </i>
+
+1137
+01:20:06,125 --> 01:20:07,250
+<i>[llora]</i>
+
+1138
+01:20:57,541 --> 01:20:59,166
+<i>[jadeos]</i>
+
+1139
+01:21:07,083 --> 01:21:08,416
+<i>[Amaia suspira]</i>
+
+1140
+01:21:09,833 --> 01:21:12,875
+<i>[móvil]</i>
+
+1141
+01:21:18,375 --> 01:21:19,333
+<i>[suspira]</i>
+
+1142
+01:21:44,291 --> 01:21:46,291
+<i>[vuelve a sonar el móvil]</i>
+
+1143
+01:21:52,416 --> 01:21:53,250
+<i>James.</i>
+
+1144
+01:21:53,500 --> 01:21:57,791
+<i>[James en inglés] </i><span style="style2">El cirujano acaba</i>
+<span style="style2">de salir y dice que todo ha ido perfecto.</i>
+
+1145
+01:21:59,041 --> 01:22:00,291
+<i>[en inglés] Qué bien.</i>
+
+1146
+01:22:00,875 --> 01:22:04,500
+<i>El único problema que tenemos ahora</i>
+<i>es que alguien aquí te echa de menos.</i>
+
+1147
+01:22:05,250 --> 01:22:07,625
+<i>¿No es así, Ibai? </i>
+<i>¿Echas de menos a tu </i><span style="style1">ama?</i>
+
+1148
+01:22:07,708 --> 01:22:09,041
+<i>[balbuceos]</i>
+
+1149
+01:22:09,458 --> 01:22:12,916
+<i>Escucha, vamos a comer algo </i>
+<i>antes de que mi padre se despierte.</i>
+
+1150
+01:22:13,000 --> 01:22:15,541
+<i>Solo quería llamarte</i>
+<i>y contarte que está bien.</i>
+
+1151
+01:22:16,375 --> 01:22:19,708
+<i>Por supuesto. Gracias.</i>
+<i>Dales un beso de mi parte, ¿vale?</i>
+
+1152
+01:22:20,208 --> 01:22:22,041
+<i>Claro, lo haré ahora mismo.</i>
+
+1153
+01:22:22,708 --> 01:22:23,666
+<i>Te quiero.</i>
+
+1154
+01:22:23,958 --> 01:22:24,916
+<i>Te quiero.</i>
+
+1155
+01:22:46,625 --> 01:22:47,833
+<i>[notificación de móvil]</i>
+
+1156
+01:23:09,708 --> 01:23:12,125
+{\an8}<i>Iriarte, ¿recuerdas</i>
+<i>el número de placa de Jonan?</i>
+
+1157
+01:23:15,500 --> 01:23:16,333
+<i>[Amaia] Gracias.</i>
+
+1158
+01:23:49,833 --> 01:23:50,875
+<i>Joder, Jonan.</i>
+
+1159
+01:23:51,000 --> 01:23:54,333
+<i>[Amaia] El padre de Yolanda ha confirmado</i>
+<i>que un año antes de tener a los gemelos,</i>
+
+1160
+01:23:54,416 --> 01:23:57,333
+<i>su hija tuvo una niña, Haizea,</i>
+<i>que murió de muerte de cuna.</i>
+
+1161
+01:23:57,416 --> 01:23:59,708
+<i>Eso llevó a Yolanda a la depresión</i>
+<i>y a la demencia.</i>
+
+1162
+01:23:59,791 --> 01:24:02,166
+<i>La jueza no nos dejará</i>
+<i>inspeccionar la tumba.</i>
+
+1163
+01:24:02,250 --> 01:24:03,583
+<i>Tampoco serviría de nada.</i>
+
+1164
+01:24:03,666 --> 01:24:06,166
+<i>Tras la explosión,</i>
+<i>el marido ordenó cerrar la losa.</i>
+
+1165
+01:24:06,250 --> 01:24:07,208
+<i>Menudo cabrón.</i>
+
+1166
+01:24:07,708 --> 01:24:10,750
+<i>Bien, todas las localidades de origen</i>
+<i>de los bebés fallecidos</i>
+
+1167
+01:24:10,833 --> 01:24:12,416
+<i>colindan con el río Baztán.</i>
+
+1168
+01:24:12,625 --> 01:24:16,083
+<i>La enfermera Fina Hidalgo es</i>
+<i>nuestro único nexo entre todos los casos.</i>
+
+1169
+01:24:16,166 --> 01:24:18,208
+<i>Además de en el valle,</i>
+<i>trabajó en Guipúzcoa,</i>
+
+1170
+01:24:18,291 --> 01:24:20,458
+<i>y es probable</i>
+<i>que extendiera allí su acción.</i>
+
+1171
+01:24:21,208 --> 01:24:23,625
+<i>[Amaia]</i>
+<i>Uno, tenemos que encontrar la conexión</i>
+
+1172
+01:24:23,708 --> 01:24:26,208
+<i>entre la enfermera</i>
+<i> y los padres de los bebés fallecidos.</i>
+
+1173
+01:24:26,291 --> 01:24:29,250
+<i>- Así Markina nos dejará abrir las tumbas.</i>
+<i>- Yo me encargo de ella.</i>
+
+1174
+01:24:29,333 --> 01:24:32,666
+<i>Dos, debemos revisar las muertes de cuna</i>
+<i>de Guipúzcoa y Navarra,</i>
+
+1175
+01:24:32,750 --> 01:24:35,791
+<i>en especial las de niñas cuyas poblaciones</i>
+<i>colindan con el río Baztán,</i>
+
+1176
+01:24:35,875 --> 01:24:38,416
+<i>- que al norte se convierte en el Bidasoa.</i>
+<i>- Yo me ocupo.</i>
+
+1177
+01:24:38,958 --> 01:24:41,416
+<i>Averiguad si tras sus muertes,</i>
+<i>las familias se enriquecieron.</i>
+
+1178
+01:24:41,500 --> 01:24:43,625
+<i>Así podremos establecer</i>
+<i>un patrón de lucro.</i>
+
+1179
+01:24:43,833 --> 01:24:46,291
+<i>Tres, necesito una orden</i>
+<i>para entrar a Argi Beltz.</i>
+
+1180
+01:24:46,375 --> 01:24:49,625
+<i>No puedo justificarlo, así que investigad</i>
+<i>a los Martínez y encontrad el modo.</i>
+
+1181
+01:24:49,708 --> 01:24:50,541
+<i>Para mí.</i>
+
+1182
+01:24:50,833 --> 01:24:54,625
+<i>Bien, abramos la mente y no nos cerremos</i>
+<i>ante ninguna posibilidad.</i>
+
+1183
+01:24:57,750 --> 01:24:58,583
+<i>Perdonad.</i>
+
+1184
+01:25:00,583 --> 01:25:01,458
+<i>Quería...</i>
+
+1185
+01:25:03,250 --> 01:25:06,208
+<i>Quería pediros disculpas</i>
+<i>por las acusaciones del otro día.</i>
+
+1186
+01:25:06,750 --> 01:25:08,500
+<i>Eso está olvidado, Amaia.</i>
+
+1187
+01:25:12,166 --> 01:25:15,916
+<i>Y quería decirles que, por favor,</i>
+<i>no duden de Jonan.</i>
+
+1188
+01:25:16,791 --> 01:25:18,666
+<i>Gracias a él se ha reabierto el caso.</i>
+
+1189
+01:25:18,958 --> 01:25:21,250
+<i>Merece toda nuestra admiración y respeto.</i>
+
+1190
+01:25:21,750 --> 01:25:23,208
+<i>Pues claro, inspectora.</i>
+
+1191
+01:25:24,916 --> 01:25:25,750
+<i>Adelante.</i>
+
+1192
+01:25:33,791 --> 01:25:34,625
+<i>[suspira]</i>
+
+1193
+01:25:35,500 --> 01:25:38,041
+<i>[móvil]</i>
+
+1194
+01:25:39,000 --> 01:25:39,833
+<i>¿Sí?</i>
+
+1195
+01:25:46,875 --> 01:25:47,708
+<i>Marc.</i>
+
+1196
+01:25:49,500 --> 01:25:51,041
+<i>Perdona que te haya llamado.</i>
+
+1197
+01:25:51,416 --> 01:25:54,583
+<i>- No quería era molestarte.</i>
+<i>- No te preocupes, has hecho bien.</i>
+
+1198
+01:25:54,666 --> 01:25:57,375
+<i>Es que, no sé por qué,</i>
+<i>pensaba que lo habrían limpiado,</i>
+
+1199
+01:25:57,708 --> 01:26:01,208
+<i>y al ver que seguía ahí,</i>
+<i>me he bloqueado y no he podido entrar.</i>
+
+1200
+01:26:01,291 --> 01:26:02,291
+<i>Yo me encargo.</i>
+
+1201
+01:26:06,750 --> 01:26:07,583
+<i>[Marc] Gracias.</i>
+
+1202
+01:26:09,333 --> 01:26:12,083
+<i>Sí, espero a que lleguen. Gracias.</i>
+
+1203
+01:27:22,083 --> 01:27:22,916
+<i>[llora]</i>
+
+1204
+01:27:24,666 --> 01:27:25,750
+<i>[suspira]</i>
+
+1205
+01:27:56,541 --> 01:28:00,666
+<i>Le preguntaré al profesor Santos</i>
+<i>si lo puede analizar.</i>
+
+1206
+01:28:01,666 --> 01:28:05,166
+<i>Es un forense experto en tejidos</i>
+<i>con el que hemos contado en ocasiones.</i>
+
+1207
+01:28:16,333 --> 01:28:18,458
+<i>[en ruso]</i>
+<i>Dios, lo siento. Lo siento mucho.</i>
+
+1208
+01:28:19,250 --> 01:28:22,041
+<i>[en español]</i>
+<i>Amaia, siento mucho lo que ha pasado.</i>
+
+1209
+01:28:22,333 --> 01:28:23,958
+<i>[Amaia solloza]</i>
+
+1210
+01:28:31,375 --> 01:28:35,625
+<i>[móvil]</i>
+
+1211
+01:28:45,791 --> 01:28:47,708
+<i>- [suspira]</i>
+<i>- [Markina] ¿Todo bien?</i>
+
+1212
+01:28:48,041 --> 01:28:48,875
+<i>Sí.</i>
+
+1213
+01:28:52,291 --> 01:28:54,125
+<i>Creí que pasaríamos la noche juntos.</i>
+
+1214
+01:28:56,708 --> 01:28:58,416
+<i>[Amaia] Tengo mil cosas que hacer.</i>
+
+1215
+01:28:58,625 --> 01:29:01,250
+<i>Además, tengo un juez</i>
+<i>que no para de pedirme pruebas.</i>
+
+1216
+01:29:01,833 --> 01:29:03,333
+<i>Así que tengo que dárselas.</i>
+
+1217
+01:29:04,791 --> 01:29:06,291
+<i>No vas a parar nunca, ¿verdad?</i>
+
+1218
+01:29:08,708 --> 01:29:12,541
+<i>Amaia, tienes que parar.</i>
+<i>¿No te das cuenta del daño que te haces?</i>
+
+1219
+01:29:13,208 --> 01:29:15,625
+<i>Yo te quiero</i>
+<i>y quiero que te quedes en esta casa,</i>
+
+1220
+01:29:15,708 --> 01:29:17,125
+<i>pero la cosa no va a funcionar</i>
+
+1221
+01:29:17,208 --> 01:29:19,541
+<i>si sigues obsesionada</i>
+<i>con fantasmas del pasado.</i>
+
+1222
+01:29:19,666 --> 01:29:22,666
+<i>No es una obsesión, Javier.</i>
+<i>Es un instinto de supervivencia.</i>
+
+1223
+01:29:22,750 --> 01:29:23,916
+<i>Mientras ella esté ahí,</i>
+
+1224
+01:29:24,000 --> 01:29:26,125
+<i>- yo no estaré tranquila.</i>
+<i>- Rosario está muerta.</i>
+
+1225
+01:29:28,291 --> 01:29:31,041
+<i>No tendré esta conversación otra vez,</i>
+<i>y menos contigo.</i>
+
+1226
+01:29:31,333 --> 01:29:35,458
+<i>Si de verdad me quieres, me quieres</i>
+<i>como soy. Yo soy un soldado, un buscador.</i>
+
+1227
+01:29:35,958 --> 01:29:36,875
+<i>No pienso parar.</i>
+
+1228
+01:29:38,125 --> 01:29:38,958
+<i>Quédate.</i>
+
+1229
+01:29:41,416 --> 01:29:42,250
+<i>Por favor.</i>
+
+1230
+01:29:46,500 --> 01:29:47,333
+<i>Tengo que irme.</i>
+
+1231
+01:29:53,041 --> 01:29:57,041
+<i>[James en inglés] </i><span style="style2">Desde que se despertó,</i>
+<span style="style2">ha protestado varias veces, buena señal.</i>
+
+1232
+01:29:57,458 --> 01:29:59,791
+<i>Dime cuando puedas hablar,</i>
+<i>a él le gustaría oírte.</i>
+
+1233
+01:29:59,875 --> 01:30:01,000
+<i>Espero que estés bien.</i>
+
+1234
+01:30:38,458 --> 01:30:41,875
+<i>Quiero que entienda que soy su amigo</i>
+<i>y estoy aquí para ayudarla.</i>
+
+1235
+01:30:43,541 --> 01:30:45,833
+<i>El fallecimiento</i>
+<i>del subinspector Etxaide...</i>
+
+1236
+01:30:45,916 --> 01:30:46,833
+<i>Fallecimiento no.</i>
+
+1237
+01:30:47,333 --> 01:30:48,208
+<i>Asesinato.</i>
+
+1238
+01:30:49,333 --> 01:30:52,333
+<i>...me hace pensar</i>
+<i>que debe usted conocer ciertos detalles.</i>
+
+1239
+01:30:54,833 --> 01:30:59,458
+<i>Verá, Navarra siempre ha sido</i>
+<i>tierra de santos y columna de la Iglesia.</i>
+
+1240
+01:31:00,166 --> 01:31:02,458
+<i>Pero también, quizá por eso mismo,</i>
+
+1241
+01:31:02,833 --> 01:31:05,208
+<i>la presencia del mal aquí</i>
+<i>ha sido una constante.</i>
+
+1242
+01:31:06,333 --> 01:31:08,000
+<i>Llevamos mucho tiempo preocupados</i>
+
+1243
+01:31:08,083 --> 01:31:10,583
+<i>por la proliferación de sectas</i>
+<i>en todo el país.</i>
+
+1244
+01:31:12,666 --> 01:31:16,083
+<i>La brujería y las prácticas satánicas</i>
+<i>no son cosas del pasado, Amaia.</i>
+
+1245
+01:31:17,541 --> 01:31:19,250
+<i>Hace tres años, en Madrid,</i>
+
+1246
+01:31:20,208 --> 01:31:24,500
+<i>un hombre confesó que en 1979</i>
+<i>participó en un sacrificio humano</i>
+
+1247
+01:31:24,583 --> 01:31:25,833
+<i>en un caserío de Lesaka.</i>
+
+1248
+01:31:26,041 --> 01:31:28,875
+<i>Conozco todos los casos abiertos</i>
+<i>de homicidios en Navarra...</i>
+
+1249
+01:31:28,958 --> 01:31:30,000
+<i>[Sarasola] Este no.</i>
+
+1250
+01:31:30,083 --> 01:31:31,750
+<i>El juez decretó el secreto del sumario.</i>
+
+1251
+01:31:32,500 --> 01:31:33,833
+<i>¿Hallaron el cadáver de la niña?</i>
+
+1252
+01:31:34,458 --> 01:31:35,291
+<i>Nunca.</i>
+
+1253
+01:31:36,916 --> 01:31:38,250
+<i>[Amaia] ¿Y el denunciante?</i>
+
+1254
+01:31:38,833 --> 01:31:40,416
+<i>Desde entonces vive oculto.</i>
+
+1255
+01:31:41,041 --> 01:31:43,166
+<i>Protegido por la policía y el Opus Dei.</i>
+
+1256
+01:31:43,333 --> 01:31:44,291
+<i>¿Dónde?</i>
+
+1257
+01:31:47,875 --> 01:31:49,000
+<i>Pare ahí delante.</i>
+
+1258
+01:32:10,083 --> 01:32:11,291
+<i>[puerta abierta]</i>
+
+1259
+01:32:16,000 --> 01:32:17,875
+<i>Padre Sarasola, inspectora Salazar.</i>
+
+1260
+01:32:22,250 --> 01:32:23,208
+<i>[Sarasola] Es aquí.</i>
+
+1261
+01:32:29,666 --> 01:32:31,875
+<i>Le presento a la inspectora Salazar.</i>
+
+1262
+01:32:33,625 --> 01:32:36,958
+<i>[testigo] Hace unos 30 años,</i>
+<i>conocí a una chica aquí, en San Fermín,</i>
+
+1263
+01:32:37,041 --> 01:32:40,916
+<i>y me invitó a su casa, en el monte.</i>
+<i>Era una especie de comuna</i>
+
+1264
+01:32:41,000 --> 01:32:44,916
+<i>donde vivíamos, bailábamos</i>
+<i>y nos drogábamos todo el tiempo.</i>
+
+1265
+01:32:46,375 --> 01:32:49,250
+<i>Tenían un líder</i>
+<i>que se llamaba Xabier Tabese.</i>
+
+1266
+01:32:49,416 --> 01:32:50,791
+<i>Era un hombre muy especial.</i>
+
+1267
+01:32:50,875 --> 01:32:54,708
+<i>Nos hablaba de magia,</i>
+<i>de espiritismo, de brujería y...</i>
+
+1268
+01:32:55,583 --> 01:32:58,708
+<i>Y de algo que él llamaba...</i>
+<i>la vuelta a los orígenes.</i>
+
+1269
+01:32:58,833 --> 01:32:59,750
+<i>¿Este es él?</i>
+
+1270
+01:33:00,666 --> 01:33:02,750
+<i>No, ese soy yo.</i>
+
+1271
+01:33:03,500 --> 01:33:05,333
+<i>Él era mucho más reservado,</i>
+
+1272
+01:33:05,916 --> 01:33:07,541
+<i>pero tengo algunas del lugar.</i>
+
+1273
+01:33:07,833 --> 01:33:10,250
+<i>¿Sabe si Xabier Tabese era su nombre real?</i>
+
+1274
+01:33:11,208 --> 01:33:14,083
+<i>Por aquel entonces,</i>
+<i>yo no me planteaba nada, inspectora.</i>
+
+1275
+01:33:14,541 --> 01:33:16,000
+<i>Tenía 25 años,</i>
+
+1276
+01:33:16,083 --> 01:33:18,250
+<i>unos amigos</i>
+<i>con una plantación de marihuana</i>
+
+1277
+01:33:18,333 --> 01:33:20,083
+<i>y una chica que estaba loca por mí.</i>
+
+1278
+01:33:21,208 --> 01:33:25,083
+<i>Tabese nos dijo que si despertábamos </i>
+<i>a las fuerzas primitivas con ofrendas,</i>
+
+1279
+01:33:25,166 --> 01:33:27,333
+<i>podríamos conseguir</i>
+<i>todo lo que quisiéramos.</i>
+
+1280
+01:33:27,666 --> 01:33:30,333
+<i>Pero cuanto más obteníamos,</i>
+<i>más nos pedía él.</i>
+
+1281
+01:33:32,208 --> 01:33:33,250
+<i>Nosotros...</i>
+
+1282
+01:33:34,541 --> 01:33:37,958
+<i>Nosotros le adorábamos.</i>
+<i>Hubiéramos hecho cualquier cosa por él.</i>
+
+1283
+01:33:39,333 --> 01:33:40,416
+<i>¿Sacrificios?</i>
+
+1284
+01:33:42,750 --> 01:33:44,333
+<i>[testigo] Siempre los hubo, sí.</i>
+
+1285
+01:33:44,625 --> 01:33:48,375
+<i>Vidas de animales que entregábamos</i>
+<i>siguiendo un ritual que él mismo dirigía.</i>
+
+1286
+01:33:49,541 --> 01:33:53,583
+<i>Hicimos orgías, nos bebimos su sangre,</i>
+<i>nos cubrimos con ella.</i>
+
+1287
+01:33:54,458 --> 01:33:57,083
+<i>Nos sentíamos poderosos como dioses.</i>
+
+1288
+01:33:57,416 --> 01:33:58,541
+<i>Y entonces...</i>
+
+1289
+01:34:06,583 --> 01:34:08,291
+<i>Lo hicieron sus propios padres.</i>
+
+1290
+01:34:10,916 --> 01:34:14,791
+<i>Ofrecieron a su hija y la mataron</i>
+<i>tal y como Tabese dijo que debía hacerse.</i>
+
+1291
+01:34:15,833 --> 01:34:17,375
+<i>Luego, él se llevó el cuerpo,</i>
+
+1292
+01:34:18,291 --> 01:34:20,416
+<i>y a los pocos días, el grupo desapareció.</i>
+
+1293
+01:34:20,750 --> 01:34:24,708
+<i>Yo nunca volví a ver a nadie.</i>
+<i>Pero sé que a todos les fue muy bien.</i>
+
+1294
+01:34:26,208 --> 01:34:30,208
+<i>En pocos años, todos esos desarrapados</i>
+<i>nos volvimos ricos, inspectora.</i>
+
+1295
+01:34:31,416 --> 01:34:32,291
+<i>Muy ricos.</i>
+
+1296
+01:34:32,791 --> 01:34:33,791
+<i>[solloza]</i>
+
+1297
+01:34:35,666 --> 01:34:36,875
+<i>¿Qué pasó después?</i>
+
+1298
+01:34:38,125 --> 01:34:40,458
+<i>Años más tarde, mi hijo tuvo cáncer.</i>
+
+1299
+01:34:40,750 --> 01:34:44,791
+<i>Y en el hospital reconocí a un médico</i>
+<i>que había formado parte de todo aquello.</i>
+
+1300
+01:34:45,458 --> 01:34:49,000
+<i>Me propuso hacer una ofrenda</i>
+<i>para salvarle, un sacrificio.</i>
+
+1301
+01:34:50,250 --> 01:34:52,958
+<i>Lo pensé. [llora]</i>
+
+1302
+01:34:54,208 --> 01:34:56,875
+<i>Pero la voz de Dios en mi cabeza</i>
+<i>era mucho más fuerte.</i>
+
+1303
+01:35:06,166 --> 01:35:08,083
+<i>A los pocos meses, mi hijo falleció.</i>
+
+1304
+01:35:09,041 --> 01:35:11,125
+<i>Y entonces decidí denunciarlo todo.</i>
+
+1305
+01:35:12,166 --> 01:35:13,625
+<i>Y mi vida se fue a la mierda.</i>
+
+1306
+01:35:14,375 --> 01:35:17,208
+<i>Perdí a mi mujer,</i>
+<i>mi trabajo, mis amigos...</i>
+
+1307
+01:35:18,666 --> 01:35:19,583
+<i>Lo perdí todo.</i>
+
+1308
+01:35:22,083 --> 01:35:24,958
+<i>Tengo entendido que había más grupos</i>
+<i>en otras localidades.</i>
+
+1309
+01:35:25,375 --> 01:35:29,166
+<i>[testigo] Había un grupo en Baztán</i>
+<i>que iba a hacer un sacrificio pronto.</i>
+
+1310
+01:35:29,333 --> 01:35:32,791
+<i>Al parecer, tenían a una niña</i>
+<i>a la que alimentaban lo justo,</i>
+
+1311
+01:35:32,875 --> 01:35:34,583
+<i>esperando el momento de ofrecerla.</i>
+
+1312
+01:35:34,708 --> 01:35:35,666
+<i>Pero no sé más.</i>
+
+1313
+01:35:35,750 --> 01:35:37,500
+<i>¿Recuerda haber visto a esta mujer?</i>
+
+1314
+01:35:39,083 --> 01:35:41,416
+<i>Sí, era del grupo de Baztán.</i>
+
+1315
+01:35:41,750 --> 01:35:43,875
+<i>Cuando la conocí,</i>
+<i>estaba embarazada y era...</i>
+
+1316
+01:35:43,958 --> 01:35:45,666
+<i>No sé cómo decirlo, era...</i>
+
+1317
+01:35:46,458 --> 01:35:47,375
+<i>muy devota.</i>
+
+1318
+01:35:50,416 --> 01:35:51,291
+<i>Y...</i>
+
+1319
+01:35:53,916 --> 01:35:55,500
+<i>mientras el sacrificio,</i>
+
+1320
+01:35:56,541 --> 01:35:59,458
+<i>¿recuerda cuál era el procedimiento</i>
+<i>para obtener lo que querían?</i>
+
+1321
+01:36:04,041 --> 01:36:06,416
+<i>Se la sacrificaba a Inguma, al mal.</i>
+
+1322
+01:36:06,791 --> 01:36:08,750
+<i>Tenía que ser una niña sin bautizar,</i>
+
+1323
+01:36:08,833 --> 01:36:11,291
+<i>porque el bautismo es un compromiso</i>
+<i>con otro dios.</i>
+
+1324
+01:36:11,833 --> 01:36:12,791
+<i>¿Por qué niñas?</i>
+
+1325
+01:36:13,166 --> 01:36:15,416
+<i>Tabese decía que cuando Inguma despierta,</i>
+
+1326
+01:36:15,500 --> 01:36:18,333
+<i>siempre se lleva víctimas de su mismo sexo</i>
+
+1327
+01:36:18,916 --> 01:36:20,000
+<i>y de su misma edad.</i>
+
+1328
+01:36:21,291 --> 01:36:22,708
+<i>¿Qué hacían con los cuerpos?</i>
+
+1329
+01:36:22,791 --> 01:36:26,916
+<i>[testigo] Se llevaban a un lugar mágico,</i>
+<i>según él, más antiguo que el cristianismo,</i>
+
+1330
+01:36:27,000 --> 01:36:28,875
+<i>donde también se dejaban las ofrendas.</i>
+
+1331
+01:36:28,958 --> 01:36:30,291
+<i>- ¿El bosque?</i>
+<i>- No lo sé.</i>
+
+1332
+01:36:31,250 --> 01:36:33,125
+<i>Él se la llevó, pero no sé más.</i>
+
+1333
+01:36:33,208 --> 01:36:34,833
+<i>¿Qué obtenían a cambio?</i>
+
+1334
+01:36:34,916 --> 01:36:36,125
+<i>Lo que quisiéramos.</i>
+
+1335
+01:36:37,583 --> 01:36:38,458
+<i>[Amaida] Pero...</i>
+
+1336
+01:36:38,541 --> 01:36:41,666
+<i>No hay peros, inspectora.</i>
+<i>Conseguíamos todo lo que deseábamos.</i>
+
+1337
+01:36:45,208 --> 01:36:48,083
+<i>[Amaia] ¿Qué le pasaba a la gente</i>
+<i>que abandonaba el grupo?</i>
+
+1338
+01:36:49,166 --> 01:36:50,291
+<i>No lo entiende.</i>
+
+1339
+01:36:51,500 --> 01:36:53,833
+<i>Nadie puede abandonar el grupo, nadie.</i>
+
+1340
+01:36:53,916 --> 01:36:56,500
+<i>Tarde o temprano,</i>
+<i>Inguma se cobra su deuda.</i>
+
+1341
+01:36:56,583 --> 01:36:58,708
+<i>Nos dispersamos, eso sí, pero...</i>
+
+1342
+01:36:59,416 --> 01:37:02,250
+<i>Pero nunca dejas de pertenecer.</i>
+
+1343
+01:37:58,500 --> 01:37:59,375
+<i>[Amaia] Joder.</i>
+
+1344
+01:38:04,416 --> 01:38:05,500
+<i>[suspira]</i>
+
+1345
+01:38:06,083 --> 01:38:07,125
+<i>Mierda.</i>
+
+1346
+01:38:07,541 --> 01:38:10,916
+<i>[móvil]</i>
+
+1347
+01:38:12,458 --> 01:38:13,833
+<i>- Fermín.</i>
+<span style="style2">-</i><i> [Montes]</i><span style="style2"> Amaia.</i>
+
+1348
+01:38:13,916 --> 01:38:16,666
+<i>Han entrado en mi casa.</i>
+<i>Se han llevado los discos duros.</i>
+
+1349
+01:38:16,916 --> 01:38:20,666
+<i>- Buscaban los archivos de Jonan.</i>
+<span style="style2">- Joder. Pues lárguese de ahí ahora mismo.</i>
+
+1350
+01:38:20,750 --> 01:38:22,750
+<i>Sí, ahora me voy. ¿Qué querías?</i>
+
+1351
+01:38:22,833 --> 01:38:25,458
+<i>Ha llamado el Dr. González</i>
+<i>preguntando por usted.</i>
+
+1352
+01:38:25,541 --> 01:38:28,875
+<i>La Dra. Takchenko ha sufrido un accidente</i>
+<i>y está en la UCI.</i>
+
+1353
+01:38:28,958 --> 01:38:30,375
+<i>¡Nadia! ¿Qué ha pasado?</i>
+
+1354
+01:38:30,791 --> 01:38:33,791
+<i>Al parecer, un coche la embistió</i>
+<i>y la sacó de la carretera.</i>
+
+1355
+01:38:33,916 --> 01:38:36,791
+<i>La policía le ha dicho</i>
+<i>que su coche había sido registrado.</i>
+
+1356
+01:38:36,875 --> 01:38:38,833
+<i>El hombre estaba muy jodido, la verdad.</i>
+
+1357
+01:38:39,833 --> 01:38:41,708
+<i>Gracias. Ahora te veo.</i>
+
+1358
+01:38:43,166 --> 01:38:44,041
+<i>Joder.</i>
+
+1359
+01:38:45,875 --> 01:38:49,083
+<i>[tía] </i><span style="style2">Maitia,</i><i> ¿ya hueles</i>
+<i>las lentejas de la tía desde América?</i>
+
+1360
+01:38:49,458 --> 01:38:50,291
+<i>Sí.</i>
+
+1361
+01:38:50,666 --> 01:38:52,500
+<i>[borboteo]</i>
+
+1362
+01:38:54,166 --> 01:38:56,708
+<i>Bueno, James,</i>
+<i>ya le digo yo que has llamado, ¿vale?</i>
+
+1363
+01:38:56,833 --> 01:38:59,000
+<i>Cuídate. </i><span style="style2">Agur.</i>
+
+1364
+01:38:59,208 --> 01:39:01,208
+<i>¿Qué haces cocinando a estas horas, tía?</i>
+
+1365
+01:39:03,250 --> 01:39:05,500
+<i>Amaia, ¿pasa algo que me quieras contar?</i>
+
+1366
+01:39:05,583 --> 01:39:06,791
+<i>No, no pasa nada.</i>
+
+1367
+01:39:08,500 --> 01:39:10,083
+<i>¿Es que ya no le amas, Amaia?</i>
+
+1368
+01:39:10,666 --> 01:39:11,791
+<i>Claro que sí, tía.</i>
+
+1369
+01:39:40,958 --> 01:39:42,375
+<i>[Montes] </i><span style="style2">Lo encontramos, jefa.</i>
+
+1370
+01:39:42,458 --> 01:39:46,000
+<i>Xabier Tabese, muerto hace 11 años</i>
+<i>en accidente náutico.</i>
+
+1371
+01:39:46,458 --> 01:39:47,458
+<i>Es este de ahí.</i>
+
+1372
+01:39:48,125 --> 01:39:51,125
+<i>En varios archivos figura como terapeuta,</i>
+
+1373
+01:39:51,250 --> 01:39:53,708
+<i>pero seguimos buscando</i>
+<i>más información sobre él.</i>
+
+1374
+01:39:54,166 --> 01:39:57,166
+<i>[Iriarte] Está claro</i>
+<i>que le salía el dinero por las orejas.</i>
+
+1375
+01:39:57,583 --> 01:39:58,416
+<i>[Montes] Sí.</i>
+
+1376
+01:40:02,750 --> 01:40:05,833
+<i>Preguntad al encargado</i>
+<i>de qué floristería son las orquídeas.</i>
+
+1377
+01:40:05,958 --> 01:40:08,250
+<i>- Y averiguad quién las paga.</i>
+<i>- De acuerdo.</i>
+
+1378
+01:40:11,250 --> 01:40:13,916
+<i>[obturador de cámara]</i>
+
+1379
+01:40:16,708 --> 01:40:17,750
+<i>¿Yolanda?</i>
+
+1380
+01:40:20,375 --> 01:40:22,250
+<i>[Yolanda]</i>
+<i>No me mire así. Conozco mis derechos.</i>
+
+1381
+01:40:22,333 --> 01:40:24,625
+<i>Puedo hacer fotos en un lugar público.</i>
+
+1382
+01:40:24,708 --> 01:40:27,083
+<i>- ¿Qué hace aquí?</i>
+<i>- Seguirla para ver qué averigua.</i>
+
+1383
+01:40:27,166 --> 01:40:29,041
+<i>- ¿Seguirme adónde? Pare.</i>
+<i>- A todas partes.</i>
+
+1384
+01:40:29,125 --> 01:40:31,500
+<i>Haga el favor de irse.</i>
+<i>Debería estar en un hospital.</i>
+
+1385
+01:40:31,625 --> 01:40:32,791
+<i>¿Ha visto esas flores?</i>
+
+1386
+01:40:33,625 --> 01:40:36,583
+<i>Parecen cunitas con bebés dentro. [llora]</i>
+
+1387
+01:40:36,666 --> 01:40:39,000
+<i>[Amaia]</i>
+<i>Márchese. No me gustaría arrestarla.</i>
+
+1388
+01:40:39,083 --> 01:40:40,541
+<i>¡Diga que sí, inspectora!</i>
+
+1389
+01:40:40,916 --> 01:40:42,416
+<i>Mi hija, desaparecida,</i>
+
+1390
+01:40:42,500 --> 01:40:44,791
+<i>y a usted lo único que le importa </i>
+<i>es su trabajo.</i>
+
+1391
+01:40:45,083 --> 01:40:47,833
+<i>Suélteme. Confiaba en usted. [llora]</i>
+
+1392
+01:40:47,958 --> 01:40:50,666
+<i>Pero ya veo que, en el fondo,</i>
+<i>son todos iguales, todos.</i>
+
+1393
+01:40:50,916 --> 01:40:55,083
+<i>La familia de mi marido,</i>
+<i>los médicos, el juez, la policía...</i>
+
+1394
+01:40:55,166 --> 01:40:57,791
+<i>- Todos van a lo suyo.</i>
+<i>- ¿Se refiere al juez Markina?</i>
+
+1395
+01:40:57,916 --> 01:41:00,250
+<i>Me recomendó</i>
+<i>que me pusiera en contacto con usted.</i>
+
+1396
+01:41:00,333 --> 01:41:02,625
+<i>Me dijo que era una gran policía,</i>
+<i>la mejor.</i>
+
+1397
+01:41:03,125 --> 01:41:06,291
+<i>Y que si había posibilidades,</i>
+<i>sacaría adelante la investigación.</i>
+
+1398
+01:41:06,541 --> 01:41:08,500
+<i>¿Nuestro encuentro no fue casual?</i>
+
+1399
+01:41:08,583 --> 01:41:11,083
+<i>Me pidió que no se lo contara nunca,</i>
+<i>pero me da igual.</i>
+
+1400
+01:41:11,666 --> 01:41:14,333
+<i>¡Gracias, inspectora!</i>
+<i>Muchas gracias. [llora]</i>
+
+1401
+01:41:16,333 --> 01:41:19,250
+<i>- No debería conducir en su estado.</i>
+<i>- ¡Váyase a la mierda!</i>
+
+1402
+01:41:29,416 --> 01:41:31,625
+<i>Me pudo la pena, lo siento.</i>
+
+1403
+01:41:31,708 --> 01:41:33,916
+<i>Me llamó mil veces al despacho</i>
+<i>y yo no podía hacer nada,</i>
+
+1404
+01:41:34,000 --> 01:41:36,958
+<i>así que le dije que si lograba</i>
+<i>que tú te interesaras por su caso,</i>
+
+1405
+01:41:37,041 --> 01:41:38,250
+<i>quizás podrías ayudarla.</i>
+
+1406
+01:41:38,541 --> 01:41:41,208
+<i>Solo le di un consejo</i>
+<i>a una persona desesperada</i>
+
+1407
+01:41:41,291 --> 01:41:42,833
+<i>que sufría mucho, nada más.</i>
+
+1408
+01:41:43,041 --> 01:41:44,875
+<i>- Me engañaste.</i>
+<span style="style2">- No lo hice.</i>
+
+1409
+01:41:44,958 --> 01:41:48,500
+<i>No quería que se presentara</i>
+<i>diciendo que iba de mi parte, ¿entiendes?</i>
+
+1410
+01:41:48,583 --> 01:41:50,916
+<i>No me dejas abrir tumbas,</i>
+<i>pero me envías a Yolanda.</i>
+
+1411
+01:41:51,000 --> 01:41:52,333
+<i>Te pido un permiso y me lo niegas.</i>
+
+1412
+01:41:52,416 --> 01:41:55,375
+<i>Me reprochas que me obsesione con un caso</i>
+<i>y me empujas a él.</i>
+
+1413
+01:41:55,458 --> 01:41:57,250
+<i>No te entiendo, no entiendo tu juego.</i>
+
+1414
+01:41:57,333 --> 01:41:58,625
+<i>No es un juego.</i>
+
+1415
+01:41:59,083 --> 01:42:01,000
+<i>Lo único que hago es protegerte.</i>
+
+1416
+01:42:01,083 --> 01:42:04,083
+<i>- Pero como juez, tengo unos límites.</i>
+<span style="style1">- ¿Así me proteges?</i>
+
+1417
+01:42:04,166 --> 01:42:06,958
+<i>Así te protejo y así te defiendo.</i>
+<i>Nada más.</i>
+
+1418
+01:42:08,125 --> 01:42:09,958
+<i>Pero yo no me salto las normas.</i>
+
+1419
+01:42:11,958 --> 01:42:14,541
+<i>Sé cómo eres. Sé que eres brillante.</i>
+
+1420
+01:42:14,625 --> 01:42:17,833
+<i>Pero no me pidas que te siga,</i>
+<i>porque he de protegerte de ti misma</i>
+
+1421
+01:42:18,208 --> 01:42:19,500
+<i>y de tus miedos.</i>
+
+1422
+01:42:19,958 --> 01:42:20,958
+<i>Ven a casa esta noche</i>
+
+1423
+01:42:21,041 --> 01:42:23,208
+<i>y tengamos esta conversación</i>
+<i>con una botella de vino.</i>
+
+1424
+01:42:23,291 --> 01:42:25,625
+<i>No. He prometido a mi tía</i>
+<i>que cenaría con ella.</i>
+
+1425
+01:42:25,750 --> 01:42:27,208
+<i>- Debo colgar.</i>
+<span style="style2">- ¿En Elizondo?</i>
+
+1426
+01:42:27,291 --> 01:42:28,500
+<i>Sí. Tengo que dejarte.</i>
+
+1427
+01:42:30,916 --> 01:42:34,333
+<i>El dueño de la floristería dice</i>
+<i>que cambian las orquídeas cada semana</i>
+
+1428
+01:42:34,416 --> 01:42:35,750
+<i>y que pagan en metálico.</i>
+
+1429
+01:42:35,833 --> 01:42:37,291
+<i>Pero no tienen ningún nombre.</i>
+
+1430
+01:42:37,375 --> 01:42:39,041
+<i>Siempre paga alguien distinto.</i>
+
+1431
+01:42:39,916 --> 01:42:42,041
+<i>- [Iriarte] ¿Se encuentra bien, jefa?</i>
+<i>- Sí. Vámonos.</i>
+
+1432
+01:42:42,125 --> 01:42:44,291
+<i>- ¿Nos vemos en comisaría?</i>
+<i>- [Amaia] Sí.</i>
+
+1433
+01:42:44,375 --> 01:42:46,208
+<i>- [Goñi] Jefa, tengo novedades.</i>
+<i>- Dime.</i>
+
+1434
+01:42:46,291 --> 01:42:48,541
+<i>- Eliminadas las niñas bautizadas...</i>
+<i>- ¿Sí?</i>
+
+1435
+01:42:48,625 --> 01:42:51,416
+<i>...existen cinco casos</i>
+<i>con las mismas características.</i>
+
+1436
+01:42:52,125 --> 01:42:55,458
+<i>Si la pareja está separada, uno de ellos</i>
+<i>puede autorizar la apertura de la tumba.</i>
+
+1437
+01:42:55,541 --> 01:42:57,166
+<i>Mañana abriremos una en Igantzi</i>
+
+1438
+01:42:57,250 --> 01:42:59,250
+<i>- y espero dos confirmaciones más.</i>
+<i>- Buen trabajo.</i>
+
+1439
+01:43:02,125 --> 01:43:04,875
+<i>- ¿Qué pasa?</i>
+<i>- Clemos ha cerrado el caso de Etxaide.</i>
+
+1440
+01:43:05,166 --> 01:43:06,000
+<i>¿Cómo?</i>
+
+1441
+01:43:06,083 --> 01:43:08,750
+<i>Dice que han sido las mafias del Este</i>
+<i>por tráfico de drogas.</i>
+
+1442
+01:43:08,833 --> 01:43:10,666
+<i>¿Qué dice ese imbécil? ¿Qué pruebas tiene?</i>
+
+1443
+01:43:10,750 --> 01:43:12,875
+<i>Eso le he dicho y dice que ya aparecerán.</i>
+
+1444
+01:43:12,958 --> 01:43:15,708
+<i>- [Montes] ¿Cómo que ya aparecerán?</i>
+<i>- De acuerdo. Jefa.</i>
+
+1445
+01:43:15,791 --> 01:43:17,958
+<i>Dicen que un hombre pregunta por usted.</i>
+
+1446
+01:43:20,250 --> 01:43:23,875
+<i>Ayer a última hora recibí la muestra</i>
+<i>y una nota de la doctora</i>
+
+1447
+01:43:24,125 --> 01:43:28,166
+<i>pidiéndome que la analizara cuanto antes</i>
+<i>y que solo se la mostrara a usted.</i>
+
+1448
+01:43:30,166 --> 01:43:33,208
+<i>[Santos] La fibra es satén de seda</i>
+<i>de altísima calidad.</i>
+
+1449
+01:43:33,291 --> 01:43:35,833
+<i>Por la firma del fabricante</i>
+<i>que se ve en el entramado,</i>
+
+1450
+01:43:35,916 --> 01:43:38,416
+<i>la prenda ha sido confeccionada</i>
+<i>en Inglaterra.</i>
+
+1451
+01:43:38,916 --> 01:43:41,750
+<i>Pero me resulta imposible</i>
+<i>asegurárselo al cien por cien</i>
+
+1452
+01:43:41,875 --> 01:43:43,791
+<i>porque el disparo la ha dejado muy dañada.</i>
+
+1453
+01:43:43,875 --> 01:43:44,708
+<i>¿Disparo?</i>
+
+1454
+01:43:44,791 --> 01:43:45,875
+<i>Sí.</i>
+
+1455
+01:43:46,291 --> 01:43:47,125
+<i>Mire.</i>
+
+1456
+01:43:48,041 --> 01:43:50,208
+<i>Esto es la huella de la deflagración.</i>
+
+1457
+01:43:50,291 --> 01:43:53,708
+<i>El disparo atravesó la tela</i>
+<i>y arrancó la porción que salió despedida.</i>
+
+1458
+01:43:54,500 --> 01:43:59,625
+<i>Es probable que el sujeto</i>
+<i>llevara el arma escondida en el bolsillo</i>
+
+1459
+01:43:59,708 --> 01:44:01,916
+<i>y el disparo atravesara la tela.</i>
+
+1460
+01:44:03,083 --> 01:44:04,500
+<i>Sabíamos que fue un disparo bajo,</i>
+
+1461
+01:44:04,583 --> 01:44:06,416
+<i>pero supusimos</i>
+<i>que el asesino estaba sentado.</i>
+
+1462
+01:44:06,500 --> 01:44:09,708
+<i>Ahí tiene la respuesta, inspectora.</i>
+<i>Para mí, no hay duda.</i>
+
+1463
+01:44:13,291 --> 01:44:15,958
+<i>[móvil]</i>
+
+1464
+01:44:34,833 --> 01:44:36,875
+<i>[música amenazante]</i>
+
+1465
+01:44:37,291 --> 01:44:38,125
+<i>¿Hola?</i>
+
+1466
+01:44:44,625 --> 01:44:45,458
+<i>[Amaia] ¿Hola?</i>
+
+1467
+01:44:48,583 --> 01:44:49,875
+<i>¿Yolanda?</i>
+
+1468
+01:44:55,916 --> 01:44:56,833
+<i>¡Yolanda!</i>
+
+1469
+01:45:34,708 --> 01:45:37,833
+<i>[respiración ahogada]</i>
+
+1470
+01:45:52,416 --> 01:45:53,250
+<i>[gime]</i>
+
+1471
+01:45:53,333 --> 01:45:55,875
+<i>[exclamación]</i>
+
+1472
+01:45:56,916 --> 01:45:58,458
+<i>[metal choca contra el suelo] </i>
+
+1473
+01:46:03,666 --> 01:46:05,583
+<i>[grito ahogado]</i>
+
+1474
+01:46:06,458 --> 01:46:08,458
+<i>[gritos inarticulados]</i>
+
+1475
+01:46:14,958 --> 01:46:15,916
+<i>No.</i>
+
+1476
+01:46:21,958 --> 01:46:23,208
+<i>¡Ayuda! [llora]</i>
+
+1477
+01:46:27,750 --> 01:46:29,041
+<i>¡Ayuda!</i>
+
+1478
+01:46:44,333 --> 01:46:46,125
+<i>[pasos acercándose]</i>
+
+1479
+01:46:51,166 --> 01:46:54,875
+<i>[Montes] El doctor San Martín le avisará</i>
+<i>cuando termine la autopsia.</i>
+
+1480
+01:46:55,000 --> 01:46:55,833
+<i>[Amaia] Gracias.</i>
+
+1481
+01:46:56,958 --> 01:47:00,208
+<i>Iriarte y Goñi están camino de Igantzi</i>
+<i>para abrir una tumba.</i>
+
+1482
+01:47:00,583 --> 01:47:02,375
+<i>Después irán a abrir otra en Irún.</i>
+
+1483
+01:47:03,000 --> 01:47:05,083
+<i>Mientras tanto, yo sigo detrás de Tabese.</i>
+
+1484
+01:47:07,041 --> 01:47:09,666
+<i>Y ya he hablado con su hermana Flora.</i>
+
+1485
+01:47:10,916 --> 01:47:12,000
+<i>Y se lo he contado.</i>
+
+1486
+01:47:13,291 --> 01:47:14,291
+<i>Gracias.</i>
+
+1487
+01:47:17,083 --> 01:47:18,791
+<i>Los lobos no se suicidan, Fermín.</i>
+
+1488
+01:47:19,791 --> 01:47:22,041
+<i>Para que dejen de ser lobos,</i>
+<i>hay que matarlos.</i>
+
+1489
+01:47:23,625 --> 01:47:24,750
+<i>Se les persigue,</i>
+
+1490
+01:47:25,916 --> 01:47:27,625
+<i>se les acorrala y se les enfrenta.</i>
+
+1491
+01:47:27,708 --> 01:47:28,666
+<i>O ganas o mueres.</i>
+
+1492
+01:47:29,791 --> 01:47:31,875
+<i>Pero nunca se tiran por los acantilados.</i>
+
+1493
+01:47:33,458 --> 01:47:35,708
+<i>Rosario lloraba</i>
+<i>porque tampoco quería morir.</i>
+
+1494
+01:47:38,041 --> 01:47:39,750
+<i>Todo es una colección de mentiras.</i>
+
+1495
+01:47:42,708 --> 01:47:46,375
+<i>El archivo de Jonan lo único que hace</i>
+<i>es apuntar a todas esas mentiras.</i>
+
+1496
+01:47:47,125 --> 01:47:49,416
+<i>La tumba de los hijos de Yolanda</i>
+<i>era una mentira.</i>
+
+1497
+01:47:49,500 --> 01:47:52,125
+<i>Berasategui disfrazado</i>
+<i>visitando a mi madre era otra mentira.</i>
+
+1498
+01:47:52,208 --> 01:47:55,375
+<i>¿Por qué tenía Etxaide una carpeta</i>
+<i>con el caso del Basajaun?</i>
+
+1499
+01:47:55,875 --> 01:47:57,041
+<i>[Amaia] Aún no lo sé.</i>
+
+1500
+01:47:57,625 --> 01:47:59,875
+<i>Pero todo esto es una colección</i>
+<i>de mentiras.</i>
+
+1501
+01:47:59,958 --> 01:48:01,916
+<i>Eso trataba de señalarnos Jonan.</i>
+
+1502
+01:48:02,000 --> 01:48:03,666
+<i>[móvil]</i>
+
+1503
+01:48:04,500 --> 01:48:05,333
+<i>Iriarte.</i>
+
+1504
+01:48:06,458 --> 01:48:07,708
+<i>[Montes] Dime, Iriarte.</i>
+
+1505
+01:48:11,666 --> 01:48:12,750
+<i>[Montes] Sí, abridla.</i>
+
+1506
+01:48:21,083 --> 01:48:21,916
+<i>Proceda.</i>
+
+1507
+01:48:32,125 --> 01:48:33,958
+<i>[San Martín] </i><span style="style2">Estaba hidratada,</i>
+
+1508
+01:48:34,041 --> 01:48:36,250
+<i>los órganos bien perfundidos,</i>
+
+1509
+01:48:36,833 --> 01:48:38,458
+<i>las extremidades regadas,</i>
+
+1510
+01:48:38,541 --> 01:48:39,791
+<i>la piel, en buen estado,</i>
+
+1511
+01:48:40,500 --> 01:48:42,541
+<i>las uñas cuidadas, el pelo cortado...</i>
+
+1512
+01:48:42,958 --> 01:48:44,708
+<i>Parecía saludable.</i>
+
+1513
+01:48:46,000 --> 01:48:48,250
+<i>Y no presenta lesiones que puedan indicar</i>
+
+1514
+01:48:48,333 --> 01:48:51,125
+<i>que haya estado expuesta</i>
+<i>a las inclemencias del tiempo.</i>
+
+1515
+01:48:51,208 --> 01:48:54,291
+<i>Yo descartaría que en algún momento</i>
+<i>hubiese estado en el río.</i>
+
+1516
+01:48:54,375 --> 01:48:55,541
+<i>Muchas gracias, doctor.</i>
+
+1517
+01:48:57,208 --> 01:48:58,041
+<i>Inspectora.</i>
+
+1518
+01:49:02,000 --> 01:49:05,375
+<i>Ha perseguido a su madre</i>
+<i>durante demasiado tiempo.</i>
+
+1519
+01:49:06,041 --> 01:49:08,000
+<i>Hasta convertirla en algo irreal.</i>
+
+1520
+01:49:08,916 --> 01:49:10,416
+<i>[San Martín] </i><span style="style2">En una pesadilla.</i>
+
+1521
+01:49:11,333 --> 01:49:14,416
+<i>Amaia, no permitas </i>
+<i>que se convierta en un fantasma.</i>
+
+1522
+01:49:18,125 --> 01:49:19,833
+<i>Es solo una mujer mayor, Amaia.</i>
+
+1523
+01:49:35,500 --> 01:49:37,500
+<i>[puerta]</i>
+
+1524
+01:50:25,041 --> 01:50:25,916
+<i>¿Dónde estás?</i>
+
+1525
+01:50:30,625 --> 01:50:31,958
+<i>[Flora] Estarás contenta.</i>
+
+1526
+01:50:32,666 --> 01:50:34,625
+<i>Al final ha resultado que tenías razón.</i>
+
+1527
+01:50:37,541 --> 01:50:39,791
+<i>¿Por qué dejas nueces</i>
+<i>en la tumba de Anne Arbizu?</i>
+
+1528
+01:50:41,625 --> 01:50:43,708
+<i>No deberías haberla tocado, es para ella.</i>
+
+1529
+01:50:44,041 --> 01:50:45,708
+<i>Estoy harta de mentiras, Flora.</i>
+
+1530
+01:50:46,166 --> 01:50:49,083
+<i>De secretos, de miedos...</i>
+<i>Estoy hasta los cojones, hermana.</i>
+
+1531
+01:50:49,541 --> 01:50:51,833
+<i>Quiero la verdad, y la quiero de ti.</i>
+
+1532
+01:50:57,375 --> 01:50:58,958
+<i>Anne Arbizu era mi hija.</i>
+
+1533
+01:51:01,125 --> 01:51:02,000
+<i>¿Qué?</i>
+
+1534
+01:51:02,750 --> 01:51:05,375
+<i>[Flora] El padre era un tratante de ganado</i>
+<i>que conocí en una feria</i>
+
+1535
+01:51:05,458 --> 01:51:08,500
+<i>y con el que tuve una aventura, sin más.</i>
+
+1536
+01:51:10,416 --> 01:51:13,500
+<i>Cuando la </i><span style="style2">ama</i><i> se enteró,</i>
+<i>me dijo que lo mejor sería ocultarlo.</i>
+
+1537
+01:51:16,208 --> 01:51:17,416
+<i>Y que cuando lo tuviera,</i>
+
+1538
+01:51:18,250 --> 01:51:19,416
+<i>lo entregaríamos.</i>
+
+1539
+01:51:19,958 --> 01:51:21,666
+<i>Que entonces, todo me iría bien.</i>
+
+1540
+01:51:22,083 --> 01:51:23,083
+<i>¿Te dijo eso?</i>
+
+1541
+01:51:23,625 --> 01:51:25,208
+<i>- ¿Te dijo "entregarlo"?</i>
+<i>- Sí.</i>
+
+1542
+01:51:27,458 --> 01:51:30,666
+<i>Me presentó a una partera amiga suya</i>
+<i>que se iba a ocupar de todo.</i>
+
+1543
+01:51:31,333 --> 01:51:34,791
+<i>Pero yo no me fie de esa bruja,</i>
+<i>así que me fui a vivir a Pamplona.</i>
+
+1544
+01:51:36,125 --> 01:51:37,333
+<i>Y cuando di a luz,</i>
+
+1545
+01:51:38,375 --> 01:51:40,166
+<i>entregué a mi niña en adopción.</i>
+
+1546
+01:51:42,541 --> 01:51:44,000
+<i>La </i><span style="style2">ama</i><i> nunca me lo perdonó.</i>
+
+1547
+01:51:44,458 --> 01:51:46,166
+<i>¿La partera se llama Fina Hidalgo?</i>
+
+1548
+01:51:46,291 --> 01:51:47,125
+<i>[Flora] Sí.</i>
+
+1549
+01:51:49,458 --> 01:51:50,291
+<i>Un día...</i>
+
+1550
+01:51:51,583 --> 01:51:53,916
+<i>Un día vi a mi niña</i>
+<i>en la plaza en Elizondo.</i>
+
+1551
+01:51:57,291 --> 01:51:59,208
+<i>La reconocí de inmediato, Amaia.</i>
+
+1552
+01:52:02,291 --> 01:52:03,958
+<i>La habían adoptado los Arbizu.</i>
+
+1553
+01:52:05,083 --> 01:52:08,666
+<i>Desde entonces, vivo encadenada</i>
+<i>en este pueblo para poder tenerla cerca.</i>
+
+1554
+01:52:14,500 --> 01:52:15,625
+<i>Hace dos años,</i>
+
+1555
+01:52:16,500 --> 01:52:18,333
+<i>Anne se presentó en el obrador.</i>
+
+1556
+01:52:18,916 --> 01:52:22,083
+<i>Me dijo que averiguó que yo era su madre</i>
+<i>y que quería conocerme.</i>
+
+1557
+01:52:23,000 --> 01:52:24,500
+<i>Nunca me reprochó nada.</i>
+
+1558
+01:52:24,916 --> 01:52:26,333
+<i>[suspira]</i>
+
+1559
+01:52:26,833 --> 01:52:29,083
+<i>Fueron los dos años más felices</i>
+<i>de mi vida.</i>
+
+1560
+01:52:32,875 --> 01:52:34,041
+<i>Hasta que Víctor la mató.</i>
+
+1561
+01:52:36,041 --> 01:52:37,250
+<i>[solloza]</i>
+
+1562
+01:52:37,375 --> 01:52:39,250
+<i>¿Mataste a Víctor porque mató a Anne?</i>
+
+1563
+01:52:39,333 --> 01:52:41,083
+<i>- No.</i>
+<i>- Pero ¿sabías lo que hacía?</i>
+
+1564
+01:52:41,166 --> 01:52:43,500
+<i>¿Sospechabas que estaba matando</i>
+<i>a esas niñas?</i>
+
+1565
+01:52:43,583 --> 01:52:45,958
+<i>No, no estuve segura hasta aquella noche,</i>
+
+1566
+01:52:46,041 --> 01:52:49,083
+<i>- cuando fui a verle.</i>
+<i>- Llevaste un arma, algo sospecharías.</i>
+
+1567
+01:52:49,166 --> 01:52:51,291
+<i>Podías haberlo evitado, haber hecho algo.</i>
+
+1568
+01:52:53,833 --> 01:52:56,375
+<i>[sigue sollozando]</i>
+
+1569
+01:52:59,583 --> 01:53:00,416
+<i>Mira.</i>
+
+1570
+01:53:06,375 --> 01:53:09,000
+<i>Esta foto es... </i>
+<i>Me la dio Anne, de cuando era bebé.</i>
+
+1571
+01:53:10,500 --> 01:53:13,833
+<i>[Flora] Cada vez que veo a Ibai</i>
+<i>se me parte el alma, son idénticos.</i>
+
+1572
+01:53:16,000 --> 01:53:19,708
+<i>No imaginé que Víctor fuera el responsable</i>
+<i>de los crímenes hasta la muerte de Anne.</i>
+
+1573
+01:53:20,250 --> 01:53:21,083
+<i>¿Y por qué?</i>
+
+1574
+01:53:21,166 --> 01:53:24,250
+<i>Me di cuenta de los motivos</i>
+<i>por los que elegía a sus víctimas.</i>
+
+1575
+01:53:24,333 --> 01:53:25,916
+<i>¿A qué te refieres? ¿Qué motivos?</i>
+
+1576
+01:53:26,000 --> 01:53:27,958
+<i>Piensa en lo que hacía con los cuerpos.</i>
+
+1577
+01:53:30,833 --> 01:53:34,208
+<i>Las ahogaba, las depilaba,</i>
+<i>las volvía a convertir en niñas</i>
+
+1578
+01:53:34,291 --> 01:53:35,583
+<i>y las dejaba en el río.</i>
+
+1579
+01:53:35,666 --> 01:53:36,666
+<i>¿No lo ves?</i>
+
+1580
+01:53:36,750 --> 01:53:38,500
+<i>La </i><span style="style2">ama</i><i> le dijo a Víctor quién era Anne</i>
+
+1581
+01:53:38,583 --> 01:53:40,416
+<i>para que terminara</i>
+<i>lo que ella no pudo hacer,</i>
+
+1582
+01:53:40,500 --> 01:53:42,875
+<i>como hizo con nuestra hermana,</i>
+<i>hizo contigo y...</i>
+
+1583
+01:53:43,375 --> 01:53:44,208
+<i>con Ibai.</i>
+
+1584
+01:53:44,750 --> 01:53:46,833
+<i>No sé por qué eligió a las otras crías,</i>
+
+1585
+01:53:48,083 --> 01:53:50,291
+<i>pero a Anne la mató</i>
+<i>porque yo no la entregué.</i>
+
+1586
+01:53:52,125 --> 01:53:53,750
+<i>[Amaida] Eran ofrendas fallidas.</i>
+
+1587
+01:53:54,416 --> 01:53:56,000
+<i>Víctor las estaba entregando.</i>
+
+1588
+01:53:56,083 --> 01:53:57,708
+<i>Usaron las obsesiones de Víctor.</i>
+
+1589
+01:53:57,791 --> 01:54:00,250
+<i>Es lo que hacen las sectas, Amaia,</i>
+<i>tú lo sabes.</i>
+
+1590
+01:54:01,166 --> 01:54:03,708
+<i>Utilizan mercancía dañada,</i>
+<i>como tú y como yo.</i>
+
+1591
+01:54:07,291 --> 01:54:08,541
+<i>¿Y por qué dejas nueces?</i>
+
+1592
+01:54:13,541 --> 01:54:16,291
+<i>Anne decía que las nueces simbolizan</i>
+<i>el poder de las mujeres</i>
+
+1593
+01:54:16,375 --> 01:54:17,958
+<i>desde hace siglos en el Baztán.</i>
+
+1594
+01:54:19,750 --> 01:54:21,833
+<i>Que esa energía no termina con la muerte.</i>
+
+1595
+01:54:22,375 --> 01:54:24,416
+<i>Y ahora es lo único que me une a ella.</i>
+
+1596
+01:54:30,750 --> 01:54:31,791
+<i>[suspira]</i>
+
+1597
+01:54:34,541 --> 01:54:36,541
+<i>[Amaia llora]</i>
+
+1598
+01:54:39,416 --> 01:54:42,333
+<i>Siento mucho todo</i>
+<i>lo que hemos tenido que pasar estos años.</i>
+
+1599
+01:54:58,500 --> 01:55:00,500
+<i>[truenos]</i>
+
+1600
+01:55:11,875 --> 01:55:13,125
+<i>[Goñi] Buenas noches, jefa.</i>
+
+1601
+01:55:13,500 --> 01:55:15,458
+<i>Los dos ataúdes estaban vacíos.</i>
+
+1602
+01:55:19,916 --> 01:55:22,791
+<i>Los crímenes del Basajaun</i>
+<i>eran ofrendas frustradas.</i>
+
+1603
+01:55:23,708 --> 01:55:25,958
+<i>[Amaia]</i>
+<i>Ofrendas que nunca llegaron a realizarse.</i>
+
+1604
+01:55:26,041 --> 01:55:28,000
+<i>[Iriarte] ¿Dónde están las otras crías?</i>
+
+1605
+01:55:28,083 --> 01:55:29,958
+<i>[Montes] Me cago en mi puta sombra.</i>
+
+1606
+01:55:30,250 --> 01:55:31,166
+<i>¿Qué pasa?</i>
+
+1607
+01:55:32,333 --> 01:55:34,083
+<i>Entre los años 70 y 90,</i>
+
+1608
+01:55:34,166 --> 01:55:37,125
+<i>hubo una clínica en Las Rozas</i>
+<i>llamada Clínica Tabese.</i>
+
+1609
+01:55:38,166 --> 01:55:39,416
+<i>Consiguió mucho prestigio</i>
+
+1610
+01:55:39,500 --> 01:55:42,833
+<i>porque hacía unos tratamientos nuevos</i>
+<i>que venían de Estados Unidos.</i>
+
+1611
+01:55:43,541 --> 01:55:47,291
+<i>Aunque el director adoptó el nombre </i>
+<i>de la clínica para el ejercicio médico,</i>
+
+1612
+01:55:47,375 --> 01:55:48,791
+<i>su nombre real era...</i>
+
+1613
+01:55:49,083 --> 01:55:50,208
+<i>Xabier Markina.</i>
+
+1614
+01:55:52,250 --> 01:55:53,958
+<i>El padre del juez Markina.</i>
+
+1615
+01:55:58,416 --> 01:56:00,916
+<i>[truenos]</i>
+
+1616
+01:56:01,375 --> 01:56:04,041
+<i>Nos abandonó</i>
+<i>cuando mi madre perdió la razón.</i>
+
+1617
+01:56:05,958 --> 01:56:08,958
+<i>Dejó un fondo para mis gastos y estudios</i>
+<i>y se marchó.</i>
+
+1618
+01:56:09,541 --> 01:56:10,833
+<i>¿Y nunca lo buscaste?</i>
+
+1619
+01:56:11,291 --> 01:56:12,750
+<i>¿No quisiste saber qué hacía?</i>
+
+1620
+01:56:13,000 --> 01:56:14,333
+<i>Podía imaginármelo.</i>
+
+1621
+01:56:15,500 --> 01:56:17,291
+<i>Ir de mujer en mujer,</i>
+
+1622
+01:56:17,875 --> 01:56:20,416
+<i>vivir como un millonario,</i>
+<i>viajar, navegar...</i>
+
+1623
+01:56:20,916 --> 01:56:22,833
+<i>en el yate donde acabó muriendo.</i>
+
+1624
+01:56:23,375 --> 01:56:25,208
+<i>Compaginaba su trabajo en la clínica</i>
+
+1625
+01:56:25,291 --> 01:56:27,583
+<i>con la dirección de dos grupos</i>
+<i>en Lesaka y Baztán.</i>
+
+1626
+01:56:27,916 --> 01:56:29,916
+<i>Los introdujo en prácticas ocultistas.</i>
+
+1627
+01:56:30,250 --> 01:56:31,916
+<i>Un testigo lo ha identificado.</i>
+
+1628
+01:56:32,375 --> 01:56:35,791
+<i>Y ese testigo lo ha denunciado</i>
+<i>porque realizaron sacrificios humanos.</i>
+
+1629
+01:56:37,083 --> 01:56:38,458
+<i>- ¿Mi padre?</i>
+<i>- Sí.</i>
+
+1630
+01:56:38,750 --> 01:56:41,000
+<i>Y hay otro testigo</i>
+<i>que confirma la relación directa</i>
+
+1631
+01:56:41,083 --> 01:56:42,458
+<i>entre los crímenes del Basajaun</i>
+
+1632
+01:56:42,541 --> 01:56:44,458
+<i>y las terapias del doctor Berasategui.</i>
+
+1633
+01:56:51,291 --> 01:56:52,791
+<i>Veo que has hecho los deberes.</i>
+
+1634
+01:56:53,500 --> 01:56:54,583
+<i>Es mi trabajo.</i>
+
+1635
+01:56:55,000 --> 01:56:56,666
+<i>¿Y qué quieres que haga ahora?</i>
+
+1636
+01:56:57,250 --> 01:56:59,583
+<i>- ¿Qué quieres que haga?</i>
+<i>- No me hables así, Javier.</i>
+
+1637
+01:57:00,125 --> 01:57:02,000
+<i>No soy quién para decirte qué hacer.</i>
+
+1638
+01:57:02,083 --> 01:57:05,625
+<i>Soy policía. He investigado y te traigo</i>
+<i>los hechos, tal como me pediste.</i>
+
+1639
+01:57:06,250 --> 01:57:08,458
+<i>Y te prometí</i>
+<i>que no pasaría por encima de ti.</i>
+
+1640
+01:57:11,500 --> 01:57:12,500
+<i>Perdóname.</i>
+
+1641
+01:57:16,166 --> 01:57:17,083
+<i>Perdóname.</i>
+
+1642
+01:57:19,541 --> 01:57:21,041
+<i>No es fácil todo esto para mí.</i>
+
+1643
+01:57:22,583 --> 01:57:24,708
+<i>Nunca imaginé que mi carrera acabaría así.</i>
+
+1644
+01:57:24,833 --> 01:57:27,166
+<i>Tú no eres responsable</i>
+<i>de lo que hizo tu padre.</i>
+
+1645
+01:57:28,791 --> 01:57:30,666
+<i>¿Qué futuro le espera a un juez</i>
+
+1646
+01:57:30,750 --> 01:57:33,041
+<i>cuyo padre era líder</i>
+<i>de una secta satánica?</i>
+
+1647
+01:57:33,625 --> 01:57:36,750
+<i>Da igual que nunca llegue a probarse.</i>
+<i>La sospecha me destruirá.</i>
+
+1648
+01:57:37,916 --> 01:57:39,541
+<i>No tiene por qué salpicarte.</i>
+
+1649
+01:57:41,750 --> 01:57:42,833
+<i>Déjame ayudarte.</i>
+
+1650
+01:57:45,166 --> 01:57:46,250
+<i>No puedes.</i>
+
+1651
+01:57:46,333 --> 01:57:47,250
+<i>Sí puedo.</i>
+
+1652
+01:57:48,125 --> 01:57:48,958
+<i>No.</i>
+
+1653
+01:57:49,875 --> 01:57:52,791
+<i>[lluvia]</i>
+
+1654
+01:58:03,833 --> 01:58:05,833
+<i>[jadeos]</i>
+
+1655
+01:58:33,166 --> 01:58:36,166
+<i>[móvil]</i>
+
+1656
+01:58:57,583 --> 01:58:58,416
+<i>James.</i>
+
+1657
+01:58:58,500 --> 01:59:00,750
+<i>[James en inglés]</i>
+<span style="style2">Amaia, acabo de hablar con tu tía.</i>
+
+1658
+01:59:00,833 --> 01:59:02,291
+<i>Me ha contado lo de tu madre.</i>
+
+1659
+01:59:02,375 --> 01:59:05,541
+<i>- ¿Por qué no me llamaste para contármelo?</i>
+<span style="style1">- Aún lo estoy asimilando.</i>
+
+1660
+01:59:05,625 --> 01:59:06,875
+<i>Vente, Amaia.</i>
+
+1661
+01:59:07,541 --> 01:59:10,666
+<i>Ahora más que nunca,</i>
+<i>ven y quédate con Ibai y conmigo.</i>
+
+1662
+01:59:11,041 --> 01:59:14,458
+<i>Ahora no puedo hablar, estoy trabajando.</i>
+<i>¿Te llamo dentro de un rato?</i>
+
+1663
+01:59:14,541 --> 01:59:15,375
+<i>[James suspira] </i>
+
+1664
+01:59:15,458 --> 01:59:16,333
+<i>De acuerdo.</i>
+
+1665
+01:59:16,625 --> 01:59:17,583
+<i>De acuerdo.</i>
+
+1666
+01:59:18,791 --> 01:59:19,750
+<i>De acuerdo.</i>
+
+1667
+01:59:34,458 --> 01:59:35,291
+<i>[Markina] Toma.</i>
+
+1668
+01:59:39,208 --> 01:59:42,166
+<i>La orden de registro</i>
+<i>para que puedas entrar en Argi Beltz.</i>
+
+1669
+01:59:50,541 --> 01:59:51,583
+<i>Te quiero, Amaia.</i>
+
+1670
+01:59:52,541 --> 01:59:55,458
+<i>Te quiero como nunca quise a nadie.</i>
+<i>No soportaría perderte.</i>
+
+1671
+02:00:11,125 --> 02:00:14,333
+<i>[Montes] </i><span style="style2">Aviso a Iriarte y a Goñi</i>
+<span style="style2">y salimos hacia el caserío, jefa.</i>
+
+1672
+02:00:14,416 --> 02:00:16,875
+<i>Te dejo, que tengo otra llamada.</i>
+<i>Gracias, Fermín.</i>
+
+1673
+02:00:17,583 --> 02:00:18,916
+<i>- ¿Sí?</i>
+<span style="style2">- </i><i>[hombre] </i><span style="style2">Inspectora.</i>
+
+1674
+02:00:19,000 --> 02:00:21,416
+<i>- Soy Benigno, el padre de Yolanda.</i>
+<span style="style1">- Sí, dígame.</i>
+
+1675
+02:00:21,500 --> 02:00:22,708
+<i>Mi hija acaba de marcharse</i>
+
+1676
+02:00:22,791 --> 02:00:25,208
+<i>y dijo que iba a un sitio</i>
+<i>que descubrió gracias a usted.</i>
+
+1677
+02:00:25,291 --> 02:00:27,833
+<i>- Y que va a poner fin a todo de una vez.</i>
+<span style="style1">- ¿Le ha dicho algo más?</i>
+
+1678
+02:00:27,916 --> 02:00:28,750
+<i>Estaba muy alterada,</i>
+
+1679
+02:00:28,833 --> 02:00:32,708
+<i>y la policía nos dijo la otra vez</i>
+<i>que no usó todo el explosivo que tenía,</i>
+
+1680
+02:00:32,791 --> 02:00:35,791
+<i>- y no sé de qué es capaz.</i>
+<span style="style1">- No se preocupe, yo me encargo.</i>
+
+1681
+02:00:35,875 --> 02:00:36,833
+<i>Gracias.</i>
+
+1682
+02:00:37,500 --> 02:00:40,791
+<i>[chirrido de neumáticos]</i>
+
+1683
+02:00:59,041 --> 02:01:01,041
+<i>[interfono]</i>
+
+1684
+02:01:07,291 --> 02:01:08,125
+<i>¡Hostias!</i>
+
+1685
+02:01:11,625 --> 02:01:12,750
+<i>[arma cargada]</i>
+
+1686
+02:01:13,666 --> 02:01:14,583
+<i>[disparo]</i>
+
+1687
+02:01:18,250 --> 02:01:19,333
+<i>[disparo]</i>
+
+1688
+02:01:30,416 --> 02:01:31,375
+<i>[golpea la puerta]</i>
+
+1689
+02:01:31,500 --> 02:01:32,625
+<i>[Montes] ¡Policía! ¡Abran!</i>
+
+1690
+02:01:39,750 --> 02:01:41,125
+<i>¡Policía! ¡Abran la puerta!</i>
+
+1691
+02:01:41,208 --> 02:01:42,125
+<i>Hijos...</i>
+
+1692
+02:01:42,208 --> 02:01:43,333
+<i>¡Somos nosotros, Fermín!</i>
+
+1693
+02:01:43,916 --> 02:01:45,916
+<i>Dios. ¿Dónde está Salazar con la orden?</i>
+
+1694
+02:01:46,000 --> 02:01:46,958
+<i>Está en camino.</i>
+
+1695
+02:01:47,416 --> 02:01:49,750
+<i>- Me la ha mandado.</i>
+<i>- Técnicamente, la tenemos.</i>
+
+1696
+02:01:49,833 --> 02:01:50,916
+<i>¿No? Bien.</i>
+
+1697
+02:01:51,000 --> 02:01:54,625
+<i>Pues que no vuelva a ocurrir lo mismo</i>
+<i>que en casa de la partera. Quitaos.</i>
+
+1698
+02:01:57,041 --> 02:01:58,250
+<i>[jadeos]</i>
+
+1699
+02:02:01,291 --> 02:02:03,458
+<i>[respiraciones agitadas]</i>
+
+1700
+02:02:11,291 --> 02:02:12,250
+<i>[Iriarte] Te cubro.</i>
+
+1701
+02:02:52,291 --> 02:02:54,916
+<i>[truenos]</i>
+
+1702
+02:02:58,833 --> 02:02:59,833
+<i>[explosión]</i>
+
+1703
+02:03:16,416 --> 02:03:19,291
+<i>- [Amaia] ¡Yolanda! ¡Para!</i>
+<i>- [golpes metálicos]</i>
+
+1704
+02:03:19,416 --> 02:03:20,250
+<i>Yolanda, para.</i>
+
+1705
+02:03:20,333 --> 02:03:22,458
+<i>¡Mi hija está ahí dentro y voy a entrar!</i>
+
+1706
+02:03:22,541 --> 02:03:23,458
+<i>Sea como sea.</i>
+
+1707
+02:03:24,208 --> 02:03:25,041
+<i>[Amaia] ¡Para!</i>
+
+1708
+02:03:25,625 --> 02:03:26,458
+<i>Para, he dicho.</i>
+
+1709
+02:03:26,750 --> 02:03:28,750
+<i>- [golpe]</i>
+<i>- [Amaia grita de dolor]</i>
+
+1710
+02:03:30,083 --> 02:03:31,416
+<i>[gritos, forcejeo]</i>
+
+1711
+02:03:44,041 --> 02:03:45,500
+<i>Pero ¿qué cojones...?</i>
+
+1712
+02:03:46,708 --> 02:03:49,541
+<i>Aquí es donde debió esconderse la vieja</i>
+<i>todo este tiempo.</i>
+
+1713
+02:03:54,333 --> 02:03:55,333
+<i>¿Esto es todo?</i>
+
+1714
+02:03:55,958 --> 02:03:56,958
+<i>¿Y Amaia?</i>
+
+1715
+02:03:59,083 --> 02:04:01,583
+<i>¡Quieta! Tira la barra, Yolanda.</i>
+<i>Estate tranquila. Tírala.</i>
+
+1716
+02:04:01,666 --> 02:04:03,125
+<i>- ¡Y una mierda!</i>
+<i>- [Amaia grita]</i>
+
+1717
+02:04:03,625 --> 02:04:06,333
+<i>¡Mi hija está ahí</i>
+<i>y nada me lo va a impedir!</i>
+
+1718
+02:04:08,083 --> 02:04:11,041
+<i>¡Voy a entrar ahí sea como sea!</i>
+
+1719
+02:04:11,916 --> 02:04:14,458
+<i>- [barra resuena al caer]</i>
+<i>- [Yolanda grita]</i>
+
+1720
+02:04:14,833 --> 02:04:15,666
+<i>[Amaia] Quieta.</i>
+
+1721
+02:04:16,375 --> 02:04:18,500
+<i>- [impacto]</i>
+<i>- [Amaia grita] ¡Ah!</i>
+
+1722
+02:04:19,916 --> 02:04:21,166
+<i>Voy a entrar ahí.</i>
+
+1723
+02:04:22,041 --> 02:04:24,666
+<i>Aunque sea por encima de su cadáver.</i>
+
+1724
+02:04:24,750 --> 02:04:25,833
+<i>[disparos]</i>
+
+1725
+02:04:28,333 --> 02:04:29,916
+<i>[cuerpo y barra metálica caen]</i>
+
+1726
+02:04:32,708 --> 02:04:33,833
+<i>[Markina] ¿Estás bien?</i>
+
+1727
+02:04:35,666 --> 02:04:37,666
+<i>- La has matado.</i>
+<i>- [Markina] Te estaba golpeando.</i>
+
+1728
+02:04:38,583 --> 02:04:39,500
+<i>Te iba a matar.</i>
+
+1729
+02:04:45,083 --> 02:04:45,916
+<i>Están aquí.</i>
+
+1730
+02:04:47,583 --> 02:04:48,875
+<i>Están aquí, ¿verdad?</i>
+
+1731
+02:04:49,791 --> 02:04:50,625
+<i>Están aquí.</i>
+
+1732
+02:04:50,708 --> 02:04:51,750
+<i>No entres ahí, Amaia.</i>
+
+1733
+02:04:52,583 --> 02:04:53,416
+<i>Amaia.</i>
+
+1734
+02:04:53,916 --> 02:04:55,166
+<i>[grita] ¡Amaia!</i>
+
+1735
+02:04:55,958 --> 02:04:56,916
+<i>No entres ahí.</i>
+
+1736
+02:04:58,041 --> 02:04:59,250
+<i>¿Vas a dispararme?</i>
+
+1737
+02:04:59,875 --> 02:05:02,500
+<i>Dispárame, porque voy a entrar ahí</i>
+<i>aunque sea lo último que haga.</i>
+
+1738
+02:05:03,083 --> 02:05:07,291
+<i>Te diré todo lo que quieras,</i>
+<i>pero no entres ahí, por favor.</i>
+
+1739
+02:05:08,166 --> 02:05:09,000
+<i>¿Por qué?</i>
+
+1740
+02:05:09,625 --> 02:05:10,791
+<i>¿Por qué no lo paraste?</i>
+
+1741
+02:05:10,875 --> 02:05:12,000
+<i>No puedo pararlo.</i>
+
+1742
+02:05:13,291 --> 02:05:14,500
+<i>He intentado evitarlo,</i>
+
+1743
+02:05:14,583 --> 02:05:16,625
+<i>- pero es imposible.</i>
+<i>- Mentira.</i>
+
+1744
+02:05:17,125 --> 02:05:18,166
+<i>Al principio,</i>
+
+1745
+02:05:19,458 --> 02:05:21,041
+<i>yo tampoco entendía a mi padre.</i>
+
+1746
+02:05:21,125 --> 02:05:22,708
+<i>Pero con el tiempo me di cuenta</i>
+
+1747
+02:05:22,791 --> 02:05:24,958
+<i>de que esto es más grande</i>
+<i>de lo que pensaba.</i>
+
+1748
+02:05:25,041 --> 02:05:26,750
+<i>Tú misma lo dijiste antes.</i>
+
+1749
+02:05:26,833 --> 02:05:29,916
+<i>Tú misma has sentido</i>
+<i>que esto es más grande que la vida.</i>
+
+1750
+02:05:30,333 --> 02:05:31,750
+<i>Es efectivo.</i>
+
+1751
+02:05:31,833 --> 02:05:33,750
+<i>- Poderoso...</i>
+<i>- ¿Mataste a Berasategui?</i>
+
+1752
+02:05:33,833 --> 02:05:34,833
+<i>...y efectivo.</i>
+
+1753
+02:05:35,500 --> 02:05:36,500
+<i>Te amenazó.</i>
+
+1754
+02:05:37,083 --> 02:05:39,083
+<i>Cuando me llamaste,</i>
+<i>estabas muerta de miedo.</i>
+
+1755
+02:05:39,166 --> 02:05:40,875
+<i>¿Y a mi madre? ¿Mataste a Rosario?</i>
+
+1756
+02:05:40,958 --> 02:05:43,666
+<i>Me dijiste que no descansarías</i>
+<i>mientras estuviera viva.</i>
+
+1757
+02:05:43,750 --> 02:05:44,916
+<i>- [grita]</i>
+<i>- Tú lo quisiste.</i>
+
+1758
+02:05:46,166 --> 02:05:48,958
+<i>[gime y forcejea]</i>
+
+1759
+02:05:52,166 --> 02:05:53,291
+<i>No entres ahí.</i>
+
+1760
+02:05:53,875 --> 02:05:55,916
+<i>¡Amaia, no mires ahí dentro!</i>
+
+1761
+02:06:20,708 --> 02:06:22,708
+<i>[chirrido de goznes]</i>
+
+1762
+02:06:38,791 --> 02:06:39,916
+<i>[llora]</i>
+
+1763
+02:06:53,375 --> 02:06:55,000
+<i>[Amaia] Tú formas parte de esto.</i>
+
+1764
+02:06:56,750 --> 02:06:58,333
+<i>Yo soy solo el canal.</i>
+
+1765
+02:06:59,208 --> 02:07:02,666
+<i>El hilo conductor de una religión</i>
+<i>tan antigua como el mundo.</i>
+
+1766
+02:07:03,666 --> 02:07:05,250
+<i>Y que tiene origen en tu valle.</i>
+
+1767
+02:07:05,375 --> 02:07:08,666
+<i>Un poder tan grande</i>
+<i>como nunca has imaginado.</i>
+
+1768
+02:07:09,708 --> 02:07:11,333
+<i>Pero que hace falta alimentar.</i>
+
+1769
+02:07:12,208 --> 02:07:13,875
+<i>¿Eso es lo que creéis que hacéis?</i>
+
+1770
+02:07:15,166 --> 02:07:17,416
+<i>¿Alimentar un poder matando niñas?</i>
+
+1771
+02:07:17,875 --> 02:07:19,333
+<i>El precio es alto,</i>
+
+1772
+02:07:19,416 --> 02:07:21,458
+<i>pero la recompensa es extraordinaria.</i>
+
+1773
+02:07:23,208 --> 02:07:26,541
+<i>Es la manera más auténtica</i>
+<i>de hablar con las fuerzas vivas.</i>
+
+1774
+02:07:26,625 --> 02:07:27,583
+<i>¿Es que no lo ves?</i>
+
+1775
+02:07:27,916 --> 02:07:29,416
+<i>Estás enfermo.</i>
+
+1776
+02:07:30,041 --> 02:07:30,916
+<i>No.</i>
+
+1777
+02:07:31,458 --> 02:07:33,166
+<i>No me trates así.</i>
+
+1778
+02:07:34,583 --> 02:07:35,666
+<i>Tú no.</i>
+
+1779
+02:07:35,750 --> 02:07:38,916
+<i>Mi madre mató a su propia hija,</i>
+<i>lo intentó toda su vida conmigo.</i>
+
+1780
+02:07:39,000 --> 02:07:40,083
+<i>Intentó matar a Ibai.</i>
+
+1781
+02:07:40,166 --> 02:07:42,541
+<i>¿Qué mierda de fuerzas vivas me hablas?</i>
+
+1782
+02:07:48,083 --> 02:07:50,291
+<i>Tu madre estaba obsesionada.</i>
+
+1783
+02:07:50,958 --> 02:07:52,458
+<i>Pero eso ya está solucionado.</i>
+
+1784
+02:07:53,166 --> 02:07:56,500
+<i>Te prometo que a partir de ahora,</i>
+<i>nadie os hará daño ni a ti ni a Ibai.</i>
+
+1785
+02:07:57,791 --> 02:07:59,208
+<i>¿Por qué me has hecho esto?</i>
+
+1786
+02:07:59,625 --> 02:08:01,500
+<i>¿Por qué te acercaste a mí? ¿Por qué?</i>
+
+1787
+02:08:02,125 --> 02:08:04,708
+<i>Yo no tenía planeado enamorarme de ti,</i>
+<i>pero sucedió.</i>
+
+1788
+02:08:06,083 --> 02:08:09,375
+<i>Y aunque ahora te cueste asimilar</i>
+<i>lo que ves, estás hecha para mí.</i>
+
+1789
+02:08:09,500 --> 02:08:10,458
+<i>Lo sé.</i>
+
+1790
+02:08:10,541 --> 02:08:12,416
+<i>Me perteneces como yo te pertenezco.</i>
+
+1791
+02:08:12,541 --> 02:08:13,375
+<i>No.</i>
+
+1792
+02:08:17,125 --> 02:08:18,708
+<i>Todas esas muertes,</i>
+
+1793
+02:08:20,500 --> 02:08:21,750
+<i>las niñas del río,</i>
+
+1794
+02:08:22,500 --> 02:08:23,416
+<i>Nadia,</i>
+
+1795
+02:08:24,791 --> 02:08:25,916
+<i>Elena Ochoa,</i>
+
+1796
+02:08:26,583 --> 02:08:27,875
+<i>la hija de Flora,</i>
+
+1797
+02:08:28,500 --> 02:08:29,583
+<i>mi hermana.</i>
+
+1798
+02:08:30,791 --> 02:08:32,666
+<i>¿Cuántas muertes pesan sobre ti?</i>
+
+1799
+02:08:32,750 --> 02:08:33,708
+<i>Ninguna.</i>
+
+1800
+02:08:34,250 --> 02:08:35,583
+<i>Amaia, ninguna.</i>
+
+1801
+02:08:36,791 --> 02:08:38,791
+<i>Cada uno es dueño de su propia vida,</i>
+
+1802
+02:08:39,125 --> 02:08:40,916
+<i>y yo soy responsable de la tuya.</i>
+
+1803
+02:08:43,708 --> 02:08:46,166
+<i>Te amo y no puedo permitir</i>
+<i>que nadie te haga daño.</i>
+
+1804
+02:08:48,750 --> 02:08:50,708
+<i>Tu madre no habría parado</i>
+<i>hasta acabar contigo.</i>
+
+1805
+02:08:51,083 --> 02:08:53,333
+<i>No puedes condenarme</i>
+<i>por haberte protegido.</i>
+
+1806
+02:08:56,500 --> 02:08:59,500
+<i>[solloza]</i>
+<i>¿Qué poder tienes sobre esas personas?</i>
+
+1807
+02:09:01,250 --> 02:09:02,916
+<i>[truenos]</i>
+
+1808
+02:09:15,250 --> 02:09:16,500
+<i>¿Mataste a Jonan?</i>
+
+1809
+02:09:17,791 --> 02:09:18,958
+<i>No me preguntes eso.</i>
+
+1810
+02:09:19,041 --> 02:09:21,958
+<i>[Amaia llora]</i>
+
+1811
+02:09:29,083 --> 02:09:30,250
+<i>Tuve que hacerlo.</i>
+
+1812
+02:09:32,041 --> 02:09:33,875
+<i>Así como ahora tengo que hacer esto.</i>
+
+1813
+02:09:36,250 --> 02:09:37,166
+<i>Lo siento.</i>
+
+1814
+02:09:38,750 --> 02:09:39,833
+<i>Te quiero, pero...</i>
+
+1815
+02:09:40,208 --> 02:09:41,916
+<i>No. [respira hondo]</i>
+
+1816
+02:09:42,000 --> 02:09:43,291
+<i>...tengo que hacerlo.</i>
+
+1817
+02:09:50,583 --> 02:09:52,958
+<i>[disparos]</i>
+
+1818
+02:10:04,583 --> 02:10:05,583
+<i>[golpe seco]</i>
+
+1819
+02:10:22,208 --> 02:10:25,750
+<i>- [conversaciones ininteligibles]</i>
+<i>- [radio policial]</i>
+
+1820
+02:10:32,166 --> 02:10:33,625
+<i>Tenía la pistola de Jonan.</i>
+
+1821
+02:10:37,416 --> 02:10:39,458
+<i>Hemos abierto la tumba de Tabese.</i>
+
+1822
+02:10:40,750 --> 02:10:41,750
+<i>Está vacía.</i>
+
+1823
+02:10:42,083 --> 02:10:44,958
+<i>Hay que emitir una orden internacional</i>
+<i>de busca y captura.</i>
+
+1824
+02:10:45,250 --> 02:10:46,083
+<i>Bien.</i>
+
+1825
+02:11:13,250 --> 02:11:17,416
+<i>[teléfono] </i>
+
+1826
+02:11:20,916 --> 02:11:21,875
+<i>[Fina Hidalgo] ¿Sí?</i>
+
+1827
+02:11:34,666 --> 02:11:35,500
+<i>De acuerdo.</i>
+
+1828
+02:11:48,375 --> 02:11:49,416
+<i>[inspiración]</i>
+
+1829
+02:11:51,500 --> 02:11:52,333
+<i>[se ahoga]</i>
+
+1830
+02:12:30,083 --> 02:12:32,708
+<i>[locutora] </i><span style="style2">Conmoción en la localidad</i>
+<span style="style2">guipuzcoana de Hondarribia,</i>
+
+1831
+02:12:32,791 --> 02:12:35,166
+<i>por la muerte esta pasada noche</i>
+<i>en su cementerio</i>
+
+1832
+02:12:35,250 --> 02:12:38,583
+<i>de dos personas de las que, de momento,</i>
+<i>se desconoce la identidad.</i>
+
+1833
+02:12:38,666 --> 02:12:41,958
+<i>A esta hora apenas han trascendido datos</i>
+<i>acerca de lo sucedido,</i>
+
+1834
+02:12:42,041 --> 02:12:45,125
+<i>pero todo apunta a que una de las víctimas</i>
+<i>del doble homicidio</i>
+
+1835
+02:12:45,208 --> 02:12:48,208
+<i>podría tratarse</i>
+<i>del conocido juez navarro Javier Markina.</i>
+
+1836
+02:12:48,333 --> 02:12:50,125
+<i>Las últimas especulaciones indican</i>
+
+1837
+02:12:50,208 --> 02:12:54,083
+<i>que su muerte podría estar relacionada</i>
+<i>con algunas de las causas que instruía,</i>
+
+1838
+02:12:54,166 --> 02:12:56,750
+<i>muchas de ellas muy mediáticas</i>
+<i>en los últimos meses.</i>
+
+1839
+02:12:56,833 --> 02:13:00,875
+<i>Fuentes extraoficiales de la Policía Foral</i>
+<i>informan de la posible implicación de...</i>
+
+1840
+02:13:03,666 --> 02:13:07,416
+<i>[llora desconsolada]</i>
+
+1841
+02:13:18,541 --> 02:13:21,750
+<i>[susurra] Tranquila.</i>
+
+1842
+02:13:37,250 --> 02:13:40,041
+<i>[silbido]</i>
+
+1843
+02:13:48,958 --> 02:13:52,125
+<i>[campanadas]</i>
+
+1844
+02:14:12,875 --> 02:14:14,291
+<i>- </i><span style="style1">[James] </i><i>Amaia.</i>
+<span style="style1">- James.</i>
+
+1845
+02:14:14,666 --> 02:14:15,875
+<i>[en inglés] </i><span style="style2">¿Estás bien?</i>
+
+1846
+02:14:17,000 --> 02:14:18,000
+<i>¿Vas a venir?</i>
+
+1847
+02:14:20,166 --> 02:14:21,958
+<i>[Amaia en inglés] Han pasado muchas cosas.</i>
+
+1848
+02:14:23,083 --> 02:14:24,083
+<i>Tenemos que hablar.</i>
+
+1849
+02:14:24,375 --> 02:14:26,166
+<i>No te he preguntado eso, mi amor.</i>
+
+1850
+02:14:27,500 --> 02:14:30,291
+<i>Lo único que necesito oír</i>
+<i>es que te reunirás con Ibai y conmigo</i>
+
+1851
+02:14:30,375 --> 02:14:31,708
+<i>para volver a casa juntos.</i>
+
+1852
+02:14:32,791 --> 02:14:34,791
+<i>[Ibai ríe]</i>
+
+1853
+02:14:36,375 --> 02:14:37,541
+<i>Contéstame, por favor.</i>
+
+1854
+02:14:38,208 --> 02:14:39,250
+<i>¿Vas a venir?</i>
+
+1855
+02:14:41,625 --> 02:14:42,458
+<i>Sí.</i>
+
+1856
+02:14:43,458 --> 02:14:44,291
+<i>De acuerdo.</i>
+
+1857
+02:14:45,166 --> 02:14:47,166
+<i>[tono de desconexión]</i>
+
+1857
+02:14:48,305 --> 02:15:48,549
+Apóyanos y conviértete en miembro VIP Para
+eliminar todos los anuncios www.OpenSubtitles.org
