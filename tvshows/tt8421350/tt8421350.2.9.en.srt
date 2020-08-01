@@ -1,0 +1,4156 @@
+﻿1
+00:00:00,000 --> 00:00:03,000
+- Synced and corrected by<font color="#00BFFF"> Firefly</font> -
+- <font color="#00ffff">www.addic7ed.com</font> -
+
+2
+00:00:03,002 --> 00:00:04,666
+<i>Previously on "Manifest"...</i>
+
+3
+00:00:04,668 --> 00:00:05,936
+<i>You were testing on yourself?</i>
+
+4
+00:00:05,938 --> 00:00:08,334
+<i>If there's a chance to cure the
+Death Date, I have to figure it out.</i>
+
+5
+00:00:08,336 --> 00:00:09,702
+Zeke, what is this?
+
+6
+00:00:09,704 --> 00:00:11,771
+Frostbite. I may be freezing to death.
+
+7
+00:00:11,773 --> 00:00:13,729
+Saanvi thinks she can help.
+She may have a cure.
+
+8
+00:00:13,731 --> 00:00:15,908
+I think I did it. DNA has no anomaly.
+
+9
+00:00:15,910 --> 00:00:18,544
+MICHAELA: My gut is telling me
+that Jared's involved in something
+
+10
+00:00:18,546 --> 00:00:20,063
+that could cause some serious problems.
+
+11
+00:00:20,065 --> 00:00:21,791
+You've proven quite valuable.
+
+12
+00:00:21,793 --> 00:00:24,568
+I'm on the verge of exposing the
+828ers for the threat they are.
+
+13
+00:00:24,570 --> 00:00:25,725
+CONOR: Your case files.
+
+14
+00:00:25,727 --> 00:00:27,037
+Drea wanted you to print these?
+
+15
+00:00:27,039 --> 00:00:28,105
+No, it was Vasquez.
+
+16
+00:00:28,107 --> 00:00:29,406
+We got Vasquez, Captain.
+
+17
+00:00:29,408 --> 00:00:30,664
+I'll take it from here.
+
+18
+00:00:30,666 --> 00:00:31,988
+ALEX: Us. In the park.
+
+19
+00:00:31,990 --> 00:00:33,379
+That was a mistake.
+
+20
+00:00:33,381 --> 00:00:35,104
+I don't remember being at the park.
+
+21
+00:00:35,106 --> 00:00:36,495
+I don't remember a thing.
+
+22
+00:00:36,497 --> 00:00:38,086
+TJ: Yusuv Al-Zuras.
+
+23
+00:00:38,088 --> 00:00:40,220
+According to legend, he
+was lost at sea for 10 years
+
+24
+00:00:40,222 --> 00:00:41,310
+and mysteriously returned.
+
+25
+00:00:41,312 --> 00:00:43,029
+Sounds familiar.
+
+26
+00:00:43,031 --> 00:00:45,898
+The possibility that all of this
+has happened before, it's huge.
+
+27
+00:00:45,900 --> 00:00:48,034
+No way. They found
+it... Al-Zuras's journal.
+
+28
+00:00:48,036 --> 00:00:49,869
+Figured we'd get some answers.
+
+29
+00:00:49,871 --> 00:00:51,404
+BEN: This changes everything.
+
+30
+00:00:51,406 --> 00:00:55,406
+♪♪
+
+31
+00:01:01,416 --> 00:01:04,217
+[WHOOSHING]
+
+32
+00:01:04,219 --> 00:01:08,219
+♪♪
+
+33
+00:01:10,225 --> 00:01:14,225
+♪♪
+
+34
+00:01:16,264 --> 00:01:18,631
+[WHISPERING] It's all connected.
+
+35
+00:01:18,633 --> 00:01:21,267
+[THUNDER CRASHES]
+
+36
+00:01:21,269 --> 00:01:23,269
+[RAIN FALLING]
+
+37
+00:01:28,863 --> 00:01:31,265
+[THUNDER RUMBLING]
+
+38
+00:01:31,267 --> 00:01:35,267
+♪♪
+
+39
+00:01:41,277 --> 00:01:43,410
+[WIND HOWLING]
+
+40
+00:01:44,852 --> 00:01:47,053
+[THUNDER CRASHES]
+
+41
+00:01:47,055 --> 00:01:51,055
+♪♪
+
+42
+00:01:55,496 --> 00:01:58,364
+All this, <i>and</i> he makes breakfast.
+
+43
+00:01:58,366 --> 00:02:00,233
+I figure if there's a chance
+we're gonna be normal,
+
+44
+00:02:00,235 --> 00:02:01,968
+we might as well start
+trying to live like it.
+
+45
+00:02:01,970 --> 00:02:04,617
+Mm. Saanvi still thinks she
+has the cure for the Death Date?
+
+46
+00:02:04,619 --> 00:02:07,710
+Hope so. She says I passed
+the preliminary testing.
+
+47
+00:02:07,712 --> 00:02:10,068
+We'll see how phase two goes.
+
+48
+00:02:10,070 --> 00:02:11,660
+It'd be nice not to
+be freezing to death.
+
+49
+00:02:11,662 --> 00:02:13,251
+Oh.
+
+50
+00:02:13,253 --> 00:02:16,644
+FYI, my "normal" is just
+coffee and last night's pizza.
+
+51
+00:02:16,646 --> 00:02:18,469
+This is downright domestic.
+
+52
+00:02:18,471 --> 00:02:20,694
+Hmm.
+
+53
+00:02:20,696 --> 00:02:22,119
+Still want that pizza?
+
+54
+00:02:22,121 --> 00:02:23,143
+No.
+
+55
+00:02:23,145 --> 00:02:24,967
+[LAUGHS]
+
+56
+00:02:24,969 --> 00:02:27,760
+Only good thing my
+father ever taught me.
+
+57
+00:02:27,762 --> 00:02:29,818
+You don't talk about your dad that much.
+
+58
+00:02:29,820 --> 00:02:31,276
+Not much to say.
+
+59
+00:02:31,278 --> 00:02:33,735
+Guy took off.
+
+60
+00:02:33,737 --> 00:02:37,954
+Happier subject... Say
+Saanvi's cure works.
+
+61
+00:02:37,956 --> 00:02:40,657
+What do you want to do first?
+
+62
+00:02:40,659 --> 00:02:42,893
+Escape.
+
+63
+00:02:42,895 --> 00:02:45,033
+I don't know. Take a year,
+see the world.
+
+64
+00:02:45,035 --> 00:02:46,734
+Hmm. You do realize
+
+65
+00:02:46,736 --> 00:02:48,236
+that involves getting on a plane, right?
+
+66
+00:02:48,238 --> 00:02:50,838
+- Ooh.
+- [CHUCKLES]
+
+67
+00:02:50,840 --> 00:02:52,407
+Where do we go?
+
+68
+00:02:52,409 --> 00:02:55,830
+Chile? Greece? Thailand?
+
+69
+00:02:55,832 --> 00:02:57,502
+Um, anywhere that's not Jamaica
+
+70
+00:02:57,504 --> 00:02:59,348
+- would be great.
+- [CELLPHONE CHIMES, VIBRATES]
+
+71
+00:02:59,350 --> 00:03:01,006
+[CELLPHONE BEEPS]
+
+72
+00:03:01,008 --> 00:03:02,797
+Crap, I gotta go.
+
+73
+00:03:02,799 --> 00:03:05,022
+I really don't want to go deal
+with this whole Jared thing.
+
+74
+00:03:05,024 --> 00:03:06,714
+If he really is working with the Xers,
+
+75
+00:03:06,716 --> 00:03:08,538
+the quicker you take
+him down, the better,
+
+76
+00:03:08,540 --> 00:03:10,096
+as far as I'm concerned.
+
+77
+00:03:10,098 --> 00:03:13,856
+Or I could just, uh,
+come see Saanvi with you.
+
+78
+00:03:13,858 --> 00:03:15,263
+Trying to be normal, remember?
+
+79
+00:03:15,265 --> 00:03:17,522
+[CLEARS THROAT] Which
+means you go to work.
+
+80
+00:03:17,524 --> 00:03:19,514
+I'm a big boy.
+
+81
+00:03:19,516 --> 00:03:21,939
+Perfectly capable of going
+to the doctor by myself.
+
+82
+00:03:21,941 --> 00:03:23,964
+Fine, but I'm gonna spend the whole day
+
+83
+00:03:23,966 --> 00:03:27,124
+making travel plans, then.
+
+84
+00:03:27,126 --> 00:03:28,635
+Bye. I'm taking this.
+
+85
+00:03:28,637 --> 00:03:31,728
+Okay. You should.
+
+86
+00:03:31,730 --> 00:03:33,519
+[THUNDER RUMBLING]
+
+87
+00:03:33,521 --> 00:03:34,743
+Here, lemme help.
+
+88
+00:03:34,745 --> 00:03:37,502
+It's okay. I-I-I got it.
+
+89
+00:03:37,504 --> 00:03:40,562
+[SIGHS] Thanks for letting
+me stay here while I recover.
+
+90
+00:03:40,564 --> 00:03:43,121
+And for, you know, saving my life.
+
+91
+00:03:43,123 --> 00:03:44,512
+[CHUCKLES]
+
+92
+00:03:44,514 --> 00:03:46,403
+It was my absolute pleasure.
+
+93
+00:03:46,405 --> 00:03:48,028
+We're happy to have you.
+
+94
+00:03:48,030 --> 00:03:51,021
+Right, 'cause things around here
+weren't hectic enough already
+
+95
+00:03:51,023 --> 00:03:53,847
+without an unexpected houseguest.
+
+96
+00:03:53,849 --> 00:03:56,739
+- You doing okay?
+- I don't know.
+
+97
+00:03:56,741 --> 00:04:00,617
+I mean, all those people died,
+and the Callings saved me.
+
+98
+00:04:00,619 --> 00:04:02,719
+I guess I just don't get it.
+
+99
+00:04:02,721 --> 00:04:06,055
+TJ, there are so many things
+
+100
+00:04:06,057 --> 00:04:07,757
+I wish we understood about the Callings,
+
+101
+00:04:07,759 --> 00:04:10,119
+but right now all that
+matters is you're safe.
+
+102
+00:04:10,121 --> 00:04:12,478
+And the only thing
+you need to do is heal.
+
+103
+00:04:12,480 --> 00:04:13,669
+[OLIVE SIGHS]
+
+104
+00:04:13,671 --> 00:04:14,903
+Hey.
+
+105
+00:04:16,486 --> 00:04:18,845
+- You ready?
+- Uh, yeah. Yeah.
+
+106
+00:04:18,847 --> 00:04:22,345
+Olive, why don't you let TJ rest
+for a few days, recover a bit?
+
+107
+00:04:22,347 --> 00:04:25,537
+No, okay? I'm sick of losing people.
+
+108
+00:04:25,539 --> 00:04:27,296
+I just got you guys back.
+
+109
+00:04:27,298 --> 00:04:30,522
+If the key to surviving
+is in this journal,
+
+110
+00:04:30,524 --> 00:04:34,249
+then I-I'm not gonna
+waste another minute.
+
+111
+00:04:34,251 --> 00:04:35,673
+TJ: It's okay.
+
+112
+00:04:35,675 --> 00:04:38,866
+Maybe it'll help take
+my mind off the fire.
+
+113
+00:04:38,868 --> 00:04:40,224
+You sure?
+
+114
+00:04:40,226 --> 00:04:41,491
+Yeah.
+
+115
+00:04:42,739 --> 00:04:44,329
+Alright, then.
+
+116
+00:04:44,331 --> 00:04:47,220
+I'm gonna go make sure
+Cal's not still in his PJs.
+
+117
+00:04:47,222 --> 00:04:50,056
+[RAIN FALLING, THUNDER RUMBLING]
+
+118
+00:04:52,228 --> 00:04:53,561
+[CHUCKLES]
+
+119
+00:04:53,563 --> 00:04:55,508
+You know, Cal, it
+comes with instructions
+
+120
+00:04:55,510 --> 00:04:57,866
+and all the hardware to put it together.
+
+121
+00:04:57,868 --> 00:05:00,802
+Somehow I don't think
+he's trying to make a crib.
+
+122
+00:05:00,804 --> 00:05:04,804
+♪♪
+
+123
+00:05:07,077 --> 00:05:08,476
+What are you building?
+
+124
+00:05:08,478 --> 00:05:10,412
+[SIGHS] Why won't it work?
+
+125
+00:05:10,414 --> 00:05:13,214
+It's supposed to work.
+It's all connected.
+
+126
+00:05:15,315 --> 00:05:17,305
+Cal, did you have a Calling?
+
+127
+00:05:17,307 --> 00:05:18,763
+Come on!
+
+128
+00:05:18,765 --> 00:05:21,556
+Honey, can we help?
+
+129
+00:05:21,558 --> 00:05:25,149
+Cal, if you had a
+Calling, we need to know.
+
+130
+00:05:25,151 --> 00:05:26,940
+What did you see?
+
+131
+00:05:26,942 --> 00:05:29,900
+I can't remember. It...
+It was like a dream.
+
+132
+00:05:29,902 --> 00:05:32,557
+But I think...
+
+133
+00:05:32,559 --> 00:05:35,760
+I think I was there when
+the plane disappeared.
+
+134
+00:05:37,878 --> 00:05:40,069
+You know what happened to Flight 828?
+
+135
+00:05:40,071 --> 00:05:44,140
+♪♪
+
+136
+00:05:44,912 --> 00:05:47,936
+[ENGINES ROARING]
+
+137
+00:05:47,938 --> 00:05:51,963
+♪♪
+
+138
+00:05:51,965 --> 00:05:55,623
+[INDISTINCT TALKING, TELEPHONE RINGING]
+
+139
+00:05:55,625 --> 00:05:59,625
+♪♪
+
+140
+00:06:05,432 --> 00:06:06,888
+Internal affairs?
+
+141
+00:06:06,890 --> 00:06:08,579
+You know, I appreciate
+you having my back
+
+142
+00:06:08,581 --> 00:06:10,708
+- the way I've <i>always</i> had yours.
+- Always?
+
+143
+00:06:10,710 --> 00:06:13,111
+Your new friends think my
+family and I are subhuman.
+
+144
+00:06:13,113 --> 00:06:15,947
+Mick, the box you just opened,
+
+145
+00:06:15,949 --> 00:06:17,285
+okay, you don't get what's inside.
+
+146
+00:06:17,287 --> 00:06:20,344
+You know what I don't
+get, Jared, is you.
+
+147
+00:06:20,346 --> 00:06:22,202
+BOWERS: Stone.
+
+148
+00:06:22,204 --> 00:06:24,438
+These people need a bit of your time.
+
+149
+00:06:29,044 --> 00:06:30,267
+Big day.
+
+150
+00:06:30,269 --> 00:06:33,760
+Ah! [CHUCKLES]
+
+151
+00:06:33,762 --> 00:06:35,485
+Ready to save my life?
+
+152
+00:06:35,487 --> 00:06:37,109
+Yes. Um, yeah.
+
+153
+00:06:37,111 --> 00:06:38,634
+Yes, I've just... I've
+been working all night.
+
+154
+00:06:38,636 --> 00:06:39,802
+Sorry.
+
+155
+00:06:45,261 --> 00:06:47,362
+You alright?
+
+156
+00:06:47,364 --> 00:06:49,131
+I had this, like, really
+weird thing with my ex,
+
+157
+00:06:49,133 --> 00:06:50,199
+and it just stirred me up.
+
+158
+00:06:50,201 --> 00:06:51,934
+[EXHALES]
+
+159
+00:06:51,936 --> 00:06:53,335
+I mean, don't worry. I'm just...
+
+160
+00:06:53,337 --> 00:06:55,637
+I'm overcompensating
+with work. It's just...
+
+161
+00:06:55,639 --> 00:06:57,706
+That's one way to do things. [CHUCKLES]
+
+162
+00:06:57,708 --> 00:07:00,342
+It's tried and true. Okay.
+
+163
+00:07:00,344 --> 00:07:01,581
+Let's see.
+
+164
+00:07:01,583 --> 00:07:03,372
+Let's, um... Let's get started.
+
+165
+00:07:03,374 --> 00:07:05,107
+[DOOR OPENS]
+
+166
+00:07:07,512 --> 00:07:10,737
+Saanvi, please don't
+take this the wrong way,
+
+167
+00:07:10,739 --> 00:07:12,295
+but are you on something?
+
+168
+00:07:12,297 --> 00:07:14,887
+No. I'm fine.
+
+169
+00:07:14,889 --> 00:07:16,646
+Really? Because you seem really wired.
+
+170
+00:07:16,648 --> 00:07:18,871
+No, I just, uh... Since I
+injected myself with the serum,
+
+171
+00:07:18,873 --> 00:07:20,562
+I've had minor, um...
+
+172
+00:07:20,564 --> 00:07:22,225
+just minor impulse-control issues.
+
+173
+00:07:22,227 --> 00:07:24,817
+Oh.
+
+174
+00:07:24,819 --> 00:07:28,156
+I'm not the doctor, but it
+doesn't seem all that minor.
+
+175
+00:07:28,158 --> 00:07:29,691
+It's just a temporary side effect.
+
+176
+00:07:29,693 --> 00:07:31,826
+The Callings changed
+our brain chemistry,
+
+177
+00:07:31,828 --> 00:07:33,895
+and now that they're
+gone, it's gonna take
+
+178
+00:07:33,897 --> 00:07:36,431
+just a little bit of time for
+my body to get back to normal.
+
+179
+00:07:36,433 --> 00:07:38,566
+Put your arm out. Let's get started.
+
+180
+00:07:38,568 --> 00:07:41,036
+Uh, I'm not sure an
+impulse-control issue
+
+181
+00:07:41,038 --> 00:07:42,727
+is the best thing for
+a recovering addict.
+
+182
+00:07:42,729 --> 00:07:43,952
+It's just a temporary issue.
+
+183
+00:07:43,954 --> 00:07:46,377
+It's just my brain chemistry's
+getting back to normal.
+
+184
+00:07:46,379 --> 00:07:48,302
+You're repeating yourself.
+
+185
+00:07:48,304 --> 00:07:49,593
+[DOOR OPENS]
+
+186
+00:07:49,595 --> 00:07:51,628
+Okay, your serum was right here.
+
+187
+00:07:55,785 --> 00:07:57,919
+Oh! Yes!
+
+188
+00:08:00,534 --> 00:08:02,458
+Okay.
+
+189
+00:08:02,460 --> 00:08:04,884
+Let's, uh... Let's get started.
+
+190
+00:08:04,886 --> 00:08:09,211
+I'm gonna prepare the serum,
+and it shouldn't take too long.
+
+191
+00:08:09,213 --> 00:08:13,213
+♪♪
+
+192
+00:08:15,529 --> 00:08:17,219
+Internal Affairs? Really?
+
+193
+00:08:17,221 --> 00:08:18,843
+You think I had a choice?
+
+194
+00:08:18,845 --> 00:08:20,835
+Stone had tape connecting
+you to the Xers.
+
+195
+00:08:20,837 --> 00:08:22,193
+If I didn't run it up the ladder,
+
+196
+00:08:22,195 --> 00:08:23,550
+she would have done it herself.
+
+197
+00:08:23,552 --> 00:08:25,075
+At least this way, I can control it.
+
+198
+00:08:25,077 --> 00:08:26,866
+An investigation about <i>me, Captain.</i>
+
+199
+00:08:26,868 --> 00:08:28,546
+Nobody said this was gonna be easy.
+
+200
+00:08:28,548 --> 00:08:29,848
+I've got all bases covered.
+
+201
+00:08:29,850 --> 00:08:31,445
+If Stone gets anywhere with it,
+
+202
+00:08:31,447 --> 00:08:33,770
+- I can undercut her and make it go away.
+- Meantime, she gets to say
+
+203
+00:08:33,772 --> 00:08:35,428
+whatever the hell she
+wants to the rat squad.
+
+204
+00:08:35,430 --> 00:08:38,253
+We got to play this out
+like any other investigation.
+
+205
+00:08:38,255 --> 00:08:42,255
+♪♪
+
+206
+00:08:45,180 --> 00:08:47,370
+We're very interested
+in what you have to say.
+
+207
+00:08:47,372 --> 00:08:49,094
+Appreciate you taking
+the time, Detective.
+
+208
+00:08:49,096 --> 00:08:51,162
+Thank you guys for being
+able to jump in so quick.
+
+209
+00:08:51,164 --> 00:08:53,102
+I-I just, uh, need to
+state for the record
+
+210
+00:08:53,104 --> 00:08:54,615
+that you are here voluntarily,
+
+211
+00:08:54,617 --> 00:08:57,541
+that you have a right to
+representation from the union...
+
+212
+00:08:57,543 --> 00:09:01,357
+No, I, uh... I just want
+to do the right thing.
+
+213
+00:09:01,359 --> 00:09:03,148
+Good. Then we're on the same page.
+
+214
+00:09:03,150 --> 00:09:05,550
+Let's start at the beginning.
+
+215
+00:09:05,552 --> 00:09:08,720
+You have a long history with
+Detective Vasquez, correct?
+
+216
+00:09:08,722 --> 00:09:11,883
+Yeah. Um, you know what?
+
+217
+00:09:11,885 --> 00:09:13,336
+He... He's a great guy.
+
+218
+00:09:13,338 --> 00:09:15,862
+He's always been kind and caring.
+
+219
+00:09:15,864 --> 00:09:18,154
+This is all kind of unexpected.
+
+220
+00:09:18,156 --> 00:09:21,714
+Uh, Detective Vasquez
+separated from his wife
+
+221
+00:09:21,716 --> 00:09:23,438
+after you came back on Flight 828.
+
+222
+00:09:23,440 --> 00:09:24,963
+The two of you got back together?
+
+223
+00:09:24,965 --> 00:09:28,556
+Uh, no, not exactly. W-We had a...
+
+224
+00:09:28,558 --> 00:09:30,491
+I'm not looking to split hairs.
+
+225
+00:09:34,528 --> 00:09:37,619
+Uh, we made a mistake.
+
+226
+00:09:37,621 --> 00:09:40,045
+I think, you know, Jared took that hard,
+
+227
+00:09:40,047 --> 00:09:42,670
+and I-I can only assume
+that's what caused him
+
+228
+00:09:42,672 --> 00:09:44,328
+to turn to the Xers.
+
+229
+00:09:44,330 --> 00:09:47,235
+Did your partnership sour
+before or after you accused him
+
+230
+00:09:47,237 --> 00:09:50,728
+of attacking the man that you
+were romantically involved with?
+
+231
+00:09:50,730 --> 00:09:52,419
+I don't see how Zeke is in...
+
+232
+00:09:52,421 --> 00:09:53,644
+Did you find yourself in need
+
+233
+00:09:53,646 --> 00:09:55,702
+of some character
+rehabilitation at the precinct?
+
+234
+00:09:55,704 --> 00:09:57,994
+In need of a win?
+
+235
+00:09:57,996 --> 00:10:00,653
+[CHUCKLING] I'm sorry, uh,
+
+236
+00:10:00,655 --> 00:10:03,045
+what exactly are you guys driving at?
+
+237
+00:10:03,047 --> 00:10:05,504
+We're trying to understand
+why you seem to have a vendetta
+
+238
+00:10:05,506 --> 00:10:06,863
+against a man you almost married.
+
+239
+00:10:06,865 --> 00:10:08,155
+Uh, no. No, no, no.
+
+240
+00:10:08,157 --> 00:10:10,345
+I'm concerned that the
+people he's associating with
+
+241
+00:10:10,347 --> 00:10:12,503
+might be involved with illegal activity.
+
+242
+00:10:12,505 --> 00:10:14,562
+So you resent the new woman he's seeing.
+
+243
+00:10:14,564 --> 00:10:18,255
+That's not at all what I said.
+
+244
+00:10:18,257 --> 00:10:23,450
+Okay, I understand that you
+need to vet my credibility,
+
+245
+00:10:23,452 --> 00:10:26,142
+but why do I get the sense that
+you think that I'm the bad guy?
+
+246
+00:10:26,144 --> 00:10:27,664
+Why do you have my case file?
+
+247
+00:10:27,666 --> 00:10:29,415
+We have a few questions
+about your case work
+
+248
+00:10:29,417 --> 00:10:31,306
+since being reinstated
+after 828's return.
+
+249
+00:10:31,308 --> 00:10:33,932
+More than a few, actually.
+
+250
+00:10:33,934 --> 00:10:39,194
+Uh, you did not just happen
+upon these yourselves.
+
+251
+00:10:39,196 --> 00:10:41,719
+Jared gave those to you to save himself.
+
+252
+00:10:41,721 --> 00:10:45,103
+We are here to discuss his
+involvement with a hate group.
+
+253
+00:10:45,105 --> 00:10:50,031
+Case after case of yours seems
+to involve rescues or solves
+
+254
+00:10:50,033 --> 00:10:52,162
+with no evidentiary trail whatsoever.
+
+255
+00:10:52,164 --> 00:10:54,254
+Recovery of two kidnapped girls.
+
+256
+00:10:54,256 --> 00:10:56,246
+Murder of a barbershop owner.
+
+257
+00:10:56,248 --> 00:10:58,704
+Murder of a college student.
+
+258
+00:10:58,706 --> 00:10:59,995
+Ah. Hmm.
+
+259
+00:10:59,997 --> 00:11:03,422
+Bank robbery by an 828 passenger.
+
+260
+00:11:03,424 --> 00:11:08,183
+Oh, this is a fun one.
+Your boyfriend was involved.
+
+261
+00:11:08,185 --> 00:11:10,857
+- [SIGHS] Let's start here.
+- Great. Fine.
+
+262
+00:11:10,859 --> 00:11:13,449
+But if you don't accept my
+explanation of these cases,
+
+263
+00:11:13,451 --> 00:11:15,875
+then where exactly is this heading?
+
+264
+00:11:15,877 --> 00:11:18,544
+To a long prison term, Detective.
+
+265
+00:11:21,673 --> 00:11:24,175
+[RAIN FALLING]
+
+266
+00:11:24,177 --> 00:11:26,911
+Alright, think hard, Cal.
+
+267
+00:11:26,913 --> 00:11:28,913
+What did you see?
+What happened to the plane?
+
+268
+00:11:28,915 --> 00:11:31,682
+I can't remember.
+
+269
+00:11:31,684 --> 00:11:33,751
+I just have to build it.
+
+270
+00:11:33,753 --> 00:11:35,620
+Build what?
+
+271
+00:11:35,622 --> 00:11:37,422
+[GROANS]
+
+272
+00:11:37,424 --> 00:11:39,924
+It's okay. Just take it easy.
+
+273
+00:11:39,926 --> 00:11:42,176
+Ben, I haven't seen him this worked up
+
+274
+00:11:42,178 --> 00:11:43,811
+about a Calling in a while.
+
+275
+00:11:45,297 --> 00:11:47,381
+Alright. Let me help.
+
+276
+00:11:47,383 --> 00:11:48,872
+What's it supposed to look like?
+
+277
+00:11:48,874 --> 00:11:51,675
+Like a spider web.
+The plane was trapped in it.
+
+278
+00:11:51,677 --> 00:11:53,677
+- [THUNDER CRASHES]
+- [SIGHS LOUDLY]
+
+279
+00:11:53,679 --> 00:11:54,845
+You okay?
+
+280
+00:11:54,847 --> 00:11:56,046
+Yeah, fine.
+
+281
+00:11:56,048 --> 00:11:57,981
+I'm just feeling a bit woozy.
+
+282
+00:11:57,983 --> 00:12:01,885
+[SIGHS] I thought the
+morning sickness was over.
+
+283
+00:12:01,887 --> 00:12:03,487
+What can I do?
+
+284
+00:12:03,489 --> 00:12:05,689
+Here, hold this while I tie it.
+
+285
+00:12:09,661 --> 00:12:11,404
+So, what makes you so convinced
+
+286
+00:12:11,406 --> 00:12:13,122
+that this journal is
+the key to everything
+
+287
+00:12:13,124 --> 00:12:15,065
+and we're the ones who
+were supposed to find it?
+
+288
+00:12:15,067 --> 00:12:18,502
+Because the tarot card
+that led to all of this,
+
+289
+00:12:18,504 --> 00:12:21,038
+it... it came to <i>me
+when you guys were missing.</i>
+
+290
+00:12:21,040 --> 00:12:24,742
+And the book is in Latin.
+And you know Latin.
+
+291
+00:12:24,744 --> 00:12:26,410
+Oh, so my life was spared
+
+292
+00:12:26,412 --> 00:12:29,079
+because the Callings don't know
+how to use Google Translate.
+
+293
+00:12:29,081 --> 00:12:30,987
+- Great.
+- Well, <i>I</i> do,
+
+294
+00:12:30,989 --> 00:12:33,517
+okay, and all I got was gibberish.
+
+295
+00:12:33,519 --> 00:12:35,919
+TJ, none of this was an accident.
+
+296
+00:12:35,921 --> 00:12:38,222
+Your survival, my survival.
+
+297
+00:12:38,224 --> 00:12:41,759
+We're... We're all in this together.
+
+298
+00:12:41,761 --> 00:12:44,228
+I know. You're right.
+
+299
+00:12:44,230 --> 00:12:47,097
+[RAIN FALLING]
+
+300
+00:12:51,202 --> 00:12:54,104
+[THUNDER RUMBLES SOFTLY]
+
+301
+00:12:54,106 --> 00:12:55,906
+Okay, here we go.
+
+302
+00:12:55,908 --> 00:12:58,475
+Al-Zuras was definitely like us.
+
+303
+00:12:58,477 --> 00:13:00,310
+"After a decade, we arrived.
+
+304
+00:13:00,312 --> 00:13:03,080
+But for the men on board,
+no time had passed.
+
+305
+00:13:03,082 --> 00:13:05,749
+Each of us was as young as when we left,
+
+306
+00:13:05,751 --> 00:13:09,153
+only now we could hear the word of God".
+
+307
+00:13:09,155 --> 00:13:10,988
+The Callings.
+
+308
+00:13:10,990 --> 00:13:13,123
+"Lumen" was the word they used.
+
+309
+00:13:13,125 --> 00:13:16,794
+"Glow". They thought it was a-a curse.
+
+310
+00:13:16,796 --> 00:13:18,729
+Callings, they do good.
+
+311
+00:13:18,731 --> 00:13:20,425
+I don't... I don't know
+why they would think...
+
+312
+00:13:20,427 --> 00:13:21,665
+Well, according to Al-Zuras,
+
+313
+00:13:21,667 --> 00:13:24,468
+"For every blessing,
+a price must be paid.
+
+314
+00:13:24,470 --> 00:13:26,837
+We returned after 10
+revolutions of the sun,
+
+315
+00:13:26,839 --> 00:13:31,241
+only to learn our lives would
+be taken after just 10 more".
+
+316
+00:13:31,243 --> 00:13:33,343
+He had his own Death Date.
+
+317
+00:13:33,345 --> 00:13:35,779
+[THUNDER RUMBLING]
+
+318
+00:13:35,781 --> 00:13:39,683
+"And for every good that
+comes from the Voice,
+
+319
+00:13:39,685 --> 00:13:42,252
+a trial must follow".
+
+320
+00:13:42,254 --> 00:13:44,755
+So, in other words, when the
+Callings save you from a fire,
+
+321
+00:13:44,757 --> 00:13:46,256
+get ready for something
+bad about to happen.
+
+322
+00:13:46,258 --> 00:13:49,860
+Maybe the fire <i>was</i> the bad thing.
+
+323
+00:13:49,862 --> 00:13:51,962
+Have you ever thought of that?
+
+324
+00:13:51,964 --> 00:13:54,865
+I hope you're right.
+
+325
+00:13:54,867 --> 00:13:59,536
+"And so began our quest to...
+
+326
+00:13:59,538 --> 00:14:02,840
+dispel our ailment...
+
+327
+00:14:02,842 --> 00:14:05,375
+and cheat death once again".
+
+328
+00:14:07,045 --> 00:14:09,713
+Al-Zuras seemed to think he
+could get rid of the Callings.
+
+329
+00:14:09,715 --> 00:14:11,481
+So if we know what happened to him,
+
+330
+00:14:11,483 --> 00:14:13,684
+maybe we could figure
+it out for ourselves.
+
+331
+00:14:17,288 --> 00:14:19,323
+Where's my journal? Where's my journal?
+
+332
+00:14:19,325 --> 00:14:21,225
+- Journal.
+- SAANVI: Oh. Yes.
+
+333
+00:14:21,227 --> 00:14:22,993
+Yes, thank you.
+
+334
+00:14:22,995 --> 00:14:25,555
+Thank you, thank you, thank you,
+thank you, thank you, thank you.
+
+335
+00:14:27,465 --> 00:14:29,233
+Okay, thank you, thank you,
+thank you, thank you, thank you,
+
+336
+00:14:29,235 --> 00:14:30,734
+thank you, thank you.
+
+337
+00:14:34,505 --> 00:14:35,873
+How's Michaela?
+
+338
+00:14:35,875 --> 00:14:37,407
+I bet she's like,
+out-of-her-mind excited
+
+339
+00:14:37,409 --> 00:14:40,677
+about the chance to have
+you around for longer.
+
+340
+00:14:40,679 --> 00:14:43,747
+- She was. We both were.
+- Yeah.
+
+341
+00:14:43,749 --> 00:14:48,218
+But, Saanvi, I think we should
+put a hold on the treatment.
+
+342
+00:14:48,220 --> 00:14:50,654
+No, Zeke, look at me.
+
+343
+00:14:50,656 --> 00:14:53,490
+Look at me. I am fully functional.
+
+344
+00:14:53,492 --> 00:14:56,193
+I haven't had a Calling in weeks.
+
+345
+00:14:56,195 --> 00:14:59,429
+I-I know... I know that I
+am a little bit supercharged,
+
+346
+00:14:59,431 --> 00:15:02,566
+but that's gonna... that's gonna
+go away in about a day or two.
+
+347
+00:15:04,068 --> 00:15:06,503
+You're getting worse. You need a doctor.
+
+348
+00:15:06,505 --> 00:15:08,238
+- Maybe you missed the name tag.
+- You know what I mean.
+
+349
+00:15:08,240 --> 00:15:09,573
+No! Stop!
+
+350
+00:15:09,575 --> 00:15:12,109
+- Oh, my God. Ohh.
+- Okay.
+
+351
+00:15:12,111 --> 00:15:13,877
+Do you know what would
+happen if they found out
+
+352
+00:15:13,879 --> 00:15:15,579
+that I was testing
+unapproved meds on myself?
+
+353
+00:15:15,581 --> 00:15:20,450
+It would be my job, my chance
+to save us from the Death Date.
+
+354
+00:15:20,452 --> 00:15:22,519
+Where's my journal?
+
+355
+00:15:22,521 --> 00:15:24,755
+Where's my journal? Where's my journal?
+
+356
+00:15:27,225 --> 00:15:28,725
+[SIGHS]
+
+357
+00:15:28,727 --> 00:15:30,560
+Thank you. Thank you.
+
+358
+00:15:30,562 --> 00:15:31,962
+- Saanvi.
+- Mm-hmm?
+
+359
+00:15:31,964 --> 00:15:34,031
+We've had the same
+conversation three times.
+
+360
+00:15:34,033 --> 00:15:35,253
+I've been around the block enough
+
+361
+00:15:35,255 --> 00:15:36,944
+to know when people are in trouble.
+
+362
+00:15:36,946 --> 00:15:38,412
+Who can I call?
+
+363
+00:15:41,973 --> 00:15:43,707
+Saanvi.
+
+364
+00:15:43,709 --> 00:15:45,943
+There must be a doctor you trust.
+
+365
+00:15:48,546 --> 00:15:50,280
+Dr. Alex Bates.
+
+366
+00:15:50,282 --> 00:15:52,549
+She's my ex.
+
+367
+00:15:52,551 --> 00:15:54,985
+She's not taking my calls.
+She doesn't want to talk to me.
+
+368
+00:15:54,987 --> 00:15:57,321
+Then I'll go get her.
+
+369
+00:15:57,323 --> 00:15:59,456
+Okay, she works at Boroughs.
+I'll just go with you.
+
+370
+00:15:59,458 --> 00:16:00,991
+I-I don't think it's a great idea
+
+371
+00:16:00,993 --> 00:16:03,493
+for you to be out in this state.
+
+372
+00:16:03,495 --> 00:16:05,095
+She's not gonna want
+to talk to you about...
+
+373
+00:16:05,097 --> 00:16:08,632
+Saanvi, this is important.
+I'll figure it out.
+
+374
+00:16:08,634 --> 00:16:10,267
+You sit tight.
+
+375
+00:16:10,269 --> 00:16:11,969
+Don't let anyone in.
+
+376
+00:16:11,971 --> 00:16:13,837
+- Okay.
+- Okay.
+
+377
+00:16:17,442 --> 00:16:19,076
+[DOOR CLOSES]
+
+378
+00:16:19,078 --> 00:16:20,811
+There seem to be an awful lot of guesses
+
+379
+00:16:20,813 --> 00:16:22,312
+and anonymous tips here.
+
+380
+00:16:22,314 --> 00:16:24,304
+Individually, it wouldn't
+raise an eyebrow,
+
+381
+00:16:24,306 --> 00:16:26,329
+but in totality, frankly, I'm troubled.
+
+382
+00:16:26,331 --> 00:16:28,855
+All of those cases stood up in court.
+
+383
+00:16:28,857 --> 00:16:31,547
+BLANPIED: Maybe. Still...
+
+384
+00:16:31,549 --> 00:16:34,825
+Let's talk more about the man
+you live with, Ezekiel Landon.
+
+385
+00:16:34,827 --> 00:16:36,326
+He has nothing to do with this.
+
+386
+00:16:36,328 --> 00:16:38,695
+And yet after you and Landon connected,
+
+387
+00:16:38,697 --> 00:16:41,298
+your knack for being in the
+right place at the right time
+
+388
+00:16:41,300 --> 00:16:43,033
+took a giant leap forward.
+
+389
+00:16:43,035 --> 00:16:45,369
+You know what else took
+a giant leap forward?
+
+390
+00:16:45,371 --> 00:16:46,837
+The amount of second-guessing
+
+391
+00:16:46,839 --> 00:16:48,438
+and outright betrayal
+from my fellow officers.
+
+392
+00:16:48,440 --> 00:16:50,507
+It's hard to have your
+professional capabilities
+
+393
+00:16:50,509 --> 00:16:52,342
+questioned, to crave respect.
+
+394
+00:16:52,344 --> 00:16:53,643
+I'm good at my job!
+
+395
+00:16:53,645 --> 00:16:56,046
+You cut a few corners to get ahead.
+
+396
+00:16:56,048 --> 00:17:00,484
+But then did you and
+Landon manufacture crimes
+
+397
+00:17:00,486 --> 00:17:01,885
+in order to help your career?
+
+398
+00:17:01,887 --> 00:17:03,520
+Manufacture?! You...
+
+399
+00:17:03,522 --> 00:17:04,955
+No, no, no, you cannot
+be serious right now.
+
+400
+00:17:04,957 --> 00:17:06,323
+You knew Isaiah McCann,
+
+401
+00:17:06,325 --> 00:17:07,991
+manager of the nightclub
+that burned down.
+
+402
+00:17:07,993 --> 00:17:09,526
+Not socially. Yeah, he was
+a victim in one of my...
+
+403
+00:17:09,528 --> 00:17:11,561
+Witnesses and surveillance
+put you at the club
+
+404
+00:17:11,563 --> 00:17:15,232
+before the fire started,
+talking to Isaiah McCann.
+
+405
+00:17:15,234 --> 00:17:16,700
+He asked me to meet him.
+
+406
+00:17:16,702 --> 00:17:18,523
+Now, I don't think that
+you meant to kill anyone.
+
+407
+00:17:18,525 --> 00:17:19,857
+Maybe you underestimated things.
+
+408
+00:17:19,859 --> 00:17:21,838
+Maybe the fires got out of control.
+
+409
+00:17:21,840 --> 00:17:25,876
+Tell me in your own words what happened.
+
+410
+00:17:27,812 --> 00:17:30,213
+I had nothing to do with this.
+
+411
+00:17:30,215 --> 00:17:33,316
+I would like my union rep.
+
+412
+00:17:33,318 --> 00:17:35,485
+It feels like we're on
+the verge of something.
+
+413
+00:17:35,487 --> 00:17:37,187
+Why can't he remember what he saw?
+
+414
+00:17:37,189 --> 00:17:39,423
+You've seen how Cal processes Callings.
+
+415
+00:17:39,425 --> 00:17:41,132
+It's like his drawings.
+
+416
+00:17:41,134 --> 00:17:42,690
+He's got something in his head
+
+417
+00:17:42,692 --> 00:17:43,994
+and he just can't put it to words.
+
+418
+00:17:43,996 --> 00:17:45,429
+The plane stuck in a spider web?
+
+419
+00:17:45,431 --> 00:17:48,999
+Is that a literal web
+or Captain Daly's...
+
+420
+00:17:49,001 --> 00:17:52,069
+dark lightning?
+
+421
+00:17:52,071 --> 00:17:53,870
+GRACE: Ben?
+
+422
+00:17:53,872 --> 00:17:57,107
+You're getting that look that you get.
+
+423
+00:17:57,109 --> 00:17:59,943
+Take it easy. He's just a kid.
+
+424
+00:17:59,945 --> 00:18:02,279
+[RAIN FALLING]
+
+425
+00:18:02,281 --> 00:18:04,915
+Yeah, okay.
+
+426
+00:18:04,917 --> 00:18:07,784
+I just wish I understood
+what he wants to build.
+
+427
+00:18:07,786 --> 00:18:11,786
+♪♪
+
+428
+00:18:13,425 --> 00:18:19,096
+Hey, did Cal say something
+about a silver dragon?
+
+429
+00:18:19,098 --> 00:18:21,231
+Art the dragon?
+
+430
+00:18:21,233 --> 00:18:22,866
+This is different.
+
+431
+00:18:22,868 --> 00:18:24,601
+TJ: According to his journal,
+
+432
+00:18:24,603 --> 00:18:27,237
+Al-Zuras had a recurring
+vision about a silver dragon.
+
+433
+00:18:27,239 --> 00:18:29,940
+"And on the dragon's
+wings was borne despair
+
+434
+00:18:29,942 --> 00:18:32,209
+and the makings of our own demise".
+
+435
+00:18:32,211 --> 00:18:34,578
+Cal's Calling, the book...
+
+436
+00:18:34,580 --> 00:18:35,946
+[MOANS]
+
+437
+00:18:35,948 --> 00:18:37,414
+... it's got to be connected.
+
+438
+00:18:37,416 --> 00:18:39,449
+Well, everything's connected, right?
+
+439
+00:18:39,451 --> 00:18:42,552
+But still, spider webs, silver dragons?
+
+440
+00:18:42,554 --> 00:18:43,753
+It doesn't make any sense.
+
+441
+00:18:43,755 --> 00:18:45,312
+OLIVE: Well, the Callings
+will never just come out
+
+442
+00:18:45,314 --> 00:18:46,723
+and say something.
+
+443
+00:18:46,725 --> 00:18:49,793
+It's the point of a puzzle.
+Got to figure it out.
+
+444
+00:18:49,795 --> 00:18:51,628
+[THUNDER CRASHES]
+
+445
+00:18:51,630 --> 00:18:53,730
+- It's getting worse!
+- It's okay, Calamander.
+
+446
+00:18:53,732 --> 00:18:55,966
+It's not okay! It won't
+stop until we build it!
+
+447
+00:18:55,968 --> 00:18:58,068
+The storm's outside. We're safe in here.
+
+448
+00:18:59,281 --> 00:19:00,804
+Storm?
+
+449
+00:19:00,806 --> 00:19:02,572
+It's just a little weather.
+Nothing to be afraid of.
+
+450
+00:19:02,574 --> 00:19:04,007
+Yeah, buddy.
+
+451
+00:19:04,009 --> 00:19:05,909
+Sorry, what are you guys talking about?
+
+452
+00:19:05,911 --> 00:19:07,144
+[THUNDER RUMBLING]
+
+453
+00:19:07,146 --> 00:19:08,111
+[CHUCKLES]
+
+454
+00:19:08,113 --> 00:19:09,913
+The rain. [CHUCKLES]
+
+455
+00:19:09,915 --> 00:19:11,948
+[THUNDER RUMBLING]
+
+456
+00:19:15,586 --> 00:19:17,587
+[BIRDS CHIRPING]
+
+457
+00:19:20,525 --> 00:19:23,693
+- [RAIN FALLING]
+- It's beautiful outside.
+
+458
+00:19:23,695 --> 00:19:25,795
+[THUNDER RUMBLING]
+
+459
+00:19:29,133 --> 00:19:31,768
+65 and sunny.
+
+460
+00:19:31,770 --> 00:19:32,869
+See?
+
+461
+00:19:33,938 --> 00:19:36,473
+Oh, my God.
+
+462
+00:19:36,475 --> 00:19:38,275
+The storm isn't real.
+
+463
+00:19:38,277 --> 00:19:41,845
+It's a Calling.
+
+464
+00:19:41,847 --> 00:19:43,680
+Something's coming.
+
+465
+00:19:43,682 --> 00:19:45,115
+[THUNDER CRASHES]
+
+466
+00:19:47,477 --> 00:19:49,501
+[DOOR OPENS]
+
+467
+00:19:49,503 --> 00:19:50,879
+Okay, what the hell is going on?
+
+468
+00:19:50,881 --> 00:19:52,738
+Why am I hearing Michaela
+called for a union rep?
+
+469
+00:19:52,740 --> 00:19:55,463
+Apparently, Simon gave IA
+those case files you stole.
+
+470
+00:19:55,465 --> 00:19:57,164
+I thought you said you had
+everything under control.
+
+471
+00:19:57,166 --> 00:19:59,200
+That's when it was about <i>you.</i>
+
+472
+00:19:59,202 --> 00:20:01,268
+Clearly, Simon called an audible,
+
+473
+00:20:01,270 --> 00:20:03,137
+and now IA's digging into everything.
+
+474
+00:20:03,139 --> 00:20:05,306
+So, he... he's just gonna sacrifice me
+
+475
+00:20:05,308 --> 00:20:07,108
+in order to take Michaela down?
+
+476
+00:20:07,110 --> 00:20:08,975
+Cap, this can blow up in our faces,
+
+477
+00:20:08,977 --> 00:20:10,111
+everything we've worked for.
+
+478
+00:20:10,113 --> 00:20:11,812
+If I were you, I'd go
+have words with Simon
+
+479
+00:20:11,814 --> 00:20:13,714
+and find out exactly how
+much of a hole we're in.
+
+480
+00:20:13,716 --> 00:20:15,783
+This is gonna hurt a lot more
+people than just you and me
+
+481
+00:20:15,785 --> 00:20:17,017
+if things go south.
+
+482
+00:20:17,019 --> 00:20:21,019
+♪♪
+
+483
+00:20:22,792 --> 00:20:24,859
+[DOOR CLOSES]
+
+484
+00:20:24,861 --> 00:20:27,161
+- [THUNDER CRASHES]
+- What does Al-Zuras say about shared Callings?
+
+485
+00:20:27,163 --> 00:20:29,530
+- Mass hallucinations?
+- Not a lot.
+
+486
+00:20:29,532 --> 00:20:31,999
+Although he did have a lot to
+say about electrical storms.
+
+487
+00:20:32,001 --> 00:20:33,234
+Yeah?
+
+488
+00:20:33,236 --> 00:20:35,503
+So did Captain Daly.
+
+489
+00:20:35,505 --> 00:20:37,805
+Did the captain describe
+anything like this?
+
+490
+00:20:37,807 --> 00:20:41,857
+♪♪
+
+491
+00:20:45,214 --> 00:20:47,581
+The storm Calling has
+to have something to do
+
+492
+00:20:47,583 --> 00:20:50,151
+with what happened on Flight 828.
+
+493
+00:20:50,153 --> 00:20:51,652
+But why are we getting it now,
+
+494
+00:20:51,654 --> 00:20:53,254
+and what is it trying to show us?
+
+495
+00:20:53,256 --> 00:20:55,189
+"For every blessing,
+a price must be paid".
+
+496
+00:20:55,191 --> 00:20:57,258
+Would you stop it already, please?
+
+497
+00:20:57,260 --> 00:20:59,860
+Dad, he thinks the storm is payback
+
+498
+00:20:59,862 --> 00:21:01,228
+for all the good things
+that have happened.
+
+499
+00:21:01,230 --> 00:21:02,997
+- TJ, get over it!
+- Dad.
+
+500
+00:21:02,999 --> 00:21:04,598
+I'm sorry.
+
+501
+00:21:04,600 --> 00:21:06,200
+It's just we've never had
+a Calling like this before,
+
+502
+00:21:06,202 --> 00:21:08,869
+one that lasted for an
+extended period of time.
+
+503
+00:21:10,338 --> 00:21:12,173
+And are we the only ones seeing it?
+
+504
+00:21:12,175 --> 00:21:14,375
+You guys find out what the
+storm has to do with the book.
+
+505
+00:21:14,377 --> 00:21:16,377
+- Keep me updated.
+- And where are you going?
+
+506
+00:21:16,379 --> 00:21:17,912
+Your brother thinks
+building a spider web
+
+507
+00:21:17,914 --> 00:21:19,046
+is the way out of all this.
+
+508
+00:21:19,048 --> 00:21:20,414
+I'm gonna help him.
+
+509
+00:21:20,416 --> 00:21:22,249
+Mick, are you seeing a storm?
+
+510
+00:21:22,251 --> 00:21:24,785
+Give me a call back.
+
+511
+00:21:24,787 --> 00:21:27,288
+Okay, is this [EXHALES SHARPLY]
+
+512
+00:21:27,290 --> 00:21:28,889
+close to what you're
+seeing in your head?
+
+513
+00:21:28,891 --> 00:21:30,858
+No! It's not right! Take it off!
+
+514
+00:21:30,860 --> 00:21:32,560
+[THUNDER CRASHES]
+
+515
+00:21:32,562 --> 00:21:34,028
+It's okay, Cal.
+
+516
+00:21:34,030 --> 00:21:35,629
+The storm isn't real, remember?
+
+517
+00:21:35,631 --> 00:21:37,131
+I said take it off!
+
+518
+00:21:37,133 --> 00:21:39,200
+Okay! Just watch your tone.
+
+519
+00:21:40,936 --> 00:21:42,636
+Now look what you made me do!
+
+520
+00:21:42,638 --> 00:21:44,138
+Cal!
+
+521
+00:21:44,140 --> 00:21:46,407
+Your mom's only trying
+to help. We all are.
+
+522
+00:21:49,277 --> 00:21:51,545
+I'm sorry. I-I don't
+know what's going on here,
+
+523
+00:21:51,547 --> 00:21:54,281
+but I already told Saanvi
+I can't see her anymore.
+
+524
+00:21:54,283 --> 00:21:56,217
+- It's too hard.
+- I know. I'm sorry.
+
+525
+00:21:56,219 --> 00:21:59,753
+Saanvi wanted to respect
+your wishes, but this is...
+
+526
+00:21:59,755 --> 00:22:01,956
+- She really needs your help.
+- She doesn't, though.
+
+527
+00:22:01,958 --> 00:22:04,592
+She just needs someone to
+ask the right questions.
+
+528
+00:22:04,594 --> 00:22:06,827
+- Her research is...
+- This isn't about her research.
+
+529
+00:22:06,829 --> 00:22:09,096
+Saanvi's in trouble medically.
+
+530
+00:22:09,098 --> 00:22:10,464
+She was working on a treatment
+
+531
+00:22:10,466 --> 00:22:11,966
+and... and testing it on herself.
+
+532
+00:22:11,968 --> 00:22:13,400
+She didn't want me to
+say anything, but...
+
+533
+00:22:13,402 --> 00:22:14,802
+The blackouts.
+
+534
+00:22:14,804 --> 00:22:16,971
+Last week she told me
+she was forgetting things.
+
+535
+00:22:16,973 --> 00:22:18,839
+I thought it might be stress-related,
+
+536
+00:22:18,841 --> 00:22:20,007
+told her to see someone.
+
+537
+00:22:20,009 --> 00:22:22,943
+But she didn't, though, did she?
+
+538
+00:22:22,945 --> 00:22:24,801
+You're the only doctor she trusts.
+
+539
+00:22:24,803 --> 00:22:27,604
+Please. I'm afraid for her life.
+
+540
+00:22:30,185 --> 00:22:32,233
+You got nothing, 'cause if you did,
+
+541
+00:22:32,235 --> 00:22:34,255
+we'd be having a real
+different conversation.
+
+542
+00:22:34,257 --> 00:22:35,356
+Why don't you tell us what you think
+
+543
+00:22:35,358 --> 00:22:36,991
+is going on, Officer DiBacco?
+
+544
+00:22:36,993 --> 00:22:38,492
+Whistleblower retaliation.
+
+545
+00:22:38,494 --> 00:22:40,294
+Vasquez is trying to shut her up.
+
+546
+00:22:40,296 --> 00:22:42,830
+Our questions about
+Detective Stone's record
+
+547
+00:22:42,832 --> 00:22:44,844
+have nothing to do with Vasquez.
+
+548
+00:22:44,846 --> 00:22:47,034
+So, those files just walked
+themselves into your hand?
+
+549
+00:22:47,036 --> 00:22:48,502
+Just zip it.
+
+550
+00:22:48,504 --> 00:22:50,104
+Now, the two of you are supposed to be
+
+551
+00:22:50,106 --> 00:22:51,772
+the unbiased voice of justice,
+
+552
+00:22:51,774 --> 00:22:54,041
+not looking to take her down
+because a passenger with a badge
+
+553
+00:22:54,043 --> 00:22:55,643
+doesn't reflect well on the department.
+
+554
+00:22:55,645 --> 00:22:57,945
+Sir, we are trying to understand
+
+555
+00:22:57,947 --> 00:22:59,833
+what involvement Detective
+Stone may have had
+
+556
+00:22:59,835 --> 00:23:01,939
+- in the nightclub fire.
+- You want to know about the fire? Fine.
+
+557
+00:23:01,941 --> 00:23:04,118
+It was a trap set to kill me, my family,
+
+558
+00:23:04,120 --> 00:23:05,953
+- and a slew of other...
+- Michaela.
+
+559
+00:23:08,534 --> 00:23:11,659
+Why don't you tell us how
+you knew it was a trap?
+
+560
+00:23:11,661 --> 00:23:13,327
+You know, if you keep talking,
+
+561
+00:23:13,329 --> 00:23:15,029
+they're gonna hang you
+with your own words.
+
+562
+00:23:15,031 --> 00:23:17,565
+Detective Stone was a target
+of the attack in question.
+
+563
+00:23:17,567 --> 00:23:20,200
+It strains credulity that you
+would try and pin it on her.
+
+564
+00:23:20,202 --> 00:23:21,458
+When the fire started,
+
+565
+00:23:21,460 --> 00:23:23,804
+you were one of the first
+people out of that building.
+
+566
+00:23:23,806 --> 00:23:25,706
+- I went back in to help.
+- Because you knew it would be safe?
+
+567
+00:23:25,708 --> 00:23:27,875
+- Because you wanted to be a hero.
+- Because people were dying!
+
+568
+00:23:27,877 --> 00:23:29,877
+DIBACCO: That's enough!
+
+569
+00:23:29,879 --> 00:23:32,079
+I need a moment to confer
+with Detective Stone.
+
+570
+00:23:32,081 --> 00:23:35,683
+My patience is wearing thin.
+
+571
+00:23:35,685 --> 00:23:37,251
+[THUNDER RUMBLING]
+
+572
+00:23:37,253 --> 00:23:38,986
+[CLATTERING]
+
+573
+00:23:38,988 --> 00:23:40,554
+Come on, we just gotta try again.
+
+574
+00:23:40,556 --> 00:23:42,389
+Each time we build it,
+we get a little closer.
+
+575
+00:23:42,391 --> 00:23:45,159
+I've tried! I don't know
+what it's supposed to be!
+
+576
+00:23:45,161 --> 00:23:47,494
+Please, Cal, can you just try again?
+
+577
+00:23:47,496 --> 00:23:49,663
+I can't do it! I can't!
+
+578
+00:23:49,665 --> 00:23:51,865
+[THUNDER RUMBLING]
+
+579
+00:23:54,903 --> 00:23:57,037
+[CREAKING]
+
+580
+00:23:57,039 --> 00:24:01,039
+♪♪
+
+581
+00:24:04,213 --> 00:24:07,615
+This was a Calling, okay?
+It is not your fault.
+
+582
+00:24:07,617 --> 00:24:10,417
+"For every good that
+comes, a trial must follow".
+
+583
+00:24:10,419 --> 00:24:12,620
+I was supposed to die
+in that fire, Olive.
+
+584
+00:24:12,622 --> 00:24:15,255
+Now everyone here has to
+suffer because I didn't.
+
+585
+00:24:15,257 --> 00:24:18,959
+TJ, the Callings saved
+you for a reason, okay?
+
+586
+00:24:18,961 --> 00:24:20,427
+We need you here.
+
+587
+00:24:20,429 --> 00:24:21,762
+I need you here.
+
+588
+00:24:21,764 --> 00:24:23,964
+Guys! Where are you with the book?!
+
+589
+00:24:23,966 --> 00:24:26,734
+Cal needs help. We got to
+find a way to stop this.
+
+590
+00:24:26,736 --> 00:24:28,102
+[SIGHS]
+
+591
+00:24:28,104 --> 00:24:30,137
+[THUNDER RUMBLING]
+
+592
+00:24:33,642 --> 00:24:38,078
+♪♪
+
+593
+00:24:38,080 --> 00:24:39,480
+What does this say?
+
+594
+00:24:39,482 --> 00:24:41,415
+That more bad things are gonna happen.
+
+595
+00:24:41,417 --> 00:24:42,783
+TJ! What does this say?!
+
+596
+00:24:42,785 --> 00:24:45,119
+[THUNDER CRASHES]
+
+597
+00:24:45,121 --> 00:24:49,121
+♪♪
+
+598
+00:24:50,426 --> 00:24:55,963
+"The cure begat the affliction".
+
+599
+00:24:57,732 --> 00:24:59,266
+According to this,
+
+600
+00:24:59,268 --> 00:25:02,503
+some of Al-Zuras's men tried
+to get rid of the Callings
+
+601
+00:25:02,505 --> 00:25:04,972
+but ended up going mad.
+
+602
+00:25:04,974 --> 00:25:09,777
+Some even threw themselves overboard.
+
+603
+00:25:09,779 --> 00:25:10,944
+I wonder why.
+
+604
+00:25:10,946 --> 00:25:13,147
+[THUNDER CRASHING]
+
+605
+00:25:15,617 --> 00:25:17,851
+[CREAKING]
+
+606
+00:25:17,853 --> 00:25:21,853
+♪♪
+
+607
+00:25:27,196 --> 00:25:29,463
+OLIVE: Wait.
+
+608
+00:25:29,465 --> 00:25:33,500
+Wait, wait, you guys are
+seeing things that aren't there.
+
+609
+00:25:33,502 --> 00:25:36,804
+Al-Zuras was a sailor, right?
+
+610
+00:25:36,806 --> 00:25:40,507
+Mom... She's seasick.
+
+611
+00:25:40,509 --> 00:25:44,509
+♪♪
+
+612
+00:25:46,982 --> 00:25:49,283
+Cal losing his temper,
+
+613
+00:25:49,285 --> 00:25:53,053
+TJ so upset, off-balance,
+blaming himself.
+
+614
+00:25:53,055 --> 00:25:55,589
+- [THUNDER CRASHES]
+- The storm.
+
+615
+00:25:56,624 --> 00:25:58,826
+It's what happened to
+the men on the boat.
+
+616
+00:26:00,995 --> 00:26:02,629
+I think we're all going mad.
+
+617
+00:26:02,631 --> 00:26:04,465
+[THUNDER CRASHES]
+
+618
+00:26:09,971 --> 00:26:11,905
+What are you thinking coming here?
+
+619
+00:26:11,907 --> 00:26:14,041
+Ben Stone's office
+is just down the hall!
+
+620
+00:26:14,043 --> 00:26:15,709
+The hell do I care?
+
+621
+00:26:15,711 --> 00:26:18,145
+You get to blow up my job and
+I got to stay clear of yours?
+
+622
+00:26:18,147 --> 00:26:20,681
+This is not why I gave
+you Michaela's case files.
+
+623
+00:26:21,549 --> 00:26:23,584
+Really, Jared? What'd you
+think was gonna happen?
+
+624
+00:26:23,586 --> 00:26:25,018
+The plan was to dump information
+
+625
+00:26:25,020 --> 00:26:26,587
+about the 828 passengers onto the Web,
+
+626
+00:26:26,589 --> 00:26:29,089
+not to feed Mick's cases
+to Internal Affairs, Simon!
+
+627
+00:26:29,091 --> 00:26:31,925
+We have new information
+about the passengers.
+
+628
+00:26:31,927 --> 00:26:33,660
+Plans changed.
+
+629
+00:26:38,867 --> 00:26:40,234
+You're concerned.
+
+630
+00:26:40,236 --> 00:26:42,402
+I worked those cases with her.
+
+631
+00:26:42,404 --> 00:26:44,938
+An IA investigation blows back on me.
+
+632
+00:26:44,940 --> 00:26:47,207
+They're not looking at you for
+the nightclub fire, are they?
+
+633
+00:26:47,209 --> 00:26:49,343
+It doesn't matter.
+She knows I took those files.
+
+634
+00:26:49,345 --> 00:26:52,279
+- Now she's got plenty of ammo to take me down.
+- Don't worry about it.
+
+635
+00:26:52,281 --> 00:26:55,382
+You know you have like-minded
+friends at the NYPD.
+
+636
+00:26:55,384 --> 00:26:56,784
+What are you talking about?
+
+637
+00:26:56,786 --> 00:26:59,052
+If Michaela Stone goes on the offensive,
+
+638
+00:26:59,054 --> 00:27:02,456
+your friends will have your back.
+
+639
+00:27:02,458 --> 00:27:04,291
+How are you gonna stop her from talking?
+
+640
+00:27:06,461 --> 00:27:08,195
+What happened to nonviolence?
+
+641
+00:27:08,197 --> 00:27:11,131
+Jared, this isn't an ideology.
+
+642
+00:27:11,133 --> 00:27:12,733
+It's a wake-up call.
+
+643
+00:27:12,735 --> 00:27:15,469
+Did Michaela Stone ever
+talk to you about telepathy?
+
+644
+00:27:18,439 --> 00:27:22,042
+The 828 passengers are
+able to see the future.
+
+645
+00:27:22,044 --> 00:27:24,278
+Her brother's been keeping
+quite copious records.
+
+646
+00:27:24,280 --> 00:27:25,646
+That's news to me.
+
+647
+00:27:25,648 --> 00:27:26,770
+For all we know,
+
+648
+00:27:26,772 --> 00:27:28,549
+they're manipulating
+the events around us,
+
+649
+00:27:28,551 --> 00:27:30,918
+controlling us in ways
+we don't even realize.
+
+650
+00:27:30,920 --> 00:27:32,753
+It's everything we've feared.
+
+651
+00:27:32,755 --> 00:27:34,755
+But it's no longer just a theory.
+
+652
+00:27:34,757 --> 00:27:36,390
+It's a fact.
+
+653
+00:27:36,392 --> 00:27:38,725
+And now that one of them
+is coming right at us?
+
+654
+00:27:38,727 --> 00:27:42,663
+Michaela Stone is a threat.
+
+655
+00:27:42,665 --> 00:27:44,665
+We'll do what needs to be done.
+
+656
+00:27:48,724 --> 00:27:50,621
+This is so wrong.
+This entire inquiry's driven
+
+657
+00:27:50,623 --> 00:27:53,278
+by circumstantial
+evidence and anti-828 bias.
+
+658
+00:27:53,280 --> 00:27:55,614
+You've been on the other side
+of this table plenty of times.
+
+659
+00:27:55,616 --> 00:27:57,883
+They're baiting you,
+waiting for you to trip up.
+
+660
+00:27:57,885 --> 00:28:00,118
+This was supposed to be
+about Jared and the Xers.
+
+661
+00:28:00,120 --> 00:28:02,020
+Well, forget about
+Vasquez. Save yourself.
+
+662
+00:28:02,022 --> 00:28:04,276
+From what, a conspiracy theory
+that I burnt these people down?
+
+663
+00:28:04,278 --> 00:28:05,724
+That's crap. They know it.
+
+664
+00:28:05,726 --> 00:28:08,193
+People have questions, okay?
+
+665
+00:28:08,195 --> 00:28:10,395
+You make a good fall
+guy. Don't help them.
+
+666
+00:28:10,397 --> 00:28:11,863
+Thank you for that.
+
+667
+00:28:11,865 --> 00:28:14,733
+Oh, and, uh, simple
+answers... yes or no.
+
+668
+00:28:14,735 --> 00:28:16,969
+And for God's sakes, when
+I tell you not to answer,
+
+669
+00:28:16,971 --> 00:28:18,537
+shut the hell up.
+
+670
+00:28:22,275 --> 00:28:24,042
+[DOOR OPENS]
+
+671
+00:28:32,318 --> 00:28:33,885
+BLANPIED: Let's back things up a little.
+
+672
+00:28:33,887 --> 00:28:36,154
+You first met the alleged
+nightclub arsonist,
+
+673
+00:28:36,156 --> 00:28:38,223
+Isaiah McCann, when he
+was arrested for the murder
+
+674
+00:28:38,225 --> 00:28:40,092
+- of another passenger... Kelly Taylor.
+- Yes.
+
+675
+00:28:40,094 --> 00:28:42,260
+And your investigation exonerated him.
+
+676
+00:28:42,262 --> 00:28:44,752
+Mm-hmm, because he didn't do
+it and we caught the killer.
+
+677
+00:28:44,754 --> 00:28:46,965
+With one of your many
+coincidental solves.
+
+678
+00:28:46,967 --> 00:28:49,935
+McCann knew your niece, Olive Stone.
+
+679
+00:28:49,937 --> 00:28:51,803
+They were members of the same cult.
+
+680
+00:28:51,805 --> 00:28:54,473
+Olive is the one who identified
+Mr. McCann's attackers
+
+681
+00:28:54,475 --> 00:28:55,974
+at the church, am I right?
+
+682
+00:28:57,944 --> 00:29:01,013
+Your niece must really look up to you.
+
+683
+00:29:01,015 --> 00:29:04,516
+Her cool aunt, a Flight 828 survivor,
+
+684
+00:29:04,518 --> 00:29:06,284
+a successful detective.
+
+685
+00:29:06,286 --> 00:29:08,420
+She'd probably do anything you asked.
+
+686
+00:29:08,422 --> 00:29:10,148
+- No, that is...
+- Olive Stone's statement
+
+687
+00:29:10,150 --> 00:29:11,293
+in the assault case checked out.
+
+688
+00:29:11,295 --> 00:29:13,291
+Your brother, Ben Stone,
+
+689
+00:29:13,293 --> 00:29:16,995
+he was involved in a number of
+your cases, as well, wasn't he?
+
+690
+00:29:19,432 --> 00:29:21,199
+What were you thinking?
+
+691
+00:29:21,201 --> 00:29:23,135
+If I'd known what I
+was helping you with...
+
+692
+00:29:23,137 --> 00:29:25,170
+I know that. That's
+why I didn't tell you.
+
+693
+00:29:25,172 --> 00:29:27,266
+I miss you. I miss...
+
+694
+00:29:27,268 --> 00:29:29,435
+Saanvi. I can't.
+
+695
+00:29:30,276 --> 00:29:31,443
+[LIGHT CLICKS]
+
+696
+00:29:34,547 --> 00:29:36,281
+[LIGHT CLICKS] Make a fist.
+
+697
+00:29:38,051 --> 00:29:40,619
+You know how reckless this is.
+
+698
+00:29:40,621 --> 00:29:42,554
+Why do this to yourself?
+
+699
+00:29:43,956 --> 00:29:45,690
+She was trying to help me.
+
+700
+00:29:48,294 --> 00:29:50,395
+Always looking out for other people
+
+701
+00:29:50,397 --> 00:29:52,130
+at the expense of yourself.
+
+702
+00:29:52,132 --> 00:29:53,899
+Help you what?
+
+703
+00:29:53,901 --> 00:29:55,634
+Not die.
+
+704
+00:29:55,636 --> 00:29:57,369
+You know the people on
+Flight 828, they ha...
+
+705
+00:29:57,371 --> 00:29:59,037
+Saanvi.
+
+706
+00:29:59,039 --> 00:30:01,039
+I thought he wasn't on Flight 828.
+
+707
+00:30:01,041 --> 00:30:02,974
+Yeah. The thing is, uh...
+
+708
+00:30:02,976 --> 00:30:04,543
+[BEEP]
+
+709
+00:30:04,545 --> 00:30:07,079
+Your dopamine levels are off the charts.
+
+710
+00:30:07,081 --> 00:30:08,847
+We need to get this under control.
+
+711
+00:30:08,849 --> 00:30:10,515
+Then you need to explain.
+
+712
+00:30:14,720 --> 00:30:16,788
+Did I say too much?
+
+713
+00:30:18,157 --> 00:30:21,493
+Saanvi, I know that look,
+but this thing with Alex...
+
+714
+00:30:21,495 --> 00:30:26,665
+I just feel like the universe
+wants us to be together.
+
+715
+00:30:26,667 --> 00:30:29,000
+Yeah. I get it.
+
+716
+00:30:30,603 --> 00:30:32,838
+But you're not in any
+shape to be talking about...
+
+717
+00:30:32,840 --> 00:30:34,106
+Let's see your arm.
+
+718
+00:30:36,876 --> 00:30:38,376
+What are you giving her?
+
+719
+00:30:38,378 --> 00:30:42,881
+A dopamine antagonist that's
+helpful in psych cases.
+
+720
+00:30:42,883 --> 00:30:46,186
+It should stabilize her
+and hopefully slow down
+
+721
+00:30:46,188 --> 00:30:48,120
+whatever's got her running on overdrive.
+
+722
+00:30:48,122 --> 00:30:52,172
+♪♪
+
+723
+00:30:56,029 --> 00:30:58,597
+[SIGHS]
+
+724
+00:30:58,599 --> 00:31:00,298
+Sleep well, Vi.
+
+725
+00:31:00,300 --> 00:31:04,300
+♪♪
+
+726
+00:31:05,639 --> 00:31:07,305
+What do we do now?
+
+727
+00:31:07,307 --> 00:31:08,773
+Now we wait...
+
+728
+00:31:08,775 --> 00:31:11,643
+and hope she doesn't
+need to go to the ER.
+
+729
+00:31:14,224 --> 00:31:16,447
+I had nothing to do with the fire.
+
+730
+00:31:16,449 --> 00:31:19,050
+You had motive and opportunity.
+
+731
+00:31:19,052 --> 00:31:21,332
+This can't be all just
+one big coincidence.
+
+732
+00:31:21,334 --> 00:31:23,822
+No, it's a smokescreen,
+and you're falling for it.
+
+733
+00:31:23,824 --> 00:31:26,958
+- Jared Vasquez is an Xer.
+- Michaela.
+
+734
+00:31:26,960 --> 00:31:28,483
+BLANPIED: You and
+your family had to know
+
+735
+00:31:28,485 --> 00:31:29,828
+that sooner or later it was
+going to catch up with you.
+
+736
+00:31:29,830 --> 00:31:31,429
+You can't honestly think that my family
+
+737
+00:31:31,431 --> 00:31:32,764
+had anything to do with this!
+
+738
+00:31:32,766 --> 00:31:34,399
+We'll know when we get their statements.
+
+739
+00:31:34,401 --> 00:31:35,833
+Jared is the criminal here!
+
+740
+00:31:35,835 --> 00:31:37,332
+You have the damn surveillance!
+
+741
+00:31:37,334 --> 00:31:39,171
+The surveillance you
+provided is inconclusive.
+
+742
+00:31:39,173 --> 00:31:40,805
+A guy is allowed an off-duty drink.
+
+743
+00:31:40,807 --> 00:31:42,641
+MICHAELA: This isn't just any bar!
+
+744
+00:31:42,643 --> 00:31:46,213
+If you can prove Vasquez
+is guilty of actual crimes,
+
+745
+00:31:46,215 --> 00:31:47,312
+we're all ears.
+
+746
+00:31:47,314 --> 00:31:49,361
+DIBACCO: This is your
+badge we're talking about.
+
+747
+00:31:49,363 --> 00:31:50,619
+Don't take the bait.
+
+748
+00:31:50,621 --> 00:31:52,010
+They don't care about the truth.
+
+749
+00:31:52,012 --> 00:31:53,330
+They're gonna run me for it anyways.
+
+750
+00:31:53,332 --> 00:31:55,175
+Look, Jared brought this on himself.
+
+751
+00:31:55,177 --> 00:31:56,454
+He brings a threat to my family.
+
+752
+00:31:56,456 --> 00:31:59,124
+You don't think I'm gonna fight back?
+
+753
+00:31:59,126 --> 00:32:01,159
+What do you want to know?
+I'll tell you anything.
+
+754
+00:32:05,264 --> 00:32:08,091
+Before we proceed, we need
+to make clear that in no way
+
+755
+00:32:08,093 --> 00:32:09,405
+is this an offer of leniency
+
+756
+00:32:09,407 --> 00:32:11,325
+in exchange for your
+informing on another officer.
+
+757
+00:32:11,327 --> 00:32:12,983
+Whistleblowing doesn't
+give you immunity.
+
+758
+00:32:12,985 --> 00:32:14,147
+Okay, fine. I understand.
+
+759
+00:32:14,149 --> 00:32:15,882
+No, you don't understand!
+
+760
+00:32:15,884 --> 00:32:18,551
+Okay, we need to take this
+to a neutral location and now.
+
+761
+00:32:18,553 --> 00:32:19,936
+- On what grounds?
+- On the grounds
+
+762
+00:32:19,938 --> 00:32:21,962
+that you're railroading this
+detective in her own house!
+
+763
+00:32:21,964 --> 00:32:24,654
+She didn't do anything wrong,
+but other people here did.
+
+764
+00:32:24,656 --> 00:32:26,346
+And, frankly, the walls have ears.
+
+765
+00:32:26,348 --> 00:32:28,204
+That doesn't seem to be a
+problem for her thus far.
+
+766
+00:32:28,206 --> 00:32:31,463
+That's before we were
+talking about career suicide!
+
+767
+00:32:31,465 --> 00:32:33,533
+On top of which, now
+she's being pressured
+
+768
+00:32:33,535 --> 00:32:35,334
+to implicate another member of my union.
+
+769
+00:32:35,336 --> 00:32:37,503
+I'm gonna need to confer
+with my own superior.
+
+770
+00:32:37,505 --> 00:32:40,449
+If this is some sort
+of stalling tactic...
+
+771
+00:32:40,451 --> 00:32:44,042
+Or we can stay here, my
+friend, and I can file an appeal
+
+772
+00:32:44,044 --> 00:32:46,834
+on the basis of coercion
+and intimidation.
+
+773
+00:32:46,836 --> 00:32:49,549
+[BLANPIED STAMMERS]
+
+774
+00:32:49,551 --> 00:32:53,453
+We'll reserve a
+conference room downtown.
+
+775
+00:32:53,455 --> 00:32:54,954
+You have one hour.
+
+776
+00:32:56,457 --> 00:32:59,392
+[CREAKING]
+
+777
+00:32:59,394 --> 00:33:01,527
+[THUNDER RUMBLING, RAIN FALLING]
+
+778
+00:33:01,529 --> 00:33:05,529
+♪♪
+
+779
+00:33:07,535 --> 00:33:11,535
+♪♪
+
+780
+00:33:13,541 --> 00:33:15,608
+It doesn't work! It's never gonna work!
+
+781
+00:33:15,610 --> 00:33:17,210
+Cal, you have to calm down!
+
+782
+00:33:17,212 --> 00:33:19,779
+This Calling is making
+everyone crazy, me included.
+
+783
+00:33:19,781 --> 00:33:21,380
+Al-Zuras went through the same thing.
+
+784
+00:33:21,382 --> 00:33:22,499
+It's the storm.
+
+785
+00:33:22,501 --> 00:33:24,411
+But we have to find
+a way to make it stop.
+
+786
+00:33:24,413 --> 00:33:25,952
+- I can't!
+- Yes, you can!
+
+787
+00:33:25,954 --> 00:33:27,787
+We're here to help!
+
+788
+00:33:27,789 --> 00:33:29,589
+Cal, come back.
+
+789
+00:33:29,591 --> 00:33:31,390
+[CREAKING]
+
+790
+00:33:31,392 --> 00:33:35,392
+♪♪
+
+791
+00:33:37,398 --> 00:33:39,398
+[SQUEAKING]
+
+792
+00:33:41,502 --> 00:33:43,903
+- OLIVE: Please, don't leave!
+- I have to!
+
+793
+00:33:43,905 --> 00:33:46,906
+Why won't you just tell me
+what the book is saying?!
+
+794
+00:33:46,908 --> 00:33:49,008
+TJ: This storm is because of me!
+
+795
+00:33:49,010 --> 00:33:51,277
+If I leave, maybe you'll all be safe!
+
+796
+00:33:51,279 --> 00:33:53,312
+The storm isn't real!
+
+797
+00:33:53,314 --> 00:33:56,916
+To you! Don't you see what
+it's doing to everyone else?!
+
+798
+00:33:56,918 --> 00:34:00,154
+TJ, you cannot run out on
+a Calling! It won't work!
+
+799
+00:34:00,156 --> 00:34:02,346
+For all we know, you go out there,
+you could get yourself killed.
+
+800
+00:34:02,348 --> 00:34:04,090
+Well, I'm supposed to be dead already!
+
+801
+00:34:04,092 --> 00:34:06,959
+You're supposed to be
+right where you are... here.
+
+802
+00:34:06,961 --> 00:34:08,361
+What does the book say?
+
+803
+00:34:08,363 --> 00:34:10,096
+That the Callings won't stop.
+
+804
+00:34:10,098 --> 00:34:12,031
+Ever. Now, just let me go.
+
+805
+00:34:12,033 --> 00:34:13,332
+No! No!
+
+806
+00:34:13,334 --> 00:34:14,834
+Every Calling needs to be solved.
+
+807
+00:34:14,836 --> 00:34:16,869
+Now, you had the Calling,
+which means you can help.
+
+808
+00:34:16,871 --> 00:34:18,771
+TJ, whatever is going on in here,
+
+809
+00:34:18,773 --> 00:34:21,941
+whatever is going on out there,
+it <i>is</i> all connected.
+
+810
+00:34:21,943 --> 00:34:24,644
+[THUNDER CRASHING]
+
+811
+00:34:24,646 --> 00:34:28,646
+♪♪
+
+812
+00:34:30,285 --> 00:34:34,285
+♪♪
+
+813
+00:34:35,890 --> 00:34:38,157
+[RAIN FALLING]
+
+814
+00:34:38,159 --> 00:34:40,459
+[THUNDER CRASHING]
+
+815
+00:34:43,864 --> 00:34:45,298
+Lightning.
+
+816
+00:34:47,734 --> 00:34:49,235
+The book.
+
+817
+00:34:51,672 --> 00:34:54,173
+The book. The book.
+
+818
+00:34:56,076 --> 00:34:58,344
+It's got to be here.
+
+819
+00:34:58,346 --> 00:35:01,247
+Where is it?
+
+820
+00:35:01,249 --> 00:35:03,416
+I saw this exact lightning
+bolt outside just now.
+
+821
+00:35:03,418 --> 00:35:04,917
+TJ: Yeah, I did, too.
+
+822
+00:35:04,919 --> 00:35:06,385
+What do you think it means?
+
+823
+00:35:06,387 --> 00:35:08,321
+[THUNDER CRASHING]
+
+824
+00:35:12,192 --> 00:35:14,660
+Did you see that?
+
+825
+00:35:14,662 --> 00:35:16,429
+See what?
+
+826
+00:35:16,431 --> 00:35:18,664
+[THUNDER RUMBLING]
+
+827
+00:35:18,666 --> 00:35:20,433
+[CHUCKLES] Right there.
+
+828
+00:35:22,703 --> 00:35:24,103
+A spider web.
+
+829
+00:35:26,106 --> 00:35:28,274
+I think I know what
+Cal's trying to build.
+
+830
+00:35:30,437 --> 00:35:31,904
+[RADIO CHATTER]
+
+831
+00:35:31,906 --> 00:35:34,139
+[INDISTINCT TALKING]
+
+832
+00:35:42,226 --> 00:35:44,050
+Out of my hands now.
+
+833
+00:35:44,052 --> 00:35:46,853
+She's gonna give the rest of
+her testimony down at OnePP.
+
+834
+00:35:49,224 --> 00:35:53,117
+♪♪
+
+835
+00:35:53,119 --> 00:35:54,841
+Nice seeing you. Be in touch.
+
+836
+00:35:54,843 --> 00:35:56,599
+Very good.
+
+837
+00:35:56,601 --> 00:35:59,542
+She's not gonna make it downtown.
+
+838
+00:35:59,544 --> 00:36:03,544
+♪♪
+
+839
+00:36:04,423 --> 00:36:07,147
+Michaela Stone, you're
+under arrest for arson,
+
+840
+00:36:07,149 --> 00:36:09,449
+conspiracy to commit
+arson, and homicide.
+
+841
+00:36:10,873 --> 00:36:12,663
+Are you out of your mind right now?
+
+842
+00:36:12,665 --> 00:36:14,755
+- Please put your hands on the desk.
+- Captain, what is...
+
+843
+00:36:14,757 --> 00:36:17,147
+- Detective Vasquez, what do you think you're doing?
+- Excuse me!
+
+844
+00:36:17,149 --> 00:36:19,205
+It's called police work.
+I'm arresting my suspect.
+
+845
+00:36:19,207 --> 00:36:21,064
+You have the right to remain silent.
+
+846
+00:36:21,066 --> 00:36:22,832
+Are you seriously trying to
+handcuff me in our own precinct?
+
+847
+00:36:22,834 --> 00:36:24,334
+FONG: Detective,
+your colleague's a subject
+
+848
+00:36:24,336 --> 00:36:26,510
+in an active Internal
+Affairs investigation.
+
+849
+00:36:26,512 --> 00:36:27,542
+According to procedure...
+
+850
+00:36:27,544 --> 00:36:29,372
+You can take your procedure
+and shove it right up your ass.
+
+851
+00:36:29,374 --> 00:36:31,002
+- [HANDCUFFS CLICK]
+- Detective Stone's in custody.
+
+852
+00:36:31,004 --> 00:36:32,297
+- She's not going anywhere.
+- Think about
+
+853
+00:36:32,299 --> 00:36:33,576
+- what you're doing right now!
+- You have the right to remain silent.
+
+854
+00:36:33,578 --> 00:36:35,078
+Anything you say can and will be
+used against you in a court of law.
+
+855
+00:36:35,080 --> 00:36:36,379
+You are never gonna
+live this down, Jared!
+
+856
+00:36:36,381 --> 00:36:39,136
+You have the right to an attorney.
+If you cannot hire an attorney...
+
+857
+00:36:41,000 --> 00:36:47,074
+Advertise your product or brand here
+contact www.OpenSubtitles.org today
+
+858
+00:36:49,226 --> 00:36:52,729
+Alex? What are you doing here?
+
+859
+00:36:53,931 --> 00:36:56,032
+You needed me.
+
+860
+00:36:56,034 --> 00:36:58,868
+Um, I did? I'm... I'm sorry.
+
+861
+00:36:58,870 --> 00:37:01,571
+I know I promised I wouldn't call.
+
+862
+00:37:01,573 --> 00:37:05,208
+Saanvi, if... if you're
+in some sort of trouble
+
+863
+00:37:05,210 --> 00:37:09,078
+or i-if there's something
+about Flight 828, I...
+
+864
+00:37:09,080 --> 00:37:10,580
+No, I'm... [SIGHS]
+
+865
+00:37:12,729 --> 00:37:14,219
+I'm so sorry.
+
+866
+00:37:14,221 --> 00:37:15,743
+It is...
+
+867
+00:37:15,745 --> 00:37:19,455
+incredibly unfair for me
+to have drawn you into this.
+
+868
+00:37:19,457 --> 00:37:21,224
+Dangerous, even.
+
+869
+00:37:22,960 --> 00:37:25,762
+Go back to your family.
+
+870
+00:37:25,764 --> 00:37:29,399
+Forget about this. Forget about me.
+
+871
+00:37:29,401 --> 00:37:32,168
+Never.
+
+872
+00:37:32,170 --> 00:37:35,672
+Not even if you up and
+vanished into thin air.
+
+873
+00:37:35,674 --> 00:37:37,840
+[CHUCKLES]
+
+874
+00:37:37,842 --> 00:37:40,009
+Yeah, that would be a feat.
+
+875
+00:37:40,011 --> 00:37:44,011
+♪♪
+
+876
+00:37:46,484 --> 00:37:48,585
+Please be safe.
+
+877
+00:37:50,688 --> 00:37:52,522
+The world needs you.
+
+878
+00:37:52,524 --> 00:37:56,594
+♪♪
+
+879
+00:37:58,196 --> 00:38:02,196
+♪♪
+
+880
+00:38:03,935 --> 00:38:05,435
+Thank you.
+
+881
+00:38:05,437 --> 00:38:09,437
+♪♪
+
+882
+00:38:13,878 --> 00:38:15,311
+[DOOR CLOSES]
+
+883
+00:38:15,313 --> 00:38:17,347
+[INHALES DEEPLY]
+
+884
+00:38:19,483 --> 00:38:22,819
+[THUNDER CRASHING]
+
+885
+00:38:22,821 --> 00:38:24,454
+Is this what you saw?
+
+886
+00:38:24,456 --> 00:38:26,122
+Uh, more spread out.
+
+887
+00:38:26,124 --> 00:38:28,391
+Tie it up there.
+
+888
+00:38:31,962 --> 00:38:33,630
+Yeah, like that.
+
+889
+00:38:33,632 --> 00:38:35,531
+I really don't get what
+you're trying to prove here.
+
+890
+00:38:35,533 --> 00:38:38,067
+There's no way out. It
+says right here on the page!
+
+891
+00:38:38,069 --> 00:38:40,403
+"In the end, there is no
+way to be rid of the Voice.
+
+892
+00:38:40,405 --> 00:38:42,372
+The only way to survive is to accept".
+
+893
+00:38:42,374 --> 00:38:43,706
+Accept what?
+
+894
+00:38:43,708 --> 00:38:45,642
+That we have to live like this forever?
+
+895
+00:38:49,346 --> 00:38:52,048
+[THUNDER CRASHES, WIND HOWLING]
+
+896
+00:38:53,717 --> 00:38:55,718
+That it's all connected!
+
+897
+00:38:55,720 --> 00:38:58,154
+[THUNDER CRASHING]
+
+898
+00:39:00,724 --> 00:39:02,258
+[WAVES CRASHING]
+
+899
+00:39:02,260 --> 00:39:04,560
+[ELECTRICITY ZAPPING]
+
+900
+00:39:11,702 --> 00:39:14,103
+[ENGINE ROARING]
+
+901
+00:39:16,006 --> 00:39:18,274
+The silver dragon.
+
+902
+00:39:18,276 --> 00:39:20,843
+[THUNDER RUMBLING]
+
+903
+00:39:20,845 --> 00:39:24,845
+♪♪
+
+904
+00:39:30,588 --> 00:39:32,789
+[BIRDS CHIRPING]
+
+905
+00:39:32,791 --> 00:39:36,893
+♪♪
+
+906
+00:39:36,895 --> 00:39:39,629
+Um... [SCOFFS] What just happened?
+
+907
+00:39:39,631 --> 00:39:41,764
+It <i>is</i> all connected.
+
+908
+00:39:43,400 --> 00:39:45,268
+GRACE: What was that in the sky?
+
+909
+00:39:45,270 --> 00:39:47,637
+Was that... Flight 828?
+
+910
+00:39:47,639 --> 00:39:49,772
+Buddy, is that what you saw?
+
+911
+00:39:49,774 --> 00:39:51,541
+I think so.
+
+912
+00:39:51,543 --> 00:39:53,376
+Is it possible?
+
+913
+00:39:53,378 --> 00:39:56,546
+Were Al-Zuras's ship and Flight 828
+
+914
+00:39:56,548 --> 00:39:59,615
+somehow in the same
+place at the same time?
+
+915
+00:39:59,617 --> 00:40:01,884
+The same storm?
+
+916
+00:40:01,886 --> 00:40:03,252
+How?
+
+917
+00:40:07,758 --> 00:40:09,959
+What does it mean for us?
+
+918
+00:40:12,429 --> 00:40:13,896
+Hey.
+
+919
+00:40:13,898 --> 00:40:16,299
+Oh. Hey.
+
+920
+00:40:16,301 --> 00:40:20,303
+I wanted to say thank you for
+not giving up on me back there.
+
+921
+00:40:20,305 --> 00:40:22,338
+I sort of lost my mind.
+
+922
+00:40:22,340 --> 00:40:24,741
+Yeah, we all did.
+
+923
+00:40:24,743 --> 00:40:26,509
+It was the Calling.
+
+924
+00:40:26,511 --> 00:40:28,411
+But thankfully, you were here,
+
+925
+00:40:28,413 --> 00:40:30,480
+and we had all the
+right pieces to solve it.
+
+926
+00:40:30,482 --> 00:40:31,659
+TJ, thanks to you,
+
+927
+00:40:31,661 --> 00:40:34,083
+I think we just learned
+how to beat the Death Date.
+
+928
+00:40:34,085 --> 00:40:35,752
+How so?
+
+929
+00:40:35,754 --> 00:40:39,522
+Here. You translated it yourself.
+
+930
+00:40:39,524 --> 00:40:42,258
+"There is no way to be rid of the Voice.
+
+931
+00:40:42,260 --> 00:40:47,330
+The only way to survive is to accept".
+
+932
+00:40:47,332 --> 00:40:48,931
+Accept the Voice?
+
+933
+00:40:48,933 --> 00:40:50,299
+The Callings.
+
+934
+00:40:50,301 --> 00:40:52,635
+Now, he's telling us
+following the Callings
+
+935
+00:40:52,637 --> 00:40:54,637
+is the only way we have a chance.
+
+936
+00:40:55,755 --> 00:40:58,012
+He's telling you more than just that.
+
+937
+00:40:58,014 --> 00:40:59,870
+Keep reading.
+
+938
+00:40:59,872 --> 00:41:03,541
+"All other paths lead to disaster".
+
+939
+00:41:04,982 --> 00:41:07,049
+"All other paths".
+
+940
+00:41:10,621 --> 00:41:11,988
+Saanvi.
+
+941
+00:41:14,658 --> 00:41:15,892
+We're so close.
+
+942
+00:41:15,894 --> 00:41:18,528
+I just need a little bit more time.
+
+943
+00:41:18,530 --> 00:41:22,198
+Saanvi, you've already done so
+much, put yourself in danger...
+
+944
+00:41:22,200 --> 00:41:23,800
+I'm not gonna stop.
+
+945
+00:41:23,802 --> 00:41:27,904
+I refuse to let the Callings
+control our lives, okay?
+
+946
+00:41:27,906 --> 00:41:30,673
+We're gonna beat this
+Death Date, no matter what.
+
+947
+00:41:33,710 --> 00:41:35,678
+Her research, her self-medicating.
+
+948
+00:41:35,680 --> 00:41:39,680
+♪♪
+
+949
+00:41:45,190 --> 00:41:46,923
+You know damn well I
+didn't start that fire.
+
+950
+00:41:46,925 --> 00:41:48,180
+You're being vindictive.
+
+951
+00:41:48,182 --> 00:41:50,122
+I don't care if I burn
+this entire precinct down.
+
+952
+00:41:50,124 --> 00:41:51,994
+I will out you for every
+remotely questionable thing
+
+953
+00:41:51,996 --> 00:41:54,564
+- you've ever done!
+- Mick, shut up?!
+
+954
+00:41:56,640 --> 00:41:59,064
+You have to keep your mouth shut.
+
+955
+00:41:59,066 --> 00:42:00,656
+I just saved your life.
+
+956
+00:42:00,658 --> 00:42:04,728
+♪♪
+
+956
+00:42:05,305 --> 00:43:05,878
+Support us and become VIP member 
+to remove all ads from www.OpenSubtitles.org
