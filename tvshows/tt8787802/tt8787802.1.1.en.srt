@@ -1,0 +1,3630 @@
+﻿1
+00:00:06,000 --> 00:00:12,074
+-= www.OpenSubtitles.org =-
+
+2
+00:01:17,660 --> 00:01:19,079
+<i>How you feeling, Emma?</i>
+
+3
+00:01:19,454 --> 00:01:20,705
+Uh, repairs are underway.
+
+4
+00:01:20,789 --> 00:01:24,000
+I'm confident the ship will be good to go
+and will remain on schedule.
+
+5
+00:01:24,709 --> 00:01:28,004
+<i>That's... that's great,
+but I asked about you, not the ship.</i>
+
+6
+00:01:28,088 --> 00:01:30,048
+I already debriefed with Darlene.
+
+7
+00:01:30,131 --> 00:01:31,883
+<i>Emma, I'm asking how you're feeling</i>
+
+8
+00:01:31,966 --> 00:01:33,843
+<i>about what happened
+on the way to the Moon.</i>
+
+9
+00:01:36,888 --> 00:01:37,972
+Squared away.
+
+10
+00:01:38,056 --> 00:01:40,975
+<i>It's natural to second-guess
+your response to a crisis.</i>
+
+11
+00:01:41,976 --> 00:01:43,061
+Who called it a crisis?
+
+12
+00:01:43,478 --> 00:01:44,646
+<i>What would you call it?</i>
+
+13
+00:01:44,729 --> 00:01:46,356
+There was a problem. We dealt with it.
+
+14
+00:01:48,900 --> 00:01:51,152
+Look, um...
+no disrespect, Putney,
+
+15
+00:01:51,236 --> 00:01:53,530
+but I've got a checklist
+as long as my arm to get through
+
+16
+00:01:53,613 --> 00:01:54,823
+before tomorrow's launch, so...
+
+17
+00:01:54,906 --> 00:01:55,949
+<i>And you feel ready?</i>
+
+18
+00:01:58,618 --> 00:01:59,619
+Good to go.
+
+19
+00:02:01,079 --> 00:02:03,081
+{\an8}- How much time?
+- About 30 seconds. Let's go!
+
+20
+00:02:03,164 --> 00:02:04,415
+- Yes!
+- There you go.
+
+21
+00:02:05,458 --> 00:02:07,460
+- Okay, yeah.
+- Let's go! Pass it!
+
+22
+00:02:07,544 --> 00:02:10,130
+- Come on! Come on!
+- Go! Go! Go! Go!
+
+23
+00:02:10,213 --> 00:02:12,215
+Let's go! Let's go!
+
+24
+00:02:12,298 --> 00:02:13,758
+- You got it! Pass!
+- Pass!
+
+25
+00:02:13,842 --> 00:02:15,426
+- Come on, Lex!
+- Come on!
+
+26
+00:02:15,510 --> 00:02:17,387
+- Let's go, Lex! You got it!
+- You got it!
+
+27
+00:02:17,470 --> 00:02:19,013
+- Go!
+- Take the shot, Lex!
+
+28
+00:02:19,097 --> 00:02:21,099
+- Take the shot, Lex!
+- Lex, take it! Take it!
+
+29
+00:02:21,182 --> 00:02:23,017
+- Take the shot!
+- Go! Go!
+
+30
+00:02:23,101 --> 00:02:24,102
+Here!
+
+31
+00:02:24,686 --> 00:02:25,812
+What?
+
+32
+00:02:30,650 --> 00:02:32,193
+It's all right. It was a good game!
+
+33
+00:02:32,694 --> 00:02:35,196
+- You were eating that girl's lunch.
+- I know.
+
+34
+00:02:35,280 --> 00:02:37,782
+- It's just that you had it, you know?
+- She was wide open!
+
+35
+00:02:37,866 --> 00:02:40,451
+Yeah, but you gotta be the one
+that wants to take the shot!
+
+36
+00:02:40,535 --> 00:02:42,620
+Guys, let's discuss
+the post-game analysis later.
+
+37
+00:02:42,704 --> 00:02:43,705
+Right this way.
+
+38
+00:02:44,122 --> 00:02:45,999
+Hi.
+
+39
+00:02:48,877 --> 00:02:49,878
+Hey, Matt.
+
+40
+00:02:53,089 --> 00:02:53,923
+It's your ball, Em.
+
+41
+00:02:55,049 --> 00:02:56,050
+Take the shot.
+
+42
+00:02:59,470 --> 00:03:00,889
+<i>Ladies and gentlemen,</i>
+
+43
+00:03:00,972 --> 00:03:03,391
+<i>one last time
+before they launch to the Moon,</i>
+
+44
+00:03:03,474 --> 00:03:06,603
+<i>the crew of the Atlas,
+our inaugural mission to Mars.</i>
+
+45
+00:03:28,166 --> 00:03:31,377
+<i>This mission is billed</i>
+<i>as an international collaboration,</i>
+
+46
+00:03:31,461 --> 00:03:34,964
+yet the official language is English,
+the commander is American...
+
+47
+00:03:35,048 --> 00:03:39,302
+Look, I mean, it's not a secret, right,
+that the United States have taken on
+
+48
+00:03:39,385 --> 00:03:42,722
+the greatest financial burden
+of all five nations, but, uh...
+
+49
+00:03:43,097 --> 00:03:44,265
+you know, Emma's our commander
+
+50
+00:03:44,349 --> 00:03:47,644
+because she is
+the most phenomenal astronaut and leader.
+
+51
+00:03:48,603 --> 00:03:49,938
+Cosmonaut Popov,
+
+52
+00:03:50,730 --> 00:03:53,316
+you have logged more time in space
+than anybody else alive.
+
+53
+00:03:53,399 --> 00:03:57,654
+How do you feel about taking orders
+from someone younger and less experienced?
+
+54
+00:03:57,737 --> 00:03:59,364
+Well, uh...
+
+55
+00:04:00,448 --> 00:04:02,075
+when you put it like that...
+
+56
+00:04:04,744 --> 00:04:06,621
+No, no, no. I'm staying. I'm staying.
+
+57
+00:04:09,040 --> 00:04:11,167
+Or conversely, Kwesi Weisberg-Abban.
+
+58
+00:04:11,251 --> 00:04:13,044
+- Yes?
+- You'll be the only one
+
+59
+00:04:13,127 --> 00:04:15,505
+up there
+with absolutely no experience in space.
+
+60
+00:04:15,588 --> 00:04:17,173
+Yes, but...
+
+61
+00:04:17,257 --> 00:04:18,508
+perhaps what I <i>can</i> bring,
+
+62
+00:04:18,591 --> 00:04:22,887
+the hope of growing life on Mars,
+will make up for what I lack.
+
+63
+00:04:22,971 --> 00:04:26,891
+Kwesi's being modest. He happens to be
+one of the world's leading botanists.
+
+64
+00:04:27,475 --> 00:04:30,687
+And, uh, Dr. Wang
+is among her nation's finest chemists.
+
+65
+00:04:31,813 --> 00:04:34,232
+We've all trained together for two years,
+
+66
+00:04:34,315 --> 00:04:37,277
+and I have absolute confidence
+in every member of this crew.
+
+67
+00:04:37,819 --> 00:04:42,282
+Except for maybe Ram, who is an expert
+at crashing experimental air force jets.
+
+68
+00:04:42,907 --> 00:04:44,659
+But he promises to do better
+with the Atlas.
+
+69
+00:04:44,742 --> 00:04:46,828
+Spoken like a true navy pilot.
+
+70
+00:04:46,911 --> 00:04:48,997
+I didn't even know these guys had planes.
+
+71
+00:04:50,415 --> 00:04:51,749
+Dr. Wang, it has been determined
+
+72
+00:04:51,833 --> 00:04:54,377
+that you will be the first person
+to set foot on Mars.
+
+73
+00:04:54,460 --> 00:04:56,838
+As your fellow countryman, I am elated.
+
+74
+00:04:57,505 --> 00:04:59,757
+Can you tell the people of China
+how you feel?
+
+75
+00:05:01,676 --> 00:05:03,511
+Yes, I'm elated.
+
+76
+00:05:04,554 --> 00:05:06,431
+How about your family?
+
+77
+00:05:06,514 --> 00:05:08,808
+It's an honor to represent my family,
+
+78
+00:05:09,350 --> 00:05:10,393
+my country,
+
+79
+00:05:11,185 --> 00:05:12,353
+and the world.
+
+80
+00:05:14,731 --> 00:05:17,984
+Don't worry. When she opens up,
+she doesn't stop talking.
+
+81
+00:05:19,319 --> 00:05:21,779
+And, Emma, how about your family?
+
+82
+00:05:21,863 --> 00:05:24,324
+How do they feel
+about you leaving them for three years?
+
+83
+00:05:25,491 --> 00:05:29,329
+My husband has been in this with me
+every step of the way.
+
+84
+00:05:30,288 --> 00:05:31,748
+We both trained to be astronauts,
+
+85
+00:05:31,831 --> 00:05:35,335
+and if it were not for health reasons,
+he might be the one going up.
+
+86
+00:05:36,294 --> 00:05:39,213
+Instead, as chief engineer of our rocket,
+
+87
+00:05:39,630 --> 00:05:41,591
+he'll be with us in Mission Control.
+
+88
+00:05:43,092 --> 00:05:47,555
+A recent study predicts a 50-50 chance
+you won't survive this mission.
+
+89
+00:05:47,638 --> 00:05:49,015
+- How, then, do you...
+- What?
+
+90
+00:05:49,098 --> 00:05:51,601
+Wait, is it too late to change my mind?
+
+91
+00:05:52,352 --> 00:05:54,228
+How, then, do you respond to critics
+
+92
+00:05:54,312 --> 00:05:56,230
+who say that the money spent
+on this mission
+
+93
+00:05:56,314 --> 00:05:59,025
+could be better spent
+on social imperatives here on Earth?
+
+94
+00:05:59,108 --> 00:06:00,610
+Education, health care...
+
+95
+00:06:01,152 --> 00:06:04,822
+Why should we care more about Mars
+than we do our own planet?
+
+96
+00:06:06,908 --> 00:06:07,909
+We shouldn't.
+
+97
+00:06:08,868 --> 00:06:11,746
+Of course we should care
+about social imperatives.
+
+98
+00:06:11,829 --> 00:06:12,955
+But in the US alone,
+
+99
+00:06:13,039 --> 00:06:16,459
+we spend a trillion dollars each year
+on the military,
+
+100
+00:06:17,085 --> 00:06:19,295
+and mostly in case
+the countries represented here
+
+101
+00:06:19,379 --> 00:06:21,964
+decide to blow each other
+off the face of the Earth.
+
+102
+00:06:22,673 --> 00:06:25,218
+This mission, it cost a fraction of that,
+
+103
+00:06:25,760 --> 00:06:26,844
+as we work together,
+
+104
+00:06:26,928 --> 00:06:30,223
+repurposing those same tools
+of destruction for discovery.
+
+105
+00:06:30,306 --> 00:06:34,227
+At this very moment, there's a team
+of astronauts on the Moon,
+
+106
+00:06:34,310 --> 00:06:36,604
+mining polar ice caps for fuel and water.
+
+107
+00:06:36,687 --> 00:06:39,190
+Water that will be pumped
+into the hull of our ship
+
+108
+00:06:39,273 --> 00:06:40,775
+to shield us from radiation,
+
+109
+00:06:41,359 --> 00:06:44,237
+allowing us to travel safely
+from the Moon to Mars.
+
+110
+00:06:44,821 --> 00:06:46,114
+Reaching Mars...
+
+111
+00:06:47,240 --> 00:06:50,701
+might prove to be
+the greatest achievement.
+
+112
+00:06:52,537 --> 00:06:56,082
+Not only for science
+but for the future of our planet.
+
+113
+00:06:56,791 --> 00:06:58,793
+And not to mention one hell of a ride.
+
+114
+00:07:43,880 --> 00:07:47,592
+Isn't this fancy? Who did this?
+
+115
+00:07:58,060 --> 00:07:59,687
+You don't have to put that away.
+
+116
+00:08:00,146 --> 00:08:01,606
+No homework at dinner.
+
+117
+00:08:01,689 --> 00:08:03,608
+No cell phone at dinner. Nice try though.
+
+118
+00:08:05,234 --> 00:08:07,236
+Here's a math question for you.
+
+119
+00:08:07,320 --> 00:08:08,404
+Okay.
+
+120
+00:08:08,488 --> 00:08:10,740
+Is there really a 50-50 chance you'll die?
+
+121
+00:08:14,827 --> 00:08:17,663
+Lex, journalists...
+
+122
+00:08:17,747 --> 00:08:19,707
+they just need to be provocative.
+They're trying...
+
+123
+00:08:19,790 --> 00:08:23,252
+Honey, I'm gonna be working
+with people like your dad.
+
+124
+00:08:23,336 --> 00:08:24,754
+You know, the smartest...
+
+125
+00:08:25,421 --> 00:08:28,674
+engineers and scientists in the world.
+
+126
+00:08:29,634 --> 00:08:32,345
+Yes, there are risks with the job.
+I mean, space is...
+
+127
+00:08:32,428 --> 00:08:34,555
+I'm not gonna let anything happen
+to your mom, sweetie.
+
+128
+00:08:35,139 --> 00:08:37,850
+I know every inch of that ship,
+and I'm gonna be right there.
+
+129
+00:08:38,809 --> 00:08:40,770
+Mission Control isn't right there.
+
+130
+00:08:44,398 --> 00:08:46,359
+You're right. It isn't.
+
+131
+00:08:48,069 --> 00:08:49,070
+And, um...
+
+132
+00:08:49,737 --> 00:08:52,240
+there is always a chance that, you know,
+
+133
+00:08:53,783 --> 00:08:54,909
+that I don't make it.
+
+134
+00:09:15,221 --> 00:09:16,055
+Hey.
+
+135
+00:09:21,185 --> 00:09:23,688
+Do you wanna talk any more about...
+
+136
+00:09:23,771 --> 00:09:24,647
+No.
+
+137
+00:09:25,314 --> 00:09:26,190
+If that's okay?
+
+138
+00:09:26,899 --> 00:09:27,733
+Yeah.
+
+139
+00:09:28,317 --> 00:09:29,735
+Yeah, of course it's okay.
+
+140
+00:09:34,782 --> 00:09:37,159
+Hey... I got you a present.
+
+141
+00:09:45,042 --> 00:09:46,419
+That's the Earth,
+
+142
+00:09:47,128 --> 00:09:48,129
+the Moon,
+
+143
+00:09:48,796 --> 00:09:49,714
+and Mars.
+
+144
+00:09:50,590 --> 00:09:51,674
+And the string...
+
+145
+00:09:52,216 --> 00:09:55,052
+is me making my way back to you.
+
+146
+00:10:01,017 --> 00:10:02,518
+So, just remember...
+
+147
+00:10:03,227 --> 00:10:04,812
+the further away I get,
+
+148
+00:10:04,895 --> 00:10:08,190
+I'm actually just getting closer
+to being back to you.
+
+149
+00:11:07,458 --> 00:11:08,793
+I couldn't lie to her.
+
+150
+00:11:10,461 --> 00:11:12,213
+You did what you felt was right.
+
+151
+00:11:13,714 --> 00:11:14,632
+No.
+
+152
+00:11:15,049 --> 00:11:17,885
+She's gonna continue to hear things
+from other people,
+
+153
+00:11:18,969 --> 00:11:21,138
+and I'd just rather her hear them from us.
+
+154
+00:11:23,432 --> 00:11:25,810
+And you know the risks more than anyone.
+
+155
+00:11:27,978 --> 00:11:30,856
+You know, I'd still go in a heartbeat
+if the docs would let me.
+
+156
+00:11:34,527 --> 00:11:36,028
+And you <i>will </i>make it home.
+
+157
+00:11:37,988 --> 00:11:40,825
+I know this
+because you are a phenomenal astronaut.
+
+158
+00:11:41,659 --> 00:11:44,578
+I knew it the first moment
+I saw you in that T-38.
+
+159
+00:11:46,205 --> 00:11:48,624
+You were fangs out all the way.
+
+160
+00:11:49,917 --> 00:11:52,753
+You always were a sucker for a fast girl.
+
+161
+00:11:52,837 --> 00:11:54,088
+Hmm.
+
+162
+00:11:56,716 --> 00:11:59,719
+Every time you've launched
+has been the worst day of my life.
+
+163
+00:12:01,846 --> 00:12:02,972
+I'm standing there...
+
+164
+00:12:04,432 --> 00:12:07,393
+watching everyone cheering,
+waving their flags,
+
+165
+00:12:09,478 --> 00:12:11,689
+and me knowing, in about five minutes...
+
+166
+00:12:13,482 --> 00:12:14,692
+the person I love...
+
+167
+00:12:16,277 --> 00:12:17,445
+who is my life...
+
+168
+00:12:19,822 --> 00:12:21,323
+could be blown to pieces.
+
+169
+00:12:23,701 --> 00:12:24,702
+So, no.
+
+170
+00:12:25,703 --> 00:12:27,955
+I don't want our daughter
+to think about that.
+
+171
+00:12:29,457 --> 00:12:31,667
+I just want her to stand there, cheering,
+
+172
+00:12:31,751 --> 00:12:34,920
+talking about her mom,
+who's a freakin' hero.
+
+173
+00:12:37,089 --> 00:12:38,299
+And who'll be home soon.
+
+174
+00:14:00,339 --> 00:14:01,799
+Don't go.
+
+175
+00:14:03,300 --> 00:14:04,677
+I'll be right back.
+
+176
+00:14:05,511 --> 00:14:06,887
+It's only three years.
+
+177
+00:14:06,971 --> 00:14:09,890
+Mm-hmm.
+Okay, I guess I won't miss you then.
+
+178
+00:14:09,974 --> 00:14:11,809
+Fine.
+
+179
+00:14:12,935 --> 00:14:14,436
+I won't miss you either.
+
+180
+00:14:16,689 --> 00:14:18,232
+I love you, shithead.
+
+181
+00:14:18,941 --> 00:14:21,360
+I love you more.
+
+182
+00:14:38,210 --> 00:14:41,338
+<i>Welcome to Lunar Base Alpha, Emma.</i>
+<i>How's the view?</i>
+
+183
+00:14:43,799 --> 00:14:44,800
+<i>Commander Green?</i>
+
+184
+00:14:45,342 --> 00:14:46,385
+Sorry, Houston.
+
+185
+00:14:47,428 --> 00:14:48,679
+I just...
+
+186
+00:14:49,972 --> 00:14:52,600
+I wish I had the words
+to describe what I'm seeing.
+
+187
+00:14:54,894 --> 00:14:57,479
+It's a hell of a privilege to be up here.
+
+188
+00:14:58,522 --> 00:15:00,774
+<i>We can't imagine</i>
+<i>a better person for this job.</i>
+
+189
+00:15:24,298 --> 00:15:25,257
+Matt.
+
+190
+00:15:28,677 --> 00:15:30,387
+What's the sitrep on our little mishap?
+
+191
+00:15:30,471 --> 00:15:32,723
+Is it a one-time thing
+or do we have a real problem?
+
+192
+00:15:32,806 --> 00:15:35,517
+We've been at it all night.
+We should have an answer within the hour.
+
+193
+00:15:36,018 --> 00:15:37,019
+How's she sound?
+
+194
+00:15:37,937 --> 00:15:39,104
+She's fine. She's good.
+
+195
+00:15:39,939 --> 00:15:41,440
+What about you? Get any sleep?
+
+196
+00:15:41,857 --> 00:15:42,942
+Hundred percent.
+
+197
+00:15:43,025 --> 00:15:44,401
+Same with the ship, I hope?
+
+198
+00:15:44,860 --> 00:15:48,656
+Every mission has a screw-up, Darlene.
+They just got theirs out of the way early.
+
+199
+00:15:48,739 --> 00:15:49,782
+Mmm.
+
+200
+00:15:50,866 --> 00:15:52,076
+How we doing?
+
+201
+00:15:52,910 --> 00:15:54,119
+Darlene wants an update.
+
+202
+00:15:54,203 --> 00:15:57,623
+<i>Uh, looking good.</i>
+<i>In 24 hours, we will be go for launch.</i>
+
+203
+00:15:57,706 --> 00:16:00,584
+There's no better word
+in the English language than "go."
+
+204
+00:16:00,668 --> 00:16:02,211
+Darlene is happy.
+
+205
+00:16:02,294 --> 00:16:04,296
+<i>I live to make Darlene happy.</i>
+
+206
+00:16:04,380 --> 00:16:06,131
+- Tell her to head on inside.
+- Mmm.
+
+207
+00:16:06,215 --> 00:16:08,592
+<i>Atlas, you are good to report to base.</i>
+
+208
+00:16:08,676 --> 00:16:09,677
+Copy.
+
+209
+00:17:07,735 --> 00:17:11,155
+So, you're saying it wasn't just smoke
+but an honest-to-God fire on board?
+
+210
+00:17:11,238 --> 00:17:14,908
+Jack, another 30 seconds,
+we are all barbecue.
+
+211
+00:17:14,992 --> 00:17:17,077
+Misha, why are you being so dramatic?
+
+212
+00:17:17,161 --> 00:17:18,162
+I'm dramatic?
+
+213
+00:17:18,954 --> 00:17:19,830
+Lu?
+
+214
+00:17:21,832 --> 00:17:23,917
+- We would be dead.
+- Thank you very much.
+
+215
+00:17:38,807 --> 00:17:40,017
+Here's what happened...
+
+216
+00:17:40,100 --> 00:17:42,436
+Commander,
+welcome to one-sixth gravity.
+
+217
+00:17:42,519 --> 00:17:45,439
+- Where's Kwesi?
+- He's, uh... He's still adapting.
+
+218
+00:17:47,983 --> 00:17:51,195
+Kwesi has a... delicate constitution.
+
+219
+00:17:54,198 --> 00:17:55,115
+Oh.
+
+220
+00:17:55,783 --> 00:17:56,992
+Apologies.
+
+221
+00:17:57,493 --> 00:18:00,204
+Apparently,
+I'm a better scientist than astronaut.
+
+222
+00:18:00,287 --> 00:18:03,040
+You'll adjust.
+Gravitational change affects everyone.
+
+223
+00:18:03,123 --> 00:18:04,124
+Not me.
+
+224
+00:18:04,583 --> 00:18:06,752
+I felt great my first time up.
+
+225
+00:18:06,835 --> 00:18:08,921
+Well, clearly,
+you're the king of space...
+
+226
+00:18:09,505 --> 00:18:11,090
+and have an enormous dick.
+
+227
+00:18:11,173 --> 00:18:12,508
+Guilty.
+
+228
+00:18:12,591 --> 00:18:13,592
+On both counts.
+
+229
+00:18:16,929 --> 00:18:18,722
+Commander Green,
+can I give you a hand?
+
+230
+00:18:18,806 --> 00:18:20,057
+No, I got it.
+
+231
+00:18:20,140 --> 00:18:22,810
+- Hell of an operation you got here, Jack.
+- Well, we're doing our best.
+
+232
+00:18:22,893 --> 00:18:25,771
+You know, being a gas station on the Moon
+is not as cool as going to Mars,
+
+233
+00:18:25,854 --> 00:18:28,315
+but when you're a lowly backup,
+you know, you do what you can.
+
+234
+00:18:28,398 --> 00:18:29,566
+Yeah.
+
+235
+00:18:30,067 --> 00:18:31,318
+Uh, Kwesi.
+
+236
+00:18:32,069 --> 00:18:35,239
+As soon as you're feeling up to it,
+start loading MREs onto the ship.
+
+237
+00:18:35,322 --> 00:18:36,156
+Aye, Commander.
+
+238
+00:18:36,865 --> 00:18:39,701
+Mission Control
+wants to debrief each of us individually.
+
+239
+00:18:39,785 --> 00:18:41,120
+Ram, you're first up.
+
+240
+00:18:41,203 --> 00:18:42,830
+Misha, Lu,
+
+241
+00:18:43,455 --> 00:18:47,751
+I need you to assess any damage
+to the ship after last night's incident.
+
+242
+00:18:50,838 --> 00:18:51,755
+Yes?
+
+243
+00:18:52,798 --> 00:18:53,799
+Nothing...
+
+244
+00:18:54,967 --> 00:18:56,135
+Commander.
+
+245
+00:18:58,595 --> 00:19:00,597
+<i>You're saying
+you weren't there when it happened?</i>
+
+246
+00:19:00,681 --> 00:19:02,391
+I was in the command module.
+
+247
+00:19:02,474 --> 00:19:04,643
+I was confirming
+our coordinates for landing,
+
+248
+00:19:04,726 --> 00:19:07,855
+and by the time I unstrapped
+and arrived on scene, it was over.
+
+249
+00:19:09,481 --> 00:19:11,608
+<i>Well, what did you see when you arrived?</i>
+
+250
+00:19:13,193 --> 00:19:15,195
+Okay, steady. Steady!
+
+251
+00:19:15,946 --> 00:19:17,364
+Go!
+
+252
+00:19:19,825 --> 00:19:24,288
+Like I said, the leak had been contained,
+and any potential danger was averted.
+
+253
+00:19:24,872 --> 00:19:25,998
+Nothing else?
+
+254
+00:19:26,081 --> 00:19:27,207
+<i>Nothing else.</i>
+
+255
+00:19:29,126 --> 00:19:30,335
+<i>Thank you for your time.</i>
+
+256
+00:19:33,088 --> 00:19:33,922
+Can I, um...
+
+257
+00:19:35,215 --> 00:19:36,466
+<i>Can I just say something?</i>
+
+258
+00:19:38,093 --> 00:19:39,928
+<i>You know,
+I've seen Emma do things in training</i>
+
+259
+00:19:40,012 --> 00:19:41,847
+<i>that seemed superhuman.</i>
+
+260
+00:19:42,806 --> 00:19:44,892
+<i>I mean, for one,
+she held her breath underwater</i>
+
+261
+00:19:44,975 --> 00:19:46,810
+<i>a full minute longer than any of us.</i>
+
+262
+00:19:47,394 --> 00:19:48,854
+<i>And when I asked her how she did it,</i>
+
+263
+00:19:48,937 --> 00:19:52,232
+<i>she said she imagined the scenario
+the exercise was designed for,</i>
+
+264
+00:19:52,316 --> 00:19:56,069
+<i>which I think was a splashdown landing,
+where one of us starts to drown.</i>
+
+265
+00:19:57,905 --> 00:20:00,908
+<i>Now, she held her breath that long
+because that's the amount of time</i>
+
+266
+00:20:00,991 --> 00:20:03,118
+<i>it would have taken her
+to rescue the crew.</i>
+
+267
+00:20:04,369 --> 00:20:05,370
+So, no.
+
+268
+00:20:06,371 --> 00:20:08,957
+No, I don't believe
+she would ever put us in danger.
+
+269
+00:20:09,875 --> 00:20:11,168
+Or get rattled.
+
+270
+00:20:23,138 --> 00:20:24,765
+<i>Hey, Mom.</i>
+
+271
+00:20:25,432 --> 00:20:28,310
+Hey, sweetheart. How was the game?
+
+272
+00:20:28,393 --> 00:20:32,064
+<i>Dominated! Four-zip. We kept them
+in their half of the field the whole game.</i>
+
+273
+00:20:32,481 --> 00:20:33,565
+That's awesome.
+
+274
+00:20:34,524 --> 00:20:36,610
+I wish I could have been there to see it.
+
+275
+00:20:37,861 --> 00:20:38,987
+<i>You okay, Mom?</i>
+
+276
+00:20:39,071 --> 00:20:41,448
+<i>Yeah. Yeah, you bet.</i>
+
+277
+00:20:41,531 --> 00:20:42,991
+<i>Hey, is your dad around?</i>
+
+278
+00:20:43,075 --> 00:20:47,287
+Uh, he got pulled in for a shift.
+Some NASA drama as usual.
+
+279
+00:20:47,371 --> 00:20:48,455
+Melissa's here.
+
+280
+00:20:49,039 --> 00:20:50,791
+Did you know she played Division I?
+
+281
+00:20:51,166 --> 00:20:54,169
+<i>Yeah, of course I knew. Why do you think
+I picked her to be our crew support?</i>
+
+282
+00:20:54,253 --> 00:20:57,047
+<i>I figured if she could kick my butt,
+she could kick yours.</i>
+
+283
+00:20:59,258 --> 00:21:00,592
+How's it going up there?
+
+284
+00:21:00,968 --> 00:21:02,970
+<i>Oh, guys...</i>
+
+285
+00:21:03,720 --> 00:21:05,514
+<i>you gotta check this out.</i>
+
+286
+00:21:18,902 --> 00:21:19,903
+Wow.
+
+287
+00:21:22,155 --> 00:21:23,240
+It's amazing, Emma.
+
+288
+00:21:24,574 --> 00:21:26,118
+You know you chose the right mission
+
+289
+00:21:26,201 --> 00:21:27,577
+when your pit stop is the Moon.
+
+290
+00:21:30,622 --> 00:21:31,915
+<i>So, Annie and I were...</i>
+
+291
+00:21:31,999 --> 00:21:33,083
+What's that, honey?
+
+292
+00:21:34,001 --> 00:21:35,210
+Can you hear me?
+
+293
+00:21:35,294 --> 00:21:36,295
+Honey, what?
+
+294
+00:21:37,838 --> 00:21:39,172
+Can you...
+
+295
+00:21:57,983 --> 00:21:59,109
+Oh.
+
+296
+00:22:01,278 --> 00:22:04,072
+Your debrief's confidential.
+You don't have to tell me anything.
+
+297
+00:22:04,156 --> 00:22:06,992
+I told them the truth, Emma.
+You saved my life.
+
+298
+00:22:08,493 --> 00:22:10,746
+- I appreciate you saying that.
+- Excuse me.
+
+299
+00:22:16,043 --> 00:22:19,504
+Not sure everyone else's report
+will be quite so glowing.
+
+300
+00:22:19,588 --> 00:22:20,839
+Uh...
+
+301
+00:22:25,302 --> 00:22:26,303
+<i>She froze.</i>
+
+302
+00:22:27,554 --> 00:22:28,930
+<i>As simple as that.</i>
+
+303
+00:22:30,932 --> 00:22:33,060
+I need to understand
+exactly what happened
+
+304
+00:22:33,143 --> 00:22:36,021
+so we can identify any problem areas
+with the ship or the crew...
+
+305
+00:22:36,104 --> 00:22:38,482
+<i>Excuse me. Excuse me.</i>
+<i>The </i>ship<i> will be fine.</i>
+
+306
+00:22:39,733 --> 00:22:40,942
+Start at the beginning.
+
+307
+00:22:41,568 --> 00:22:45,405
+Lu and I were in the galley
+when I noticed the alert.
+
+308
+00:22:50,994 --> 00:22:52,746
+Ay, ay, ay...
+
+309
+00:22:55,540 --> 00:22:57,667
+- What?
+- Chemical leak! Fire bag, now!
+
+310
+00:23:12,766 --> 00:23:13,767
+Quickly.
+
+311
+00:23:20,357 --> 00:23:22,275
+<i> I attended to emergency.</i>
+
+312
+00:23:22,359 --> 00:23:24,945
+It was pre-treat,
+the chemical we use to recycle...
+
+313
+00:23:25,028 --> 00:23:27,322
+Yeah, I... I know what pre-treat is.
+
+314
+00:23:27,739 --> 00:23:31,743
+Then you know it becomes like a firebomb
+in an oxygen-rich ship.
+
+315
+00:23:31,827 --> 00:23:33,286
+- Agh!
+- Kwesi.
+
+316
+00:23:34,413 --> 00:23:35,580
+Kwesi! Here!
+
+317
+00:23:36,123 --> 00:23:38,458
+I've got him, Lu. I got him. Get the bag!
+
+318
+00:23:38,542 --> 00:23:42,045
+Kwesi, hey! Hey! Look at me.
+Look at me. Hold onto this.
+
+319
+00:23:42,129 --> 00:23:45,882
+<i>Now, pre-treat is acid.</i>
+<i>To put out fire, you need water, yes.</i>
+
+320
+00:23:45,966 --> 00:23:48,760
+But lots of it. You must suffocate flames.
+
+321
+00:23:48,844 --> 00:23:51,304
+Oh God. Please, God, no.
+
+322
+00:23:51,388 --> 00:23:52,848
+<i>She didn't even move.</i>
+
+323
+00:23:53,849 --> 00:23:56,935
+Steady. Steady. Go!
+
+324
+00:23:58,311 --> 00:24:01,022
+An experienced astronaut
+doesn't remove panel.
+
+325
+00:24:01,106 --> 00:24:05,694
+<i>It's because of Commander Green's
+inexperience, we almost burned alive.</i>
+
+326
+00:24:05,777 --> 00:24:09,448
+<i>Now, Kwesi is new.
+I expect nothing from him.</i>
+
+327
+00:24:10,031 --> 00:24:11,408
+<i>Commander Green...</i>
+
+328
+00:24:11,491 --> 00:24:13,076
+...not a good leader.
+
+329
+00:24:28,133 --> 00:24:29,968
+<i>Misha and I were in the galley.</i>
+
+330
+00:24:30,051 --> 00:24:32,804
+<i>I told him what must be done
+to suffocate the fire.</i>
+
+331
+00:24:32,888 --> 00:24:34,556
+The bag and towels were your idea?
+
+332
+00:24:34,639 --> 00:24:36,725
+Of course. I'm chemist.
+
+333
+00:24:36,808 --> 00:24:38,685
+Fire bag!
+
+334
+00:24:49,112 --> 00:24:50,614
+But before we could respond...
+
+335
+00:24:51,698 --> 00:24:53,074
+Wait!
+
+336
+00:24:54,659 --> 00:24:56,912
+You're saying Emma started the fire?
+
+337
+00:24:57,287 --> 00:24:58,580
+<i>Pre-treat is acid.</i>
+
+338
+00:24:58,663 --> 00:25:01,291
+<i>Whatever on that cloth was accelerant.</i>
+
+339
+00:25:01,708 --> 00:25:03,543
+<i>-If she had let me do my job-</i>-
+-So...
+
+340
+00:25:03,627 --> 00:25:06,796
+So your issue
+isn't that she failed to respond.
+
+341
+00:25:07,547 --> 00:25:08,548
+It's the opposite.
+
+342
+00:25:09,257 --> 00:25:10,675
+<i>My issue is that she was</i>
+
+343
+00:25:10,759 --> 00:25:13,428
+hysterical and reckless.
+
+344
+00:25:14,262 --> 00:25:15,472
+<i>We've got a situation.</i>
+
+345
+00:25:15,555 --> 00:25:17,807
+You don't think I'm aware of that?
+
+346
+00:25:17,891 --> 00:25:20,519
+Misha and Lu talked to their directors.
+
+347
+00:25:20,602 --> 00:25:21,895
+The Chinese want her replaced.
+
+348
+00:25:22,854 --> 00:25:24,606
+The Russians would prefer she's shot.
+
+349
+00:25:24,689 --> 00:25:25,982
+I talked to both of them.
+
+350
+00:25:26,775 --> 00:25:27,984
+Their stories don't sync up.
+
+351
+00:25:28,652 --> 00:25:32,614
+Meanwhile, Kwesi says she saved them all,
+and Ram is sure she was solid.
+
+352
+00:25:33,198 --> 00:25:35,033
+- Even if he wasn't there.
+- Darlene...
+
+353
+00:25:36,409 --> 00:25:37,744
+they want her gone.
+
+354
+00:25:38,870 --> 00:25:40,956
+- You're not seriously...
+- I told them I'd think about it.
+
+355
+00:25:41,039 --> 00:25:43,208
+- George...
+- We do have a trained backup on the Moon.
+
+356
+00:25:43,291 --> 00:25:45,460
+Jack Willmore is not...
+
+357
+00:25:46,169 --> 00:25:49,756
+Look, there is a reason
+we chose Emma over him.
+
+358
+00:25:49,839 --> 00:25:52,175
+I am not starting
+an international incident.
+
+359
+00:25:52,259 --> 00:25:56,179
+And I am not replacing our commander
+24 hours before launch.
+
+360
+00:26:00,934 --> 00:26:02,394
+You wanted an update on the leak?
+
+361
+00:26:05,939 --> 00:26:08,984
+We figured out a patch
+and sent Misha the procedure.
+
+362
+00:26:10,193 --> 00:26:11,152
+Excellent.
+
+363
+00:26:16,116 --> 00:26:17,951
+How can you even contemplate...
+
+364
+00:26:18,034 --> 00:26:18,994
+- Matt...
+- This...
+
+365
+00:26:20,537 --> 00:26:21,621
+is Emma's mission.
+
+366
+00:26:21,705 --> 00:26:24,749
+And it's gonna stay that way.
+Right now, I need you to go home.
+
+367
+00:26:25,292 --> 00:26:27,294
+You haven't slept in 24 hours.
+You look like shit.
+
+368
+00:26:27,377 --> 00:26:29,421
+I need you fresh for tomorrow's launch.
+
+369
+00:26:29,504 --> 00:26:32,048
+And I need you to nip this in the bud.
+
+370
+00:26:32,132 --> 00:26:33,133
+I will.
+
+371
+00:26:56,781 --> 00:26:59,117
+<i>Look, um, no disrespect, Putney,</i>
+
+372
+00:26:59,200 --> 00:27:01,411
+<i>but I've got a checklist
+as long as my arm to get through</i>
+
+373
+00:27:01,494 --> 00:27:03,622
+- before tomorrow's launch, so...
+<i>- And you feel ready?</i>
+
+374
+00:27:04,748 --> 00:27:05,749
+Good to go.
+
+375
+00:27:07,042 --> 00:27:08,043
+<i>How's the crew?</i>
+
+376
+00:27:10,128 --> 00:27:12,297
+There's some dissension.
+Um, you know, Misha...
+
+377
+00:27:13,089 --> 00:27:16,384
+<i>He can be a dick,
+but I've got that under control, I think.</i>
+
+378
+00:27:16,468 --> 00:27:18,553
+Wait. Talk about the dissension.
+
+379
+00:27:19,262 --> 00:27:20,263
+<i>Ram's okay.</i>
+
+380
+00:27:20,805 --> 00:27:24,559
+<i>And Kwesi's having some trouble
+adjusting, but, um...</i>
+
+381
+00:27:24,976 --> 00:27:27,145
+- Misha and Lu are...
+<i>- Blame you.</i>
+
+382
+00:27:28,855 --> 00:27:31,691
+Yeah. I can only imagine
+what they said about me.
+
+383
+00:27:32,150 --> 00:27:34,653
+<i>- What do you think they said?</i>
+- That I'm a...
+
+384
+00:27:35,820 --> 00:27:38,323
+shrill, cowardly bitch.
+
+385
+00:27:39,532 --> 00:27:41,576
+<i>Look, I know what's going on here.</i>
+
+386
+00:27:41,660 --> 00:27:44,287
+<i>You're supposed to determine
+whether I'm fit to lead.</i>
+
+387
+00:27:45,205 --> 00:27:46,206
+Are you?
+
+388
+00:27:55,882 --> 00:27:56,716
+Hey, baby.
+
+389
+00:27:56,800 --> 00:28:00,136
+Hey, so tomorrow night,
+for the Mars launch party,
+
+390
+00:28:00,220 --> 00:28:01,471
+I know you have to work,
+
+391
+00:28:01,554 --> 00:28:04,099
+but can I have your credit card
+for ordering the pizza?
+
+392
+00:28:04,182 --> 00:28:06,518
+Salvatore's already has the order,
+but nice try though.
+
+393
+00:28:06,935 --> 00:28:11,189
+So, I can't decide which picture to post
+on my Instagram for the invitations.
+
+394
+00:28:11,272 --> 00:28:14,109
+There's that one of me and Mom
+on horseback from last summer.
+
+395
+00:28:14,192 --> 00:28:17,404
+Annie says I look really hot
+in the one on the beach, but I don't know.
+
+396
+00:28:17,487 --> 00:28:18,988
+I think I look kinda fat.
+
+397
+00:28:19,072 --> 00:28:21,574
+Oh my God. My phone is blowing up.
+
+398
+00:28:21,658 --> 00:28:25,161
+I have, like, a million followers
+since Mom became, like, this superstar.
+
+399
+00:28:25,245 --> 00:28:27,580
+Would you guys be weirded out
+if I became...
+
+400
+00:28:28,415 --> 00:28:30,208
+- Honey...
+- Dad!
+
+401
+00:28:31,042 --> 00:28:32,669
+Dad!
+
+402
+00:28:47,308 --> 00:28:48,768
+I asked him to help.
+
+403
+00:28:48,852 --> 00:28:51,896
+I've only been in that sweaty simulator.
+Wanna get a taste of the real thing.
+
+404
+00:28:51,980 --> 00:28:54,858
+- I assume you can patch a leak?
+- Yeah, apparently, better than you.
+
+405
+00:28:54,941 --> 00:28:56,943
+I'll take it.
+
+406
+00:29:02,073 --> 00:29:04,701
+No need for you to go out
+if you're not feeling up to it.
+
+407
+00:29:04,784 --> 00:29:07,245
+I promise not to throw up
+on the command console.
+
+408
+00:29:07,704 --> 00:29:08,830
+Emma, it's Ground.
+
+409
+00:29:09,330 --> 00:29:10,498
+Melissa's on the line.
+
+410
+00:29:11,291 --> 00:29:12,751
+My crew support Melissa?
+
+411
+00:29:23,720 --> 00:29:25,847
+Melissa, what's wrong?
+
+412
+00:29:26,556 --> 00:29:30,310
+<i>An hour ago, Matt had an event.
+We think it was a stroke.</i>
+
+413
+00:29:30,393 --> 00:29:32,979
+<i>He had to be intubated,
+and he's still critical.</i>
+
+414
+00:29:34,689 --> 00:29:35,857
+Oh my God.
+
+415
+00:29:36,733 --> 00:29:38,485
+Did one of his cavernomas bleed?
+
+416
+00:29:39,068 --> 00:29:41,905
+<i>That's what the doctors believe.</i>
+<i>He's getting an MRI now.</i>
+
+417
+00:29:42,572 --> 00:29:43,823
+Where's Lex? Does she know?
+
+418
+00:29:44,699 --> 00:29:48,161
+<i>She was there when it happened.
+It was Lex who called 911.</i>
+
+419
+00:29:48,244 --> 00:29:51,164
+- Okay, I need to speak to her.
+<i>- She's in the ICU.</i>
+
+420
+00:29:51,247 --> 00:29:54,417
+<i>They don't allow video calls in there,
+but I'll set you guys up to talk.</i>
+
+421
+00:29:55,126 --> 00:29:55,960
+Um...
+
+422
+00:29:56,586 --> 00:29:58,463
+Was he conscious when they found him?
+
+423
+00:29:58,922 --> 00:29:59,798
+<i>Yes.</i>
+
+424
+00:30:00,215 --> 00:30:01,257
+Oh, that's good.
+
+425
+00:30:02,008 --> 00:30:03,885
+Do they know if there's any damage?
+
+426
+00:30:05,261 --> 00:30:07,138
+<i>It's too soon to know anything.</i>
+
+427
+00:30:14,854 --> 00:30:18,817
+I want that link set up to Lex in the ICU,
+I wanna speak to Matt's doctors,
+
+428
+00:30:18,900 --> 00:30:20,026
+and I want the private number
+
+429
+00:30:20,109 --> 00:30:22,403
+to the head of vascular neurology
+at Baylor.
+
+430
+00:30:23,279 --> 00:30:24,280
+<i>I'm on it.</i>
+
+431
+00:30:39,170 --> 00:30:40,171
+Hello.
+
+432
+00:30:40,255 --> 00:30:42,841
+- <i>Dr. Lawrence Madigan?</i>
+- Speaking.
+
+433
+00:30:42,924 --> 00:30:45,718
+<i>This is Commander Emma Green
+of Lunar Base Alpha.</i>
+
+434
+00:30:45,802 --> 00:30:48,680
+<i>A car will be by shortly
+to transport you to Houston Methodist.</i>
+
+435
+00:30:48,763 --> 00:30:50,682
+Whoa, whoa, whoa, whoa. Excuse me.
+
+436
+00:30:50,765 --> 00:30:53,351
+Uh, who is this?
+How did you get this number?
+
+437
+00:30:53,434 --> 00:30:57,647
+I'm sorry. I'm calling from the Moon.
+I'm part of the Atlas mission to Mars.
+
+438
+00:30:57,730 --> 00:30:59,274
+I'm... I'm... I'm on the Moon.
+
+439
+00:30:59,357 --> 00:31:02,610
+<i>My husband, Matt Logan,
+a NASA engineer at Mission Control,</i>
+
+440
+00:31:02,694 --> 00:31:06,030
+he has CCM disorder with multiple lesions,
+and he's just had a stroke.
+
+441
+00:31:06,114 --> 00:31:07,323
+<i>Atlas, this is Houston.</i>
+
+442
+00:31:07,407 --> 00:31:10,076
+- I... I'm sorry. Could you just...
+<i>- Just hold on a sec.</i>
+
+443
+00:31:10,159 --> 00:31:11,911
+Houston, Atlas, over.
+
+444
+00:31:11,995 --> 00:31:14,163
+<i>Lex is set up to talk in the ICU.</i>
+
+445
+00:31:14,247 --> 00:31:17,458
+<i>We couldn't set up the visual,
+but our audio is up and running.</i>
+
+446
+00:31:17,542 --> 00:31:18,459
+Great. One sec.
+
+447
+00:31:18,543 --> 00:31:21,546
+Matt's doctor, he'll meet you
+at the hospital and brief you on his case.
+
+448
+00:31:21,629 --> 00:31:23,131
+- Do you understand?
+<i>- Yes.</i>
+
+449
+00:31:23,214 --> 00:31:25,383
+<i>Great. I'll check in with you soon, okay?</i>
+
+450
+00:31:25,800 --> 00:31:27,510
+Can you please put them through
+to my phone?
+
+451
+00:31:27,594 --> 00:31:30,096
+- <i>Emma, I'm so sorry.</i>
+- Thank you.
+
+452
+00:31:32,390 --> 00:31:34,809
+- <i>Mom?</i>
+- Hi. Hey, baby.
+
+453
+00:31:35,643 --> 00:31:38,021
+I'm right here.
+I'm... I'm... I'm right here.
+
+454
+00:31:38,104 --> 00:31:40,815
+- They said he had a stroke.
+- <i>I know, honey.</i>
+
+455
+00:31:40,899 --> 00:31:42,734
+You don't understand.
+He was fine one second,
+
+456
+00:31:42,817 --> 00:31:45,612
+and the next,
+he was on the ground and he couldn't move.
+
+457
+00:31:46,738 --> 00:31:48,615
+<i>Mom, you're not still going, are you?</i>
+
+458
+00:31:50,158 --> 00:31:51,242
+I, um...
+
+459
+00:31:52,660 --> 00:31:54,746
+Uh, nothing like this
+has ever happened before.
+
+460
+00:31:55,121 --> 00:31:56,539
+Mama, I don't care.
+
+461
+00:31:56,623 --> 00:31:58,791
+Dad has tubes coming out of him.
+
+462
+00:31:59,751 --> 00:32:00,960
+I know you're scared.
+
+463
+00:32:02,712 --> 00:32:04,672
+I'm scared too. I just need, um...
+
+464
+00:32:04,756 --> 00:32:06,591
+I just need a minute
+to figure things out, okay?
+
+465
+00:32:06,674 --> 00:32:08,676
+<i>- Mom, he's going into surgery!</i>
+- Now?
+
+466
+00:32:08,760 --> 00:32:09,761
+No, I...
+
+467
+00:32:10,345 --> 00:32:13,097
+I don't know when.
+They're waiting for some doctor.
+
+468
+00:32:13,681 --> 00:32:15,516
+<i>They found this lesion or something.</i>
+
+469
+00:32:15,600 --> 00:32:18,645
+<i>It's not bleeding anymore,
+but they wanna operate.</i>
+
+470
+00:32:19,729 --> 00:32:20,772
+Okay, um...
+
+471
+00:32:22,023 --> 00:32:23,149
+Okay, listen to me.
+
+472
+00:32:23,608 --> 00:32:26,194
+<i>Mom, I need you here.</i>
+
+473
+00:32:28,613 --> 00:32:30,198
+I know, baby, and, um...
+
+474
+00:32:30,907 --> 00:32:33,576
+I wanna be there.
+I wanna be there more than anything,
+
+475
+00:32:33,660 --> 00:32:35,244
+but I can't be right now.
+
+476
+00:32:35,328 --> 00:32:36,788
+So I need you...
+
+477
+00:32:37,789 --> 00:32:40,708
+to be strong, stronger
+than you've ever been in your life.
+
+478
+00:32:41,334 --> 00:32:42,335
+Okay?
+
+479
+00:32:45,755 --> 00:32:46,756
+<i>I love you.</i>
+
+480
+00:32:47,382 --> 00:32:51,344
+<i>You and your father mean everything to me,
+and I'm gonna be there for you, okay?</i>
+
+481
+00:32:52,261 --> 00:32:53,471
+Okay.
+
+482
+00:32:53,554 --> 00:32:54,764
+<i>Can you please, um...</i>
+
+483
+00:32:55,848 --> 00:32:57,850
+<i>Put the SATCOM over near your dad?</i>
+
+484
+00:33:10,822 --> 00:33:12,448
+Here. Here's Dad.
+
+485
+00:33:14,701 --> 00:33:15,618
+<i>Matt?</i>
+
+486
+00:33:17,912 --> 00:33:20,039
+I don't know if you can hear me, my love.
+
+487
+00:33:22,208 --> 00:33:24,585
+The doctors don't think
+that you're able, but...
+
+488
+00:33:27,213 --> 00:33:30,675
+...you know, personally,
+I think you're doing that thing where...
+
+489
+00:33:31,759 --> 00:33:34,679
+you, um, you pretend
+not to hear me and then...
+
+490
+00:33:35,638 --> 00:33:36,764
+<i>you wait till I get annoyed</i>
+
+491
+00:33:36,848 --> 00:33:39,934
+<i>and you recite back word for word
+everything I just said.</i>
+
+492
+00:33:42,770 --> 00:33:46,858
+<i>I'm sure you just want me to shut up now
+so you can concentrate on getting better.</i>
+
+493
+00:33:48,192 --> 00:33:49,193
+<i>Um...</i>
+
+494
+00:33:49,819 --> 00:33:50,945
+<i>Hold on a sec.</i>
+
+495
+00:34:19,474 --> 00:34:21,726
+<i>Excuse me, honey.</i>
+<i>We need to take him now.</i>
+
+496
+00:34:22,185 --> 00:34:23,311
+<i>Mom, they're...</i>
+
+497
+00:34:24,270 --> 00:34:25,646
+They're taking Dad now.
+
+498
+00:34:30,735 --> 00:34:31,903
+You got this, Matt.
+
+499
+00:34:33,613 --> 00:34:36,240
+<i>Do you hear me? You got this.</i>
+
+500
+00:34:49,212 --> 00:34:51,589
+Oh, it's bad. Really bad.
+
+501
+00:34:51,672 --> 00:34:53,466
+- Look at the gasket.
+- Nice.
+
+502
+00:34:53,549 --> 00:34:55,968
+We've already seen
+how she reacts in an emergency.
+
+503
+00:34:56,052 --> 00:34:58,262
+How's she gonna command now,
+under this kind of stress?
+
+504
+00:34:58,346 --> 00:35:01,224
+- We need a real commander.
+- Oh, you mean like you, for instance?
+
+505
+00:35:01,307 --> 00:35:03,351
+Why not? 'Cause I'm Russian?
+
+506
+00:35:03,434 --> 00:35:05,311
+No, because you're not in line to command.
+
+507
+00:35:05,394 --> 00:35:06,604
+Well, he is.
+
+508
+00:35:07,063 --> 00:35:10,149
+The Americans were wrong
+to pick Emma over you, Jack.
+
+509
+00:35:10,525 --> 00:35:11,984
+- Well...
+- It's not too late.
+
+510
+00:35:12,068 --> 00:35:13,236
+I'm sorry?
+
+511
+00:35:13,319 --> 00:35:16,280
+We can call Ground,
+tell them we have full confidence in Jack.
+
+512
+00:35:16,364 --> 00:35:18,324
+I... I did train for this, but...
+
+513
+00:35:19,117 --> 00:35:20,451
+So, you're talking mutiny.
+
+514
+00:35:20,827 --> 00:35:21,994
+Who's dramatic now?
+
+515
+00:35:22,078 --> 00:35:25,414
+Can we take a moment to have some empathy?
+Her husband just had a stroke.
+
+516
+00:35:25,498 --> 00:35:27,792
+Exactly.
+She needs to go back home...
+
+517
+00:35:31,629 --> 00:35:34,799
+We're 20 hours from launch
+and behind schedule.
+
+518
+00:35:35,675 --> 00:35:37,677
+I want that system repaired
+within the hour.
+
+519
+00:35:39,679 --> 00:35:42,849
+Fine. I will give Houston progress report.
+
+520
+00:35:42,932 --> 00:35:44,684
+No, you won't.
+
+521
+00:35:45,852 --> 00:35:47,186
+I'll debrief Houston...
+
+522
+00:35:47,812 --> 00:35:49,272
+and relay any updates.
+
+523
+00:35:52,775 --> 00:35:53,943
+That is all.
+
+524
+00:35:55,653 --> 00:35:56,654
+Language.
+
+525
+00:36:23,222 --> 00:36:25,224
+<i>He should be out of surgery</i>
+<i>in a couple hours.</i>
+
+526
+00:36:25,308 --> 00:36:27,685
+<i>Matt's a fighter.</i>
+<i>He's gonna be okay.</i>
+
+527
+00:36:28,311 --> 00:36:29,437
+In the event he's not,
+
+528
+00:36:29,520 --> 00:36:32,023
+you should be prepared
+to issue a transfer of command.
+
+529
+00:36:32,106 --> 00:36:34,483
+- <i>Emma</i>...
+- Jack Willmore has the same training I do.
+
+530
+00:36:34,567 --> 00:36:36,736
+<i>- He's completely qualified.</i>
+- Yes, he is.
+
+531
+00:36:36,819 --> 00:36:41,073
+He's also happy to take advantage
+of your personal crisis to take your seat.
+
+532
+00:36:41,157 --> 00:36:43,910
+That's not the person
+I want leading this mission.
+
+533
+00:36:43,993 --> 00:36:45,244
+Tell that to the crew.
+
+534
+00:36:45,328 --> 00:36:47,997
+<i>-Wa... wait. No. If this is about Misha-</i>-
+-It's not.
+
+535
+00:36:48,080 --> 00:36:50,166
+<i>- And... and what happened aboard...</i>
+- It's not.
+
+536
+00:36:51,125 --> 00:36:52,126
+It's about Matt.
+
+537
+00:36:54,879 --> 00:36:58,674
+<i>You knew taking this job
+demands terrible sacrifices,</i>
+
+538
+00:36:58,758 --> 00:37:01,302
+<i>and I need you to remember it's worth it.</i>
+
+539
+00:37:01,385 --> 00:37:04,263
+<i>No astronaut has ever abandoned a mission.</i>
+
+540
+00:37:04,347 --> 00:37:07,099
+You will be spitting in the face
+of every woman who has ever...
+
+541
+00:37:07,183 --> 00:37:09,477
+<i>You're talking feminist bullshit?</i>
+
+542
+00:37:09,852 --> 00:37:11,687
+<i>My husband just had a stroke.</i>
+
+543
+00:37:11,771 --> 00:37:15,274
+My daughter's terrified.
+My family needs me, Darlene!
+
+544
+00:37:17,401 --> 00:37:19,904
+I'll be in touch
+when we know something definitive.
+
+545
+00:37:50,226 --> 00:37:52,311
+You like that? You like that?
+
+546
+00:37:52,812 --> 00:37:54,397
+Did you like playing the piano?
+
+547
+00:37:54,814 --> 00:37:56,107
+- Hey.
+- Hey, babe.
+
+548
+00:37:56,190 --> 00:37:57,191
+How'd it go?
+
+549
+00:37:57,275 --> 00:37:58,985
+Oh, it went okay.
+
+550
+00:38:00,236 --> 00:38:02,446
+- You know you aced it.
+- Hi, honey.
+
+551
+00:38:02,530 --> 00:38:05,241
+No, they had me doing
+parabolic puke spins all day
+
+552
+00:38:05,324 --> 00:38:08,035
+until my head was spinning so bad
+I could barely get the spacesuit on,
+
+553
+00:38:08,119 --> 00:38:10,037
+let alone tread water for ten minutes.
+
+554
+00:38:10,621 --> 00:38:12,873
+My honey pie, sugar pie, honeybunch.
+
+555
+00:38:13,874 --> 00:38:16,085
+Maybe you and I'll just stay home and...
+
+556
+00:38:16,711 --> 00:38:20,089
+bake cookies and read storybooks
+while Daddy goes to Mars.
+
+557
+00:38:20,172 --> 00:38:21,465
+Not in this lifetime.
+
+558
+00:38:23,884 --> 00:38:24,760
+What is it?
+
+559
+00:38:28,014 --> 00:38:28,889
+I'm out.
+
+560
+00:38:29,557 --> 00:38:30,558
+What?
+
+561
+00:38:32,268 --> 00:38:34,312
+I tested positive for CCM.
+
+562
+00:38:35,646 --> 00:38:37,857
+Apparently, I do have my dad's bad gene.
+
+563
+00:38:40,443 --> 00:38:42,570
+But he didn't know he had it
+until last month,
+
+564
+00:38:42,945 --> 00:38:45,614
+and he didn't show any signs
+until he was well into his seventies.
+
+565
+00:38:45,698 --> 00:38:47,616
+I know. NASA won't take the risk.
+
+566
+00:38:53,789 --> 00:38:55,624
+But it's not fair.
+
+567
+00:38:55,708 --> 00:38:58,753
+I'm sorry. God, you're the best.
+
+568
+00:38:59,795 --> 00:39:01,130
+Well, now you're the best.
+
+569
+00:39:04,383 --> 00:39:05,217
+Hey.
+
+570
+00:39:07,762 --> 00:39:10,348
+You just have to do this
+for both of us now, okay?
+
+571
+00:39:19,398 --> 00:39:21,901
+<i>We are less than 24...</i>
+<i>Would you please calm down?</i>
+
+572
+00:39:21,984 --> 00:39:24,904
+We are 24 hours away from launch.
+There is no turning back.
+
+573
+00:39:24,987 --> 00:39:27,865
+- We must come to some sort of resolution.
+- It would be a disaster
+
+574
+00:39:27,948 --> 00:39:30,201
+to change the game plan at this stage.
+
+575
+00:39:30,284 --> 00:39:32,411
+You don't think you're being unreasonable?
+
+576
+00:39:36,290 --> 00:39:38,501
+- She's saying...
+- Yes, thanks. I got the gist.
+
+577
+00:39:38,584 --> 00:39:40,419
+- I need to talk to you.
+- One minute.
+
+578
+00:39:40,920 --> 00:39:42,046
+I know you're worried,
+
+579
+00:39:42,129 --> 00:39:44,548
+but I promise you,
+there is no one more capable
+
+580
+00:39:44,632 --> 00:39:47,301
+nor more committed to your astronauts
+than Emma Green.
+
+581
+00:39:47,385 --> 00:39:49,970
+I need to speak with you, now.
+
+582
+00:39:52,139 --> 00:39:53,265
+Would you excuse me?
+
+583
+00:40:00,231 --> 00:40:01,857
+You can't be serious.
+
+584
+00:40:01,941 --> 00:40:04,276
+If the people on the other side
+of this wall...
+
+585
+00:40:04,693 --> 00:40:08,531
+I'm about to get on the phone and assure
+the president we are still on track.
+
+586
+00:40:08,614 --> 00:40:09,990
+I wanna say I can fix this,
+
+587
+00:40:10,074 --> 00:40:12,326
+but I'm honestly not confident
+she's 100 percent.
+
+588
+00:40:12,410 --> 00:40:14,036
+Okay, let me think.
+
+589
+00:40:14,120 --> 00:40:16,205
+All right. I want Putney to evaluate her,
+
+590
+00:40:16,288 --> 00:40:18,124
+I want the full prognosis
+from that surgery,
+
+591
+00:40:18,207 --> 00:40:20,292
+and I don't want anyone else
+to know about any of this.
+
+592
+00:40:20,376 --> 00:40:21,377
+Roger that.
+
+593
+00:40:23,754 --> 00:40:25,464
+<i>I assume</i>
+<i>you've spoken with Darlene.</i>
+
+594
+00:40:25,881 --> 00:40:28,050
+- <i>And George.</i>
+- They want you to convince me.
+
+595
+00:40:28,467 --> 00:40:29,718
+<i>They want my evaluation,</i>
+
+596
+00:40:29,802 --> 00:40:31,929
+<i>but I'm not here for them, Emma.
+I'm here for you.</i>
+
+597
+00:40:32,680 --> 00:40:33,681
+Mm-hmm.
+
+598
+00:40:34,181 --> 00:40:36,725
+<i>Believe it or not,
+I want what's best for you.</i>
+
+599
+00:40:36,809 --> 00:40:38,727
+How can you know what's best for me?
+
+600
+00:40:39,937 --> 00:40:41,564
+I don't know what's best for me.
+
+601
+00:40:42,857 --> 00:40:43,774
+I mean...
+
+602
+00:40:45,192 --> 00:40:47,653
+The only thing I've ever known for sure
+in my life
+
+603
+00:40:47,736 --> 00:40:49,822
+is that I wanted to be
+on the first mission to Mars.
+
+604
+00:40:50,656 --> 00:40:51,782
+And now you will.
+
+605
+00:40:51,866 --> 00:40:53,409
+<i>With a husband who's critical,</i>
+
+606
+00:40:53,492 --> 00:40:54,535
+a daughter I abandoned,
+
+607
+00:40:54,618 --> 00:40:56,370
+and a crew that thinks
+I tried to kill them.
+
+608
+00:40:56,454 --> 00:40:57,705
+Emma...
+
+609
+00:40:58,747 --> 00:40:59,748
+what happened?
+
+610
+00:41:00,624 --> 00:41:01,667
+<i>Just tell me.</i>
+
+611
+00:41:06,005 --> 00:41:07,381
+<i>Everything was going great.</i>
+
+612
+00:41:08,716 --> 00:41:10,342
+<i>The crew was settling in.</i>
+
+613
+00:41:10,885 --> 00:41:13,554
+<i>They were starting
+to really enjoy themselves.</i>
+
+614
+00:41:15,055 --> 00:41:16,515
+Cristiano!
+
+615
+00:41:17,391 --> 00:41:19,059
+And a save!
+
+616
+00:41:19,143 --> 00:41:21,687
+<i>I mean, the ship was flying itself.</i>
+
+617
+00:41:25,065 --> 00:41:27,610
+<i>Misha was as happy</i>
+<i>as I'd ever seen him.</i>
+
+618
+00:41:28,777 --> 00:41:30,779
+<i>Lu was a natural in space.</i>
+
+619
+00:41:33,866 --> 00:41:36,202
+<i>Even Kwesi
+had started to get his sea legs.</i>
+
+620
+00:41:38,162 --> 00:41:39,163
+<i>Then what?</i>
+
+621
+00:41:39,246 --> 00:41:42,708
+We were less than ten hours
+from touching down.
+
+622
+00:41:51,467 --> 00:41:54,595
+This is Commander Green.
+Chemical leak in the berth passageway.
+
+623
+00:42:15,991 --> 00:42:17,618
+Kwesi, wait!
+
+624
+00:42:22,206 --> 00:42:24,333
+- I'm here. I'm taking your arm.
+- Emma?
+
+625
+00:42:24,416 --> 00:42:26,460
+- I... I can't see.
+- I'm bringing you up.
+
+626
+00:42:28,254 --> 00:42:29,672
+- Kwesi.
+- I can't see.
+
+627
+00:42:29,755 --> 00:42:31,215
+Kwesi! I got him, Lu.
+
+628
+00:42:31,298 --> 00:42:33,801
+- Up! Up!
+- Get the fire extinguisher!
+
+629
+00:42:34,260 --> 00:42:36,053
+No! Water! Quickly, now!
+
+630
+00:42:36,470 --> 00:42:39,306
+Fire is the sum of all fears in space.
+
+631
+00:42:39,723 --> 00:42:41,350
+<i>I didn't think there was time to wait.</i>
+
+632
+00:42:51,193 --> 00:42:54,238
+It turns out
+there's a chemical anomaly I didn't know.
+
+633
+00:42:55,906 --> 00:42:58,158
+Sweat from my shirt ignited the pre-treat.
+
+634
+00:42:59,410 --> 00:43:03,080
+<i>Misha and Lu knew
+only a lot of water would put it out.</i>
+
+635
+00:43:03,163 --> 00:43:04,623
+Steady. Steady.
+
+636
+00:43:04,707 --> 00:43:06,208
+<i>And they were right.</i>
+
+637
+00:43:06,292 --> 00:43:08,377
+Okay, steady. Steady.
+
+638
+00:43:09,211 --> 00:43:10,421
+Go!
+
+639
+00:43:10,504 --> 00:43:13,090
+<i>It was over in seconds.</i>
+
+640
+00:43:13,591 --> 00:43:14,592
+<i>Like magic.</i>
+
+641
+00:43:18,012 --> 00:43:19,888
+<i>I was reckless and impulsive.</i>
+
+642
+00:43:19,972 --> 00:43:22,224
+It wasn't my area of expertise.
+
+643
+00:43:22,308 --> 00:43:25,060
+- And I had no business trying to...
+<i>- Trying to save them?</i>
+
+644
+00:43:25,561 --> 00:43:29,565
+No, I escalated the crisis.
+I could've killed everyone on board.
+
+645
+00:43:30,316 --> 00:43:32,151
+<i>That was me at the top of my game.</i>
+
+646
+00:43:32,985 --> 00:43:36,155
+How am I gonna function now
+with all this shit going on?
+
+647
+00:43:36,739 --> 00:43:39,450
+<i>Here's what I see. You reacted quickly.</i>
+
+648
+00:43:39,533 --> 00:43:41,785
+<i>You pulled your crewmate
+out of harm's way.</i>
+
+649
+00:43:42,161 --> 00:43:44,288
+You acted as a commander should
+
+650
+00:43:44,371 --> 00:43:48,167
+<i>and moved toward danger
+without any thought of your own safety.</i>
+
+651
+00:43:48,542 --> 00:43:50,044
+You threw yourself at the problem.
+
+652
+00:43:50,127 --> 00:43:51,295
+But I didn't fix it.
+
+653
+00:43:52,046 --> 00:43:54,131
+<i>Like you couldn't cure your mom's cancer.</i>
+
+654
+00:43:54,798 --> 00:43:56,717
+<i>Like you can't cure Matt's CCM.</i>
+
+655
+00:43:58,802 --> 00:43:59,845
+What's your point?
+
+656
+00:44:01,180 --> 00:44:02,264
+That you're human.
+
+657
+00:44:04,433 --> 00:44:07,561
+<i>I'd want you leading my team
+if the shit hit the fan, Emma.</i>
+
+658
+00:44:09,647 --> 00:44:10,814
+<i>But in the end,</i>
+
+659
+00:44:11,565 --> 00:44:12,858
+<i>this is your decision.</i>
+
+660
+00:44:13,817 --> 00:44:15,194
+<i>No one can make it for you.</i>
+
+661
+00:44:19,990 --> 00:44:22,117
+<i>Tell us some of the challenges</i>
+
+662
+00:44:22,201 --> 00:44:23,285
+<i>facing the astronauts</i>
+
+663
+00:44:23,369 --> 00:44:26,288
+{\an8}<i>on this eight-month-long journey to Mars.</i>
+
+664
+00:44:26,372 --> 00:44:29,333
+{\an8}<i>It's a long time.
+I think the biggest challenge is gonna be</i>
+
+665
+00:44:29,416 --> 00:44:32,211
+{\an8}<i>that they're really gonna be,
+no kidding, away.</i>
+
+666
+00:44:32,294 --> 00:44:35,089
+<i>And that means away from our planet,
+away from their family...</i>
+
+667
+00:44:35,172 --> 00:44:39,093
+You trained to be one of them,
+but you decided not to go, right?
+
+668
+00:44:41,887 --> 00:44:42,805
+Right.
+
+669
+00:44:43,764 --> 00:44:44,598
+Why?
+
+670
+00:44:46,934 --> 00:44:48,060
+It's complicated.
+
+671
+00:44:50,521 --> 00:44:53,899
+Okay, I know you're supposed to be,
+like, my temporary mom,
+
+672
+00:44:53,982 --> 00:44:57,361
+but do you have to say everything
+she says exactly like she says it?
+
+673
+00:44:57,986 --> 00:45:00,114
+Because when Mom says, "It's complicated,"
+
+674
+00:45:00,197 --> 00:45:02,241
+she really means
+she just doesn't wanna talk about it.
+
+675
+00:45:02,700 --> 00:45:04,159
+Uh, well...
+
+676
+00:45:11,625 --> 00:45:13,794
+He's out of recovery.
+The surgery went well.
+
+677
+00:45:14,878 --> 00:45:15,963
+Let's call your mom.
+
+678
+00:45:16,880 --> 00:45:17,923
+Can I talk to him?
+
+679
+00:45:18,006 --> 00:45:20,718
+He might be a little woozy,
+but you can try.
+
+680
+00:45:22,678 --> 00:45:23,679
+Dad?
+
+681
+00:45:25,889 --> 00:45:28,475
+Emma,
+I have Lexi and Matt for you.
+
+682
+00:45:28,559 --> 00:45:29,643
+<i>He's out of surgery?</i>
+
+683
+00:45:30,352 --> 00:45:31,979
+Yeah. He's good.
+
+684
+00:45:33,272 --> 00:45:34,314
+He's right here.
+
+685
+00:45:34,398 --> 00:45:38,318
+Commander Green, this is Dr. Madigan.
+We were able to remove the lesion.
+
+686
+00:45:38,402 --> 00:45:40,487
+- Oh my God.
+<i>- Matt is awake and responding.</i>
+
+687
+00:45:41,363 --> 00:45:42,740
+Do you know if, uh...
+
+688
+00:45:42,823 --> 00:45:45,284
+if the stroke caused any damage?
+Is he gonna be okay?
+
+689
+00:45:45,367 --> 00:45:47,035
+<i>We're gonna run some tests soon.</i>
+
+690
+00:45:47,119 --> 00:45:49,246
+<i>It's too early
+to know anything definitive.</i>
+
+691
+00:45:51,498 --> 00:45:53,625
+<i>Well, thank you.
+Thank you so much, Doctor.</i>
+
+692
+00:45:56,879 --> 00:45:58,130
+Are you coming home?
+
+693
+00:46:04,636 --> 00:46:05,471
+Yes.
+
+694
+00:46:10,893 --> 00:46:12,686
+I'll leave you to talk privately.
+
+695
+00:46:12,770 --> 00:46:15,689
+Matt, I want you to get some rest.
+I'll be back in the morning.
+
+696
+00:46:17,149 --> 00:46:18,692
+<i>Um, is Melissa there?</i>
+
+697
+00:46:18,776 --> 00:46:19,985
+Yeah, I'm here.
+
+698
+00:46:20,611 --> 00:46:23,238
+<i>You'll, uh...
+You'll take Lex home with you tonight?</i>
+
+699
+00:46:23,322 --> 00:46:25,032
+Yeah, I got the guest room all set up.
+
+700
+00:46:26,533 --> 00:46:28,452
+<i>I'll see you in four days then.</i>
+
+701
+00:46:29,661 --> 00:46:31,914
+- I'll wait outside for you, Lex.
+- Okay.
+
+702
+00:46:35,250 --> 00:46:36,210
+Mom?
+
+703
+00:46:36,919 --> 00:46:39,421
+Are they still gonna be able
+to fly the mission without you?
+
+704
+00:46:39,755 --> 00:46:41,965
+Oh, don't worry about that, hon.
+
+705
+00:46:42,674 --> 00:46:43,842
+It's taken care of.
+
+706
+00:46:45,928 --> 00:46:47,221
+Dad, what's wrong?
+
+707
+00:46:47,304 --> 00:46:48,722
+<i>Honey, is something wrong?</i>
+
+708
+00:46:48,806 --> 00:46:49,848
+Dad, what is it?
+
+709
+00:46:50,307 --> 00:46:51,975
+Maybe you should call one of the nurses.
+
+710
+00:46:52,059 --> 00:46:54,228
+No, he...
+He's trying to take off his mask.
+
+711
+00:46:54,937 --> 00:46:56,563
+I think he wants to talk to you.
+
+712
+00:47:02,152 --> 00:47:02,986
+<i>Matt?</i>
+
+713
+00:47:03,821 --> 00:47:04,822
+Honey?
+
+714
+00:47:06,031 --> 00:47:07,449
+I can't... I can't hear you.
+
+715
+00:47:09,284 --> 00:47:11,995
+He can only whisper,
+so this is Dad, not me.
+
+716
+00:47:18,627 --> 00:47:19,628
+I miss you.
+
+717
+00:47:20,838 --> 00:47:22,005
+<i>I wanna see your face.</i>
+
+718
+00:47:24,007 --> 00:47:25,008
+<i>Dad?</i>
+
+719
+00:47:26,093 --> 00:47:27,010
+What?
+
+720
+00:47:29,429 --> 00:47:30,430
+<i>What?</i>
+
+721
+00:47:31,390 --> 00:47:32,683
+<i>What... what did he say?</i>
+
+722
+00:47:35,811 --> 00:47:37,271
+He said he needs you...
+
+723
+00:47:38,814 --> 00:47:39,940
+to do your job.
+
+724
+00:47:40,691 --> 00:47:42,109
+Matt, I made my decision.
+
+725
+00:47:49,658 --> 00:47:52,786
+<i>What's going on? Please tell me.
+I can't hear anything.</i>
+
+726
+00:47:53,745 --> 00:47:55,706
+We're gonna be okay.
+
+727
+00:47:56,373 --> 00:47:57,457
+<i>Alexis?</i>
+
+728
+00:48:01,003 --> 00:48:02,212
+He says that...
+
+729
+00:48:04,381 --> 00:48:05,757
+that this is who you are.
+
+730
+00:48:06,383 --> 00:48:09,928
+And that someday,
+I'm gonna be who I... I'm gonna be.
+
+731
+00:48:10,762 --> 00:48:12,723
+<i>And that he's gonna be okay.</i>
+
+732
+00:48:13,390 --> 00:48:16,226
+<i>And that he's gonna be okay,
+and that we're gonna be okay.</i>
+
+733
+00:48:20,689 --> 00:48:21,773
+I need you...
+
+734
+00:48:25,027 --> 00:48:26,028
+to go.
+
+735
+00:48:26,111 --> 00:48:27,112
+Matt...
+
+736
+00:48:27,821 --> 00:48:29,948
+...you're not in a position...
+
+737
+00:48:30,574 --> 00:48:31,909
+It's not your decision.
+
+738
+00:48:32,409 --> 00:48:34,828
+- <i>It's not your decision either.</i>
+- Matt...
+
+739
+00:48:35,287 --> 00:48:36,413
+<i>That wasn't Dad.</i>
+
+740
+00:48:38,415 --> 00:48:39,416
+That was me.
+
+741
+00:48:42,502 --> 00:48:44,546
+I'm with Dad. I think you should go too.
+
+742
+00:49:10,322 --> 00:49:11,448
+Okay.
+
+743
+00:49:22,584 --> 00:49:23,627
+Puppets?
+
+744
+00:49:24,044 --> 00:49:25,921
+Entertainment for grandchildren.
+
+745
+00:49:36,932 --> 00:49:38,100
+What is the ring?
+
+746
+00:49:43,397 --> 00:49:45,774
+Women hold up half the sky.
+
+747
+00:49:46,400 --> 00:49:47,317
+Hmm.
+
+748
+00:49:47,401 --> 00:49:49,736
+Gift from your husband?
+
+749
+00:49:53,156 --> 00:49:54,366
+From a friend.
+
+750
+00:49:56,535 --> 00:49:57,995
+You're bringing your Torah?
+
+751
+00:49:58,078 --> 00:50:01,456
+Yes, as a reminder of things I will miss.
+
+752
+00:50:02,249 --> 00:50:04,084
+To tether me to the Earth.
+
+753
+00:50:04,584 --> 00:50:07,337
+The things I'll miss,
+I can't actually take with me.
+
+754
+00:50:07,421 --> 00:50:08,463
+Like what?
+
+755
+00:50:08,922 --> 00:50:09,923
+Sun,
+
+756
+00:50:10,340 --> 00:50:12,968
+oysters, uh, wine...
+
+757
+00:50:13,719 --> 00:50:14,845
+What else? Women.
+
+758
+00:50:16,263 --> 00:50:17,931
+- Hello.
+- Gentlemen.
+
+759
+00:50:18,682 --> 00:50:21,810
+Long walks, uh... live music.
+
+760
+00:50:22,644 --> 00:50:26,189
+- I already mentioned women?
+- Relax, boys. We have three years.
+
+761
+00:50:26,273 --> 00:50:27,315
+Come on, Misha.
+
+762
+00:50:27,399 --> 00:50:29,609
+- You know what I'll really miss the most?
+- Women?
+
+763
+00:50:38,076 --> 00:50:39,119
+Status update?
+
+764
+00:50:39,661 --> 00:50:42,956
+System checks are all complete,
+and, uh, we're back on schedule.
+
+765
+00:50:43,665 --> 00:50:45,417
+More importantly, how's your husband?
+
+766
+00:50:45,959 --> 00:50:47,127
+Doing well, thank you.
+
+767
+00:50:47,794 --> 00:50:49,838
+Kwesi, how you feeling?
+
+768
+00:50:50,756 --> 00:50:52,340
+Ready to go, Commander.
+
+769
+00:50:52,424 --> 00:50:54,593
+Lu, make sure everything's battened down
+in the common room.
+
+770
+00:50:54,676 --> 00:50:56,553
+Misha, triple-check
+every latch and drawer.
+
+771
+00:50:56,636 --> 00:50:58,346
+We start fueling in 15 minutes.
+
+772
+00:51:02,809 --> 00:51:04,186
+Something you guys wanna share?
+
+773
+00:51:05,687 --> 00:51:06,521
+No...
+
+774
+00:51:07,314 --> 00:51:08,148
+Commander.
+
+775
+00:51:10,567 --> 00:51:11,902
+I know you don't trust me.
+
+776
+00:51:12,861 --> 00:51:16,156
+But if we're gonna survive the launch,
+much less the mission,
+
+777
+00:51:16,239 --> 00:51:17,574
+we need to figure it out.
+
+778
+00:51:18,909 --> 00:51:19,910
+You're right.
+
+779
+00:51:22,162 --> 00:51:23,371
+We don't trust you.
+
+780
+00:51:26,833 --> 00:51:28,335
+Well, then you better learn.
+
+781
+00:51:30,087 --> 00:51:31,421
+Emma, I forgot to say,
+
+782
+00:51:32,005 --> 00:51:34,925
+uh, Houston asked if you could say
+a few words before launch.
+
+783
+00:51:35,300 --> 00:51:36,134
+To who?
+
+784
+00:51:37,094 --> 00:51:38,136
+To the world.
+
+785
+00:51:44,976 --> 00:51:46,728
+Say cheese, astronauts.
+
+786
+00:51:49,689 --> 00:51:51,858
+Live in five... four...
+
+787
+00:51:51,942 --> 00:51:54,277
+- What am I supposed to say?
+- Three...
+
+788
+00:51:54,361 --> 00:51:56,613
+Just be you. One.
+
+789
+00:52:01,243 --> 00:52:04,246
+This is Commander Emma Green,
+here on the Moon,
+
+790
+00:52:05,205 --> 00:52:06,248
+which is obvious.
+
+791
+00:52:07,457 --> 00:52:09,793
+But there are so many others
+who can't be here,
+
+792
+00:52:10,627 --> 00:52:11,628
+<i>at home...</i>
+
+793
+00:52:12,379 --> 00:52:13,547
+<i>and around the world.</i>
+
+794
+00:52:14,464 --> 00:52:18,552
+<i>It's because of their work and sacrifices
+that we are standing here today.</i>
+
+795
+00:52:21,054 --> 00:52:22,305
+<i>Getting to Mars</i>
+
+796
+00:52:23,098 --> 00:52:26,518
+<i>might be the hardest thing
+that humankind has ever tried.</i>
+
+797
+00:52:29,271 --> 00:52:30,522
+<i>It requires...</i>
+
+798
+00:52:31,314 --> 00:52:32,524
+<i>the best of us...</i>
+
+799
+00:52:34,609 --> 00:52:35,735
+from all of us.
+
+800
+00:52:37,320 --> 00:52:38,989
+And maybe it's not our nature
+
+801
+00:52:39,656 --> 00:52:40,699
+to work together.
+
+802
+00:52:41,825 --> 00:52:42,909
+But the future
+
+803
+00:52:43,535 --> 00:52:45,370
+demands otherwise.
+
+804
+00:52:46,580 --> 00:52:50,292
+And we will come together now
+in pursuit of a dream
+
+805
+00:52:51,042 --> 00:52:53,587
+that was once thought to be impossible.
+
+806
+00:52:57,549 --> 00:52:59,092
+<i>And if we can do this,</i>
+
+807
+00:53:02,179 --> 00:53:03,555
+<i>we can do anything.</i>
+
+808
+00:53:06,433 --> 00:53:08,059
+<i>We've been grimly reminded...</i>
+
+809
+00:53:10,187 --> 00:53:12,772
+<i>of the extraordinary challenges
+that await us.</i>
+
+810
+00:53:15,609 --> 00:53:19,237
+<i>But we will reach the surface of Mars.</i>
+
+811
+00:53:20,864 --> 00:53:21,907
+<i>And </i>we<i> will...</i>
+
+812
+00:53:22,782 --> 00:53:23,909
+<i>return home.</i>
+
+813
+00:53:26,369 --> 00:53:27,621
+- GNC?
+- Go.
+
+814
+00:53:27,704 --> 00:53:28,955
+- SATCOM?
+- Go.
+
+815
+00:53:29,039 --> 00:53:30,457
+- INCO?
+- Go.
+
+816
+00:53:30,540 --> 00:53:31,583
+- PROP?
+- Go.
+
+817
+00:53:31,958 --> 00:53:33,335
+- THOR?
+- Go.
+
+818
+00:53:33,418 --> 00:53:34,711
+- Surgeon?
+- Go.
+
+819
+00:53:34,794 --> 00:53:36,213
+- EGIL?
+- Go.
+
+820
+00:53:37,005 --> 00:53:41,384
+Confirming all systems go
+for launch in T-minus ten...
+
+821
+00:53:42,302 --> 00:53:44,221
+<i>nine, eight...</i>
+
+822
+00:53:45,013 --> 00:53:48,141
+<i>seven, six, five...</i>
+
+823
+00:53:48,225 --> 00:53:49,809
+<i>Four...</i>
+
+824
+00:53:50,602 --> 00:53:52,729
+<i>We will return home.</i>
+
+825
+00:54:41,820 --> 00:54:44,364
+Go, you fucker.
+
+826
+00:54:45,323 --> 00:54:46,408
+Go.
+
+826
+00:54:47,305 --> 00:55:47,720
+OpenSubtitles recommends using Nord VPN
+from 3.49 USD/month ----> osdb.link/vpn
