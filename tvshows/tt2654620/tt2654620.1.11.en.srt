@@ -1,0 +1,1918 @@
+﻿1
+00:00:00,196 --> 00:00:01,556
+Previously on The Strain...
+
+2
+00:00:01,590 --> 00:00:03,197
+Ah, mi hijo.
+
+3
+00:00:03,227 --> 00:00:05,497
+So good to have two kids together again.
+
+4
+00:00:05,527 --> 00:00:08,450
+How many times I have to tell?
+No recycling in the hallway.
+
+5
+00:00:08,480 --> 00:00:10,581
+Now we're talking about the way
+you speak to my mother.
+
+6
+00:00:10,648 --> 00:00:13,786
+If she ever tells me you
+talk to her like that again,
+
+7
+00:00:13,816 --> 00:00:15,452
+you're gonna find your body
+
+8
+00:00:15,482 --> 00:00:17,554
+in one of those recycling bins
+you love so much.
+
+9
+00:00:17,622 --> 00:00:20,557
+What was in that coffin? Soil...
+
+10
+00:00:21,441 --> 00:00:22,708
+Where's that cabinet?
+
+11
+00:00:22,738 --> 00:00:25,170
+That box was 500 pounds;
+nothing could lift it up like that.
+
+12
+00:00:25,200 --> 00:00:27,102
+If you have the coffin,
+then you still have him!
+
+13
+00:00:27,132 --> 00:00:29,152
+Do not allow it across the river!
+
+14
+00:00:29,182 --> 00:00:32,472
+Something evil has taken root.
+Rats don't migrate like that.
+
+15
+00:00:32,502 --> 00:00:34,426
+Something's driving them
+off from underground.
+
+16
+00:00:34,456 --> 00:00:36,757
+It's hiding down there in the dark.
+
+17
+00:00:36,825 --> 00:00:39,330
+I tracked the epicenter
+of the rat-free zone.
+
+18
+00:00:39,360 --> 00:00:41,628
+We have to look at all
+the decommissioned tunnels
+
+19
+00:00:41,658 --> 00:00:46,043
+- near the World Trade Center.
+- Kill the Master and his spawn will die.
+
+20
+00:00:47,084 --> 00:00:49,085
+They're coming.
+
+21
+00:00:49,115 --> 00:00:52,204
+Uh... alright.
+
+22
+00:00:53,386 --> 00:00:55,471
+UV light bomb test.
+
+23
+00:00:57,274 --> 00:01:00,582
+Hey! No, no, no. Come on! Come on!
+
+24
+00:01:05,987 --> 00:01:07,921
+- Now I can't see anything.
+- That's right.
+
+25
+00:01:07,951 --> 00:01:09,433
+It's better than burning out
+your retinas looking
+
+26
+00:01:09,463 --> 00:01:11,804
+- at the UVC rays.
+- No fair.
+
+27
+00:01:11,983 --> 00:01:14,361
+This is a... good idea?
+
+28
+00:01:15,425 --> 00:01:16,613
+Uh...
+
+29
+00:01:17,338 --> 00:01:19,184
+Well, we're about to find out.
+
+30
+00:01:19,562 --> 00:01:21,981
+Fire in the hole!
+
+31
+00:01:27,998 --> 00:01:30,443
+You might want to put that out.
+
+32
+00:01:35,013 --> 00:01:38,768
+- What happened?
+- In engineering terms, uh...
+
+33
+00:01:39,076 --> 00:01:40,699
+You'd call that a fail.
+
+34
+00:01:40,729 --> 00:01:42,824
+An epic fail.
+
+35
+00:01:42,854 --> 00:01:44,755
+Well, light was strong while it lasted.
+
+36
+00:01:45,380 --> 00:01:47,979
+- Was it long enough to hurt them?
+- Could be bigger.
+
+37
+00:01:48,009 --> 00:01:50,870
+Need to keep the bulbs bright
+enough to do the job without
+
+38
+00:01:50,900 --> 00:01:53,537
+- burning them out so fast.
+- Well if it were me, I would
+
+39
+00:01:53,567 --> 00:01:55,320
+make the lights cycle on and off,
+
+40
+00:01:55,350 --> 00:01:57,751
+strobe like a camera flash.
+That might stop
+
+41
+00:01:57,819 --> 00:01:59,925
+the bulbs from burning out.
+
+42
+00:01:59,955 --> 00:02:00,729
+Huh.
+
+43
+00:02:00,759 --> 00:02:03,671
+I could rig up a fog machine too,
+you know, crank some tunes,
+
+44
+00:02:03,701 --> 00:02:05,876
+really get 'em dancing.
+Just boom, boom, boom.
+
+45
+00:02:05,906 --> 00:02:09,538
+- Forget I mentioned it. Do what you want.
+- I'm just joking, Doc.
+
+46
+00:02:10,051 --> 00:02:11,280
+Hmm?
+
+47
+00:02:12,836 --> 00:02:16,291
+I'm not saying I disagree
+because I do agree with you.
+
+48
+00:02:16,616 --> 00:02:18,599
+Don't fall off your high horse.
+
+49
+00:02:20,091 --> 00:02:22,343
+Problem is, is that...
+
+50
+00:02:22,797 --> 00:02:24,972
+Well, we can't do any more tests.
+
+51
+00:02:25,002 --> 00:02:27,809
+I could put the rest of our bulbs in...
+
+52
+00:02:27,839 --> 00:02:31,168
+Tinker with the circuit board,
+put in an oscillator...
+
+53
+00:02:32,097 --> 00:02:34,805
+But we're gonna have to go
+with what we end up with.
+
+54
+00:02:34,873 --> 00:02:36,143
+Hope for the best.
+
+55
+00:02:36,173 --> 00:02:39,352
+Mr. Fet, you've just described
+my method of operation
+
+56
+00:02:39,382 --> 00:02:42,224
+for the past six decades.
+
+57
+00:02:44,000 --> 00:02:50,074
+Advertise your product or brand here
+contact www.OpenSubtitles.org today
+
+58
+00:02:53,446 --> 00:02:59,258
+- sync & corrections by wolfen -
+- www.addic7ed.com -
+
+59
+00:03:01,771 --> 00:03:03,869
+Mama, what are you doing?!
+
+60
+00:03:05,599 --> 00:03:08,601
+I can't find anything
+in this damn kitchen!
+
+61
+00:03:09,675 --> 00:03:11,037
+Apparently she's searching
+
+62
+00:03:11,067 --> 00:03:12,533
+for an ashtray she once owned
+
+63
+00:03:12,563 --> 00:03:15,513
+from the Alvear Hotel, Buenos Aires.
+
+64
+00:03:15,543 --> 00:03:18,912
+I know it's here somewhere.
+
+65
+00:03:19,447 --> 00:03:20,695
+Mama...
+
+66
+00:03:21,082 --> 00:03:25,324
+That broke years ago. Hm?
+
+67
+00:03:27,355 --> 00:03:29,534
+I'll clean it up.
+
+68
+00:03:32,645 --> 00:03:35,824
+This is not your kitchen.
+
+69
+00:03:40,196 --> 00:03:43,603
+An ashtray here.
+
+70
+00:03:44,875 --> 00:03:46,060
+Thank you.
+
+71
+00:03:46,573 --> 00:03:47,564
+Ah.
+
+72
+00:03:51,622 --> 00:03:56,352
+- I don't like him.
+- Mr. Setrakian is our host.
+
+73
+00:03:56,796 --> 00:03:58,555
+He has a dark soul.
+
+74
+00:03:58,585 --> 00:04:00,069
+Mama, basta.
+
+75
+00:04:00,099 --> 00:04:01,952
+_
+
+76
+00:04:01,982 --> 00:04:05,146
+_
+
+77
+00:04:07,711 --> 00:04:09,679
+Toma.
+
+78
+00:04:16,390 --> 00:04:17,287
+I'm sorry.
+
+79
+00:04:17,317 --> 00:04:19,593
+I understand what she's experiencing.
+
+80
+00:04:19,623 --> 00:04:22,557
+She's wrong, what she said about you.
+
+81
+00:04:23,293 --> 00:04:25,061
+No, she's not.
+
+82
+00:04:27,199 --> 00:04:29,532
+Is your mother going to be OK?
+
+83
+00:04:30,296 --> 00:04:32,669
+She gets coused sometimes.
+
+84
+00:04:32,897 --> 00:04:35,549
+She mistakes memories for reality.
+
+85
+00:04:35,836 --> 00:04:38,908
+She must have really liked that ashtray.
+
+86
+00:04:41,268 --> 00:04:42,516
+It was from a hotel-restaurant
+
+87
+00:04:42,546 --> 00:04:45,282
+where my father took her
+on their first date.
+
+88
+00:04:45,812 --> 00:04:48,584
+He wanted a memento,
+because he knew right then,
+
+89
+00:04:48,816 --> 00:04:51,621
+from that first night,
+that he was gonna marry her.
+
+90
+00:04:51,651 --> 00:04:55,206
+Well then, maybe it's good
+that she still remembers it.
+
+91
+00:04:56,009 --> 00:04:57,855
+I think you're right.
+
+92
+00:05:07,872 --> 00:05:09,821
+Crispin, open the door.
+
+93
+00:05:12,704 --> 00:05:15,640
+Crispin, open the damn door!
+I'm not playing, bro!
+
+94
+00:05:26,798 --> 00:05:28,029
+Mama?
+
+95
+00:05:52,151 --> 00:05:53,724
+Where's Mom?
+
+96
+00:05:56,358 --> 00:05:58,215
+Crispin, do you hear me?
+Where is mom?
+
+97
+00:06:52,892 --> 00:06:53,969
+No!
+
+98
+00:06:54,741 --> 00:06:58,792
+No! No!
+
+99
+00:07:03,185 --> 00:07:05,100
+First, do no harm.
+
+100
+00:07:05,779 --> 00:07:07,380
+Things have changed.
+
+101
+00:07:08,049 --> 00:07:09,792
+Have they?
+
+102
+00:07:09,987 --> 00:07:12,987
+Take a remote village, say 200 years ago.
+
+103
+00:07:13,449 --> 00:07:16,235
+Residents are manifesting
+strange symptoms.
+
+104
+00:07:16,265 --> 00:07:18,937
+Dying, fear and superstition
+rule the day,
+
+105
+00:07:18,967 --> 00:07:22,595
+and a curse is blamed until
+someone like you or me shows up
+
+106
+00:07:22,644 --> 00:07:25,385
+and, through a scientific
+process of elimination,
+
+107
+00:07:25,713 --> 00:07:29,323
+traces the disease to a
+source and destroys it.
+
+108
+00:07:29,832 --> 00:07:32,859
+The curse is lifted. People are saved.
+
+109
+00:07:33,039 --> 00:07:34,561
+Order is restored.
+
+110
+00:07:35,344 --> 00:07:36,899
+So you believe now?
+
+111
+00:07:37,248 --> 00:07:40,188
+If we slay the Master,
+this plague of vampirism
+
+112
+00:07:40,218 --> 00:07:42,540
+- ends today?
+- I have to believe it.
+
+113
+00:07:42,570 --> 00:07:45,528
+Otherwise, I can't justify
+leaving Zack here...
+
+114
+00:07:47,204 --> 00:07:48,589
+at the risk of...
+
+115
+00:07:49,044 --> 00:07:51,738
+being orphaned or...
+
+116
+00:07:53,005 --> 00:07:53,996
+worse.
+
+117
+00:07:54,679 --> 00:07:58,251
+- We'll make it back here.
+- What if we don't?
+
+118
+00:08:03,595 --> 00:08:05,751
+Maybe one of us should stay.
+
+119
+00:08:06,195 --> 00:08:08,127
+You mean me?
+
+120
+00:08:10,482 --> 00:08:13,717
+- I-I would never ask you that...
+- You just did.
+
+121
+00:08:15,420 --> 00:08:18,139
+- The answer is no.
+- I didn't mean it like that.
+
+122
+00:08:18,617 --> 00:08:22,057
+- I'm leaving my mother behind.
+- I know, I know you are.
+
+123
+00:08:22,775 --> 00:08:25,100
+You and I are not assassins.
+
+124
+00:08:25,627 --> 00:08:28,618
+Fet, that kill-happy exterminator,
+
+125
+00:08:28,648 --> 00:08:30,567
+this kamikaze mission is his wet dream.
+
+126
+00:08:30,988 --> 00:08:33,398
+And the old man is consumed
+by an ancient grudge.
+
+127
+00:08:33,428 --> 00:08:37,056
+No plan B, because they have
+no one but themselves at risk.
+
+128
+00:08:37,466 --> 00:08:38,976
+I don't think we have any other choice.
+
+129
+00:09:10,765 --> 00:09:12,993
+This was the, uh...
+
+130
+00:09:13,061 --> 00:09:15,333
+Weapon Jim Kent chose to use.
+
+131
+00:09:15,363 --> 00:09:17,938
+You would honor him by taking it.
+
+132
+00:09:19,975 --> 00:09:21,235
+Thank you.
+
+133
+00:09:26,959 --> 00:09:30,050
+- When will you be back?
+- Sundown, absolute latest.
+
+134
+00:09:30,080 --> 00:09:33,047
+- That's the whole day!
+- Hopefully sooner.
+
+135
+00:09:33,252 --> 00:09:35,685
+- What about Mom?
+- I think the best thing is
+
+136
+00:09:35,715 --> 00:09:38,931
+to, uh... take out that...
+
+137
+00:09:39,407 --> 00:09:42,089
+The thing that's causing all this.
+Mr. Setrakian has a plan.
+
+138
+00:09:42,157 --> 00:09:44,658
+I understand, but why
+can't I come with you?
+
+139
+00:09:46,122 --> 00:09:48,142
+I don't know what's out there. I...
+
+140
+00:09:48,552 --> 00:09:51,331
+I can't control that
+environment, but here...
+
+141
+00:09:51,399 --> 00:09:53,801
+You've seen Mr. Setrakian's
+basement, it's a fortress,
+
+142
+00:09:53,868 --> 00:09:55,869
+it's an armory. It's the most safe place
+
+143
+00:09:55,899 --> 00:09:58,376
+- I could imagine for you.
+- You'll be careful, right?
+
+144
+00:09:58,601 --> 00:09:59,935
+Of course.
+
+145
+00:10:00,467 --> 00:10:03,710
+I promise. In the meantime,
+keep an eye on Mrs. Martinez.
+
+146
+00:10:03,740 --> 00:10:05,712
+Shouldn't that be the other way around?
+
+147
+00:10:05,780 --> 00:10:07,072
+Should be.
+
+148
+00:10:08,139 --> 00:10:10,617
+But you're in charge.
+You stay in the basement.
+
+149
+00:10:11,360 --> 00:10:14,054
+Both of you. Don't let anybody see you.
+
+150
+00:10:14,360 --> 00:10:15,556
+OK.
+
+151
+00:10:15,558 --> 00:10:19,061
+Time to go.
+
+152
+00:10:20,385 --> 00:10:22,163
+You're brave.
+
+153
+00:10:52,952 --> 00:10:54,310
+I love you.
+
+154
+00:10:55,385 --> 00:10:57,088
+I love you too.
+
+155
+00:11:31,287 --> 00:11:34,556
+♪♪ Get up in the morning
+slaving for bread, sir ♪
+
+156
+00:11:34,624 --> 00:11:37,559
+♪ So that every mouth can be fed ♪
+
+157
+00:11:37,627 --> 00:11:40,562
+- ♪ Poor
+- Poor, poor ♪
+
+158
+00:11:40,630 --> 00:11:42,698
+♪ The Israelites ♪
+
+159
+00:11:43,248 --> 00:11:46,668
+Young boy! Where is my ashtray?
+
+160
+00:11:46,736 --> 00:11:49,488
+- I don't know, it's not here.
+- What did you do with it?
+
+161
+00:11:49,518 --> 00:11:52,224
+I didn't put it anywhere. Nora
+can help you when she comes back.
+
+162
+00:11:52,565 --> 00:11:55,488
+♪ Poor, the Israelites ♪
+
+163
+00:11:56,796 --> 00:12:00,065
+♪ Shirt, they might tear up,
+trousers are go ♪
+
+164
+00:12:00,133 --> 00:12:03,702
+♪ I don't want to end up
+like Bonnie and Clyde ♪
+
+165
+00:12:03,770 --> 00:12:06,672
+- ♪ Poor
+- Poor, poor ♪
+
+166
+00:12:06,739 --> 00:12:08,765
+♪ The Israelites ♪
+
+167
+00:12:08,795 --> 00:12:10,275
+Wow!
+
+168
+00:12:10,343 --> 00:12:13,278
+♪ After a storm there must be a calm ♪
+
+169
+00:12:13,346 --> 00:12:16,281
+♪ You catch me in the farm,
+you sound your alarm ♪
+
+170
+00:12:16,349 --> 00:12:18,583
+- ♪ Poor
+- Poor, poor ♪
+
+171
+00:12:18,613 --> 00:12:20,070
+♪ Poor, the Israelite ♪
+
+172
+00:12:20,100 --> 00:12:21,689
+Where is my daughter?
+
+173
+00:12:21,719 --> 00:12:23,722
+She went out with all the others.
+
+174
+00:12:23,790 --> 00:12:28,646
+Is she getting my cigarettes?
+I need my cigarettes.
+
+175
+00:12:29,978 --> 00:12:32,831
+See? I need cigarettes!
+
+176
+00:12:33,026 --> 00:12:36,132
+You shouldn't... my mom
+says you shouldn't smoke.
+
+177
+00:12:36,162 --> 00:12:38,913
+♪ In the morning slaving for bread, sir ♪
+
+178
+00:12:38,943 --> 00:12:40,459
+Nora will get you some
+when she comes back.
+
+179
+00:12:40,489 --> 00:12:42,648
+♪ So that every mouth can be fed ♪
+
+180
+00:12:42,678 --> 00:12:44,751
+- ♪ Poor
+- Poor, poor ♪
+
+181
+00:12:45,505 --> 00:12:48,213
+♪ The Israelites, sir ♪
+
+182
+00:12:48,616 --> 00:12:50,086
+♪ My wife and my kids ♪♪
+
+183
+00:12:54,877 --> 00:12:57,834
+Let's haul ass! Come on!
+
+184
+00:12:58,364 --> 00:13:02,040
+- Everybody's having fun now.
+- Every man for himself.
+
+185
+00:13:03,178 --> 00:13:05,695
+That's what the Master is counting on.
+
+186
+00:13:11,168 --> 00:13:14,378
+Don't stop! Run! Run! Run! Run!
+
+187
+00:13:21,937 --> 00:13:23,752
+C'mon, Mama, pick up.
+
+188
+00:13:25,762 --> 00:13:27,478
+Pick up, Mama, please.
+
+189
+00:13:39,666 --> 00:13:41,325
+_
+
+190
+00:13:45,439 --> 00:13:48,503
+Thank you for calling
+
+191
+00:13:48,553 --> 00:13:51,191
+Harlem's Hospital Center.
+If you know your party's extension...
+
+192
+00:13:53,830 --> 00:13:56,331
+- Nurse's desk, 4B.
+- Yeah, can I speak to
+
+193
+00:13:56,399 --> 00:13:59,468
+Guadalupe Elizalde, please?
+It's an emergency.
+
+194
+00:13:59,877 --> 00:14:03,112
+- May I ask who's calling?
+- It's Augustine Elizalde, her son.
+
+195
+00:14:03,142 --> 00:14:04,937
+- Yeah, hold on.
+- OK.
+
+196
+00:14:06,893 --> 00:14:09,674
+Mr. Elizalde, Guadalupe's
+shift isn't till 6pm.
+
+197
+00:14:09,704 --> 00:14:12,030
+It's totally crazy here. She
+might have called in earlier,
+
+198
+00:14:12,098 --> 00:14:14,101
+Come in early, I don't know.
+But I haven't seen her.
+
+199
+00:14:14,131 --> 00:14:16,101
+OK. Thank you.
+
+200
+00:15:29,203 --> 00:15:32,143
+Somebody please! Help me!
+
+201
+00:15:32,417 --> 00:15:35,180
+I need to get out of here!
+
+202
+00:15:36,315 --> 00:15:37,802
+Help!
+
+203
+00:15:39,799 --> 00:15:43,022
+It's locked! Help me, please!
+
+204
+00:15:46,415 --> 00:15:48,415
+Help me!
+
+205
+00:15:50,480 --> 00:15:51,886
+Please.
+
+206
+00:15:55,187 --> 00:15:56,585
+Mrs. Martinez!
+
+207
+00:15:57,309 --> 00:15:59,092
+Oh, there you are, young boy.
+
+208
+00:15:59,122 --> 00:16:01,778
+The keys! Give me the keys.
+
+209
+00:16:01,808 --> 00:16:06,171
+My dad gave me the keys.
+Do you want to go back downstairs?
+
+210
+00:16:06,201 --> 00:16:08,842
+My daughter, my Nora,
+
+211
+00:16:08,872 --> 00:16:11,871
+they've taken her. I must go to her!
+
+212
+00:16:11,901 --> 00:16:14,302
+No, she left on her own.
+She's coming back.
+
+213
+00:16:14,370 --> 00:16:18,938
+- They're all coming back!
+- They never come back! Never!
+
+214
+00:16:23,045 --> 00:16:25,480
+We must leave this place!
+
+215
+00:16:26,239 --> 00:16:27,107
+Please!
+
+216
+00:16:27,137 --> 00:16:29,373
+- I need to get out of here!
+- If I...
+
+217
+00:16:29,403 --> 00:16:30,986
+If I go get you cigarettes,
+
+218
+00:16:31,053 --> 00:16:33,588
+will you go downstairs and wait for me?
+
+219
+00:16:51,356 --> 00:16:52,908
+Why the World Trade Center?
+
+220
+00:16:52,938 --> 00:16:54,910
+The Master is drawn to places
+
+221
+00:16:55,147 --> 00:16:58,737
+of great human misery.
+He seeks out suffering.
+
+222
+00:17:00,070 --> 00:17:02,017
+Eau de strigoi.
+
+223
+00:17:02,487 --> 00:17:04,726
+I think we're in the right place.
+
+224
+00:17:08,183 --> 00:17:11,359
+"The cave you fear to enter...
+
+225
+00:17:11,749 --> 00:17:14,429
+... Holds the treasure that you seek."
+
+226
+00:17:26,131 --> 00:17:27,642
+Oh, God!
+
+227
+00:17:28,329 --> 00:17:30,433
+With any luck, Dr. Martinez,
+
+228
+00:17:30,463 --> 00:17:33,064
+it's gonna get a hell of
+a lot messier than this.
+
+229
+00:18:34,211 --> 00:18:36,577
+Stay to the right!
+
+230
+00:18:37,471 --> 00:18:39,408
+The third rail.
+
+231
+00:18:40,303 --> 00:18:42,809
+I don't know if it's live
+down here, but, uh...
+
+232
+00:18:43,074 --> 00:18:47,257
+That's 625 volts, we
+don't want to find out.
+
+233
+00:19:05,590 --> 00:19:08,201
+It's everything that
+defined these people.
+
+234
+00:19:08,231 --> 00:19:09,451
+Well, I hope I'm defined
+
+235
+00:19:09,481 --> 00:19:12,834
+by more than just my wallet
+and my wristwatch.
+
+236
+00:19:12,864 --> 00:19:14,924
+Everything you see represents
+somebody's mother,
+
+237
+00:19:14,954 --> 00:19:17,604
+- father, son, daughter.
+- Don't bother.
+
+238
+00:19:47,879 --> 00:19:51,268
+Following either a grey Ford 
+or a Plymouth...
+
+239
+00:19:52,458 --> 00:19:54,726
+We're looking at two male
+caucasians moving South...
+
+240
+00:19:58,821 --> 00:20:00,102
+Hey!
+
+241
+00:20:00,869 --> 00:20:03,001
+Does your phone work?
+Can you get a signal?
+
+242
+00:20:03,068 --> 00:20:05,321
+No, mine doesn't work either.
+
+243
+00:20:15,719 --> 00:20:19,162
+The station was abandoned after 9/11...
+
+244
+00:20:19,710 --> 00:20:21,753
+Doubt anyone's been here since.
+
+245
+00:20:22,049 --> 00:20:24,533
+Anyone still human that is.
+
+246
+00:20:57,426 --> 00:20:59,357
+They're nesting.
+
+247
+00:21:00,056 --> 00:21:02,476
+During daylight hours, always.
+
+248
+00:21:02,659 --> 00:21:04,629
+Especially when first turned.
+
+249
+00:21:04,827 --> 00:21:06,831
+The, uh, transformation,
+
+250
+00:21:06,861 --> 00:21:09,734
+it exhausts them.
+
+251
+00:21:10,334 --> 00:21:12,537
+That's a lot of necks to chop.
+
+252
+00:21:12,786 --> 00:21:14,038
+No.
+
+253
+00:21:14,270 --> 00:21:15,955
+Releasing them...
+
+254
+00:21:15,985 --> 00:21:19,677
+would alert the Master
+to our presence. Switch off.
+
+255
+00:21:47,652 --> 00:21:49,278
+Kelly?
+
+256
+00:21:57,298 --> 00:21:59,417
+Eph, it's not her.
+
+257
+00:22:03,784 --> 00:22:05,994
+We must keep moving.
+
+258
+00:22:33,969 --> 00:22:36,088
+I should have been there for you, Mama.
+
+259
+00:23:09,755 --> 00:23:11,956
+Mr. Farrell...
+
+260
+00:23:12,024 --> 00:23:14,407
+You're here for the rent, puto?
+
+261
+00:23:20,247 --> 00:23:22,493
+Look. The rails are clean here.
+
+262
+00:23:23,005 --> 00:23:24,736
+Ah, service cars.
+
+263
+00:23:24,803 --> 00:23:28,610
+They use the abandoned
+stations for turnarounds.
+
+264
+00:23:30,163 --> 00:23:32,974
+I know these tunnels like
+the back of my hand.
+
+265
+00:23:33,004 --> 00:23:36,700
+Now, this line was built
+on top of the old original
+
+266
+00:23:36,730 --> 00:23:38,984
+1923 line.
+
+267
+00:23:39,251 --> 00:23:41,013
+Yeah, it's like, uh...
+
+268
+00:23:41,043 --> 00:23:43,701
+Ancient Rome or the City of David.
+
+269
+00:23:43,731 --> 00:23:45,523
+Shhh!
+
+270
+00:23:46,874 --> 00:23:49,832
+We were hearing that the whole time, Doc.
+
+271
+00:23:49,862 --> 00:23:51,817
+No, no, this is different.
+
+272
+00:23:53,329 --> 00:23:54,999
+These tunnels, they do
+
+273
+00:23:55,067 --> 00:23:57,999
+strange things to sounds. You know, 
+like whispering chambers.
+
+274
+00:23:58,029 --> 00:23:59,643
+You know?
+
+275
+00:23:59,673 --> 00:24:02,800
+If there's a train coming,
+we're gonna know it, OK?
+
+276
+00:24:02,830 --> 00:24:04,127
+Come on.
+
+277
+00:24:08,614 --> 00:24:10,947
+- Go!
+- Run!
+
+278
+00:24:19,944 --> 00:24:21,843
+You were saying?
+
+279
+00:24:23,198 --> 00:24:25,671
+"I know these tunnels
+like the back of my hand."
+
+280
+00:24:25,701 --> 00:24:27,498
+For future reference, that's
+the back of your hand.
+
+281
+00:24:27,528 --> 00:24:31,206
+- That's your ass. That's your elbow.
+- You want to take lead, yeah?
+
+282
+00:24:31,236 --> 00:24:34,004
+Take point? Then go ahead.
+Be my guest. Go for it, Doc.
+
+283
+00:24:34,072 --> 00:24:37,381
+I'm sick of this Brooklyn-pride shit.
+Save it for somebody who cares.
+
+284
+00:24:37,411 --> 00:24:39,410
+You're used to having
+the last word, huh, Doc?
+
+285
+00:24:39,478 --> 00:24:41,614
+How does it feel to know
+that a pawnbroker
+
+286
+00:24:41,644 --> 00:24:43,897
+and a rat killer know
+more than you do, huh?
+
+287
+00:24:43,927 --> 00:24:45,239
+You've been waiting for this
+your whole life, haven't you?
+
+288
+00:24:45,269 --> 00:24:47,870
+Congratulations on
+the vampire apocalypse.
+
+289
+00:24:48,911 --> 00:24:50,555
+The first will be last.
+
+290
+00:24:50,585 --> 00:24:53,410
+- The last shall be first, Doc.
+- Enough!
+
+291
+00:24:53,440 --> 00:24:55,974
+Both of you! Pay attention!
+
+292
+00:25:12,526 --> 00:25:14,078
+We cannot afford to be seen.
+
+293
+00:25:14,146 --> 00:25:15,416
+Not yet.
+
+294
+00:25:28,211 --> 00:25:31,262
+It's a shitty way to go, even for them.
+
+295
+00:25:32,942 --> 00:25:35,350
+Now, I know another way to kill them.
+
+296
+00:25:35,612 --> 00:25:38,706
+Next outing, you carry
+the power transformer.
+
+297
+00:25:39,144 --> 00:25:43,343
+She was heading this way, so we're close.
+
+298
+00:25:43,373 --> 00:25:45,035
+Just be careful.
+
+299
+00:25:46,936 --> 00:25:49,528
+... they'll get any
+better. Widespread looting.
+
+300
+00:25:49,558 --> 00:25:52,758
+- Emergency services stretched.
+- Hello?
+
+301
+00:25:53,178 --> 00:25:55,719
+Infrastructure's crumbling,
+and there are serious concerns
+
+302
+00:25:55,749 --> 00:25:59,188
+that hydro and water services
+are in imminent danger of collapse.
+
+303
+00:25:59,218 --> 00:26:01,869
+Added to that, last night's events,
+
+304
+00:26:01,899 --> 00:26:04,424
+on the George Washington's
+Bridge particularly,
+
+305
+00:26:04,807 --> 00:26:07,509
+has sparked concerns over
+a recent wave of vigilantism
+
+306
+00:26:07,539 --> 00:26:09,846
+that has spread panic
+over law-abiding citizens.
+
+307
+00:26:09,876 --> 00:26:12,534
+And many citizens have
+actually decided to pull up
+
+308
+00:26:12,564 --> 00:26:15,156
+stakes and get out of town.
+We have one such gentleman
+
+309
+00:26:15,186 --> 00:26:17,245
+on the line right now. Marcus...
+
+310
+00:26:20,560 --> 00:26:22,662
+Ohhh, jackpot!
+
+311
+00:26:22,692 --> 00:26:24,348
+Sloppy seconds is more like it.
+
+312
+00:26:25,451 --> 00:26:27,436
+But food's food.
+
+313
+00:26:27,466 --> 00:26:29,502
+Check the cash register just in case.
+
+314
+00:26:29,532 --> 00:26:32,252
+And grab another bag to fill.
+We'll trade what we can't eat.
+
+315
+00:26:32,489 --> 00:26:34,119
+We might not find another
+store like this again.
+
+316
+00:26:34,149 --> 00:26:36,743
+Ohhh... Damn!
+
+317
+00:26:37,035 --> 00:26:39,958
+Hey, Val, the clerk, he, uh...
+
+318
+00:26:40,158 --> 00:26:42,894
+Don't be such a pussy.
+You want to eat, don't you?
+
+319
+00:26:43,077 --> 00:26:45,645
+Check the backroom,
+look for canned tuna.
+
+320
+00:27:50,885 --> 00:27:53,100
+- Oh, Jesus! Hey!
+- Let go of me!
+
+321
+00:27:53,130 --> 00:27:55,949
+What are you doing here, kid? Hey, Belle!
+
+322
+00:27:58,862 --> 00:28:02,028
+Where did you come from, kid?
+
+323
+00:28:02,320 --> 00:28:03,625
+Hey, uh...
+
+324
+00:28:03,846 --> 00:28:05,417
+Somebody else here.
+
+325
+00:28:14,112 --> 00:28:16,171
+Hey, watch it, kid.
+
+326
+00:28:22,894 --> 00:28:24,156
+Vamoose.
+
+327
+00:28:58,847 --> 00:29:00,815
+- Dead-end.
+- What the hell?
+
+328
+00:29:00,883 --> 00:29:04,210
+Where did all the vamps
+go? Where'd they...
+
+329
+00:29:04,240 --> 00:29:06,454
+How did they get through?
+
+330
+00:29:17,180 --> 00:29:19,591
+If I were hunting rats,
+
+331
+00:29:19,621 --> 00:29:22,033
+this is exactly where
+I'd assume they'd go.
+
+332
+00:29:22,063 --> 00:29:24,071
+Or if this is a trap.
+
+333
+00:29:24,776 --> 00:29:26,311
+Goddamn it!
+
+334
+00:30:30,656 --> 00:30:33,341
+All clear.
+
+335
+00:30:33,771 --> 00:30:35,576
+Shit. Behind us.
+
+336
+00:30:36,327 --> 00:30:37,331
+Go.
+
+337
+00:30:37,361 --> 00:30:39,692
+Hurry. I'll hold them off.
+
+338
+00:30:39,722 --> 00:30:41,856
+He knows we're here now.
+
+339
+00:30:42,250 --> 00:30:45,386
+Oh well, all the more reason to hurry.
+
+340
+00:31:03,872 --> 00:31:05,461
+Eph?
+
+341
+00:31:07,734 --> 00:31:09,019
+Eph?
+
+342
+00:31:10,919 --> 00:31:12,179
+Doctor!
+
+343
+00:31:12,763 --> 00:31:14,590
+Eph, are you there?
+
+344
+00:31:14,773 --> 00:31:16,584
+Give me a hand.
+
+345
+00:31:18,466 --> 00:31:20,187
+Dr. Goodweather!
+
+346
+00:31:20,492 --> 00:31:23,224
+I'm so cold.
+
+347
+00:31:23,254 --> 00:31:25,434
+Find me, Eph, I need you.
+
+348
+00:31:25,464 --> 00:31:27,699
+- Kelly?
+- Don't!
+
+349
+00:31:28,028 --> 00:31:31,506
+- Listen to me!
+- Don't let them hurt me.
+
+350
+00:31:32,401 --> 00:31:33,398
+Doctor!
+
+351
+00:31:33,428 --> 00:31:34,713
+No!
+
+352
+00:31:36,821 --> 00:31:38,720
+Listen to me!
+
+353
+00:31:41,964 --> 00:31:44,661
+- Doctor!
+- Something's happening.
+
+354
+00:31:45,118 --> 00:31:47,904
+Holding them off with the
+light isn't gonna get it done.
+
+355
+00:31:56,885 --> 00:31:58,796
+Go! Go now!
+
+356
+00:31:58,826 --> 00:32:00,049
+Go!
+
+357
+00:32:04,683 --> 00:32:06,053
+Eph!
+
+358
+00:32:27,242 --> 00:32:28,158
+Eph!
+
+359
+00:32:32,862 --> 00:32:34,049
+Eph?
+
+360
+00:33:01,949 --> 00:33:05,412
+Gah! Gaaah!
+
+361
+00:33:12,026 --> 00:33:13,453
+Gah!
+
+362
+00:33:13,854 --> 00:33:16,028
+- Ah! I'm stuck!
+- Go! Go!
+
+363
+00:33:21,462 --> 00:33:23,897
+Aaah!
+
+364
+00:33:40,559 --> 00:33:42,216
+Where are they?
+
+365
+00:33:45,138 --> 00:33:46,527
+Let's go.
+
+366
+00:33:57,714 --> 00:33:58,882
+Eph?
+
+367
+00:34:31,613 --> 00:34:35,072
+Eph, where are you? Hurry.
+
+368
+00:34:35,102 --> 00:34:37,037
+Kelly, I'm here.
+
+369
+00:34:46,953 --> 00:34:50,533
+Where is she? Goddamn it, come on!
+
+370
+00:34:50,864 --> 00:34:53,353
+What are you waiting for?! Come on!
+
+371
+00:35:11,210 --> 00:35:12,839
+Aaah!
+
+372
+00:35:14,609 --> 00:35:16,109
+Ugh! Ugh!
+
+373
+00:35:20,982 --> 00:35:25,187
+Have you come here to destroy me?
+
+374
+00:35:27,013 --> 00:35:30,257
+The old professor...
+
+375
+00:35:30,535 --> 00:35:32,226
+has a new pupil...
+
+376
+00:35:34,316 --> 00:35:38,727
+to fail... as he failed.
+
+377
+00:35:41,183 --> 00:35:44,228
+I have taken everything
+
+378
+00:35:44,258 --> 00:35:46,513
+from him.
+
+379
+00:35:46,787 --> 00:35:49,180
+And I...
+
+380
+00:35:49,210 --> 00:35:52,179
+will take everything...
+
+381
+00:35:52,669 --> 00:35:54,157
+from you.
+
+382
+00:35:55,344 --> 00:35:57,303
+Your wife...
+
+383
+00:35:58,874 --> 00:36:00,646
+your son.
+
+384
+00:36:02,749 --> 00:36:04,539
+I...
+
+385
+00:36:04,740 --> 00:36:08,160
+am a drinker of men.
+
+386
+00:36:16,994 --> 00:36:18,893
+Professore.
+
+387
+00:36:46,376 --> 00:36:49,169
+Mrs. Martinez!
+
+388
+00:36:53,427 --> 00:36:55,175
+Mrs. Martinez?
+
+389
+00:36:58,789 --> 00:37:00,842
+Mrs. Martinez?
+
+390
+00:37:08,448 --> 00:37:10,557
+Mrs. Martinez?
+
+391
+00:37:13,483 --> 00:37:15,456
+I got your cigarettes.
+
+392
+00:37:15,930 --> 00:37:18,529
+Oh, thank you!
+
+393
+00:37:23,522 --> 00:37:25,739
+Sweet young boy.
+
+394
+00:37:53,497 --> 00:37:56,942
+Did anyone see? Which way did he go?
+
+395
+00:37:56,972 --> 00:37:59,882
+- Which path?
+- Eph.
+
+396
+00:38:00,059 --> 00:38:03,181
+- We had him.
+- No, he had us.
+
+397
+00:38:03,692 --> 00:38:04,926
+Are you OK?
+
+398
+00:38:05,255 --> 00:38:07,021
+I think so.
+
+399
+00:38:07,459 --> 00:38:10,250
+- You saw him?
+- Yeah, I saw him.
+
+400
+00:38:10,318 --> 00:38:12,724
+I heard her voice.
+
+401
+00:38:13,980 --> 00:38:15,722
+Kelly.
+
+402
+00:38:15,989 --> 00:38:18,126
+She was calling out to me.
+
+403
+00:38:19,094 --> 00:38:22,029
+- He tricked me.
+- Of course, he tricked you!
+
+404
+00:38:22,213 --> 00:38:23,948
+How could you run off like that?
+
+405
+00:38:23,978 --> 00:38:27,551
+Hmm? We ended up hunting
+for you instead of that thing!
+
+406
+00:38:27,581 --> 00:38:30,893
+Why did you ignite the light
+bomb? It chased him away!
+
+407
+00:38:30,923 --> 00:38:32,674
+- We had no choice!
+- He was right there!
+
+408
+00:38:32,704 --> 00:38:36,009
+Right within my grasp! Now gone!
+
+409
+00:38:41,737 --> 00:38:44,769
+I'll not rest until the Master is destroyed!
+
+410
+00:38:44,799 --> 00:38:48,112
+And now, neither will he!
+
+411
+00:38:50,790 --> 00:38:54,227
+I'll break you, you...
+
+412
+00:38:54,295 --> 00:38:56,463
+strigoi!
+
+413
+00:38:56,531 --> 00:38:59,057
+Kill you! Die, you!
+
+414
+00:38:59,087 --> 00:39:02,038
+Die, strigoi!
+
+415
+00:39:05,774 --> 00:39:07,180
+Die!
+
+416
+00:39:12,490 --> 00:39:14,572
+This way!
+
+417
+00:39:19,440 --> 00:39:21,047
+How did you know he went this way?
+
+418
+00:39:21,077 --> 00:39:23,554
+The Master is here somewhere.
+
+419
+00:39:23,958 --> 00:39:26,070
+We should think this out, regroup.
+
+420
+00:39:26,100 --> 00:39:28,700
+And let them regroup?
+Why would we do that?
+
+421
+00:39:28,730 --> 00:39:31,535
+We may not get this chance again.
+
+422
+00:39:45,650 --> 00:39:48,609
+- Goddamn it!
+- Tough choice here, huh?
+
+423
+00:39:48,639 --> 00:39:50,773
+That's basically a random choice.
+
+424
+00:39:50,803 --> 00:39:51,924
+No.
+
+425
+00:39:51,954 --> 00:39:54,079
+Whoa, look... I get it,
+
+426
+00:39:54,109 --> 00:39:55,851
+I'm on your side, but this is crazy.
+
+427
+00:39:55,881 --> 00:39:59,392
+We've got him on the run! We
+must press on! Do what you like!
+
+428
+00:39:59,460 --> 00:40:01,357
+- Stop!
+- Hold on!
+
+429
+00:40:01,759 --> 00:40:03,273
+Flashlights off.
+
+430
+00:40:03,303 --> 00:40:04,693
+UV only.
+
+431
+00:40:04,723 --> 00:40:06,099
+Huh?
+
+432
+00:40:09,971 --> 00:40:11,583
+You see?
+
+433
+00:40:11,613 --> 00:40:14,236
+I was right! Now, let me go!
+
+434
+00:40:14,266 --> 00:40:17,487
+Stop! Wait. Nora.
+
+435
+00:40:17,517 --> 00:40:19,633
+What are we waiting for?
+
+436
+00:40:39,992 --> 00:40:42,802
+That's a lot of monsters.
+
+437
+00:40:44,234 --> 00:40:45,896
+No way, Pops!
+
+438
+00:40:45,926 --> 00:40:48,143
+He is here! Unhand me!
+
+439
+00:40:48,417 --> 00:40:50,198
+For God's sake, this is suicide!
+
+440
+00:40:50,228 --> 00:40:53,285
+No! No! No! No!
+
+441
+00:40:53,764 --> 00:40:58,996
+- sync & corrections by wolfen -
+- www.addic7ed.com -
+
+441
+00:40:59,305 --> 00:41:59,918
+Support us and become VIP member 
+to remove all ads from www.OpenSubtitles.org
