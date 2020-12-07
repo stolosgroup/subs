@@ -1,0 +1,1516 @@
+[INFORMATION]
+[AUTHOR]
+[SOURCE]
+[PRG]
+[FILEPATH]
+[DELAY]
+[CD TRACK]
+[COMMENT]
+[END INFORMATION]
+[SUBTITLE]
+[COLF]&HFFFFFF,[STYLE]no,[SIZE]18,[FONT]Arial
+00:00:14.00,00:00:20.00
+Subtםtulos por[br]<i>Profe Enrique</i>
+
+00:00:21.00,00:00:27.00
+Basados en subtםtulos originales por[br] <i>Yo Fede®</i>
+
+00:00:46.43,00:00:50.30
+Todos ustedes saben quien soy...
+
+00:00:50.38,00:00:55.89
+Nos encontramos una vez al aסo,[br]en Nochebuena.
+
+00:00:56.52,00:01:00.44
+Niסos y adultos, jovenes y ancianos:
+
+00:01:01.00,00:01:04.09
+Yo tambiיn fui niסo una vez.
+
+00:01:04.40,00:01:06.64
+¿Quי... no me creen?
+
+00:01:07.18,00:01:11.08
+Dיjenme contarles una historia.
+
+00:01:11.52,00:01:16.02
+HISTORIA DE NAVIDAD
+
+00:01:33.35,00:01:35.57
+Nikolas... Nikolas cariסo
+
+00:01:36.42,00:01:42.57
+Aada tiene mucha fiebre[br]Tu padre y yo la llevarיmos al pueblo
+
+00:01:44.47,00:01:47.38
+Con esta leסa tendrבs[br]bastante hasta que volvamos
+
+00:01:48.26,00:01:55.00
+Mira... cuando las agujas lleguen ahם,[br]estaremos de regreso
+
+00:01:55.16,00:01:58.50
+Atajando por el hielo llegamos antes
+
+00:01:58.59,00:02:06.00
+Mientras podrםas ir terminando[br]el regalo de Aada, ¿no te parece?
+
+00:02:11.82,00:02:16.80
+¿De donde habrבs sacado la idea de[br]hacer regalos en Navidad?
+
+00:02:17.00,00:02:19.31
+De todos modos, es una bonita idea.
+
+00:03:44.24,00:03:45.27
+Nikolas...
+
+00:03:46.77,00:03:51.40
+...encontramos las huellas de[br]tus padres en el hielo
+
+00:03:51.48,00:03:56.18
+Iban derecho hacia la parte derretida
+
+00:04:00.14,00:04:02.65
+Lo siento mucho
+
+00:04:59.00,00:05:03.06
+Por supuesto que ninguno[br]de nosotros quiere...
+
+00:05:03.16,00:05:06.50
+...que un huיrfano se muera de hambre, [br]ni que se quede en el frםo...
+
+00:05:06.60,00:05:12.10
+...pero ya tenemos tres niסos pequeסos[br]- Asם tenemos todos
+
+00:05:12.13,00:05:16.70
+Las mujeres de los pescadores ya sabemos[br]lo duro que es. En cuanto a Nikolas...
+
+00:05:16.75,00:05:19.70
+Por quי no lo echamos al lago[br]con sus padres
+
+00:05:20.00,00:05:22.16
+Asם no habrםa problemas
+
+00:05:23.49,00:05:29.00
+A mi no me importa hacerlo si[br]ustedes no se animan
+
+00:05:31.38,00:05:33.80
+¡Miren como se corre![br]El chico no entiende el humor
+
+00:05:40.03,00:05:41.99
+Escuchen, tengo una idea
+
+00:05:42.52,00:05:47.30
+Kristiina y yo nos encargaremos[br]del chico una temporada
+
+00:05:47.41,00:05:51.74
+He tenido suerte con la pesca,[br]y hemos ahorrado algo...
+
+00:05:51.95,00:05:56.50
+...y creo que podemos[br]alimentar una boca mבs...
+
+00:05:56.60,00:05:58.26
+...por lo menos este invierno
+
+00:05:58.28,00:06:03.01
+Yo creo que el pueblo entero es[br]responsable del niסo, todos juntos
+
+00:06:03.70,00:06:06.47
+¿Cuantos jefes de familia[br]estבn presentes?
+
+00:06:09.21,00:06:12.34
+...cuatro, cinco, seis...
+
+00:06:14.71,00:06:22.47
+¿Que les parece si cada familia[br]cuida el niסo durante un aסo?
+
+00:06:23.77,00:06:26.52
+Seguramente un aסo podremos todos
+
+00:06:26.66,00:06:30.36
+¡Conmigo no cuenten para esas tonterםas!
+
+00:06:30.60,00:06:35.08
+Tu no vives en este pueblo, Iisakki,[br]no es asunto tuyo.
+
+00:06:35.13,00:06:37.48
+¡Deja ya de gruסir!
+
+00:06:45.76,00:06:48.41
+Bien, entre todos nos[br]ocuparemos de Nikolas
+
+00:06:50.26,00:06:53.00
+La familia de Hannus serב la primera
+
+00:06:53:02,00:06:57.65
+Y el niסo se mudarב cada dםa de Navidad
+
+00:06:57.69,00:07:00.49
+¿Estamos todos de acuerdo?
+
+00:07:00.69,00:07:02.55
+Bien.
+
+00:07:08.61,00:07:11.27
+¡Feliz Navidad, hermanita Aada!
+
+00:07:38.80,00:07:45.27
+<i>No podםa olvidar a mis padres,[br]ni a mi hermana Aada</i>
+
+00:07:45.83,00:07:51.95
+<i>Supe que no volverםa a verlos,[br]y los echי mucho de menos</i>
+
+00:08:12.50,00:08:14.49
+Gracias
+
+00:08:16.23,00:08:18.70
+Dame
+
+00:08:35.98,00:08:39.16
+<i>Pero el tiempo hace maravillas,[br]y en otoסo el dolor</i>
+
+00:08:40.30,00:08:42.76
+<i>de mi pena era mucho menor</i>
+
+00:08:47.23,00:08:49.59
+Se me ha roto el barco,[br]¿me lo arreglas?
+
+00:08:49.61,00:08:51.42
+Que te la arregle tu padre
+
+00:08:52.01,00:08:54.15
+Mi papa se ha ido a pescar al lago
+
+00:08:55.00,00:08:56.19
+Pues entonces tu madre
+
+00:08:56.78,00:08:58.40
+Mamב no sabe
+
+00:08:59.70,00:09:01.38
+Dיjame ver
+
+00:09:12.32,00:09:13.73
+¡Sigue barquito!
+
+00:09:14.93,00:09:17.01
+¿Por quי no viene hacia mi?
+
+00:09:21.99,00:09:24.92
+¡Vamos!
+
+00:09:41.87,00:09:46.40
+<i>Entonces no lo sabia, pero Eemeli[br]iba a convertirse en un amigo</i>
+
+00:09:47.82,00:09:49.70
+<i>...en mi mejor amigo</i>
+
+00:09:50.59,00:09:52.76
+¡Bien tirado! Ves cףmo salta el agua
+
+00:09:52.89,00:09:55.85
+He encontrado una muy buena
+
+00:09:55.92,00:09:58.29
+Estira el brazo hacia atrבs, [br]y luego tira
+
+00:10:08.10,00:10:09.50
+Sujיtame aquם, eso es
+
+00:10:10.82,00:10:13.49
+Uno, dos y... tres
+
+00:10:25.78,00:10:28.38
+<i>Y llegף el momento que estaba[br]temiendo:</i>
+
+00:10:30.37,00:10:33.29
+<i>Tenia que cambiar de familia[br]por primera vez</i>
+
+00:10:37.34,00:10:39.65
+¿Seguro que sabes donde es?
+
+00:10:41.04,00:10:42.19
+Adiףs
+
+00:10:42.55,00:10:44.17
+Adiףs
+
+00:11:11.13,00:11:15.50
+<i>Los aסos, las familias y las[br]Navidades venםan una tras otra</i>
+
+00:11:16.73,00:11:22.29
+<i>Todos los aסos hacia regalos[br]a los niסos de todas mis familias</i>
+
+00:11:23.54,00:11:26.95
+<i>Con el paso de los aסos[br]cada vez habםa mas niסos y regalos...</i>
+
+00:11:26.97,00:11:30.65
+<i>...y tenםa que dejar los regalos[br]a sus puertas por la noche...</i>
+
+00:11:30.69,00:11:34.75
+<i>...para que los encuentren[br]a la maסana siguiente</i>
+
+00:11:35.54,00:11:38.12
+<i>Me venםa bien...</i>
+
+00:11:38.24,00:11:41.19
+<i>...no querםa que se armara[br]bullicio por los regalos</i>
+
+00:11:41.21,00:11:49.37
+<i>Si venםan a darme las gracias despuיs,[br]hacםa como si no supiera nada.</i>
+
+00:11:59.09,00:12:03.24
+<i>A los 6 aסos las cosas no[br]sucedieron como deberםan</i>
+
+00:12:03.34,00:12:06.48
+<i>Fue un aסo duro para[br]todo el pueblo</i>
+
+00:12:06.52,00:12:10.60
+<i>La heladas habםan arruinado[br]la cosecha de cereales...</i>
+
+00:12:10.64,00:12:16.00
+<i>...y era como si el lago[br]se hubiese vaciado de peces</i>
+
+00:12:36.28,00:12:38.78
+Hoy tampoco habrב[br]pescado en el mercado
+
+00:12:39.37,00:12:40.32
+No, no hay nada
+
+00:12:40.80,00:12:41.67
+Es una pena
+
+00:12:43.80,00:12:50.76
+<i>Si las cosas no cambiaban[br]ninguna familia podrםa tenerme</i>
+
+00:13:38.77,00:13:41.50
+¿Eemeli, quי pasa?
+
+00:13:41.99,00:13:44.51
+¡Es Iisakki, el loco![br]¡Corre!
+
+00:13:51.97,00:13:55.41
+Vengan todos, preparen[br]sus casas para la Navidad
+
+00:13:56.09,00:13:59.31
+Cajas, cucharas, cubos, espבtulas
+
+00:13:59.85,00:14:01.87
+¡Preciosos cucharones y tenedores!
+
+00:14:02.59,00:14:05.26
+¡Todo fabricado en madera!
+
+00:14:05.94,00:14:10.06
+Y si no lo tengo aquם...[br]¡Lo encargamos!
+
+00:14:15.11,00:14:17.23
+Muchacho, ven aquם
+
+00:14:23.52,00:14:28.31
+Esto no me lo has comprado a mi
+
+00:14:30.24,00:14:36.80
+¿Hay otros carpinteros en este pueblo?[br]¿Por eso no compran mi mercancםa?
+
+00:14:36.86,00:14:38.92
+Ha sido un mal aסo, y nadie tiene dinero
+
+00:14:39.20,00:14:42.07
+Ni siquiera nos alcanza el alimento[br]para pasar el invierno
+
+00:14:42.10,00:14:44.76
+¿A quiיn le has comprado esto?[br]¡Contestame!
+
+00:14:45.16,00:14:46.56
+A nadie, lo hice yo
+
+00:14:46.69,00:14:49.10
+No me vengas con cuentos
+
+00:14:51.34,00:14:53.15
+¿Y tת de quien eres ademבs?
+
+00:14:54.58,00:14:56.15
+De nadie
+
+00:14:56.87,00:15:02.37
+Es verdad, eres el pobre diablo[br]que anda vagando de casa en casa
+
+00:15:05.37,00:15:06.52
+¿Donde estבn los demבs?
+
+00:15:07.64,00:15:09.54
+En la reuniףn del pueblo
+
+00:15:10.47,00:15:14.12
+¿Y que les pasa ahora para que hayan[br]organizado una reuniףn?
+
+00:15:14.92,00:15:18.64
+Estבn pensando quי hacer conmigo,[br]nadie puede mantenerme
+
+00:15:19.04,00:15:23.80
+No me extraסa, seguro que comes tanto[br]que has arruinado al pueblo
+
+00:15:24.35,00:15:28.35
+Tenםan que haberte echado al lago
+
+00:15:28.80,00:15:30.29
+¡Vamos, largo de aquם!
+
+00:15:38.04,00:15:41.97
+Pero, ¿por quי?[br]Ni siquiera te gustan los niסos
+
+00:15:42.66,00:15:44.45
+Porque me ayudara en el trabajo
+
+00:15:45.36,00:15:48.01
+Ya sabemos como eres, Iisakki
+
+00:15:50.52,00:15:54.42
+Voy a hacer un hombre[br]de este escuבlido niסo...
+
+00:15:55.28,00:15:57.87
+...y en menos de un aסo.
+
+00:15:58.09,00:16:01.50
+Pero bueno, si no quieren...
+
+00:16:01.89,00:16:04.18
+Espera un momento, Iisakki
+
+00:16:06.74,00:16:09.19
+Tenemos que considerarlo
+
+00:16:09.36,00:16:14.95
+¿Quי hay que considerar? Estב mejor conmigo[br]que muriיndose de hambre...
+
+00:16:14.98,00:16:18.48
+...por las esquinas de este pobre pueblo.[br]¿No es asם?
+
+00:16:39.02,00:16:43.15
+Probablemente sea la ultima vez[br]que venga a visitarte
+
+00:16:44.28,00:16:46.32
+Iisakki vive muy lejos de aquם
+
+00:16:51.88,00:16:54.35
+Feliz Navidad, pequeסa Aada
+
+00:17:13.81,00:17:16.30
+Nikolas, ven a ver esto
+
+00:17:21.76,00:17:23.58
+Nikolas...
+
+00:17:26.14,00:17:29.40
+Han pasado 6 aסos desde que[br]te quedaste huיrfano...
+
+00:17:29.51,00:17:32.04
+...y te viniste a vivir con nosotros
+
+00:17:32.16,00:17:35.55
+Al principio sentם pena por no poder...
+
+00:17:35.60,00:17:42.00
+...encontrarte una familia permanente[br]que te cuidara para siempre
+
+00:17:42.07,00:17:46.00
+Tuviste que ir de casa en casa...
+
+00:17:46.10,00:17:51.27
+...y quedarte un aסo solamente[br]con cada familia
+
+00:17:51.70,00:17:58.33
+Hoy creo que ninguna de esas familias[br]se arrepiente de esa soluciףn
+
+00:17:58.36,00:18:00.88
+Todos hemos podido conocerte
+
+00:18:02.41,00:18:07.54
+Y de esa forma te has convertido[br]en el hijo de todos
+
+00:18:07.68,00:18:09.89
+Y en nuestro hermano
+
+00:18:10.00,00:18:14.85
+Por eso, y en agradecimiento,[br]especialmente de parte de los niסos...
+
+00:18:14.87,00:18:21.00
+...queremos darte una cosa para[br]que te acuerdes de nosotros
+
+00:18:26.01,00:18:27.51
+Pero no puedo
+
+00:18:27.73,00:18:32.00
+Claro que puedes, este trineo es tuyo
+
+00:18:38.94,00:18:40.55
+¿Todavםa estas aquם?
+
+00:18:41.00,00:18:44.16
+Ven rבpido, o harבs[br]todo el camino a pie
+
+00:19:03.85,00:19:05.26
+¡Arre!
+
+00:19:46.22,00:19:50.34
+¿El pequeסo huיrfano tiene miedo[br]y va a empezar a llorar?
+
+00:19:51.23,00:19:54.24
+¡Vamos Ginger, llיvanos a casa!
+
+00:20:08.00,00:20:12.11
+No te quedes ahם sentado.[br]¡Quםtale el arnיs al caballo!
+
+00:20:12.74,00:20:15.54
+Yo voy a la casa a encender[br]el hogar
+
+00:20:15.88,00:20:18.74
+Y este trineo se queda en el establo
+
+00:20:19.59,00:20:23.66
+No tenemos tiempo para juegos.[br]¡Aquם se viene a trabajar! ¡Muיvete!
+
+00:20:42.26,00:20:43.58
+Dormirבs ahם
+
+00:20:43.79,00:20:46.46
+- Es que...[br]- ¡Callate la boca!
+
+00:20:46.52,00:20:49.50
+¿Se te ha olvidado acaso[br]adonde has venido?
+
+00:20:49.60,00:20:51.59
+A partir de ahora me[br]llamaras Maestro
+
+00:20:51.61,00:20:53.26
+- Sם.[br]- Sם quי?
+
+00:20:53.76,00:20:54.47
+Sם, Maestro
+
+00:20:54.62,00:20:55.76
+Bien.
+
+00:20:55.92,00:20:59.76
+Tu nombre ahora va a ser Rapב[br]que pega mas que Nikolas
+
+00:20:59.82,00:21:03.00
+Ese va a ser tu nido. ¡Apurate!
+
+00:21:35.43,00:21:38.38
+Arriba Rapב, hay que trabajar
+
+00:21:46.86,00:21:47.65
+Bien
+
+00:21:49.20,00:21:50.99
+Vamos al taller
+
+00:21:51.68,00:21:53.28
+Tu primero, vamos andando
+
+00:21:53.95,00:21:56.26
+Pero... ¿donde estב?
+
+00:21:56.60,00:21:58.31
+Estas encima
+
+00:22:34.67,00:22:37.04
+¿Quי dices, Rapב?
+
+00:22:41.30,00:22:43.26
+Mira este aparador...
+
+00:22:44.61,00:22:47.42
+...su belleza esta en sus maderas preciosas
+
+00:22:48.50,00:22:51.46
+Con esta madera se gana mucho dinero
+
+00:22:52.04,00:22:55.80
+Los utensilios de cocina[br]son unas tonterםas
+
+00:22:56.00,00:22:59.15
+Estos van a los terratenientes,[br]a los alcaldes...
+
+00:22:59.17,00:23:02.80
+...y a otra gente importante.[br]Este es para un magistrado
+
+00:23:02.95,00:23:06.00
+¿Esa silla tambiיn es para el magistrado?
+
+00:23:07.79,00:23:11.14
+Esa es de pino, y estos son de arce
+
+00:23:12.16,00:23:15.50
+¿No sabes distinguir[br]un tipo de madera de otra?
+
+00:23:15.68,00:23:20.00
+Creo que me he equivocado,[br]nunca serבs carpintero
+
+00:23:20.97,00:23:26.00
+No se ha equivocado Maestro,[br]yo aprendo rבpido
+
+00:23:26.05,00:23:27.35
+Aprendes rבpido, ¿eh?
+
+00:23:27.96,00:23:33.00
+A ver lo rבpido que aprendes a limpiar[br]¡vamos, andando!
+
+00:23:35.56,00:23:36.93
+¿Y ahora donde vas?
+
+00:23:37.98,00:23:38.90
+Arriba
+
+00:23:39.50,00:23:44.00
+¿Por quי vas arriba[br]para limpiar aquם abajo?
+
+00:23:44.72,00:23:46.53
+Esto estב limpio
+
+00:23:49.85,00:23:52.54
+Hay aserrםn en los bancos de carpinterםa...
+
+00:23:53.09,00:23:57.00
+...y si se mezcla con el barniz[br]se echa todo a perder
+
+00:23:58.60,00:24:00.35
+Lecciףn nתmero 1:
+
+00:24:00.86,00:24:05.23
+El lugar de trabajo se mantiene[br]en perfecto estado de limpieza
+
+00:24:05.91,00:24:07.94
+Lecciףn nתmero 2:
+
+00:24:08.53,00:24:11.48
+Dame ese cuchillo que tienes
+
+00:24:14.01,00:24:16.75
+Esto no tocarב mi madera
+
+00:24:20.07,00:24:24.29
+- ¿Quי pasa?[br]- Era el cuchillo de mi padre
+
+00:24:27.49,00:24:31.09
+Toma un buen cuchillo de esa estanterםa
+
+00:25:54.44,00:25:56.79
+Vete a dormir
+
+00:26:00.17,00:26:02.85
+Pero antes apaga todas[br]las velas
+
+00:26:31.55,00:26:35.06
+- ¿Por quי?[br]- No tiene nudos en el tronco
+
+00:27:22.50,00:27:26.07
+¿Cףmo voy a poder[br]encontrar mis cosas?
+
+00:28:29.08,00:28:30.20
+Maestro...
+
+00:28:32.77,00:28:35.53
+...va a terminar el aסo[br]y me gustarםa ir al pueblo...
+
+00:28:36.25,00:28:39.05
+...a darles las gracias por todo[br]lo que han hecho por mi...
+
+00:28:41.27,00:28:45.01
+Habםa pensado en pedirle[br]el dםa libre
+
+00:28:45.76,00:28:47.96
+¡Nada de eso!
+
+00:28:48.13,00:28:50.28
+Con el poco tiempo que queda[br]no puedes perderlo...
+
+00:28:50.36,00:28:52.38
+...haciendo otra cosa que[br]no sea trabajar
+
+00:28:58.33,00:29:00.55
+Un dםa libre, nada menos
+
+00:29:19.61,00:29:21.70
+¿Quי haces aquם a medianoche?
+
+00:29:22.12,00:29:24.35
+¿Por quי no estas en la cama?
+
+00:29:30.13,00:29:32.25
+Me has estado robando madera
+
+00:29:32.87,00:29:35.96
+Son trozos que usted habםa[br]desechado, Maestro
+
+00:29:36.38,00:29:39.99
+Asם que te dedicas a hacer esto[br]en cuanto te doy la espalda
+
+00:29:46.24,00:29:48.08
+Lo siento, Maestro
+
+00:29:54.67,00:29:57.82
+No estב tan mal
+
+00:29:59.77,00:30:02.12
+Trבeme un clavo sin cabeza
+
+00:30:03.74,00:30:05.25
+Trabajar a oscuras...
+
+00:30:05.90,00:30:08.40
+...la mejor manera de[br]estropearse los ojos
+
+00:30:13.10,00:30:14.97
+Ya estב
+
+00:30:22.78,00:30:24.71
+Ya no se nota
+
+00:30:26.90,00:30:31.19
+En alguna parte hay un montףn[br]de muסecos como este, ¿verdad?
+
+00:30:44.55,00:30:48.04
+¡Tienes que querer mucho[br]a esos chicos!
+
+00:30:48.12,00:30:51.88
+Y como no te doy el dםa libre has[br]pensado en escaparte...
+
+00:30:51.93,00:30:55.24
+...para dבrselos como[br]regalo de Navidad
+
+00:30:55.26,00:30:57.63
+Eso ya lo sabםa
+
+00:30:58.78,00:31:01.36
+Muy bien, veo que nada[br]harב que cambies de idea
+
+00:31:01.85,00:31:04.90
+Pero recuerda, vuelve antes[br]de que amanezca
+
+00:31:04.98,00:31:09.30
+No quiero holgazanes ni en[br]el dםa de Navidad. ¿Entendiste?
+
+00:31:22.50,00:31:27.00
+- Maestro...[br]- Ni una palabra, o cambio de opiniףn
+
+00:31:27.26,00:31:32.00
+Quizבs, podrםas hacer tus[br]juguetitos por las tardes
+
+00:31:32.17,00:31:36.60
+Incluso te darםa una mano y asם[br]duermo tranquilo por las noches
+
+00:31:36.63,00:31:42.00
+Ja... pasarse la noche en vela[br]haciendo juguetes para unos niסos
+
+00:31:55.00,00:31:57.70
+Por fin estבs ahם, Rapב
+
+00:31:58.00,00:32:02.00
+No sabםa si te quedaste dormido[br]o empezaste con la hibernaciףn
+
+00:32:02.07,00:32:05.72
+Ya he puesto tus cosas delante
+
+00:32:08.47,00:32:10.24
+¿Quי miras?
+
+00:32:10.76,00:32:13.50
+Con tu trineo nunca hubieras[br]llegado al amanecer...
+
+00:32:13.53,00:32:18.50
+...y hubiיramos perdido tu[br]ultimo dםa de trabajo. ¡Sube!
+
+00:32:21.62,00:32:23.06
+¡Vamos!
+
+00:32:38.50,00:32:40.35
+Esa era la ultima casa
+
+00:32:41.71,00:32:42.92
+Esto...
+
+00:32:43.56,00:32:44.81
+Esto es ridםculo
+
+00:32:45.80,00:32:47.24
+Tת, lo entiendo...
+
+00:32:47.88,00:32:49.74
+...pero yo, un viejo a mi edad
+
+00:32:50.31,00:32:51.53
+Vamos a casa
+
+00:32:51.70,00:32:53.83
+Me queda un sitio mבs
+
+00:32:58.54,00:33:03.26
+Espera un momento.[br]Dיjame ver eso
+
+00:33:06.31,00:33:10.43
+Una vez yo hice una cosa asם...
+
+00:33:10.49,00:33:13.80
+...cuando mis chicos eran pequeסos
+
+00:33:13.94,00:33:16.42
+¿Quי chicos?
+
+00:33:16.93,00:33:23.40
+Yo tenia dos hijos,[br]Hermanni y Henrik...
+
+00:33:23.48,00:33:26.00
+...y una esposa, Margit...
+
+00:33:26.11,00:33:31.00
+...que muriף cuando los niסos[br]tenםan tu edad
+
+00:33:32.20,00:33:37.20
+Ellos se fueron al mar,[br]y me dejaron sףlo...
+
+00:33:37.30,00:33:41.30
+...porque me habםa convertido en...
+
+00:33:41.36,00:33:46.60
+En todos los chicos que veo[br]sigo viendo a Henrik y a Hermanni
+
+00:33:46.64,00:33:51.20
+Por eso soy tan antipבtico[br]con los niסos...
+
+00:33:51.45,00:33:56.02
+...porque sigo echando de menos[br]a mis hijos perdidos
+
+00:33:59.75,00:34:02.92
+Lo que intento decir es...
+
+00:34:03.84,00:34:07.56
+...que puedes quedarte conmigo
+
+00:34:13.37,00:34:15.73
+Feliz Navidad, Nikolas
+
+00:34:26.00,00:34:29.12
+El cuchillo de mi padre
+
+00:34:30.00,00:34:32.05
+Gracias, Maestro
+
+00:34:32.41,00:34:37.88
+Si quieres puedes llamarme Iisakki,[br]desde ahora
+
+00:34:45.89,00:34:47.69
+Feliz Navidad, Aada
+
+00:34:48.94,00:34:51.06
+Feliz Navidad, Aada
+
+00:34:52.85,00:34:54.71
+Feliz Navidad, Iisakki
+
+00:34:57.19,00:34:59.30
+¡Feliz Navidad, Nikolas!
+
+00:35:08.42,00:35:10.55
+<i>Esa Navidad todo cambiף</i>
+
+00:35:11.26,00:35:14.72
+<i>El pueblo se fue recuperando[br]de unos aסos de pobreza</i>
+
+00:35:14.78,00:35:17.55
+<i>y mi vida de vagabundo[br]por fin terminף</i>
+
+00:35:18.00,00:35:20.40
+<i>Iisakki me dio un verdadero hogar</i>
+
+00:35:20.46,00:35:24.47
+<i>Y no tenםa que irme[br]de casa a casa</i>
+
+00:36:02.90,00:36:05.96
+¡Muebles de artesanםa!
+
+00:36:48.78,00:36:51.14
+<i>Los aסos con Iisakki pasaron muy rבpido</i>
+
+00:36:54.55,00:37:02.00
+<i>Y de repente me habםa convertido[br]en un hombre, con barba y todo</i>
+
+00:37:23.89,00:37:27.46
+<i>El pueblo tambiיn habםa crecido...</i>
+
+00:37:27.91,00:37:32.95
+<i>...y habםan nacido tantos niסos...</i>
+
+00:37:33.07,00:37:37.00
+<i>...que Iisakki y yo[br]apenas podםamos contarlos</i>
+
+00:37:37.89,00:37:42.00
+<i>Pero tenםamos un[br]ayudante secreto</i>
+
+00:38:11.14,00:38:12.78
+Nikolas
+
+00:38:13.24,00:38:14.81
+Eemeli
+
+00:38:15.35,00:38:17.40
+Tanto tiempo sin verte
+
+00:38:17.97,00:38:19.57
+Deberםas venir mas seguido
+
+00:38:20.03,00:38:22.76
+He tenido mucho trabajo.[br]Iisakki ya no trabaja rבpido
+
+00:38:23.48,00:38:24.83
+¿Tienes la lista?
+
+00:38:35.52,00:38:36.69
+Aha
+
+00:38:38.01,00:38:40.10
+Otra vez niסos nuevos
+
+00:38:40.79,00:38:44.71
+En realidad ahם falta otro nombre...
+
+00:38:46.13,00:38:47.24
+Elsa
+
+00:38:53.46,00:38:54.12
+Es...
+
+00:38:54.57,00:38:56.72
+Una niסa, tiene tres meses
+
+00:38:57.21,00:38:59.86
+Vamos a aסadir su nombre a la lista
+
+00:39:00.41,00:39:04.40
+Y esta princesita,[br]¿cףmo se llama?
+
+00:39:04.73,00:39:06.50
+Aada
+
+00:39:09.58,00:39:11.09
+Aada
+
+00:39:17.59,00:39:19.81
+Hola Aada
+
+00:39:48.11,00:39:49.32
+Nikolas
+
+00:39:50.69,00:39:54.24
+Te presento a[br]Henrik y Hermanni
+
+00:39:55.12,00:39:56.88
+Mis hijos
+
+00:39:59.80,00:40:04.50
+Los busque, los encontrי y[br]les pedם que vinieran
+
+00:40:05.49,00:40:06.63
+Sם
+
+00:40:10.19,00:40:12.43
+Hace tiempo nos equivocamos...
+
+00:40:14.01,00:40:17.45
+...y queremos arreglar el error
+
+00:40:18.03,00:40:20.54
+Hemos venido a pedirle que[br]se venga a vivir con nosotros
+
+00:40:21.03,00:40:23.10
+¿Con ustedes,[br]donde?
+
+00:40:23.78,00:40:25.66
+Lejos de este frםo norte
+
+00:40:26.59,00:40:30.02
+Mi padre ya es muy mayor para[br]vivir en condiciones tan duras
+
+00:40:30.39,00:40:32.00
+Y yo quי?
+
+00:40:32.39,00:40:35.76
+Te quedas con la casa[br]y el taller
+
+00:40:36.48,00:40:38.15
+Te los mereces
+
+00:40:40.33,00:40:42.33
+Espera, Nikolas
+
+00:40:52.74,00:40:54.33
+Nikolas
+
+00:41:03.90,00:41:07.78
+Nikolas, comprיndelo
+
+00:41:09.26,00:41:13.23
+Sabes que te quiero[br]como si fueras mi hijo...
+
+00:41:13.31,00:41:16.04
+...pero aun asם...
+
+00:41:19.66,00:41:24.85
+Toma, esto abre el cofre[br]que estב bajo mi cama
+
+00:41:26.72,00:41:31.52
+He vivido con austeridad,[br]quizבs con demasiada
+
+00:41:31.77,00:41:36.48
+Estoy seguro que te tomaras[br]las cosas mejor que yo
+
+00:41:36.50,00:41:42.22
+Comprיndelo
+
+00:43:59.74,00:44:01.36
+Nikolas
+
+00:44:08.93,00:44:10.27
+Eemeli
+
+00:44:10.92,00:44:14.68
+- Nikolas, hola.[br]- Hola.
+
+00:44:17.00,00:44:19.73
+- Donde has estado?[br] - Aquם
+
+00:44:21.00,00:44:22.50
+¡Aquם!
+
+00:44:22.60,00:44:24.50
+Me faltan muchas cosas todavםa
+
+00:44:24.65,00:44:28.20
+Pero tienes aquם regalos[br]para diez aסos, por lo menos
+
+00:44:28.22,00:44:31.66
+Nם siquiera para יsta Navidad
+
+00:44:31.91,00:44:32.90
+¿Quי es eso?
+
+00:44:33.00,00:44:34.74
+Un mapa
+
+00:44:35.00,00:44:42.37
+Ahם, ahם, a ese pueblito,[br]a esas casas, ahם, ahם...
+
+00:44:42.40,00:44:44.70
+...ahם, ahם, ¡regalos de Navidad!
+
+00:44:44.94,00:44:46.80
+- ¿Regalos de Navidad? [br] - ¡Sם!
+
+00:44:46.90,00:44:51.41
+¿Pero cףmo sabrבs adonde va cada cosa?
+
+00:44:51.83,00:44:54.15
+- Eso es muy sencillo[br] - ¿Cףmo?
+
+00:44:54.26,00:44:57.37
+A partir de ahora envolverי[br]los regalos y escribirי los nombres
+
+00:44:57.39,00:45:00.54
+- ¿Harבs paquetes? [br] - Sם, es genial, ¿no?
+
+00:45:01.29,00:45:04.04
+¿Pero cףmo vas a hacer todo eso?
+
+00:45:10.59,00:45:14.00
+Iisakki ahorrף todo esto con[br]lo que ganף con su trabajo
+
+00:45:14.02,00:45:18.61
+Podrי llevar alegrםa a los[br]niסos todas las Navidades de mi vida
+
+00:45:18.80,00:45:22.24
+Nikolas, nadie vive solo para la Navidad
+
+00:45:24.11,00:45:27.10
+Piensa en lo egoםsta que he sido...
+
+00:45:27.13,00:45:29.90
+...solo he hecho regalos[br]a los niסos que me ayudaron
+
+00:45:30.27,00:45:35.40
+- ¿Egoםsta?[br]- Mejor que sףlo se me verבn en Nochebuena
+
+00:45:35.55,00:45:37.49
+Nikolas, Nikolas
+
+00:45:37.95,00:45:42.06
+Irי una vez al aסo a la tienda[br]a comprar provisiones...
+
+00:45:42.08,00:45:44.07
+...y a recoger la lista de los nuevos niסos
+
+00:45:44.10,00:45:47.85
+Hay mבs en la vida que Navidad
+
+00:45:49.92,00:45:51.89
+¿Quי otra cosa hay?
+
+00:45:51.99,00:45:54.01
+Es una tarea imposible
+
+00:45:54.65,00:45:57.74
+Nunca podrבs cargar tantas cosas...
+
+00:45:57.76,00:46:02.03
+...y el pobre Ginger estב casi[br]incapaz de moverse
+
+00:46:03.00,00:46:06.50
+- No puede ser[br]- Sם puede ser
+
+00:46:06.55,00:46:08.87
+No puede ser. Falta[br]poco para la Navidad
+
+00:46:08.89,00:46:11.80
+- Los animales aprenden enseguida[br]- Son renos, no caballos
+
+00:46:11.96,00:46:19.00
+Hilla, esto es un juego de niסos.[br]¡Y los niסos son mi especialidad!
+
+00:46:19.29,00:46:21.00
+Prueba si quieres
+
+00:46:21.48,00:46:27.39
+Los renos me hacen caso[br]por mi gorro rojo
+
+00:46:27.74,00:46:33.17
+Hilla, ese color asustarםa[br]hasta a las ardillas
+
+00:46:33.25,00:46:36.88
+Me obedecerבn aunque[br]me ponga un tacho en la cabeza
+
+00:46:41.25,00:46:44.44
+No necesito ningתn gorro rojo
+
+00:46:49.00,00:46:55.40
+Bien, vamos todo en fila,[br]¡abajo los cuernos!
+
+00:46:55.50,00:46:57.93
+Vengan con Nikolas
+
+00:46:58.01,00:47:02.40
+Rudolph, Bailarםn, Acrףbata y Blindar,[br]¡es hora de aprender!
+
+00:47:02.99,00:47:06.30
+Primera lecciףn, el lazo
+
+00:47:06.32,00:47:08.74
+Bailarםn, siיntate
+
+00:47:09.30,00:47:10.49
+Siיntate
+
+00:47:11.48,00:47:12.63
+Quieto
+
+00:48:01.72,00:48:08.43
+Un gorro rojo, un abrigo rojo,[br]y unos pantalones tambiיn
+
+00:48:08.89,00:48:10.50
+¿De quי color?
+
+00:48:11.14,00:48:12.95
+Los quiero rojos
+
+00:48:14.09,00:48:15.85
+¿Cףmo has dicho?
+
+00:48:17.18,00:48:19.44
+Rojos
+
+00:48:27.02,00:48:31.00
+Ahora van a saber...
+
+00:50:10.66,00:50:14.81
+A ver Aada, muיstranos[br]lo que te ha dejado
+
+00:50:18.27,00:50:22.29
+- Un trompo[br]- Muy bonito
+
+00:50:24.68,00:50:28.72
+<i>Despuיs de unos aסos los niסos[br]empezaron a hablar...</i>
+
+00:50:28.83,00:50:33.20
+<i>...sobre el hombre que traםa[br]los regalos de Navidad</i>
+
+00:50:33.27,00:50:39.02
+<i>Algunos juraban haber visto[br]duendes repartiendo los juguetes...</i>
+
+00:50:39.09,00:50:45.45
+<i>...otros decםan que los daba un gnomo[br]que querםa mucho a los niסos</i>
+
+00:50:45.61,00:50:50.06
+<i>Por suerte no sospechaban[br]en absoluto de mi</i>
+
+00:50:51.00,00:50:55.61
+- ¡Chicos, viene Nikolas![br] - ¡Corran!
+
+00:51:04.78,00:51:06.06
+Buenas tardes
+
+00:51:10.63,00:51:12.44
+Hola Aada
+
+00:51:15.60,00:51:17.65
+¿Por quי corren tanto los niסos?
+
+00:51:18.08,00:51:19.60
+Te tienen miedo
+
+00:51:22.72,00:51:26.00
+A mi, ¿por quי?
+
+00:51:28.00,00:51:32.98
+Mikko dice que no eres tת[br]quien trae los regalos de Navidad...
+
+00:51:33.00,00:51:37.00
+...y que odias a los niסos,[br]¿es verdad?
+
+00:51:37.32,00:51:40.85
+Lo que dice Mikko[br]es la verdad a medias
+
+00:51:41.33,00:51:45.17
+Yo no traigo regalos pero[br]tampoco odio a los niסos
+
+00:51:46.00,00:51:49.00
+Entonces, ¿quien los trae?
+
+00:51:50.26,00:51:54.00
+Quien sabe... quien sabe
+
+00:52:04.44,00:52:07.60
+Me lo ha dicho Nikolas[br]cuando se lo preguntי
+
+00:52:07.63,00:52:11.00
+Aada nos ha contado[br]que tu no traes los regalos
+
+00:52:12.00,00:52:14.39
+Aada tiene razףn
+
+00:52:16.00,00:52:19.47
+¿Por quי le has dicho eso?[br]Ve tras ella y dile la verdad
+
+00:52:19.50,00:52:21.88
+No pienso hacer eso
+
+00:52:21.95,00:52:25.20
+Los niסos nunca deben[br]relacionarme con los regalos
+
+00:52:25.22,00:52:28.58
+- Eso lo echarםa todo a perder[br] - ¿Por quי?
+
+00:52:28.99,00:52:32.05
+Algתn dםa lo comprenderבs
+
+00:52:45.10,00:52:47.10
+Nikolas
+
+00:52:47.16,00:52:49.61
+Eemeli
+
+00:52:50.43,00:52:52.01
+¿Aada estב aquם contigo?
+
+00:52:52.05,00:52:54.27
+- Ha desaparecido[br] - ¿Cuando?
+
+00:52:58.07,00:53:01.59
+Queridos papב y mamב[br]no se preocupen
+
+00:53:01.69,00:53:05.39
+He ido a descubrir quien[br]trae los regalos de Navidad
+
+00:53:05.42,00:53:09.33
+Tenemos que despertar a los vecinos[br]y organizar la bתsqueda
+
+00:53:09.50,00:53:13.66
+Tienes que prestarme ropa,[br]o descubrirבn quien soy
+
+00:53:15.12,00:53:17.25
+¡Vayan a casa!
+
+00:53:24.78,00:53:29.00
+Buscaremos a Aada por pareja,[br]cada pareja llevarב una antorcha
+
+00:53:29.92,00:53:32.48
+Aada no puede estar muy lejos
+
+00:53:33.22,00:53:38.22
+- Sי donde ha ido Aada.[br]- ¿Quי dijiste, Mikko?
+
+00:53:38.33,00:53:41.27
+- Aada fue a darte un regalo.[br]- ¿A mi?
+
+00:53:41.92,00:53:43.89
+A mi, ¿por quי?
+
+00:53:44.34,00:53:46.55
+Porque no se cree que no traes los regalos
+
+00:53:46.59,00:53:48.94
+Pero por quי no lo[br]dijiste antes
+
+00:53:49.11,00:53:51.20
+Le prometם que no les dirםa
+
+00:53:52.89,00:53:55.27
+Quiero que regrese Aada
+
+00:54:02.24,00:54:05.15
+Aada ni siquiera sabe donde vives
+
+00:54:05.93,00:54:10.00
+Y aunque lo supiera no[br]podrםa llegar tan lejos
+
+00:55:16.99,00:55:18.84
+Nikolas
+
+00:55:19.51,00:55:21.17
+Aada
+
+00:55:27.30,00:55:32.45
+Nadie pensaba que encontrarםas[br]el camino, y lo has hecho sola
+
+00:55:32.55,00:55:35.36
+Ademבs de noche y con tormenta
+
+00:55:35.52,00:55:37.79
+¿Cףmo lo lograste?
+
+00:55:37.98,00:55:40.20
+Fue fבcil con la ayuda de los renos
+
+00:55:40.52,00:55:42.25
+¿Los renos?
+
+00:55:42.68,00:55:44.58
+¿Te ayudaron unos renos?
+
+00:55:44.65,00:55:47.57
+De repente apareciף un trineo[br]tirado por unos renos
+
+00:55:47.69,00:55:50.87
+Yo creםa que eras tu, pero[br]el trineo iba vacםo...
+
+00:55:50.94,00:55:53.04
+...o casi vacםo
+
+00:55:57.96,00:56:00.19
+Hacia frםo y me puse tu ropa
+
+00:56:01.35,00:56:03.74
+Luego los renos me trajeron aquם
+
+00:56:24.58,00:56:26.54
+<i>Le contי a Aada todo</i>
+
+00:56:26.56,00:56:31.45
+<i>Como me convertם en lo que era[br]y porque creםa...</i>
+
+00:56:31.47,00:56:35.00
+<i>...tan importante entregar los regalos[br]a los niסos por Navidad</i>
+
+00:56:36.15,00:56:38.39
+<i>Incluso le revelי mi gran sueסo...</i>
+
+00:56:39.08,00:56:45.00
+<i>...que la tradiciףn de entregar los regalos[br]continuarב despuיs de mם</i>
+
+00:56:46.28,00:56:52.00
+Cףmo serםa Aada ahora si no se hubiera[br]convertido en una dama del lago
+
+00:56:52.12,00:56:54.41
+Seria una princesa como tת
+
+00:57:01.85,00:57:03.80
+Feliz Navidad, Aada
+
+00:57:04.97,00:57:06.98
+Feliz Navidad, Aada
+
+00:57:08.48,00:57:10.44
+Feliz Navidad, Aada
+
+00:57:11.01,00:57:13.00
+Feliz Navidad, Nikolas
+
+00:57:45.76,00:57:50.23
+<i>Aada cumpliף su promesa,[br]y no revelף mi secreto</i>
+
+00:57:51.00,00:57:52.73
+<i>...al contrario</i>
+
+00:57:54.21,00:57:56.51
+No se parece en nada a Nikolas
+
+00:57:57.19,00:58:03.00
+Es un hombre con un traje rojo que[br]se hacia llamar Papa Noel
+
+00:58:10.00,00:58:14.77
+<i>Pasaron los aסos y antes de[br]que me diera cuenta...</i>
+
+00:58:14.79,00:58:19.00
+<i>...mi amistad con Aada llevaba[br]ya dos dיcadas</i>
+
+00:58:21.26,00:58:23.12
+¡Nikolas!
+
+00:58:24.71,00:58:26.24
+¿Quי?
+
+00:58:31.90,00:58:33.77
+Me voy a casar
+
+00:58:40.10,00:58:41.75
+¿Con Mikko?
+
+00:59:04.55,00:59:10.39
+Nikolas, me recogerבs la maסana[br]de Navidad, ¿verdad?
+
+00:59:10.94,00:59:13.70
+Claro que te recogerי
+
+00:59:21.38,00:59:22.07
+Hola
+
+00:59:22.96,00:59:24.96
+Hola
+
+00:59:54.79,00:59:56.48
+Gracias
+
+00:59:57.11,00:59:58.81
+¿Por quי?
+
+01:00:00.12,01:00:05.32
+Por todo...[br]por todo
+
+01:00:52.44,01:00:55.18
+Papב falleciף
+
+01:01:07.95,01:01:13.05
+Parte del amor es tambiיn[br]el miedo a perderlo
+
+01:01:13.68,01:01:15.98
+Es parte de la vida
+
+01:01:17.35,01:01:21.90
+Tu padre, Eemeli, me enseסף eso
+
+01:01:26.86,01:01:30.59
+Y tu me enseסaste la alegrםa[br]de la entrega
+
+01:01:34.31,01:01:36.16
+Yo...
+
+01:01:37.11,01:01:44.57
+Nikolas, tienes que pensar un poco[br]en ti y no tanto en los demבs
+
+01:01:47.05,01:01:50.62
+Todo tiene su fin
+
+01:02:25.16,01:02:29.00
+<i>Me tuve que aceptar mi alta edad</i>
+
+01:02:29.50,01:02:33.50
+<i>La prףxima Navidad[br]entregarםa los תltimos regalos</i>
+
+01:02:34.50,01:02:38.00
+<i>La תltima Navidad</i>
+
+01:02:52.20,01:02:54.64
+Que bonito, ¿para quien es?
+
+01:02:56.94,01:02:58.57
+¿Quieres que lo envuelva?
+
+01:02:59.25,01:03:02.39
+Este regalo quiero envolverlo yo
+
+01:03:03.15,01:03:05.60
+Te verי en la maסana de Navidad
+
+01:03:20.47,01:03:23.24
+¿Seguro que no necesitas[br]ayuda en Nochebuena?
+
+01:03:23.98,01:03:25.81
+Estoy seguro
+
+01:03:26.79,01:03:28.90
+Quiero hacerlo sףlo
+
+01:03:31.18,01:03:34.58
+Nikolas, recuerda tu promesa
+
+01:03:35.59,01:03:38.00
+Esta es la תltima Navidad
+
+01:03:39.22,01:03:41.25
+Es la תltima
+
+01:05:27.15,01:05:32.63
+Nikolas... Nikolas
+
+01:06:04.44,01:06:09.21
+Feliz Navidad mi querida Aada,[br]tu hermano Nikolas
+
+01:06:28.53,01:06:33.41
+"Feliz Navidad mi querida Aada,[br]tu hermano Nikolas", ¿que significa esto?
+
+01:06:34.53,01:06:37.50
+Significa que nunca mבs[br]volveremos a ver a Nikolas
+
+01:06:37.59,01:06:39.18
+¿Cףmo lo sabes?
+
+01:06:40.74,01:06:44.47
+No sי como explicבrtelo, pero lo sי
+
+01:06:52.44,01:06:55.11
+Adiףs
+
+01:07:06.41,01:07:07.99
+¿Quי haces?
+
+01:07:09.08,01:07:10.86
+Mikko, no tiene sentido hacer eso...
+
+01:07:11.00,01:07:14.19
+Nikolas querםa que la tradiciףn continuara
+
+01:07:14.21,01:07:17.74
+Aunque hagas un regalo a nuestro hijo,[br]para los demבs niסos no hay
+
+01:07:17.87,01:07:19.52
+- No estיs tan segura.[br]- ¿Por quי lo dices?
+
+01:07:19.67,01:07:23.45
+- Porque los demבs padres lo harבn.[br]- No es lo mismo
+
+01:07:24.72,01:07:27.02
+Mikko, eso es hacer trampa
+
+01:07:42.91,01:07:45.52
+Mikko... Mikko
+
+01:08:28.37,01:08:33.61
+Feliz Navidad, pequeסa Aada y...[br]Feliz Navidad, Nikolas
+
+01:08:46.73,01:08:52.91
+Rudolph, Bailarםn, Acrףbata, Blindar[br]¡Vamos bajando!
+
+01:09:14.17,01:09:19.92
+¡Feliz Navidad!
+
+01:10:13.00,01:10:33.00
+Subtםtulos por[br]<i>Profe Enrique</i>[br][br]Basados en subtםtulos originales por[br] <i>Yo Fede®</i>
