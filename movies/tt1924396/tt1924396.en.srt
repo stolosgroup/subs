@@ -1,0 +1,1583 @@
+{1}{1}24.000
+{26}{176}Advertise your product or brand here|contact www.OpenSubtitles.org today
+{622}{697}Pinewood marriage chest|with groove joinery
+{701}{789}and hand-forged hinges|in the shape of tulip buds.
+{839}{878}Walnut sideboard.
+{882}{938}16th-century French decorations
+{942}{1011}of herms|and griffin-shaped cartouches.
+{1015}{1089}Embellished deplorably|in the 19th century.
+{1143}{1229}A pair of oak veneer cabinets|in the Flemish style.
+{1233}{1273}Upper section with two doors,
+{1277}{1355}featuring carved anthropomorphic|figures and caryatids.
+{1519}{1560}Something wrong, Mr. Oldman?
+{2051}{2081}Is it important?
+{2089}{2157}If you were kind enough|to let me have this as a gift,
+{2161}{2208}I'd be delighted to accept.
+{2217}{2260}I don't remember that.
+{2264}{2311}It may look like mouldy wood,
+{2315}{2365}but centuries ago,|beneath the mould,
+{2373}{2425}there must have been a painting.
+{3657}{3723}- Good evening. How are you?|- Very well.
+{5292}{5343}The management|and staff of Styrorex
+{5347}{5409}would like to offer our best wishes,|Mr. Oldman.
+{5417}{5468}Happy birthday, Mr. Oldman.
+{5473}{5540}This year, our chefs wish|to dedicate in your honour
+{5548}{5604}an ancient recipe|of a Renaissance dessert
+{5609}{5667}made of choux cream|and bitter almonds.
+{5776}{5805}Enjoy.
+{5935}{6016}- Most likely a rash.|- lt must be that.
+{6446}{6495}Was it not to your taste,|Mr. Oldman?
+{6499}{6586}Quite the contrary, but you see,|my birthday is tomorrow.
+{6590}{6690}It is now 10:35pm|and I'm very superstitious.
+{6698}{6733}Pretend I had accepted.
+{6815}{6858}The day after tomorrow, then.
+{6923}{7003}The director of the Vatican Museum|wants you to call him back.
+{7007}{7072}The reliquary attributed to Cellini,|I presume.
+{7080}{7117}The report on this is ready.
+{7122}{7186}There's a pile of gifts.|What shall I do with them?
+{7190}{7243}Send them to my house|except the mobile.
+{7247}{7296}Only one this year.
+{7300}{7344}Good. Word's out that I hate them.
+{7348}{7430}Unless you've changed your habits,|you'll have to answer that.
+{7434}{7483}It's the first call on your birthday.
+{7510}{7538}Tradition.
+{7625}{7650}Hello.
+{7654}{7709}I have no wish|to waste your time.
+{7717}{7776}- Who's speaking?|- It's me, Claire Ibbetson.
+{7780}{7819}Please don't hang up on me.
+{7823}{7889}You're Mr. Oldman's secretary,|aren't you?
+{7893}{7955}You can speak to me.|It makes no difference.
+{7963}{8036}You see, I... I don't know anybody.|I'm on my own.
+{8040}{8105}I'm sorry, Miss lbbetson,|this is not a helpline.
+{8109}{8157}I'm not explaining myself very well.
+{8161}{8222}I'm not in the habit|of speaking to people much.
+{8231}{8291}That's a considerable stroke|of good fortune.
+{8295}{8359}- Talking to people is perilous.|- I'm desperate...
+{8364}{8421}You made the call|so you're running the risk.
+{8425}{8485}It's about the furniture|of my parents' villa.
+{8490}{8562}They... about a year ago.
+{8566}{8616}- You see?|- I understand.
+{8625}{8654}An estate of great...
+{8658}{8719}I've always heard it referred to|as being of...
+{8723}{8755}Extremely valuable.
+{8759}{8823}Very rare pieces,|including paintings.
+{8831}{8891}Unfortunately,|I have no photographs.
+{8895}{8923}So what?
+{8927}{9011}To be honest, I haven't decided yet,|but I would like to have a...
+{9015}{9072}Oh, I'm out of my depth.|What's the word?
+{9076}{9124}- Valuation.|- Exactly.
+{9128}{9209}That is why I asked|to speak to Mr. Oldman.
+{9217}{9287}Does Mr. Oldman have the pleasure|of knowing you?
+{9291}{9356}Oh, no, not at all.|He doesn't know me.
+{9360}{9404}But... but I know a lot about him.
+{9433}{9511}Mr. Oldman's assistants|are responsible for assessments.
+{9515}{9607}- I'll put you through.|- Perhaps I didn't make myself clear.
+{9611}{9661}I must speak|to Mr. Oldman in person.
+{9665}{9737}Mr. Oldman never presides|over early appraisals.
+{9745}{9787}But you see, before he died,
+{9791}{9854}Dad told me that|if I decided to sell everything,
+{9858}{9929}I should entrust the auction sale|to Mr. Virgil Oldman.
+{9933}{10017}- In his opinion, the best.|- Sold!
+{10021}{10120}Ladies and gentlemen, it gives me|great pleasure to present lot 231,
+{10128}{10248}a refracting elongated telescope|constructed by Galileo Galilei.
+{10256}{10305}It's still in perfect working order.
+{10313}{10370}Can we open bidding,|please, at 1,000,000?
+{10379}{10452}- 1,100,000.|- 1,100,000. 1,200,000.
+{10459}{10544}1,300,000.|1,400,000 on the telephone.
+{10551}{10615}1,500,000 back in the room.|1,600,000.
+{10622}{10690}1,700,000.|1,800,000 in the room.
+{10697}{10798}1,900,000. 2,000,000.|At 2,000,000.
+{10805}{10841}Gesundheit. Was that a bid?
+{10848}{10958}At 2,000,000. 2,100,000.
+{10965}{11016}2,300,000 on the telephone.
+{11023}{11084}2,500,000. I can sell it. 2,700,000.
+{11091}{11170}At 2,700,000.|Any more? Are we all done?
+{11177}{11220}At 2,700,000.
+{11246}{11285}Sold. Congratulations, sir.
+{11292}{11337}Lot 232.
+{11341}{11433}Disciple of Boris Gregorian, Thurst.|Oil on canvas, 60 x 70.
+{11440}{11485}This one will go to the best offer.
+{11512}{11582}1,000. 2,000.
+{11610}{11702}3,000. 4,000. 5,000 online.
+{11727}{11804}6,000. 7,000.
+{11811}{11891}8,000. 9,000 on the telephone.
+{11898}{11957}10,000 back in the room.|11,000 online.
+{11964}{12045}12,000. 13,000 online.|14,000. 15,000.
+{12049}{12125}This is not doing my neck any good.
+{12133}{12174}At 15,000.
+{12224}{12278}20,000. At 20,000.
+{12282}{12322}Any more? Sold!
+{14075}{14178}- Beautiful, isn't it?|- Yes. Very.
+{14185}{14251}You never miss a trick,|do you, governor?
+{14335}{14382}- Who is it really?|- Yansky.
+{14390}{14448}A Russian painter|who died in the late '30s.
+{14455}{14502}An outstanding landscape painter.
+{14534}{14620}But among his many landscapes,|he painted three portraits.
+{14645}{14688}Only three in his whole life.
+{14715}{14752}And this is one of the three.
+{14823}{14864}It's double, alright?
+{14893}{14936}How long have|we known each other?
+{14943}{14969}Quite a while.
+{14976}{15058}We've pulled off some sharp tricks|time after time.
+{15065}{15101}Remember Milo Hensen?
+{15105}{15178}You were the only one who knew|he was going to be big.
+{15182}{15243}We got that portrait of his mother|for a song
+{15250}{15329}from under the noses|of that bunch of idiots.
+{15336}{15369}Must be worth a fortune now.
+{15373}{15430}You almost sound bitter|you didn't get more.
+{15437}{15498}Have we ever talked about money,|you and me?
+{15503}{15563}- Honestly, no.|- It's been good enough for you.
+{15567}{15620}It's been good enough for me,|you misery.
+{15625}{15676}What matters is that you're satisfied.
+{15683}{15757}My only regret is never being able|to persuade you
+{15765}{15842}that my paintings are evidence|of a great artistic talent.
+{15849}{15910}A love of art|and knowing how to hold a brush
+{15917}{15950}doesn't make an artist.
+{15954}{16030}You need an inner mystery.|A knack you've never possessed.
+{16037}{16112}You're right. Double wasn't enough.
+{19366}{19431}In my 36 years in this business,
+{19435}{19521}never has anyone had the gall|to keep me waiting 40 minutes.
+{19526}{19589}It's a disgrace.|A display of bad manners.
+{19593}{19646}Let me explain.|I tried to call.
+{19651}{19700}- There's no excuse.|- I tried to call.
+{19704}{19747}Never come near me again.
+{19751}{19819}Nobody answered and|I don't have your mobile number.
+{19823}{19873}I do not possess a mobile phone.
+{20062}{20122}lt's the lbbetson woman|on the phone.
+{20129}{20193}- Tell her to go to hell.|- She's crying.
+{20200}{20232}Serves her right.
+{20236}{20287}She was hit by a car|on her way to meet you.
+{20291}{20360}So much the worse for her.|It's no concern of mine.
+{20367}{20400}She was left unconscious.
+{20405}{20481}She was lying in a pool of blood|when the ambulance arrived.
+{20514}{20569}Alright. Put her through.
+{20723}{20780}- Yes?|- Please forgive me.
+{20788}{20892}I had no intention|to be in any way disrespectful.
+{20897}{20943}Nothing too serious, I hope.
+{20947}{21027}No. Fortunately,|they'II... they'll let me out tomorrow.
+{21032}{21106}Good.|I hope you make a speedy recovery.
+{21110}{21158}Would you consent|to a new appointment?
+{21185}{21256}- Please.|- Alright.
+{21260}{21307}But I'm sending an assistant.
+{21311}{21383}I hope it's the same one|I spoke to last time.
+{21448}{21476}What do you mean?
+{21480}{21555}Well, I can't explain it,|but I understood from the outset
+{21559}{21643}that voice could only|have been yours, Mr. Oldman.
+{21650}{21710}Truly surprising,|wouldn't you say?
+{21714}{21780}We think we'll be able|to bring out the whole face,
+{21785}{21858}part of her dress|and the left side of the background.
+{21865}{21941}Incredible. But what made|Mr. Oldman think that?
+{21948}{22011}- What period is it from?|- Too soon to say.
+{22015}{22075}Perhaps Mr. Oldman|will be able to work this out
+{22079}{22130}more quickly and better than us.
+{22175}{22234}- It's a fake.|- How is that possible?
+{22241}{22292}- It's beautiful!|- I didn't say it wasn't.
+{22296}{22332}I said it wasn't authentic.
+{22336}{22393}From an analysis|of the pigments and wood,
+{22400}{22445}we thought it was pre-17th century.
+{22449}{22510}- Even older.|- Then it must be worth something.
+{22514}{22622}It is a work by Valiante,|the female forger of the 16th century.
+{22629}{22660}She copied masterpieces,
+{22665}{22723}but couldn't sign them|as she was a woman,
+{22730}{22781}so she marked them|with a personal code
+{22788}{22829}hidden in the folds of the drapery
+{22836}{22891}or in this case,|in the gaze of the subject.
+{22898}{22972}The beam of light on the iris|is nothing if not a V.
+{22976}{23011}That is Valiante.
+{23015}{23124}It is worth something,|but nothing compared to the original.
+{23643}{23717}- Are you Mr. Oldman's assistant?|- Yes.
+{23724}{23779}I'm Fred, the caretaker.|Pleased to meet you.
+{23823}{23887}- Please, come in.|- Thank you.
+{23908}{23932}And Miss lbbetson?
+{23963}{23993}She sends her apologies,
+{23997}{24058}but overnight,|she was running a temperature.
+{24062}{24148}She should have called me.|Spared myself a wasted trip.
+{24156}{24196}Well, give her my best wishes.
+{24200}{24264}She asked if you would go ahead|with valuation.
+{24268}{24319}She's instructed me|to show you around.
+{24323}{24409}Everything's at your disposal.|Come with me.
+{24516}{24578}Miss lbbetson was hoping|to meet your boss.
+{24582}{24656}It doesn't matter.|Your mistress didn't show up either.
+{24660}{24687}Fair enough.
+{24691}{24746}I suppose|it'll get the job done quicker.
+{24899}{24932}Forgive the mess.
+{24959}{25052}It's gone to wrack and ruin ever since|Miss lbbetson's parents died.
+{25102}{25132}Let's go up.
+{25178}{25223}How long since the owners died?
+{25227}{25293}By the look of it,|you'd think it was centuries ago,
+{25297}{25335}but it's only been one year.
+{25342}{25430}First Mrs. Ibbetson and then,|scarcely 45 days later,
+{25434}{25464}poor Mr. Ibbetson.
+{25468}{25532}You have a good look.|Take your time.
+{25536}{25582}Just getting these curtains open.
+{25620}{25663}Too many windows in this room.
+{25801}{25826}Okay.
+{25929}{25997}How many brothers and sisters|does Miss lbbetson have?
+{26001}{26038}None. She is an only child.
+{26045}{26086}- Is she married?|- No.
+{26090}{26153}- Has she ever been?|- No, no.
+{26157}{26209}I don't think|she even has a boyfriend.
+{26213}{26293}- Grandparents, aunts, uncles?|- No, none at all.
+{26300}{26365}As far as I know,|Miss lbbetson is on her own.
+{26463}{26488}So many rooms.
+{26517}{26578}You know, I've never managed|to count them all.
+{26954}{27013}Have there been other valuations|before me?
+{27017}{27077}Absolutely none. Yours is the first.
+{27084}{27152}Miss lbbetson is extremely fond|of this house.
+{27156}{27195}Maybe too fond.
+{27199}{27269}She'd prefer to keep everything,|but what can you do?
+{27276}{27343}The empire crumbles.|A woman on her own can't cope.
+{27374}{27447}Is she thinking of putting|the house up for sale as well?
+{27451}{27514}That, I don't know. Maybe a part of it.
+{27521}{27566}She won't get rid of the whole place.
+{27573}{27615}What kind of work does she do?
+{27622}{27700}I couldn't say.|I only dealt with her parents.
+{27771}{27825}- May I see the cellars?|- It's this way.
+{27856}{27893}It's a long way down.
+{28021}{28048}Go ahead.
+{29086}{29115}I honestly don't get it.
+{29122}{29195}In the time I've known you,|I've never seen you beaten.
+{29202}{29272}I've watched you produce|all manner of gadgets
+{29276}{29322}from most unremarkable ironwork.
+{29329}{29392}Optical, arithmetical devices,|water clocks...
+{29399}{29501}Even that hairdryer that probably|dried the locks of Jules Verne's wife.
+{29508}{29585}But you've nothing to say|about this curious contraption?
+{29592}{29658}I'm surprised that|an art connoisseur like yourself
+{29662}{29729}can get so carried away|by a banal piece of ironwork.
+{29733}{29797}It's not the object|that arouses my curiosity,
+{29801}{29833}but it's contradiction.
+{29840}{29911}- Contradiction?|- Look.
+{29915}{29996}I found it in this position|in contact with damp flooring,
+{30003}{30096}but the rust is all along the top|of the cogs, nowhere near the damp.
+{30103}{30130}What does this mean?
+{30137}{30195}The object hadn't been there|for very long.
+{30202}{30294}It got rusted in some other place.|Or someone turned it upside down.
+{30298}{30377}That's all, nothing more than|a useless exercise in deduction.
+{30383}{30421}Hi. Did you manage it?
+{30425}{30455}Did you ever doubt me?
+{30463}{30524}This works perfectly now.
+{30543}{30611}And I transcribed|the recording from the tape.
+{30615}{30664}You're a genius.|How much do I owe you?
+{30668}{30700}Oh, nothing.
+{30708}{30749}Maybe you'll invite me out.
+{30753}{30779}Count on it.
+{30787}{30848}- Can I give you a kiss?|- Yes, you can!
+{30856}{30884}That I am good at.
+{30892}{30935}- Good evening.|- Good evening.
+{30944}{31026}William-Adolphe Bouguereau.|The Birth Of Venus.
+{31096}{31121}Authentic.
+{31201}{31289}Umberto Veruda,|The Honest, 1890.
+{31728}{31795}You've been|the talk of the town lately.
+{31803}{31842}I hoped to see you|on TV.
+{31846}{31914}I don't like to appear.|I prefer to remain in shadow.
+{31918}{31955}We're much the same that way.
+{31959}{32000}That doesn't mean we'll agree.
+{32004}{32053}My secretary's been looking for you.
+{32058}{32129}How do you know that a painter|will become collectable?
+{32133}{32219}Intuition, which also makes|me doubt your intentions.
+{32223}{32320}Sorry for that impression but I've|entrusted you with my belongings.
+{32324}{32355}That's not how it works.
+{32359}{32429}There must be a signed contract|before the inventory.
+{32434}{32498}It takes time,|and unless you stop fooling around
+{32502}{32566}and decide to come out|it will never get started.
+{32571}{32620}Go ahead with the inventory.
+{32624}{32659}I'll meet you at the villa.
+{32663}{32701}We'll reach an agreement.
+{32705}{32739}You have my word.
+{32747}{32797}- Take these.|- Yes.
+{32801}{32826}Be careful!
+{32830}{32881}I'm not sure|but it looks German to me.
+{32885}{32944}Austrian. Careful with that.
+{32949}{33001}It's 11:00|The appointment was 8:30.
+{33005}{33092}She's not answering.|She said she'll come. She'll be here.
+{33100}{33153}The piano doesn't need restoration.
+{33157}{33181}Quite so.
+{33186}{33234}We have to check it|but there's no key.
+{33238}{33268}But here it is.
+{33272}{33317}Last time there was no key.
+{33321}{33346}Looks good.
+{33354}{33398}Mr Oldman!
+{33402}{33448}Would you help me|with the bookcase?
+{33456}{33523}Italian bookcase, wood. First half|of...
+{33527}{33551}Who smashed this?
+{33556}{33611}Nobody, Mr Oldman,|it was already broken.
+{33615}{33662}Is this part of the house inhabited?
+{33666}{33694}Why?
+{33699}{33744}There have been some changes.
+{33752}{33781}No, no, Mr...
+{33785}{33834}I'm sorry, I'm not sure of your name.
+{33838}{33869}I thought you were...
+{33877}{33912}It doesn't matter who I am.
+{33920}{33952}Nobody lives here.
+{33960}{34041}Be that as it may, if your mistress|is not here by midday
+{34045}{34112}I will have no option but to|suspend operations.
+{34235}{34261}Mr Oldman!
+{34376}{34403}Miss lbbetson.
+{34411}{34455}Hello, Mr Oldman?
+{34459}{34518}Mr Oldman, can you hear me?
+{34522}{34608}Mr Oldman, I apologise.|What must you think of me?
+{34612}{34679}Spare me|the self-serving justifications.
+{34683}{34707}Let me speak.
+{34711}{34792}I cannot touch your things|without a contract. Is that clear?
+{34796}{34864}Would you leave it on the table|in the hallway?
+{34868}{34927}I'll sign it.|I accept all your conditions.
+{34932}{34972}Yes, but I do not accept yours.
+{34976}{35058}I will not do business|with a silly, superficial phantom.
+{35095}{35131}Be careful!
+{35135}{35188}I understand your exasperation.
+{35192}{35258}But please believe me|I didn't mean anything by it.
+{35262}{35363}It's been a series of unfortunate,|unintentional mishaps.
+{35371}{35423}So what exactly happened today?
+{35427}{35524}My car was stolen and I had to go|to the police to report it.
+{35542}{35601}Which police station did you go to?
+{35605}{35653}The one in the city.|- Whereabouts?
+{35661}{35723}- On the main square.|- Which square?
+{35730}{35783}No more interrogation!
+{35787}{35842}No more!|Who do you think you are?
+{35965}{36005}Are you here, Miss lbbetson?
+{36009}{36062}What kind of question is that?
+{36067}{36095}Are you here?
+{36099}{36155}I don't understand.|I don't understand.
+{36159}{36211}- lf you're here, come out now.|- Stop it!
+{36215}{36294}Explain the meaning of this game|which I do not find amusing.
+{36298}{36346}Call me tonight. I'll explain.
+{36427}{36472}lt's the same material
+{36476}{36519}and the same workmanship too.
+{36527}{36572}These belong to the same system.
+{36580}{36641}There's no signature,|no inscription?
+{36649}{36782}I mean when I've got the rust and|the oxidisation off the other piece.
+{36816}{36840}There's nothing.
+{36848}{36966}I can do the same with these but, I|mean, right now I can't see anything.
+{37056}{37101}What have you found?
+{37109}{37186}The technique, how the cog|has been attached to it's axis.
+{37190}{37251}It's really old.|I've never seen it before.
+{37255}{37306}Here, look. Have a look.
+{37490}{37545}It's 18th century.
+{37553}{37600}We could be onto|something big here.
+{37604}{37649}Could you guess what it is?
+{37684}{37756}Three pieces of the mosaic|is not enough, Mr Oldman.
+{37801}{37863}In the last few years|the old couple were unwell.
+{37867}{37922}The house was in|a terrible state then.
+{37952}{38036}Mr lbbetson always said|that they'd have to sell something.
+{38044}{38090}And Miss Claire. How old is she?
+{38134}{38173}About 27.
+{38206}{38263}What else can you tell me|about her?
+{38267}{38299}Nothing really.
+{38307}{38384}I've never had much to do with her.|I don't really know her.
+{38392}{38491}And yet you've been in the service|of the lbbetsons for about 10 years.
+{38545}{38609}Well, 11 years to be exact.
+{38618}{38664}I don't have much to do with her.
+{38672}{38726}I talk to her often|at all hours but...
+{38734}{38767}But?
+{38775}{38824}I've never seen her.
+{38833}{38916}- How could that be?|- It's the truth. Not once.
+{38924}{38961}Why?
+{39009}{39122}Because Miss Claire|suffers from a very strange illness.
+{39150}{39218}- Hello.|- Good evening. It's Oldman.
+{39223}{39257}I was expecting your call.
+{39261}{39346}I have no wish to quarrel|and I'm sorry if I was rude today.
+{39350}{39376}It doesn't matter.
+{39380}{39449}But if I confirm I am available,|at the same time
+{39453}{39535}I cannot permit this joke in poor taste|to continue any longer.
+{39543}{39605}I wish you to stop|all involvement in my affairs.
+{39609}{39650}I apologise for the trouble.
+{39654}{39701}Send me your bill.|Good night.
+{39892}{39949}Lot 93. Valiante.|Portrait of a Lady.
+{39953}{39977}16th century,
+{39981}{40065}inspired by the Portrait of|a Young Girl by Petrus Christus.
+{40069}{40095}Oil on wood. 30 x 40.
+{40103}{40161}I have here an opening|bid of £20,000.
+{40169}{40229}- £22,000.|- £22,000.
+{40233}{40304}£24,000. £26,000 on the telephone.
+{40308}{40383}£28,000 in the room. £30,000.
+{40391}{40434}£35,000. Thank you, sir.
+{40453}{40531}£40,000 on the telephone.|£45,000 in the room.
+{40535}{40567}£50,000.
+{40575}{40682}£55,000. £60,000.|£65,000 on the telephone.
+{40690}{40752}£70,000. At £70,000.
+{40756}{40854}Any advance on £70,000? £75,000.
+{40862}{40911}£80,000 on the telephone.|Any more?
+{40915}{40960}All done at £80,000.
+{40968}{41007}All done at £80,000.
+{41037}{41103}£90,000. Any more?
+{41128}{41158}Sold.
+{41190}{41251}- Thank you, sir.|- I bid £90,000 too.
+{41259}{41330}Mr Oldman should have been|aware of that.
+{41338}{41422}I don't believe so, Mrs Derain.|Mr Whistler bid £90,000.
+{41430}{41508}- He was the only one.|- They bid simultaneously.
+{41512}{41570}She got her bid in first.|I saw it.
+{41578}{41610}What should we do?
+{41614}{41719}I'm the biggest collector of Valiante|forgeries and I'll sue you!
+{41727}{41812}You were too slow, Billy! You didn't|get in with your bid in time.
+{41820}{41860}And you were too late. Too late.
+{41864}{41919}You didn't keep up with me|for God's sake!
+{41927}{41994}She was behind me.|If I'd seen I'd have bid again.
+{42002}{42047}You're losing it!
+{42051}{42077}Maybe you're right
+{42082}{42144}but it's not the first time|we've messed up.
+{42152}{42235}It's the way things go. Never went|into a rage like this before.
+{42278}{42321}That wasn't a Valiante forgery.
+{42329}{42387}It was the genuine one|by Petrus Christus.
+{42407}{42466}It'll be worth £8 million.
+{42517}{42557}Woe be me.
+{42598}{42642}I'm sorry. Honestly.
+{42680}{42753}But even when we lost|Van Gogh's Lady With The Fan
+{42757}{42801}you didn't take it this hard.
+{42821}{42861}What's going on, Virgil?
+{42957}{43001}642.
+{43005}{43042}729.
+{43079}{43135}918.
+{43139}{43193}1,011.
+{43201}{43280}1,119.
+{43288}{43343}1,320.
+{43352}{43405}1,404.
+{43413}{43466}- What will you have?|- 1,581.
+{43470}{43494}Tea, thank you.
+{43578}{43617}8,109.
+{43625}{43672}8,725.
+{43680}{43753}Sorry, darling, 8,625.
+{43757}{43819}8,725!
+{43828}{43877}8,725.
+{43881}{43930}Take a closer look,|you moron.
+{43938}{44011}Shit! You're right, 8,725.|Well done, girl!
+{44015}{44050}That's it?
+{44334}{44370}- Bye!|- Bye!
+{44445}{44513}I gave them a clean|with this special fluid.
+{44522}{44586}And I have studied them|by the millimetre
+{44590}{44644}and look what's come up.
+{44669}{44694}Vaucanson.
+{44731}{44795}I can't believe it!|Jacques Vaucanson.
+{44799}{44850}18th century constructor|of automata.
+{44859}{44924}When I was a student|I did my thesis on him.
+{44932}{44975}That's incredible!
+{44980}{45055}One of his most famous androids|even managed to talk.
+{45059}{45136}Exactly.|People would pay to ask it questions.
+{45140}{45256}The android would move its head,|bow, and give its reply.
+{45265}{45310}I bet there was someone inside.
+{45314}{45349}You know, a dwarf maybe.
+{45353}{45441}Just like Edgar Allan Poe suspected|with Maelzel's Chess Player.
+{45445}{45497}More than likely.
+{45501}{45556}But the mystery|that nobody could explain
+{45560}{45627}was how Vaucanson's|automaton always got it right.
+{45636}{45715}Of course there was trickery|in making the automaton talk.
+{45751}{45791}Everything it said was true.
+{45830}{45871}You bring me all the pieces.
+{45875}{45973}I promise to put them back together|exactly how Vaucanson had them.
+{45977}{46006}I don't doubt it
+{46010}{46085}but I fear I've lost my chance|to get the missing pieces.
+{46093}{46155}They must be in the same place|you found these.
+{46163}{46216}And all I need is 80%|of the elements,
+{46221}{46289}and I can work out the rest|and rebuild it myself.
+{46293}{46339}It's not that easy.
+{46376}{46425}I'm sorry. That's my girlfriend.
+{46455}{46519}Hey, Sarah, this is Mr Virgil Oldman.
+{46621}{46659}Pleased to meet you, Sarah.
+{46663}{46735}It's a pleasure. Robert has told me|so much about you.
+{46740}{46811}Don't young people talk about|more exciting things?
+{46819}{46858}Why don't you eat with us?
+{46863}{46919}That's very kind.|Another time, thank you.
+{46928}{46986}Alright, we won't insist.|We'll promise.
+{46995}{47035}- Bye.|- Goodbye.
+{47187}{47268}Cancel New York and tell|the Alphasons to meet us here.
+{47276}{47316}We called the meeting.
+{47325}{47393}So we've changed our minds.|Is that a problem?
+{47401}{47430}Alright, Mr Oldman.
+{47550}{47591}Claire lbbetson phoned.
+{47620}{47650}What does she want now?
+{47658}{47704}She asked you to meet her|at 2:30.
+{47712}{47754}Meet her where?
+{47762}{47808}At the lbbetson villa.
+{47812}{47846}Where else?
+{49185}{49292}I'm extremely grateful to you|for coming, Mr Oldman.
+{49330}{49380}How did you know it was me?
+{49384}{49437}Fred has a limp. You don't.
+{49441}{49478}Ah.
+{49515}{49584}To be honest I didn't expect|you'd want to speak to me.
+{49616}{49703}I know you can't stand my excuses.|If I were you, I wouldn't either.
+{49707}{49737}In fact, your beh...
+{49742}{49769}How should I put it?
+{49773}{49812}Speak frankly. Don't worry.
+{49860}{49914}I won't deny that your whimsical|little ways
+{49918}{49953}are getting a bit tiresome.
+{50003}{50039}I hope not too tiresome.
+{50071}{50171}But I wanted to say sorry|for... well, my behaviour.
+{50196}{50279}Typical of a "silly, superficial|woman", as you put it.
+{50283}{50349}Why do you systematically|avoid meeting me?
+{50353}{50403}Nothing personal, believe me.
+{50407}{50467}Why would you want to do|business with a person
+{50475}{50522}who arouses such aversion in you
+{50526}{50588}that you can't even look him|in the face?
+{50599}{50669}It's hard to explain. You won't|believe me anyway.
+{50677}{50781}If I didn't believe you, I wouldn't be|here playing hide and seek.
+{50785}{50820}I don't meet many people.
+{50850}{50901}It's been a long time now.
+{50905}{50977}I see nothing serious in that.
+{50981}{51009}Everyone has moments
+{51013}{51078}when they prefer solitude|to the multitudes.
+{51082}{51149}I haven't left this house|since I was 15.
+{51169}{51245}- I don't think I understand.|- You understand perfectly.
+{51253}{51286}This is my room.
+{51290}{51353}If there's somebody in the house|or in the villa,
+{51357}{51405}I lock myself up in here.
+{51409}{51497}I've always done that,|even when my parents were here.
+{51502}{51540}I hardly ever saw them.
+{51544}{51573}I don't see anybody.
+{51596}{51622}But why?
+{51626}{51702}Why do you go around with|your hands covered by gloves?
+{51706}{51777}lt's a question of hygiene.|I don't see the connection.
+{51781}{51826}You're afraid to touch others.
+{51830}{51884}To touch their possessions|disgusts you.
+{51892}{51961}I'm afraid of going to places|where others live.
+{51965}{52031}These seem to me|very similar personal choices.
+{52059}{52147}You'd like me to believe you haven't|walked a street in 12 years?
+{52155}{52184}I see you know my age.
+{52192}{52285}Being a hermit and employing|a caretaker doesn't add up.
+{52293}{52371}I walk about quite a bit,|if that's what you want to know,
+{52376}{52450}inside the villa|when there's nobody here,
+{52454}{52524}which is often now,|but I never go out.
+{52552}{52604}The very idea paralyses me.
+{52667}{52716}I hope you understand me now.
+{52724}{52802}I hope that, within the limits|of your work, you'll help me.
+{52834}{52881}You have my word, Miss lbbetson.
+{52885}{52966}As to any agreement between us,|I leave it to you to set your fee.
+{52970}{53000}I trust you blindly.
+{53082}{53127}Leave the contract on the table.
+{53135}{53178}You'll find it signed next time.
+{53182}{53220}Now, please, I'm very tired.
+{53524}{53579}Apart from your fondness|for my gloves,
+{53587}{53635}what made you decide|to call me again?
+{53640}{53671}I haven't been kind.
+{53698}{53779}I was taken by the way you|were looking at my house yesterday
+{53783}{53817}from the bar opposite.
+{53908}{53955}You found the missing pieces.
+{53959}{54045}In the meantime|make do with this one.
+{54049}{54099}How much would the|automaton be worth
+{54103}{54157}if we manage to make it work?
+{54161}{54207}Think of a really, really high figure.
+{54259}{54317}- Do you have one in mind?|- Yes.
+{54322}{54375}You've probably pitched it|too low.
+{54383}{54448}You're good at talking|without saying anything.
+{54456}{54507}I'll take that as a compliment.
+{54521}{54577}Should things go|the way I trust they will,
+{54581}{54630}you'll be very handsomely rewarded.
+{54638}{54732}I didn't mean to talk about money.|It's a real privilege for me.
+{54736}{54773}Where did you find these?
+{54781}{54858}There are very precise rules|in the world of antiques.
+{54862}{54916}It's forbidden to reveal|one's sources.
+{55123}{55192}There's a few more gears|but bigger in that corner.
+{55196}{55280}Gather them together. I'll take|care of the cataloguing myself.
+{55284}{55309}Of course.
+{55336}{55365}Candlesticks.
+{55369}{55434}- Which period?|- 17th-century. Repair.
+{55480}{55506}Mr Oldman.
+{55645}{55675}Mr Oldman.
+{55703}{55731}Yes.
+{55735}{55806}What have you decided|about the furniture in this wing?
+{55810}{55860}We're only drawing up|the inventory.
+{55864}{55914}Later you can tell me|what to leave out.
+{55918}{55944}Thank you.
+{55995}{56092}Listen, Miss lbbetson, I can't help|thinking about your situation.
+{56096}{56153}I'm sorry to have|intruded on your thoughts.
+{56157}{56195}That's not the point.
+{56199}{56261}I've been wondering how you|can live like this.
+{56266}{56315}I'm organised and self-sufficient,
+{56319}{56387}I don't need any help|but I appreciate your concern.
+{56391}{56422}You're welcome.
+{56489}{56549}- See you soon, then.|- Have a good day.
+{56605}{56633}Mr Oldman!
+{56682}{56715}Your contract.
+{57094}{57137}I read it and it seems fine to me.
+{57147}{57206}I initialled every page|and signed the last.
+{57210}{57254}That's how it's done, isn't it?
+{57258}{57284}Perfect.
+{57288}{57343}But your personal details|are missing.
+{57432}{57468}Take them from my passport.
+{57720}{57767}But it expired quite some time ago.
+{57772}{57857}- Personal details never expire.|- That's true enough, I suppose.
+{57861}{57929}I was just a girl then|but it'll do for your purposes.
+{58286}{58354}I wanted to mention|that in certain critical cases
+{58358}{58423}my advice is to proceed|directly to restoration.
+{58427}{58456}You know best.
+{58460}{58526}It means the whole thing|will take a little longer.
+{58530}{58585}We can widen|the scope of the valuation.
+{58593}{58620}I understand.
+{58980}{59029}You dye your hair.|I never noticed.
+{59038}{59125}I'm disgusted by people|who don't trust their own hair!
+{59129}{59196}I don't trust people who think so|much of themselves
+{59200}{59244}that they won't come outside.
+{59278}{59372}Ah, sir, there'll be no more|caretaker service as from Monday.
+{59376}{59446}I'll just come in to bring|Miss lbbetson her shopping.
+{59450}{59524}- The matter is of no interest to me.|- These are the keys.
+{59551}{59648}- Why give them to me?|- It's what Miss lbbetson wanted.
+{59653}{59721}In case you needed access|for further inspection.
+{59789}{59838}When you come in, slam the door,
+{59846}{59904}otherwise she'll get scared|and panic.
+{60200}{60241}I'm going off my head
+{60245}{60310}trying to work out the alignment|of these devices,
+{60314}{60379}trying to figure out|which one fitted into which.
+{60383}{60439}- That can't be easy.|- But not impossible.
+{60475}{60533}You know,|gearboxes are like people.
+{60555}{60608}If they've been together|long enough,
+{60612}{60671}eventually,|they take on each other's forms.
+{60693}{60796}So, you believe time can make|any kind of cohabitation possible?
+{60800}{60838}Yeah, well, absolutely.
+{60846}{60923}You've reminded me of a friend|who met a much younger girl.
+{60927}{60964}She had agoraphobia.
+{60972}{61023}Fear of open spaces|and distances?
+{61032}{61126}Exactly. She lived for years locked|up in an apartment on her own.
+{61155}{61257}Recently, she gave him the keys|to her house and ever since,
+{61261}{61312}he's been in a state of...
+{61350}{61383}...permanent anxiety.
+{61449}{61533}What did I tell you? Now|he'll be constantly worried about her.
+{61541}{61566}He'll be thinking,
+{61570}{61662}"What does she need, shampoo,|medicine, tights... yoghurt?"
+{61671}{61707}lt's beautiful, isn't it?
+{61728}{61764}I'm not so sure.
+{61772}{61814}Tell your friend to stay calm,
+{61818}{61886}'cause time is already|working on their gearboxes.
+{62101}{62152}And there you are, Mr. Oldman.
+{62258}{62324}- Are you angry with me?|- Why should I be?
+{62328}{62389}- What I said about your hair.|- Not at all.
+{62415}{62446}I was just calling to ask
+{62450}{62549}if you wish the sale of the furniture|to be identified by your family name.
+{62553}{62598}Or do you prefer anonymity?
+{62602}{62662}- Anonymity, anonymity.|- Good.
+{62689}{62733}This time, I did see you.
+{62737}{62773}- Oh?|- On TV.
+{62777}{62848}I don't generally give interviews|but I was forced to.
+{62852}{62896}You're more intriguing this way.
+{62900}{62963}You'll be a great success|with the ladies.
+{62971}{63020}So, we go to Lot 132.
+{63024}{63084}Gustave Rett,|Portrait of a Woman With a Hat.
+{63092}{63213}1956. Oil on canvas. 80 x 100 cm.
+{63217}{63274}This one goes to the best offer.
+{63282}{63320}£10,000.
+{63554}{63637}Fred, any news from Miss lbbetson?|She hasn't answered in days.
+{63641}{63694}It's a while|since I heard from her.
+{63698}{63742}I've been in bed all week, ill.
+{63750}{63793}Who's been bringing her food?
+{63985}{64016}Miss lbbetson?
+{64176}{64212}Miss lbbetson?
+{64460}{64509}Miss lbbetson? Answer me!
+{64594}{64647}Claire?
+{64687}{64720}Claire, are you alright?
+{64756}{64799}Oh, no. Please!
+{64803}{64849}- No. It's me, Claire.|- Get out!
+{64853}{64898}- It's me, Mr. Oldman.|- Go away!
+{64902}{64956}- Listen to me, it's Mr. Oldman.|- Get out!
+{64960}{65021}There's nobody else here.|Calm down.
+{65025}{65073}What's wrong?|Tell me what happened.
+{65103}{65139}I wasn't well.
+{65143}{65191}I didn't know who to call.
+{65195}{65223}Nobody answered.
+{65227}{65282}And then I fell.
+{65287}{65357}I fell and I hit my...
+{65365}{65406}Open the door.
+{65414}{65450}You need to see a doctor.
+{65458}{65522}No, please! Please!
+{65530}{65585}Please, no!
+{65659}{65711}Can you fix a broken auctioneer|as well?
+{65719}{65762}I wouldn't know where to begin.
+{65770}{65825}It's good to see you again,|Mr. Oldman.
+{65829}{65915}Is something wrong? You seem|more preoccupied than usual.
+{65920}{65966}Too many woodworms|and spider webs
+{65970}{66024}and too few masterpieces.
+{66028}{66064}Could we put it that way?
+{66095}{66156}- So, how's our toy coming along?|- Ah.
+{66161}{66234}Well, I've managed to put|some sections back together.
+{66279}{66367}But, I mean, there's just still|too many pieces missing.
+{66394}{66436}The entire exterior.
+{66444}{66512}We can't establish|what kind of character he is.
+{66520}{66579}Like my friend|and his girl in the tower.
+{66587}{66656}Yeah, maybe, although|we've never seen our android.
+{66660}{66711}We're still groping around|in the dark.
+{66719}{66752}So is he.
+{66762}{66815}He speaks to her|through a closed door.
+{66823}{66873}- Closed door?|- Yes.
+{66877}{66974}If anybody moves in the house,|she barricades herself in her room.
+{66982}{67081}- He's never seen her face?|- Not only him, no-one has.
+{67085}{67157}That's like when two young people|meet on the internet.
+{67165}{67239}They get to know each other,|then reveal themselves.
+{67243}{67284}She won't reveal herself.
+{67292}{67356}Maybe he hasn't|got a good strategy.
+{67391}{67476}So, it's more difficult for my friend|to succeed in his enterprise
+{67480}{67550}than for us to reconstruct|the Vaucanson automaton?
+{67555}{67646}Depends on the number of rusty|pieces you're able to bring me.
+{67654}{67687}Well...
+{67715}{67752}...here's one more.
+{67800}{67835}That's a mobile phone.
+{67866}{67891}This is brand new.
+{67895}{67973}I'm the one that's rusty|because I don't know how to use it.
+{67981}{68051}Could you teach me|before your girlfriend gets here?
+{68506}{68565}- Hello.|- Good evening, Mr. Oldman.
+{68570}{68626}It's Claire Ibbetson.|Am I disturbing you?
+{68630}{68677}No, not at all, Miss lbbetson.
+{68681}{68764}I told you, from now on,|you can call me any time you like.
+{68768}{68805}I wanted to thank you for...
+{68831}{68869}...everything, really.
+{68873}{68954}No need. All that's important|is you're feeling better now.
+{68958}{69030}Yes, it was just a small cut|on the head. I'm much better.
+{69034}{69100}I wanted to tell you,|I looked over the inventory.
+{69108}{69162}Oh! What do you think?
+{69192}{69247}You've done a great job.|Really, you have.
+{69276}{69327}But I'm troubled|by so many doubts.
+{69331}{69419}I'm not sure if it's a good idea|to sell. What would you advise?
+{69424}{69490}I couldn't say. I don't know|what your plans are.
+{69498}{69559}Why did you decide|to sell in the first place?
+{69564}{69656}Out of necessity in order to start|life afresh or another reason?
+{69664}{69710}All of the above, I suppose.
+{69714}{69787}I'd even sell the house.|It's too big for me now.
+{69791}{69878}Sometimes, I feel as though|I were in a public square.
+{69882}{69931}I'd like something smaller.
+{69935}{69980}But the idea of having to leave here
+{69984}{70039}and go somewhere else|fills me with dread.
+{70043}{70081}How would I manage it?
+{70085}{70164}Wear blindfolds? Have myself|carried out while asleep?
+{70168}{70247}I'd get into a state and end up|putting everything off.
+{70321}{70391}You have all the time in the world|to make up your mind.
+{70398}{70468}- You think?|- Well, until the catalogue is printed.
+{70476}{70570}Don't torment yourself.|Think of yourself, your future.
+{70575}{70624}That's the biggest torment of all.
+{70632}{70683}When I think about it,|I can't even work.
+{70688}{70745}I didn't know you were working.
+{70749}{70852}I write. I write novels, stories,|things like that.
+{70860}{70911}I'd like to read them. I'll buy some.
+{70919}{70976}Luckily for us,|you'll never manage to.
+{70984}{71017}Why not?
+{71021}{71110}Because I write under a pseudonym|and I loathe what I write.
+{71118}{71190}Artists always loathe|what they make, Miss lbbetson.
+{71194}{71240}Yesterday, you called me Claire.
+{71289}{71359}I wasn't aware.|I was in a state of alarm.
+{71363}{71420}- Sorry.|- I'd like you to continue.
+{71454}{71550}"I'd like you to continue."|She said it to him, just like that.
+{71554}{71590}Well, what did he say?
+{71594}{71666}He was taken back but he went|along with what she wanted.
+{71674}{71708}What else could he do?
+{71716}{71790}I'd have asked her to do the same,|call me by my first name.
+{71794}{71829}That's not his style.
+{71833}{71904}Besides, I don't think my friend|intends to court her.
+{71908}{71965}Then he'll never get her out of there.
+{71969}{72045}I don't|think my friend intends to court her.
+{72049}{72118}I don't think my friend|intends to court her.
+{72122}{72151}Horrible voice!
+{72159}{72236}I'd have thought he'd at least|have desired to see her face.
+{72240}{72308}'Desired's probably|not the right word.
+{72312}{72405}Curious to see her, perhaps.|Yes, I could understand that.
+{72409}{72482}But the chances of it happening|seem to be really remote.
+{72486}{72518}There might be a way.
+{72526}{72581}Just depends on how brave|your friend is.
+{72612}{72672}- The French bureau.|- Yes.
+{72676}{72768}- The table with the roll top.|- No, I'd like to keep that.
+{72776}{72841}That's it.|Next time, we'll do the paintings.
+{72849}{72895}- OK.|- One last thing, Claire.
+{72899}{72991}You'll have to decide whether we do|the photography here or in a studio.
+{72999}{73069}In a studio. I don't want|many people around the house.
+{73078}{73141}That's the best solution.|Well, I'm off now.
+{73145}{73214}- Anything you need?|- No. Thank you, Mr. Oldman.
+{73246}{73291}When will we next see each other?
+{73323}{73433}You mean, when do you see me?|Since I am not given that privilege.
+{73464}{73515}- Forgive me.|- But soon.
+{73541}{73592}- Have a good day.|- You too.
+{75892}{75918}Hello?
+{76522}{76596}- I can't believe it.|- I couldn't sleep at night, Virgil.
+{76600}{76674}I had to do something to make|you forgive me.
+{76678}{76719}But how did you get it?
+{76727}{76801}I heard that Mrs. Durane|had fallen on hard times,
+{76805}{76917}so I persuaded her to sell it to me|for £250,000.
+{76921}{76973}Hmm, not exactly cheap!
+{76977}{77025}I thought it was a reasonable price.
+{77033}{77080}You were talking about £8 million.
+{77085}{77138}This way,|everyone gets a good deal.
+{77173}{77215}How much do you want, Billy?
+{77220}{77282}I don't want a penny more|than I gave the old girl.
+{77286}{77335}Now you're really losing your grip.
+{77343}{77394}I just want to get back|to where we were.
+{77402}{77468}How was your friend,|your accomplice,
+{77475}{77524}your trusted procurer of women?
+{77562}{77652}lf you're doing this to win back my|trust, it's been a bad deal for you.
+{77692}{77740}You never lost it in the first place.
+{77748}{77794}Oh!
+{77830}{77903}This is great.|This is great!
+{77911}{77953}You found important stuff.
+{77957}{78001}Best bit is this.
+{78056}{78124}- An ear.|- A step forward, wouldn't you say?
+{78132}{78191}I'd say!|I'd say we're at a turning point.
+{78195}{78224}Look.
+{78370}{78411}- Huh?|- Excellent.
+{78419}{78478}The pieces are attracting each other.
+{78482}{78507}So...
+{78539}{78616}How did things go with your... friend?
+{78672}{78767}How many seconds did it take you|to realise I was talking about myself?
+{78771}{78815}Quite a few, to be honest.
+{78819}{78881}Let me confess,|I didn't follow your advice.
+{78907}{79003}There was something too contorted|about it, too imprudent.
+{79007}{79045}Yeah, OK, I see your point.
+{79547}{79644}The mathematical set|of a six-day week.
+{79674}{79793}The mathematical set|of a 51-minute hour.
+{79826}{79892}- What will you have, sir?|- Tea, please.
+{79900}{79947}Have you thought of anything else?
+{79951}{80013}The length of a point.|The direction of a circle.
+{80017}{80071}Your tea's ready, sir.
+{80075}{80164}The edge of a circumference.|The centre of space.
+{80215}{80318}- The area of a segment.|- Amazing. Well done!
+{80345}{80407}The vertical position of a sphere.
+{80453}{80518}I brought the furniture|and painting valuations.
+{80522}{80603}Look at them carefully because|you'll have to authorise them.
+{80608}{80701}- I don't know a thing about this.|- I know. Trust me, Miss lbbetson.
+{80706}{80773}You've been spending time|in the cellars recently.
+{80777}{80864}- Is that why you changed the locks?|- I change them every six months.
+{80935}{81001}And I take care to double-check,|compare and correct
+{81009}{81076}when dealing with|odds and ends in cellars.
+{81080}{81138}It's how I work.|If it upsets you, speak now.
+{81147}{81234}You'll find the new keys on the table.|Please take them.
+{81340}{81390}Thank you for your trust.
+{81394}{81446}Were you offended|at being locked out?
+{81450}{81478}No, but I was worried.
+{81510}{81584}You're right, I should have told you.|I'm sorry.
+{81634}{81720}Claire, you're ruining your life|for reasons which are beyond me.
+{81728}{81813}This illness of yours is so absurd,|it almost seems unreal.
+{81853}{81915}My mother thought|I was faking it the first time.
+{81919}{81952}We were abroad.
+{81956}{82027}I was so afraid of walking|at the foot of the Eiffel Tower
+{82031}{82065}that it paralysed me.
+{82069}{82139}I started screaming,|fell to the ground.
+{82143}{82219}I was just a little girl, but it kept|happening more and more
+{82224}{82260}and she had to believe me.
+{82264}{82307}Has there ever been an open space
+{82311}{82367}where you weren't overcome|by anxiety?
+{82371}{82484}Only one. During a school trip|to Prague. I was 14.
+{82489}{82543}The square|with the astronomical clock.
+{82547}{82642}I must have walked across it|a hundred times. It was beautiful.
+{82650}{82724}I remember a restaurant|with very strange decor.
+{82753}{82835}If there's one place in the world|I'm nostalgic for, it's that.
+{82840}{82874}I was really happy there.
+{82908}{82965}It was called Night and Day.
+{83000}{83071}- You've never been back?|- Never.
+{83105}{83195}Why not go now?|I'd be happy to take you.
+{83317}{83412}Well, you don't seem too pleased.|We're almost there.
+{83441}{83517}Our automaton is about|to emerge from the shadows.
+{83521}{83579}No, I'm delighted.|You're a force of nature.
+{83633}{83663}It's just that...
+{83691}{83734}...this is one of those evenings
+{83738}{83798}when one feels like this contraption|here...
+{83942}{83970}...incomplete.
+{83999}{84071}Why did you never marry?|You know, never have kids?
+{84078}{84113}The regard I have for women
+{84118}{84189}is equal to the fear|I've always had of them...
+{84193}{84252}...and to my failure|to understand them.
+{84279}{84332}If that's the rule, then Miss lbbetson
+{84336}{84418}gives every impression|of being the exception.
+{84422}{84450}I'm afraid so.
+{84454}{84518}Have you really never|set eyes on her?
+{84522}{84550}Just once.
+{84575}{84608}What's she like?
+{84612}{84699}I suppose feeling a certain interest|in a person
+{84703}{84788}necessarily engenders|a conviction that she's beautiful.
+{84792}{84832}Up to a point.
+{84874}{84961}It's her birthday in two days.|I'd like to get her something useful.
+{84996}{85066}I don't think useful|is probably your best approach.
+{85074}{85109}- No?|- Not the first time.
+{85113}{85184}It's better to get her something|more... traditional.
+{85305}{85334}Morning, sir.
+{85391}{85435}Hello, sir.
+{85443}{85511}Hey, Mr. Oldman.|Look what I found in the cellar.
+{85541}{85596}I saw you were interested|in this old junk.
+{85628}{85679}The supports for|the Murano chandelier.
+{85687}{85734}My colleagues couldn't find them.
+{85738}{85814}- I can put them in your car.|- That's very kind.
+{85856}{85885}Wait.
+{85927}{85955}Oh, thanks.
+{86009}{86038}Morning, Mr. Oldman.
+{86075}{86157}I took the liberty of remembering|it's your birthday.
+{86168}{86202}Happy birthday, Claire.
+{86266}{86338}I read|the valuation documents.
+{86342}{86395}Did you manage to understand|some of it?
+{86399}{86448}Of course.|Ridiculous sums of money.
+{86452}{86523}Even a backwards child|would know she's being cheated.
+{86527}{86595}They need interpretation.|They're starting bids.
+{86599}{86672}- There'll be higher bids later.|- Suppose there aren't!
+{86676}{86742}Unlikely, but in that case,|we'll even things out.
+{86746}{86801}We'll raise the margins|on other pieces.
+{86805}{86867}A gamble? Where I'm the only one|that can lose?
+{86872}{86945}You're trying to cheat me.|It's all to your advantage.
+{86949}{86988}You're a fucking thief!
+{87015}{87081}I'm willing to resign|the commission forthwith.
+{87110}{87134}Huh!
+{87178}{87267}I'll have them replace all your|mediocre bric-a-brac immediately.
+{87271}{87334}And do me the favour|of disappearing completely
+{87338}{87373}from the face of the earth!
+{88434}{88471}1984, sir.
+{88876}{88947}- Hello.|- I behaved so badly.
+{89044}{89146}I feel so stupid. I constantly have|to offer justifications.
+{89205}{89265}I've never been given flowers|before.
+{89269}{89386}I don't know what this says to me.
+{89429}{89516}There's no need for this display|of anguish. I'm not angry with you.
+{89611}{89670}My birthdays have always been|so horrible.
+{89714}{89755}And you...
+{89759}{89793}Since you came along...
+{89822}{89890}...you've turned my life upside down.
+{89955}{90020}The other day, I went downstairs.
+{90050}{90145}I opened the main door|and looked out onto the garden.
+{90185}{90244}- Did you go out?|- No.
+{90288}{90331}I was afraid.
+{90335}{90372}I felt terrible.
+{90415}{90466}But I never even got that far before.
+{90562}{90599}Do you want me to come over?
+{90642}{90683}I already know it's pointless.
+{90687}{90760}There are new treatments|nowadays. They might help you.
+{90765}{90819}I'd rather talk to you|than to some shrink.
+{90854}{90923}- Should I take that as a compliment?|- Yes.
+{91011}{91072}I see you brought up|the portrait of the dancer.
+{91076}{91141}- It's something I want to keep.|- No great value.
+{91145}{91216}It's a portrait of my mother.
+{91220}{91272}She was about my age|when she had it done.
+{91371}{91404}Do you look like her?
+{91408}{91492}- She was prettier, I can assure you.|- I cannot judge.
+{91719}{91754}Alright, Claire. I'll go.
+{91759}{91835}Don't hesitate to call|if you need anything at all.
+{91839}{91888}Thank you, Mr. Oldman.|See you soon, I hope.
+{93030}{93100}Hello? Oh, it's you, director.
+{93109}{93168}No, I would've called you,|it's just that...
+{93172}{93240}...clearing the furniture|has been complicated.
+{93275}{93331}Yes. Oldman is dealing with it.
+{93352}{93442}What's he like?|Not as old as you might think.
+{93451}{93540}He dresses in an odd way,|but he's still a good-looking man.
+{93549}{93596}I know I can trust him.
+{93600}{93679}Why? Are you jealous?
+{93694}{93762}In love? No, I don't think so.
+{93767}{93832}He's too put off by my illness,|like everybody.
+{93884}{93941}Oh no, it's nothing.|I... I hurt my foot.
+{93949}{93989}Can we talk later?
+{94599}{94629}Who is it?
+{94650}{94686}Who's there?
+{94710}{94770}No, get out!|No, please, get out!
+{94781}{94835}Go away! Get out!
+{94844}{94915}Get out! Please, leave me alone!
+{94960}{94997}Get out!
+{95060}{95097}Get out!
+{95458}{95552}- Hello?|- Please, help me, please.
+{95558}{95620}Calm down, Claire.|What's happened?
+{95626}{95690}You have to help me!|Help me!
+{95696}{95766}- I'll be there as soon as I can.|- Please.
+{97089}{97126}Claire!
+{97131}{97225}- It's me. I'm here. What's happened?|- There's somebody in the house!
+{97230}{97302}- Please get them out!|- Calm down. There's nobody here.
+{97306}{97363}- There's someone in the house!|- Calm down.
+{97371}{97443}It was me before, Claire.|It was me.
+{97481}{97518}It was me.
+{97583}{97644}I hid in the room so I could see you.
+{97704}{97739}You were spying on me?
+{97766}{97815}You were spying on me?
+{97829}{97864}Get out!
+{97868}{97942}I want nothing more to do with you!|Get out!
+{98185}{98244}Please, Virgil. Don't go.
+{98667}{98741}Believe me,|I don't normally behave like this...
+{98779}{98816}Neither do I.
+{98840}{98914}So I'm bound to make some|mistakes...
+{98973}{99057}...but nothing in the world|would make me want to hurt you.
+{99085}{99163}It's just that I can't help myself.
+{99216}{99260}I need to see you.
+{100131}{100174}You should've seen her.
+{100207}{100273}Pale, like a Durer etching.
+{100286}{100366}She had the look of some creature|terrified of the universe.
+{100374}{100439}And I could read my own terror|in her eyes.
+{100447}{100555}Every man on earth would like to be|as terrified as you at this moment.
+{100749}{100815}- You've worked a miracle.|- It's too soon to tell.
+{100824}{100911}And you be careful, alright?|This is when mistakes occur.
+{100919}{100966}When you think you've made it,
+{100975}{101017}that is when you lose strategy.
+{101025}{101119}- And what strategy would that be?|- Never stop surprising them.
+{101124}{101234}Do things they couldn't have|foreseen. Take a gamble, run a risk.
+{101242}{101309}You're asking me to behave|in a way that isn't me.
+{101317}{101366}That's why you have to do it.
+{101386}{101451}As long as you're playing|according to her rules,
+{101455}{101531}you're always gonna make her|feel like... like a patient.
+{101535}{101593}She needs to be treated|like a woman.
+{102325}{102374}What do you think? Do you like it?
+{102466}{102503}I don't know.
+{102533}{102570}What do you think?
+{102594}{102641}lt looks marvellous on you, Claire.
+{102659}{102698}Perhaps the smaller size?
+{102719}{102781}Yes. I think so too.
+{103108}{103175}It's been a long time|since I got a present like this.
+{103214}{103295}- Long overdue, don't you think?|- I don't know.
+{103304}{103370}I'm a little,|you know, taken a back.
+{103537}{103586}- I'm sorry, I can't...|- What?
+{103632}{103660}Oh, certainly.
+{103681}{103751}I'm sorry.|I didn't understand.
+{103955}{104028}I don't honestly know|if I deserve all this.
+{104108}{104166}Let me be the judge of that.
+{104607}{104670}If we don't set a date|for the Stockholm auction,
+{104674}{104710}they'll shoot themselves.
+{104714}{104773}It's too far.|Let them shoot themselves.
+{104839}{104914}We have to schedule the meeting|with the Hermitage
+{104922}{104988}and the auctions in|San Francisco and Madrid.
+{104992}{105026}Ditto. Too far away.
+{105033}{105118}- We can't abandon them.|- There are auctioneers galore.
+{105122}{105191}They'll find someone else|and it will cost them less.
+{105195}{105226}As you wish.
+{105354}{105404}Lambert, are you married?
+{105426}{105485}Yes. Nearly 30 years.
+{105493}{105553}What's it like, living with a woman?
+{105562}{105607}Like taking part in an auction.
+{105623}{105698}You never know if yours|will be the best offer.
+{106336}{106374}- This one.|- Very well, sir.
+{106415}{106485}What do you think?|Have I made myself pretty?
+{106528}{106587}- Beautiful. You've done very well.|- Liar.
+{106591}{106647}- Claire.|- I haven't done this for years.
+{106656}{106727}I've forgotten how to do it.|I look like a monster.
+{106731}{106800}Trust me. Some practice|and you'll be wonderful.
+{106804}{106863}And you'll take me to|one of your auctions,
+{106867}{106912}and to galas with elegant people,
+{106920}{107003}and to the most refined restaurants|in the world.
+{107011}{107106}That's the reason for your|presents, isn't it, Virgil?
+{107129}{107206}To help me recover little by little,|and then take me out.
+{107214}{107257}Isn't that right?
+{107314}{107349}No!
+{107353}{107406}Claire. Don't be like this.|Let's talk.
+{107508}{107609}Maybe we did get the last moves|wrong. I was a bit rash.
+{107618}{107653}Don't blame yourself.
+{107658}{107738}It's always her who manages|to pull everything apart.
+{107746}{107798}Robert. My aunt's gone missing|again.
+{107802}{107843}- You're kidding.|- Pardon me.
+{107851}{107925}- We found her in Central Park.|- I'm sorry, Terry.
+{107929}{107999}It was no good|trying to reset this thing.
+{108003}{108082}It was much more easy|just to make a new one.
+{108086}{108146}This one has a much wider range.
+{108155}{108210}She can go off|and you won't lose touch.
+{108218}{108278}Just make sure|you reprogram the PC, okay?
+{108283}{108334}I can manage that.|You're an angel.
+{108356}{108399}- Thanks, darling.|- No worries.
+{108419}{108487}- I'll see you tomorrow night, yeah?|- Yeah.
+{108539}{108662}You need an idea that'll excite her|but at the same time reassure her.
+{108667}{108776}Yes, but she'll still see through it|as some deceitful therapy.
+{108784}{108864}- You should invite her to dinner.|- Yes! Noma in Copenhagen!
+{108872}{108932}At the climax of the evening,|by candlelight,
+{108940}{108995}tell her that she's beautiful.
+{109003}{109053}And after|you'll have coffee with us?
+{109061}{109098}Why not?
+{109144}{109248}Joking apart, I'd be glad|if you did see her, hear her talk.
+{109257}{109324}I'm sure you'd understand|far more than I.
+{109367}{109415}Who said anything about joking?
+{109452}{109552}129,403.
+{109556}{109597}Your champagne.
+{109612}{109660}- Thank you.|- Calculate this.
+{109682}{109825}12,624,831.333.
+{109883}{109919}Unbelievable!
+{110051}{110089}You're radiant, Claire.
+{110138}{110171}You did all this?
+{110175}{110240}I can turn my hand|to interior decorating.
+{110453}{110536}You've done a wonderful job, Virgil.|Thank you.
+{110679}{110764}I can't tell you how long I've wanted|to spend time alone with you.
+{110772}{110855}Somewhere quiet,|far from the madding crowd.
+{110984}{111033}To your serenity, Claire.
+{111095}{111136}To your irony, Virgil.
+{111280}{111336}- Now I feel I can finally tell you.|- What?
+{111344}{111404}You are more beautiful than the|dancer.
+{111469}{111505}Dinner is served.
+{111514}{111573}- Please be seated.|- Thank you.
+{111581}{111638}I warn you, as a waiter|I'm not the best.
+{111646}{111702}I offer no guarantees.
+{111719}{111793}- I'll take the risk.|- Somewhat foolhardy of you.
+{111808}{111881}- Why?|- lf the service is not to your liking,
+{111885}{111936}next time I'd have to|make a reservation
+{111940}{111979}at the best restaurant in town.
+{112043}{112093}Let's not ruin this evening, Virgil.
+{112097}{112179}- Please, let's not talk about me.|- Alright.
+{112187}{112251}Instead I'd like you to tell me|about your past.
+{112260}{112336}You see, there's nothing|very original about my life.
+{112344}{112418}A child loses his parents,|a horrible orphanage...
+{112427}{112508}The only point of interest is|that the nuns would punish the boy
+{112512}{112593}by making him work with a restorer|who had a workshop there.
+{112601}{112643}That's beautiful.
+{112647}{112699}He loved to observe|this craftsman,
+{112707}{112794}so the little boy got up to|all sorts of mischief
+{112799}{112868}to ensure he'd be punished|as often as possible.
+{112872}{112915}So he became acquainted with art,
+{112924}{113014}techniques of painting,|how to tell a forgery from an original
+{113018}{113060}etc., etc.
+{113064}{113183}In an old article of yours|I found on the internet, you said,
+{113191}{113269}"There's something authentic|in every forgery."
+{113277}{113310}What did you mean?
+{113314}{113364}When simulating another's work
+{113373}{113466}the forger can't resist the temptation|to put in something of himself.
+{113470}{113544}Often it's just a trifle,|a detail of no interest.
+{113553}{113590}One unsuspected stroke,
+{113594}{113672}by which the forger inevitably|ends up betraying himself,
+{113680}{113758}and revealing his own,|utterly authentic sensibilities.
+{113781}{113834}I really love the way you talk.
+{113842}{113899}You couldn't have been|more convincing.
+{113903}{113945}Huh? A born seducer.
+{113953}{114050}- So you'd give me a pass?|- A+. With distinction!
+{114058}{114120}Sorry, you've been|a bit neglected lately.
+{114163}{114225}You haven't said|anything about Claire.
+{114244}{114331}If I didn't know about her problems,|I'd say she was normal.
+{114340}{114420}And she's much more beautiful|than you described.
+{114428}{114486}Really. I liked her.
+{114490}{114537}You're going to make me jealous?
+{114541}{114618}lf you want my advice,|you pray that girl never gets better.
+{114626}{114687}Do you want lots 87 and 88|done separately?
+{114691}{114748}No, together. That's important.
+{114902}{114947}How can I help you?
+{114988}{115045}- It's about Robert.|- What's going on?
+{115093}{115126}Don't be afraid to tell me.
+{115177}{115244}We're not getting on so well,|that's the problem.
+{115252}{115308}All those girls hovering around him...
+{115338}{115375}I guess I'm just...
+{115389}{115428}...l'm afraid of losing him.
+{115453}{115498}Is there anything I can do?
+{115530}{115566}Do you want me to talk to him?
+{115617}{115715}For a while now he's been|talking about someone called Claire.
+{115774}{115810}Claire?
+{115833}{115878}I don't understand
+{115882}{115987}With him everybody's got to|be on their guard, all the time.
+{115995}{116037}That goes for you, too.
+{116106}{116151}I feel so stupid.
+{116229}{116286}Promise me you won't say a word|to him.
+{116312}{116351}I promise.
+{116473}{116534}Have you been|waiting long?
+{116539}{116604}lf you'd phoned,|I wouldn't have kept you waiting.
+{116608}{116672}- I prefer to see you.|- Is something wrong?
+{116680}{116725}My assistant will come by today.
+{116729}{116801}Kindly hand over the|Vaucanson as it is.
+{116805}{116854}Alright. Whatever you want.
+{116862}{116921}Tell him how much you're owed.|He'll pay you.
+{116969}{117018}Aren't I at least due an explanation?
+{117022}{117092}You're not the trustworthy man|I thought you were.
+{117140}{117220}lt's weird seeing them so|perfect and polished up.
+{117228}{117263}It's as if they weren't mine.
+{117530}{117578}I believe nothing is missing.
+{117606}{117645}There is something missing.
+{118134}{118233}How could you have lived|the best years of your life in here?
+{118251}{118325}I don't know. I don't know.
+{118342}{118379}It was just the right thing.
+{118463}{118499}"Was."
+{118542}{118578}lt still is.
+{118586}{118623}It always will be.
+{118641}{118678}Always.
+{118845}{118933}You have to get out of here.|You have to do it by yourself.
+{118957}{119002}I don't have the courage.
+{119054}{119131}It's a spider's web that|I don't know how to break free of.
+{119237}{119294}It's an old collection|my father was fond of.
+{119303}{119353}I never did understand what it was.
+{119524}{119588}Hello?|Good morning, director.
+{119614}{119659}Yes, I'm nearly finished.
+{119677}{119736}But I would like to rewrite|the last chapter.
+{119752}{119801}A more upbeat ending.
+{119851}{119896}If that's all you want...
+{119916}{119985}Yes. Talk to you soon. Thanks.
+{120041}{120121}I wouldn't rule out them|being part of something valuable,
+{120125}{120174}but exactly what I couldn't say.
+{120182}{120241}- I often wonder if...|- What?
+{120248}{120318}lf you're more interested|in my furniture than in me.
+{120359}{120409}How could you say that?
+{120453}{120522}I shouldn't have let you in here.|I shouldn't have.
+{121082}{121141}I've found all the missing pieces.
+{121148}{121202}How do you feel about|finishing the job?
+{121223}{121269}Well, it's your problem.
+{121321}{121369}Sarah came to see me|a few days ago.
+{121373}{121427}She was upset|about your relationship.
+{121509}{121614}- Are you here to advise me now?|- No, you're the expert on women.
+{121646}{121709}Alright.|We can pick up where we left off.
+{121717}{121745}On two conditions.
+{121753}{121840}You just stop involving me|in your private life.
+{121870}{121896}And the second?
+{122035}{122070}Is that you take this back.
+{122199}{122285}I didn't get excited about|your Vaucanson for the money.
+{122367}{122413}I brought it back. It's in the car.
+{122421}{122464}And the new pieces too?
+{122472}{122569}You'll have to be patient for those.|They're tied up with my private life.
+{122578}{122645}I don't know|and I don't want to know.
+{122678}{122776}If you were forced to choose|between Claire and the automaton,
+{122784}{122829}which would you take?
+{123005}{123085}- This one.|- An excellent choice, Mr. Oldman.
+{123093}{123125}If it's the wrong size,
+{123129}{123203}please inform the lady to pass by|whenever she wishes.
+{123208}{123248}Thank you, I'll let her know.
+{123256}{123297}Claire? lt's me.
+{123662}{123775}Claire! I've brought lunch.
+{124004}{124041}Claire!
+{124080}{124194}Claire, answer me!
+{124235}{124272}Claire!
+{124313}{124349}Claire!
+{124393}{124430}Claire!
+{124564}{124601}Are you down here?
+{124732}{124797}Claire!
+{125647}{125695}Have any of you seen a woman
+{125699}{125768}going out the gate|of the villa across the road?
+{125772}{125807}No, I can't say I have.
+{125815}{125887}Has anybody seen someone|coming out of the villa?
+{125895}{125961}A young woman.|Medium height, light hair.
+{125969}{126028}- A bit pale.|- I think I saw her.
+{126036}{126066}I didn't see her go out,
+{126071}{126123}but she was walking away|from the gate.
+{126131}{126186}- When?|- This morning at breakfast.
+{126194}{126269}- What else can you tell me?|- She seemed a bit weird.
+{126277}{126380}- Weird? Which way did she go?|- That way. Towards the park.
+{126388}{126430}231.
+{126438}{126515}Idiot!
+{126567}{126619}- Hello? Virgil?|- She's gone.
+{126623}{126686}- Who? What's going on?|- Claire's disappeared.
+{126690}{126758}I've looked.|They saw her leave this morning.
+{126766}{126821}- Do you want me to come over?|- Please.
+{126890}{126927}Has this happened before?
+{126931}{126982}She never even appeared|at the windows.
+{126986}{127023}Just behind the shutters.
+{127031}{127084}Did she have friends|she could go to?
+{127093}{127195}She'd talk to people on her|computer under different names.
+{127203}{127288}- She can't have gone far.|- Let's hope so.
+{127296}{127344}I've already been round three times.
+{127407}{127450}- Hello?|- Mr. Oldman.
+{127454}{127520}- Listen, has Miss lbbetson phoned?|- No.
+{127524}{127588}- lf she calls, let me know.|- I will.
+{127593}{127683}Mr. Oldman, I wouldn't like|to think you'd forgotten.
+{127687}{127731}Forgotten what?
+{127908}{127989}- There he is. Here we go.|- Lot number one.
+{127997}{128094}Late Baroque, Venetian,|mid-18th-century mirror.
+{128098}{128148}Inlaid wood with gold leaf,
+{128156}{128227}with adornments,|floral motifs and festoons.
+{128280}{128317}Upper frame richly...
+{128513}{128579}Inlaid wood with gold leaf,|with adornments,
+{128583}{128624}floral motifs and festoons.
+{128628}{128685}Upper frame richly|engraved with whirls.
+{128689}{128724}Can we say 130,000 euros?
+{128750}{128788}140,000 euros.
+{128796}{128851}150,000 euros.|Gentleman on my left.
+{128855}{128904}160,000 euros. Lady up the back.
+{128913}{129011}170,000 euros.|180,000 euros on the telephone.
+{129019}{129104}200,000 euros.|Gentleman on my left in the room.
+{129108}{129161}220,000 euros.
+{129165}{129239}250,000 euros on the tele...
+{129247}{129320}Still nothing, Mr. Oldman.|I'll keep looking.
+{129324}{129386}- Robert's looking further afield.|- Alright.
+{129390}{129457}- I'll call you later.|- Alright
+{129513}{129578}- He's gone crazy.|- 280,000.
+{129586}{129636}310,000. Any more?
+{129657}{129712}Sold!
+{129720}{129812}I'm doing the rounds|of the hospitals, but there's nothing.
+{129816}{129844}Just keep looking.
+{129849}{129911}- We'll find her. I'll keep in touch.|- Thanks.
+{129936}{129973}Lot number 2.
+{129978}{130047}A 17th-century|Fassadenschranke wardrobe
+{130051}{130094}in walnut, maple, oak and ash.
+{130099}{130162}The carved frame|surmounts an inlaid stripe,
+{130170}{130248}and two doors engraved|with architectural motifs,
+{130256}{130304}surrounded by carvings of fruit.
+{130312}{130386}Three spiralled,|tapered columns flank the doors.
+{130394}{130466}The lower body has two drawers.
+{130538}{130567}And um...
+{130675}{130749}There's nothing for it|but to call the police.
+{130753}{130822}It'll be all over the papers.|They'll drag me into it.
+{130826}{130861}Let's wait a bit longer.
+{130868}{130906}What do you hope will happen?
+{130914}{130993}That she'll come back... or turn up.
+{131025}{131089}Or they'll find out where she is.
+{131093}{131182}Someone with her problems|doesn't just disappear into thin air.
+{131186}{131235}Well, that depends.
+{131243}{131288}No matter how deeply rooted it is,
+{131292}{131358}sometimes a phobia|can just disappear by itself.
+{131366}{131406}So, why did she run away?
+{131410}{131461}Maybe something happened|between you
+{131469}{131530}that drove her|to take that kind of decision.
+{131534}{131612}You know perfectly well|that's impossible.
+{131617}{131684}You're the only person|who knows everything
+{131688}{131729}that happened between us.
+{131813}{131866}Excuse me a minute.
+{132330}{132401}- Hello?|- I'm sorry, Mr. Oldman.
+{132405}{132462}I've called|all the publishers in existence
+{132467}{132515}but none of them knows|who she is.
+{132519}{132573}They said that often|even they don't know
+{132577}{132652}the identity of authors|who use pseudonyms.
+{132660}{132712}I'd never have guessed that you
+{132716}{132774}would have ended up|in a mess like this.
+{132778}{132868}- I don't know how I can help you.|- All you had to do was listen.
+{132876}{132928}Ah.
+{132932}{133038}Considering the lady's illness,|it seems highly unrealistic
+{133046}{133090}that she's just run away.
+{133120}{133225}I'd say, I don't know,|she'd been abducted or something.
+{133234}{133303}That's not likely.|I don't think she had any enemies.
+{133311}{133391}It could be somebody became|so besotted with her
+{133395}{133433}and carried her off by force.
+{133441}{133522}- But who?|- I've had my doubts about Robert.
+{133530}{133555}The young guy?
+{133563}{133634}The way you describe him,|he doesn't seem the type.
+{133642}{133718}From the literary point of view,|he fits the bill.
+{133745}{133793}The young knight|rescuing the damsel
+{133797}{133879}from the clutches of the old man|incapable of love.
+{133887}{133953}Literature, exactly.
+{133961}{134008}Don't go overboard, Virgil.
+{134016}{134095}She could have had her own reasons|for disappearing.
+{134103}{134162}I can't imagine what reasons.
+{134170}{134246}Recently, she's been experiencing|emotions and feelings
+{134251}{134305}that are incompatible with flight.
+{134313}{134360}I wouldn't be so sure,|if I were you.
+{134369}{134428}Human emotions|are like works of art.
+{134436}{134477}They can be forged.
+{134481}{134574}They seem just like the original,|but they're a forgery.
+{134634}{134728}- Forgery?|- Everything can be faked, Virgil.
+{134737}{134807}Joy, pain, hate.
+{134844}{134902}Illness, recovery.
+{134939}{134988}Even love.
+{135413}{135455}- Hello?|- Listen.
+{135459}{135519}There's something|that hadn't occurred to us.
+{135523}{135620}Are you sure there are|no other secret rooms in the villa?
+{135624}{135674}I don't remember|any other doors
+{135678}{135731}like the one to Miss lbbetson's room.
+{135764}{135818}Claire!
+{135822}{135934}The only place we haven't looked at|is the attic... if you want?
+{136076}{136143}Did you know|that Miss Claire was a writer?
+{136147}{136209}I heard her parents|talk about it.
+{136213}{136285}She used a pseudonym|for her books.
+{136289}{136382}I never knew that.|I've never seen the books.
+{136390}{136432}She never wanted them here.
+{136440}{136473}Claire!
+{136504}{136582}We're wasting time.|There are no other secret rooms.
+{136586}{136623}You've come back.
+{136628}{136671}- We should...|- Quiet!
+{136679}{136711}You've...
+{136739}{136772}You've come back.
+{136776}{136821}You've...
+{136870}{136913}You've come back.
+{136921}{136954}You've...
+{136958}{136997}Claire?
+{137125}{137213}Claire, I can feel you're there.|Answer me.
+{137271}{137307}You've come back.
+{137375}{137448}- You've come back.|- Of course I have.
+{137480}{137519}Were you afraid I wouldn't?
+{137804}{137874}I thought|you'd abandoned me.
+{137879}{137962}- Like last time.|- Last time?
+{137970}{138037}When we got back from Prague.
+{138113}{138144}Claire.
+{138666}{138716}I will never abandon you.
+{138800}{138884}I'd been happy in Prague|in that very odd restaurant.
+{138948}{139017}I was there with my first|and only boyfriend.
+{139069}{139108}He was older than me.
+{139224}{139288}When we got back|from that excursion,
+{139292}{139362}one afternoon,|we were walking in the city centre.
+{139429}{139479}A car crashed into us.
+{139507}{139596}When I came to,|he wasn't there anymore.
+{140108}{140212}I went back home|and I never went out again.
+{140888}{140939}I've never slept|with a woman.
+{140947}{141018}In fact, I didn't close my eyes.
+{141026}{141110}I spent the whole night|just looking at her.
+{141118}{141219}- It was wonderful.|- Well, welcome to the grown-up club.
+{141227}{141293}You've succeeded|in making her fall in love.
+{141334}{141379}I had a good teacher.
+{141438}{141490}I understood where the dwarf hid.
+{141498}{141566}Look, there must have been|a sunken pedestal here.
+{141574}{141613}He would crouch in there
+{141617}{141674}and his voice would reverberate|in the body.
+{141678}{141721}It must have made an impression.
+{141729}{141779}Do you think love can be faked?
+{141893}{141960}In keeping with what you say|about art forgeries,
+{141968}{142023}I'd say it can't be completely faked.
+{142031}{142080}If one could say love is a work of art.
+{142088}{142147}It'd be amazing if it were,|wouldn't it?
+{142151}{142196}lt could be sold off at an auction.
+{142204}{142291}The highest bidder could relive|the greatest love stories.
+{142295}{142355}I hope I haven't destroyed|your love story.
+{142363}{142408}No problem. No problem.
+{142416}{142474}A new valve, two hinges, one fuse...
+{142478}{142536}It'll be good as new.|Just like the first day.
+{142544}{142600}What do you think|you're going to do now?
+{142647}{142702}I want to coax her out.
+{142710}{142802}Yeah, I wouldn't push too hard|if I were you.
+{142810}{142860}She's too fragile.
+{142868}{142972}You'll see. When you least expect it,|things will fall into place naturally.
+{143333}{143426}No!
+{144576}{144675}Hello? Hello?
+{144679}{144747}Virgil? Virgil, is that you?
+{145518}{145581}Virgil! Virgil!
+{145728}{145773}Virgil?
+{146265}{146307}Help! Help!
+{146339}{146399}- Hold it up!|- It is up!
+{147096}{147162}Why don't you love it?
+{147166}{147257}I've never felt it to be a real home.|More like a hotel.
+{147265}{147315}You come home a night,|sleep if you can.
+{147319}{147376}Next morning,|you're off somewhere else.
+{147408}{147457}Let's go back inside.
+{147490}{147580}Seems to have been planned|to welcome a lot of people.
+{147584}{147664}Yes, but the plan was never realised.
+{147668}{147732}Except for the inaugural reception.
+{147740}{147787}I was so distrustful of other people
+{147791}{147903}that I kept them away from|the perimeter of my personal hotel.
+{147957}{148002}I was a fool.
+{148037}{148074}Even now, I still get upset
+{148078}{148156}when I see the housekeeper|and the maids walking about.
+{148161}{148210}After dinner, I send them home.
+{148247}{148307}I wasn't wrong when I said|we were very similar.
+{148311}{148353}Yes, you were right.
+{148393}{148442}And thanks to you, I understood.
+{148876}{148938}- Where are you taking me?|- You'll soon find out.
+{148991}{149084}Close your eyes.|I'll tell you when you can open them.
+{149289}{149354}Don't be afraid. I'll lead the way.
+{149358}{149436}I never liked games|where you had to close your eyes.
+{149610}{149694}- Mind the step.|- Gently, please.
+{149795}{149824}We're almost there.
+{149863}{149897}Stop now.
+{149951}{149992}Open your eyes.
+{150178}{150219}I don't believe it.
+{150302}{150338}It's overwhelming.
+{150353}{150408}I've been collecting them|all my life.
+{150456}{150530}So, I'm not the first.|You have had other women
+{150538}{150594}Yes.
+{150598}{150659}I've loved them all|and they loved me back.
+{150668}{150718}They taught me to wait for you.
+{150762}{150805}And now that you're here,
+{150809}{150862}we'd like you to come|and live with us
+{150866}{150924}and make this beautiful hotel|your home.
+{150961}{150998}Oh, Virgil.
+{151061}{151121}If anything should ever happen to us,
+{151125}{151174}I want you to know that I do love you.
+{151227}{151266}I love you too.
+{151270}{151357}The catalogue for the sale|of the paintings and furniture
+{151361}{151397}of Ibbetson Villa is ready.
+{151401}{151483}Congratulations. It's a lovely volume.|About time!
+{151523}{151595}I wonder who'll buy|this wonderful stuff... Oh, sorry.
+{151599}{151678}I can't conceal my anxiety to know|what you think about it.
+{151936}{151973}Well, don't you like it?
+{152038}{152070}No, it's just that...
+{152118}{152184}...ever since I decided|to come and live with you...
+{152222}{152310}...I've been thinking I... don't want|to sell anymore.
+{152367}{152423}I'd like to leave everything|the way it was.
+{152586}{152612}I understand.
+{152637}{152661}Are you sure?
+{152682}{152742}Believe me, if I were you,|I'd do the same thing.
+{152794}{152874}Tomorrow, everything|will be back in its place.
+{152946}{152974}Alright, Virgil!
+{153086}{153185}To the most tortured and most|fortunate catalogue of my career.
+{153189}{153229}That's saying something.
+{153233}{153282}- Here, here.|- Cheers.
+{153319}{153377}And since you've become|my family...
+{153422}{153486}...I too have an important|announcement to make.
+{153506}{153558}Next week,|I have an auction in London.
+{153566}{153647}It will be the finest of my career|and the very last.
+{153783}{153850}They say he's been seen|recently in female company.
+{153854}{153896}- Who? Virgil?|- Yes.
+{153900}{153998}It's finally come home to him that the|worst sexual perversion is chastity.
+{154027}{154089}How is it going|onstage for the last time?
+{154093}{154185}I've never felt better. There's|a whiff of anticipation in the air.
+{154189}{154244}All my colleagues|have come to see me off.
+{154248}{154281}That's nice of them.
+{154285}{154376}This affection is because they won't|have to put up with me anymore.
+{154432}{154509}Anyhow, I'm happy, Claire.|I just wish you were here.
+{154513}{154548}Me too.
+{154552}{154634}But I'm not ready to travel yet.|I got dizzy in the car yesterday.
+{154638}{154722}Don't let it get to you. We have|all the time in the world to travel.
+{154726}{154778}- We're ready, Mr. Oldman.|- I'm coming.
+{154799}{154851}Have you heard|from our young friends?
+{154855}{154921}Constantly.|I'm never left on my own.
+{154926}{154974}Good. Give them my love.
+{155002}{155066}- I can hear you've got to go.|- Yes.
+{155091}{155175}- But I can't wait to get back home.|- Good luck, my darling.
+{155198}{155257}£12,100,000.
+{155332}{155366}Any more?
+{155411}{155468}£12,300,000.
+{155499}{155536}Any advance?
+{155607}{155666}£12,500,000 on the telephone.
+{155702}{155750}Any more?
+{155754}{155816}All done at £12,500,000.
+{155824}{155908}Sold for £12,500,000.
+{155940}{156020}Ladies and gentlemen, I thank you.
+{156314}{156393}- Good to see you.|- Thank you. Not a bad price.
+{156401}{156452}Can I say hello to you in public?
+{156456}{156504}Oh, Billy.
+{156512}{156610}You were fantastic, my friend! I'm|happy for you. I'm going to miss you.
+{156618}{156671}You say it like|we'll never meet again.
+{156681}{156716}Of course we will.
+{156720}{156804}But I'm feeling nostalgic|thinking about all our exploits.
+{156822}{156867}- You'll get over it.|- Virgil?
+{156894}{156960}To remind you of|what a great artist I could've been
+{156968}{157060}if only you'd believed in me,|I've sent you one of my paintings.
+{157065}{157107}I promise I won't burn it.
+{157352}{157389}Claire.
+{157426}{157462}Claire, I'm back!
+{157510}{157547}Hello?
+{157623}{157691}- Have you seen Miss Claire?|- No, sir.
+{157701}{157737}Claire?
+{157776}{157809}Where are you?
+{157851}{157879}Claire?
+{157908}{157974}Mr. Oldman,|she must have gone out.
+{157982}{158017}It was the same yesterday.
+{158021}{158100}Sarah and Robert came to get her,|then came back for lunch.
+{158104}{158134}Alright.
+{160121}{160167}"There is always
+{160171}{160243}something authentic|concealed in every forgery."
+{160247}{160328}I couldn't agree more.|That's why I'll miss you, Mr. Oldman.
+{160333}{160385}"There is always something|authentic
+{160389}{160432}concealed in every forgery."
+{160436}{160480}I couldn't agree more.
+{160484}{160547}That's why I'll miss you, Mr. Oldman.
+{160551}{160603}"There is always something|authentic
+{160607}{160649}concealed in every forgery."
+{160653}{160698}I couldn't agree more.
+{160702}{160764}That's why I'll miss you, Mr. Oldman.
+{160768}{160819}"There is always something|authentic
+{160823}{160863}concealed in every forgery."
+{160871}{160966}I couldn't agree more.|That's why I'll miss you, Mr. Oldman.
+{160970}{161022}"There is always something|authentic
+{161026}{161067}concealed in every forgery."
+{161071}{161119}I couldn't agree more.
+{161123}{161172}That's why I'll miss you, Mr. Oldman.
+{161176}{161258}"There is always something|authentic concealed in every..."
+{161651}{161746}Good morning, Mr. Oldman.|We have visitors today.
+{161750}{161824}Isn't this nice?|Look who's come to see you!
+{162004}{162056}How are you, Mr. Oldman?
+{162166}{162207}I've brought your mail,
+{162216}{162294}some newspapers|and a few magazines.
+{164362}{164454}A few days ago, they brought|some furniture to the villa opposite.
+{164539}{164567}Did you notice?
+{164586}{164654}I think so,|but I don't see much from in here.
+{164671}{164695}Ask her.
+{164887}{164921}Claire?
+{164925}{164983}Listen to what|this gentleman wants to say.
+{165010}{165035}Yes.
+{165068}{165101}And the day after,
+{165105}{165183}other workmen came|and took everything away again.
+{165233}{165270}The day after?
+{165301}{165395}In 18 months,|three deliveries and three removals.
+{165466}{165520}I was here a while ago.
+{165551}{165603}- Do you remember?|- Nine.
+{165662}{165756}- What do you mean?|- You've been here nine times.
+{165805}{165840}Today makes 10.
+{165848}{165934}I was wondering if you saw|a woman leave the villa.
+{165964}{166040}Medium height, light hair,|a bit pale?
+{166071}{166163}- Yes.|- That time was 231.
+{166201}{166235}Are you sure?
+{166243}{166283}Then another six.
+{166303}{166421}In a year and a half,|I saw her go out 237 times.
+{166430}{166463}What did I say?
+{166468}{166526}She's a phenomenon,|remembers everything.
+{166575}{166611}It's not possible.
+{166672}{166722}You were at the villa 63 times.
+{166731}{166824}36 during the day and 27 at night,
+{166832}{166887}excluding the night|of the accident.
+{166922}{167003}- One, four, four.|- One, four, four?
+{167011}{167065}The telephone number|for the ambulance.
+{167100}{167137}The villa is free now.
+{167146}{167216}If you're interested,|I'll get you a good deal.
+{167254}{167317}- Who owns it?|- Me.
+{167346}{167395}But I don't know what to do with it.
+{167421}{167484}I often rent it out to cinema people.
+{167506}{167539}Cinema people?
+{167553}{167623}For the past two years,|it's been taken by the engineer
+{167627}{167688}who does the lift|that takes me up to my house.
+{167707}{167747}He's really nice, that boy.
+{167769}{167809}He can do anything.
+{167813}{167872}There's nothing he can't fix.
+{167886}{167966}And he's always kissing me.
+{167970}{168012}Bringing me flowers.
+{171949}{172039}The Paris Express|is now arriving at platform seven.
+{172074}{172115}Your attention, please.
+{172119}{172186}The Berlin-Prague Arrow|is running 40 minutes late
+{172190}{172218}due to fog on the line.
+{172262}{172299}Come in, sir.
+{172331}{172387}We furnished it|exactly as you requested.
+{172421}{172480}And tomorrow, your trunks|will be delivered.
+{172485}{172559}And later, I'll pass by|with a copy of your contract.
+{172567}{172647}If there's anything else,|please don't hesitate to call.
+{172801}{172838}Oh, Virgil.
+{172872}{172972}If anything should happen to us,|I want you to know that I do love you.
+{176395}{176445}Are you on your own, sir?
+{176698}{176762}No. I'm waiting for someone.
+{176787}{178287}OpenSubtitles recommends using Nord VPN|from 3.49 USD/month ----> osdb.link/vpn
