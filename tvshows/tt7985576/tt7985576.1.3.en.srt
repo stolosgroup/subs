@@ -1,0 +1,1849 @@
+﻿1
+00:00:06,000 --> 00:00:12,074
+OpenSubtitles recommends using Nord VPN
+from 3.49 USD/month ----> osdb.link/vpn
+
+2
+00:00:13,120 --> 00:00:16,638
+<font color="#00ffff">These people were set on fire</font>
+<font color="#00ffff">while they were still alive!</font>
+
+3
+00:00:16,640 --> 00:00:18,160
+<font color="#00ffff">You must investigate this.</font>
+
+4
+00:00:22,360 --> 00:00:24,958
+<font color="#00ff00">A young woman...very frightened.</font>
+<font color="#00ff00">Looking for help.</font>
+
+5
+00:00:24,960 --> 00:00:26,278
+<font color="#00ff00">Making accusations.</font>
+
+6
+00:00:26,280 --> 00:00:28,758
+<font color="#00ff00">Wild accusations.</font>
+<font color="#00ffff">What were these accusations?</font>
+
+7
+00:00:28,760 --> 00:00:30,238
+<font color="#00ff00">Drugging and robbery.</font>
+
+8
+00:00:30,240 --> 00:00:32,758
+<font color="#00ffff">Keep him a little sick</font>
+<font color="#00ffff">and he will do anything for you.</font>
+
+9
+00:00:32,760 --> 00:00:34,760
+<font color="#00ffff">And murder?</font><font color="#00ff00"> Yes.</font>
+
+10
+00:00:41,480 --> 00:00:44,798
+<font color="#ffffff">KNOCK ON DOOR</font>
+<font color="#00ffff">I am searching for a woman</font>
+<font color="#00ffff">who has been looking for help.</font>
+
+11
+00:00:44,800 --> 00:00:46,440
+<font color="#ffffff">WOMAN SCREAMS</font>
+
+12
+00:00:58,000 --> 00:01:02,080
+<font color="#ffffff">MUSIC: Le Responsable</font>
+<font color="#ffffff">by Jacques Dutronc</font>
+
+13
+00:01:06,000 --> 00:01:09,320
+<font color="#ffffff">PEOPLE CHATTER</font>
+
+14
+00:01:11,960 --> 00:01:13,598
+<font color="#ffffff"># J'ai des soucis j'ai des ennuis</font>
+
+15
+00:01:13,600 --> 00:01:15,680
+<font color="#ffffff"># J'ai des tracas</font>
+<font color="#ffffff">j'ai des tourments... #</font>
+
+16
+00:01:36,680 --> 00:01:38,280
+<font color="#ffff00">Hey, Papa!</font>
+
+17
+00:01:47,640 --> 00:01:50,960
+<font color="#ffffff">CAPTAIN WELCOMES PASSENGERS</font>
+<font color="#ffffff">IN FRENCH</font>
+
+18
+00:02:47,520 --> 00:02:51,038
+<font color="#00ffff">Excuse me. Do you have a light?</font>
+
+19
+00:02:51,040 --> 00:02:52,800
+<font color="#ffffff">Yes. Erm...</font>
+
+20
+00:04:33,520 --> 00:04:36,040
+<font color="#00ffff">Please.</font><font color="#ffff00"> Thank you.</font>
+
+21
+00:04:42,720 --> 00:04:47,118
+<font color="#00ffff">So, I was given this diary</font>
+<font color="#00ffff">at the British Embassy.</font>
+
+22
+00:04:47,120 --> 00:04:49,518
+<font color="#00ffff">Alongside a note</font>
+<font color="#00ffff">with your address on it,</font>
+
+23
+00:04:49,520 --> 00:04:51,600
+<font color="#00ffff">which is how we came to find you.</font>
+
+24
+00:04:52,920 --> 00:04:56,358
+<font color="#00ffff">I believe this diary belongs to...</font>
+
+25
+00:04:56,360 --> 00:04:59,000
+<font color="#00ffff">..BELONGED to this man...</font>
+
+26
+00:05:00,440 --> 00:05:03,400
+<font color="#00ffff">..Willem Bloem, or Wim.</font>
+
+27
+00:05:05,360 --> 00:05:07,358
+<font color="#00ffff">You do know this man?</font>
+
+28
+00:05:07,360 --> 00:05:08,878
+<font color="#ffff00">No.</font>
+
+29
+00:05:08,880 --> 00:05:10,958
+<font color="#ffff00">Not really, Monsieur Knippenberg.</font>
+
+30
+00:05:10,960 --> 00:05:12,400
+<font color="#00ffff">You did see...</font>
+
+31
+00:05:15,000 --> 00:05:19,718
+<font color="#00ffff">..you did see this couple</font>
+<font color="#00ffff">at the same apartment as Gautier.</font>
+
+32
+00:05:19,720 --> 00:05:21,678
+<font color="#ffff00">No. I didn't.</font>
+
+33
+00:05:21,680 --> 00:05:23,958
+<font color="#ffff00">But I believe they were there.</font>
+
+34
+00:05:23,960 --> 00:05:25,080
+<font color="#00ff00">Madame Gires.</font>
+
+35
+00:05:26,240 --> 00:05:30,238
+<font color="#00ff00">Did you ever actually see them?</font>
+
+36
+00:05:30,240 --> 00:05:32,318
+<font color="#ffff00">Sorry, but no.</font>
+
+37
+00:05:32,320 --> 00:05:36,638
+<font color="#00ffff">Then why take did you take this?</font>
+<font color="#00ffff">Madam Gires, please.</font>
+
+38
+00:05:36,640 --> 00:05:40,320
+<font color="#00ffff">Look. This man. Yes? This man...</font>
+
+39
+00:05:42,280 --> 00:05:44,318
+<font color="#00ffff">He now looks like this.</font><font color="#00ff00"> Hey.</font>
+
+40
+00:05:44,320 --> 00:05:46,838
+<font color="#00ff00">What do you think you're doing!?</font>
+<font color="#00ff00">You brought us here?</font>
+
+41
+00:05:46,840 --> 00:05:48,878
+<font color="#00ff00">Remember?</font>
+<font color="#00ff00">You're supposed to be helping us.</font>
+
+42
+00:05:48,880 --> 00:05:50,160
+<font color="#00ffff">I...</font>
+
+43
+00:05:54,880 --> 00:05:56,758
+<font color="#ffffff">Nadine...</font>
+
+44
+00:05:56,760 --> 00:05:58,758
+<font color="#ffffff">I am sorry.</font>
+
+45
+00:05:58,760 --> 00:06:01,920
+<font color="#ffffff">He didn't mean to be</font>
+<font color="#ffffff">so...insensitive.</font>
+
+46
+00:06:04,320 --> 00:06:10,438
+<font color="#ffffff">But he found the bodies of these</font>
+<font color="#ffffff">two Dutch, do you see?</font>
+
+47
+00:06:10,440 --> 00:06:12,598
+<font color="#ffffff">And he identified them.</font>
+
+48
+00:06:12,600 --> 00:06:14,080
+<font color="#ffffff">It was awful for him.</font>
+
+49
+00:06:15,560 --> 00:06:18,398
+<font color="#ffffff">We very much want to find out</font>
+<font color="#ffffff">what happened to them.</font>
+
+50
+00:06:18,400 --> 00:06:21,078
+<font color="#00ff00">What happened to them?</font>
+
+51
+00:06:21,080 --> 00:06:23,680
+<font color="#00ff00">The same thing that happened</font>
+<font color="#00ff00">to all of them.</font>
+
+52
+00:06:24,960 --> 00:06:26,680
+<font color="#ffffff">What do you mean by that?</font>
+
+53
+00:06:27,720 --> 00:06:28,880
+<font color="#ffffff">All?</font>
+
+54
+00:06:33,520 --> 00:06:36,560
+<font color="#00ff00">All is more than two Dutch.</font>
+
+55
+00:06:52,560 --> 00:06:54,520
+<font color="#00ffff">How many?</font>
+
+56
+00:06:57,400 --> 00:06:59,958
+<font color="#00ffff">A number? How many people</font>
+<font color="#00ffff">are we talking about here?</font>
+
+57
+00:06:59,960 --> 00:07:01,560
+<font color="#00ff00">I don't know.</font>
+
+58
+00:07:02,920 --> 00:07:04,400
+<font color="#00ff00">Many.</font>
+
+59
+00:07:52,480 --> 00:07:55,240
+<font color="#ffffff">HE SCREAMS</font>
+
+60
+00:07:57,920 --> 00:08:00,440
+<font color="#ffffff">HE CHEERS</font>
+
+61
+00:08:01,800 --> 00:08:06,160
+<font color="#ffffff">MOANING AND COUGHING</font>
+
+62
+00:11:11,640 --> 00:11:15,520
+<font color="#00ffff">What?</font><font color="#ffff00"> The radio here,</font>
+<font color="#ffff00">Alain gave it to me.</font>
+
+63
+00:11:17,680 --> 00:11:19,878
+<font color="#ffff00">He gave it to me as a gift.</font>
+
+64
+00:11:19,880 --> 00:11:21,560
+<font color="#00ff00">As a reward, you mean.</font>
+
+65
+00:11:37,280 --> 00:11:41,638
+<font color="#ffff00">I brought clients to him.</font>
+<font color="#00ffff">To Gautier?</font><font color="#ffff00"> Yes.</font>
+
+66
+00:11:41,640 --> 00:11:44,158
+<font color="#ffffff">Clients for his gem business?</font>
+
+67
+00:11:44,160 --> 00:11:46,518
+<font color="#ffff00">Yes. You see,</font>
+
+68
+00:11:46,520 --> 00:11:49,438
+<font color="#ffff00">I used to take him</font>
+<font color="#ffff00">to parties at the Alliance Francaise</font>
+
+69
+00:11:49,440 --> 00:11:52,358
+<font color="#ffff00">and introduce him to people there.</font>
+
+70
+00:11:52,360 --> 00:11:55,398
+<font color="#ffff00">Alain is very good at going</font>
+<font color="#ffff00">to parties.</font>
+
+71
+00:11:55,400 --> 00:11:56,878
+<font color="#ffff00">They all were.</font>
+
+72
+00:11:56,880 --> 00:11:59,040
+<font color="#00ff00">Party, party, party.</font>
+
+73
+00:12:12,480 --> 00:12:17,278
+<font color="#ffff00">You marry a chef,</font>
+<font color="#ffff00">get used to your own loneliness.</font>
+
+74
+00:12:17,280 --> 00:12:22,038
+<font color="#ffff00">So, yes, I was lonely.</font>
+<font color="#ffff00">I think that is what he saw.</font>
+
+75
+00:12:22,040 --> 00:12:24,118
+<font color="#ffff00">That he looked for it</font>
+<font color="#ffff00">in the people he met.</font>
+
+76
+00:12:24,120 --> 00:12:27,558
+<font color="#ffff00">So, if you were lonely</font>
+<font color="#ffff00">or sad or lost,</font>
+
+77
+00:12:27,560 --> 00:12:29,598
+<font color="#ffff00">whatever you may have needed,</font>
+
+78
+00:12:29,600 --> 00:12:33,280
+<font color="#ffff00">even if you didn't know it yourself,</font>
+<font color="#ffff00">you see, he saw it.</font>
+
+79
+00:12:34,840 --> 00:12:36,440
+<font color="#ffff00">And he fixed it.</font>
+
+80
+00:12:37,920 --> 00:12:39,960
+<font color="#ffff00">It was like the sun shone on you.</font>
+
+81
+00:13:31,400 --> 00:13:32,758
+<font color="#00ff00">Charles.</font>
+
+82
+00:13:32,760 --> 00:13:34,838
+<font color="#00ffff">You call me Alain.</font>
+<font color="#00ffff">Ready to go to work?</font>
+
+83
+00:13:34,840 --> 00:13:37,598
+<font color="#00ff00">Yeah.</font>
+<font color="#00ffff">Let me introduce you to Ajay.</font>
+
+84
+00:13:37,600 --> 00:13:39,760
+<font color="#00ff00">Time to party, girls.</font>
+
+85
+00:13:40,920 --> 00:13:41,958
+<font color="#00ff00">Hey, look who I found.</font>
+
+86
+00:13:41,960 --> 00:13:43,078
+<font color="#00ff00">You have a girlfriend?</font>
+
+87
+00:13:43,080 --> 00:13:44,558
+<font color="#ffffff">MUSIC: Funk #49</font>
+<font color="#ffffff">by James Gang</font>
+
+88
+00:13:44,560 --> 00:13:46,518
+<font color="#ffffff"># Out all night, sleep all day</font>
+
+89
+00:13:46,520 --> 00:13:49,358
+<font color="#ffffff"># I know what you're doin'</font>
+
+90
+00:13:49,360 --> 00:13:51,558
+<font color="#ffffff"># If you're gonna act that way</font>
+
+91
+00:13:51,560 --> 00:13:54,680
+<font color="#ffffff"># I think there's</font>
+<font color="#ffffff">trouble brewin'... #</font>
+
+92
+00:13:59,800 --> 00:14:01,400
+<font color="#00ffff">You both look very handsome.</font>
+
+93
+00:14:09,080 --> 00:14:10,798
+<font color="#ffff00">You live with these guys?</font>
+
+94
+00:14:10,800 --> 00:14:12,640
+<font color="#ffffff">Yeah, they're cool.</font>
+
+95
+00:14:14,600 --> 00:14:16,080
+<font color="#ffff00">7am.</font>
+
+96
+00:14:18,760 --> 00:14:21,038
+<font color="#ffff00">As soon as it starts ringing,</font>
+<font color="#ffff00">I've got to go.</font>
+
+97
+00:14:21,040 --> 00:14:23,400
+<font color="#ffffff">BANGING</font>
+
+98
+00:14:27,480 --> 00:14:29,840
+<font color="#ffffff">MONKEY CALLS</font>
+
+99
+00:14:43,920 --> 00:14:45,840
+<font color="#ffffff">STOMACH GURGLES</font>
+
+100
+00:15:36,200 --> 00:15:37,800
+<font color="#ffffff">HE SIGHS</font>
+
+101
+00:15:39,120 --> 00:15:41,200
+<font color="#ffffff">HE BREATHES DEEPLY</font>
+
+102
+00:15:44,400 --> 00:15:45,718
+<font color="#ffffff">HE GROANS</font>
+
+103
+00:15:45,720 --> 00:15:47,440
+<font color="#ffffff">CLOCK TICKS</font>
+
+104
+00:15:52,760 --> 00:15:54,158
+<font color="#ffffff">CLOCK TICKS LOUDER</font>
+
+105
+00:15:54,160 --> 00:15:56,560
+<font color="#ffffff">BELL PEALS</font>
+
+106
+00:16:07,120 --> 00:16:09,360
+<font color="#ffffff">COCO SCREECHES</font>
+
+107
+00:16:26,400 --> 00:16:27,760
+<font color="#ffffff">Coco?</font>
+
+108
+00:16:30,640 --> 00:16:33,158
+<font color="#00ffff">You ought to be more careful,</font>
+<font color="#00ffff">Dominique!</font>
+
+109
+00:16:33,160 --> 00:16:37,358
+<font color="#00ffff">It's medication for a grown man.</font>
+<font color="#00ffff">He was only a tiny little monkey.</font>
+
+110
+00:16:37,360 --> 00:16:39,438
+<font color="#00ff00">What do you think is going on here,</font>
+<font color="#00ff00">Dominique?</font>
+
+111
+00:16:39,440 --> 00:16:42,478
+<font color="#00ff00">You think we like having you</font>
+<font color="#00ff00">shitting yourself four times a day?</font>
+
+112
+00:16:42,480 --> 00:16:45,198
+<font color="#00ff00">That we want to spend all of this</font>
+<font color="#00ff00">money on toilet paper?</font>
+
+113
+00:16:45,200 --> 00:16:46,560
+<font color="#ffffff">No. Of course not.</font>
+
+114
+00:17:20,200 --> 00:17:22,998
+<font color="#00ffff">Dominique is asking</font>
+<font color="#00ffff">that I return his passport.</font>
+
+115
+00:17:23,000 --> 00:17:25,798
+<font color="#ffffff">I feel...I feel much better.</font>
+
+116
+00:17:25,800 --> 00:17:28,880
+<font color="#ffffff">And I cannot stay with you</font>
+<font color="#ffffff">for ever, after all.</font>
+
+117
+00:17:33,440 --> 00:17:35,998
+<font color="#ffffff">I went to Australia to, erm...</font>
+
+118
+00:17:36,000 --> 00:17:38,078
+<font color="#ffffff">..try working on the boats.</font>
+
+119
+00:17:38,080 --> 00:17:41,438
+<font color="#ffffff">I was travelling back to France</font>
+<font color="#ffffff">when you found me.</font>
+
+120
+00:17:41,440 --> 00:17:44,198
+<font color="#ffffff">I don't buy gems, I have no money.</font>
+
+121
+00:17:44,200 --> 00:17:46,360
+<font color="#ffffff">I want to finish my journey...</font>
+
+122
+00:17:47,680 --> 00:17:49,360
+<font color="#ffffff">..and I want to go home.</font>
+
+123
+00:18:07,520 --> 00:18:09,798
+<font color="#00ff00">Of course, I will change it</font>
+<font color="#00ff00">back for you.</font>
+
+124
+00:18:09,800 --> 00:18:13,358
+<font color="#00ff00">As you can see,</font>
+<font color="#00ff00">I am very good at it.</font>
+
+125
+00:18:13,360 --> 00:18:15,718
+<font color="#00ff00">But your tourist visa has expired</font>
+
+126
+00:18:15,720 --> 00:18:18,558
+<font color="#00ff00">because you were too sick</font>
+<font color="#00ff00">to renew it.</font>
+
+127
+00:18:18,560 --> 00:18:21,998
+<font color="#00ff00">And they will not let you</font>
+<font color="#00ff00">travel without it.</font>
+
+128
+00:18:22,000 --> 00:18:26,520
+<font color="#00ff00">But don't worry, my friends at the</font>
+<font color="#00ff00">French Embassy owe me a few favours.</font>
+
+129
+00:18:28,840 --> 00:18:30,598
+<font color="#00ff00">Stay close to the apartment.</font>
+
+130
+00:18:30,600 --> 00:18:33,800
+<font color="#00ff00">If the police stop you,</font>
+<font color="#00ff00">you will go to jail for this.</font>
+
+131
+00:18:57,480 --> 00:19:00,278
+<font color="#00ffff">Any more information you could give</font>
+<font color="#00ffff">us would be very helpful,</font>
+
+132
+00:19:00,280 --> 00:19:03,598
+<font color="#00ffff">and information about the people</font>
+<font color="#00ffff">you mentioned coming and going...</font>
+
+133
+00:19:03,600 --> 00:19:06,398
+<font color="#00ff00">Never mind about them for now,</font>
+<font color="#00ff00">Cloggy.</font>
+
+134
+00:19:06,400 --> 00:19:09,040
+<font color="#00ff00">Tell me about him. Gautier.</font>
+
+135
+00:19:10,360 --> 00:19:12,158
+<font color="#00ff00">That's his real name?</font>
+
+136
+00:19:12,160 --> 00:19:15,158
+<font color="#ffff00">That's the only name</font>
+<font color="#ffff00">I heard him use, yes.</font>
+
+137
+00:19:15,160 --> 00:19:17,718
+<font color="#ffff00">The same for Monique. Or Ajay.</font>
+
+138
+00:19:17,720 --> 00:19:20,718
+<font color="#00ff00">He had the initials CS</font>
+<font color="#00ff00">on his shirts.</font>
+
+139
+00:19:20,720 --> 00:19:22,278
+<font color="#00ff00">But maybe he stole them.</font>
+
+140
+00:19:22,280 --> 00:19:23,358
+<font color="#ffffff">Ajay who is Indian.</font>
+
+141
+00:19:23,360 --> 00:19:25,038
+<font color="#ffffff">Monique who is French-Canadian.</font>
+
+142
+00:19:25,040 --> 00:19:28,398
+<font color="#ffffff">But what is Gautier? French, yes?</font>
+<font color="#ffff00">I thought so, yes.</font>
+
+143
+00:19:28,400 --> 00:19:30,278
+<font color="#ffff00">He speaks like a Frenchman.</font>
+
+144
+00:19:30,280 --> 00:19:32,638
+<font color="#ffff00">He said he went to school in France.</font>
+
+145
+00:19:32,640 --> 00:19:34,760
+<font color="#00ff00">But he's also...</font>
+
+146
+00:19:36,160 --> 00:19:38,518
+<font color="#ffff00">Yes. He talked about growing up</font>
+<font color="#ffff00">in Saigon.</font>
+
+147
+00:19:38,520 --> 00:19:42,320
+<font color="#ffff00">And that he and Ajay met in India.</font>
+
+148
+00:19:43,360 --> 00:19:46,078
+<font color="#ffffff">Right. And that's it -</font>
+<font color="#ffffff">perhaps he lived in Saigon,</font>
+
+149
+00:19:46,080 --> 00:19:48,238
+<font color="#ffffff">perhaps he's from India,</font>
+<font color="#ffffff">but he's French.</font>
+
+150
+00:19:48,240 --> 00:19:51,438
+<font color="#ffffff">And he might be called Gautier.</font>
+<font color="#ffffff">Where is he now?</font>
+
+151
+00:19:51,440 --> 00:19:52,600
+<font color="#00ff00">We don't know.</font>
+
+152
+00:19:54,160 --> 00:19:56,518
+<font color="#ffff00">We haven't seen him since Christmas.</font>
+
+153
+00:19:56,520 --> 00:19:59,478
+<font color="#ffff00">But every night we are scared</font>
+<font color="#ffff00">they'll walk through the door.</font>
+
+154
+00:19:59,480 --> 00:20:02,718
+<font color="#00ff00">Christmas.</font>
+<font color="#00ff00">That's over two months ago.</font>
+
+155
+00:20:02,720 --> 00:20:06,958
+<font color="#00ff00">Herman, this is a waste of time,</font>
+<font color="#00ff00">it's...</font><font color="#00ffff"> No, it is not.</font>
+
+156
+00:20:06,960 --> 00:20:09,718
+<font color="#00ffff">He could be out there killing</font>
+<font color="#00ffff">people right now.</font>
+
+157
+00:20:09,720 --> 00:20:11,958
+<font color="#00ffff">And we must take them to the</font>
+<font color="#00ffff">police station today.</font>
+
+158
+00:20:11,960 --> 00:20:14,238
+<font color="#00ff00">No. No. No, we don't.</font><font color="#ffffff"> Why not?</font>
+
+159
+00:20:14,240 --> 00:20:17,398
+<font color="#ffffff">Major General Janthasin</font>
+<font color="#ffffff">of the Bangkok Central Division</font>
+
+160
+00:20:17,400 --> 00:20:19,998
+<font color="#ffffff">has encouraged Herman to report</font>
+<font color="#ffffff">back.</font><font color="#00ff00"> The one who said</font>
+
+161
+00:20:20,000 --> 00:20:22,638
+<font color="#00ff00">he was welcome to keep on</font>
+<font color="#00ff00">investigating?</font><font color="#ffffff"> Yes.</font>
+
+162
+00:20:22,640 --> 00:20:24,918
+<font color="#00ff00">You have a very German</font>
+<font color="#00ff00">faith in authority,</font>
+
+163
+00:20:24,920 --> 00:20:26,920
+<font color="#00ff00">but none of this is evidence, woman!</font>
+
+164
+00:20:29,240 --> 00:20:30,958
+<font color="#00ffff">OK...</font>
+
+165
+00:20:30,960 --> 00:20:33,358
+<font color="#00ffff">Well, over to you, then,</font>
+<font color="#00ffff">Mr Siemons, sir.</font>
+
+166
+00:20:33,360 --> 00:20:35,398
+<font color="#00ffff">What is it you suggest we do?</font>
+
+167
+00:20:35,400 --> 00:20:39,878
+<font color="#00ff00">You come with me to my car</font>
+<font color="#00ff00">where I will collect my pistol.</font>
+
+168
+00:20:39,880 --> 00:20:44,278
+<font color="#00ff00">Then we find this might-be-yellow,</font>
+<font color="#00ff00">might-be-brown, whoever he is,</font>
+
+169
+00:20:44,280 --> 00:20:46,278
+<font color="#00ff00">and I shoot him through the mouth.</font>
+
+170
+00:20:46,280 --> 00:20:48,358
+<font color="#00ffff">We are not going to shoot him.</font>
+
+171
+00:20:48,360 --> 00:20:50,640
+<font color="#00ff00">Then what are you going to do?</font>
+
+172
+00:20:51,800 --> 00:20:55,398
+<font color="#00ffff">I can and I will find a way to</font>
+<font color="#00ffff">corroborate the details</font>
+
+173
+00:20:55,400 --> 00:20:59,118
+<font color="#00ffff">she has given us elsewhere, I...</font>
+<font color="#00ff00">Like a report, then.</font><font color="#00ffff"> Yes. Yes.</font>
+
+174
+00:20:59,120 --> 00:21:02,718
+<font color="#00ffff">Like a report.</font><font color="#00ff00"> The kind you take</font>
+<font color="#00ff00">to your ambassador?</font>
+
+175
+00:21:02,720 --> 00:21:05,118
+<font color="#00ff00">Assemble statistics and costs?</font>
+
+176
+00:21:05,120 --> 00:21:08,478
+<font color="#00ff00">Cross-reference your sources.</font>
+<font color="#00ffff">Yes. Yes. A case I can present</font>
+
+177
+00:21:08,480 --> 00:21:11,398
+<font color="#00ffff">to Janthasin that will force</font>
+<font color="#00ffff">him to make the arrests.</font>
+
+178
+00:21:11,400 --> 00:21:13,278
+<font color="#00ff00">You're a functionary.</font>
+
+179
+00:21:13,280 --> 00:21:16,118
+<font color="#ffffff">A functionary whose efforts have</font>
+<font color="#ffffff">meant the parents of Wim Bloem</font>
+
+180
+00:21:16,120 --> 00:21:18,878
+<font color="#ffffff">and Lena Dekker will now be able</font>
+<font color="#ffffff">to bury their children.</font>
+
+181
+00:21:18,880 --> 00:21:22,158
+<font color="#ffffff">A functionary who at each turn was</font>
+<font color="#ffffff">told to leave it and forget them,</font>
+
+182
+00:21:22,160 --> 00:21:25,278
+<font color="#ffffff">and who you now insult in his own</font>
+<font color="#ffffff">home!</font><font color="#00ffff"> Angela. Angela. Please.</font>
+
+183
+00:21:25,280 --> 00:21:28,080
+<font color="#ffffff">No! I won't stand for it.</font>
+
+184
+00:21:30,040 --> 00:21:32,400
+<font color="#00ff00">My apologies, Mrs Knippenberg.</font>
+
+185
+00:21:42,680 --> 00:21:45,560
+<font color="#ffffff">What?</font><font color="#00ffff"> What? You don't think</font>
+<font color="#00ffff">we need him?</font>
+
+186
+00:21:47,600 --> 00:21:51,078
+<font color="#00ffff">Paul. Paul, wait, please!</font>
+
+187
+00:21:51,080 --> 00:21:52,360
+<font color="#00ffff">Paul.</font>
+
+188
+00:21:54,120 --> 00:21:56,158
+<font color="#00ffff">We need to protect these witnesses.</font>
+
+189
+00:21:56,160 --> 00:21:58,518
+<font color="#00ff00">I already told you how I'd do that.</font>
+
+190
+00:21:58,520 --> 00:22:01,040
+<font color="#00ff00">Let me know if you change your mind.</font>
+
+191
+00:22:21,960 --> 00:22:24,920
+<font color="#ffffff">I'm sorry if I upset</font>
+<font color="#ffffff">your new friend.</font>
+
+192
+00:22:27,960 --> 00:22:29,920
+<font color="#00ffff">They think I've saved them now.</font>
+
+193
+00:22:31,360 --> 00:22:35,718
+<font color="#00ffff">But what if Gautier returns</font>
+<font color="#00ffff">and finds them gone?</font>
+
+194
+00:22:35,720 --> 00:22:38,758
+<font color="#00ffff">He'd be suspicious</font>
+<font color="#00ffff">and he would target them next.</font>
+
+195
+00:22:38,760 --> 00:22:40,478
+<font color="#ffffff">We've a big house.</font>
+
+196
+00:22:40,480 --> 00:22:42,678
+<font color="#ffffff">They don't have to go back.</font>
+
+197
+00:22:42,680 --> 00:22:44,998
+<font color="#ffffff">They can stay here</font>
+<font color="#ffffff">until we've worked out what to do.</font>
+
+198
+00:22:45,000 --> 00:22:47,518
+<font color="#00ffff">I don't know what to do.</font>
+
+199
+00:22:47,520 --> 00:22:50,398
+<font color="#00ffff">I mean, Paul is right.</font>
+<font color="#00ffff">I am just a functionary.</font>
+
+200
+00:22:50,400 --> 00:22:52,318
+<font color="#ffffff">That's not true.</font>
+
+201
+00:22:52,320 --> 00:22:55,638
+<font color="#ffffff">You have valuable</font>
+<font color="#ffffff">and important qualities.</font>
+
+202
+00:22:55,640 --> 00:22:59,638
+<font color="#ffffff">That fat Belgian mocked you for it,</font>
+<font color="#ffffff">but so what?</font>
+
+203
+00:22:59,640 --> 00:23:01,960
+<font color="#ffffff">We'll do exactly as he said.</font>
+
+204
+00:23:03,200 --> 00:23:05,358
+<font color="#00ffff">Assemble the information?</font>
+
+205
+00:23:05,360 --> 00:23:06,998
+<font color="#00ffff">Research the facts?</font>
+
+206
+00:23:07,000 --> 00:23:09,878
+<font color="#00ffff">Cross-reference our sources?</font>
+
+207
+00:23:09,880 --> 00:23:12,398
+<font color="#ffffff">Write a report, Herman.</font>
+
+208
+00:23:12,400 --> 00:23:14,998
+<font color="#ffffff">Nadine and Remi know more</font>
+<font color="#ffffff">than they realise.</font>
+
+209
+00:23:15,000 --> 00:23:16,320
+<font color="#ffffff">Keep them talking.</font>
+
+210
+00:23:17,440 --> 00:23:18,480
+<font color="#00ffff">Thank you.</font>
+
+211
+00:25:44,520 --> 00:25:46,880
+<font color="#00ff00">Dominique, let's go to</font>
+<font color="#00ff00">the Santa Cruz.</font>
+
+212
+00:25:47,800 --> 00:25:50,718
+<font color="#00ff00">You know what kind of girls</font>
+<font color="#00ff00">there are? Japanese girls.</font>
+
+213
+00:25:50,720 --> 00:25:53,598
+<font color="#00ff00">German girls. Any kind of girl</font>
+<font color="#00ff00">you want, I'll help you get one.</font>
+
+214
+00:25:53,600 --> 00:25:55,918
+<font color="#ffffff">I think I am just going to</font>
+<font color="#ffffff">stay here, Ajay.</font>
+
+215
+00:25:55,920 --> 00:25:58,438
+<font color="#00ff00">You know you don't always have</font>
+<font color="#00ff00">to be a little pussy.</font>
+
+216
+00:25:58,440 --> 00:26:00,478
+<font color="#00ffff">Do not call him that.</font>
+
+217
+00:26:00,480 --> 00:26:04,718
+<font color="#00ffff">Huh? He's a nice person,</font>
+<font color="#00ffff">not a fucking pig like you.</font>
+
+218
+00:26:04,720 --> 00:26:07,718
+<font color="#00ff00">Whoa. Take it easy, Monique.</font>
+
+219
+00:26:07,720 --> 00:26:10,240
+<font color="#00ff00">Please don't get</font>
+<font color="#00ff00">sand in your vagina.</font>
+
+220
+00:26:27,720 --> 00:26:28,798
+<font color="#ffff00">Oh, Jesus!</font>
+
+221
+00:26:28,800 --> 00:26:30,160
+<font color="#00ffff">Shit.</font>
+
+222
+00:27:57,520 --> 00:27:58,960
+<font color="#ffffff">DOOR BANGS</font>
+
+223
+00:28:08,840 --> 00:28:10,958
+<font color="#ffffff">HE BREATHES DEEPLY</font>
+
+224
+00:28:10,960 --> 00:28:12,800
+<font color="#ffffff">Hello?</font>
+
+225
+00:28:18,080 --> 00:28:19,800
+<font color="#ffffff">THEY GIGGLE</font>
+
+226
+00:28:21,920 --> 00:28:24,040
+<font color="#00ff00">Oh, hi, Dominique.</font>
+
+227
+00:28:27,560 --> 00:28:30,358
+<font color="#ffff00">I am going to get dressed.</font>
+<font color="#00ff00">While the cats are away, right?</font>
+
+228
+00:28:30,360 --> 00:28:33,678
+<font color="#00ff00">Alain said that he was taking</font>
+<font color="#00ff00">Monique to Pattaya for the weekend.</font>
+
+229
+00:28:33,680 --> 00:28:35,878
+<font color="#00ff00">Said she deserved a break.</font>
+
+230
+00:28:35,880 --> 00:28:39,320
+<font color="#00ff00">Which is weird, because it's</font>
+<font color="#00ff00">not like she ever does anything.</font>
+
+231
+00:28:42,640 --> 00:28:44,440
+<font color="#00ff00">But I'm here.</font>
+
+232
+00:28:45,800 --> 00:28:48,238
+<font color="#00ff00">If you need anything,</font>
+<font color="#00ff00">you let me know, OK?</font>
+
+233
+00:28:48,240 --> 00:28:49,398
+<font color="#ffffff">OK.</font>
+
+234
+00:28:49,400 --> 00:28:52,080
+<font color="#00ff00">Maybe tonight we can go out.</font><font color="#ffffff"> Yeah.</font>
+
+235
+00:28:53,720 --> 00:28:55,638
+<font color="#00ff00">OK. You want to join?</font>
+
+236
+00:28:55,640 --> 00:28:57,040
+<font color="#ffffff">No. No, man.</font>
+
+237
+00:29:35,560 --> 00:29:37,560
+<font color="#ffffff">LAUGHTER AND SPLASHING</font>
+
+238
+00:29:39,680 --> 00:29:41,920
+<font color="#ffffff">THEY CHAT</font>
+
+239
+00:30:20,840 --> 00:30:24,120
+<font color="#00ffff">Nadine! Ajay!</font><font color="#ffff00"> Hey!</font>
+<font color="#ffff00">How are you doing?</font>
+
+240
+00:30:44,840 --> 00:30:46,800
+<font color="#ffffff">DOOR CLOSES</font>
+
+241
+00:30:54,960 --> 00:30:59,760
+<font color="#00ffff">And you had never been suspicious of</font>
+<font color="#00ffff">Gautier before this point, Nadine?</font>
+
+242
+00:31:00,960 --> 00:31:05,358
+<font color="#ffffff">You said you liked him, you worked</font>
+<font color="#ffffff">with him, went to parties.</font>
+
+243
+00:31:05,360 --> 00:31:06,998
+<font color="#ffff00">Yeah.</font>
+
+244
+00:31:07,000 --> 00:31:10,478
+<font color="#00ffff">What changed your mind?</font>
+
+245
+00:31:10,480 --> 00:31:13,000
+<font color="#00ff00">It's not what changed it.</font>
+
+246
+00:31:14,400 --> 00:31:15,840
+<font color="#00ff00">Who.</font>
+
+247
+00:31:18,000 --> 00:31:20,198
+<font color="#ffff00">Dominique.</font>
+
+248
+00:31:20,200 --> 00:31:22,038
+<font color="#00ffff">Who is Dominique?</font>
+
+249
+00:31:22,040 --> 00:31:23,558
+<font color="#ffff00">My friend.</font>
+
+250
+00:31:23,560 --> 00:31:25,120
+<font color="#ffffff">And where is he now?</font>
+
+251
+00:31:27,080 --> 00:31:28,600
+<font color="#00ff00">We don't know.</font>
+
+252
+00:31:42,400 --> 00:31:44,480
+<font color="#ffffff">CLATTERING</font>
+
+253
+00:31:54,240 --> 00:31:56,040
+<font color="#ffffff">DOOR OPENS</font>
+
+254
+00:32:51,560 --> 00:32:54,998
+<font color="#ffffff">I would like to make a call to</font>
+<font color="#ffffff">France, please.</font><font color="#00ffff"> Yes.</font>
+
+255
+00:32:55,000 --> 00:32:56,400
+<font color="#00ffff">Telephone number?</font>
+
+256
+00:32:58,400 --> 00:33:00,680
+<font color="#ffffff">LINE RINGS</font>
+
+257
+00:34:12,720 --> 00:34:15,680
+<font color="#ffffff">HE WEEPS</font>
+
+258
+00:34:24,600 --> 00:34:26,278
+<font color="#ffffff">SHOVE ON DOOR</font>
+
+259
+00:34:26,280 --> 00:34:29,120
+<font color="#ffffff">LOCK RATTLES</font>
+
+260
+00:34:30,800 --> 00:34:32,638
+<font color="#ffffff">HANDLE RATTLES IMPATIENTLY</font>
+
+261
+00:34:32,640 --> 00:34:35,038
+<font color="#ffffff">BANG ON DOOR</font>
+<font color="#ffffff">AJAY:</font><font color="#00ff00"> Dominique?</font>
+
+262
+00:34:35,040 --> 00:34:37,678
+<font color="#ffffff">HANDLE RATTLES AGGRESSIVELY</font>
+
+263
+00:34:37,680 --> 00:34:38,998
+<font color="#00ff00">Wakey-wakey.</font>
+
+264
+00:34:39,000 --> 00:34:41,838
+<font color="#ffffff">RATTLING CONTINUES</font>
+
+265
+00:34:41,840 --> 00:34:44,840
+<font color="#00ff00">Dominique. Open the door.</font>
+
+266
+00:34:46,680 --> 00:34:48,720
+<font color="#ffffff">BANGING ON DOOR</font>
+
+267
+00:34:51,320 --> 00:34:53,238
+<font color="#00ff00">I'm not going to say it again.</font>
+
+268
+00:34:53,240 --> 00:34:57,640
+<font color="#ffffff">BANGING CONTINUES</font>
+<font color="#ffffff">One second.</font><font color="#00ff00"> Open the fucking door!</font>
+
+269
+00:34:59,920 --> 00:35:02,840
+<font color="#ffffff">BANGING CONTINUES</font>
+
+270
+00:35:04,000 --> 00:35:05,880
+<font color="#ffffff">CHAIR SCRAPES ACROSS FLOOR</font>
+
+271
+00:35:09,040 --> 00:35:11,360
+<font color="#00ff00">Why did you lock the door?</font><font color="#ffffff"> Er...</font>
+
+272
+00:35:13,080 --> 00:35:17,000
+<font color="#ffffff">What happened to the lights?</font>
+<font color="#00ff00">Damn power cuts.</font>
+
+273
+00:35:20,120 --> 00:35:21,720
+<font color="#00ff00">Alain wants to see you.</font>
+
+274
+00:35:23,320 --> 00:35:25,840
+<font color="#ffffff">Now?</font><font color="#00ff00"> Mm-hm.</font>
+
+275
+00:35:32,560 --> 00:35:34,878
+<font color="#ffffff">SHE GROANS</font>
+
+276
+00:35:34,880 --> 00:35:35,920
+<font color="#ffffff">Alain?</font>
+
+277
+00:35:42,000 --> 00:35:45,200
+<font color="#ffffff">ALAIN:</font><font color="#ffff00"> Have Wim and Lina</font>
+<font color="#ffff00">taken their medicine?</font><font color="#00ffff"> Yes, Alain.</font>
+
+278
+00:35:52,520 --> 00:35:55,960
+<font color="#ffffff">AJAY:</font><font color="#00ff00"> Did you meet Stephane?</font>
+<font color="#00ff00">You would've liked her.</font>
+
+279
+00:35:59,400 --> 00:36:02,918
+<font color="#00ffff">It's a good life that</font>
+<font color="#00ffff">I provide here.</font>
+
+280
+00:36:02,920 --> 00:36:04,518
+<font color="#00ffff">I have been good to you.</font>
+
+281
+00:36:04,520 --> 00:36:06,400
+<font color="#ffffff">Yes. Of course.</font>
+
+282
+00:36:07,520 --> 00:36:10,158
+<font color="#00ffff">Then you understand</font>
+<font color="#00ffff">why it's hard for me</font>
+
+283
+00:36:10,160 --> 00:36:12,480
+<font color="#00ffff">to accept that you just</font>
+<font color="#00ffff">want to leave.</font>
+
+284
+00:36:16,320 --> 00:36:19,878
+<font color="#ffffff">I just haven't seen my parents</font>
+<font color="#ffffff">in so long, you know?</font>
+
+285
+00:36:19,880 --> 00:36:21,838
+<font color="#ffffff">KNIFE FLICKS</font>
+
+286
+00:36:21,840 --> 00:36:25,998
+<font color="#00ffff">Ajay, do you miss your parents</font>
+<font color="#00ffff">and want to go home?</font>
+
+287
+00:36:26,000 --> 00:36:28,518
+<font color="#00ff00">No, Alain. I like it here.</font>
+
+288
+00:36:28,520 --> 00:36:32,320
+<font color="#00ffff">You see,</font>
+<font color="#00ffff">Ajay understands what you do not.</font>
+
+289
+00:36:33,520 --> 00:36:35,318
+<font color="#ffffff">What is it that I don't understand?</font>
+
+290
+00:36:35,320 --> 00:36:38,238
+<font color="#00ffff">That the man you have become</font>
+<font color="#00ffff">is not the boy</font>
+
+291
+00:36:38,240 --> 00:36:40,278
+<font color="#00ffff">your papa and mama waved goodbye to.</font>
+
+292
+00:36:40,280 --> 00:36:42,838
+<font color="#00ffff">Your family. Your home.</font>
+
+293
+00:36:42,840 --> 00:36:44,838
+<font color="#00ffff">You can never go back now.</font>
+
+294
+00:36:44,840 --> 00:36:47,398
+<font color="#00ffff">You have been away too long...</font>
+
+295
+00:36:47,400 --> 00:36:49,640
+<font color="#00ffff">..and seen too much.</font>
+
+296
+00:36:54,200 --> 00:36:57,558
+<font color="#00ffff">Now, I know I said that</font>
+<font color="#00ffff">I would help you,</font>
+
+297
+00:36:57,560 --> 00:37:01,478
+<font color="#00ffff">that I would fix your passport</font>
+<font color="#00ffff">and your visa.</font>
+
+298
+00:37:01,480 --> 00:37:05,160
+<font color="#00ffff">But the truth is,</font>
+<font color="#00ffff">I don't want to help you leave.</font>
+
+299
+00:37:06,800 --> 00:37:09,240
+<font color="#00ffff">You are not my friend, Dominique.</font>
+
+300
+00:37:13,600 --> 00:37:15,320
+<font color="#00ffff">You are my brother.</font>
+
+301
+00:37:20,120 --> 00:37:23,120
+<font color="#00ffff">And this is where you belong.</font>
+
+302
+00:37:35,880 --> 00:37:38,600
+<font color="#ffffff">WOMAN CRIES OUT</font>
+
+303
+00:38:03,600 --> 00:38:05,080
+<font color="#ffffff">ALAIN:</font><font color="#00ffff"> Hurry up!</font>
+
+304
+00:38:12,120 --> 00:38:14,320
+<font color="#ffffff">SHE RETCHES AND GROANS</font>
+
+305
+00:38:46,240 --> 00:38:49,838
+<font color="#00ffff">Did Dominique say if Monique was</font>
+<font color="#00ffff">directly involved in the murders?</font>
+
+306
+00:38:49,840 --> 00:38:51,638
+<font color="#ffff00">She drugged Dominique.</font>
+
+307
+00:38:51,640 --> 00:38:53,918
+<font color="#ffff00">But murder? No.</font>
+
+308
+00:38:53,920 --> 00:38:57,638
+<font color="#ffff00">When they left, before Christmas,</font>
+<font color="#ffff00">she looked scared.</font>
+
+309
+00:38:57,640 --> 00:39:00,598
+<font color="#00ff00">Yeah, scared of going to jail.</font>
+
+310
+00:39:00,600 --> 00:39:01,920
+<font color="#ffff00">No, scared of Alain.</font>
+
+311
+00:39:03,560 --> 00:39:06,358
+<font color="#ffff00">Scared of what he may do to her.</font>
+
+312
+00:39:06,360 --> 00:39:08,040
+<font color="#ffff00">I haven't heard from her since.</font>
+
+313
+00:39:13,160 --> 00:39:16,918
+<font color="#00ffff">Ajay, has he told you what we're</font>
+<font color="#00ffff">going to do with her?</font>
+
+314
+00:39:16,920 --> 00:39:18,640
+<font color="#00ffff">You can't take dogs on airplanes.</font>
+
+315
+00:39:20,560 --> 00:39:22,598
+<font color="#00ff00">No, Monique, he hasn't.</font>
+
+316
+00:39:22,600 --> 00:39:24,920
+<font color="#00ff00">Maybe we should drop her in a canal!</font>
+
+317
+00:39:31,400 --> 00:39:33,238
+<font color="#ffffff">Monique needs a holiday.</font>
+
+318
+00:39:33,240 --> 00:39:37,120
+<font color="#ffffff">Doesn't she, Ajay? All these guests</font>
+<font color="#ffffff">she has to care for.</font>
+
+319
+00:39:40,160 --> 00:39:43,440
+<font color="#ffffff">How long are you going?</font><font color="#ffff00"> I may return</font>
+<font color="#ffff00">for a day or two, here and there.</font>
+
+320
+00:39:45,160 --> 00:39:47,798
+<font color="#ffff00">Don't worry, I have asked</font>
+<font color="#ffff00">Colonel Romyen to pass by from time</font>
+
+321
+00:39:47,800 --> 00:39:50,238
+<font color="#ffff00">to time to check in on you.</font>
+
+322
+00:39:50,240 --> 00:39:51,360
+<font color="#ffffff">OK.</font>
+
+323
+00:40:03,840 --> 00:40:05,400
+<font color="#ffff00">Merry Christmas, Dominique.</font>
+
+324
+00:40:15,600 --> 00:40:17,240
+<font color="#00ffff">Ciao!</font>
+
+325
+00:40:23,160 --> 00:40:25,440
+<font color="#00ffff">Dominique?</font>
+
+326
+00:41:27,080 --> 00:41:28,718
+<font color="#ffffff">SHOUTS:</font><font color="#00ffff"> Dominique!</font>
+
+327
+00:41:28,720 --> 00:41:29,760
+<font color="#ffffff">Shh!</font>
+
+328
+00:41:56,280 --> 00:41:58,280
+<font color="#00ffff">Oui.</font>
+
+329
+00:43:32,280 --> 00:43:34,200
+<font color="#ffffff">KNOCK ON DOOR</font>
+
+330
+00:45:43,480 --> 00:45:46,638
+<font color="#ffff00">I think my neighbour is a murderer.</font>
+
+331
+00:45:46,640 --> 00:45:50,238
+<font color="#ffff00">I tried to get</font>
+<font color="#ffff00">help from the embassies.</font>
+
+332
+00:45:50,240 --> 00:45:52,318
+<font color="#ffff00">But nobody wanted to help me.</font>
+
+333
+00:45:52,320 --> 00:45:54,480
+<font color="#ffff00">You are my only option.</font>
+
+334
+00:45:56,280 --> 00:45:59,838
+<font color="#ffff00">The worst part is that we don't know</font>
+<font color="#ffff00">if Dominique made it.</font>
+
+335
+00:45:59,840 --> 00:46:03,720
+<font color="#ffff00">He was so scared of running into</font>
+<font color="#ffff00">Alain coming back from Hong Kong.</font>
+
+336
+00:46:04,720 --> 00:46:08,158
+<font color="#ffff00">So we said write to us</font>
+<font color="#ffff00">from France.</font>
+
+337
+00:46:08,160 --> 00:46:09,398
+<font color="#ffff00">Let us know.</font><font color="#00ffff"> Where?</font>
+
+338
+00:46:09,400 --> 00:46:11,398
+<font color="#ffff00">Of course, not at the apartments,</font>
+<font color="#ffff00">because...</font>
+
+339
+00:46:11,400 --> 00:46:13,518
+<font color="#ffff00">..in case it was intercepted...</font>
+<font color="#00ffff">Of course.</font>
+
+340
+00:46:13,520 --> 00:46:15,678
+<font color="#ffff00">..but care of Poste Restante.</font>
+
+341
+00:46:15,680 --> 00:46:17,158
+<font color="#00ff00">She goes every week.</font>
+
+342
+00:46:17,160 --> 00:46:19,078
+<font color="#00ff00">But, erm...</font>
+
+343
+00:46:19,080 --> 00:46:22,520
+<font color="#ffff00">Nothing. I'll go</font>
+<font color="#ffff00">and check my mailbox again today.</font>
+
+344
+00:46:24,560 --> 00:46:27,800
+<font color="#00ffff">Well, we know how to check whether</font>
+<font color="#00ffff">he left the country, don't we?</font>
+
+345
+00:46:31,600 --> 00:46:33,160
+<font color="#00ffff">Angela...</font><font color="#ffffff"> I'm coming.</font>
+
+346
+00:46:41,760 --> 00:46:43,038
+<font color="#00ffff">Do you remember me?</font>
+
+347
+00:46:43,040 --> 00:46:45,038
+<font color="#00ffff">Mr Knippenberg.</font>
+<font color="#00ffff">This is my wife Angela.</font>
+
+348
+00:46:45,040 --> 00:46:46,918
+<font color="#00ffff">She will translate.</font>
+
+349
+00:46:46,920 --> 00:46:50,078
+<font color="#00ffff">I am looking for an exit stamp</font>
+<font color="#00ffff">of a French citizen.</font>
+
+350
+00:46:50,080 --> 00:46:52,120
+<font color="#00ffff">Male. Rennelleau Dominique.</font>
+
+351
+00:47:14,840 --> 00:47:17,518
+<font color="#00ffff">Someone left under his name</font>
+<font color="#00ffff">using his passport.</font>
+
+352
+00:47:17,520 --> 00:47:20,078
+<font color="#ffffff">It might just as well have</font>
+<font color="#ffffff">been Gautier.</font>
+
+353
+00:47:20,080 --> 00:47:21,398
+<font color="#ffffff">He forged it once.</font>
+
+354
+00:47:21,400 --> 00:47:23,038
+<font color="#ffffff">He could have done it again.</font>
+
+355
+00:47:23,040 --> 00:47:26,798
+<font color="#00ffff">You mean to actually travel on,</font>
+<font color="#00ffff">not just use his victim's</font>
+
+356
+00:47:26,800 --> 00:47:30,158
+<font color="#00ffff">passports to cash their stolen</font>
+<font color="#00ffff">traveller's cheques?</font>
+
+357
+00:47:30,160 --> 00:47:31,558
+<font color="#00ffff">Hold on... Sorry.</font>
+
+358
+00:47:31,560 --> 00:47:35,558
+<font color="#00ffff">You remember a Dutch couple</font>
+<font color="#00ffff">last time?</font>
+
+359
+00:47:35,560 --> 00:47:38,480
+<font color="#00ffff">A Miss Helena Dekker</font>
+<font color="#00ffff">and a Willem Bloem.</font>
+
+360
+00:47:49,720 --> 00:47:50,760
+<font color="#ffff00">Nueng.</font>
+
+361
+00:48:04,000 --> 00:48:06,280
+<font color="#00ffff">Erm, no.</font><font color="#ffffff"> Herman, eat it.</font>
+
+362
+00:48:25,000 --> 00:48:26,240
+<font color="#00ffff">Yes, that is them.</font>
+
+363
+00:48:27,160 --> 00:48:30,318
+<font color="#00ffff">Both flew out on the same day,</font>
+<font color="#00ffff">18th December.</font>
+
+364
+00:48:30,320 --> 00:48:33,558
+<font color="#ffffff">When we know they were both burned</font>
+<font color="#ffffff">alive in a roadside ditch</font>
+
+365
+00:48:33,560 --> 00:48:35,598
+<font color="#ffffff">on 16th December.</font>
+
+366
+00:48:35,600 --> 00:48:39,718
+<font color="#00ffff">Gautier must have flown as Willem,</font>
+<font color="#00ffff">and the girl as Lena.</font>
+
+367
+00:48:39,720 --> 00:48:41,718
+<font color="#00ffff">I think he's killing people</font>
+
+368
+00:48:41,720 --> 00:48:44,838
+<font color="#00ffff">and using their passports to</font>
+<font color="#00ffff">travel on to confuse the police.</font>
+
+369
+00:48:44,840 --> 00:48:46,638
+<font color="#ffffff">Then what about Dominique?</font>
+
+370
+00:48:46,640 --> 00:48:49,318
+<font color="#ffffff">Is he dead on a roadside</font>
+<font color="#ffffff">and the other one, Ajay,</font>
+
+371
+00:48:49,320 --> 00:48:51,080
+<font color="#ffffff">now using his passport?</font>
+
+372
+00:49:12,840 --> 00:49:16,038
+<font color="#ffffff">TANNOY:</font><font color="#00ff00"> Air France flight 37 to</font>
+<font color="#00ff00">Paris is delayed.</font>
+
+373
+00:49:16,040 --> 00:49:17,880
+<font color="#00ff00">Please wait for more information.</font>
+
+374
+00:49:58,320 --> 00:49:59,758
+<font color="#ffffff">TANNOY:</font><font color="#00ff00"> Attention, please.</font>
+
+375
+00:49:59,760 --> 00:50:05,440
+<font color="#00ff00">Air France flight 37 to Paris</font>
+<font color="#00ff00">is now ready to board at gate 12.</font>
+
+376
+00:50:28,440 --> 00:50:31,080
+<font color="#ffffff">SHOUTING</font>
+
+377
+00:50:34,640 --> 00:50:36,880
+<font color="#ffffff">SHE SHOUTS</font>
+
+378
+00:51:45,000 --> 00:51:47,040
+<font color="#ffffff">Have a great trip.</font>
+
+379
+00:51:59,160 --> 00:52:01,360
+<font color="#ffff00">This is your seat.</font>
+
+380
+00:54:14,960 --> 00:54:17,438
+<font color="#ffff00">So how was the trip?</font>
+<font color="#00ffff">It was beautiful.</font>
+
+381
+00:54:17,440 --> 00:54:18,880
+<font color="#00ffff">And good for business, too.</font>
+
+382
+00:54:22,400 --> 00:54:23,480
+<font color="#00ff00">Good news?</font>
+
+383
+00:54:25,800 --> 00:54:27,558
+<font color="#ffff00">Yeah, it's just my father.</font>
+
+384
+00:54:27,560 --> 00:54:30,840
+<font color="#ffff00">He thinks Remi doesn't make money</font>
+<font color="#ffff00">so he sends me cash!</font>
+
+385
+00:54:34,040 --> 00:54:36,080
+<font color="#00ff00">And you've had</font>
+<font color="#00ff00">nothing from Dominique?</font>
+
+386
+00:54:38,400 --> 00:54:39,518
+<font color="#ffff00">No.</font>
+
+387
+00:54:39,520 --> 00:54:40,800
+<font color="#ffff00">Why would I?</font>
+
+388
+00:54:42,240 --> 00:54:44,038
+<font color="#00ffff">It's only we, erm...</font>
+
+389
+00:54:44,040 --> 00:54:49,278
+<font color="#00ffff">..we just got back and he's clearly</font>
+<font color="#00ffff">been gone for quite some time.</font>
+
+390
+00:54:49,280 --> 00:54:51,040
+<font color="#00ff00">We were getting worried.</font>
+
+391
+00:54:53,600 --> 00:54:55,240
+<font color="#00ff00">Did you see him?</font>
+
+392
+00:54:56,800 --> 00:54:57,840
+<font color="#ffff00">No.</font>
+
+393
+00:55:01,600 --> 00:55:03,440
+<font color="#00ff00">Is Remi with you?</font>
+
+394
+00:55:04,400 --> 00:55:06,160
+<font color="#ffff00">No. He's working.</font>
+
+395
+00:55:07,560 --> 00:55:09,958
+<font color="#00ffff">We have the car outside.</font>
+
+396
+00:55:09,960 --> 00:55:11,760
+<font color="#00ffff">We can take you home if you like?</font>
+
+397
+00:55:14,760 --> 00:55:16,478
+<font color="#ffff00">Yes, with pleasure.</font>
+
+398
+00:55:16,480 --> 00:55:18,120
+<font color="#ffff00">I just need to, you know...</font>
+
+399
+00:55:27,040 --> 00:55:28,320
+<font color="#ffff00">OK.</font>
+
+400
+00:55:57,440 --> 00:55:59,480
+<font color="#ffffff">Nadine? Remi?</font>
+
+401
+00:56:02,240 --> 00:56:03,600
+<font color="#00ffff">Godver...</font>
+
+402
+00:56:04,560 --> 00:56:06,118
+<font color="#ffffff">Scheisse...</font>
+
+403
+00:56:06,120 --> 00:56:07,238
+<font color="#ffffff">We can't possibly go.</font>
+
+404
+00:56:07,240 --> 00:56:09,678
+<font color="#00ffff">It's the Ambassador's birthday,</font>
+<font color="#00ffff">it will be remarked upon</font>
+
+405
+00:56:09,680 --> 00:56:11,118
+<font color="#00ffff">if we're not there.</font>
+
+406
+00:56:11,120 --> 00:56:13,240
+<font color="#ffffff">And God forbid</font>
+<font color="#ffffff">we might be remarked upon.</font>
+
+407
+00:56:16,120 --> 00:56:17,518
+<font color="#00ff00">Hey...</font><font color="#00ffff"> Remi.</font>
+
+408
+00:56:17,520 --> 00:56:19,238
+<font color="#00ff00">You're going to a party?</font>
+
+409
+00:56:19,240 --> 00:56:21,358
+<font color="#ffffff">Yeah. A silly embassy thing.</font>
+
+410
+00:56:21,360 --> 00:56:24,478
+<font color="#ffffff">There is documentation that</font>
+<font color="#ffffff">says Dominique left the country.</font>
+
+411
+00:56:24,480 --> 00:56:27,558
+<font color="#00ffff">Actually, we don't know that it</font>
+<font color="#00ffff">was him that left.</font>
+
+412
+00:56:27,560 --> 00:56:30,278
+<font color="#00ffff">We also have evidence that</font>
+<font color="#00ffff">suggests that Gautier</font>
+
+413
+00:56:30,280 --> 00:56:32,718
+<font color="#00ffff">and Monique travelled on the</font>
+<font color="#00ffff">passports of my two Dutch.</font>
+
+414
+00:56:32,720 --> 00:56:34,838
+<font color="#00ffff">Well, who knows</font><font color="#00ffff"> where</font>
+<font color="#00ffff">they've ended up</font>
+
+415
+00:56:34,840 --> 00:56:37,040
+<font color="#00ffff">and how many people</font>
+<font color="#00ffff">they have murdered...?</font><font color="#ffffff"> Herman!</font>
+
+416
+00:56:38,600 --> 00:56:40,158
+<font color="#00ffff">Yes.</font>
+
+417
+00:56:40,160 --> 00:56:41,360
+<font color="#00ffff">Sorry, Remi.</font>
+
+418
+00:56:43,000 --> 00:56:45,158
+<font color="#ffffff">Where is Nadine?</font>
+
+419
+00:56:45,160 --> 00:56:47,318
+<font color="#00ff00">She went to check her mailbox again,</font>
+
+420
+00:56:47,320 --> 00:56:48,800
+<font color="#00ff00">to see if Dominique has written...</font>
+
+421
+00:56:50,360 --> 00:56:52,760
+<font color="#00ff00">..and she should have been home</font>
+<font color="#00ff00">an hour ago.</font>
+
+421
+00:56:53,305 --> 00:57:53,373
+Support us and become VIP member 
+to remove all ads from www.OpenSubtitles.org
