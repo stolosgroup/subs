@@ -1,0 +1,1403 @@
+{1}{1}25.000
+{26}{176}Advertise your product or brand here|contact www.OpenSubtitles.org today
+{1791}{1887}{Y:i}Adolph Hitler invaded Poland|in September, 1939...
+{1888}{1958}{Y:i}...starting WWII.
+{1959}{2054}{Y:i}By the winter of 1942,|his armies were freezing and starving...
+{2055}{2151}{Y:i}...in the snows of Russia, where his|best general had died of a heart attack...
+{2175}{2246}{Y:i}...and America had entered the war.
+{2247}{2319}{Y:i}For the first time,|Hitler's dream of a German empire...
+{2320}{2414}{Y:i}...to last 1,000 years was in doubt.
+{2415}{2510}{Y:i}While he hired and fired generals|and the winter grew colder...
+{2511}{2607}{Y:i}...15 of his officials were ordered|from their commands and ministries...
+{2608}{2703}{Y:i}...to meet in a quiet lakeside residence|in Wannsee, in Berlin...
+{2727}{2798}{Y:i}...far from the crisis at the front.
+{2799}{2895}{Y:i}In two hours,|these men changed the world forever.
+{2944}{3039}{Y:i}Only one record of what was|said and done here survives...
+{3040}{3135}{Y:i}...from the wreckage of what was|the Thousand-Year Reich.
+{3424}{3508}- How many rolls?|- Enough for four hours, sir.
+{3509}{3592}Too many. Two hours worth|should be sufficient.
+{4072}{4119}Do we have enough? How many fell?
+{4120}{4192}I am sure we have a sizable inventory, sir.
+{4193}{4240}You are sure, or you know?
+{4241}{4287}I know, sir.
+{4288}{4384}Itemize the cost. He pays.|Make it a separate report to me.
+{4408}{4504}{Y:i}And keep him where I don't see him.
+{4672}{4743}Smile.
+{4744}{4768}It is a fine day.
+{4769}{4864}Yes, sir.
+{4888}{4984}{Y:i}All right, then. Let's look smart.
+{5633}{5728}{Y:i}Heil Hitler.
+{5921}{6017}No silence in Latvia.|No silence like this.
+{6041}{6137}{Y:i}You're surprised it's better in Berlin?
+{6209}{6305}{Y:i}Heil Hitler.
+{6425}{6472}{Y:i}- We've met, Colonel.|- Indeed, we have.
+{6473}{6545}{Y:i}- I'm State Secretary Bhler.|- Indeed, you are.
+{6546}{6593}- Col. Schצngarth.|- Sir.
+{6594}{6664}Maj. Lange.
+{6665}{6761}{Y:i}If there's anything any of you need,|don't hesitate to call an orderly or me.
+{6762}{6857}My appreciation to the|man who picked this spot.
+{6858}{6904}That would be Gen. Heydrich.
+{6905}{6989}Beautiful house, from a more elegant time.
+{6990}{7073}Are they any messages from Cracow,|my office?
+{7074}{7096}No, sir.
+{7097}{7144}Where do we go?
+{7145}{7216}The Major has come a long way,|the man deserves a drink.
+{7217}{7313}{Y:i}This way. You'll find the wines, and|we're not limited to the wines, first-rate.
+{7337}{7360}That way.
+{7361}{7409}Yes, the court will dry your throat.
+{7410}{7482}Drink.
+{7483}{7552}Excellent!
+{7553}{7649}Put this book away.
+{7673}{7745}{Y:i}It's not built for this purpose,|not for meetings.
+{7746}{7817}These floors are not for boots.
+{7818}{7890}- It was a private home?|- Private home, yes.
+{7891}{7913}Whose?
+{7914}{8009}{Y:i}We believe it was owned by|a Jew. There's some dispute.
+{8034}{8081}In the SS, we travel deluxe.
+{8082}{8154}{Y:i}- Always.|- Well, we've earned it, surely.
+{8155}{8249}Not everyone agrees.
+{8490}{8537}{Y:i}- Heil Hitler!|- It's running like a damn truck.
+{8538}{8634}They say they replaced the belts and|plugs, but it sounds like a cement mixer.
+{8635}{8694}{Y:i}Can someone here check?|I can't hear myself think in there!
+{8755}{8826}The East is well represented.
+{8827}{8922}{Y:i}And we're here first.
+{8946}{8993}Meet Maj. Lange, a very tired man.
+{8994}{9065}No, please, I am enjoying|these surroundings.
+{9066}{9162}- Where can I find Col. Eichmann?|- Follow me, sir.
+{9234}{9329}Eichmann?
+{9330}{9426}Excuse the interruption.
+{9450}{9497}Colonel.
+{9498}{9569}My memorandum of recommendations.
+{9570}{9641}I have here another copy,|in the circumstance Gen. Heydrich...
+{9642}{9695}...would like to be|refreshed of its contents
+{9696}{9738}for the sake of maintaining harmony...
+{9762}{9834}...between the Gestapo|and the Foreign Office.
+{9835}{9881}- That was my thought.|- Yes.
+{9882}{9954}{Y:i}Are there any changes|to the list of the invited...
+{9955}{9977}No.
+{9978}{10074}- So even Dr. Kritzinger will be here?|- Yes.
+{10075}{10135}Yes, he will not be happy.
+{10136}{10193}Here we are. And how are you?
+{10194}{10290}{Y:i}Very well, thank you.|I'll make sure that the General sees this.
+{10291}{10386}- When will he arrive?|- He should be on the ground any moment.
+{11659}{11730}May I take your coat, sir? Your hat?
+{11731}{11827}Neumann, Director,|Office of the Four-Year Plan, sir.
+{11828}{11874}Yes. How are you, Neumann?
+{11875}{11971}Always surprised and flattered,|Dr. Stuckart, that you recognize me.
+{11972}{12066}{Y:i}I'm always thanking you for saying so.
+{12067}{12139}Neumann, Director,|Office of the Four-Year Plan.
+{12140}{12235}Dr. Stuckart.
+{12283}{12379}{Y:i}- Heil Hitler. Welcome, sir.|- Heil Hitler. Thank you for the welcome.
+{12380}{12451}{Y:i}Gen. Heydrich's not here|yet, I expect. Am I correct?
+{12452}{12474}Yes, sir.
+{12475}{12571}He loves a grand entrance.
+{12595}{12642}I have no idea what happened to him.
+{12643}{12714}Probably running a|bank somewhere by now.
+{12715}{12787}I understand the purpose, but no|idea what the man might propose.
+{12788}{12860}{Y:i}- Or what the meeting's about? Power.|- No, consolidation of power.
+{12861}{12907}We should benefit by that.
+{12908}{12980}{Y:i}Kritzinger, a pleasure.|I'm pleased you're here.
+{12981}{13052}A morbid curiosity.|We have settled this question.
+{13053}{13075}So I thought.
+{13076}{13160}{Y:i}- What's been discussed?|- Everything, except the fighting in Moscow.
+{13161}{13250}{Y:i}I've heard we're counter-attacking.|Reichenau's got them out of...
+{13251}{13340}Reichenau is dead. Let us not|gossip like maids at the market.
+{13341}{13436}We are stalled for the winter.|Time to face reality.
+{13556}{13628}- Is Col. Eichmann here?|- Yes, sir.
+{13629}{13700}Tell him Klopfer has arrived.
+{13701}{13747}And the others?
+{13748}{13819}Neumann, Director,|Office of the Four-Year Plan.
+{13820}{13892}- For Gצring?|- For Reichsmarshal Gצring, yes, his office.
+{13893}{13915}And you, sir?
+{13916}{13987}Luther. And what is your plan?
+{13988}{14084}Where will we be in four years,|do you think? Living in the White House?
+{14156}{14203}Welcome, sir.
+{14204}{14251}- You are very well fixed up here.|- I think we are.
+{14252}{14323}{Y:i}I'm late because of a briefing.|We have this general...
+{14324}{14420}...who is now trying to capture Moscow,|who has never commanded one brigade.
+{14444}{14516}{Y:i}That is what I've been hearing,|and that is why I am late.
+{14517}{14540}- Not at all.|- Is there beer?
+{14541}{14587}Yes.
+{14588}{14635}{Y:i}And where is the boys' room?
+{14636}{14732}{Y:i}I've been briefed by the Governor-General|on what concerns, what anticipations.
+{14733}{14779}That is private.
+{14780}{14876}We will all discover what new|concepts our SS friends have in mind.
+{14900}{14947}Schצngarth!
+{14948}{14971}Not bad for French.
+{14972}{15068}{Y:i}Neumann, Director, Office of the Four-Year|Plan. I'm very pleased to be here.
+{15069}{15115}Whom may I be speaking to?
+{15116}{15163}It is very complex, these laws.
+{15164}{15260}A lot of time and thought have been|put to them, and some of these here...
+{15261}{15308}...you notice all the SS...
+{15309}{15392}...have little idea what is lawful|and no respect for what they do know.
+{15393}{15476}Certainly not these men. To them,|laws are like ice cream: Easily melted.
+{15549}{15621}I suspect that is why this meeting,|which is under my department...
+{15622}{15669}...is being called by the SS. Do you know?
+{15670}{15764}Only what the invitation suggested.
+{15765}{15861}They always want to meet.|The SS love to meet.
+{15862}{15933}And they always want something more...
+{15934}{15980}...though they have everything.
+{15981}{16053}Has anyone heard anything remotely|optimistic about the Moscow assault?
+{16054}{16101}No good news. Sympathies all around.
+{16102}{16173}{Y:i}- It's cold.|- What?
+{16174}{16233}It must be cold.
+{16234}{16292}What have we got?
+{16293}{16365}I see wine, but no beer.|And what are these?
+{16366}{16436}- Cigars, sir.|- Please.
+{16437}{16485}Neumann, Director,|Office of the Four-Year Plan.
+{16486}{16532}Luther! Excuse me.
+{16533}{16605}- Sir, this is...|- Director, Four-Year Plan.
+{16606}{16677}A close associate of Reichsmarshal Gצring.
+{16678}{16748}Neumann, I introduce Dr. Klopfer...
+{16749}{16821}...a close associate of the Brown Eminence.
+{16822}{16892}- Brown?|- I represent Martin Bormann...
+{16893}{16989}...the Party Chairman|of the Thousand-Year Plan.
+{17325}{17373}- Is Dr. Kritzinger here?|- Yes, he is, sir.
+{17374}{17469}{Y:i}That's a relief.
+{17637}{17709}- Are they under way?|- Not yet, sir.
+{17710}{17757}{Y:i}- Who's late?|- We are.
+{17758}{17854}{Y:i}- Who is not here?|- Gen. Heydrich, sir, but he's on his way.
+{17855}{17925}He will make his entrance.
+{17926}{17998}{Y:i}Everything is fine, everyone's comfortable:|Food, cigars, wine.
+{17999}{18045}Colonel?
+{18046}{18141}{Y:i}He's here, sir.
+{18838}{18910}{Y:i}- Heil Hitler.|- Mller.
+{18911}{18957}I love this house!
+{18958}{19030}Seeing it from the air,|you appreciate the architect.
+{19031}{19090}- Are we ready?|- Absolutely, sir.
+{19091}{19150}After the war, it will be my home.
+{19151}{19197}A marvelous home.
+{19198}{19245}There have been questions|about Moscow...
+{19246}{19341}{Y:i}...but I think|I've deflected them successfully.
+{19342}{19413}{Y:i}Understood. If we keep doing this all day,|we'll never finish.
+{19414}{19510}{Y:i}With no disrespect to our Fhrer,|it is suspended until the end of business.
+{19511}{19557}- Yes, sir.|- Very good.
+{19558}{19605}{Y:i}- There's wine, sir.|- You've all had what you need?
+{19606}{19702}Then let us do what we are here for,|and refreshments after?
+{19703}{19725}{Y:i}- There'll be a buffet.|- Good.
+{19726}{19798}Dr. Kritzinger, important that you be here.|Let us begin.
+{19799}{19869}{Y:i}- Our Fhrer, how is his mood?|- Commanding, of course.
+{19870}{19942}{Y:i}- His generals in Russia are a disgrace.|- This conference should've...
+{19943}{19989}In a moment.
+{19990}{20037}Gentlemen, your places are identified.
+{20038}{20134}{Y:i}Thank you all for coming. Please, sit down.|I'm sorry I held you up a little.
+{20158}{20229}{Y:i}But you had elegant wine, I'm sure.
+{20230}{20327}{Y:i}And no one there|to say it's too early for that.
+{20328}{20350}Are you all set up?
+{20351}{20398}{Y:i}- It's prepared.|- Very good.
+{20399}{20471}At the risk of sounding like|the first day at summer camp...
+{20472}{20543}{Y:i}...let's go around the table|and introduce ourselves...
+{20544}{20566}...for those who do not know others.
+{20567}{20662}I shall save myself for last|and start with Gen. Mller.
+{20687}{20734}Maj. Gen. Heinrich Mller, SS Gestapo.
+{20735}{20806}Klopfer, representing the Party,|that is who I speak for.
+{20807}{20879}{Y:i}I'm Kritzinger, Ministerial Director|of the Reich Chancellery.
+{20880}{20926}I appreciate being called, but wonder why.
+{20927}{21023}The topic, the coordination of the|Jewish question, I believe, was resolved.
+{21024}{21046}It will be.
+{21047}{21143}{Y:i}With the Fhrer stating to me|and to my superiors...
+{21144}{21238}It will be.
+{21239}{21311}Gen. Hofmann,|Race and Settlement, Main Office.
+{21312}{21383}We deal with matters|of race and settlement.
+{21384}{21406}Is it me?
+{21407}{21503}Leibbrandt, the Political Office of the|Ministry for all we hold and administer...
+{21527}{21575}...in Eastern Poland, the Baltics|and in the Soviet Union.
+{21576}{21647}I am the State Secretary|for the Ministry as a whole.
+{21648}{21743}- Give them your name.|- Meyer, Dr., sorry.
+{21744}{21790}Stuckart, Interior Ministry.
+{21791}{21839}Martin Luther,|Undersecretary of the Foreign Ministry.
+{21840}{21886}I met almost everybody.
+{21887}{21983}My name is Neumann, Director,|Office of the Four-Year Plan.
+{21984}{22068}Lange, Deputy Commander|of SS Task Forces in Latvia.
+{22069}{22151}- Among other things.|- We all have other things.
+{22152}{22198}{Y:i}I'm Joseph Bhler...
+{22199}{22271}...Secretary of State of the General|Government of German-occupied Poland.
+{22272}{22320}How cold is it up there?
+{22321}{22366}Better Cracow than Warsaw.
+{22367}{22463}Now that it is run by Germans,|you should be spared those Polish winters.
+{22464}{22486}Not the case.
+{22487}{22583}Schצngarth,|SS assigned to the General Government.
+{22607}{22678}Dr. Freisler, Ministry of Justice.
+{22679}{22776}Also, I hold rank in the Storm Troopers.
+{22777}{22799}So that is who I am.
+{22800}{22895}{Y:i}Adolf Eichmann, SS Gestapo, Office of|Jewish Affairs, and that should be...
+{22944}{22967}{Y:i}Yes, that's all.
+{22968}{23040}And I am Heydrich,|SS Chief of Reich Security, Main Office...
+{23041}{23112}...and Reichsprotector|of Bohemia and Moravia.
+{23113}{23159}And welcome.
+{23160}{23244}You have each been given some papers.|These are for you alone.
+{23245}{23328}No copies to be made,|not to be seen or discussed with others...
+{23329}{23351}...except superiors.
+{23352}{23448}How we deal with matters here|must be held secret from our enemies.
+{23449}{23532}We control events better|when we control opinion.
+{23533}{23616}Today, each of us becomes|a bearer of secrets.
+{23640}{23688}- And our secretary will be discreet?|- He agrees.
+{23689}{23735}He agrees? Excellent.
+{23736}{23808}Communication between us after today|will pass in both directions...
+{23809}{23880}...through Lt. Col. Eichmann,|my deputy for all Jewish matters.
+{23881}{23951}He is your focal point.
+{23952}{24048}To begin, we have a storage problem|in Germany with these Jews.
+{24072}{24143}There have been conversations|for a year about this Jew...
+{24144}{24216}...and that Jew and the complexities|of the law and this problem...
+{24217}{24287}{Y:i}...as you, I'm sure, know has tormented us.
+{24288}{24372}We first undertook to expel them|from all means by which our people...
+{24373}{24456}...would have to deal with them,|every sphere of life of German people.
+{24457}{24528}The laws enacted at Nuremberg,|and we should drink a toast...
+{24529}{24575}...to Dr. Stuckart for devising them.
+{24576}{24647}Coauthor, in all modesty,|I am the coauthor.
+{24648}{24744}They established the fundamental legality|for the creation of a Jew-free society...
+{24768}{24815}...a Jew-free economy for the world to see.
+{24816}{24888}And we, indeed, have eliminated the Jew|from our national life.
+{24889}{24983}Now, more than that, the Jew himself...
+{24984}{25080}...must be physically eradicated|from our living space.
+{25081}{25117}- Clarification.|- Absolutely.
+{25118}{25151}There will be a moment for that.
+{25152}{25249}But if I may, we pursued|a vigorous policy of emigration...
+{25250}{25320}...but who would take more of them?
+{25321}{25392}{Y:i}"Who would want them?"|Was the policy's ultimate limitation.
+{25393}{25488}Every border in Europe rejects them|or charges outrageously to accept them.
+{25537}{25584}- America.|- Even America, thank you...
+{25585}{25680}{Y:i}...where Jews constantly whisper|in Roosevelt's ear, still turns them away.
+{25705}{25800}Then, in acquiring Poland,|we acquired two and a half million more.
+{25849}{25896}By last July,|we were met with a new situation...
+{25897}{25969}...we would, in very short order,|be acquiring some...
+{25970}{26064}...five million Jews|as we conquered Russia.
+{26065}{26137}The dimensions of this problem|have magnified astoundingly.
+{26138}{26184}Five million.
+{26185}{26269}Exactly the problem. Our ghettos are full...
+{26270}{26353}All those ghettos, yes, with Polish names.
+{26377}{26461}Fully occupied, but hold for now,|please, if you would.
+{26462}{26539}At that time, last July,|confronting this new situation...
+{26540}{26617}...Reichsmarshal Gצring|prepared a directive, you have a copy.
+{26618}{26688}{Y:i}The operative words,|if you'll permit me to read:
+{26689}{26760}{Y:i}"I hereby charge you|with making all preparations...
+{26761}{26832}{Y:i}"... in regard to organizational|and financial matters...
+{26833}{26929}{Y:i}"... for bringing about a complete solution|of the Jewish question...
+{26930}{26977}{Y:i}"... in the German sphere of influence|in Europe. "
+{26978}{27062}Now, for that, I read the cleansing...
+{27063}{27128}...of the entire continent of Europe.
+{27129}{27192}{Y:i}You see, the word "cleansing"...
+{27193}{27265}An accurate word, I think. If I may go on...
+{27266}{27312}...in the second paragraph:
+{27313}{27384}{Y:i}"Wherever other governmental agencies|are involved...
+{27385}{27481}{Y:i}"... these are to cooperate with you... "|I hope. So on, so on.
+{27482}{27528}{Y:i}"... as necessary for the accomplishment...
+{27529}{27625}{Y:i}"... of the desired solution|of the Jewish question. "
+{27650}{27746}This is our mandate, all of us.
+{27747}{27793}May I say, in fairness...
+{27794}{27841}...the Jewish question falls|within the responsibilities...
+{27842}{27938}...of my department, the Reich Chancellery,|and we received no directive...
+{27939}{27985}If you will give me a moment or two.
+{27986}{28082}- The document is in your folder?|- Yes, it is in your folder.
+{28083}{28105}{Y:i}I'm sure it is.
+{28106}{28178}Finally, what has happened|since that directive?
+{28179}{28201}Succinctly, now...
+{28202}{28274}...we are standing still in Russia,|the Americans have joined the war.
+{28275}{28370}Both events are a further drain|on our military, our economy...
+{28371}{28418}...our manpower, our food supply.
+{28419}{28514}We cannot store these Jews.
+{28515}{28585}Emigration is over.
+{28586}{28682}And the inevitable solution is what we,|together at this table...
+{28706}{28802}...will discuss this afternoon.
+{28994}{29090}{Y:i}We'll go on. You'll find a document|listing the remaining Jewish population...
+{29091}{29137}...by country in Europe...
+{29138}{29234}...and whatever the USSR or Russia|calls itself for the time it has left.
+{29235}{29318}As I mentioned,|emigration policy will stop...
+{29319}{29401}I apologize, sir. A call for Gen. Heydrich.
+{29402}{29498}- See who it is, and end the calls.|- Yes, sir.
+{29522}{29618}We will take but a moment.
+{29619}{29714}Please sit, Dr. Kritzinger.
+{29786}{29882}Make us all comfortable.
+{30074}{30145}Where is this going?
+{30146}{30218}Yes, this is Lt. Col. Eichmann.
+{30219}{30291}I understand, Major, but the General|is to be free of calls at this time.
+{30292}{30363}{Y:i}If you wish to explain the matter to me...
+{30364}{30410}Yes?
+{30411}{30483}{Y:i}Yes, I'm sure if you call his office, you...
+{30484}{30578}{Y:i}Yes. Heil Hitler.
+{30627}{30698}This meeting is not taking place.
+{30699}{30771}You are to take no phone calls|for anyone at this meeting.
+{30772}{30818}Anyone.
+{30819}{30915}{Y:i}Unless the Fhrer calls, and he won't.
+{30916}{31011}- Understood?|- Yes, sir.
+{31035}{31107}Here is Field Marshall Reichenau|strapped to a chair...
+{31108}{31179}...and put, convulsing, on the plane,|where he dies.
+{31180}{31252}He wanted to retreat as deeply|as Rundstedt did, but...
+{31253}{31324}...Rundstedt got his medal|and Reichenau, the hereafter.
+{31325}{31395}Maj. Schussheim was reluctant|to give me any message.
+{31396}{31452}He does not appreciate you as I do.
+{31468}{31514}Emigration.
+{31515}{31587}The policy to replace that of emigration,|and we have enough experience...
+{31588}{31658}...to do it well, is evacuation.
+{31659}{31731}Which differs from emigration|in what way? Evacuation to where?
+{31732}{31791}Let us postpone that question for a while.
+{31792}{31850}- To hell, one hopes.|- Many already have.
+{31851}{31922}- Do they even have a hell?|- They do now. We provide it.
+{31923}{32019}We have received assurances that|these Jews are held in livable conditions.
+{32043}{32103}You are postponing,|that is your prerogative.
+{32104}{32163}Will I have an opportunity|to be heard on this?
+{32164}{32211}On my word of honor.
+{32212}{32258}If I may.
+{32259}{32330}132,000 Jews left in Germany proper.
+{32331}{32427}Austria: 43,700.|Occupied Eastern Territories: 420,000.
+{32451}{32522}General Government: 2,284,000.
+{32523}{32619}Bialystok: 400,000, and Moravia: 74,200.
+{32620}{32715}{Y:i}- Estonia: Not a one.|- The best thing I've heard about Estonia.
+{32716}{32812}{Y:i}You have the list, I won't read it all.|Plenty in France, Romania, England.
+{32813}{32835}USSR: 5 million.
+{32836}{32931}In what is, or will be soon, our sphere|of control over 11 million chosen people.
+{32980}{33027}- The changing definitions?|- Yes, go ahead.
+{33028}{33124}Except that there are countries|that define Jewishness non-racially...
+{33125}{33196}...merely as a religious practice:|England, America.
+{33197}{33267}Therefore, by our racial principles...
+{33268}{33340}...there may be many additional|uncounted Israelites.
+{33341}{33412}And he speaks Jewish. He does!
+{33413}{33459}He does!
+{33460}{33531}What, then, confronts us here...
+{33532}{33628}...in open discussion, which will inform|the choices we must make...
+{33629}{33675}...is what to do...
+{33676}{33772}...to deal with this staggering number|of Jews overwhelming us.
+{33820}{33868}My suggestion is|to take all able-bodied Jews...
+{33869}{33915}...separated according|to sex, to the East...
+{33916}{33988}...to work in units,|specifically for road building.
+{33989}{34035}Yes. Can we be practical?
+{34036}{34132}You are hardly describing the promised|livable conditions for these people.
+{34156}{34228}On the face of it, your plan...
+{34229}{34300}...excuse me, does not succeed.
+{34301}{34395}It is fanciful.
+{34396}{34491}You have, in this collection here...
+{34492}{34564}...five million Russo-European Jews:|10% agriculture...
+{34565}{34636}...15% urban workers,|tradesmen: Almost 20%...
+{34637}{34683}...bureaucrats: Almost 24%...
+{34684}{34804}...doctors, writers, journalists,|actors and so on: Almost 33%.
+{34805}{34851}Building roads?
+{34852}{34948}75% of your five million have not|picked up anything heavier than a pencil.
+{34972}{35068}Yes, and most will be casualties,|eliminated by natural causes.
+{35092}{35165}We intend to be complete.|We will comb Europe from west to east...
+{35166}{35236}...starting with the protectorates,|Bohemia and Moravia.
+{35237}{35332}We will evacuate them first.|All to-be-evacuated Jews, group by group...
+{35333}{35390}...will be sent to, call|them transit ghettos,
+{35391}{35429}and then transported to the east.
+{35430}{35477}- Please...|- You want yours first! I understand.
+{35478}{35524}{Y:i}Let me make my case, you'll be heard.
+{35525}{35597}When, in your plan,|do you take their women away?
+{35598}{35669}How they love to make the beast.
+{35670}{35716}Control yourself.
+{35717}{35788}Jews who have beyond 65 years|will be moved into old-age ghettos...
+{35789}{35885}...possibly Theresienstadt will be chosen,|where they can expire at their own speed.
+{35909}{35957}We will sweep|all wounded Jewish veterans...
+{35958}{36004}...and those given military decorations.
+{36005}{36077}The Iron Cross, first class,|that fine distinction will be abandoned.
+{36078}{36148}They go, too, into the old-age ghettos...
+{36149}{36245}...or we will be drowning in requests|for exemptions and interventions.
+{36246}{36317}I was referring to intervention|of another kind...
+{36318}{36364}...below the waist.
+{36365}{36461}This is all very beguiling, but when you|include privileges for certain Jews...
+{36485}{36581}...the Party Chancellery|sees its interest a certain way.
+{36582}{36652}And Martin Bormann, I can speak for him...
+{36653}{36748}{Y:i}...has his authority|as well from the Fhrer.
+{36749}{36845}We do not just surrender our prerogative|to decide Jew questions.
+{36989}{37085}{Y:i}Everyone's point of view|will be considered.
+{37109}{37181}Did you ever see an animal|with two heads?
+{37182}{37228}They do not live.
+{37229}{37300}Want to see Bormann and Gצring|fight it out?
+{37301}{37373}We are not trying to roll over anyone,|quite the opposite.
+{37374}{37420}Does anyone else want to raise|this question now?
+{37421}{37527}Because I have been asked to direct the|release of Germany and all of Europe...
+{37527}{37615}...from the Jewish stranglehold,|and I believe, together, we will.
+{37616}{37709}But the brief remains|clear: All of Europe...
+{37710}{37806}...England, from Lapland to Libya,|from Vladivostok to Belfast...
+{37807}{37890}...no Jews.
+{37891}{37973}Not one.
+{38142}{38214}I propose that the appropriate expert from|the Foreign Ministry...
+{38215}{38298}...act as channel to the SS|security police in each country.
+{38299}{38382}{Y:i}I'm counting on you to be my link|to the Foreign Ministry.
+{38430}{38526}I think, having explained in general|what we are challenged to do...
+{38527}{38597}...I would be grateful for comments|and questions.
+{38598}{38640}Let us have some refreshment in here.
+{38641}{38694}Pretend we are the|directors of I. G. Farben.
+{38695}{38790}{Y:i}- That's how they do it, yes?|- That is how we do it.
+{38838}{38886}My friend,|I have read your recommendations.
+{38887}{38933}I appreciate the effort and the thought.
+{38934}{39030}I heard some of what I wrote|in what you already said.
+{39054}{39150}I think not.
+{39318}{39414}I hear that Heydrich has|a little Jew blood in him.
+{39462}{39533}{Y:i}Why don't you ask him?
+{39534}{39606}- The numbers are misleading.|- Misleading?
+{39607}{39653}{Y:i}"Who is a Jew?" is another question.
+{39654}{39750}{Y:i}- They're not a heterogeneous...|- Not a heterogeneous population.
+{39846}{39894}And how is it that you can speak Hebrew?
+{39895}{39941}Or is it only Yiddish you speak?
+{39942}{40038}I lived among them, I worked among them,|and I picked up a few words.
+{40039}{40086}Jewish, Yiddish, what they were,|not enough to speak.
+{40087}{40134}So I went in search of a rabbi.
+{40135}{40201}{Y:i}Rabbi means "teacher," I came to find out.
+{40202}{40267}{Y:i}May I tell you the Lord's honest truth?
+{40268}{40326}So many of our highest ranking officers...
+{40327}{40399}...whose responsibility it is|to deal with the Israelites...
+{40400}{40470}...they make no attempt|to get inside the Jewish head.
+{40471}{40566}I went to visit this rabbi,|old man, long beard, in his one-room flat.
+{40591}{40687}{Y:i}And when he saw me,|his eyes grew as large as hen's eggs.
+{40688}{40758}I asked him to teach me his language,|and he agreed.
+{40759}{40855}And he said that he would,|but that he would charge me, of course.
+{40856}{40902}I applied to my commander for funds,|and I was denied.
+{40903}{40999}{Y:i}I've run into this opposition all my life,|so I paid my own money.
+{41000}{41046}Very little, not much.
+{41047}{41119}And he taught me some vocabulary|and letters of the alphabet.
+{41120}{41190}Looking back, I realize,|it was poor judgment on my part...
+{41191}{41263}{Y:i}...because I could've so easily|had the old man put into prison...
+{41264}{41359}...and demanded lessons from him|in his cell, free of charge.
+{41360}{41406}One day, he went out.
+{41407}{41479}He was rounded up and shipped off...
+{41480}{41551}...because he had gone out unadvisedly.
+{41552}{41598}And I thought:
+{41599}{41683}{Y:i}"That's so stupid. "
+{41684}{41766}Why are they so stupid?
+{41767}{41839}{Y:i}Didn't he know|that I would've protected him?
+{41840}{41888}At least until my lessons were complete.
+{41889}{41934}I want to be through by 2:30 or earlier.
+{41935}{42031}{Y:i}There's no reason why we can't continue.|I prefer you all at the table.
+{42032}{42078}- There will be a buffet lunch.|- Excellent.
+{42079}{42151}{Y:i}Settle down, we're moving along.|You have the overall idea...
+{42152}{42224}{Y:i}...but it's clear some areas|will evacuate swiftly...
+{42225}{42294}- What about our friends the Italians?|- The Italians.
+{42295}{42367}We must all trust the good Lord|to save us from our Italian friends.
+{42368}{42438}{Y:i}In the last analysis,|if they don't purge their Jews...
+{42439}{42535}{Y:i}...we'll go down and accomplish it|and put their priorities in order.
+{42560}{42632}{Y:i}In France, even where we aren't occupying,|they'll ship their Jews out.
+{42633}{42679}Here is another problem.
+{42680}{42776}The Foreign Ministry sees|difficulty in evacuating too fast...
+{42777}{42836}...in Scandinavia, as you say, Lapland.
+{42837}{42895}Unless we tie up a lot more troops there...
+{42896}{42968}...troops which we need|for the Russian campaign, Moscow...
+{42969}{43016}...the Scandinavians will not cooperate.
+{43017}{43063}What do you see for the rest of Europe?
+{43064}{43136}The Foreign Ministry sees|no difficulty with the Balkans...
+{43137}{43219}...Southeast and Western|Europe. This is very good.
+{43233}{43255}- Sir.|- Yes?
+{43256}{43328}The Race and Settlement main office|is planning on sending an expert...
+{43329}{43399}...to Hungary for general|orientation on our policies.
+{43400}{43496}I think that should take place at the|same time as you send your advisor.
+{43497}{43543}It will put some iron in the glove,|so to speak.
+{43544}{43640}The glove is iron, and there should be|no confusion as to where policy emanates.
+{43712}{43784}I should hope that established|relationships will be maintained.
+{43785}{43832}If they are productive,|but not if they are not...
+{43833}{43928}...if I may speak for the group.
+{44000}{44095}- It is not my intention...|- What is your intention?
+{44096}{44192}The work done by our department.|Our particular expert is prepared...
+{44193}{44239}{Y:i}We both serve the Fhrer,|he gave me the command.
+{44240}{44287}I suggest your advisor serve as|an assistant to my man.
+{44288}{44384}That preserves the relative powers|of our offices, does it not?
+{44528}{44623}Yes, it certainly does.|That is how it should be.
+{44624}{44720}I will leave it to you, then,|to be in touch with Col. Eichmann?
+{44721}{44815}Yes.
+{44816}{44888}Settled. Moving along.|Now, a difficult problem.
+{44889}{44935}My instinct is to be Alexandrian...
+{44936}{45032}...and solve a difficult tangle|with a sharp, clean stroke this afternoon.
+{45033}{45079}All our actions must be predicated on law.
+{45080}{45128}{Y:i}Everything we've done|is from the Nuremberg Laws...
+{45129}{45225}...which Dr. Stuckart brought forth|to the Reichstag in 1935.
+{45226}{45272}We now have to examine|the Blood and Honor laws...
+{45273}{45368}...in regard to the problems of mixed|marriages and persons of mixed blood.
+{45393}{45489}Not only who is a Jew,|but how, in each defined circumstance...
+{45490}{45585}...the Jew is expunged from society,|the government, the economy...
+{45586}{45608}...through ordinances.
+{45609}{45680}{Y:i}The tapestry, if you'll permit some pride.
+{45681}{45777}The exemptions written into the law allow|too many Jews to remain among us.
+{45801}{45897}We address that problem by examining|each category and every exemption.
+{45921}{45968}{Y:i}There's been communication|with the Chancellery Head...
+{45969}{46041}{Y:i}...Lammers, who discussed these|questions with the Fhrer.
+{46042}{46101}You asked why you are here.|You represent him.
+{46102}{46160}And your own opinion.|We would like that, too.
+{46161}{46257}{Y:i}Lammers has indeed met with the Fhrer|or his staff on this question...
+{46258}{46280}...and reached an understanding.
+{46281}{46377}Dr. Kritzinger, can we come|to a further understanding here?
+{46401}{46424}What can we all agree on?
+{46425}{46521}What I would like agreed here is that|mixed-blood persons of the first degree...
+{46545}{46641}...they have two Jewish grandparents,|they are half-Jews...
+{46642}{46712}...they are just Jews. They go.|Their children go.
+{46713}{46809}{Y:i}There are, in the law, as of now,|two exceptions. If you would...
+{46810}{46905}For first-degree mixed,|if married to Germans with children...
+{46906}{46928}{Y:i}...they're exempted.
+{46929}{47013}Their children, second-degree mixed,|would be treated as Germans.
+{47014}{47097}The other exception is first-degree mixed|who the Reich has chosen...
+{47098}{47144}...to honor with privilege|for whatever reason.
+{47145}{47217}We are talking here of men and women|who live as Germans.
+{47218}{47312}They do not worship|or behave as Jews, but...
+{47313}{47385}...have some quantity of blood.|- The genetic Jew.
+{47386}{47457}{Y:i}In those cases,|we'll examine each determination...
+{47458}{47504}...and perhaps revoke their exemption.
+{47505}{47577}- The Nuremberg Laws...|- Whoever receives exemption...
+{47578}{47673}...better have extraordinary merits,|not just a German parent, husband or wife.
+{47698}{47794}Those who are exempt from evacuation,|they too will fall in certain categories...
+{47795}{47817}{Y:i}Could you, General... Sorry.
+{47818}{47913}I have the real feeling I evacuated 30,000|Jews already, by shooting them at Riga.
+{47986}{48057}Is what I did evacuation?
+{48058}{48153}When they fell, were they evacuated?
+{48154}{48250}There are another 20,000, at least,|waiting for similar evacuation.
+{48298}{48394}I just think it is helpful to know|what words mean.
+{48418}{48514}With all respect.
+{48562}{48634}{Y:i}If I might, I think it's unnecessary|to burden the record...
+{48635}{48730}Yes. In my personal opinion,|they are evacuated.
+{48731}{48777}- Explain.|- I have just done so.
+{48778}{48850}That is contrary to what|the Chancellery has been told.
+{48851}{48946}I have directly been assured!
+{48994}{49090}{Y:i}Purge the Jews, yes.|But to annihilate them...
+{49162}{49258}That we have undertaken|to systematically...
+{49259}{49306}...annihilate all the Jews of Europe?
+{49307}{49377}No. That possibility...
+{49378}{49474}{Y:i}...has personally been denied to me|by the Fhrer.
+{49546}{49642}And it will continue to be.
+{50435}{50530}Yes, I understand.
+{50579}{50650}Yes.
+{50651}{50747}He will continue to deny it.
+{50771}{50842}My apologies.
+{50843}{50939}Do you accept my apologies?
+{50987}{51023}Of course.
+{51024}{51060}So very kind.
+{51083}{51167}- Close the doors, please.|- Those mixed in the first degree.
+{51168}{51251}Yes, those mixed in the first degree,|who are exempted...
+{51252}{51298}...will be sterilized.
+{51299}{51394}May I just point out,|in regard to special exemptions...
+{51395}{51467}{Y:i}...it's widely known,|I've heard the opinion expressed myself...
+{51468}{51538}...that there are 80 million good Germans...
+{51539}{51635}{Y:i}...and each one knows his "decent Jew,"|even if he regards all the rest as vermin.
+{51659}{51755}If there are decent Jews, then before they|are decent and indeed after, they are Jews.
+{51779}{51826}No. First-degree exempted|will be sterilized.
+{51827}{51923}No more children, and eventually,|no more mixed blood, once and for all.
+{51924}{51970}It is important to know what words mean.
+{51971}{52018}{Y:i}But it's important to remember|in 1,000 years...
+{52019}{52115}...no matter who holds the power,|history will be written in those words.
+{52139}{52235}Do you expect the men serenely|to submit to being sterilized?
+{52236}{52330}{Y:i}Why not?|They've already had their cocks clipped.
+{52331}{52403}{Y:i}It's voluntary. One can lose|one's possibility to reproduce...
+{52404}{52450}...or one can be evacuated.
+{52451}{52548}{Y:i}If a first-mixed is sterilized, of course,|the Nuremberg restrictions don't apply.
+{52549}{52644}- The Nuremberg Laws are very specific...|- When I am done.
+{52645}{52691}Thank you. Please.
+{52692}{52764}As to second-degree mixed,|those born to a half-Jew and German...
+{52765}{52835}...or one-quarter Jew,|three-quarters German, equals German.
+{52836}{52932}{Y:i}With exceptions: If both parents are|mixed-blood, the child's a Jew.
+{52933}{53028}If the child looks or sounds Jewish,|even with only one-quarter mixed...
+{53029}{53052}When that blood is dominant.
+{53053}{53099}Then he is a Jew.
+{53100}{53172}Third: A mixed-second with|a criminal or political record...
+{53173}{53244}Excuse me, sir, is this a second or a third?
+{53245}{53291}A mixed-second.
+{53292}{53339}- Third exception.|- Third exception.
+{53340}{53412}In other words, he that behaves like a Jew|will be considered as such.
+{53413}{53496}If any of these second-mixed exceptions|marry a German...
+{53497}{53579}...then they will be evacuated,|no special dispensations.
+{53580}{53676}- The marriage laws are very complex...|- Mixed marriages include German relatives.
+{53677}{53772}They have a vested interest in the couple,|also in children born to the marriage.
+{53773}{53819}So here it is.
+{53820}{53892}Marriages between mixed-firsts and|Germans, if they have had no children...
+{53893}{53963}...depending on repercussions|on the German side...
+{53964}{54036}...either the half-Jew is evacuated,|or to the old-age ghetto.
+{54037}{54131}- Theresienstadt.|- Possibly. Somewhere.
+{54132}{54228}The same holds true for the full-blood Jew|with a German wife or husband.
+{54229}{54299}If there are children,|if the rules classify them as Jews...
+{54300}{54395}...they go with the Jew parent, evacuation|or ghetto, depending on the case.
+{54396}{54492}{Y:i}If they're classified as German, that spares|both the child and the Jew parent.
+{54493}{54540}Jews of first-mixed|married to first-mixed are Jews.
+{54541}{54587}Children as well, treated as such.
+{54588}{54659}First-mixed married to second-mixed|and children, the same.
+{54660}{54756}{Y:i}Unless they're exempted by special|considerations, they are gone.
+{54757}{54852}Otherwise to the ghetto,|possibly Theresienstadt.
+{54900}{54996}In all cases,|the SS will be the determining agency.
+{55141}{55236}No question lingers in your mind|about that, does it?
+{55405}{55452}Sterilization will be a growth industry.
+{55453}{55525}Who would not choose infertility|to avoid evacuation?
+{55526}{55597}- They would never know.|- Would never know what?
+{55598}{55669}{Y:i}If you use a word other than "sterilize"...
+{55670}{55717}You think they would never know?
+{55718}{55753}It is simply a matter of secrecy.
+{55754}{55788}The smell of blood carries very far.
+{55789}{55885}I find the plan unworkable.|I find the plan personally insulting.
+{55909}{55993}I have given years to codifying the laws|regarding interracial marriage.
+{55994}{56077}{Y:i}Now I'm presented with this clumsy,|forgive me, unworkable structure.
+{56149}{56221}My work, these laws,|any legal code worthy of the name...
+{56222}{56293}...restricts the enforcers of law|as well as its subjects.
+{56294}{56389}There are some things you cannot do.
+{56437}{56484}As you see it.
+{56485}{56581}What I see is all I have to contribute here.
+{56605}{56701}Let me offer a modification,|a simple change we can all accept.
+{56725}{56772}Maybe this helps the outline.
+{56773}{56869}Sir, what you have suggested,|and not to put too fine a point on it...
+{56893}{56965}...you have said the half-mixed|will be eliminated.
+{56966}{57060}{Y:i}- Evacuated.|- "Evacuated. " My mistake.
+{57061}{57157}That is a wholesale departure|from the law. But my suggestion...
+{57158}{57204}Yes, which is?
+{57205}{57301}I say the half-mixed should get|the choice we talked about...
+{57302}{57372}...to be either sterilized or taken away.
+{57373}{57470}Does that not come closer to the spirit,|at least, of the Nuremberg Law?
+{57471}{57541}- Dr. Stuckart, does it?|- No.
+{57542}{57637}Sorry, no. Sterilization is promising...
+{57638}{57721}...but attempting a supersession|of what are clearly defined laws...
+{57722}{57805}{Y:i}...in order to impose all these|subjective evaluations, it's like...
+{57830}{57901}Forgive me,|it is like the imposing of ad hoc law.
+{57902}{57974}Depending on subjective evaluations,|as to if he looks Jewish...
+{57975}{58046}...or has a Jewish personality,|or whatever else...
+{58047}{58117}...is subject to interpretation|and variation...
+{58118}{58190}...including the assertions|of the damned Jew himself.
+{58191}{58262}What does this do?|It subverts the Nuremberg Laws...
+{58263}{58309}...and perpetuates disrespect for the law.
+{58310}{58357}I think we are basing|our proposals carefully...
+{58358}{58430}{Y:i}No, with all due respect and all frankness,|it's a tangle.
+{58431}{58477}And this is not pride of authorship.
+{58478}{58574}{Y:i}I'm simply reacting to the bureaucratic|train wreck that's to follow.
+{58622}{58718}Please, it is simply solved.|Sterilize them all.
+{58814}{58910}{Y:i}We could call it "medical re-socialization"|or something.
+{58911}{58933}We can find ways.
+{58934}{59029}{Y:i}The biological necessities|are all met. My...
+{59030}{59126}The Nuremberg Laws are respected,|a simple procedure...
+{59127}{59150}A snip here, a snip there...
+{59151}{59197}This is not a joke!
+{59198}{59245}- It is not...|- X-rays.
+{59246}{59341}- That is how you do it.|- Exactly how?
+{59342}{59437}You have this X-ray machine|built into a counter or a desk.
+{59438}{59534}{Y:i}Some unfortunate Jew stands at attention|in front of the desk, and...
+{59558}{59581}I am not coming to your office.
+{59582}{59678}{Y:i}So you either raise the desk|or lower the desk, depending on...
+{59726}{59749}A certain subterfuge...
+{59750}{59822}- I do not know if it sterilizes the female.|- A technical question.
+{59823}{59869}{Y:i}Not voluntary, you're saying?
+{59870}{59942}Every Jew, of whatever degree,|whoever betrothed to...
+{59943}{60027}...however mixed,|whatever service to the state.
+{60028}{60110}{Y:i}You're saying|we don't need to evacuate them...
+{60111}{60183}{Y:i}- We pinch off the race at this generation.|- The Reich's law...
+{60184}{60255}We make the law we need.|Why am I telling you this?
+{60256}{60326}How many lawyers are in this room?|Raise your hand.
+{60471}{60567}{Y:i}Jesus Christ. It's worse than I thought.
+{60568}{60662}The children, what then for them?
+{60663}{60711}You just line them up|in front of their desks...
+{60712}{60783}...and X-rays toast their little gonads.
+{60811}{60878}If I might, for perspective:
+{60879}{60975}We have already been using sterilization|for the mentally defective...
+{60976}{61022}...since 1939 in our T4 program.
+{61023}{61118}{Y:i}- T4?|- "Euthanasia" is the correct term, yes?
+{61119}{61190}{Y:i}Yes. Reichsfhrer Himmler|discussed it with the General.
+{61191}{61287}Apparently, a doctor at the biological|institute in Dresden has a simple injection.
+{61311}{61358}You can father no children.
+{61359}{61431}- Where can I get it?|- It would be useful with the ladies.
+{61432}{61454}{Y:i}"I am fixed, my dear. "
+{61455}{61526}Of course,|it is as yet only tested with mice and rats.
+{61527}{61623}Actually, you would not need the injection,|just the papers to say that you had had it.
+{61719}{61803}{Y:i}I have figures, but they're not exact.
+{61804}{61870}Between 1933 and 1936, roughly 169,000...
+{61871}{61934}...and by now, to date, possibly 300,000...
+{61935}{62007}...under the Law for the Protection|of German Blood...
+{62008}{62078}...have been sterilized by various methods.
+{62079}{62175}X- rays, injecting some corrosive chemical|directly into the womb...
+{62199}{62295}Yes, this was only for the Reich itself,|not occupied territories.
+{62296}{62390}- Yes.|- Yes.
+{62391}{62439}Are they fit for labor after these methods?
+{62440}{62535}{Y:i}With the X-rays, it's a problem of dosage.|Less a problem, I think, with the women.
+{62608}{62655}Less a problem with the women.
+{62656}{62728}Secretary Bhler makes|an important point.
+{62729}{62799}- Labor.|- Yes, exactly. Labor.
+{62800}{62847}{Y:i}I'm not implying|that our problems are the same...
+{62848}{62943}...as in the Eastern Territories,|but the need for workers...
+{62944}{63039}...as the military need men,|the need for production is only growing.
+{63064}{63160}That is why sterilization is|the preferred option.
+{63208}{63255}It leaves our captive workforce,|what remains of it...
+{63256}{63352}I do not think our people want to wait|a generation to end this problem.
+{63353}{63448}We have deferred Jews by the thousands|in armaments, construction.
+{63496}{63567}Wait, I can give you an exemplar.
+{63568}{63664}{Y:i}It's just a quote from a letter|from the Debruder Public Company...
+{63665}{63735}{Y:i}...but there are many companies...
+{63736}{63807}The sound of his voice,|and the sun goes down.
+{63808}{63904}{Y:i}- The specialist for I. G. Farben...|- I do not think you understand...
+{63905}{63975}Over 10,000 Jews|in the metal industry alone...
+{63976}{64072}{Y:i}...about 19,000 altogether in Berlin,|and that's just Berlin...
+{64073}{64168}...failing our production goals, even now,|for the war!
+{64192}{64264}He makes a point.|We are moving too fast here.
+{64265}{64311}Nothing has been thought through.
+{64312}{64384}The questions of sterilization|and deportation are separate.
+{64385}{64455}- Yes, but linked.|- Deportation, evacuation, elimination.
+{64456}{64528}Where I am, we have to move them out|now, quickly, wipe them away.
+{64529}{64575}- Yeah, not to return.|- Never to return.
+{64576}{64647}There are labor shortages|in the Reich and elsewhere we control.
+{64648}{64744}- There is no argument about that.|- Everywhere, and in our four-year plan...
+{64745}{64815}Not that fucking four-year plan again.
+{64816}{64887}But our war is against the Jews.|I do not see the logic...
+{64888}{64985}{Y:i}We won't sterilize them and wait until they|die, or sterilize and exterminate the race.
+{64986}{65056}{Y:i}That's farcical.|Dead people don't hump or get pregnant.
+{65057}{65152}Death is the most reliable form|of sterilization. Put it that way.
+{65249}{65344}So who is deferred?
+{65345}{65441}First-degree mixed married to Germans|with second-degree children are exempt.
+{65442}{65512}Individually, first-degree mixed|who have special privilege.
+{65513}{65585}{Y:i}- For labor, if needed...|- I can't give a rule for everything.
+{65586}{65656}Can I just say one word more?
+{65657}{65753}In the obligation|to maintain a lawful society...
+{65754}{65800}Another lecture.
+{65801}{65848}{Y:i}...what we would be saying to those...
+{65849}{65921}{Y:i}Where we depart from the law|in deporting a Jew married...
+{65922}{65968}Good! Deport them!
+{65969}{66041}{Y:i}- A new law will be required...|- Write it! Why don't you write it?
+{66042}{66136}Consider: The Jews are taken away.
+{66137}{66209}The German spouses will inherit|the property of the Jewish spouses...
+{66210}{66281}...go to court,|and apply for a death certificate.
+{66282}{66328}What happens to your secret killings then?
+{66329}{66425}No matter what you call them,|the secret is out, dear friends.
+{66449}{66545}Perhaps not inheritance.|Perhaps divorce, freedom to remarry.
+{66546}{66592}So a requisite divorce mechanism...
+{66593}{66640}...dealing with these marriages|to be terminated...
+{66641}{66737}{Y:i}...becomes the Reich's responsibility|to its German citizens.
+{66738}{66833}- Fuck.|- I am speaking.
+{66857}{66904}Except for those initiated before|the spouse is deported...
+{66905}{67001}{Y:i}...the courts will be so busy with divorces,|they'll be on 24-hour shifts.
+{67002}{67096}- The litigation wait will be decades.|- Or longer.
+{67097}{67193}I have no sympathy with Germans who|climbed in bed with members of the tribe.
+{67194}{67288}{Y:i}Nor do I.|I ask myself, "What is his concern?"
+{67289}{67360}When the ruling principle|of our government and our party...
+{67361}{67457}...is to make Germany Jew-free,|you are arguing to let these Yids stay?
+{67482}{67577}To influence, to operate freely,|with the exception that you neuter them?
+{67602}{67649}They are not free.
+{67650}{67722}The law restricts them, it isolates them.|I am merely speaking of...
+{67723}{67818}- Perhaps the judge has love for them.|- Yes, special love.
+{67819}{67913}For whom? For Jews?
+{67914}{67985}{Y:i}Wonderful. You don't have my credentials.
+{67986}{68082}{Y:i}Forgive me. From your uniform,|I can see that you're shallow...
+{68083}{68105}...ignorant, and naive about the Jews.
+{68106}{68201}Your line, what the Party rants on about...
+{68202}{68274}...is how inferior they are,|some subspecies...
+{68275}{68345}...and I keep saying how wrong that is!
+{68346}{68442}They are sublimely clever!|And they are intelligent as well.
+{68490}{68562}My indictments to them are stronger|because they are real...
+{68563}{68585}...not your uneducated ideology.
+{68586}{68682}They are arrogant, self-obsessed,|calculating and reject the Christ.
+{68683}{68729}{Y:i}I won't have them pollute German blood.
+{68730}{68778}{Y:i}- Please, Doctor.|- He doesn't understand.
+{68779}{68825}And neither do his people.
+{68826}{68922}Deal with the reality of the Jew,|and the world will applaud us.
+{68946}{69042}Treat them as imaginary phantoms,|evil, inhuman fantasies...
+{69043}{69115}...and the world will have|justified contempt for us.
+{69116}{69186}To kill them without regard for the law|martyrs them...
+{69187}{69233}...which will be their victory.
+{69234}{69330}Sterilization recognizes them|as a part of our species...
+{69331}{69426}...but prevents them from being|a part of our race.
+{69450}{69473}{Y:i}They'll disappear soon enough.
+{69474}{69546}And we will have acted in defense|of our race and of our species...
+{69547}{69593}...and by the law.
+{69594}{69666}He spoke of the Law|for the Protection of German Blood.
+{69667}{69713}I wrote that law.
+{69714}{69786}{Y:i}When you have my credentials,|then we'll discuss...
+{69787}{69882}...who loves the Jews and who hates them.
+{69883}{69978}{Y:i}Pigs don't know how to hate.
+{69979}{70050}I know, too,|when it comes to the half-mixed...
+{70051}{70146}...that to kill them abandons|that half of their blood which is German.
+{70171}{70218}{Y:i}I'll remember you.
+{70219}{70314}{Y:i}You should. I'm very well known.
+{70363}{70435}{Y:i}- We should take a moment just to...|- Absolutely.
+{70436}{70482}If I may, for a moment.
+{70483}{70579}Dr. Stuckart has raised the question of|administrative consequences of evacuation.
+{70603}{70674}He is a very brilliant scholar of the law...
+{70675}{70771}{Y:i}...and, I'm sure, just as totally committed|to a Jew-free Europe as any of us.
+{70819}{70903}Let us take a moment.
+{70904}{70987}Go on with the food.
+{71323}{71370}More lemon.
+{71371}{71467}If you are suggesting that you have|dominion over me, just remember this:
+{71491}{71587}Even the Party,|which I have served loyally since 1922...
+{71588}{71634}...answers to the government.
+{71635}{71731}{Y:i}They both answer to the Fhrer.|You may be a friend of Gצring...
+{71732}{71816}{Y:i}...but if you're a betting man,|put your money on Bormann.
+{71817}{71899}{Y:i}Hear you've been flying|that little plane of yours.
+{71900}{71946}This morning, yes.
+{71947}{72018}{Y:i}I'm never comfortable off the ground.|Not me, I admit.
+{72019}{72091}Nietzsche advises the secret|to enjoying life is to live dangerously.
+{72092}{72162}He enjoyed it so much he went mad.
+{72163}{72235}Look at the world,|and tell me the pleasures of sanity.
+{72236}{72258}Excuse me, Doctor.
+{72259}{72355}Would you join me for a moment?|Thank you.
+{72788}{72835}{Y:i}We will accomplish this.
+{72836}{72932}I will not allow administrative|technicalities to slow it down.
+{72933}{73027}Every agency will jump to follow my order,|or arses will sting.
+{73028}{73124}And there are no shortages of meat hooks|on which to hang enemies of the state.
+{73196}{73267}This will be an SS operation.
+{73268}{73364}And as the war goes on, the SS will|more and more command the agenda...
+{73365}{73460}...and put marks against the names|of the less than cooperative.
+{73461}{73483}You have a choice to make.
+{73484}{73556}{Y:i}You understand that I respect the...
+{73557}{73603}Please.
+{73604}{73652}You will still have to make your choice.
+{73653}{73699}Do not let a strutting...
+{73700}{73796}...imbecilic, porcine prick|like Klopfer make it for you.
+{73820}{73867}{Y:i}I'd rather not see the bullies...
+{73868}{73940}...I admit we have more|than our share of them in the SS...
+{73941}{74036}...take too much of an interest in you.
+{74060}{74155}- Interest in me?|- Do you not think?
+{74156}{74240}And all I want from this meeting|is unanimity...
+{74241}{74324}...and no trouble|getting what has to be done, done.
+{74348}{74444}With you at my side, so much is possible.
+{74732}{74755}{Y:i}I've done this arithmetic.
+{74756}{74852}{Y:i}The real size of the labor force is already|a million less than the figures show.
+{74853}{74925}The economic considerations are not|the only considerations.
+{74926}{74996}{Y:i}I'll say they're not.|Have you done the extrapolations?
+{74997}{75092}{Y:i}My friend, with due respect,|may I say, "Fuck the extrapolations"?
+{75189}{75284}I hope you understand,|I want to be as useful as I can.
+{75309}{75404}- We must be in contact.|- Exactly.
+{75501}{75596}No one listens.
+{75597}{75692}From where he sits,|he does not have the ghettoes or the stink.
+{75693}{75789}{Y:i}And he's burglarizing administrative|control from the Governor-General.
+{75790}{75860}{Y:i}- Privileges of rank.|- I don't hear any urgency.
+{75861}{75957}Privileges of rank. The higher you go,|the more infallibility is bestowed.
+{75958}{76029}{Y:i}But I don't hear any|cut-the-bureaucracy solutions.
+{76030}{76076}Our problems.
+{76077}{76149}{Y:i}You're right.|He does not have our problems.
+{76150}{76196}{Y:i}Crap. "The privileges of rank. "
+{76197}{76293}All that matters is the SS blood group|tattooed under your arm.
+{76294}{76341}{Y:i}That's a secret password for you people.
+{76342}{76388}What are these suspicions?
+{76389}{76485}I will tell you this: When cholera hits|the ghettoes, and typhoid...
+{76486}{76581}{Y:i}...your tattoos won't protect you|from shitting your guts out...
+{76582}{76628}...until you dry up and die.
+{76629}{76724}Then tell me about infallibility.
+{76725}{76809}Those little Nuremberg country sausages,|the gritty little ones.
+{76810}{76893}- You can keep your oysters. What is that?|- Can you get them here?
+{76917}{76964}- Lange?|- Yes, sir?
+{76965}{77061}Who were those 30,000 you say you shot,|when you say you shot?
+{77085}{77132}In Riga, Latvia.
+{77133}{77229}27,800 I have some responsibility for.
+{77253}{77349}And stood by with my men and allowed|Latvian civilians to kill in mobs.
+{77398}{77493}{Y:i}I received memos directing the,|one would say, "evacuation" of Jews...
+{77518}{77613}...who, shot and buried in soil and corpses,|managed to crawl out, still alive.
+{77686}{77757}Not exactly war, is it?
+{77758}{77854}- And gas chambers about to come?|- What gas chambers?
+{77855}{77901}Gas chambers?
+{77902}{77998}I hear rumors, yes.
+{78046}{78141}This is more than war.
+{78142}{78238}{Y:i}- Must be a different word for this.|- Try "chaos. "
+{78239}{78334}Yes. The rest is argument,|the curse of my profession.
+{78350}{78405}I studied law as well.
+{78406}{78478}How do you apply that education|to what you do?
+{78479}{78574}It has made me distrustful of language.
+{78598}{78694}A gun means what it says.
+{78718}{78765}Do we need all this discussion?
+{78766}{78862}- He has his style.|- Yes. Very persuasive.
+{78910}{78982}Is there a problem, Doctor?
+{78983}{79054}{Y:i}He is non compos mentis.
+{79390}{79486}{Y:i}- It's your boss.|- On your feet.
+{79582}{79677}{Y:i}Beautiful lake. Is it not? I'm sorry.
+{79678}{79774}After the war, I shall live in this house|and rise to see that lake every day...
+{79798}{79894}...and dream comforting things.
+{79895}{79990}I am a dreamer, as I think you are.
+{80015}{80062}Yes, it is a dream world.
+{80063}{80135}Maj. Lange, how can I help you?
+{80136}{80182}Politics is a nasty game.
+{80183}{80278}I think soldiering requires the discipline|to do the unthinkable...
+{80303}{80374}...and politics requires the skill...
+{80375}{80459}...to get someone else|to do the unthinkable for you.
+{80460}{80543}But we need the politics,|so we put up with them.
+{80567}{80614}- At least for now.|- Yes.
+{80615}{80711}We look forward to a better day.
+{80712}{80758}A peaceful world.
+{80759}{80843}A German culture triumphant.
+{80844}{80921}That is what we work for.
+{80922}{80998}I appreciate the words, sir.
+{80999}{81083}We are servant-soldiers, are we not?
+{81084}{81167}- Yes, that is what we are.|- Indeed.
+{81239}{81287}Did you ask him?
+{81288}{81334}Ask him what?
+{81335}{81431}- Does he have a little Jewish blood?|- No, not yet.
+{81455}{81551}Inform me when he answers.
+{81671}{81718}{Y:i}That's what I heard.
+{81719}{81791}A grandmother or a grandfather.
+{81792}{81862}His father.
+{81863}{81959}{Y:i}That's the rumor, and if it is true,|how happy would he be to tell you?
+{82007}{82078}- I want a work document in two days.|- Yes.
+{82079}{82150}- No more than 30 copies.|- Yes, sir. 30 numbered.
+{82151}{82247}And those spools, the stenotype record,|have it destroyed.
+{82271}{82295}Yes, sir.
+{82296}{82391}{Y:i}- Let's get them back in here.|- All right.
+{82440}{82512}{Y:i}- Who's up there, sir?|- Dr. Klopfer.
+{82513}{82559}{Y:i}Kritzinger is...
+{82560}{82655}The gentleman outside walking: Find him.
+{82848}{82944}Sir?
+{82968}{83064}It has got colder.
+{83184}{83279}What a pretty little maid.
+{83280}{83376}{Y:i}I would like to remind all of you|that our Fhrer enunciates the goals.
+{83377}{83447}It is our task to turn|his vision into reality.
+{83448}{83520}{Y:i}We can debate the "how"|and the "when" up to a point.
+{83521}{83591}{Y:i}We can not debate the "if," Dr. Stuckart.
+{83592}{83688}- I am not purposely contentious.|- Nor was I trying to be insulting.
+{83760}{83856}{Y:i}I would like to try...
+{83976}{84072}We will now discuss method.|Who would like to speak on this?
+{84096}{84143}What is being advocated here?
+{84144}{84240}A law dissolving all marriages|between mixed and German?
+{84241}{84287}- Why not?|- Courts adjust.
+{84288}{84336}As we all do. That is not the point.
+{84337}{84383}{Y:i}You're too inflexible, my friend.
+{84384}{84479}You know damn well the courts will be|happy to be rid of the problem.
+{84480}{84576}{Y:i}I'm pointing out a problem of casting every|Jew and non-Jew into a sausage machine.
+{84577}{84672}{Y:i}If that's the plan, I'm asking|that some legal framework be built.
+{84673}{84720}{Y:i}Let's do it. If we skip|a few steps, so be it.
+{84721}{84767}{Y:i}"Skip a few steps!"
+{84768}{84841}When you plane down a piece of wood,|a few chips go flying.
+{84842}{84889}Jews or judges, who are the chips?
+{84890}{84960}I would like to say...
+{84961}{85056}...in this discussion,|regarding the tone, first...
+{85081}{85176}...abandon your misperception that|Dr. Stuckart has affection for the Jews.
+{85177}{85272}{Y:i}I'm sure he does not, and his heart is pure.|He believes in supremacy of law.
+{85321}{85368}Jews...
+{85369}{85464}...in any event,|will vanish soon enough from Germany.
+{85489}{85573}But the method, yes.
+{85574}{85656}You accept, casually...
+{85657}{85728}...the obliteration of legal distinctions...
+{85729}{85800}...and the use of extreme,|inconceivable measures...
+{85801}{85897}...that, I say again, that our Chancellery|was assured would not be used.
+{85921}{85992}That is where we have come.
+{85993}{86089}A soldier cannot decide|where he chooses to fight.
+{86090}{86112}Where are we here?
+{86113}{86185}Gen. Heydrich invited your opinions|on the methodology.
+{86186}{86208}Indeed.
+{86209}{86256}I can say this.
+{86257}{86353}{Y:i}You're going to have your work cut out|with the Catholic church...
+{86354}{86400}...with the Reich divorcing|all those Catholics.
+{86401}{86473}{Y:i}That's not going to make|our priests very comfortable...
+{86474}{86496}...or the Vatican.
+{86497}{86593}The Vatican has no love for the Jew.|Why should they interfere?
+{86594}{86641}The Lutherans would not object either.
+{86642}{86688}I agree with Dr. Stuckart.
+{86689}{86785}The problems outweigh|the short-term ideological satisfactions.
+{86786}{86857}Military necessity comes first.|Am I wrong?
+{86858}{86904}Why can this not be simpler?
+{86905}{87001}The Ministry of Justice, which I represent,|can live with it gladly.
+{87025}{87121}Maj. Lange, an opinion?
+{87122}{87168}General...
+{87169}{87266}...I accept the chain of command.|I have no other gods before it.
+{87267}{87362}{Y:i}The politics of it all...
+{87363}{87385}No, nothing.
+{87386}{87458}- We are more than a nation of armies.|- I hope.
+{87459}{87505}General?
+{87506}{87602}If Dr. Stuckart is saying we should turn|a few Jew-loving Germans against us...
+{87603}{87673}...I would happily throw them all|on the same transport.
+{87674}{87746}It is, however, a political decision,|not mine particularly to make.
+{87747}{87818}Can you step back from trying|to settle these details today?
+{87819}{87878}Other agencies will want to be heard.
+{87879}{87937}Now, that is wisdom from my neighbor.
+{87938}{88034}I favor sterilization, I think,|but not wholesale...
+{88058}{88153}...what Gen. Heydrich outlined earlier.|Why not?
+{88154}{88250}X- rays, injections: Why are we discussing|theoretical solutions?
+{88251}{88346}Goethe said that theories are gray,|but that real life is green.
+{88347}{88417}Stop chattering, and be realists here.
+{88418}{88490}I insist, as I have before,|that the best way is the quickest way.
+{88491}{88586}Purge them totally off our land,|ideally, off our planet.
+{88658}{88742}And for the Eastern Territories,|leave us able-bodied workers.
+{88743}{88826}If they are separated,|the men from the women, QED, no babies.
+{88827}{88898}And evacuate the others, as you outlined.
+{88899}{88945}Get it done.
+{88946}{89018}{Y:i}All right, we've gone around.
+{89019}{89065}I have your opinions.
+{89066}{89150}{Y:i}I want to move on.|Let's have the food in here.
+{89151}{89229}I wish to keep going.|We can eat while we work.
+{89230}{89305}To clarify what I agree with|and what I do not...
+{89306}{89378}...I agree with the doctor about|the complications of all the variations.
+{89379}{89474}But I favor deportation|or sausage-making, right?
+{89522}{89618}I hear talk from some of you who live here|in Germany about labor force.
+{89619}{89679}What is the reality,|at least for the Polish Jews?
+{89680}{89737}Damn few of them are fit|for labor of any kind.
+{89738}{89803}You do not find Jews with|dirt under their fingernails,
+{89804}{89834}so who is this labor force?
+{89859}{89930}What we have are ghettoes|filled and overfilled...
+{89931}{90027}...with the scabrous, the rotting.|We do not have the food for them.
+{90028}{90099}The stink of their diseases|does not stop at the walls.
+{90100}{90171}And you ship them up to us|by the thousands to deal with.
+{90172}{90218}What are we to do?
+{90219}{90290}We have no place to put them.
+{90291}{90363}We have no more place to put our own.|We cannot shoot 3.5 million Jews.
+{90364}{90434}We cannot poison them,|and we cannot use them.
+{90435}{90507}{Y:i}You'll have Maj. Lange and his men|come in with their special methods.
+{90508}{90603}- How many Rigas do we have to have?|- Build the wall higher.
+{90627}{90722}What we are asking, before you flood us|with all of these Jews...
+{90723}{90819}...let us first clean out ours, empty our|ghettoes into whatever you have for them.
+{90820}{90890}Military, too.
+{90891}{90963}Mass shootings by our groups|create morale problems...
+{90964}{91010}...especially when the Jew is|a German Jew...
+{91011}{91082}...who is intellectually superior|to the Russian Jew.
+{91083}{91179}Even with local civilians cooperating,|mass slaughter leaves a bad taste.
+{91180}{91226}I can so testify.
+{91227}{91299}{Y:i}We've had to deal with the backlash|when it comes to German ones.
+{91300}{91370}If your method of disposing|all the Jews diverts military units...
+{91371}{91467}...and rolling stock from the Eastern Front,|then it is a stupid choice.
+{91468}{91539}Recognizing the priority|for ridding ourselves of the Jews...
+{91540}{91611}{Y:i}I'm not arguing priority,|but method and expediency.
+{91612}{91682}{Y:i}I'm sorry, why can't you shoot them?
+{91683}{91779}{Y:i}Didn't you hear him? It is the worst thing|for our soldiers to be doing.
+{91780}{91851}They are women and children,|and soldiers have a sense of honor.
+{91852}{91898}Plenty of honor in following orders.
+{91899}{91971}- Would you like to volunteer?|- Enthusiastically.
+{91972}{92018}- I will.|- You will not.
+{92019}{92079}Eleven million, even half that,|executed in small batches...
+{92080}{92158}...would be asinine,|for the reasons Dr. Meyer mentioned.
+{92159}{92235}Inefficient use of time, troops,|equipment, bullets. No.
+{92236}{92331}As Maj. Lange will learn,|using gas is much cheaper and less public.
+{92356}{92427}Please.
+{92428}{92500}The T4 euthanasia program|has used injections...
+{92501}{92572}...but most effectively...
+{92573}{92643}...a carbon-monoxide gas.
+{92644}{92739}We began using it on Polish mental|patients in Brandenburg in January, 1940.
+{92764}{92859}An area is constructed|that resembles a shower room or a bath.
+{92884}{92979}The subjects are brought in naked,|as though for a shower...
+{92980}{93076}...and outside, stainless-steel tanks|pump in pure carbon monoxide...
+{93077}{93172}{Y:i}...which, what it does is...
+{93220}{93316}I have figures.
+{93364}{93460}In May, this program was extended|to Hartheim and in June at Sonnenstein.
+{93461}{93556}In the first six months of 1940,|8,765 persons were gassed.
+{93580}{93675}By the end of 1940, a total of 26,459.
+{93676}{93747}By the end of August last year,|another 35,049.
+{93748}{93844}We terminated this particular program,|however, on September 1.
+{93845}{93940}In the end,|70,273 have been gassed by this method.
+{93941}{94035}At this time,|we began the advanced program.
+{94036}{94131}- The General Government knew nothing...|- Keep going.
+{94132}{94228}Last summer, we ordered the construction|of 20 mobile gassing trucks...
+{94229}{94301}...using their redirected exhaust|back into the chamber.
+{94302}{94371}Three such trucks have been in use|since last month.
+{94372}{94468}- But the Chelmno camp, now Kulmhof...|- Already constructed, under our noses.
+{94492}{94564}In each truck,|you can get in 40 to 60 Jews at a time.
+{94565}{94636}In fact, the more you have in,|the faster it works.
+{94637}{94683}And the...
+{94684}{94781}{Y:i}...carbon monoxide, what it does is...
+{94782}{94852}The bodies come out pink.
+{94853}{94925}{Y:i}- The gas turns them pink.|- That's a nice touch.
+{94926}{94997}If it is already built,|what is this meeting?
+{94998}{95092}Why bother?
+{95093}{95164}The system has shown that it works.
+{95165}{95260}It will work for you. It is settling in.
+{95285}{95356}The method is now defined.
+{95357}{95453}The Jews go in red and come out pink.|That is progress.
+{95549}{95597}I should never mix wine with whiskey.
+{95598}{95692}{Y:i}What's the matter?
+{95693}{95740}I think I will be all right.
+{95741}{95813}{Y:i}Don't make excuses|if you have to leave for a minute.
+{95814}{95861}Sort of a headache.
+{95862}{95957}Hurry.
+{96077}{96173}Eat.
+{96197}{96293}- Fucking ridiculous!|- Not at all, sir.
+{96294}{96389}- It could not be the mixing.|- The cigar?
+{96390}{96485}Everything all right, sir?
+{96509}{96556}Could be the cigar.
+{96557}{96653}I could never abide them.|And my father would chew them.
+{96654}{96725}His mouth was always full|of evil juice and pulp!
+{96726}{96821}It would fill up, and he would have to spit!
+{96822}{96845}I would leave it there, sir.
+{96846}{96916}Cigarettes...
+{96917}{96977}...they calm me down.
+{96978}{97056}Settle my stomach.
+{97057}{97133}They calm me down.
+{97157}{97253}The problem is,|there are not enough of them in the world.
+{97398}{97493}- We should be in there, should we not?|- Yes.
+{97542}{97637}Sir?
+{97782}{97829}- Is this clean?|- Yes, sir.
+{97830}{97902}- Let me have a glass of water.|- I brought some out, sir.
+{97903}{97949}{Y:i}I'm not addressing you.
+{97950}{98046}- And a bromide tablet of some kind.|- You did not like the food?
+{98094}{98141}I did not eat.
+{98142}{98238}- I know of no philosophy...|- Philosophy clutters your argument.
+{98286}{98357}We have to countenance the suffocating|glut of this parasitic people...
+{98358}{98454}...consuming our food, contaminating|our professions, controlling our currency.
+{98455}{98501}- None of that is true.|- In your philosophy.
+{98502}{98573}{Y:i}Perhaps that's what the chosen people|were chosen for.
+{98574}{98670}No, I apologize. You take a position,|you deserve a response.
+{98694}{98741}It is a cold winter.
+{98742}{98826}The war, in spite of the rallies,|posters and the radio...
+{98827}{98910}...looks like a longer, harder war.|The Jews are in the way.
+{98958}{99054}And how can I, one rather peripheral figure|in your grand plan, be in your way?
+{99102}{99198}You underestimate your influence.|I do not.
+{99199}{99294}You would be a hard man to bring down.
+{99295}{99390}But certainly not impossible.
+{99414}{99486}{Y:i}Did I hear you say earlier, "Be practical"?
+{99487}{99509}Yes.
+{99510}{99581}Then this is the moment to be practical...
+{99582}{99678}...until a time when Germany|can afford your philosophy, which is what?
+{99679}{99775}{Y:i}"Hound them, impoverish them,|exploit them, imprison them...
+{99776}{99871}{Y:i}"... just do not kill them. "|And you are God's noblest of men.
+{99872}{99966}I find that truly remarkable.
+{99991}{100086}Sitting at that table, I will ask for your|agreement to what has been proposed.
+{100111}{100158}And I must answer now?
+{100159}{100254}You will answer now,|or you will answer later.
+{100303}{100326}I will not oppose you.
+{100327}{100423}- I want more than that.|- Of course.
+{100424}{100446}Good.
+{100447}{100507}We understand each other.
+{100508}{100566}May I tell you a story?
+{100567}{100663}- A good one?|- A true one.
+{100664}{100734}Tell me the story.
+{100735}{100831}- It was told to me by a friend of mine.|- Yes?
+{100832}{100854}{Y:i}He knew a man...
+{100855}{100951}Do you realize how much thought and|effort has gone into the Four-Year Plan?
+{100952}{100998}{Y:i}Plenty, I'm sure.
+{100999}{101046}Reichsmarshal Gצring is very clear.
+{101047}{101119}The necessities of the war|mean that the Jew question has to wait.
+{101120}{101166}{Y:i}There's been a new directive.
+{101167}{101215}That says nothing about|a change in priorities.
+{101216}{101238}- It is implied.|- Not by me.
+{101239}{101287}Why is it your way or nothing?|I mean the SS.
+{101288}{101359}- Now you understand.|- I do not.
+{101360}{101382}You have stated it.
+{101383}{101479}- When I report to the Reichsmarshal...|- There has been a new directive.
+{101503}{101599}{Y:i}It has to be as the SS directs.|You can't sail a ship with two captains.
+{101600}{101646}{Y:i}The Fhrer is the captain.
+{101647}{101719}And for this,|he has given Heydrich the command.
+{101720}{101792}Even Gצring has given it.
+{101793}{101862}- Resign yourself.|- Resign?
+{101863}{101934}{Y:i}Yourself to how it's going to be done.
+{101935}{102030}- A soldier cannot decide...|- Yeah, spare me.
+{102031}{102103}{Y:i}A Communist, by definition,|has a defect of reason.
+{102104}{102151}{Y:i}The Russian is not a Communist,|my friend.
+{102152}{102224}{Y:i}The Russian does not give a damn|who runs things.
+{102225}{102271}I have lived amongst them.
+{102272}{102344}The Russian only cares|he has a bottle of vodka to suck...
+{102345}{102391}...and some form of|domestic animal life to fuck.
+{102392}{102487}Then he will happily sit in shit|his whole life. That is his politics.
+{102536}{102584}I know those people.
+{102585}{102644}That is the distinction.
+{102645}{102703}I absolve the Jews of that.
+{102704}{102751}- What did Kritzinger say?|- Told me a story.
+{102752}{102824}- Which was?|- Later. He made his point, he feels better.
+{102825}{102895}{Y:i}- Nothing to eat?|- Lf there's time later.
+{102896}{102943}{Y:i}We should've had music.|There must be a piano here.
+{102944}{103040}{Y:i}- A string trio would add to the experience.|- Yes, I should have. I'm sorry.
+{103041}{103136}Food, wine, brandy, no music?|A little lovely, late Beethoven?
+{103137}{103184}{Y:i}- I'm sorry.|- It would not have been practical.
+{103185}{103279}{Y:i}- Yes.|- I'm teasing.
+{103280}{103364}I take it that you do not get good food|up in Cracow.
+{103365}{103447}If all Berlin eats like you,|no wonder we have shortages.
+{103448}{103544}{Y:i}Was it Mussolini who said,|"War reveals man's nobler character"?
+{103545}{103567}Are we ready?
+{103568}{103628}- Feeling better?|- Thank you, yes.
+{103629}{103688}{Y:i}- Something you ate?|- I'm fine.
+{103689}{103735}The cigar.
+{103736}{103784}- The cigar?|- Unexpected.
+{103785}{103855}We will forego cigars.
+{103856}{103927}That should be no great trial.|Where did we stop?
+{103928}{104024}{Y:i}The last remark was by Gen. Freisler.|"The Jews go in red and come out pink.
+{104048}{104095}{Y:i}- "That is progress. "|- The side-effect of CO gas.
+{104096}{104191}{Y:i}There's more to say on that.|We're studying something faster...
+{104192}{104288}...other faster and cheaper gases that|could be used. Cyanide is being tested...
+{104289}{104337}...various forms.|- Electrocution, too?
+{104338}{104383}There is research being done to see...
+{104384}{104480}...whether electrocution|can even more effectively...
+{104504}{104588}...quietly put an end,|a period to the end of the sentence.
+{104589}{104671}Say one truckload an hour,|including putting the contents in...
+{104672}{104768}...running the engines, removing the|contents, cleaning the inevitable soiling...
+{104793}{104889}...on a 24-hour schedule,|1,440 a day times 20 trucks.
+{104890}{104985}{Y:i}That's 28,800 a day...
+{104986}{105080}...10,512,000 in one year.
+{105081}{105153}But I cannot imagine you could operate|consistently at that rate.
+{105154}{105200}Not to mention disposal.
+{105201}{105248}Gas vans are a short-term field solution.
+{105249}{105345}We have three camps where permanent|gas chambers will be operational.
+{105346}{105368}{Y:i}I'm sorry?
+{105369}{105453}Yes, I was about to mention Belzec,|Sobibor, and Treblinka...
+{105454}{105537}...before Gen. Hofmann was taken ill.|- It was a fine cigar.
+{105538}{105584}Ultimately,|the camps will be the primary locations.
+{105592}{105681}{Y:i}Last summer, Reichsfhrer Himmler|asked me to visit a camp...
+{105682}{105752}...up in Upper Silesia called Auschwitz...
+{105753}{105825}...which is very well isolated|and close to significant rail access.
+{105826}{105897}We are turning that camp into|a major center, solid structures.
+{105898}{105982}{Y:i}Here's where your Jewish labor|comes into play, Herr Neumann.
+{105983}{106064}The Jews hold the bricks,|and build the buildings themselves.
+{106065}{106161}When the structures are complete,|we expect to be able to process 2,500...
+{106162}{106233}...an hour, not a day.
+{106234}{106329}An hour.
+{106401}{106473}And those numbers look a lot better.
+{106474}{106521}2,500 an hour?
+{106522}{106544}2,500?
+{106545}{106641}At 24 hours a day, that is 60,000.
+{106665}{106760}60,000 each day.
+{106761}{106833}{Y:i}That's 21.9 million Jews a year...
+{106834}{106904}...if ever there were that many.
+{106905}{106976}We are also constructing|the means of disposal...
+{106977}{107049}...which will obviously depend upon|the process of combustion.
+{107050}{107122}Yes, industrial in nature,|large, commercial gas-fed ovens...
+{107123}{107217}...no residue to speak of.
+{107314}{107410}60,000 Jews every day...
+{107411}{107470}...go up in smoke.
+{107471}{107530}We can achieve that.
+{107531}{107625}Imagine.
+{107890}{107937}Assembly line!
+{107938}{107985}Yes, the clever Americans|have shown us that...
+{107986}{108058}...but we put it to the purpose of|a triumphant German vision.
+{108059}{108129}Triumphant German vision.
+{108130}{108177}So this is my command to you here.
+{108178}{108249}Link arms, your units, your ministries...
+{108250}{108322}...apply your intelligence,|apply your energies.
+{108323}{108393}The machinery is waiting, feed it.
+{108394}{108489}Get them on the trains.|Keep the trains rolling.
+{108490}{108562}And history will honor us for having|the will and the vision to advance...
+{108563}{108658}...the human race to greater purity|in a space of time so short...
+{108659}{108718}...Charles Darwin would be astonished.
+{108719}{108777}I want to bring this meeting to a close.
+{108778}{108862}One matter we postponed is|the point at which mixed becomes...
+{108863}{108945}...wholly German or wholly Jew.|That line will be drawn quickly.
+{108946}{109042}{Y:i}I am not trying to rewrite your law,|but I am invoking Fhrer's princip.
+{109043}{109137}His word is above all written law.
+{109138}{109185}Do we have any disputes left to face here...
+{109186}{109282}...either with my authority|or with what we have agreed?
+{109330}{109353}General?
+{109354}{109401}Let us astonish Charles Darwin.
+{109402}{109474}I second the motion.|It is our most important war.
+{109475}{109545}Sir?
+{109546}{109619}We are discussing the inevitable|and bringing it about...
+{109620}{109666}...in the most practical way|under one command.
+{109667}{109762}I have no dispute with that.|I understand the realities...
+{109787}{109883}- With the understanding that...|- And indeed...
+{109884}{109954}...count on my support.
+{109955}{110050}With the understanding that consideration|will be given to my proposal, yes, proceed.
+{110099}{110170}I defer to the SS.
+{110171}{110218}If you are to do it, then force feed it.|Speed it along.
+{110219}{110315}Our situation, such as in Warsaw,|is difficult, edging towards disastrous.
+{110339}{110386}Thank you.
+{110387}{110483}Yes, what can I say?|My enthusiasm is boundless.
+{110484}{110554}- Obviously.|- Sorry?
+{110555}{110627}I trust my enthusiasm is clear,|is apparent. Yes!
+{110628}{110650}Neumann?
+{110651}{110694}{Y:i}I'd like to know that adequate labor
+{110695}{110747}will still be available,|especially skilled...
+{110771}{110843}- On a case-by-case basis. Maj. Lange?|- Yes.
+{110844}{110914}I urge that speed|that Dr. Meyer asked of you.
+{110915}{110987}The Poles are not as disciplined|a population as we Germans.
+{110988}{111034}I will report our will|to the Governor-General.
+{111035}{111107}{Y:i}He'll understand I'm relieving him|of a burden. Colonel?
+{111108}{111154}I thoroughly approve|and am anxious to start.
+{111155}{111251}I look forward to working with your office,|and yours, Colonel.
+{111252}{111347}The sooner, the better.
+{111419}{111515}- The note-taking, General?|- I think we can now dispense with him.
+{111516}{111611}{Y:i}Many of you took notes,|I'll give you the day to memorize them.
+{111612}{111634}They are to be burned.
+{111635}{111731}Col. Eichmann will prepare|a discrete transcript of this meeting.
+{111732}{111754}You will each receive a copy.
+{111755}{111827}It may be shown to superiors,|but to no one at a lower level.
+{111828}{111899}All comments are to be sent,|in the most privileged way, to me...
+{111900}{111995}...through Col. Eichmann.
+{112067}{112115}Good.
+{112116}{112176}We have accomplished something.
+{112177}{112236}I thank all of you gentlemen.
+{112237}{112283}{Y:i}Heil Hitler!
+{112284}{112379}{Y:i}There is plenty of food left|for those of you, and please...
+{112404}{112499}- Are you off, General?|- I have a few minutes. Come.
+{112812}{112884}{Y:i}Leave him. His Fhrer lied to him.|I think he got the message.
+{112885}{112980}General, just a word.
+{113004}{113100}In here.
+{113268}{113339}Stop it!
+{113340}{113412}{Y:i}You. What are you doing?|You're in uniform.
+{113413}{113484}{Y:i}I'm sorry, sir, it just seemed to happen.
+{113485}{113507}Not in uniform.
+{113508}{113579}Nothing ever just happens.
+{113580}{113652}If you prefer,|we can send you to the Russian front.
+{113653}{113748}Clean off these cars!
+{113892}{113940}- Are you leaving tonight?|- Yes.
+{113941}{113987}Not another night in Berlin?
+{113988}{114035}You have nothing to do, sir. I have.
+{114036}{114132}- You surprised me at the end, Dr. Stuckart.|- Not my intention.
+{114204}{114251}Leave the paper tapes with me.
+{114252}{114324}{Y:i}We'll begin transcribing tomorrow,|but leave the tapes with me now.
+{114325}{114420}- You want all the tapes, sir?|- Yes, all of them.
+{114444}{114528}{Y:i}Dr. Stuckart's car!
+{114529}{114611}Are you unwell?
+{114612}{114708}Good night, Dr. Stuckart.
+{114733}{114828}My car.
+{114877}{114972}{Y:i}Gen. Hofmann's car!
+{115093}{115189}It is night in Moscow already.
+{115190}{115284}Soon, it will be dark here.
+{115285}{115381}{Y:i}Do you think we'll ever see|the dawn in our lifetime?
+{115405}{115501}{Y:i}Come spring, we'll be on the move again.|Keep you spirits up, Doctor.
+{115502}{115524}The Governor-General has...
+{115525}{115620}...specifically been told|that we would be the first area...
+{115621}{115693}...to have our ghettos emptied,|the Jews evacuated. The possible...
+{115694}{115741}I know the conditions, but you are wrong.
+{115742}{115813}The first to be cleansed is Germany.
+{115814}{115860}Then you. Germany first.
+{115861}{115956}- The bureaucratic...|- This is my operation, no bureaucrat...
+{115957}{116029}...with his nose in the rule book|and hand on his cock will slow it down.
+{116030}{116100}{Y:i}We'll be moving Jews in days, not weeks.
+{116101}{116197}You can start writing up|your train schedules.
+{116221}{116317}Schubert Quintet in C Major.
+{116341}{116437}The adagio will tear your heart out.
+{116485}{116545}Tell the Governor-General|to expect my call.
+{116546}{116605}- Have we helped your problem?|- Yes, I hope so.
+{116606}{116652}Good. You, sir?
+{116653}{116725}{Y:i}- I'm sure trains will be available.|- Anything else?
+{116726}{116772}You have been very patient.
+{116773}{116869}{Y:i}Don't count on it.|Have a good ride to Cracow.
+{116870}{116916}Thank you.
+{116917}{117013}Well done, Colonel. Fine meeting.
+{117014}{117061}Thank you.
+{117062}{117085}Thank you as well.
+{117086}{117181}I admire your gift for organization.|The meeting was very economical.
+{117254}{117349}Now.
+{117374}{117469}Do either of you think|we would have that final solution?
+{117470}{117542}{Y:i}That in a year, there wouldn't be|a Jew left on the continent?
+{117543}{117613}That we control? Why not?
+{117614}{117686}- You drink, Eichmann?|- Yes, sir.
+{117687}{117734}Were you ever drunk?
+{117735}{117782}From time to time.
+{117783}{117853}Well, then...
+{117854}{117901}...take a fucking drink.
+{117902}{117998}{Y:i}- I am on duty, sir.|- Then it's an order.
+{117999}{118021}Thank you.
+{118022}{118118}And tell us again about the pink bodies.
+{118166}{118213}{Y:i}Sir, I'd rather not.
+{118214}{118310}- The sounds, the screams.|- He will faint again.
+{118334}{118430}I did not faint.
+{118478}{118573}I had a physical symptom.
+{118574}{118622}What was the story|you were going to tell me?
+{118623}{118669}- Story?|- Kritzinger.
+{118670}{118766}{Y:i}Yes, he told me a story about a man|he'd known all his life, a boyhood friend.
+{118790}{118862}This man hated his father.|Loved his mother fiercely.
+{118863}{118909}The mother was devoted to him...
+{118910}{118981}...but the father beat him, demeaned him,|disinherited him.
+{118982}{119078}Anyway, this boy grew to manhood and|was still in his 30s when the mother died...
+{119079}{119174}...this mother who had nurtured|and protected him.
+{119198}{119221}She died.
+{119222}{119318}The man stood as they lowered|her casket and tried to cry...
+{119342}{119413}...but no tears came.
+{119414}{119510}{Y:i}The man's father lived to old age,|died when the son was in his 50s.
+{119534}{119607}{Y:i}At the father's funeral,|much to his son's surprise...
+{119608}{119702}...he could not control his tears.
+{119703}{119798}He was wailing, sobbing.|He was apparently inconsolable.
+{119823}{119894}Lost, even.
+{119895}{119990}That was the story Kritzinger told me.
+{120039}{120087}{Y:i}I don't understand.
+{120088}{120134}No?
+{120135}{120231}The man had been driven his whole life|by hatred of his father.
+{120232}{120279}When the mother died, that was a loss.
+{120280}{120326}When the father died...
+{120327}{120399}...when the hate had lost its object...
+{120400}{120471}{Y:i}...then the man's life was empty.
+{120472}{120566}Over.
+{120567}{120614}Interesting.
+{120615}{120711}{Y:i}That was Kritzinger's warning.
+{120735}{120807}What? That we should not hate|the Israelites?
+{120808}{120878}No, that it should not so fill our lives...
+{120879}{120975}...that when they are gone,|we have nothing left to live for.
+{120999}{121095}So says the story.
+{121119}{121215}I will not miss them.
+{121239}{121310}Time.
+{121311}{121383}You have to take me up|in that plane of yours sometime.
+{121384}{121455}{Y:i}Yes, we should do that.|Not right after you've eaten.
+{121456}{121551}- Friday.|- Everything will be prepared.
+{121599}{121683}One working copy, edited by me,|for your approval.
+{121684}{121767}30 copies, numbered.|No other records, I guarantee.
+{122007}{122103}Good.
+{122584}{122680}- You certainly know how to throw a party.|- Thank you.
+{122681}{122776}{Y:i}Shalom.
+{123592}{123688}Does it tear your heart out?
+{123736}{123832}Beautiful, sir.
+{123880}{123976}{Y:i}I've never understood the passion|for Schubert's sentimental Viennese shit.
+{125537}{125633}{Y:i}Col. Eichmann carefully edited|the stenographic record of the conference.
+{125634}{125705}{Y:i}Copies were distributed|to the participants to be read...
+{125706}{125752}{Y:i}...and then destroyed.
+{125753}{125837}{Y:i}Gen. Heydrich flew back|to his headquarters in Czechoslovakia...
+{125838}{125921}{Y:i}...where, in a few terrible weeks,|he had earned the nickname:
+{125922}{125992}{Y:i}The Butcher of Prague.
+{125993}{126040}{Y:i}In the spring, two Czech patriots...
+{126041}{126113}{Y:i}...trained to assassinate him|and dropped from a British bomber...
+{126114}{126184}{Y:i}...succeeded in wounding him.
+{126185}{126280}{Y:i}In reprisal, thousands of Czechs|were rounded up and shot.
+{126281}{126377}{Y:i}Heydrich's wounds grew infected,|he fell into a coma and died.
+{126401}{126472}{Y:i}Eichmann, as Heydrich's deputy|for Jewish affairs...
+{126473}{126569}{Y:i}...was left to finish|what they had begun at Wannsee.
+{126570}{126665}{Y:i}He considered it a matter of honor.
+{126690}{128190}OpenSubtitles recommends using Nord VPN|from 3.49 USD/month ----> osdb.link/vpn
