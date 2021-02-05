@@ -1,0 +1,4230 @@
+﻿1
+00:00:02,319 --> 00:00:04,039
+This is my buddy Spence.
+
+2
+00:00:04,124 --> 00:00:05,759
+Injured himself
+on the waterslide.
+
+3
+00:00:07,000 --> 00:00:13,074
+OpenSubtitles recommends using Nord VPN
+from 3.49 USD/month ----> osdb.link/vpn
+
+4
+00:00:30,758 --> 00:00:32,132
+Captain Strand?
+
+5
+00:00:33,420 --> 00:00:35,562
+Captain Strand,
+the wind shifted.
+
+6
+00:00:42,797 --> 00:00:44,151
+How long was I out?
+
+7
+00:00:44,236 --> 00:00:45,945
+Almost an hour.
+
+8
+00:00:46,117 --> 00:00:47,968
+That's about all I need.
+
+9
+00:00:48,060 --> 00:00:51,041
+The weeks-long battle
+against the San Angelo fire
+
+10
+00:00:51,126 --> 00:00:52,469
+continues at this hour,
+
+11
+00:00:52,553 --> 00:00:55,054
+with officials now saying
+the blaze has consumed
+
+12
+00:00:55,139 --> 00:00:57,617
+more than 180,000 acres
+
+13
+00:00:57,702 --> 00:00:59,954
+<i>with less than 5% containment.</i>
+
+14
+00:01:00,039 --> 00:01:02,127
+<i>Resources here in West Texas
+have been</i>
+
+15
+00:01:02,212 --> 00:01:03,463
+<i>stretched to their limits,</i>
+
+16
+00:01:03,547 --> 00:01:06,359
+<i>but help is now arriving
+from neighboring states.</i>
+
+17
+00:01:06,546 --> 00:01:09,677
+<i>Fire companies from Oklahoma,
+New Mexico,</i>
+
+18
+00:01:09,761 --> 00:01:12,013
+<i>and as far away as California
+are sending</i>
+
+19
+00:01:12,097 --> 00:01:15,055
+<i>equipment and manpower
+to aid in this fight,</i>
+
+20
+00:01:15,140 --> 00:01:17,719
+<i>a welcome sight
+to the embattled Texans</i>
+
+21
+00:01:17,804 --> 00:01:19,645
+<i>on the front lines
+of this blaze,</i>
+
+22
+00:01:19,729 --> 00:01:22,148
+<i>one that has to look
+a lot like the arrival</i>
+
+23
+00:01:22,232 --> 00:01:24,523
+<i>of the cavalry.</i>
+
+24
+00:01:24,774 --> 00:01:26,100
+Buck.
+
+25
+00:01:26,185 --> 00:01:28,028
+Wake up. We're here.
+
+26
+00:01:28,267 --> 00:01:32,095
+Oh, we are?
+
+27
+00:01:32,242 --> 00:01:35,265
+Ooh!
+What's up with the air?
+
+28
+00:01:35,467 --> 00:01:37,537
+The wildfire, remember?
+That's why we're here.
+
+29
+00:01:37,622 --> 00:01:39,207
+I mean the way it feels.
+
+30
+00:01:39,291 --> 00:01:40,925
+Like getting slapped
+with a wet towel.
+
+31
+00:01:41,009 --> 00:01:42,460
+It's called humidity.
+
+32
+00:01:42,544 --> 00:01:44,890
+Welcome to Texas, Buck.
+
+33
+00:01:46,536 --> 00:01:48,266
+<font color=#FF00FF>*9-1-1 LONE STAR*</font>
+<font color=#00FF00>Season 02  Episode 03</font>
+Episode Title: <font color=#FFc30f>"Hold The Line"</font>
+
+34
+00:01:48,350 --> 00:01:50,390
+I'm Deputy Chief De Leon
+
+35
+00:01:50,475 --> 00:01:52,195
+of the San Angelo
+Fire Department,
+
+36
+00:01:52,382 --> 00:01:54,609
+acting incident commander.
+
+37
+00:01:54,694 --> 00:01:57,946
+For those of you just joining
+the party, welcome.
+
+38
+00:01:58,507 --> 00:02:00,278
+Buck, stop staring.
+
+39
+00:02:00,362 --> 00:02:02,195
+- I'm not staring.
+- You're staring.
+
+40
+00:02:02,957 --> 00:02:04,126
+I think that guy is
+staring at you.
+
+41
+00:02:04,210 --> 00:02:07,250
+I want to introduce
+my operations section chief,
+
+42
+00:02:07,335 --> 00:02:09,546
+Captain Owen Strand
+out of Austin.
+
+43
+00:02:12,133 --> 00:02:14,610
+The thing we were praying
+wouldn't happen has happened.
+
+44
+00:02:14,695 --> 00:02:16,368
+The wind has shifted.
+
+45
+00:02:16,453 --> 00:02:18,446
+The fire's now on
+a collision course
+
+46
+00:02:18,531 --> 00:02:20,414
+with the city of San Angelo.
+
+47
+00:02:20,664 --> 00:02:22,649
+There's a possibility
+of weather coming in,
+
+48
+00:02:22,734 --> 00:02:24,921
+but we can't rely on it,
+and we won't.
+
+49
+00:02:25,006 --> 00:02:28,617
+We have one last shot
+to turn the tide.
+
+50
+00:02:29,507 --> 00:02:32,143
+Here.
+On Copper Ridge.
+
+51
+00:02:32,703 --> 00:02:34,262
+We cut a containment line here,
+
+52
+00:02:34,346 --> 00:02:36,796
+and we can stop this beast
+in its tracks.
+
+53
+00:02:37,570 --> 00:02:39,093
+I know you're exhausted.
+
+54
+00:02:40,176 --> 00:02:43,241
+A lot of you haven't had
+a couple of hours sleep... days
+
+55
+00:02:43,326 --> 00:02:45,543
+But on behalf of the city
+of San Angelo
+
+56
+00:02:45,628 --> 00:02:47,917
+and their 120,000 souls,
+
+57
+00:02:48,601 --> 00:02:50,929
+we're gonna get you
+up on that fire line
+
+58
+00:02:51,411 --> 00:02:53,187
+and you are gonna cut
+like hell.
+
+59
+00:02:53,365 --> 00:02:56,226
+Good luck.
+Stay safe.
+
+60
+00:02:57,867 --> 00:02:59,429
+Buck.
+Seriously?
+
+61
+00:02:59,513 --> 00:03:01,431
+Please don't make me report you
+to HR.
+
+62
+00:03:01,515 --> 00:03:03,600
+No, no, I swear I know her
+from somewhere.
+
+63
+00:03:03,684 --> 00:03:04,676
+It's killing me.
+
+64
+00:03:04,760 --> 00:03:06,294
+Captain!
+
+65
+00:03:06,378 --> 00:03:07,968
+We have a situation.
+
+66
+00:03:13,084 --> 00:03:15,151
+I thought all the evacuations
+had already happened.
+
+67
+00:03:15,236 --> 00:03:16,937
+That was before
+the wind shifted.
+
+68
+00:03:17,022 --> 00:03:18,263
+How many people are up there?
+
+69
+00:03:18,348 --> 00:03:19,890
+Eight kids, one counselor.
+
+70
+00:03:19,975 --> 00:03:21,095
+There's been no contact?
+
+71
+00:03:21,179 --> 00:03:22,614
+Not in at least eight hours.
+
+72
+00:03:22,699 --> 00:03:24,191
+It's a camp for at-risk teens,
+
+73
+00:03:24,276 --> 00:03:26,157
+so those kids aren't allowed
+cell phones.
+
+74
+00:03:26,242 --> 00:03:27,562
+What's going on?
+
+75
+00:03:28,358 --> 00:03:29,711
+There's a bunch of kids
+at a camp
+
+76
+00:03:29,796 --> 00:03:31,277
+trapped up past the fire line.
+
+77
+00:03:31,476 --> 00:03:33,632
+Can we get an evac chopper
+up here?
+
+78
+00:03:33,717 --> 00:03:36,206
+It's too dangerous, and these
+access roads are all aflame.
+
+79
+00:03:36,291 --> 00:03:37,801
+We can't get an engine
+up there.
+
+80
+00:03:37,885 --> 00:03:39,452
+Hey.
+Pardon me, Cap.
+
+81
+00:03:39,843 --> 00:03:41,805
+You could get to it with ATVs
+easy enough.
+
+82
+00:03:41,889 --> 00:03:43,140
+I used to ride around on ATVs
+
+83
+00:03:43,224 --> 00:03:44,975
+in woods just like these
+growing up.
+
+84
+00:03:45,059 --> 00:03:47,978
+Firefighter, you just became
+strike team leader.
+
+85
+00:03:48,062 --> 00:03:49,503
+Hell, I'm in.
+
+86
+00:03:49,587 --> 00:03:51,470
+Driving through fire
+instead of digging a ditch?
+
+87
+00:03:51,555 --> 00:03:53,316
+- Sign me up.
+- All right.
+
+88
+00:03:53,400 --> 00:03:55,468
+Eight man team.
+Take a medic.
+
+89
+00:03:55,552 --> 00:03:57,303
+You don't know what
+you're gonna find up there.
+
+90
+00:03:57,387 --> 00:03:58,679
+I'm a medic.
+
+91
+00:03:58,763 --> 00:04:01,307
+Eddie Diaz with the 118,
+Los Angeles.
+
+92
+00:04:01,391 --> 00:04:02,734
+You a paramedic?
+
+93
+00:04:02,819 --> 00:04:03,644
+Firefighter.
+
+94
+00:04:03,797 --> 00:04:04,994
+But I was a medic in the army,
+
+95
+00:04:05,078 --> 00:04:06,337
+and on more than a few missions
+
+96
+00:04:06,422 --> 00:04:07,455
+that looked a lot like this.
+
+97
+00:04:07,539 --> 00:04:08,981
+What you waiting for,
+Hollywood?
+
+98
+00:04:09,065 --> 00:04:10,316
+Get your bag.
+Meet us down by the motor pool.
+
+99
+00:04:10,400 --> 00:04:12,169
+We'll roll out.
+
+100
+00:04:12,253 --> 00:04:14,294
+Copy that.
+
+101
+00:04:17,282 --> 00:04:20,251
+Uh, where have you been?
+
+102
+00:04:20,335 --> 00:04:22,495
+Took a tour
+of the medical unit.
+
+103
+00:04:22,579 --> 00:04:24,872
+- Where's Eddie?
+- I don't know.
+
+104
+00:04:24,956 --> 00:04:26,290
+You guys abandoned me.
+
+105
+00:04:26,374 --> 00:04:27,925
+Also, why did we drive
+these trucks
+
+106
+00:04:28,010 --> 00:04:29,786
+all the way here from LA
+just to park 'em?
+
+107
+00:04:29,871 --> 00:04:32,046
+Only way up to that fire line
+is by foot.
+
+108
+00:04:32,130 --> 00:04:33,431
+Trucks go into the motor pool.
+
+109
+00:04:33,515 --> 00:04:35,531
+Commander De Leon will use them
+as he sees fit.
+
+110
+00:04:35,616 --> 00:04:37,234
+That's how it works, Buck.
+
+111
+00:04:37,319 --> 00:04:40,864
+Still, not sure I like the idea
+of strangers on our rigs.
+
+112
+00:04:40,948 --> 00:04:42,866
+No strangers here, Buck.
+
+113
+00:04:42,950 --> 00:04:45,685
+Just grunts with shovels.
+
+114
+00:04:45,769 --> 00:04:47,871
+Uh, okay.
+And where's yours?
+
+115
+00:04:47,955 --> 00:04:49,447
+Me?
+
+116
+00:04:49,531 --> 00:04:52,042
+I volunteered
+for base camp medical unit.
+
+117
+00:04:52,126 --> 00:04:54,235
+But have a good hike.
+
+118
+00:04:54,319 --> 00:04:55,879
+Eddie, can you believe this?
+
+119
+00:04:55,963 --> 00:04:58,215
+Hen is not going up
+the fire line with us.
+
+120
+00:04:58,299 --> 00:05:00,959
+Just gonna be you and me.
+
+121
+00:05:01,043 --> 00:05:03,035
+You ready, soldier?
+
+122
+00:05:03,119 --> 00:05:04,159
+Be right there.
+
+123
+00:05:04,244 --> 00:05:05,244
+Well, hop to it.
+
+124
+00:05:05,329 --> 00:05:07,695
+Not giving any less average
+
+125
+00:05:10,552 --> 00:05:13,212
+Uh, her?
+You're going with her?
+
+126
+00:05:13,296 --> 00:05:14,730
+Yeah.
+
+127
+00:05:17,651 --> 00:05:20,979
+Wait, guys, guys, guys,
+I know who that is!
+
+128
+00:05:21,063 --> 00:05:22,722
+She's Firefox.
+
+129
+00:05:25,567 --> 00:05:29,061
+Firefox?
+
+130
+00:05:29,145 --> 00:05:31,155
+You guys seriously don't know
+who Firefox is?
+
+131
+00:05:31,239 --> 00:05:32,916
+She's gone viral,
+like, five times.
+
+132
+00:05:33,000 --> 00:05:34,325
+Total badass.
+
+133
+00:05:34,409 --> 00:05:38,421
+I... follow her on Instagram.
+
+134
+00:05:38,505 --> 00:05:42,074
+Some reason,
+she didn't follow me back.
+
+135
+00:05:42,158 --> 00:05:45,619
+Don't forget your shovel.
+
+136
+00:05:45,703 --> 00:05:47,246
+Abandoners.
+
+137
+00:05:47,330 --> 00:05:49,415
+<i>Captain Strand.</i>
+
+138
+00:05:49,499 --> 00:05:51,268
+<i>For a second, I thought
+that was a butt dial.</i>
+
+139
+00:05:51,352 --> 00:05:54,012
+No butt dial.
+I was just checking in on you.
+
+140
+00:05:54,096 --> 00:05:55,296
+You're checking in on me?
+
+141
+00:05:55,380 --> 00:05:57,465
+You're the one fighting
+a wildfire.
+
+142
+00:05:57,549 --> 00:06:00,610
+I know Paramedic Rosewater's
+funeral was today,
+
+143
+00:06:00,695 --> 00:06:03,688
+and I was very sorry
+to miss it.
+
+144
+00:06:03,772 --> 00:06:07,125
+Just... just seeing
+how you were holding up.
+
+145
+00:06:07,210 --> 00:06:08,618
+<i>But you're okay?</i>
+
+146
+00:06:08,702 --> 00:06:10,287
+I think so.
+
+147
+00:06:10,371 --> 00:06:13,105
+'Cause after a trauma...
+
+148
+00:06:13,189 --> 00:06:16,150
+loss like that...
+
+149
+00:06:16,234 --> 00:06:17,985
+things can sneak up on you.
+
+150
+00:06:19,713 --> 00:06:22,206
+- Captain Strand?
+<i>- Yes?</i>
+
+151
+00:06:22,290 --> 00:06:23,949
+Are you okay?
+
+152
+00:06:27,129 --> 00:06:28,129
+Captain Strand?
+
+153
+00:06:28,570 --> 00:06:31,086
+You've requested a list of
+all reserch and call signs.
+
+154
+00:06:31,171 --> 00:06:32,976
+<i>- I have that for you.
+- Yes. Thank you, Molly.</i>
+
+155
+00:06:33,060 --> 00:06:34,335
+<i>I gotta go.</i>
+
+156
+00:06:42,903 --> 00:06:45,346
+Got you some
+of them critters, Hollywood?
+
+157
+00:06:45,430 --> 00:06:46,990
+Bet they don't get that big
+in LA.
+
+158
+00:06:47,074 --> 00:06:49,233
+Oh, well, we got plenty
+in El Paso.
+
+159
+00:06:49,317 --> 00:06:51,069
+Oh, no way.
+You're from El Paso?
+
+160
+00:06:51,153 --> 00:06:52,019
+Where'd you go to high school?
+
+161
+00:06:52,103 --> 00:06:54,072
+- La Salle.
+- La Salle.
+
+162
+00:06:54,156 --> 00:06:57,834
+Whoa, we used to whoop your ass
+every year at State.
+
+163
+00:06:57,918 --> 00:06:59,485
+I was Austin Heights.
+
+164
+00:06:59,569 --> 00:07:02,246
+- You're a Bulldog?
+- Roger.
+
+165
+00:07:02,330 --> 00:07:04,582
+And I thought
+we were gonna be friends.
+
+166
+00:07:04,666 --> 00:07:07,993
+Whoo!
+
+167
+00:07:08,077 --> 00:07:09,672
+She always like that?
+
+168
+00:07:09,757 --> 00:07:12,182
+Always.
+
+169
+00:07:23,703 --> 00:07:25,336
+I only count seven kids.
+
+170
+00:07:25,421 --> 00:07:27,012
+IC said there was
+supposed to be eight.
+
+171
+00:07:27,096 --> 00:07:28,767
+- Yep, and a counselor. Hey!
+- They're missing!
+
+172
+00:07:28,851 --> 00:07:30,533
+Back up. We're here now.
+
+173
+00:07:30,617 --> 00:07:31,851
+We're gonna get you all
+down the mountain, okay?
+
+174
+00:07:31,935 --> 00:07:33,018
+Marjan and Eddie's gonna check
+everybody out,
+
+175
+00:07:33,102 --> 00:07:34,353
+make sure they're okay.
+
+176
+00:07:34,437 --> 00:07:36,520
+So... hey, hey, hey,
+who's missing?
+
+177
+00:07:36,605 --> 00:07:37,874
+Mr. Gomez.
+
+178
+00:07:37,959 --> 00:07:39,618
+He left last night
+looking for JJ,
+
+179
+00:07:39,703 --> 00:07:40,633
+and he never came back.
+
+180
+00:07:40,718 --> 00:07:42,716
+- JJ run away?
+- No, man.
+
+181
+00:07:42,801 --> 00:07:44,836
+- He was out doing his solo.
+- Solo?
+
+182
+00:07:44,921 --> 00:07:47,256
+Yeah, it's two nights mandatory
+alone in the woods.
+
+183
+00:07:47,341 --> 00:07:48,634
+It builds character
+and self-respect,
+
+184
+00:07:48,718 --> 00:07:50,344
+but it's usually
+pretty well-monitored.
+
+185
+00:07:50,429 --> 00:07:52,296
+- You know that how?
+- Mr. Gomez have a cell phone?
+
+186
+00:07:52,380 --> 00:07:54,132
+He's the only one that does.
+We're not allowed.
+
+187
+00:07:54,216 --> 00:07:56,893
+No call in eight hours,
+it could just be bad reception.
+
+188
+00:07:56,977 --> 00:08:00,972
+Or something else.
+
+189
+00:08:01,056 --> 00:08:03,382
+Hey, hey.
+Oh. Oh.
+
+190
+00:08:03,466 --> 00:08:05,217
+Please help.
+
+191
+00:08:05,301 --> 00:08:06,927
+Oh.
+
+192
+00:08:07,011 --> 00:08:09,147
+Hey, where's JJ?
+
+193
+00:08:09,231 --> 00:08:10,982
+Couldn't find him.
+
+194
+00:08:16,175 --> 00:08:17,175
+He's not breathing.
+
+195
+00:08:22,410 --> 00:08:24,278
+Here.
+
+196
+00:08:24,362 --> 00:08:25,496
+Down, sir.
+There we go.
+
+197
+00:08:25,580 --> 00:08:27,498
+Marjan, grab the IV bag
+from the kit.
+
+198
+00:08:27,582 --> 00:08:29,426
+I'm gonna run a line.
+
+199
+00:08:29,510 --> 00:08:31,928
+- Can you hold this?
+- Hey, men, let's back up.
+
+200
+00:08:32,012 --> 00:08:34,672
+Let's let them work.
+Back up. Right back here.
+
+201
+00:08:34,756 --> 00:08:36,916
+Keep going. Keep going.
+Keep going. Keep going.
+
+202
+00:08:39,627 --> 00:08:41,187
+I'm not hearing
+any air escaping.
+
+203
+00:08:41,538 --> 00:08:42,789
+Lungs are intact.
+
+204
+00:08:42,874 --> 00:08:45,950
+Then why isn't
+his chest rising?
+
+205
+00:08:46,820 --> 00:08:49,015
+Ah, damn.
+
+206
+00:08:49,100 --> 00:08:50,335
+We need to do an escharotomy.
+
+207
+00:08:50,420 --> 00:08:51,420
+What the hell's that?
+
+208
+00:08:51,505 --> 00:08:53,423
+It's constricting his chest
+like a rope.
+
+209
+00:08:53,508 --> 00:08:56,290
+It's preventing his lungs
+from expanding.
+
+210
+00:08:56,375 --> 00:08:58,360
+He can't draw a breath.
+We need to cut it.
+
+211
+00:08:58,445 --> 00:09:01,032
+- Now?
+- Now.
+
+212
+00:09:01,116 --> 00:09:04,318
+Okay.
+
+213
+00:09:04,402 --> 00:09:05,750
+Hope you're not squeamish.
+
+214
+00:09:19,083 --> 00:09:21,552
+Rescue breaths.
+
+215
+00:09:21,636 --> 00:09:22,979
+Okay.
+
+216
+00:09:27,550 --> 00:09:29,009
+Whoa, whoa, whoa,
+whoa, whoa, whoa.
+
+217
+00:09:29,093 --> 00:09:30,970
+- JJ.
+- Easy, buddy. Easy.
+
+218
+00:09:31,054 --> 00:09:32,991
+Sir, we're aware
+of the missing kid, all right?
+
+219
+00:09:33,162 --> 00:09:35,625
+I need you to take
+nice and steady breaths.
+
+220
+00:09:35,710 --> 00:09:37,461
+Nicely done, Diaz.
+
+221
+00:09:37,648 --> 00:09:39,233
+You too, Firefox.
+
+222
+00:09:45,276 --> 00:09:47,319
+Put your backs into it!
+
+223
+00:09:47,403 --> 00:09:49,196
+We're almost there!
+
+224
+00:09:49,280 --> 00:09:52,199
+This road is everything.
+
+225
+00:09:52,283 --> 00:09:54,368
+We hold the line here,
+
+226
+00:09:54,452 --> 00:09:57,013
+we put this fire on the ropes.
+
+227
+00:09:57,097 --> 00:09:59,540
+So LA, huh?
+
+228
+00:09:59,624 --> 00:10:01,208
+Yeah.
+
+229
+00:10:01,292 --> 00:10:02,352
+That's cool.
+
+230
+00:10:02,436 --> 00:10:05,546
+I got a cousin in LA.
+Marvin.
+
+231
+00:10:05,630 --> 00:10:07,836
+People say we look alike.
+Maybe you know him.
+
+232
+00:10:07,921 --> 00:10:09,532
+It's kinda a big place.
+
+233
+00:10:09,617 --> 00:10:11,027
+No, I know.
+
+234
+00:10:11,111 --> 00:10:12,844
+His last name's Chavez.
+
+235
+00:10:12,929 --> 00:10:14,513
+Yeah, I don't think so.
+
+236
+00:10:15,148 --> 00:10:16,724
+He's in jail anyway.
+
+237
+00:10:17,132 --> 00:10:19,790
+I bet you get some
+pretty crazy calls out there.
+
+238
+00:10:19,875 --> 00:10:21,445
+You have no idea.
+
+239
+00:10:21,914 --> 00:10:24,207
+We get our fair share in Texas.
+
+240
+00:10:24,291 --> 00:10:26,290
+You ever get a call
+at Disneyland?
+
+241
+00:10:26,375 --> 00:10:28,434
+That's Orange County.
+
+242
+00:10:28,519 --> 00:10:29,579
+But LA, right?
+
+243
+00:10:32,115 --> 00:10:36,219
+You know, we did get called
+to an amusement park once.
+
+244
+00:10:36,303 --> 00:10:38,329
+I had to scale the loop
+of a roller coaster.
+
+245
+00:10:38,413 --> 00:10:41,211
+Guy was hanging on
+by his bare hands.
+
+246
+00:10:41,296 --> 00:10:44,251
+You saved a guy
+hanging from a roller coaster?
+
+247
+00:10:44,755 --> 00:10:47,391
+Uh, he let go.
+
+248
+00:10:47,476 --> 00:10:50,567
+Man.
+That's rough.
+
+249
+00:10:51,411 --> 00:10:52,996
+I had a woman
+almost drown on me last year
+
+250
+00:10:53,080 --> 00:10:54,768
+in less than a foot of water.
+
+251
+00:10:55,392 --> 00:10:57,421
+She was trapped in a bus
+upside down
+
+252
+00:10:57,788 --> 00:10:59,546
+in the middle of the street.
+
+253
+00:10:59,761 --> 00:11:01,203
+It was wild, man.
+
+254
+00:11:01,288 --> 00:11:02,953
+We had a bus rescue.
+
+255
+00:11:03,038 --> 00:11:05,323
+It wasn't upside down though.
+
+256
+00:11:05,764 --> 00:11:07,998
+But it was sticking out
+the fifth floor
+
+257
+00:11:08,083 --> 00:11:08,949
+of an office building.
+
+258
+00:11:09,034 --> 00:11:10,594
+No way!
+
+259
+00:11:10,679 --> 00:11:11,844
+That's insane.
+
+260
+00:11:11,929 --> 00:11:13,578
+We just had an active volcano
+last week.
+
+261
+00:11:13,663 --> 00:11:16,023
+Yeah, I think I saw something
+about that on my Twitter feed.
+
+262
+00:11:29,338 --> 00:11:31,482
+It looks like just the driver.
+
+263
+00:11:31,566 --> 00:11:33,943
+Hey, we're gonna get you
+out of there!
+
+264
+00:11:34,027 --> 00:11:35,452
+Move! Move!
+
+265
+00:11:39,390 --> 00:11:41,284
+Argh, it's locked!
+
+266
+00:11:41,368 --> 00:11:43,109
+Buck, heads up!
+
+267
+00:11:47,884 --> 00:11:49,285
+Come here, man.
+Come here, man.
+
+268
+00:11:49,369 --> 00:11:50,969
+Come here. Up, up, up.
+Up, up, up.
+
+269
+00:11:51,054 --> 00:11:53,129
+Hey.
+
+270
+00:11:53,982 --> 00:11:55,141
+Clyde!
+
+271
+00:11:55,226 --> 00:11:57,133
+Oh, damn it!
+Clyde!
+
+272
+00:11:57,217 --> 00:11:58,468
+Oh, thank God.
+
+273
+00:11:59,552 --> 00:12:02,545
+Oh, bad boy. Bad boy, Clyde.
+I am so sorry.
+
+274
+00:12:02,630 --> 00:12:04,085
+I left him alone
+for, like, ten seconds.
+
+275
+00:12:04,169 --> 00:12:05,584
+He must have unlocked
+the parking brake.
+
+276
+00:12:05,668 --> 00:12:07,395
+Your dog has a lead foot.
+
+277
+00:12:07,480 --> 00:12:08,972
+So that was weird.
+
+278
+00:12:09,340 --> 00:12:11,567
+Right?
+
+279
+00:12:11,674 --> 00:12:14,644
+Nice move, by the way.
+Good reflexes.
+
+280
+00:12:14,729 --> 00:12:16,722
+Yeah, you too.
+
+281
+00:12:16,923 --> 00:12:18,715
+Keep it dry.
+
+282
+00:12:18,799 --> 00:12:21,677
+Change the dressing
+every 24 hours.
+
+283
+00:12:21,761 --> 00:12:24,555
+<i>This is
+Great Oaks strike team.</i>
+
+284
+00:12:24,639 --> 00:12:25,773
+<i>Do you copy?</i>
+
+285
+00:12:25,857 --> 00:12:27,033
+This is base med unit.
+Go ahead.
+
+286
+00:12:27,117 --> 00:12:29,202
+<i>Sending seven minors your way.</i>
+
+287
+00:12:29,286 --> 00:12:32,113
+<i>Mild dehydration,
+smoke inhalation,</i>
+
+288
+00:12:32,197 --> 00:12:33,897
+<i>few lacerations,
+but they're fine.</i>
+
+289
+00:12:33,981 --> 00:12:35,732
+<i>One adult male, critical.</i>
+
+290
+00:12:35,816 --> 00:12:38,068
+<i>Gave him 11 milligrams
+of morphine.</i>
+
+291
+00:12:38,152 --> 00:12:40,028
+<i>He will need a life flight.</i>
+
+292
+00:12:42,990 --> 00:12:45,367
+Hey, Eddie.
+It's Hen.
+
+293
+00:12:45,451 --> 00:12:46,910
+You're sending out
+seven minors?
+
+294
+00:12:46,994 --> 00:12:47,945
+I thought you went up there
+for eight.
+
+295
+00:12:48,029 --> 00:12:50,056
+<i>One kid's still missing.</i>
+
+296
+00:12:50,140 --> 00:12:51,799
+Couple of the guys
+from the Austin 126
+
+297
+00:12:51,883 --> 00:12:53,750
+are searching out for him now.
+
+298
+00:12:53,834 --> 00:12:56,177
+All right, you got about
+two hours of daylight left,
+
+299
+00:12:56,262 --> 00:12:58,231
+and the wind reports are
+not good.
+
+300
+00:12:58,315 --> 00:13:01,067
+Yeah, it's getting
+a little toasty out here.
+
+301
+00:13:01,151 --> 00:13:03,978
+All right, Eddie, you need
+to put a clock on this.
+
+302
+00:13:04,062 --> 00:13:05,813
+I don't think
+any of these folks are leaving
+
+303
+00:13:05,897 --> 00:13:09,099
+without this boy,
+clock or no clock.
+
+304
+00:13:09,183 --> 00:13:11,819
+Remind me a little
+of some other people I know.
+
+305
+00:13:11,903 --> 00:13:15,564
+Hey, JJ!
+
+306
+00:13:15,648 --> 00:13:16,991
+JJ!
+
+307
+00:13:17,075 --> 00:13:19,276
+- Hey, JJ!
+- JJ!
+
+308
+00:13:19,360 --> 00:13:23,089
+JJ, if you can hear us,
+holler back!
+
+309
+00:13:23,173 --> 00:13:24,832
+We may have already passed it,
+
+310
+00:13:24,916 --> 00:13:26,000
+'cause that camp counselor
+was saying
+
+311
+00:13:26,084 --> 00:13:28,761
+he was doing his solo
+right through here.
+
+312
+00:13:28,845 --> 00:13:30,078
+Hey, man,
+you never told me
+
+313
+00:13:30,162 --> 00:13:31,121
+how you know
+about those things.
+
+314
+00:13:31,205 --> 00:13:32,840
+The solos?
+
+315
+00:13:32,924 --> 00:13:34,082
+Yeah, I didn't, did I?
+
+316
+00:13:34,166 --> 00:13:35,601
+Hey, JJ!
+
+317
+00:13:35,685 --> 00:13:37,753
+Just never pictured you
+
+318
+00:13:37,837 --> 00:13:41,632
+as one of those
+at-risk camp kids.
+
+319
+00:13:41,716 --> 00:13:43,776
+And why the hell not?
+
+320
+00:13:43,860 --> 00:13:46,762
+- Fair point.
+- JJ!
+
+321
+00:13:46,846 --> 00:13:50,691
+Slow down. Slow down.
+
+322
+00:13:50,775 --> 00:13:52,285
+JJ!
+
+323
+00:13:52,369 --> 00:13:54,645
+JJ!
+
+324
+00:13:54,729 --> 00:13:56,813
+JJ!
+
+325
+00:13:56,897 --> 00:13:58,624
+Fire must've came through here
+like a freight train.
+
+326
+00:13:58,708 --> 00:14:00,293
+Yep.
+
+327
+00:14:00,377 --> 00:14:01,818
+Hey, he must've had
+a head start on us,
+
+328
+00:14:01,902 --> 00:14:03,711
+'cause I don't see no remains.
+
+329
+00:14:03,830 --> 00:14:04,655
+Where the hell did he go?
+
+330
+00:14:04,739 --> 00:14:06,299
+JJ!
+
+331
+00:14:06,383 --> 00:14:09,785
+JJ!
+
+332
+00:14:09,869 --> 00:14:12,805
+JJ!
+Fire rescue!
+
+333
+00:14:12,889 --> 00:14:14,807
+I need reinforcements
+on that line.
+
+334
+00:14:14,891 --> 00:14:17,167
+Tell Tulsa company to take
+Houston's engine up there.
+
+335
+00:14:17,251 --> 00:14:18,644
+Yes, sir.
+
+336
+00:14:18,728 --> 00:14:20,295
+Captain Strand.
+
+337
+00:14:20,379 --> 00:14:23,006
+Henrietta Wilson, 118,
+Los Angeles.
+
+338
+00:14:23,090 --> 00:14:24,225
+What can I do for you,
+firefighter?
+
+339
+00:14:24,309 --> 00:14:25,801
+You can approve a chopper,
+
+340
+00:14:25,885 --> 00:14:26,894
+equipped with a rescue winch
+
+341
+00:14:26,978 --> 00:14:29,012
+and infrared FLIR tech
+
+342
+00:14:29,096 --> 00:14:30,564
+to search the hillside
+before it gets dark.
+
+343
+00:14:30,648 --> 00:14:31,682
+To search for what?
+
+344
+00:14:31,766 --> 00:14:33,183
+A missing boy from Great Oaks.
+
+345
+00:14:33,267 --> 00:14:35,495
+The strike team was able
+to evacuate everyone
+
+346
+00:14:35,579 --> 00:14:38,998
+except for one boy
+who's still missing.
+
+347
+00:14:39,082 --> 00:14:41,858
+That is right on the edge
+of the fire line.
+
+348
+00:14:41,942 --> 00:14:43,151
+That wind's blowing 20 knots.
+
+349
+00:14:43,235 --> 00:14:46,129
+I don't feel good
+about sending anybody up there.
+
+350
+00:14:49,834 --> 00:14:50,993
+All right,
+tell Commander De Leon
+
+351
+00:14:51,077 --> 00:14:54,514
+I had to take a run
+up the mountain.
+
+352
+00:14:54,598 --> 00:14:57,850
+Maybe we should go out
+and help them search.
+
+353
+00:14:57,934 --> 00:14:59,519
+Judd told us to stay here.
+
+354
+00:14:59,603 --> 00:15:00,852
+That's what we should do.
+
+355
+00:15:04,090 --> 00:15:07,384
+How can you be so calm
+under literal fire?
+
+356
+00:15:07,468 --> 00:15:10,111
+Well, at least no one's
+shooting at us.
+
+357
+00:15:18,363 --> 00:15:20,564
+Seriously?
+
+358
+00:15:20,648 --> 00:15:23,233
+You wanna follow me on Insta?
+
+359
+00:15:23,317 --> 00:15:25,736
+Heard you put a lot of effort
+into it.
+
+360
+00:15:25,820 --> 00:15:27,237
+Was curious.
+
+361
+00:15:27,321 --> 00:15:29,790
+I'll show you mine
+if you show me yours.
+
+362
+00:15:29,874 --> 00:15:31,700
+I haven't been on social media
+in a while.
+
+363
+00:15:31,784 --> 00:15:33,744
+The last post is,
+like, nine months old.
+
+364
+00:15:33,828 --> 00:15:34,962
+Super boring.
+
+365
+00:15:35,046 --> 00:15:36,964
+I'll be the judge of that.
+
+366
+00:15:37,048 --> 00:15:39,559
+Fine.
+Deal.
+
+367
+00:15:42,979 --> 00:15:45,398
+Is that a Prius in the air?
+
+368
+00:15:45,482 --> 00:15:48,425
+Tornado dropped it
+between two buildings.
+
+369
+00:15:48,509 --> 00:15:50,052
+Huh.
+
+370
+00:15:50,136 --> 00:15:51,553
+Is this your kid?
+
+371
+00:15:51,637 --> 00:15:54,264
+Yeah, that's Christopher.
+He's my world.
+
+372
+00:15:54,348 --> 00:15:56,892
+Doing the whole, you know,
+single dad thing.
+
+373
+00:16:00,997 --> 00:16:03,817
+You did not build him
+a skateboard.
+
+374
+00:16:03,902 --> 00:16:06,833
+Yeah, well, Buck helped.
+
+375
+00:16:06,918 --> 00:16:09,817
+Wait, is that that creepy guy
+who was staring at me before?
+
+376
+00:16:09,902 --> 00:16:11,216
+He's harmless.
+
+377
+00:16:11,618 --> 00:16:13,301
+Mostly.
+
+378
+00:16:13,544 --> 00:16:14,910
+<i>Great Oaks search team,</i>
+
+379
+00:16:14,994 --> 00:16:15,952
+<i>give us your current location.</i>
+
+380
+00:16:16,036 --> 00:16:17,430
+<i>We're sending air support.</i>
+
+381
+00:16:17,514 --> 00:16:19,473
+Air support?
+
+382
+00:16:19,757 --> 00:16:21,842
+Who's crazy enough to go up
+in something like this?
+
+383
+00:16:34,013 --> 00:16:35,430
+Appreciate this, Mark.
+
+384
+00:16:40,370 --> 00:16:41,621
+What are you doing here?
+
+385
+00:16:41,705 --> 00:16:42,646
+What does it look like?
+
+386
+00:16:42,730 --> 00:16:43,980
+I'm coming with you.
+
+387
+00:16:44,064 --> 00:16:46,200
+No, you're not.
+It's too dangerous.
+
+388
+00:16:46,284 --> 00:16:48,202
+It's too dangerous
+for you to fly into this
+
+389
+00:16:48,286 --> 00:16:50,630
+without a medic.
+
+390
+00:16:50,714 --> 00:16:53,040
+We're burning daylight,
+Captain Strand.
+
+391
+00:16:53,124 --> 00:16:55,842
+Not crazy about this,
+Henrietta.
+
+392
+00:16:57,462 --> 00:16:59,329
+Yeah, me neither.
+
+393
+00:16:59,413 --> 00:17:01,382
+Call me Hen.
+
+394
+00:17:16,856 --> 00:17:18,565
+<i>Great Oaks strike team leader,</i>
+
+395
+00:17:18,649 --> 00:17:21,017
+<i>this is air support.</i>
+
+396
+00:17:21,101 --> 00:17:24,312
+- Judd, do you copy?
+- Cap, is that you?
+
+397
+00:17:24,396 --> 00:17:25,739
+<i>Yeah, I heard
+you could use a hand.</i>
+
+398
+00:17:25,823 --> 00:17:28,024
+What's your 20?
+
+399
+00:17:28,108 --> 00:17:29,835
+<i>Yeah, we're
+a few klicks west of the camp.</i>
+
+400
+00:17:29,919 --> 00:17:31,078
+<i>We haven't found this kid yet.</i>
+
+401
+00:17:31,162 --> 00:17:33,172
+We found his tent,
+but no remains,
+
+402
+00:17:33,256 --> 00:17:34,915
+so we think he went deeper
+into the woods
+
+403
+00:17:34,999 --> 00:17:36,199
+trying to get away
+from the fire.
+
+404
+00:17:36,283 --> 00:17:38,660
+<i>All right, we see you.</i>
+
+405
+00:17:38,744 --> 00:17:39,753
+Paul!
+
+406
+00:17:52,442 --> 00:17:54,676
+Captain Strand,
+I think I've got something.
+
+407
+00:17:58,356 --> 00:18:01,183
+Judd, we've got something
+under a grove of trees.
+
+408
+00:18:01,267 --> 00:18:04,060
+<i>South-by-southeast
+of your position.</i>
+
+409
+00:18:04,144 --> 00:18:06,038
+<i>I'm gonna try to get
+over on top of it.</i>
+
+410
+00:18:06,122 --> 00:18:07,448
+Okay, Cap, we're coming at you.
+
+411
+00:18:11,944 --> 00:18:14,253
+- JJ!
+- JJ!
+
+412
+00:18:16,448 --> 00:18:18,700
+All right, you're closing in.
+Less than 20 meters.
+
+413
+00:18:18,784 --> 00:18:20,294
+JJ, you out here?
+
+414
+00:18:20,378 --> 00:18:21,411
+Help!
+
+415
+00:18:21,495 --> 00:18:23,222
+I'm down here!
+
+416
+00:18:23,306 --> 00:18:24,798
+Help!
+
+417
+00:18:24,882 --> 00:18:26,225
+Here!
+
+418
+00:18:26,309 --> 00:18:27,226
+I'm over here!
+
+419
+00:18:27,310 --> 00:18:30,212
+God, it hurts!
+Help, please!
+
+420
+00:18:30,296 --> 00:18:31,564
+<i>Cap, we got him.</i>
+
+421
+00:18:31,648 --> 00:18:34,141
+<i>- How's he look?
+- Not good.</i>
+
+422
+00:18:34,225 --> 00:18:35,926
+His ankle's caught
+in a bear trap.
+
+423
+00:18:36,010 --> 00:18:37,144
+<i>Think you can get him out?</i>
+
+424
+00:18:37,228 --> 00:18:39,262
+I don't know.
+It's got him pretty good.
+
+425
+00:18:39,346 --> 00:18:41,056
+All right, we're hooking him up
+to the LIFEPAK right now,
+
+426
+00:18:41,140 --> 00:18:43,767
+but it looks like he's lost
+a lot of blood.
+
+427
+00:18:43,851 --> 00:18:46,770
+He's gonna lose a lot more
+when they try to free him.
+
+428
+00:18:46,854 --> 00:18:48,247
+What kind of loser gets caught
+in a bear trap
+
+429
+00:18:48,331 --> 00:18:49,823
+running away
+from a bear, right?
+
+430
+00:18:49,907 --> 00:18:51,233
+There's bears?
+
+431
+00:18:51,318 --> 00:18:52,927
+I thought they were chasing
+the wolves.
+
+432
+00:18:53,150 --> 00:18:54,383
+There's wolves now?
+
+433
+00:18:54,468 --> 00:18:55,761
+They were running away
+from the fire.
+
+434
+00:18:55,845 --> 00:18:58,097
+- They're gone now.
+<i>- Hey, Judd?</i>
+
+435
+00:18:58,182 --> 00:18:59,930
+This is
+Paramedic Henrietta Wilson.
+
+436
+00:19:00,015 --> 00:19:01,599
+<i>I'm up here with your captain.</i>
+
+437
+00:19:01,684 --> 00:19:02,669
+You've gotta be kidding me.
+
+438
+00:19:02,753 --> 00:19:05,247
+<i>I'm pretty sure
+you firefighters are</i>
+
+439
+00:19:05,331 --> 00:19:07,290
+<i>fully equipped
+and capable to handle this.</i>
+
+440
+00:19:07,374 --> 00:19:09,084
+No, no, please.
+Walk us through it.
+
+441
+00:19:09,168 --> 00:19:10,677
+All right,
+before you do anything,
+
+442
+00:19:10,761 --> 00:19:12,012
+<i>I need you to place
+a tourniquet</i>
+
+443
+00:19:12,096 --> 00:19:13,847
+<i>3 inches above the wound.</i>
+
+444
+00:19:13,931 --> 00:19:16,800
+<i>But not over the knee.</i>
+
+445
+00:19:16,884 --> 00:19:18,969
+All right, now, JJ,
+I ain't gonna lie, man.
+
+446
+00:19:19,053 --> 00:19:20,303
+This might hurt.
+
+447
+00:19:20,387 --> 00:19:21,930
+It's what I deserve.
+
+448
+00:19:22,014 --> 00:19:23,783
+Just like my dad always said.
+
+449
+00:19:23,867 --> 00:19:25,025
+I'm a waste of space.
+
+450
+00:19:25,109 --> 00:19:27,380
+We're gonna do this
+on three, okay?
+
+451
+00:19:27,465 --> 00:19:28,977
+One, two, three.
+
+452
+00:19:29,062 --> 00:19:30,146
+- There we go.
+- Okay.
+
+453
+00:19:30,230 --> 00:19:31,791
+Okay.
+There it is.
+
+454
+00:19:31,875 --> 00:19:33,045
+Okay, did it.
+
+455
+00:19:33,130 --> 00:19:34,528
+Tourniquet's on.
+What now?
+
+456
+00:19:34,613 --> 00:19:36,271
+<i>All right,
+get him out of the trap,</i>
+
+457
+00:19:36,356 --> 00:19:39,020
+but keep the foot elevated
+above the heart.
+
+458
+00:19:39,129 --> 00:19:42,471
+<i>Then wrap the wound as fast
+and as tight as you can.</i>
+
+459
+00:19:42,564 --> 00:19:43,815
+Let's do it.
+Ready?
+
+460
+00:19:43,900 --> 00:19:45,077
+Oh, it's coming out.
+
+461
+00:19:45,161 --> 00:19:46,761
+All right, kid.
+There we go. We got this.
+
+462
+00:19:52,544 --> 00:19:54,814
+Talk to me, boys. Talk to me.
+What's happening?
+
+463
+00:19:54,899 --> 00:19:56,091
+<i>He ain't doing good.</i>
+
+464
+00:19:57,424 --> 00:19:58,818
+<i>You need to get fluids
+in him to stabilize him.</i>
+
+465
+00:19:58,902 --> 00:20:00,394
+- Saline, now.
+- Hey.
+
+466
+00:20:00,478 --> 00:20:01,678
+Hey, man.
+Keep him talking, man.
+
+467
+00:20:01,762 --> 00:20:02,488
+Keep him talking. Come on.
+
+468
+00:20:02,572 --> 00:20:03,989
+Hey, stay with us.
+
+469
+00:20:04,073 --> 00:20:05,732
+Judd, get in there.
+Talk to the kid.
+
+470
+00:20:05,816 --> 00:20:07,993
+Keep him awake.
+
+471
+00:20:08,077 --> 00:20:09,903
+Hey.
+
+472
+00:20:09,987 --> 00:20:12,665
+I know you think
+that you deserve this.
+
+473
+00:20:12,749 --> 00:20:14,149
+You're wrong.
+
+474
+00:20:14,233 --> 00:20:15,150
+You don't know anything
+about me.
+
+475
+00:20:15,234 --> 00:20:17,485
+Hell, son, I was you.
+
+476
+00:20:17,569 --> 00:20:19,338
+I was you.
+
+477
+00:20:19,422 --> 00:20:21,081
+And whatever fool thing you did
+to put yourself here,
+
+478
+00:20:21,165 --> 00:20:22,749
+that don't matter.
+
+479
+00:20:22,833 --> 00:20:25,285
+Okay, years and years from now,
+this is gonna be another story
+
+480
+00:20:25,369 --> 00:20:27,162
+you tell some other
+little idiot kid.
+
+481
+00:20:27,246 --> 00:20:28,997
+Okay?
+But you gotta stay with us now.
+
+482
+00:20:29,081 --> 00:20:29,907
+Come on, keep him talking, man.
+
+483
+00:20:29,991 --> 00:20:31,684
+Stay with us, JJ.
+Kid, come on.
+
+484
+00:20:31,768 --> 00:20:33,760
+Hey, man, keep him talking.
+Man, keep him talking.
+
+485
+00:20:33,844 --> 00:20:34,928
+Hey, hey, hey,
+hey, hey, hey!
+
+486
+00:20:35,012 --> 00:20:36,171
+Hey, snap out of it.
+Snap out of it.
+
+487
+00:20:36,255 --> 00:20:37,598
+Keep him talking, man.
+Keep him talking.
+
+488
+00:20:37,682 --> 00:20:39,358
+I'm talking to you, boy!
+
+489
+00:20:39,442 --> 00:20:40,442
+"Oh, boohoo and poor me!
+
+490
+00:20:42,575 --> 00:20:44,275
+Why don't you stop being
+a little baby
+
+491
+00:20:44,360 --> 00:20:45,920
+and grow a pair?
+
+492
+00:20:46,005 --> 00:20:47,834
+All right,
+you wanna know why life
+
+493
+00:20:47,919 --> 00:20:50,381
+and this camp
+and probably your old man too
+
+494
+00:20:50,466 --> 00:20:51,561
+keep kicking your ass, JJ?
+
+495
+00:20:51,645 --> 00:20:53,965
+- Hey, he's slipping, man.
+- I got you. You wanna know why?
+
+496
+00:20:54,089 --> 00:20:55,810
+It ain't because
+you're weak and scrawny,
+
+497
+00:20:55,895 --> 00:20:57,583
+even though you damn sure are.
+
+498
+00:20:57,700 --> 00:20:59,402
+It's because when you get hit,
+
+499
+00:20:59,486 --> 00:21:01,474
+you don't stand up
+and swing back.
+
+500
+00:21:01,559 --> 00:21:02,490
+That's how come.
+
+501
+00:21:02,575 --> 00:21:03,788
+Now stand up and fight,
+damn it!
+
+502
+00:21:03,872 --> 00:21:05,200
+Hey!
+
+503
+00:21:05,284 --> 00:21:07,123
+There it is.
+
+504
+00:21:08,287 --> 00:21:10,055
+Hey, his heart rate's back up
+to 100.
+
+505
+00:21:10,139 --> 00:21:12,725
+That's a good fight, kid.
+
+506
+00:21:13,505 --> 00:21:14,894
+That's a good fight.
+
+507
+00:21:15,364 --> 00:21:17,676
+Miss Henrietta,
+the fluids worked.
+
+508
+00:21:17,761 --> 00:21:19,921
+<i>I'm very glad to hear it.</i>
+
+509
+00:21:20,544 --> 00:21:23,068
+All right, I'm gonna harness up
+for the rescue.
+
+510
+00:21:23,152 --> 00:21:25,053
+Not with these gusts.
+
+511
+00:21:25,137 --> 00:21:26,537
+We shouldn't be up here
+much longer.
+
+512
+00:21:27,657 --> 00:21:29,891
+Judd, can you get him
+out of there on an ATV?
+
+513
+00:21:29,975 --> 00:21:30,892
+Yeah, that ain't a problem.
+
+514
+00:21:30,976 --> 00:21:32,819
+I gotta pick up
+Marjan and Diaz.
+
+515
+00:21:32,903 --> 00:21:34,896
+Roger that.
+See you back at base.
+
+516
+00:21:39,002 --> 00:21:40,002
+<i>Base, we need assist.</i>
+
+517
+00:21:45,843 --> 00:21:48,177
+<i>Mayday. Mayday.
+We are going down.</i>
+
+518
+00:21:48,262 --> 00:21:49,310
+<i>This is a distress call.</i>
+
+519
+00:21:49,395 --> 00:21:51,597
+<i>Mayday. Mayday.
+We are going down.</i>
+
+520
+00:21:51,938 --> 00:21:53,022
+Oh, God.
+
+521
+00:22:06,863 --> 00:22:08,805
+Oh, come on.
+It's California.
+
+522
+00:22:08,889 --> 00:22:09,973
+Of course you're gonna
+have earthquakes.
+
+523
+00:22:10,057 --> 00:22:11,766
+But you can't tell me
+that that's cooler
+
+524
+00:22:11,850 --> 00:22:15,311
+than the 126 going up
+against a solar storm.
+
+525
+00:22:15,395 --> 00:22:17,122
+What even is that?
+You can't see it.
+
+526
+00:22:17,206 --> 00:22:19,032
+Guys.
+
+527
+00:22:19,116 --> 00:22:20,775
+Don't you see
+what you're doing?
+
+528
+00:22:20,859 --> 00:22:22,110
+You're falling into the classic
+
+529
+00:22:22,194 --> 00:22:23,987
+Iron Man versus
+Captain America trap.
+
+530
+00:22:24,071 --> 00:22:25,706
+Is Captain America better
+
+531
+00:22:25,790 --> 00:22:28,783
+because he's a super soldier
+with an indestructible shield,
+
+532
+00:22:28,867 --> 00:22:30,711
+or is Tony Stark better
+
+533
+00:22:30,795 --> 00:22:33,338
+because he's a tech genius
+with a sick weaponized suit?
+
+534
+00:22:33,422 --> 00:22:34,998
+So? Who's better?
+
+535
+00:22:35,082 --> 00:22:36,958
+Neither is better, bro.
+That's the point.
+
+536
+00:22:37,042 --> 00:22:38,644
+It's a speeches argument.
+
+537
+00:22:38,728 --> 00:22:40,145
+They're both badass.
+
+538
+00:22:40,229 --> 00:22:42,648
+And when they team up,
+nobody could beat them.
+
+539
+00:22:42,732 --> 00:22:44,558
+Except maybe Thanos.
+
+540
+00:22:44,642 --> 00:22:46,801
+Oh, glad to see strike team's
+already got their feet up.
+
+541
+00:22:46,885 --> 00:22:48,045
+Ooh, you guys must
+be exhausted.
+
+542
+00:22:48,129 --> 00:22:50,680
+All that go-karting
+up and down the hill?
+
+543
+00:22:54,708 --> 00:22:56,737
+You didn't hear, did you?
+
+544
+00:22:57,220 --> 00:22:58,220
+Hear what?
+
+545
+00:23:01,762 --> 00:23:03,045
+Yeah, that radio's dead.
+
+546
+00:23:03,130 --> 00:23:07,109
+I can't get cell reception
+to save my life.
+
+547
+00:23:07,193 --> 00:23:09,853
+Hopefully Command can pull GPS
+from the chopper to find us.
+
+548
+00:23:09,937 --> 00:23:11,221
+Hopefully.
+How's he doing?
+
+549
+00:23:11,305 --> 00:23:12,630
+Sedated.
+
+550
+00:23:12,715 --> 00:23:15,309
+Fractured femur,
+couple of cracked ribs.
+
+551
+00:23:15,394 --> 00:23:17,771
+He'll live.
+
+552
+00:23:17,856 --> 00:23:19,441
+Don't speak too soon.
+
+553
+00:23:21,004 --> 00:23:23,071
+You feel that?
+
+554
+00:23:23,156 --> 00:23:25,650
+It's creating its own wind.
+
+555
+00:23:25,735 --> 00:23:27,036
+It's a firestorm.
+
+556
+00:23:27,121 --> 00:23:29,028
+Gonna find some shelter.
+
+557
+00:23:29,411 --> 00:23:32,681
+Okay, we're somewhere
+near here?
+
+558
+00:23:32,766 --> 00:23:35,767
+- This could work.
+- That could work.
+
+559
+00:23:36,946 --> 00:23:38,456
+Feel that?
+
+560
+00:23:38,541 --> 00:23:40,608
+It's making its own wind.
+
+561
+00:23:40,964 --> 00:23:42,757
+What?
+
+562
+00:23:42,842 --> 00:23:44,934
+You just repeated yourself.
+
+563
+00:23:45,142 --> 00:23:46,968
+I think I should
+probably check you out.
+
+564
+00:23:47,053 --> 00:23:48,488
+Do you know what day it is?
+
+565
+00:23:48,735 --> 00:23:50,987
+It's night.
+
+566
+00:23:51,071 --> 00:23:52,971
+You know where you are?
+
+567
+00:23:53,055 --> 00:23:54,490
+Somewhere I really don't
+wanna be.
+
+568
+00:23:54,574 --> 00:23:56,516
+All right.
+
+569
+00:23:56,600 --> 00:23:59,144
+Uneven pupillary responses,
+Captain.
+
+570
+00:23:59,228 --> 00:24:01,313
+I think you might have
+a concussion.
+
+571
+00:24:01,397 --> 00:24:03,574
+So what are you gonna tell me,
+to stay off my feet?
+
+572
+00:24:03,658 --> 00:24:04,858
+Avoid stress?
+
+573
+00:24:07,921 --> 00:24:09,913
+Or in this case, run like hell!
+
+574
+00:24:12,783 --> 00:24:14,993
+Yeah, but what we need
+to do is get containment
+
+575
+00:24:15,077 --> 00:24:15,845
+in here, here,
+or if I make it myself...
+
+576
+00:24:15,929 --> 00:24:17,829
+This is a joke!
+
+577
+00:24:17,913 --> 00:24:20,040
+We know exactly where
+the chopper went down.
+
+578
+00:24:20,124 --> 00:24:22,042
+So why haven't you sent out
+a rescue team?
+
+579
+00:24:22,126 --> 00:24:24,211
+As I said, the beacon is coming
+
+580
+00:24:24,295 --> 00:24:27,047
+from two miles inside
+an active burn zone.
+
+581
+00:24:27,131 --> 00:24:29,049
+It is not safe to send
+anyone up in the dark.
+
+582
+00:24:29,133 --> 00:24:32,528
+Commander,
+with all due respect,
+
+583
+00:24:32,612 --> 00:24:34,888
+we accept the risk and we ain't
+asking anybody else to go.
+
+584
+00:24:34,972 --> 00:24:36,106
+You know I can't
+authorize that.
+
+585
+00:24:36,190 --> 00:24:37,682
+You know, those are our people
+up there.
+
+586
+00:24:37,766 --> 00:24:40,149
+They could be bleeding out
+right now.
+
+587
+00:24:40,234 --> 00:24:41,048
+Dying.
+
+588
+00:24:41,133 --> 00:24:43,649
+Son, we haven't had any cell
+
+589
+00:24:43,750 --> 00:24:46,244
+or radio contact at all
+since the Mayday.
+
+590
+00:24:46,329 --> 00:24:49,470
+Nobody else is risking
+their lives tonight.
+
+591
+00:24:50,375 --> 00:24:52,811
+And your father would be
+the first one to agree with me.
+
+592
+00:25:07,981 --> 00:25:09,897
+Okay, that's good.
+
+593
+00:25:12,560 --> 00:25:14,236
+I've spent my whole career
+running to danger,
+
+594
+00:25:14,320 --> 00:25:15,840
+but there's never actually been
+a sign.
+
+595
+00:25:20,809 --> 00:25:22,234
+The deeper we get,
+
+596
+00:25:22,353 --> 00:25:23,993
+the more protected we'll be
+from the heat.
+
+597
+00:25:25,022 --> 00:25:27,274
+- Here. Right there.
+- Okay.
+
+598
+00:25:27,358 --> 00:25:29,085
+- All right.
+- That's better.
+
+599
+00:25:29,169 --> 00:25:31,921
+This is good.
+All right.
+
+600
+00:25:32,005 --> 00:25:34,213
+- I got him.
+- Okay.
+
+601
+00:25:37,125 --> 00:25:40,393
+- How's he doing?
+- He's hanging in there.
+
+602
+00:25:44,216 --> 00:25:45,782
+Can you believe this?
+
+603
+00:25:45,867 --> 00:25:48,063
+It's like stepping back
+in time.
+
+604
+00:25:49,626 --> 00:25:51,923
+Hey, is that
+what I think it is?
+
+605
+00:25:55,862 --> 00:25:57,637
+Oh, my God, that's dynamite.
+
+606
+00:25:57,721 --> 00:25:59,115
+It's gotta be 100 years old.
+
+607
+00:25:59,199 --> 00:26:02,025
+Guess worksite safety
+wasn't a thing back then.
+
+608
+00:26:02,109 --> 00:26:03,786
+Remind me
+to lodge a complaint with OSHA
+
+609
+00:26:03,870 --> 00:26:04,950
+if we ever get out of here.
+
+610
+00:26:07,540 --> 00:26:08,940
+This is the end of the line.
+
+611
+00:26:09,032 --> 00:26:12,484
+All right, well,
+we better get comfortable.
+
+612
+00:26:12,569 --> 00:26:15,806
+It's gonna be a minute before
+anybody comes looking for us.
+
+613
+00:26:16,372 --> 00:26:18,612
+And you'll let me know if you
+start feeling dizzy, right?
+
+614
+00:26:18,718 --> 00:26:20,994
+Oh, don't worry about me.
+
+615
+00:26:21,078 --> 00:26:22,638
+It's kinda my job
+at the moment.
+
+616
+00:26:22,722 --> 00:26:23,881
+You picked the right person
+
+617
+00:26:23,965 --> 00:26:25,624
+to be
+in a helicopter crash with.
+
+618
+00:26:25,708 --> 00:26:27,977
+Oh, yeah?
+Why's that?
+
+619
+00:26:28,061 --> 00:26:29,478
+'Cause I'm invincible.
+
+620
+00:26:30,730 --> 00:26:34,132
+My wife will be glad to hear.
+
+621
+00:26:34,216 --> 00:26:35,985
+Sure, you survived.
+It's great for you.
+
+622
+00:26:40,528 --> 00:26:42,796
+Captain, you okay?
+
+623
+00:26:45,742 --> 00:26:47,585
+Yeah.
+
+624
+00:26:47,747 --> 00:26:50,248
+Okay. I will.
+
+625
+00:26:50,434 --> 00:26:51,859
+I love you too.
+
+626
+00:26:53,598 --> 00:26:55,015
+What's up?
+
+627
+00:26:55,334 --> 00:26:57,006
+Well, they just delivered
+
+628
+00:26:57,090 --> 00:26:59,842
+20 kinds of pizza
+if you're hungry.
+
+629
+00:26:59,926 --> 00:27:01,701
+I'm good. Thanks.
+
+630
+00:27:01,785 --> 00:27:03,662
+They survived the crash.
+
+631
+00:27:05,581 --> 00:27:07,107
+Believe it.
+
+632
+00:27:07,486 --> 00:27:10,664
+And your dad is with Hen, so...
+
+633
+00:27:11,084 --> 00:27:12,743
+so he's in really good hands.
+
+634
+00:27:12,828 --> 00:27:14,240
+So is she.
+
+635
+00:27:14,325 --> 00:27:15,801
+No doubt.
+
+636
+00:27:18,052 --> 00:27:20,720
+Look, my captain is not my dad,
+
+637
+00:27:20,804 --> 00:27:22,373
+but he might as well be.
+
+638
+00:27:22,719 --> 00:27:25,454
+You know, he could've given up
+on me so many times,
+
+639
+00:27:25,601 --> 00:27:27,500
+and he never did.
+
+640
+00:27:27,906 --> 00:27:31,550
+Even when I used to steal
+the fire truck.
+
+641
+00:27:33,200 --> 00:27:34,284
+You used to steal
+the fire truck?
+
+642
+00:27:34,368 --> 00:27:35,694
+Oh, yeah.
+
+643
+00:27:35,778 --> 00:27:37,570
+All the time.
+
+644
+00:27:37,654 --> 00:27:40,031
+Yeah, my dad,
+
+645
+00:27:40,115 --> 00:27:42,534
+he's never given up
+on me either.
+
+646
+00:27:42,618 --> 00:27:45,870
+And I've done a lot worse
+than steal a fire truck.
+
+647
+00:27:45,954 --> 00:27:48,895
+It just sucks, you know?
+
+648
+00:27:48,980 --> 00:27:51,164
+Just sitting here
+and doing nothing.
+
+649
+00:27:54,544 --> 00:27:56,172
+Well...
+
+650
+00:27:57,599 --> 00:27:59,177
+what if we didn't have to?
+
+651
+00:27:59,816 --> 00:28:00,936
+Is that...
+
+652
+00:28:01,021 --> 00:28:03,068
+A key to a fire truck?
+
+653
+00:28:04,425 --> 00:28:06,276
+Yes, it is.
+
+654
+00:28:11,280 --> 00:28:13,195
+Damn it.
+
+655
+00:28:13,500 --> 00:28:14,970
+I still can't get a signal.
+
+656
+00:28:15,055 --> 00:28:16,472
+Yeah, me either.
+
+657
+00:28:16,557 --> 00:28:18,742
+You're in a mineshaft, genius.
+
+658
+00:28:21,224 --> 00:28:22,951
+So how long
+have you been married?
+
+659
+00:28:23,232 --> 00:28:24,298
+You mentioned a wife.
+
+660
+00:28:24,383 --> 00:28:26,538
+Oh, good, small talk.
+
+661
+00:28:26,810 --> 00:28:28,344
+Almost eight years now.
+
+662
+00:28:28,496 --> 00:28:30,798
+Karen.
+She's a rocket scientist.
+
+663
+00:28:30,883 --> 00:28:33,251
+A literal rocket scientist?
+
+664
+00:28:33,336 --> 00:28:36,046
+Well, she's a stay-at-home
+rocket scientist at the moment.
+
+665
+00:28:36,159 --> 00:28:38,310
+Cutbacks at JPL.
+
+666
+00:28:38,442 --> 00:28:39,735
+You have kids?
+
+667
+00:28:40,456 --> 00:28:43,162
+Denny is ten.
+
+668
+00:28:43,247 --> 00:28:46,166
+And our little Nia,
+she's three.
+
+669
+00:28:46,251 --> 00:28:47,192
+You?
+
+670
+00:28:47,277 --> 00:28:49,440
+One son. TK.
+
+671
+00:28:49,525 --> 00:28:50,863
+You might have met him.
+
+672
+00:28:50,948 --> 00:28:53,349
+He works with me.
+
+673
+00:28:53,434 --> 00:28:55,611
+He's probably climbing
+the walls right now.
+
+674
+00:28:55,910 --> 00:28:57,253
+Now that you mention it,
+
+675
+00:28:57,338 --> 00:28:59,998
+I did notice the resemblance
+at the briefing.
+
+676
+00:29:00,083 --> 00:29:01,283
+Yeah, people say that.
+
+677
+00:29:01,368 --> 00:29:03,762
+I think he looks
+like his mom, Gwen.
+
+678
+00:29:04,114 --> 00:29:06,533
+If the plague was good
+for one thing,
+
+679
+00:29:06,618 --> 00:29:09,103
+it was getting us
+back together.
+
+680
+00:29:09,188 --> 00:29:12,219
+After 15 years
+of being divorced,
+
+681
+00:29:12,313 --> 00:29:14,306
+it looks like we're giving it
+another go-around,
+
+682
+00:29:14,391 --> 00:29:15,875
+which sounds crazy
+as I say it out loud.
+
+683
+00:29:15,959 --> 00:29:17,710
+You know what's crazy?
+
+684
+00:29:17,795 --> 00:29:20,202
+Getting hit by a lava bomb.
+That is crazy.
+
+685
+00:29:21,674 --> 00:29:23,500
+I'm sorry.
+
+686
+00:29:23,585 --> 00:29:26,134
+For what?
+
+687
+00:29:26,452 --> 00:29:29,011
+The wind has shifted.
+
+688
+00:29:29,243 --> 00:29:30,697
+We gotta find
+another way out.
+
+689
+00:29:30,782 --> 00:29:32,391
+There is no other way out.
+
+690
+00:29:32,823 --> 00:29:34,425
+If the wind keeps blowing
+smoke in here,
+
+691
+00:29:34,509 --> 00:29:36,209
+we won't last ten minutes.
+
+692
+00:29:36,469 --> 00:29:38,416
+You know she's never seeing
+those kids again.
+
+693
+00:29:38,501 --> 00:29:39,090
+Shut up.
+
+694
+00:29:39,175 --> 00:29:40,759
+We picked
+a real nice tomb though.
+
+695
+00:29:40,844 --> 00:29:43,072
+I said shut up!
+
+696
+00:29:43,157 --> 00:29:45,949
+Captain Strand,
+
+697
+00:29:46,034 --> 00:29:48,929
+I believe you're talking
+to somebody who's not here.
+
+698
+00:29:49,719 --> 00:29:51,313
+I'm aware.
+
+699
+00:29:52,749 --> 00:29:54,575
+But he did give me a good idea.
+
+700
+00:30:02,687 --> 00:30:04,963
+You sure it's still here?
+Maybe they deployed it.
+
+701
+00:30:05,048 --> 00:30:07,851
+Not according to the board.
+
+702
+00:30:07,936 --> 00:30:11,096
+All right, go, go, go, go, go.
+
+703
+00:30:11,183 --> 00:30:12,451
+Hey.
+
+704
+00:30:12,536 --> 00:30:14,018
+You know
+you don't have to do this.
+
+705
+00:30:14,103 --> 00:30:15,385
+There's no reason
+that both of us get fired.
+
+706
+00:30:15,469 --> 00:30:16,646
+Hey, my friend's up there too.
+
+707
+00:30:16,730 --> 00:30:18,505
+She would do the same thing
+for me.
+
+708
+00:30:19,089 --> 00:30:20,391
+I think.
+
+709
+00:30:20,634 --> 00:30:24,039
+- She would.
+- Okay.
+
+710
+00:30:24,124 --> 00:30:26,659
+Oh, hey, here it is.
+Let's go.
+
+711
+00:30:26,744 --> 00:30:28,784
+Uh, no.
+That's not it.
+
+712
+00:30:28,869 --> 00:30:30,938
+What do you mean?
+118, Los Angeles. Let's go.
+
+713
+00:30:31,023 --> 00:30:32,482
+Yeah, no,
+we're not taking that.
+
+714
+00:30:32,567 --> 00:30:35,073
+Bobby would kill me...
+
+715
+00:30:35,158 --> 00:30:36,182
+No.
+
+716
+00:30:36,719 --> 00:30:38,637
+This is the key to your truck.
+
+717
+00:30:38,722 --> 00:30:40,967
+Hey, dumb-ass.
+Dumbasser.
+
+718
+00:30:41,052 --> 00:30:42,877
+Did you stop
+and consider the consequences
+
+719
+00:30:42,962 --> 00:30:43,955
+of what you're about to do
+at all?
+
+720
+00:30:44,040 --> 00:30:45,363
+You obviously don't know Buck.
+
+721
+00:30:45,447 --> 00:30:47,371
+You two didn't seriously think
+that you could sneak off
+
+722
+00:30:47,455 --> 00:30:49,293
+and drive into wildfires,
+did you?
+
+723
+00:30:49,378 --> 00:30:51,573
+- Yes?
+- Well, that ain't gonna happen.
+
+724
+00:30:51,658 --> 00:30:52,995
+You think you're gonna stop us?
+
+725
+00:30:53,080 --> 00:30:53,897
+Stop you?
+
+726
+00:30:53,982 --> 00:30:55,065
+We're going with you.
+
+727
+00:30:55,150 --> 00:30:56,943
+Come on, let's go.
+
+728
+00:31:14,681 --> 00:31:16,811
+You think these being
+100 years old make 'em
+
+729
+00:31:16,904 --> 00:31:18,229
+more or less stable?
+
+730
+00:31:18,314 --> 00:31:20,228
+Definitely less.
+You see the crystals?
+
+731
+00:31:20,313 --> 00:31:22,431
+That's nitroglycerine.
+
+732
+00:31:22,516 --> 00:31:24,830
+It sweats out of the dynamite
+after years
+
+733
+00:31:25,142 --> 00:31:26,221
+and recrystallizes.
+
+734
+00:31:26,306 --> 00:31:27,800
+Definitely makes it
+more volatile.
+
+735
+00:31:27,885 --> 00:31:29,125
+Kay, put it down nice and easy.
+
+736
+00:31:31,184 --> 00:31:34,821
+God.
+I hope this isn't overkill.
+
+737
+00:31:36,975 --> 00:31:39,111
+Better to have too much
+than too little.
+
+738
+00:31:39,270 --> 00:31:41,613
+Give me your brush jacket.
+
+739
+00:31:41,698 --> 00:31:43,140
+Feeling chilly?
+
+740
+00:31:45,244 --> 00:31:47,144
+If we're gonna lock ourselves
+in a mine,
+
+741
+00:31:47,229 --> 00:31:49,406
+we may as well leave
+a marker outside
+
+742
+00:31:49,491 --> 00:31:51,892
+just in case somebody comes by.
+
+743
+00:31:51,977 --> 00:31:53,243
+Smart.
+
+744
+00:31:54,461 --> 00:31:56,702
+- Okay.
+- Wish me luck.
+
+745
+00:31:59,045 --> 00:32:00,897
+Try not to blow us up.
+
+746
+00:32:14,187 --> 00:32:16,854
+For the record,
+this wasn't actually my idea.
+
+747
+00:32:19,514 --> 00:32:21,358
+Okay.
+
+748
+00:32:21,576 --> 00:32:24,160
+All right.
+
+749
+00:32:25,965 --> 00:32:27,661
+Are we really doing this?
+
+750
+00:32:27,746 --> 00:32:29,500
+I don't think we have
+much of a choice.
+
+751
+00:32:29,585 --> 00:32:32,838
+Unless dying of
+smoke inhalation is your thing.
+
+752
+00:32:33,047 --> 00:32:34,551
+Wanna do the honors?
+
+753
+00:32:49,527 --> 00:32:51,453
+Go, go, go, go!
+
+754
+00:33:10,261 --> 00:33:12,471
+Is it just
+my traumatic brain injury,
+
+755
+00:33:12,555 --> 00:33:15,066
+or does the air in here feel
+a little thin?
+
+756
+00:33:19,938 --> 00:33:22,198
+Every time we exhale,
+
+757
+00:33:23,878 --> 00:33:26,425
+we poison the air
+a little bit more.
+
+758
+00:33:27,087 --> 00:33:30,018
+Unventilated mines fill up fast
+
+759
+00:33:30,573 --> 00:33:33,009
+with CO2, nitrogen,
+and water vapor.
+
+760
+00:33:33,093 --> 00:33:35,206
+It's called black damp.
+
+761
+00:33:35,912 --> 00:33:38,253
+Maybe this wasn't
+the best plan.
+
+762
+00:33:39,934 --> 00:33:41,685
+It was the only plan.
+
+763
+00:33:45,368 --> 00:33:47,902
+I should never have let you
+get on that chopper.
+
+764
+00:33:48,299 --> 00:33:50,323
+I'm sorry.
+
+765
+00:33:50,704 --> 00:33:52,284
+What are you talking about?
+
+766
+00:33:52,729 --> 00:33:55,003
+You're invincible, remember?
+
+767
+00:33:55,640 --> 00:33:56,941
+Yeah.
+
+768
+00:33:57,175 --> 00:33:58,886
+It's the...
+
+769
+00:33:59,861 --> 00:34:02,331
+people around me
+that tend not to be.
+
+770
+00:34:03,392 --> 00:34:05,899
+Is that what's been
+haunting you?
+
+771
+00:34:06,183 --> 00:34:08,386
+Someone who didn't make it?
+
+772
+00:34:09,667 --> 00:34:11,197
+The people who didn't make it
+
+773
+00:34:11,281 --> 00:34:13,089
+couldn't fit
+into this mineshaft.
+
+774
+00:34:16,211 --> 00:34:19,565
+But recently, a paramedic...
+
+775
+00:34:20,783 --> 00:34:23,584
+got killed
+not two feet from me.
+
+776
+00:34:24,594 --> 00:34:26,565
+It's brutal.
+
+777
+00:34:27,147 --> 00:34:28,761
+Brutal sometimes.
+
+778
+00:34:30,508 --> 00:34:32,870
+Being the one who survives.
+
+779
+00:34:33,470 --> 00:34:35,698
+Yeah, pisses me off.
+
+780
+00:34:38,325 --> 00:34:41,243
+I lost 14 of my brothers
+on 9/11.
+
+781
+00:34:43,495 --> 00:34:45,948
+We all went into the tower,
+but...
+
+782
+00:34:47,265 --> 00:34:49,282
+I'm the only one
+who walked out.
+
+783
+00:34:52,621 --> 00:34:55,347
+I've never admitted this
+to anyone.
+
+784
+00:34:57,177 --> 00:34:59,511
+I've never forgiven them.
+
+785
+00:35:02,207 --> 00:35:04,291
+You got a lot of guilt
+about it.
+
+786
+00:35:04,375 --> 00:35:07,920
+I've got guilt over everything.
+
+787
+00:35:08,004 --> 00:35:10,160
+Over surviving,
+
+788
+00:35:10,245 --> 00:35:14,073
+over forcing my son to follow
+in my footsteps,
+
+789
+00:35:14,158 --> 00:35:16,854
+over... the failure
+of my marriage,
+
+790
+00:35:16,938 --> 00:35:19,282
+over...
+
+791
+00:35:19,555 --> 00:35:22,393
+telling this all
+to a complete stranger.
+
+792
+00:35:23,462 --> 00:35:25,455
+We're probably
+gonna die anyway.
+
+793
+00:35:25,969 --> 00:35:28,540
+Now you're just trying
+to cheer me up.
+
+794
+00:35:36,907 --> 00:35:39,608
+You wanna talk
+about guilt, Captain?
+
+795
+00:35:45,604 --> 00:35:47,484
+I killed a girl.
+
+796
+00:35:52,814 --> 00:35:54,540
+With my ambulance.
+
+797
+00:35:57,124 --> 00:35:58,623
+Evelyn.
+
+798
+00:36:00,677 --> 00:36:02,983
+16 years old.
+
+799
+00:36:04,349 --> 00:36:05,959
+I'm so sorry.
+
+800
+00:36:07,495 --> 00:36:09,538
+So yeah,
+
+801
+00:36:09,912 --> 00:36:13,206
+you're not the only one...
+
+802
+00:36:13,669 --> 00:36:16,392
+locked in here...
+
+803
+00:36:18,993 --> 00:36:20,460
+With a ghost.
+
+804
+00:36:22,849 --> 00:36:24,383
+Hen?
+
+805
+00:36:24,468 --> 00:36:25,936
+Henrietta?
+
+806
+00:36:39,960 --> 00:36:41,693
+Night-night.
+
+807
+00:36:50,971 --> 00:36:51,888
+- Dad!
+- Hen!
+
+808
+00:36:51,973 --> 00:36:53,263
+- Hen!
+- Dad!
+
+809
+00:36:55,883 --> 00:36:57,801
+- Hen!
+- Dad!
+
+810
+00:36:57,885 --> 00:36:59,966
+- Cap!
+- Cap!
+
+811
+00:37:00,051 --> 00:37:02,569
+They're not in here.
+Buck, they're not in here.
+
+812
+00:37:02,654 --> 00:37:03,900
+- Hey, they made it out.
+- Get clear!
+
+813
+00:37:03,984 --> 00:37:05,060
+They made it out!
+
+814
+00:37:05,145 --> 00:37:06,787
+Hey, let's fan out
+
+815
+00:37:06,872 --> 00:37:08,674
+and let's search
+this area here, yeah?
+
+816
+00:37:08,759 --> 00:37:09,935
+- Dad!
+- Hen!
+
+817
+00:37:10,020 --> 00:37:11,561
+Cap!
+
+818
+00:37:13,810 --> 00:37:14,972
+Cap!
+
+819
+00:37:15,056 --> 00:37:16,140
+Hen!
+
+820
+00:37:16,224 --> 00:37:18,142
+Dad!
+
+821
+00:37:18,226 --> 00:37:20,126
+Cap!
+
+822
+00:37:20,210 --> 00:37:21,628
+Dad!
+
+823
+00:37:21,712 --> 00:37:24,172
+Guys!
+Guys, over here!
+
+824
+00:37:24,342 --> 00:37:25,525
+Over here!
+
+825
+00:37:27,694 --> 00:37:29,362
+- Cap!
+- Cap!
+
+826
+00:37:29,946 --> 00:37:31,466
+Cap!
+
+827
+00:37:32,678 --> 00:37:33,937
+Clear!
+
+828
+00:37:34,022 --> 00:37:36,615
+Cap!
+
+829
+00:37:37,099 --> 00:37:38,547
+- Hey!
+- Cap!
+
+830
+00:37:38,639 --> 00:37:39,835
+Cap!
+
+831
+00:37:44,442 --> 00:37:45,763
+Hey, I see them!
+
+832
+00:37:46,213 --> 00:37:47,514
+- Hey!
+- Cap!
+
+833
+00:37:47,623 --> 00:37:49,382
+- Hey, keep going!
+- Cap!
+
+834
+00:37:51,499 --> 00:37:53,992
+- Hen!
+- Dad.
+
+835
+00:37:54,077 --> 00:37:55,012
+We got you.
+
+836
+00:37:55,097 --> 00:37:56,591
+We're here.
+
+837
+00:37:57,630 --> 00:37:59,018
+I got a pulse!
+
+838
+00:37:59,382 --> 00:38:00,540
+Stay with me. Hey.
+
+839
+00:38:00,625 --> 00:38:01,704
+Stay with me.
+Stay with me.
+
+840
+00:38:01,789 --> 00:38:03,415
+I got you.
+I got you.
+
+841
+00:38:03,500 --> 00:38:06,110
+Hey, Dad, Dad, Dad.
+We're here. We're here.
+
+842
+00:38:06,934 --> 00:38:08,593
+We got you, Cap.
+
+843
+00:38:08,678 --> 00:38:10,188
+We're gonna get you
+out of here.
+
+844
+00:38:10,273 --> 00:38:11,335
+Stay with us.
+
+845
+00:38:11,420 --> 00:38:13,558
+Pulse is slipping.
+Come on, we gotta move.
+
+846
+00:38:13,643 --> 00:38:15,054
+Hey, you'll be all right.
+
+847
+00:38:15,139 --> 00:38:16,847
+Dad.
+
+848
+00:39:00,091 --> 00:39:02,661
+Look who's up.
+
+849
+00:39:03,388 --> 00:39:04,597
+Captain Vega.
+
+850
+00:39:04,681 --> 00:39:07,433
+What are you doing here?
+
+851
+00:39:07,517 --> 00:39:10,144
+Wait a minute.
+Are you here?
+
+852
+00:39:10,228 --> 00:39:11,479
+I'm here, Owen.
+
+853
+00:39:11,563 --> 00:39:13,187
+Here, take these.
+
+854
+00:39:13,344 --> 00:39:15,311
+They'll help
+with that headache.
+
+855
+00:39:17,211 --> 00:39:18,870
+When'd you get in?
+
+856
+00:39:18,954 --> 00:39:21,706
+Uh, first light.
+
+857
+00:39:21,790 --> 00:39:25,493
+After our talk yesterday,
+I couldn't shake the feeling
+
+858
+00:39:25,577 --> 00:39:28,138
+that maybe you needed a friend
+out here.
+
+859
+00:39:28,222 --> 00:39:30,215
+Turns out you have several.
+
+860
+00:39:30,299 --> 00:39:32,383
+Could always use another.
+
+861
+00:39:32,467 --> 00:39:34,023
+Thank you for coming.
+
+862
+00:39:34,172 --> 00:39:36,423
+Y'all put a real hurt
+on that fire, by the way.
+
+863
+00:39:36,921 --> 00:39:40,132
+Between the containment line
+and the rain last night,
+
+864
+00:39:40,216 --> 00:39:41,842
+they're saying it's boxed in.
+
+865
+00:39:41,926 --> 00:39:45,155
+Commander dismissed
+all the out-of-state crews.
+
+866
+00:39:50,894 --> 00:39:53,751
+So if y'all get hungry,
+there's a great barbecue place
+
+867
+00:39:53,836 --> 00:39:55,454
+in Fort Stockton
+called Rudy's Ribs.
+
+868
+00:39:55,539 --> 00:39:56,947
+You just tell 'em
+that Judd sent you.
+
+869
+00:39:57,031 --> 00:39:58,317
+Thanks, but I think
+we're gonna go
+
+870
+00:39:58,401 --> 00:40:00,898
+to my parents' in El Paso
+to eat.
+
+871
+00:40:01,330 --> 00:40:03,414
+Judd, you're all right,
+
+872
+00:40:03,498 --> 00:40:05,087
+even if you were a bulldog.
+
+873
+00:40:05,172 --> 00:40:06,430
+Well, it makes sense
+
+874
+00:40:06,515 --> 00:40:08,477
+that a California firefighter
+as good as you
+
+875
+00:40:08,562 --> 00:40:10,477
+had to have been raised
+in Texas, so...
+
+876
+00:40:10,562 --> 00:40:12,062
+All right, brother.
+
+877
+00:40:13,249 --> 00:40:14,883
+Hey, Marwani.
+
+878
+00:40:15,140 --> 00:40:17,054
+Was hoping I could get a pic
+for Insta.
+
+879
+00:40:17,211 --> 00:40:18,838
+I thought you were off
+social media.
+
+880
+00:40:18,922 --> 00:40:21,468
+Yeah, well, it's not every day
+you get to take a selfie
+
+881
+00:40:21,553 --> 00:40:24,117
+with #Firefox.
+
+882
+00:40:28,714 --> 00:40:31,602
+Oh, now, that is just
+way too much pretty.
+
+883
+00:40:31,687 --> 00:40:34,370
+Shut up, Strickland.
+
+884
+00:40:34,455 --> 00:40:37,523
+- Brother.
+- Great work up there.
+
+885
+00:40:37,607 --> 00:40:40,043
+Hey, great working
+with you guys.
+
+886
+00:40:40,127 --> 00:40:41,852
+And for the love of God,
+
+887
+00:40:41,937 --> 00:40:43,362
+please follow Buck back
+on Insta.
+
+888
+00:40:45,758 --> 00:40:47,217
+Marvin Chavez.
+
+889
+00:40:47,742 --> 00:40:49,343
+C-H-A-V-E-Z.
+
+890
+00:40:49,429 --> 00:40:50,795
+He gets out
+in about three months.
+
+891
+00:40:50,880 --> 00:40:52,205
+I will keep my eyes open.
+
+892
+00:40:52,290 --> 00:40:53,633
+Cool, cool.
+Drive safe.
+
+893
+00:40:53,718 --> 00:40:56,560
+Hey, Buck.
+
+894
+00:40:57,245 --> 00:40:58,829
+You really put yourself
+out there.
+
+895
+00:40:58,914 --> 00:41:00,421
+Can't thank you enough.
+
+896
+00:41:00,505 --> 00:41:01,714
+It's what we do, right?
+
+897
+00:41:03,842 --> 00:41:07,237
+Ooh, hey, if you ever
+find yourself in LA,
+
+898
+00:41:07,321 --> 00:41:08,813
+we should get together.
+
+899
+00:41:08,897 --> 00:41:10,765
+Sure.
+
+900
+00:41:10,849 --> 00:41:12,992
+I gotta mention, though,
+I already have a boyfriend
+
+901
+00:41:13,101 --> 00:41:15,153
+and it's pretty serious, so...
+
+902
+00:41:15,237 --> 00:41:17,247
+but it was really nice
+meeting you, man.
+
+903
+00:41:17,331 --> 00:41:18,397
+Take care.
+
+904
+00:41:18,481 --> 00:41:19,607
+Uh... oh.
+
+905
+00:41:19,691 --> 00:41:20,566
+Great working with you, man.
+
+906
+00:41:20,650 --> 00:41:22,401
+Great working with you too.
+
+907
+00:41:22,485 --> 00:41:24,628
+Where's Hen?
+
+908
+00:41:28,203 --> 00:41:30,618
+I'd say I'm glad to see you
+back on your feet,
+
+909
+00:41:30,702 --> 00:41:34,288
+but you shouldn't be
+back on your feet.
+
+910
+00:41:34,372 --> 00:41:35,641
+I heard you were shipping out,
+
+911
+00:41:35,726 --> 00:41:38,343
+and I wanted to make sure
+I caught you.
+
+912
+00:41:39,664 --> 00:41:42,242
+I'm still amazed we made it
+out of there alive.
+
+913
+00:41:43,121 --> 00:41:45,281
+Told you.
+I'm invincible.
+
+914
+00:41:47,453 --> 00:41:50,633
+Is that really your takeaway
+from the experience?
+
+915
+00:41:50,722 --> 00:41:53,307
+I cannot think
+of a more logical explanation
+
+916
+00:41:53,391 --> 00:41:54,946
+for how we survived what we did
+
+917
+00:41:55,031 --> 00:41:56,781
+and still walked
+out of there alive.
+
+918
+00:41:57,705 --> 00:42:01,107
+Well, actually, I can think
+of about two teams
+
+919
+00:42:01,191 --> 00:42:03,235
+of logical explanations.
+
+920
+00:42:03,327 --> 00:42:06,594
+And we didn't walk out.
+We were... We were carried out.
+
+921
+00:42:08,364 --> 00:42:10,800
+Who knew you could get
+so stoned on oxygen?
+
+922
+00:42:13,220 --> 00:42:15,329
+<i>In O2 veritas.</i>
+
+923
+00:42:15,586 --> 00:42:17,587
+Pure oxygen can give rise
+
+924
+00:42:17,672 --> 00:42:20,218
+to feelings of euphoria.
+
+925
+00:42:20,734 --> 00:42:23,453
+Yeah, I'm not so sure it was
+euphoria I was feeling.
+
+926
+00:42:24,898 --> 00:42:28,719
+What happens in the mineshaft
+stays in the mineshaft.
+
+927
+00:42:28,804 --> 00:42:30,656
+I appreciate that.
+
+928
+00:42:32,054 --> 00:42:33,398
+Maybe that's not the only thing
+
+929
+00:42:33,482 --> 00:42:35,750
+that could stay
+in the mineshaft.
+
+930
+00:42:36,781 --> 00:42:38,504
+Maybe you could
+
+931
+00:42:38,929 --> 00:42:40,859
+leave some of those ghosts
+in there too.
+
+932
+00:42:46,402 --> 00:42:50,101
+It was a pleasure to share
+a foxhole with you, Captain.
+
+933
+00:42:50,632 --> 00:42:52,298
+Call me Owen.
+
+934
+00:42:54,873 --> 00:42:56,789
+Take care of yourself, Owen.
+
+935
+00:42:58,000 --> 00:43:00,750
+Even if you are invincible.
+
+935
+00:43:01,305 --> 00:44:01,198
+Support us and become VIP member 
+to remove all ads from OpenSubtitles.org										
+    
+
+ 
+
+ 
+   
+   
+
+
+   
+ 
+  
+
+										
+ 
+
+ 
+  
+  
+
+   
+ 
+    
