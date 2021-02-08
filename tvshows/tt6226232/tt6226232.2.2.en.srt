@@ -1,0 +1,2089 @@
+﻿1
+00:00:02,044 --> 00:00:03,879
+<i>Previously on</i> Young Sheldon...
+
+2
+00:00:03,963 --> 00:00:06,090
+I've been corresponding
+with Dr. John Sturgis
+
+3
+00:00:06,173 --> 00:00:07,508
+<i>at East Texas Tech.</i>
+
+4
+00:00:07,591 --> 00:00:09,260
+<i>He said I could audit
+his course.</i>
+
+5
+00:00:09,343 --> 00:00:10,553
+I'm John Sturgis.
+
+6
+00:00:10,636 --> 00:00:12,471
+Sheldon invited me to dinner.
+
+7
+00:00:12,555 --> 00:00:15,349
+Spaghetti and hot dogs
+is delightful.
+
+8
+00:00:15,433 --> 00:00:16,642
+You're only here temporarily?
+
+9
+00:00:16,726 --> 00:00:18,060
+That's the plan for now,
+
+10
+00:00:18,144 --> 00:00:22,273
+but I could be enticed to stay.
+
+11
+00:00:22,356 --> 00:00:23,796
+I do believe there
+was subtext there.
+
+12
+00:00:23,858 --> 00:00:24,859
+Did you pick up on it?
+
+13
+00:00:27,194 --> 00:00:29,697
+Okay. I'll see you later.
+
+14
+00:00:29,780 --> 00:00:31,500
+Are you sure
+you don't want to stay with me?
+
+15
+00:00:31,532 --> 00:00:33,677
+I don't think so. I don't really
+understand this stuff.
+
+16
+00:00:33,701 --> 00:00:35,995
+That's how I felt
+when we watched <i>Dirty Dancing,</i>
+
+17
+00:00:36,078 --> 00:00:37,121
+and I stayed.
+
+18
+00:00:37,204 --> 00:00:38,849
+When Patrick Swayze
+takes his shirt off in here,
+
+19
+00:00:38,873 --> 00:00:40,833
+I'll be back.
+You have a good one.
+
+20
+00:00:48,632 --> 00:00:50,426
+Hello.
+
+21
+00:00:50,509 --> 00:00:51,509
+Hi.
+
+22
+00:00:52,762 --> 00:00:53,971
+Who are you?
+
+23
+00:00:54,055 --> 00:00:55,181
+I'm Paige.
+
+24
+00:00:55,264 --> 00:00:56,974
+I like your bow tie.
+
+25
+00:00:57,058 --> 00:00:58,392
+Thank you.
+
+26
+00:00:58,476 --> 00:00:59,852
+You seem awfully young,
+Paige.
+
+27
+00:00:59,935 --> 00:01:02,229
+Are you with an adult
+who's taking this class?
+
+28
+00:01:02,313 --> 00:01:04,690
+No. Dr. Sturgis heard
+about my research
+
+29
+00:01:04,774 --> 00:01:07,026
+on quantum chromodynamics
+at high temperatures
+
+30
+00:01:07,109 --> 00:01:09,236
+and invited me
+to audit his course.
+
+31
+00:01:09,320 --> 00:01:10,488
+Is that so?
+
+32
+00:01:10,571 --> 00:01:12,948
+Yes. He's been super nice.
+
+33
+00:01:13,032 --> 00:01:15,451
+Interesting. Well,
+just so we're clear,
+
+34
+00:01:15,534 --> 00:01:17,912
+he's my mentor,
+he's my meemaw's boyfriend,
+
+35
+00:01:17,995 --> 00:01:20,748
+and he had spaghetti
+and hot dogs at my house.
+
+36
+00:01:20,831 --> 00:01:24,085
+The spaghetti
+goes on the hot dogs?
+
+37
+00:01:24,168 --> 00:01:25,169
+No.
+
+38
+00:01:25,252 --> 00:01:27,254
+You realize
+this is a very advanced class.
+
+39
+00:01:27,338 --> 00:01:28,254
+We'll be discussing
+
+40
+00:01:28,255 --> 00:01:30,549
+deriving nuclear physics
+from the quark model.
+
+41
+00:01:30,633 --> 00:01:32,986
+Do you know if he'll be doing
+a full color octet calculation
+
+42
+00:01:33,010 --> 00:01:35,096
+with matrix manipulations?
+
+43
+00:01:36,222 --> 00:01:37,264
+I do not.
+
+44
+00:01:37,348 --> 00:01:39,725
+Do you know how to differentiate
+under the integral sign?
+
+45
+00:01:40,684 --> 00:01:41,685
+No.
+
+46
+00:01:41,769 --> 00:01:44,146
+Well, do you know anything?
+
+47
+00:01:45,481 --> 00:01:47,024
+I know you're in my spot.
+
+48
+00:01:48,317 --> 00:01:51,487
+<i>♪ Nobody else
+is stronger than I am ♪</i>
+
+49
+00:01:51,570 --> 00:01:53,906
+<i>♪ Yesterday I moved a mountain ♪</i>
+
+50
+00:01:53,989 --> 00:01:56,617
+<i>♪ I bet I could be your hero ♪</i>
+
+51
+00:01:56,700 --> 00:01:59,453
+<i>♪ I am a mighty little man ♪</i>
+
+52
+00:01:59,537 --> 00:02:02,873
+<i>♪ I am a mighty little man ♪</i>
+
+53
+00:02:10,131 --> 00:02:11,632
+How old are you?
+
+54
+00:02:11,715 --> 00:02:13,008
+I'm ten.
+
+55
+00:02:13,092 --> 00:02:14,552
+I'm ten, too.
+
+56
+00:02:14,635 --> 00:02:16,053
+When's your birthday?
+
+57
+00:02:16,137 --> 00:02:18,139
+February 26th.
+
+58
+00:02:18,222 --> 00:02:20,266
+March 17th.
+
+59
+00:02:20,975 --> 00:02:22,518
+I'm the youngest person
+in this class.
+
+60
+00:02:22,601 --> 00:02:24,436
+That's funny.
+
+61
+00:02:27,231 --> 00:02:29,150
+Oh, good.
+
+62
+00:02:29,233 --> 00:02:30,651
+I see you two have met.
+
+63
+00:02:30,734 --> 00:02:32,111
+I'm younger than him.
+
+64
+00:02:32,194 --> 00:02:35,156
+How come you never mentioned
+she was coming to this class?
+
+65
+00:02:35,239 --> 00:02:37,324
+I thought it would be
+a fun surprise.
+
+66
+00:02:37,408 --> 00:02:38,784
+I don't like surprises.
+
+67
+00:02:38,868 --> 00:02:40,202
+Neither do I.
+
+68
+00:02:40,286 --> 00:02:41,745
+Then why did you do it?
+
+69
+00:02:41,829 --> 00:02:43,706
+Some people like surprises.
+
+70
+00:02:43,789 --> 00:02:45,249
+I love surprises.
+
+71
+00:02:45,332 --> 00:02:46,750
+Did you enjoy this one?
+
+72
+00:02:46,834 --> 00:02:49,753
+- Yes.
+- A 50 percent success rate.
+
+73
+00:02:49,837 --> 00:02:52,590
+Not bad. Let's get started.
+
+74
+00:02:54,008 --> 00:02:56,677
+<i>Not since sharing
+a uterus with my twin sister</i>
+
+75
+00:02:56,760 --> 00:02:59,138
+<i>have I been so unhappy
+sitting next to someone.</i>
+
+76
+00:03:02,016 --> 00:03:03,767
+<i>♪ Taking it slow ♪</i>
+
+77
+00:03:05,477 --> 00:03:07,605
+<i>♪ And Lord, don't you know ♪</i>
+
+78
+00:03:07,688 --> 00:03:09,773
+Awful quiet back there.
+
+79
+00:03:11,609 --> 00:03:14,445
+I'm having an emotion
+I'm unfamiliar with.
+
+80
+00:03:14,528 --> 00:03:16,864
+Hmm. Think it might
+have something to do
+
+81
+00:03:16,947 --> 00:03:18,407
+with your new classmate?
+
+82
+00:03:18,490 --> 00:03:19,658
+It's possible.
+
+83
+00:03:19,742 --> 00:03:22,912
+She's the only variable
+in the social equation.
+
+84
+00:03:22,995 --> 00:03:24,663
+So what are you feeling?
+
+85
+00:03:24,747 --> 00:03:26,624
+My face is hot,
+
+86
+00:03:26,707 --> 00:03:28,167
+I have a knot in my stomach,
+
+87
+00:03:28,250 --> 00:03:30,794
+and I'm resisting the urge
+to kick your seat right now.
+
+88
+00:03:30,878 --> 00:03:32,963
+I'm thinking it
+might be jealousy.
+
+89
+00:03:33,047 --> 00:03:34,673
+No, that's not in my nature.
+
+90
+00:03:34,757 --> 00:03:37,551
+All right, let's go through
+all the emotions.
+
+91
+00:03:37,635 --> 00:03:38,928
+I'm looking at your face,
+
+92
+00:03:39,011 --> 00:03:41,555
+so I'm gonna rule out happy.
+
+93
+00:03:41,639 --> 00:03:42,806
+Are you sad?
+
+94
+00:03:42,890 --> 00:03:44,642
+No, there's too much anger
+in there.
+
+95
+00:03:44,725 --> 00:03:46,018
+Oh, well, maybe you're angry.
+
+96
+00:03:46,101 --> 00:03:47,853
+No, there's too much sad
+in there.
+
+97
+00:03:47,937 --> 00:03:49,480
+Maybe you got a little crush
+on her.
+
+98
+00:03:49,563 --> 00:03:51,273
+Do you want me
+to kick your seat?
+
+99
+00:03:51,857 --> 00:03:53,359
+I don't know, Moonpie.
+
+100
+00:03:53,442 --> 00:03:55,778
+I'm still thinking
+it might be jealousy.
+
+101
+00:03:55,861 --> 00:03:58,572
+Give me one reason
+why I would be jealous.
+
+102
+00:03:58,656 --> 00:04:01,742
+Well, Dr. Sturgis
+means a lot to you,
+
+103
+00:04:01,825 --> 00:04:03,744
+and now he's paying
+attention to somebody else.
+
+104
+00:04:03,827 --> 00:04:05,913
+You're used to being
+the only smart kid around,
+
+105
+00:04:05,996 --> 00:04:08,123
+and now there's another.
+
+106
+00:04:08,207 --> 00:04:09,583
+Oh, and there's
+the possibility...
+
+107
+00:04:09,667 --> 00:04:11,210
+I said one reason, thank you.
+
+108
+00:04:11,293 --> 00:04:13,712
+<i>♪ Yeah... ♪</i>
+
+109
+00:04:17,341 --> 00:04:18,342
+Hello?
+
+110
+00:04:18,425 --> 00:04:19,635
+<i>Hello, Mary.</i>
+
+111
+00:04:19,718 --> 00:04:21,303
+This is John Sturgis,
+
+112
+00:04:21,387 --> 00:04:24,515
+Sheldon's professor
+and your mother's lover.
+
+113
+00:04:24,598 --> 00:04:27,518
+Hi. And "John"
+was more than enough.
+
+114
+00:04:27,601 --> 00:04:30,646
+I was calling because there's
+a new student in my class
+
+115
+00:04:30,729 --> 00:04:32,064
+who's Sheldon's age.
+
+116
+00:04:32,147 --> 00:04:33,440
+No kidding.
+
+117
+00:04:33,524 --> 00:04:37,403
+Her mother wondered if I could
+put you two in contact
+
+118
+00:04:37,486 --> 00:04:39,405
+<i>since you have so much
+in common.</i>
+
+119
+00:04:39,488 --> 00:04:42,199
+Oh, of course.
+
+120
+00:04:42,283 --> 00:04:43,284
+Excellent.
+
+121
+00:04:43,367 --> 00:04:45,452
+<i>I'll give you the number
+when you're ready.</i>
+
+122
+00:04:45,536 --> 00:04:46,829
+Um...
+
+123
+00:04:46,912 --> 00:04:49,581
+<i>I am ready.</i>
+
+124
+00:04:49,665 --> 00:04:55,296
+409-356-6049.
+
+125
+00:04:55,379 --> 00:04:56,422
+John?
+
+126
+00:04:56,505 --> 00:04:57,673
+Yes?
+
+127
+00:04:57,756 --> 00:04:58,799
+That's my number.
+
+128
+00:04:59,466 --> 00:05:02,136
+So it is!
+
+129
+00:05:05,180 --> 00:05:06,890
+This is so exciting.
+
+130
+00:05:07,599 --> 00:05:10,185
+Don't you understand
+what this means?
+
+131
+00:05:10,269 --> 00:05:12,688
+Rather than me feel dumb,
+how about you just tell me?
+
+132
+00:05:12,771 --> 00:05:16,233
+These are parents
+we can actually relate to.
+
+133
+00:05:16,317 --> 00:05:18,944
+- Yeah, sure.
+- All the times we wonder
+
+134
+00:05:19,028 --> 00:05:21,572
+if we're doing right by Sheldon
+or how to handle him,
+
+135
+00:05:21,655 --> 00:05:23,615
+we finally have someone
+to compare notes with.
+
+136
+00:05:23,699 --> 00:05:24,950
+There's notes?
+
+137
+00:05:25,034 --> 00:05:26,452
+I've just been winging it.
+
+138
+00:05:26,535 --> 00:05:28,662
+- I'm gonna call her right now.
+- Sounds good.
+
+139
+00:05:30,247 --> 00:05:31,957
+Oh, thank you, Lord,
+for connecting us
+
+140
+00:05:32,041 --> 00:05:34,293
+with the parents
+of another special child.
+
+141
+00:05:37,629 --> 00:05:40,382
+You kids are special, too.
+
+142
+00:05:41,884 --> 00:05:43,469
+Do you feel special?
+
+143
+00:05:43,552 --> 00:05:45,304
+At least
+I'm the only daughter.
+
+144
+00:05:45,387 --> 00:05:46,847
+You got nothing.
+
+145
+00:05:46,930 --> 00:05:48,640
+And she's such a know-it-all.
+
+146
+00:05:48,724 --> 00:05:50,017
+Yeah, you mentioned that.
+
+147
+00:05:50,100 --> 00:05:51,643
+I'm surprised her
+arm wasn't sore
+
+148
+00:05:51,727 --> 00:05:53,062
+from raising her hand so much.
+
+149
+00:05:53,145 --> 00:05:54,396
+Yep, sure.
+
+150
+00:05:54,480 --> 00:05:56,106
+And who goes to college
+with stickers
+
+151
+00:05:56,190 --> 00:05:57,691
+on their notepad?
+
+152
+00:05:57,775 --> 00:05:58,859
+I don't know.
+
+153
+00:05:58,942 --> 00:06:00,903
+Unicorn stickers.
+
+154
+00:06:00,986 --> 00:06:02,654
+And we're home.
+
+155
+00:06:02,738 --> 00:06:04,156
+Hey, Shelly.
+
+156
+00:06:04,239 --> 00:06:05,866
+Guess who's coming
+over tomorrow?
+
+157
+00:06:05,949 --> 00:06:08,369
+Your new friend Paige.
+
+158
+00:06:08,452 --> 00:06:10,412
+Okay, I'm gonna go.
+
+159
+00:06:16,794 --> 00:06:19,755
+Come on, Shelly. Maybe
+you'll end up being friends.
+
+160
+00:06:19,838 --> 00:06:20,964
+I don't like her,
+
+161
+00:06:21,048 --> 00:06:22,609
+I'm not going to like her,
+and Tam is my friend.
+
+162
+00:06:22,633 --> 00:06:23,926
+I don't need another one.
+
+163
+00:06:24,009 --> 00:06:25,928
+You can have more
+than one friend.
+
+164
+00:06:26,011 --> 00:06:28,055
+I'm sure Tam
+has other friends.
+
+165
+00:06:28,138 --> 00:06:29,932
+No, I'm all he's got.
+
+166
+00:06:30,015 --> 00:06:32,434
+And even I avoid him
+half the time.
+
+167
+00:06:32,518 --> 00:06:34,144
+Also, you don't have
+any friends.
+
+168
+00:06:34,228 --> 00:06:35,771
+Why are you so worried about me?
+
+169
+00:06:36,688 --> 00:06:38,357
+I have friends.
+
+170
+00:06:38,440 --> 00:06:40,984
+Then how come the only person
+who ever comes over is Meemaw?
+
+171
+00:06:41,068 --> 00:06:42,277
+Because...
+
+172
+00:06:42,361 --> 00:06:44,071
+Okay, this isn't about me.
+
+173
+00:06:44,154 --> 00:06:47,199
+So Paige didn't make a
+good first impression,
+
+174
+00:06:47,282 --> 00:06:48,492
+but that can change.
+
+175
+00:06:49,743 --> 00:06:51,703
+What's that new <i>Star Trek</i> show?
+
+176
+00:06:51,787 --> 00:06:53,664
+<i>Next Generation?</i>
+
+177
+00:06:53,747 --> 00:06:56,708
+When that first came on,
+you said a new <i>Star Trek</i>
+
+178
+00:06:56,792 --> 00:06:58,669
+without Dr. Spock
+could never be good,
+
+179
+00:06:58,752 --> 00:07:00,963
+but I've seen you watching it.
+
+180
+00:07:01,046 --> 00:07:03,340
+Well, first of all,
+it's Mr. Spock.
+
+181
+00:07:03,424 --> 00:07:05,634
+Dr. Spock writes books
+about babies.
+
+182
+00:07:05,717 --> 00:07:07,219
+My apologies.
+
+183
+00:07:07,302 --> 00:07:09,555
+And second of all,
+Paige isn't a TV show.
+
+184
+00:07:09,638 --> 00:07:12,683
+She's a person, and we all know
+how I feel about people.
+
+185
+00:07:18,981 --> 00:07:20,190
+Okay, look.
+
+186
+00:07:20,691 --> 00:07:21,984
+You're right.
+
+187
+00:07:25,237 --> 00:07:27,865
+I don't have many friends,
+
+188
+00:07:27,948 --> 00:07:31,743
+so I was hoping
+to get to know Paige's mom.
+
+189
+00:07:35,497 --> 00:07:37,624
+But if it makes you
+uncomfortable,
+
+190
+00:07:37,708 --> 00:07:40,335
+then I will call her
+and cancel.
+
+191
+00:07:44,423 --> 00:07:46,800
+I'll think about it.
+
+192
+00:07:47,301 --> 00:07:49,970
+Thank you, baby.
+
+193
+00:07:50,053 --> 00:07:52,264
+<i>Guilt and jealousy
+in the same day.</i>
+
+194
+00:07:52,347 --> 00:07:54,600
+<i>I slept hard that night.</i>
+
+195
+00:07:57,102 --> 00:07:58,228
+Mmm.
+
+196
+00:07:59,021 --> 00:08:02,065
+Did you know that there's a type
+of vanilla flavoring
+
+197
+00:08:02,149 --> 00:08:04,359
+derived from the anal glands
+
+198
+00:08:04,443 --> 00:08:06,236
+of the North American beaver?
+
+199
+00:08:06,320 --> 00:08:08,238
+That seems like a fact
+you could have shared
+
+200
+00:08:08,322 --> 00:08:09,698
+before we started eating.
+
+201
+00:08:09,781 --> 00:08:11,617
+It isn't used very often.
+
+202
+00:08:11,700 --> 00:08:15,579
+I understand it's difficult
+to, uh, milk the little sacs.
+
+203
+00:08:15,662 --> 00:08:18,457
+Cool. Okay, new topic.
+
+204
+00:08:18,540 --> 00:08:20,292
+Let's talk about Sheldon.
+
+205
+00:08:20,375 --> 00:08:22,002
+Wonderful. What about him?
+
+206
+00:08:22,085 --> 00:08:25,881
+He's having kind of a hard time
+with the new girl in your class.
+
+207
+00:08:26,465 --> 00:08:27,758
+Really? Why?
+
+208
+00:08:27,841 --> 00:08:30,552
+He's jealous of the attention
+you're paying her.
+
+209
+00:08:31,178 --> 00:08:33,096
+Well, she's remarkable.
+
+210
+00:08:33,180 --> 00:08:35,140
+You see that? Less of that.
+
+211
+00:08:35,224 --> 00:08:37,184
+But I think
+he's remarkable, too.
+
+212
+00:08:37,267 --> 00:08:39,027
+Perfect. More of that,
+less of the other one.
+
+213
+00:08:39,102 --> 00:08:40,896
+Understood.
+
+214
+00:08:40,979 --> 00:08:43,649
+See, this is why
+we're great together.
+
+215
+00:08:43,732 --> 00:08:46,193
+You teach me
+about social etiquette,
+
+216
+00:08:46,276 --> 00:08:48,737
+and I teach you
+about beaver anuses.
+
+217
+00:08:48,820 --> 00:08:50,739
+It is magical.
+
+218
+00:08:50,822 --> 00:08:54,743
+Did you know "ani"
+is also acceptable
+
+219
+00:08:54,826 --> 00:08:56,411
+as the plural of "anus"?
+
+220
+00:08:56,495 --> 00:08:58,830
+And the magic continues.
+
+221
+00:09:02,960 --> 00:09:04,800
+<i>Must have been most
+difficult for you to share.</i>
+
+222
+00:09:04,836 --> 00:09:06,505
+<i>The thought
+of spending an afternoon</i>
+
+223
+00:09:06,588 --> 00:09:08,549
+<i>with Paige seemed excruciating,</i>
+
+224
+00:09:08,632 --> 00:09:10,676
+<i>but I wanted
+to make my mother happy.</i>
+
+225
+00:09:10,759 --> 00:09:12,302
+<i>I was torn.</i>
+
+226
+00:09:12,386 --> 00:09:14,179
+<i>The release of emotions,
+Mr. Spock,</i>
+
+227
+00:09:14,263 --> 00:09:16,890
+<i>is what keeps us healthy...</i>
+
+228
+00:09:16,974 --> 00:09:18,767
+<i>emotionally healthy, that is.</i>
+
+229
+00:09:18,850 --> 00:09:21,812
+<i>Luckily, the wise
+words of Gene Roddenberry,</i>
+
+230
+00:09:21,895 --> 00:09:23,814
+<i>flatly delivered
+by Leonard Nimoy,</i>
+
+231
+00:09:23,897 --> 00:09:25,440
+<i>resolved my dilemma.</i>
+
+232
+00:09:25,524 --> 00:09:27,401
+<i>That may be, Doctor.</i>
+
+233
+00:09:27,484 --> 00:09:30,028
+<i>However, I have noted</i>
+
+234
+00:09:30,112 --> 00:09:33,782
+<i>that the healthy release
+of emotion</i>
+
+235
+00:09:33,865 --> 00:09:36,326
+<i>is frequently very unhealthy.</i>
+
+236
+00:09:36,410 --> 00:09:39,955
+<i>I realized if Mr. Spock
+could rise above his emotions</i>
+
+237
+00:09:40,038 --> 00:09:42,416
+<i>while the fate of the</i>
+Enterprise <i>hung in the balance,</i>
+
+238
+00:09:42,499 --> 00:09:46,336
+<i>certainly I could tolerate
+Paige for a few hours.</i>
+
+239
+00:09:46,420 --> 00:09:47,963
+I'm not watching this crap.
+
+240
+00:09:48,046 --> 00:09:49,715
+<i>Why do I listen to you?</i>
+
+241
+00:09:50,882 --> 00:09:53,135
+<i>Tony, this is going
+to help you choose a major.</i>
+
+242
+00:09:53,218 --> 00:09:55,470
+<i>This test is designed
+to help you focus.</i>
+
+243
+00:09:55,554 --> 00:09:57,474
+<i>I know, but what if it
+says all I'm good at is...</i>
+
+244
+00:09:57,514 --> 00:09:58,515
+What are you doing?
+
+245
+00:09:58,599 --> 00:10:00,517
+Suppressing my emotions.
+
+246
+00:10:00,601 --> 00:10:02,561
+Oh, yeah? Suppress this.
+
+247
+00:10:05,856 --> 00:10:07,774
+Hot dogs.
+
+248
+00:10:12,195 --> 00:10:15,032
+<i>Vulcans use
+a technique called</i> Kolinahr
+
+249
+00:10:15,115 --> 00:10:16,366
+<i>to suppress their emotions.</i>
+
+250
+00:10:16,450 --> 00:10:17,951
+Sheldon,
+they're here!
+
+251
+00:10:18,035 --> 00:10:19,745
+<i>Obviously, I wasn't a Vulcan.</i>
+
+252
+00:10:19,828 --> 00:10:21,413
+<i>So I did the next best thing:</i>
+
+253
+00:10:21,496 --> 00:10:23,957
+<i>Took my feelings
+and shoved them down so far</i>
+
+254
+00:10:24,041 --> 00:10:25,626
+<i>they may have been lost
+forever.</i>
+
+255
+00:10:25,709 --> 00:10:27,669
+Hi, Sheldon!
+
+256
+00:10:27,753 --> 00:10:29,713
+<i>The release of emotions,
+Mr. Spock,</i>
+
+257
+00:10:29,796 --> 00:10:31,715
+<i>is what keeps us healthy.</i>
+
+258
+00:10:32,341 --> 00:10:34,468
+<i>Dr. McCoy was an idiot.</i>
+
+259
+00:10:38,639 --> 00:10:40,641
+Well, you just have
+a beautiful home.
+
+260
+00:10:40,724 --> 00:10:43,310
+- Thank you.
+- Can I interest anyone
+
+261
+00:10:43,393 --> 00:10:44,811
+in something stronger
+than iced tea?
+
+262
+00:10:44,895 --> 00:10:46,772
+Oh, well, I'll take a beer
+if you have one.
+
+263
+00:10:46,855 --> 00:10:48,607
+Don't worry.
+He's personally keeping
+
+264
+00:10:48,690 --> 00:10:51,109
+the Lone Star Brewing Company
+in business.
+
+265
+00:10:52,235 --> 00:10:53,654
+They did send me a belt buckle.
+
+266
+00:10:53,737 --> 00:10:55,656
+Be right back.
+
+267
+00:10:56,615 --> 00:10:58,867
+So, Barry, uh,
+Linda tells me
+
+268
+00:10:58,950 --> 00:11:00,535
+- you're a dentist?
+- Uh, yes.
+
+269
+00:11:00,619 --> 00:11:01,912
+I have a practice up
+in Jasper.
+
+270
+00:11:01,995 --> 00:11:04,956
+Uh, Paige actually does some
+of the bookkeeping for us.
+
+271
+00:11:05,040 --> 00:11:06,208
+That's so funny.
+
+272
+00:11:06,291 --> 00:11:07,709
+Sheldon does our taxes.
+
+273
+00:11:07,793 --> 00:11:09,795
+- Oh!
+- Yeah, we used to pay her
+
+274
+00:11:09,878 --> 00:11:11,088
+in stickers,
+but this year,
+
+275
+00:11:11,171 --> 00:11:12,651
+she actually started
+asking for money.
+
+276
+00:11:12,714 --> 00:11:14,034
+Well, don't let Sheldon
+hear that.
+
+277
+00:11:14,091 --> 00:11:15,342
+We pay him in binder clips.
+
+278
+00:11:15,425 --> 00:11:17,511
+He loves being organized.
+
+279
+00:11:17,594 --> 00:11:18,595
+Boy, does he.
+
+280
+00:11:18,679 --> 00:11:20,698
+We can't go to the grocery store
+without him making sure
+
+281
+00:11:20,722 --> 00:11:22,724
+that all the labels
+are facing the right way.
+
+282
+00:11:22,808 --> 00:11:26,186
+Oh, the stock boys there
+are always so happy to see him.
+
+283
+00:11:27,312 --> 00:11:28,689
+- That's adorable.
+- Well,
+
+284
+00:11:28,772 --> 00:11:30,774
+it wasn't adorable
+when we redid our shower
+
+285
+00:11:30,857 --> 00:11:33,735
+and he wouldn't use it 'cause
+two of the tiles were crooked.
+
+286
+00:11:33,819 --> 00:11:35,070
+He took baths
+in the sink
+
+287
+00:11:35,153 --> 00:11:36,405
+until we got it fixed.
+
+288
+00:11:38,365 --> 00:11:41,368
+So does Paige do
+any quirky stuff like that?
+
+289
+00:11:43,036 --> 00:11:44,788
+- No.
+- Not really.
+
+290
+00:11:45,372 --> 00:11:46,707
+Oh.
+
+291
+00:11:47,999 --> 00:11:50,252
+Now, since we'll be spending
+a few hours together,
+
+292
+00:11:50,335 --> 00:11:52,713
+I've created a list of
+activities to keep us occupied.
+
+293
+00:11:52,796 --> 00:11:54,156
+We'll start with
+a tour of my room,
+
+294
+00:11:54,214 --> 00:11:56,174
+then board games,
+and if time permits,
+
+295
+00:11:56,258 --> 00:11:58,510
+you can look at
+and not touch my trains.
+
+296
+00:11:58,593 --> 00:12:00,262
+Oh, My Little Pony.
+
+297
+00:12:00,345 --> 00:12:02,222
+I love My Little Pony.
+
+298
+00:12:02,305 --> 00:12:04,474
+That's my sister's,
+and it's not part of the tour.
+
+299
+00:12:04,558 --> 00:12:06,309
+I share a room
+with my sister, too.
+
+300
+00:12:06,393 --> 00:12:07,811
+It's super fun.
+
+301
+00:12:07,894 --> 00:12:08,895
+You're wrong.
+
+302
+00:12:09,646 --> 00:12:12,065
+Now, over here, we have my desk.
+
+303
+00:12:12,149 --> 00:12:14,860
+This is my computer.
+That's my mouse.
+
+304
+00:12:14,943 --> 00:12:17,779
+This is my printer. This is the
+paper that goes in the printer.
+
+305
+00:12:17,863 --> 00:12:19,531
+This is a box of extra paper
+
+306
+00:12:19,614 --> 00:12:21,324
+that also goes
+in the printer.
+
+307
+00:12:21,950 --> 00:12:27,038
+And this is my signed picture
+of Professor Proton.
+
+308
+00:12:27,122 --> 00:12:28,623
+Do you watch his show?
+
+309
+00:12:28,707 --> 00:12:30,667
+No. I don't
+really like it.
+
+310
+00:12:31,460 --> 00:12:32,461
+You don't?
+
+311
+00:12:32,544 --> 00:12:33,670
+I think he's boring.
+
+312
+00:12:34,963 --> 00:12:37,215
+And he dumbs everything down.
+
+313
+00:12:37,299 --> 00:12:40,510
+<i>Come on,</i>
+Kolinahr, <i>don't fail me now.</i>
+
+314
+00:12:40,594 --> 00:12:42,929
+And next on the tour,
+we have...
+
+315
+00:12:43,013 --> 00:12:44,639
+a lamp.
+
+316
+00:12:48,602 --> 00:12:50,604
+This is not
+making me feel better.
+
+317
+00:12:50,687 --> 00:12:51,855
+Their kid is perfect.
+
+318
+00:12:51,938 --> 00:12:53,231
+And so is ours.
+
+319
+00:12:53,315 --> 00:12:55,734
+So we're lying to
+each other. Fine.
+
+320
+00:12:56,234 --> 00:12:58,028
+It's just nice to get to know
+another family
+
+321
+00:12:58,111 --> 00:13:00,447
+who's in a similar situation
+as us.
+
+322
+00:13:00,530 --> 00:13:02,574
+And we're still lying.
+
+323
+00:13:06,745 --> 00:13:08,038
+What grade
+are you in?
+
+324
+00:13:08,121 --> 00:13:09,790
+Eighth.
+
+325
+00:13:10,457 --> 00:13:11,541
+You?
+
+326
+00:13:11,625 --> 00:13:12,918
+Tenth.
+
+327
+00:13:13,001 --> 00:13:14,002
+Cool.
+
+328
+00:13:15,253 --> 00:13:17,088
+Nobody asked, but fourth.
+
+329
+00:13:19,549 --> 00:13:21,301
+Why do grownups do this?
+
+330
+00:13:21,384 --> 00:13:23,386
+They love to stick random kids
+together
+
+331
+00:13:23,470 --> 00:13:25,263
+and expect them
+to just be friends.
+
+332
+00:13:25,347 --> 00:13:27,474
+I know. I hate that.
+
+333
+00:13:27,557 --> 00:13:28,725
+Fresh Prince is right.
+
+334
+00:13:28,809 --> 00:13:30,435
+Parents just don't understand.
+
+335
+00:13:30,519 --> 00:13:32,270
+I love that song.
+
+336
+00:13:32,354 --> 00:13:33,522
+I have a
+cassette of it,
+
+337
+00:13:33,605 --> 00:13:35,857
+but I recorded it off the radio.
+
+338
+00:13:35,941 --> 00:13:37,335
+You can hear Sheldon
+in the background
+
+339
+00:13:37,359 --> 00:13:40,320
+saying stuff
+about Sir Isaac Neutron.
+
+340
+00:13:40,403 --> 00:13:43,323
+Ugh, my sister's
+always talking about him.
+
+341
+00:13:43,865 --> 00:13:45,158
+I don't know why.
+
+342
+00:13:45,242 --> 00:13:46,576
+I think he's dead.
+
+343
+00:13:47,118 --> 00:13:48,912
+You have no idea
+how much it sucks
+
+344
+00:13:48,995 --> 00:13:50,455
+to have a brother
+like him.
+
+345
+00:13:50,539 --> 00:13:52,541
+Believe it or not,
+he's in my class.
+
+346
+00:13:52,624 --> 00:13:55,669
+My parents sent Paige
+to a private school.
+
+347
+00:13:55,752 --> 00:13:58,338
+Cool. We're too
+poor for that.
+
+348
+00:14:03,260 --> 00:14:06,596
+Does Sheldon
+make you feel stupid?
+
+349
+00:14:06,680 --> 00:14:08,640
+Nah, I'm smart in other ways.
+
+350
+00:14:08,723 --> 00:14:10,225
+Me, too.
+
+351
+00:14:10,308 --> 00:14:11,935
+Hey, I saw an old TV
+in the alley.
+
+352
+00:14:12,018 --> 00:14:13,270
+Want to go throw rocks at it?
+
+353
+00:14:13,353 --> 00:14:14,311
+- Cool!
+- Hell yeah!
+
+354
+00:14:14,312 --> 00:14:15,564
+Let's do it.
+
+355
+00:14:17,148 --> 00:14:19,025
+We could play traditional chess.
+
+356
+00:14:19,109 --> 00:14:21,069
+Or if you're interested,
+we could play a variant
+
+357
+00:14:21,152 --> 00:14:22,612
+with a new piece I invented.
+
+358
+00:14:22,696 --> 00:14:24,197
+That sounds fun.
+
+359
+00:14:24,281 --> 00:14:25,866
+What's the new piece?
+
+360
+00:14:25,949 --> 00:14:27,033
+A wizard.
+
+361
+00:14:27,117 --> 00:14:28,952
+The wizard cannot be taken,
+and at any point,
+
+362
+00:14:29,035 --> 00:14:32,455
+he can teleport and switch
+places with any other piece.
+
+363
+00:14:32,539 --> 00:14:34,708
+Yes, but there's
+an obvious flaw.
+
+364
+00:14:34,791 --> 00:14:37,711
+- What flaw?
+- Well, any time anyone is checkmated,
+
+365
+00:14:37,794 --> 00:14:40,147
+they can simply have the wizard
+and their king switch places.
+
+366
+00:14:40,171 --> 00:14:42,257
+So the game will never end.
+
+367
+00:14:43,008 --> 00:14:45,218
+I knew that.
+You passed my test.
+
+368
+00:14:46,761 --> 00:14:48,221
+We told Paige
+that if she won
+
+369
+00:14:48,305 --> 00:14:49,949
+the regional spelling bee,
+she could get a puppy.
+
+370
+00:14:49,973 --> 00:14:51,308
+We ended up with two,
+
+371
+00:14:51,391 --> 00:14:53,351
+'cause she won twice.
+
+372
+00:14:53,435 --> 00:14:55,270
+Fun! That... that's fun.
+
+373
+00:14:56,688 --> 00:14:58,815
+All right,
+that's enough about Paige.
+
+374
+00:14:58,899 --> 00:15:02,110
+So, George, I know you're
+a football coach.
+
+375
+00:15:02,193 --> 00:15:03,403
+What about you, Mary?
+
+376
+00:15:03,486 --> 00:15:05,447
+I work part-time at the church.
+
+377
+00:15:05,530 --> 00:15:07,073
+- Oh.
+- Oh, that's so nice.
+
+378
+00:15:07,157 --> 00:15:08,467
+I used to work at the
+practice with Barry,
+
+379
+00:15:08,491 --> 00:15:10,243
+but I had to quit
+once Paige's schedule
+
+380
+00:15:10,327 --> 00:15:11,453
+- started to get busy.
+- Mm.
+
+381
+00:15:11,536 --> 00:15:12,996
+Well, that's understandable.
+
+382
+00:15:13,079 --> 00:15:15,999
+A unique child
+can require a lot of attention.
+
+383
+00:15:17,417 --> 00:15:19,169
+Mm. Try all
+the attention. Hmm?
+
+384
+00:15:19,252 --> 00:15:21,922
+- Okay. You know that's not true, Barry.
+- Well...
+
+385
+00:15:22,005 --> 00:15:23,423
+She's...
+
+386
+00:15:23,506 --> 00:15:24,841
+she's right. It's not.
+
+387
+00:15:24,925 --> 00:15:26,676
+Although I did spend
+Father's Day alone
+
+388
+00:15:26,760 --> 00:15:28,803
+'cause she took Paige
+to a robotics show.
+
+389
+00:15:28,887 --> 00:15:30,889
+Okay. That's
+enough, Barry.
+
+390
+00:15:30,972 --> 00:15:32,474
+They don't need
+to hear all this.
+
+391
+00:15:32,557 --> 00:15:33,558
+<i>That's okay.</i>
+
+392
+00:15:33,642 --> 00:15:35,393
+That's why
+we're getting together,
+
+393
+00:15:35,477 --> 00:15:37,896
+you know, talk about
+this kind of stuff.
+
+394
+00:15:37,979 --> 00:15:40,732
+Barry, it sounds like
+you might be feeling left out.
+
+395
+00:15:40,815 --> 00:15:42,192
+Oh.
+No.
+
+396
+00:15:43,401 --> 00:15:44,778
+Sometimes I do.
+
+397
+00:15:44,861 --> 00:15:46,738
+And it's not just me.
+It's Erica, too.
+
+398
+00:15:46,821 --> 00:15:49,282
+Oh, now he's just
+being dramatic.
+
+399
+00:15:49,366 --> 00:15:50,700
+Erica gets a lot
+of attention,
+
+400
+00:15:50,784 --> 00:15:52,827
+and she's just a joy.
+
+401
+00:15:54,788 --> 00:15:56,915
+Dang it, the
+screen won't break.
+
+402
+00:15:56,998 --> 00:15:59,459
+Bet it'll break
+if we blow it up.
+
+403
+00:16:04,422 --> 00:16:06,383
+I love her.
+
+404
+00:16:06,466 --> 00:16:07,676
+Fine, you're right.
+
+405
+00:16:07,759 --> 00:16:08,927
+Erica's doing just great.
+
+406
+00:16:09,010 --> 00:16:11,054
+Nothing to worry about there.
+
+407
+00:16:14,265 --> 00:16:16,226
+Oh, come on.
+
+408
+00:16:18,186 --> 00:16:19,729
+You got any matches?
+
+409
+00:16:19,813 --> 00:16:21,106
+Be right back.
+
+410
+00:16:26,444 --> 00:16:29,072
+While she's gone,
+you want to make out?
+
+411
+00:16:29,155 --> 00:16:30,657
+Sure.
+
+412
+00:16:31,449 --> 00:16:33,743
+You actually believe
+in the multiverse theory?
+
+413
+00:16:33,827 --> 00:16:34,995
+Very much so.
+
+414
+00:16:35,078 --> 00:16:36,579
+It's the most elegant
+interpretation
+
+415
+00:16:36,663 --> 00:16:38,456
+of quantum mechanics.
+
+416
+00:16:38,540 --> 00:16:41,960
+So you really think there are
+an infinite number of universes?
+
+417
+00:16:42,043 --> 00:16:44,879
+Stephen Hawking believes it,
+so, yes, I do.
+
+418
+00:16:44,963 --> 00:16:48,591
+Well, if there are
+an infinite number of universes,
+
+419
+00:16:48,675 --> 00:16:50,802
+I think that theory's dumb
+in all of them.
+
+420
+00:16:53,304 --> 00:16:54,681
+This is fun.
+
+421
+00:16:54,764 --> 00:16:56,200
+I don't get to have
+discussions like this
+
+422
+00:16:56,224 --> 00:16:57,767
+with kids at my school.
+
+423
+00:16:57,851 --> 00:16:58,852
+Do you?
+
+424
+00:16:59,894 --> 00:17:01,479
+No.
+
+425
+00:17:08,862 --> 00:17:11,531
+Do you ever wish you were
+just like everyone else?
+
+426
+00:17:13,033 --> 00:17:14,451
+Not at all.
+
+427
+00:17:14,534 --> 00:17:15,744
+Me neither.
+
+428
+00:17:15,827 --> 00:17:18,079
+I love being smarter
+than everyone.
+
+429
+00:17:18,621 --> 00:17:19,873
+Me, too.
+
+430
+00:17:19,956 --> 00:17:21,750
+<i>I started
+to think that Paige and I</i>
+
+431
+00:17:21,833 --> 00:17:24,085
+<i>might have more in common
+than I thought.</i>
+
+432
+00:17:24,169 --> 00:17:25,253
+<i>Maybe my mother was right.</i>
+
+433
+00:17:25,879 --> 00:17:28,965
+<i>I really did just need
+to get to know her better.</i>
+
+434
+00:17:30,008 --> 00:17:31,342
+Checkmate!
+
+435
+00:17:31,426 --> 00:17:32,719
+You lose.
+
+436
+00:17:32,802 --> 00:17:34,429
+<i>Red alert.</i>
+
+437
+00:17:34,512 --> 00:17:36,514
+<i>Phasers stand by to fire
+on my order.</i>
+
+438
+00:17:36,598 --> 00:17:39,642
+Guess that makes
+me the smartest.
+
+439
+00:17:39,726 --> 00:17:41,102
+<i>I don't know
+if ten-year-old Spock</i>
+
+440
+00:17:41,186 --> 00:17:42,771
+<i>ever flipped a chess board,</i>
+
+441
+00:17:42,854 --> 00:17:45,356
+<i>but ten-year-old Sheldon
+sure did.</i>
+
+442
+00:17:49,736 --> 00:17:51,738
+<i>You know Paige
+always comes first...</i>
+
+443
+00:17:51,821 --> 00:17:54,324
+Got to say, I'm glad
+we invited 'em over.
+
+444
+00:17:54,407 --> 00:17:56,701
+Don't you get him another beer.
+
+445
+00:17:56,785 --> 00:17:58,661
+Come on. You love this
+and you know it.
+
+446
+00:17:58,745 --> 00:18:01,915
+They're as messed up as we are.
+
+447
+00:18:01,998 --> 00:18:03,833
+Fine. But one more
+and that's it.
+
+448
+00:18:05,543 --> 00:18:07,087
+<i>- Whoa!
+- Yes!</i>
+
+449
+00:18:07,170 --> 00:18:09,380
+<i>Holy crap!</i>
+
+450
+00:18:09,464 --> 00:18:12,884
+Don't you...
+Go out there and check!
+
+451
+00:18:15,261 --> 00:18:18,640
+Now, does anyone know
+what happens to quarks
+
+452
+00:18:18,723 --> 00:18:22,018
+when we combine them
+to make mesons and baryons?
+
+453
+00:18:23,937 --> 00:18:24,979
+Yes, Paige.
+
+454
+00:18:25,063 --> 00:18:26,689
+We can ignore
+the particle masses
+
+455
+00:18:26,773 --> 00:18:28,608
+at the individual quark level.
+
+456
+00:18:28,691 --> 00:18:30,401
+Correct.
+
+457
+00:18:30,485 --> 00:18:32,695
+You are really...
+
+458
+00:18:34,155 --> 00:18:36,991
+He's jealous of you
+paying attention to her.
+
+459
+00:18:38,743 --> 00:18:40,453
+That was correct, Paige.
+
+460
+00:18:41,246 --> 00:18:42,997
+And, Sheldon,
+
+461
+00:18:43,081 --> 00:18:45,291
+is that a new bow tie?
+
+462
+00:18:46,459 --> 00:18:47,460
+It is.
+
+463
+00:18:47,544 --> 00:18:49,045
+Lookin' sharp!
+
+464
+00:18:49,587 --> 00:18:51,005
+Thanks.
+
+465
+00:18:51,089 --> 00:18:52,757
+That was a close one.
+
+466
+00:18:52,841 --> 00:18:54,717
+As I was saying,
+the only...
