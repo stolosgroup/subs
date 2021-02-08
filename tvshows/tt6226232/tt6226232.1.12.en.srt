@@ -1,0 +1,2081 @@
+﻿1
+00:00:04,420 --> 00:00:07,660
+♪ I program my home computer
+
+2
+00:00:08,830 --> 00:00:10,630
+♪ Beam myself into the future.
+
+3
+00:00:10,660 --> 00:00:13,800
+Power has
+always been a deadly narcotic,
+
+4
+00:00:13,830 --> 00:00:15,830
+and in 1989,
+
+5
+00:00:15,870 --> 00:00:18,800
+RadioShack's TANDY 1000 SL
+
+6
+00:00:18,840 --> 00:00:21,670
+was my drug of choice.
+
+7
+00:00:21,710 --> 00:00:24,310
+With an Intel 8086
+
+8
+00:00:24,340 --> 00:00:25,510
+running at eight megahertz
+
+9
+00:00:25,540 --> 00:00:27,680
+and a five-and-a-quarter-inch
+floppy drive,
+
+10
+00:00:27,710 --> 00:00:29,550
+there was nothing
+
+11
+00:00:29,580 --> 00:00:30,310
+I couldn't do.
+
+12
+00:00:30,350 --> 00:00:32,220
+From adding snazzy graphics
+
+13
+00:00:32,250 --> 00:00:34,280
+to my homework...
+
+14
+00:00:34,320 --> 00:00:36,120
+So snazzy.
+
+15
+00:00:36,150 --> 00:00:37,550
+...to easily alphabetizing
+
+16
+00:00:37,590 --> 00:00:40,590
+my list of enemies
+and their crimes.
+
+17
+00:00:42,590 --> 00:00:44,690
+So easy.
+
+18
+00:00:44,730 --> 00:00:47,260
+Sheldon, time to go.
+
+19
+00:00:47,300 --> 00:00:49,170
+We really need
+to get one of these.
+
+20
+00:00:49,200 --> 00:00:51,240
+What on earth do we need
+a computer for?
+
+21
+00:00:51,270 --> 00:00:53,170
+Yeah, we got you
+and your big head.
+
+22
+00:00:53,200 --> 00:00:54,240
+But we can get
+
+23
+00:00:54,270 --> 00:00:55,410
+so much accomplished.
+
+24
+00:00:55,440 --> 00:00:56,810
+I could use
+a spreadsheet program
+
+25
+00:00:56,840 --> 00:00:58,440
+to keep track of your expenses.
+
+26
+00:00:58,480 --> 00:01:00,440
+I do that in the back
+of my checkbook.
+
+27
+00:01:00,480 --> 00:01:03,210
+Yes, but does your checkbook
+go "beep" when you open it?
+
+28
+00:01:03,250 --> 00:01:04,610
+I don't think so.
+
+29
+00:01:04,650 --> 00:01:06,180
+Plus, the computer
+
+30
+00:01:06,220 --> 00:01:07,580
+can organize your recipes.
+
+31
+00:01:07,620 --> 00:01:09,620
+But my recipes are organized.
+
+32
+00:01:09,650 --> 00:01:10,850
+On index cards.
+
+33
+00:01:10,890 --> 00:01:12,390
+Like a cave person.
+
+34
+00:01:12,420 --> 00:01:14,460
+Cave Mom.
+I'm gonna call you that.
+
+35
+00:01:14,490 --> 00:01:16,290
+It doesn't matter, Sheldon.
+
+36
+00:01:16,330 --> 00:01:17,790
+We can't afford a computer.
+
+37
+00:01:17,830 --> 00:01:20,330
+Sure we can. It's only $998,
+
+38
+00:01:20,360 --> 00:01:22,730
+and Dave says we can buy it
+on easy monthly payments.
+
+39
+00:01:22,770 --> 00:01:23,870
+That's true.
+
+40
+00:01:23,900 --> 00:01:24,900
+Stay out of this, Dave.
+
+41
+00:01:24,930 --> 00:01:26,270
+Come on.
+
+42
+00:01:26,300 --> 00:01:27,600
+We got to get home.
+
+43
+00:01:27,640 --> 00:01:28,370
+But...
+
+44
+00:01:28,410 --> 00:01:29,740
+Sheldon, I said no.
+
+45
+00:01:29,770 --> 00:01:30,740
+I can make you a good deal
+
+46
+00:01:30,770 --> 00:01:31,740
+on the floor model,
+
+47
+00:01:31,780 --> 00:01:32,710
+Mrs. Cooper.
+
+48
+00:01:32,740 --> 00:01:34,640
+Seriously, Dave,
+you're getting on my nerves.
+
+49
+00:01:35,780 --> 00:01:36,750
+It's not fair.
+
+50
+00:01:36,780 --> 00:01:38,380
+You bought Missy a Ring Pop.
+
+51
+00:01:38,420 --> 00:01:39,580
+For ten cents.
+
+52
+00:01:39,620 --> 00:01:42,220
+- And I'm worth every penny.
+- Let's go.
+
+53
+00:01:42,250 --> 00:01:43,290
+Sorry, Dave.
+
+54
+00:01:43,320 --> 00:01:45,220
+We're living
+paycheck to paycheck.
+
+55
+00:01:45,260 --> 00:01:46,460
+Move!
+
+56
+00:01:50,330 --> 00:01:53,230
+♪ Nobody else
+is stronger than I am ♪
+
+57
+00:01:53,260 --> 00:01:55,930
+♪ Yesterday I moved a mountain
+
+58
+00:01:55,970 --> 00:01:58,500
+♪ I bet I could be your hero
+
+59
+00:01:58,540 --> 00:02:00,740
+♪ I am a mighty little man
+
+60
+00:02:00,770 --> 00:02:05,380
+♪ I am a mighty little man. ♪
+
+61
+00:02:09,380 --> 00:02:11,650
+- Ah, RadioShack.
+- Ah, RadioShack.
+
+62
+00:02:11,680 --> 00:02:13,750
+Here it is, the TANDY 1000 SL
+computer system.
+
+63
+00:02:13,780 --> 00:02:17,420
+Sheldon was going on and on
+about that thing today.
+
+64
+00:02:17,450 --> 00:02:18,690
+I've never seen one
+so easy to use.
+
+65
+00:02:18,720 --> 00:02:21,390
+Greetings. Need
+directions back to your planet?
+
+66
+00:02:21,430 --> 00:02:23,330
+This technology is more advanced
+than we thought.
+
+67
+00:02:23,360 --> 00:02:24,260
+You know that movie E.T.?
+
+68
+00:02:24,290 --> 00:02:26,700
+The kid who finds him,
+his name is Elliott,
+
+69
+00:02:26,730 --> 00:02:28,970
+which starts with an "E"
+and ends with a "T."
+
+70
+00:02:29,000 --> 00:02:30,730
+Coincidence?
+
+71
+00:02:30,770 --> 00:02:31,770
+I don't think so.
+
+72
+00:02:31,800 --> 00:02:34,540
+You're gonna live
+with us forever, aren't you?
+
+73
+00:02:34,570 --> 00:02:37,340
+So, Sheldon wants
+a computer?
+
+74
+00:02:37,370 --> 00:02:38,540
+Ever since he could talk.
+
+75
+00:02:38,580 --> 00:02:39,480
+But now more than ever.
+
+76
+00:02:39,510 --> 00:02:41,480
+Well, he should get a job
+after school.
+
+77
+00:02:41,510 --> 00:02:42,550
+Save up and buy one.
+
+78
+00:02:42,580 --> 00:02:44,480
+Get a job? He's nine.
+
+79
+00:02:44,510 --> 00:02:45,820
+I mowed lawns
+when I was his age.
+
+80
+00:02:45,850 --> 00:02:46,950
+Made pretty good money.
+
+81
+00:02:46,980 --> 00:02:48,720
+You want Sheldon to mow lawns?
+
+82
+00:02:48,750 --> 00:02:50,890
+He's so pale,
+five minutes in the sun,
+
+83
+00:02:50,920 --> 00:02:52,290
+he'd burst into flames.
+
+84
+00:02:52,320 --> 00:02:54,220
+I would pay to see that.
+
+85
+00:02:54,260 --> 00:02:55,230
+Shut up, Georgie.
+
+86
+00:02:55,260 --> 00:02:56,290
+I hope you told him
+
+87
+00:02:56,330 --> 00:02:57,430
+we can't afford it.
+
+88
+00:02:57,460 --> 00:02:59,230
+Of course.
+
+89
+00:02:59,260 --> 00:03:00,230
+I could buy it for him,
+
+90
+00:03:00,260 --> 00:03:03,400
+and then y'all could pay
+me back when you can.
+
+91
+00:03:03,430 --> 00:03:05,370
+Okay, Connie, now you're
+just insulting me.
+
+92
+00:03:05,400 --> 00:03:07,270
+Well, that was not my intention,
+
+93
+00:03:07,300 --> 00:03:08,840
+but I'm glad to hear it.
+
+94
+00:03:08,870 --> 00:03:09,970
+I can pay my own bills
+
+95
+00:03:10,010 --> 00:03:11,580
+and take care of my family.
+
+96
+00:03:11,610 --> 00:03:13,980
+There are expenses
+we could cut back on
+
+97
+00:03:14,010 --> 00:03:15,580
+so we could afford a computer.
+
+98
+00:03:15,610 --> 00:03:17,380
+You mean like the money
+you give to church?
+
+99
+00:03:17,410 --> 00:03:19,520
+No, I mean like
+the money you give
+
+100
+00:03:19,550 --> 00:03:21,450
+to the Lone Star Beer company.
+
+101
+00:03:21,490 --> 00:03:22,590
+Good one, Mom.
+
+102
+00:03:22,620 --> 00:03:23,720
+- Shut up.
+- Shut up, pumpkin. Shut up.
+
+103
+00:03:23,750 --> 00:03:24,990
+We're not getting a computer.
+
+104
+00:03:25,020 --> 00:03:26,990
+We don't need your money.
+
+105
+00:03:27,020 --> 00:03:28,990
+Where are you going?
+
+106
+00:03:29,030 --> 00:03:32,000
+To get a... glass of milk.
+
+107
+00:03:32,030 --> 00:03:33,530
+He's lying. He's getting a beer.
+
+108
+00:03:33,560 --> 00:03:34,930
+Shut up, Georgie.
+
+109
+00:03:41,640 --> 00:03:43,840
+Mom?
+
+110
+00:03:43,870 --> 00:03:46,410
+Why are you still up?
+
+111
+00:03:46,440 --> 00:03:49,410
+Madame Curie is on the roof,
+
+112
+00:03:49,450 --> 00:03:52,550
+and she's not wearing her hat.
+
+113
+00:03:52,580 --> 00:03:53,820
+You're just dreaming, baby.
+
+114
+00:03:53,850 --> 00:03:57,520
+But she'll be cold
+without her hat.
+
+115
+00:03:57,550 --> 00:03:59,790
+I'll give her mine.
+Now you go to sleep.
+
+116
+00:03:59,820 --> 00:04:01,290
+Mm, thanks, Mom.
+
+117
+00:04:01,330 --> 00:04:02,930
+You're the best.
+
+118
+00:04:05,760 --> 00:04:07,400
+Oh, Lord.
+
+119
+00:04:09,000 --> 00:04:15,074
+OpenSubtitles recommends using Nord VPN
+from 3.49 USD/month ----> osdb.link/vpn
+
+120
+00:04:21,010 --> 00:04:24,310
+I'm guessing we're not having
+our once-a-week.
+
+121
+00:04:24,350 --> 00:04:28,080
+Sorry, I only have relations
+with gentlemen I like.
+
+122
+00:04:28,120 --> 00:04:30,990
+Oh, come on. You know how I feel
+
+123
+00:04:31,020 --> 00:04:33,020
+about your mother meddlin'
+in our finances.
+
+124
+00:04:33,060 --> 00:04:35,690
+She wasn't meddlin',
+she was offering to help.
+
+125
+00:04:35,730 --> 00:04:37,760
+And that computer
+is not some silly toy.
+
+126
+00:04:37,790 --> 00:04:39,760
+Sheldon could use it
+for his schoolwork,
+
+127
+00:04:39,800 --> 00:04:42,800
+and I could use it to...
+organize my recipes.
+
+128
+00:04:42,830 --> 00:04:44,930
+You already got 'em organized
+on those little cards.
+
+129
+00:04:44,970 --> 00:04:46,400
+Yeah, like a cave person.
+
+130
+00:04:46,440 --> 00:04:47,940
+Well, it doesn't matter.
+
+131
+00:04:47,970 --> 00:04:50,470
+We can't afford it,
+end of story.
+
+132
+00:04:50,510 --> 00:04:52,940
+Not exactly end of story.
+
+133
+00:04:52,980 --> 00:04:54,140
+What's that mean?
+
+134
+00:04:54,180 --> 00:04:56,480
+I've been setting money aside
+the last couple of years,
+
+135
+00:04:56,510 --> 00:04:58,080
+and this might be a good use
+for it.
+
+136
+00:04:58,110 --> 00:05:00,520
+Money from what?
+
+137
+00:05:00,550 --> 00:05:02,120
+You know, here and there.
+
+138
+00:05:02,150 --> 00:05:04,050
+Bookkeeping for the church,
+
+139
+00:05:04,090 --> 00:05:05,960
+some seamstress work,
+
+140
+00:05:05,990 --> 00:05:07,990
+birthday money
+from my Aunt Zelda.
+
+141
+00:05:08,020 --> 00:05:10,090
+And just how much
+of this "here and there" money
+
+142
+00:05:10,130 --> 00:05:11,500
+you got saved up?
+
+143
+00:05:11,530 --> 00:05:13,030
+Well, seeing as it's my money,
+
+144
+00:05:13,060 --> 00:05:14,830
+I don't think
+that's any of your business.
+
+145
+00:05:14,860 --> 00:05:16,530
+None of my business?
+
+146
+00:05:16,570 --> 00:05:17,700
+You see every nickel
+
+147
+00:05:17,730 --> 00:05:19,640
+I make,
+and you got secret money?
+
+148
+00:05:19,670 --> 00:05:21,540
+It's not secret.
+I just told you.
+
+149
+00:05:21,570 --> 00:05:23,140
+Where you hiding it?
+
+150
+00:05:23,170 --> 00:05:26,110
+Well, now you're headed
+into secret territory.
+
+151
+00:05:26,140 --> 00:05:27,980
+Oh, okay.
+
+152
+00:05:28,010 --> 00:05:30,580
+Just so I'm clear,
+my money's our money,
+
+153
+00:05:30,610 --> 00:05:32,050
+but your money's your money.
+
+154
+00:05:32,080 --> 00:05:32,980
+That's right.
+
+155
+00:05:33,020 --> 00:05:35,850
+Oh, good to know.
+
+156
+00:05:35,890 --> 00:05:38,090
+I'm glad we're not having
+our once-a-week
+
+157
+00:05:38,120 --> 00:05:40,790
+'cause I am not in the mood.
+
+158
+00:05:41,860 --> 00:05:43,090
+Really?
+
+159
+00:05:43,130 --> 00:05:44,890
+That's too bad.
+
+160
+00:05:44,930 --> 00:05:46,860
+Why
+
+161
+00:05:46,900 --> 00:05:48,000
+No!
+
+162
+00:05:50,030 --> 00:05:52,470
+That was uncalled for.
+
+163
+00:05:56,910 --> 00:06:00,010
+♪ Love can make you weep...
+
+164
+00:06:00,040 --> 00:06:02,910
+I forgot to tell you,
+a girl called for you.
+
+165
+00:06:02,950 --> 00:06:03,710
+What girl?
+
+166
+00:06:03,750 --> 00:06:05,580
+I don't know. A girl.
+
+167
+00:06:05,620 --> 00:06:06,820
+Well, what'd she say?
+
+168
+00:06:06,850 --> 00:06:09,020
+It's hard to remember.
+This was months ago.
+
+169
+00:06:10,520 --> 00:06:12,420
+Hey.
+
+170
+00:06:12,460 --> 00:06:13,820
+Two cases?
+
+171
+00:06:13,860 --> 00:06:15,460
+You've got to be kidding me.
+
+172
+00:06:15,490 --> 00:06:17,030
+Don't worry,
+I didn't use your money.
+
+173
+00:06:17,060 --> 00:06:18,900
+I used mine.
+
+174
+00:06:21,700 --> 00:06:22,670
+♪ Something so strong...
+
+175
+00:06:22,700 --> 00:06:23,700
+Finish your dinner
+
+176
+00:06:23,730 --> 00:06:25,030
+and then pack a bag.
+
+177
+00:06:25,070 --> 00:06:26,470
+We are going to Meemaw's.
+
+178
+00:06:26,500 --> 00:06:27,970
+Why?
+
+179
+00:06:28,000 --> 00:06:30,840
+Because your mom and dad
+need a break from each other.
+
+180
+00:06:30,870 --> 00:06:32,110
+For how long?
+
+181
+00:06:32,140 --> 00:06:34,110
+I don't know. Just pack.
+
+182
+00:06:34,140 --> 00:06:35,950
+Will I need earmuffs?
+
+183
+00:06:35,980 --> 00:06:37,010
+Sure, if you want.
+
+184
+00:06:37,050 --> 00:06:40,580
+Although my almanac
+does predict mild temperatures.
+
+185
+00:06:40,620 --> 00:06:41,620
+Then don't bring it.
+
+186
+00:06:41,650 --> 00:06:43,650
+I'll just bring my almanac.
+
+187
+00:06:43,690 --> 00:06:45,050
+You know what, I'll bring both.
+
+188
+00:06:46,720 --> 00:06:47,960
+Should I pack my toothbrush
+
+189
+00:06:47,990 --> 00:06:50,530
+or use the one
+I keep at Meemaw's?
+
+190
+00:06:50,560 --> 00:06:51,900
+I got this one.
+
+191
+00:06:51,930 --> 00:06:53,700
+Nobody cares.
+
+192
+00:06:54,730 --> 00:06:55,800
+I don't want
+to go to Meemaw's house.
+
+193
+00:06:55,830 --> 00:06:57,500
+What if that girl calls back?
+
+194
+00:06:57,530 --> 00:06:58,640
+Fine, then stay here
+with your father.
+
+195
+00:06:58,670 --> 00:07:01,640
+Sheldon and Missy, we are out
+of here in half an hour.
+
+196
+00:07:03,070 --> 00:07:06,640
+Not a lot of time
+to pick a toothbrush.
+
+197
+00:07:18,020 --> 00:07:19,090
+Come on in.
+
+198
+00:07:19,120 --> 00:07:21,020
+Mom and Dad need a break.
+
+199
+00:07:21,060 --> 00:07:22,660
+We don't know how long.
+
+200
+00:07:24,590 --> 00:07:25,960
+What's he got in there?
+
+201
+00:07:26,000 --> 00:07:27,460
+Everything.
+
+202
+00:07:31,200 --> 00:07:34,670
+First and ten in the closing
+minutes of the fourth quarter...
+
+203
+00:07:34,700 --> 00:07:37,240
+I ain't never
+getting married.
+
+204
+00:07:37,270 --> 00:07:39,080
+- That so?
+- Yeah.
+
+205
+00:07:39,110 --> 00:07:41,950
+Women are nothing but trouble.
+
+206
+00:07:41,980 --> 00:07:43,580
+I'll get it!
+
+207
+00:07:44,280 --> 00:07:46,980
+Hello, Georgie speaking.
+
+208
+00:07:47,020 --> 00:07:49,690
+Did you run to the phone?
+Do you feel stupid?
+
+209
+00:07:51,250 --> 00:07:53,560
+Who was it?
+
+210
+00:07:53,590 --> 00:07:55,220
+Nobody.
+
+211
+00:07:55,260 --> 00:07:56,860
+This little tiff
+
+212
+00:07:56,890 --> 00:07:58,560
+between your mom and me
+will blow over.
+
+213
+00:07:58,600 --> 00:08:00,030
+Don't make a big deal of it.
+
+214
+00:08:00,060 --> 00:08:00,930
+I'm not. I'm just saying
+
+215
+00:08:00,960 --> 00:08:02,870
+I'm better suited
+to the single life.
+
+216
+00:08:02,900 --> 00:08:04,800
+And how do you picture that?
+
+217
+00:08:04,830 --> 00:08:06,870
+Okay, well, you know the buffet
+at Golden Corral,
+
+218
+00:08:06,900 --> 00:08:08,000
+where there's all kinds
+of choices
+
+219
+00:08:08,040 --> 00:08:09,940
+and you can have
+as much as you want?
+
+220
+00:08:09,970 --> 00:08:10,870
+Yeah.
+
+221
+00:08:10,910 --> 00:08:14,180
+It'll be like that,
+only with hot girls.
+
+222
+00:08:14,210 --> 00:08:16,210
+Georgie, I'll bet you
+a thousand dollars
+
+223
+00:08:16,250 --> 00:08:18,150
+you're married before you're 25.
+
+224
+00:08:18,180 --> 00:08:20,280
+You got a bet.
+
+225
+00:08:20,320 --> 00:08:21,720
+I feel like
+
+226
+00:08:21,750 --> 00:08:24,150
+I'm stealing your money.
+
+227
+00:08:24,190 --> 00:08:28,260
+Georgie married
+his first wife at 19.
+
+228
+00:08:28,290 --> 00:08:31,630
+He never paid my father.
+
+229
+00:08:31,660 --> 00:08:34,900
+Well, I got to tell you
+how happy I am
+
+230
+00:08:34,930 --> 00:08:37,770
+that y'all are spending
+the night with me.
+
+231
+00:08:37,800 --> 00:08:40,070
+Your house smells
+like cigarettes.
+
+232
+00:08:40,100 --> 00:08:40,870
+So happy.
+
+233
+00:08:40,900 --> 00:08:43,070
+Sheldon, we've
+talked about this.
+
+234
+00:08:43,110 --> 00:08:45,070
+You don't need to announce
+to people how things smell.
+
+235
+00:08:45,110 --> 00:08:46,240
+Hmm.
+
+236
+00:08:46,280 --> 00:08:47,710
+All right, you two, settle in.
+
+237
+00:08:47,740 --> 00:08:50,080
+Are you and Dad
+gonna get a divorce?
+
+238
+00:08:50,110 --> 00:08:51,620
+Of course not.
+
+239
+00:08:51,650 --> 00:08:53,120
+Are you sure?
+Packing up your kids
+
+240
+00:08:53,150 --> 00:08:55,080
+in the middle of the night
+and moving in with your mom
+
+241
+00:08:55,120 --> 00:08:57,620
+has all the earmarks
+of a divorce.
+
+242
+00:08:57,650 --> 00:08:59,320
+We're not getting a divorce.
+
+243
+00:08:59,360 --> 00:09:01,060
+Okay, go to sleep.
+
+244
+00:09:01,090 --> 00:09:02,760
+Sweet dreams.
+
+245
+00:09:10,130 --> 00:09:13,870
+I can't believe Mom and Dad
+had a fight over beer.
+
+246
+00:09:13,900 --> 00:09:16,270
+I don't think
+the fight was about beer.
+
+247
+00:09:16,310 --> 00:09:17,940
+I think there was
+more subtext.
+
+248
+00:09:17,970 --> 00:09:20,080
+You're probably right.
+
+249
+00:09:20,110 --> 00:09:24,080
+Then again,
+I don't know what subtext is.
+
+250
+00:09:26,920 --> 00:09:28,620
+I don't want to get
+in your business,
+
+251
+00:09:28,650 --> 00:09:29,950
+but since you're
+getting in my bed,
+
+252
+00:09:29,990 --> 00:09:32,620
+- I'm getting in your business.
+- Go ahead.
+
+253
+00:09:32,660 --> 00:09:34,360
+When you leaving?
+
+254
+00:09:34,390 --> 00:09:36,230
+Very funny.
+
+255
+00:09:36,260 --> 00:09:37,860
+That wasn't a joke.
+
+256
+00:09:37,890 --> 00:09:39,830
+I love you, and
+I love the kids,
+
+257
+00:09:39,860 --> 00:09:41,900
+but I love you better
+living across the street.
+
+258
+00:09:41,930 --> 00:09:44,900
+Sorry the end of my marriage
+is inconveniencing you.
+
+259
+00:09:44,930 --> 00:09:46,370
+Oh, don't be so dramatic.
+
+260
+00:09:46,400 --> 00:09:47,670
+It's a little spat.
+
+261
+00:09:47,700 --> 00:09:49,840
+No, this was
+a long time coming.
+
+262
+00:09:49,870 --> 00:09:52,780
+This goes to the very core
+of our relationship.
+
+263
+00:09:52,810 --> 00:09:54,780
+I see we're sticking
+with dramatic.
+
+264
+00:09:54,810 --> 00:09:57,180
+The minute he found out
+I had money set aside,
+
+265
+00:09:57,210 --> 00:09:59,120
+he felt threatened.
+And you know why?
+
+266
+00:09:59,150 --> 00:10:01,790
+'Cause it meant that I can
+live independent of him.
+
+267
+00:10:01,820 --> 00:10:03,690
+Sleeping in your
+mommy's bed?
+
+268
+00:10:03,720 --> 00:10:05,220
+You know what I mean.
+
+269
+00:10:07,220 --> 00:10:09,330
+You gonna buy Sheldon
+that computer?
+
+270
+00:10:09,360 --> 00:10:11,660
+Well, now I have to.
+
+271
+00:10:11,700 --> 00:10:14,030
+Got it.
+
+272
+00:10:21,740 --> 00:10:25,410
+You do know I still have
+an active love life.
+
+273
+00:10:25,440 --> 00:10:27,140
+Just go to sleep.
+
+274
+00:10:32,450 --> 00:10:34,150
+On this very bed.
+
+275
+00:10:34,180 --> 00:10:36,250
+Oh, Mom.
+
+276
+00:10:41,760 --> 00:10:43,230
+What's for breakfast?
+
+277
+00:10:43,260 --> 00:10:44,960
+I don't know. Grab
+a bowl of cereal.
+
+278
+00:10:44,990 --> 00:10:46,930
+Mom usually makes us
+eggs and toast
+
+279
+00:10:46,960 --> 00:10:48,330
+and the occasional meat.
+
+280
+00:10:48,360 --> 00:10:49,870
+Well, Mom isn't here, is she?
+
+281
+00:10:49,900 --> 00:10:53,800
+Whoa. Somebody woke up
+on the wrong side of the bed.
+
+282
+00:10:53,840 --> 00:10:56,070
+And you had a choice
+'cause you had the whole bed.
+
+283
+00:10:56,110 --> 00:10:57,040
+Georgie.
+
+284
+00:10:57,070 --> 00:10:59,040
+Walking on thin ice.
+
+285
+00:10:59,080 --> 00:11:02,450
+Maybe you should go across
+the street and apologize.
+
+286
+00:11:02,480 --> 00:11:04,180
+I can't do that.
+
+287
+00:11:04,210 --> 00:11:05,050
+Why not?
+
+288
+00:11:05,080 --> 00:11:07,780
+'Cause if I do,
+it sets a bad precedent.
+
+289
+00:11:07,820 --> 00:11:09,490
+What's Nixon got to do with it?
+
+290
+00:11:09,520 --> 00:11:10,390
+What?
+
+291
+00:11:10,420 --> 00:11:13,720
+You said "bad president,"
+like Nixon.
+
+292
+00:11:13,760 --> 00:11:15,860
+You know, this guy.
+
+293
+00:11:19,360 --> 00:11:21,060
+You going to apologize?
+
+294
+00:11:22,370 --> 00:11:24,030
+Dad!
+
+295
+00:11:24,070 --> 00:11:25,370
+Dad!
+
+296
+00:11:25,400 --> 00:11:27,370
+If you are, bring back meat!
+
+297
+00:11:36,250 --> 00:11:37,350
+Hey.
+
+298
+00:11:37,380 --> 00:11:39,450
+I hope you're happy.
+
+299
+00:11:39,480 --> 00:11:42,220
+Thank you, Georgie.
+That's very kind.
+
+300
+00:11:42,250 --> 00:11:43,950
+Mom and Dad are fighting
+because you want
+
+301
+00:11:43,990 --> 00:11:45,290
+to get a stupid computer.
+
+302
+00:11:45,320 --> 00:11:47,490
+What are you talking about?
+
+303
+00:11:47,520 --> 00:11:48,520
+Mom wanted
+to buy it for you,
+
+304
+00:11:48,560 --> 00:11:49,790
+Dad said they couldn't
+afford it,
+
+305
+00:11:49,830 --> 00:11:51,090
+Meemaw offered
+to pay for it,
+
+306
+00:11:51,130 --> 00:11:52,860
+and now I'm eating
+pineapple spears for lunch.
+
+307
+00:11:52,900 --> 00:11:55,030
+I hate making
+my own lunch.
+
+308
+00:11:55,060 --> 00:11:57,100
+I'm sorry, Georgie,
+I didn't know.
+
+309
+00:11:57,130 --> 00:11:58,430
+Yeah, well, now you do.
+
+310
+00:11:58,470 --> 00:11:59,500
+What did you get?
+
+311
+00:11:59,540 --> 00:12:02,210
+A turkey sandwich Mom cut
+in the shape of a heart,
+
+312
+00:12:02,240 --> 00:12:03,970
+a fruit cup, a brownie,
+
+313
+00:12:04,010 --> 00:12:07,110
+and a note from Meemaw saying
+how much she loves me.
+
+314
+00:12:07,140 --> 00:12:09,810
+I haven't read it yet,
+but I bet it's a lot.
+
+315
+00:12:09,850 --> 00:12:12,120
+I don't even have
+a can opener.
+
+316
+00:12:14,050 --> 00:12:17,390
+Oh, Sugar Apple,
+I love you so much.
+
+317
+00:12:17,420 --> 00:12:20,920
+Your affection for
+inanimate objects frightens me.
+
+318
+00:12:20,960 --> 00:12:22,790
+I'm glad you're happy, Missy.
+
+319
+00:12:22,830 --> 00:12:25,800
+I'm even happier that I got
+a toy, and Sheldon got nothin'.
+
+320
+00:12:25,830 --> 00:12:27,400
+Well, now, we're
+not exactly
+
+321
+00:12:27,430 --> 00:12:28,500
+done shopping.
+
+322
+00:12:28,530 --> 00:12:30,930
+Sheldon, you still want
+that computer?
+
+323
+00:12:30,970 --> 00:12:33,100
+I thought we couldn't
+afford it.
+
+324
+00:12:33,140 --> 00:12:34,540
+Don't you worry about that.
+
+325
+00:12:34,570 --> 00:12:36,310
+Do you want it or not?
+
+326
+00:12:36,340 --> 00:12:38,310
+More than anything.
+
+327
+00:12:38,340 --> 00:12:40,510
+All right, then,
+let's go get it.
+
+328
+00:12:40,540 --> 00:12:44,310
+Wait. He gets a computer
+and I get a lousy toy?
+
+329
+00:12:44,350 --> 00:12:46,120
+I thought you liked it.
+
+330
+00:12:46,150 --> 00:12:48,320
+Not anymore.
+
+331
+00:12:52,460 --> 00:12:54,320
+Where's the water come out of?
+
+332
+00:12:54,360 --> 00:12:57,190
+Well, seeing as that's
+the dryer, nowhere.
+
+333
+00:12:57,230 --> 00:12:58,460
+Hmm.
+
+334
+00:13:00,160 --> 00:13:01,230
+So this one's the washer?
+
+335
+00:13:01,260 --> 00:13:02,370
+No foolin' you.
+
+336
+00:13:02,400 --> 00:13:03,970
+What are you doing?
+
+337
+00:13:04,000 --> 00:13:06,270
+Separating the whites
+from the colors.
+
+338
+00:13:06,300 --> 00:13:07,870
+Whoa, that's racist.
+
+339
+00:13:07,900 --> 00:13:10,870
+How did I get a rocket scientist
+for one son
+
+340
+00:13:10,910 --> 00:13:13,080
+- and a rodeo clown for the other?
+- Oh, man.
+
+341
+00:13:13,110 --> 00:13:15,850
+I'd give anything
+to be a rodeo clown.
+
+342
+00:13:15,880 --> 00:13:17,350
+They make
+people happy,
+
+343
+00:13:17,380 --> 00:13:19,550
+and they see the rodeo for free.
+
+344
+00:13:21,150 --> 00:13:22,990
+Mmm.
+
+345
+00:13:28,120 --> 00:13:31,060
+The home computer
+I had long coveted
+
+346
+00:13:31,090 --> 00:13:34,160
+was finally in my possession,
+
+347
+00:13:34,200 --> 00:13:37,470
+but it was also destroying
+my home.
+
+348
+00:13:37,500 --> 00:13:39,870
+Thankfully, it came pre-loaded
+
+349
+00:13:39,900 --> 00:13:42,210
+with a program to help solve
+personal problems.
+
+350
+00:13:42,240 --> 00:13:45,270
+Hello, I am Eliza.
+
+351
+00:13:45,310 --> 00:13:48,510
+My... parents...
+
+352
+00:13:48,540 --> 00:13:52,350
+are... fighting...
+
+353
+00:13:52,380 --> 00:13:54,950
+a lot.
+
+354
+00:13:54,980 --> 00:13:57,990
+I see.
+Can you elaborate on that?
+
+355
+00:13:58,020 --> 00:14:00,160
+My mother...
+
+356
+00:14:00,190 --> 00:14:04,260
+bought... me...
+
+357
+00:14:04,290 --> 00:14:06,430
+this...
+
+358
+00:14:06,460 --> 00:14:09,300
+computer...
+
+359
+00:14:09,330 --> 00:14:11,600
+but...
+
+360
+00:14:11,630 --> 00:14:15,970
+my dad... says... we can't...
+
+361
+00:14:16,010 --> 00:14:18,640
+afford it.
+
+362
+00:14:18,670 --> 00:14:22,150
+Do you have issues
+with your mother?
+
+363
+00:14:22,180 --> 00:14:24,550
+Mmm... No.
+
+364
+00:14:24,580 --> 00:14:28,120
+She... makes me...
+
+365
+00:14:28,150 --> 00:14:31,220
+spaghetti...
+
+366
+00:14:31,250 --> 00:14:33,260
+with hot dogs...
+
+367
+00:14:33,290 --> 00:14:35,360
+cut up in it.
+
+368
+00:14:35,390 --> 00:14:38,190
+Can you elaborate on that?
+
+369
+00:14:39,560 --> 00:14:41,530
+Are you...
+
+370
+00:14:41,560 --> 00:14:44,170
+going to help me or not?
+
+371
+00:14:46,570 --> 00:14:49,670
+Hello, I am Eliza.
+
+372
+00:14:49,710 --> 00:14:52,940
+The future might be overrated.
+
+373
+00:14:55,040 --> 00:14:56,550
+Okay, water's
+definitely on.
+
+374
+00:14:56,580 --> 00:14:57,550
+Try it now.
+
+375
+00:14:57,580 --> 00:14:59,180
+We want delicate
+or regular?
+
+376
+00:14:59,220 --> 00:15:01,680
+It doesn't matter,
+just turn it on.
+
+377
+00:15:01,720 --> 00:15:04,390
+Let's go with
+delicate to be safe.
+
+378
+00:15:05,520 --> 00:15:07,990
+Nothin'.
+
+379
+00:15:08,020 --> 00:15:08,960
+Damn it.
+
+380
+00:15:08,990 --> 00:15:11,030
+Wait, I know what to do.
+
+381
+00:15:11,060 --> 00:15:11,960
+What?
+
+382
+00:15:12,000 --> 00:15:14,060
+Go across the street
+and apologize to Mom.
+
+383
+00:15:14,100 --> 00:15:16,630
+I got nothin' to apologize for.
+
+384
+00:15:16,670 --> 00:15:19,140
+You don't have to mean it.
+I never do.
+
+385
+00:15:19,170 --> 00:15:20,370
+Georgie, just mind
+your business.
+
+386
+00:15:20,400 --> 00:15:21,400
+Okay, sorry.
+
+387
+00:15:21,440 --> 00:15:22,710
+In case you
+were wondering,
+
+388
+00:15:22,740 --> 00:15:24,570
+I didn't mean that.
+
+389
+00:15:24,610 --> 00:15:26,580
+See how easy it is?
+
+390
+00:15:28,380 --> 00:15:31,010
+These home computers
+are amazing.
+
+391
+00:15:31,050 --> 00:15:33,120
+I could start a real
+bookkeeping business
+
+392
+00:15:33,150 --> 00:15:34,080
+with that thing.
+
+393
+00:15:34,120 --> 00:15:36,090
+And that would go a
+long way to giving you
+
+394
+00:15:36,120 --> 00:15:38,150
+the financial independence
+you're looking for.
+
+395
+00:15:38,190 --> 00:15:40,290
+Darn tootin'.
+
+396
+00:15:40,320 --> 00:15:43,130
+Just for your information,
+
+397
+00:15:43,160 --> 00:15:45,490
+Sheldon is using the
+computer right now
+
+398
+00:15:45,530 --> 00:15:47,400
+to try and fix your marriage.
+
+399
+00:15:47,430 --> 00:15:49,170
+Really?
+
+400
+00:15:49,200 --> 00:15:50,430
+What did it say?
+
+401
+00:15:50,470 --> 00:15:52,340
+It said...
+
+402
+00:15:52,370 --> 00:15:54,740
+"Get out of your
+mother's house."
+
+403
+00:15:54,770 --> 00:15:56,240
+- Mom.
+- I'm serious.
+
+404
+00:15:56,270 --> 00:15:57,540
+I want a cigarette,
+and I'm tired
+
+405
+00:15:57,570 --> 00:15:59,080
+of hiding behind
+the garage.
+
+406
+00:15:59,110 --> 00:16:00,610
+You think I should apologize
+to George?
+
+407
+00:16:00,640 --> 00:16:03,550
+Well, of course not. That would
+set a terrible precedent.
+
+408
+00:16:03,580 --> 00:16:05,050
+I think you should
+go back over there
+
+409
+00:16:05,080 --> 00:16:06,520
+to pick up some
+clothes for the kids
+
+410
+00:16:06,550 --> 00:16:08,050
+and be all cold
+and distant,
+
+411
+00:16:08,080 --> 00:16:09,620
+so he has to
+apologize to you.
+
+412
+00:16:09,650 --> 00:16:12,160
+Oh, that's not bad.
+
+413
+00:16:12,190 --> 00:16:13,290
+Do it.
+
+414
+00:16:13,320 --> 00:16:15,220
+I will.
+
+415
+00:16:15,260 --> 00:16:16,460
+Why you drinking tea?
+
+416
+00:16:16,490 --> 00:16:19,100
+Get out.
+
+417
+00:16:41,680 --> 00:16:43,220
+Oh, hello.
+
+418
+00:16:43,250 --> 00:16:45,690
+Hey.
+
+419
+00:16:45,720 --> 00:16:47,090
+Were you coming back, or... ?
+
+420
+00:16:47,120 --> 00:16:49,590
+Just to get some clothes
+for the kids.
+
+421
+00:16:51,230 --> 00:16:53,160
+Oh.
+
+422
+00:16:54,600 --> 00:16:56,570
+Were you coming to talk to me?
+
+423
+00:16:56,600 --> 00:17:00,470
+Well... yeah.
+
+424
+00:17:00,500 --> 00:17:02,310
+I, um...
+
+425
+00:17:04,710 --> 00:17:07,780
+...wanted to apologize.
+
+426
+00:17:09,510 --> 00:17:11,680
+Really?
+
+427
+00:17:14,850 --> 00:17:17,390
+Want to go for a walk?
+
+428
+00:17:17,420 --> 00:17:18,590
+Talk a little?
+
+429
+00:17:18,620 --> 00:17:21,360
+Sure.
+
+430
+00:17:27,430 --> 00:17:30,630
+Hey, kids, come here.
+
+431
+00:17:30,670 --> 00:17:32,570
+Look at that.
+
+432
+00:17:32,600 --> 00:17:36,870
+It looks like your mom and dad
+are gonna be all right.
+
+433
+00:17:36,910 --> 00:17:39,440
+Does this mean
+we're going home?
+
+434
+00:17:39,480 --> 00:17:41,310
+It appears so.
+
+435
+00:17:41,340 --> 00:17:44,750
+I didn't even get to wear
+my earmuffs yet.
+
+436
+00:17:47,380 --> 00:17:50,790
+And this program will allow us
+to track our family finances,
+
+437
+00:17:50,820 --> 00:17:53,820
+create a budget, and
+prepare tax documents.
+
+438
+00:17:53,860 --> 00:17:55,120
+- That's impressive.
+- Mmm.
+
+439
+00:17:55,160 --> 00:17:56,690
+Would you like to know
+how much money
+
+440
+00:17:56,730 --> 00:17:58,160
+you spend on beer annually?
+
+441
+00:17:58,190 --> 00:18:00,760
+- No.
+- I would.
+
+442
+00:18:01,700 --> 00:18:04,470
+$936.
+
+443
+00:18:04,500 --> 00:18:05,770
+George.
+
+444
+00:18:07,270 --> 00:18:08,540
+If you switched
+to Hawaiian Punch,
+
+445
+00:18:08,570 --> 00:18:10,640
+we could live in a bigger house.
+
+446
+00:18:10,670 --> 00:18:13,580
+Hello, I am Eliza.
+
+447
+00:18:13,610 --> 00:18:14,810
+♪ I study nuclear science
+
+448
+00:18:14,840 --> 00:18:16,750
+Eliza...
+
+449
+00:18:16,780 --> 00:18:18,380
+♪ I got a crazy teacher
+
+450
+00:18:18,410 --> 00:18:22,490
+Are... you...
+
+451
+00:18:22,520 --> 00:18:25,620
+hot?
+
+452
+00:18:25,650 --> 00:18:27,690
+In your fantasies, am I hot?
+
+453
+00:18:27,720 --> 00:18:31,430
+Oh... yes.
+
+454
+00:18:31,460 --> 00:18:33,260
+You realize you're not
+talking to a real person.
+
+455
+00:18:33,300 --> 00:18:35,700
+Hey, get out of here.
+I'm about to score.
+
+456
+00:18:38,530 --> 00:18:40,440
+Missy! Turn off the computer.
+
+457
+00:18:40,470 --> 00:18:41,600
+Time to go to bed.
+
+458
+00:18:41,640 --> 00:18:44,770
+I got to finish my homework!
+
+459
+00:18:44,810 --> 00:18:46,910
+Big money, big money.
+
+460
+00:18:46,940 --> 00:18:48,640
+♪ Things are going great
+
+461
+00:18:48,680 --> 00:18:50,780
+Yes!
+
+462
+00:18:52,680 --> 00:18:54,580
+♪ I'm doing all right
+
+463
+00:18:54,620 --> 00:18:56,250
+♪ Getting good grades
+
+464
+00:18:56,290 --> 00:18:58,490
+♪ The future's so bright
+
+465
+00:18:58,520 --> 00:18:59,660
+♪ I gotta wear shades
+
+466
+00:18:59,690 --> 00:19:01,590
+Hello?
+
+467
+00:19:01,620 --> 00:19:03,430
+♪ I gotta wear shades
+
+468
+00:19:03,460 --> 00:19:04,590
+Hello?
+
+469
+00:19:04,630 --> 00:19:07,300
+♪ I gotta wear shades.
+
+470
+00:19:18,710 --> 00:19:20,710
+Oh.
+
+471
+00:19:20,740 --> 00:19:21,980
+What?
+
+472
+00:19:22,010 --> 00:19:23,950
+- What?
+- Nothin'.
+
+473
+00:19:29,420 --> 00:19:32,260
+Button you pull, that's stupid.
+
+474
+00:20:01,020 --> 00:20:02,264
+.srt Extracted, Synced and Corrected
+by Dan4Jem, AD.I.MMXVIII
+
+474
+00:20:03,305 --> 00:21:03,551
+OpenSubtitles recommends using Nord VPN
+from 3.49 USD/month ----> osdb.link/vpn
