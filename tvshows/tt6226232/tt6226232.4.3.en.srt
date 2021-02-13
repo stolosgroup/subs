@@ -1,0 +1,2086 @@
+1
+00:00:00,070 --> 00:00:01,820
+<i>Previously on</i>
+<font color="#ffff00">"Young Sheldon"...</font>
+
+2
+00:00:01,905 --> 00:00:03,821
+So, he's really good
+
+3
+00:00:03,906 --> 00:00:05,406
+- to graduate?
+- He sure is.
+
+4
+00:00:05,498 --> 00:00:07,195
+Do you think I can make it
+from one end
+
+5
+00:00:07,280 --> 00:00:08,632
+of the college campus
+to the other
+
+6
+00:00:08,717 --> 00:00:10,929
+in under ten minutes,
+including a bathroom break?
+
+7
+00:00:11,049 --> 00:00:12,547
+How important
+is the bathroom break?
+
+8
+00:00:12,632 --> 00:00:14,657
+Very. The class schedules
+are designed
+
+9
+00:00:14,742 --> 00:00:16,945
+for fully grown bladders,
+and mine is child-sized.
+
+10
+00:00:17,030 --> 00:00:18,382
+One other bit of business.
+
+11
+00:00:18,490 --> 00:00:20,390
+Since you're graduating
+top of the class,
+
+12
+00:00:20,523 --> 00:00:22,187
+that makes you
+our valedictorian.
+
+13
+00:00:22,272 --> 00:00:24,364
+I'm so proud of you,
+baby.
+
+14
+00:00:24,505 --> 00:00:25,684
+You seem surprised.
+
+15
+00:00:25,769 --> 00:00:27,910
+Well, it's quite
+an accomplishment.
+
+16
+00:00:27,995 --> 00:00:30,078
+In this school?
+I don't think so.
+
+17
+00:00:31,355 --> 00:00:33,093
+We're really gonna
+miss you.
+
+18
+00:00:35,367 --> 00:00:38,078
+<i>I've always enjoyed
+math word problems.</i>
+
+19
+00:00:38,163 --> 00:00:40,438
+<i>Try wrapping your noggin
+around this one.</i>
+
+20
+00:00:40,523 --> 00:00:42,703
+<i>A brilliant young boy
+named Sheldon</i>
+
+21
+00:00:42,788 --> 00:00:44,046
+<i>is about to start college.</i>
+
+22
+00:00:44,131 --> 00:00:46,282
+<i>He needs to get
+from his linear algebra class</i>
+
+23
+00:00:46,367 --> 00:00:49,477
+<i>to his physics class,
+which is 822 meters away.</i>
+
+24
+00:00:49,562 --> 00:00:53,486
+<i>If his stride is 23 inches long
+and he only has</i>
+
+25
+00:00:53,570 --> 00:00:56,774
+<i>ten minutes, how many steps
+would he have to take per minute</i>
+
+26
+00:00:56,859 --> 00:00:59,453
+<i>to make it on time?
+It's a doozy, isn't it?</i>
+
+27
+00:00:59,773 --> 00:01:01,039
+<i>Don't worry.</i>
+
+28
+00:01:01,147 --> 00:01:02,543
+<i>I'll show my work.</i>
+
+29
+00:01:02,752 --> 00:01:06,211
+<i>First, we must determine
+the maximum velocity achievable</i>
+
+30
+00:01:06,296 --> 00:01:08,171
+<i>without breaking a sweat.</i>
+
+31
+00:01:08,519 --> 00:01:09,945
+<i>Sweating is for jocks</i>
+
+32
+00:01:10,030 --> 00:01:12,312
+<i>and those who are worried
+the jig is up.</i>
+
+33
+00:01:20,375 --> 00:01:21,601
+Hi, Sheldon.
+
+34
+00:01:21,685 --> 00:01:23,836
+Not now, Billy. I'm in the
+middle of a math problem.
+
+35
+00:01:23,921 --> 00:01:25,123
+Okay.
+
+36
+00:01:28,893 --> 00:01:30,226
+Darn it.
+
+37
+00:01:32,132 --> 00:01:33,561
+What are you looking for?
+
+38
+00:01:33,646 --> 00:01:34,868
+Chest hairs.
+
+39
+00:01:34,953 --> 00:01:36,469
+Is there any chance
+I'll hit puberty
+
+40
+00:01:36,554 --> 00:01:37,672
+in the next few weeks?
+
+41
+00:01:37,757 --> 00:01:39,890
+Oh, God,
+I hope not. Why?
+
+42
+00:01:40,013 --> 00:01:41,548
+The campus is so big,
+I'll never make it
+
+43
+00:01:41,632 --> 00:01:42,711
+from one class
+to another
+
+44
+00:01:42,804 --> 00:01:44,773
+without a solid dose
+of testosterone.
+
+45
+00:01:44,975 --> 00:01:47,662
+Maybe they'll let you
+leave early so you'll have time.
+
+46
+00:01:47,747 --> 00:01:48,866
+But the end of the class is
+
+47
+00:01:48,951 --> 00:01:50,455
+when I point out
+the teacher's mistakes.
+
+48
+00:01:50,539 --> 00:01:52,131
+Everybody loves that.
+
+49
+00:01:52,542 --> 00:01:54,194
+I'd say
+run across campus,
+
+50
+00:01:54,279 --> 00:01:55,834
+but I know how you feel
+about sweating.
+
+51
+00:01:55,937 --> 00:01:57,607
+It's the urine
+of the skin.
+
+52
+00:01:58,504 --> 00:01:59,770
+Why not ride your bike?
+
+53
+00:01:59,854 --> 00:02:01,859
+I considered that,
+but I can't let my colleagues
+
+54
+00:02:01,982 --> 00:02:04,633
+see me with training wheels.
+They'll think I'm a child.
+
+55
+00:02:04,777 --> 00:02:06,764
+Can't have that.
+Mm-mm.
+
+56
+00:02:09,298 --> 00:02:10,824
+See any fuzz growing?
+
+57
+00:02:10,990 --> 00:02:12,255
+Let me look.
+
+58
+00:02:12,340 --> 00:02:13,649
+Hey.
+
+59
+00:02:13,734 --> 00:02:15,852
+No, Meemaw! Bad Meemaw.
+
+60
+00:02:17,101 --> 00:02:18,149
+What do you want?
+
+61
+00:02:18,234 --> 00:02:20,441
+I was hoping you could help me
+build up my leg muscles
+
+62
+00:02:20,526 --> 00:02:21,922
+to increase my speed.
+
+63
+00:02:22,006 --> 00:02:24,229
+If you don't want people
+chasing you, be less annoying.
+
+64
+00:02:24,313 --> 00:02:26,622
+It's so I can get
+to my classes on time.
+
+65
+00:02:26,805 --> 00:02:29,117
+Sheldon, you know
+you ain't gonna work out.
+
+66
+00:02:29,202 --> 00:02:30,946
+I will. This is important.
+
+67
+00:02:31,244 --> 00:02:32,774
+Fine.
+
+68
+00:02:32,859 --> 00:02:34,555
+Here. Hold these.
+
+69
+00:02:34,858 --> 00:02:36,422
+Now, keep your back
+straight
+
+70
+00:02:36,508 --> 00:02:38,319
+and bend your knees
+like this.
+
+71
+00:02:40,000 --> 00:02:46,074
+Advertise your product or brand here
+contact www.OpenSubtitles.org today
+
+72
+00:02:56,446 --> 00:02:58,089
+Dad, you're a football coach.
+
+73
+00:02:58,173 --> 00:02:59,830
+Do you use
+human growth hormone
+
+74
+00:02:59,914 --> 00:03:01,961
+to enhance the performance
+of your players?
+
+75
+00:03:02,046 --> 00:03:05,305
+We lost our last game
+63 to nine. What do you think?
+
+76
+00:03:05,397 --> 00:03:07,750
+I think you should
+look into human growth hormone.
+
+77
+00:03:08,078 --> 00:03:10,405
+And if you do,
+send some this kid's way.
+
+78
+00:03:10,758 --> 00:03:13,016
+<i>With no access
+to controlled substances,</i>
+
+79
+00:03:13,101 --> 00:03:14,704
+<i>I was left with only one option.</i>
+
+80
+00:03:14,789 --> 00:03:17,250
+Missy, will you teach me
+to ride a bike tomorrow?
+
+81
+00:03:17,335 --> 00:03:18,948
+- Why not Mom?
+- Working.
+
+82
+00:03:19,033 --> 00:03:20,501
+- Meemaw?
+- Old.
+
+83
+00:03:20,586 --> 00:03:22,117
+- Dad?
+- Fat.
+
+84
+00:03:22,202 --> 00:03:23,485
+Okay.
+
+85
+00:03:26,313 --> 00:03:28,074
+I'm such a good person.
+
+86
+00:03:28,203 --> 00:03:30,048
+All right.
+You're gonna pedal.
+
+87
+00:03:30,133 --> 00:03:31,557
+I'm gonna run behind
+and hold you up.
+
+88
+00:03:31,641 --> 00:03:32,776
+I'm nervous.
+
+89
+00:03:32,860 --> 00:03:34,386
+Just pedal. You'll be fine.
+
+90
+00:03:34,470 --> 00:03:35,735
+Ready?
+
+91
+00:03:35,833 --> 00:03:37,617
+- Not really.
+- Go.
+
+92
+00:03:38,468 --> 00:03:39,666
+I'm doing it.
+
+93
+00:03:39,751 --> 00:03:41,434
+- Okay, I'm gonna let go.
+- Don't let go.
+
+94
+00:03:41,519 --> 00:03:42,743
+- I'm letting go.
+- Don't let go.
+
+95
+00:03:42,827 --> 00:03:44,336
+- I already let go.
+- You let go?
+
+96
+00:03:44,421 --> 00:03:45,643
+I let go.
+
+97
+00:03:45,728 --> 00:03:47,071
+I'm doing it.
+
+98
+00:03:47,296 --> 00:03:49,214
+You're doing it! I'm doing it!
+
+99
+00:03:54,718 --> 00:03:57,734
+<i>♪ Nobody else
+is stronger than I am ♪</i>
+
+100
+00:03:57,819 --> 00:04:00,382
+<i>♪ Yesterday I moved a mountain</i>
+
+101
+00:04:00,467 --> 00:04:03,140
+<i>♪ I bet I could be your hero</i>
+
+102
+00:04:03,225 --> 00:04:06,071
+<i>♪ I am a mighty little man</i>
+
+103
+00:04:06,156 --> 00:04:08,232
+<i>♪ I am a mighty little man. ♪</i>
+<font color=#FF00FF>"YOUNG SHELDON"</font>
+
+104
+00:04:08,317 --> 00:04:10,317
+<font color=#00FF00>Season 04  Episode 03</font>
+Aired on: <font color="#00ffff">November 19, 2020</font>
+
+105
+00:04:10,416 --> 00:04:12,416
+Episode Title:
+<font color=#FFFF00>"Training Wheels and an Unleashed Chicken"</font>
+
+106
+00:04:12,662 --> 00:04:15,216
+- Dad, Sheldon got hurt.
+- How?
+
+107
+00:04:15,301 --> 00:04:17,082
+A chicken chased him
+into a mailbox.
+
+108
+00:04:17,167 --> 00:04:18,919
+Course it did.
+
+109
+00:04:20,988 --> 00:04:23,701
+If I knew you could run, I
+would've let you teach him.
+
+110
+00:04:23,786 --> 00:04:25,226
+What happened?
+
+111
+00:04:25,310 --> 00:04:26,802
+Belinda got off her leash.
+
+112
+00:04:26,887 --> 00:04:28,044
+You okay?
+
+113
+00:04:28,129 --> 00:04:30,091
+My arm really hurts.
+I want Mom.
+
+114
+00:04:30,203 --> 00:04:32,349
+You got me.
+Now, let me take a look.
+
+115
+00:04:32,434 --> 00:04:34,442
+Don't touch it.
+I'm not gonna hurt you.
+
+116
+00:04:34,527 --> 00:04:36,663
+I'm sorry, but you are too big
+to be delicate.
+
+117
+00:04:36,748 --> 00:04:37,716
+I'm delicate.
+
+118
+00:04:37,801 --> 00:04:39,614
+Just want to see
+if you can bend it.
+
+119
+00:04:39,699 --> 00:04:41,486
+I can't.
+It hurts too much.
+
+120
+00:04:42,223 --> 00:04:44,607
+I'm gonna take him
+to the emergency room.
+
+121
+00:04:44,875 --> 00:04:46,286
+Come on.
+
+122
+00:04:46,371 --> 00:04:48,330
+- You gonna be okay?
+- Yeah.
+
+123
+00:04:49,816 --> 00:04:51,661
+Have fun!
+
+124
+00:04:53,974 --> 00:04:55,293
+This is bad.
+
+125
+00:04:55,377 --> 00:04:56,661
+You're gonna be just fine.
+
+126
+00:04:56,813 --> 00:04:58,427
+This is the arm
+I write with.
+
+127
+00:04:58,512 --> 00:05:00,067
+This is the arm I eat with.
+
+128
+00:05:00,152 --> 00:05:01,919
+This is the arm
+I do the Vulcan salute with.
+
+129
+00:05:02,004 --> 00:05:03,226
+Ow.
+
+130
+00:05:03,311 --> 00:05:04,924
+It's not too swollen.
+That's a good sign.
+
+131
+00:05:05,024 --> 00:05:06,289
+You're not a doctor.
+
+132
+00:05:06,457 --> 00:05:08,593
+But I see this on
+the football field all the time.
+
+133
+00:05:08,927 --> 00:05:10,489
+Football players
+are meant to be hurt.
+
+134
+00:05:10,611 --> 00:05:12,021
+I'm meant to be
+cherished.
+
+135
+00:05:12,106 --> 00:05:15,005
+Okay. Looks like
+you fractured your ulna.
+
+136
+00:05:15,090 --> 00:05:16,169
+Oh, no.
+
+137
+00:05:16,254 --> 00:05:18,450
+Two weeks in a cast,
+you'll be good as new.
+
+138
+00:05:18,535 --> 00:05:20,584
+- A cast? Don't those get sweaty?
+- Mm-hmm.
+
+139
+00:05:20,702 --> 00:05:22,153
+- They can.
+- And itchy?
+
+140
+00:05:22,276 --> 00:05:23,716
+- A little.
+- Can it get wet?
+
+141
+00:05:23,801 --> 00:05:24,848
+Not supposed to.
+
+142
+00:05:24,933 --> 00:05:26,264
+Then how am I supposed
+to take a shower?
+
+143
+00:05:26,348 --> 00:05:27,962
+Well, some people wrap it
+in a garbage bag.
+
+144
+00:05:28,046 --> 00:05:29,660
+That's where garbage goes.
+
+145
+00:05:29,745 --> 00:05:32,138
+Did you get a discount doctor
+because we're poor?
+
+146
+00:05:32,299 --> 00:05:34,638
+- Shelly, you okay?
+- I fractured
+
+147
+00:05:34,723 --> 00:05:35,974
+- my ulna.
+- He's fine.
+
+148
+00:05:36,059 --> 00:05:37,561
+I told you you didn't need
+to come down here.
+
+149
+00:05:37,645 --> 00:05:40,021
+My baby is
+in the emergency room.
+
+150
+00:05:40,106 --> 00:05:41,442
+Yeah, with his father.
+
+151
+00:05:41,527 --> 00:05:42,960
+Who let him get hurt.
+
+152
+00:05:43,045 --> 00:05:44,224
+Me? I wasn't even there.
+
+153
+00:05:44,309 --> 00:05:45,575
+If anything,
+it was Missy's fault.
+
+154
+00:05:45,659 --> 00:05:47,055
+And Belinda Sparks.
+
+155
+00:05:47,140 --> 00:05:48,411
+- Who?
+- A chicken.
+
+156
+00:05:48,496 --> 00:05:50,458
+What does a chicken
+have to do with this?
+
+157
+00:05:50,543 --> 00:05:52,334
+You know what,
+I'm gonna let the nurse come in
+
+158
+00:05:52,418 --> 00:05:54,083
+and put the cast on.
+
+159
+00:05:54,199 --> 00:05:56,966
+Don't worry, baby.
+You're gonna be just fine.
+
+160
+00:05:57,066 --> 00:05:59,724
+- Thanks, Mom.
+- That's what I been saying the whole time.
+
+161
+00:05:59,843 --> 00:06:01,724
+But she cherishes me.
+
+162
+00:06:05,691 --> 00:06:06,956
+That's so cool.
+
+163
+00:06:07,041 --> 00:06:08,529
+Can I sign it?
+
+164
+00:06:08,614 --> 00:06:09,778
+Why?
+
+165
+00:06:09,966 --> 00:06:11,519
+'Cause that's what kids do.
+
+166
+00:06:11,603 --> 00:06:13,208
+Why would I care
+what kids do?
+
+167
+00:06:13,293 --> 00:06:15,777
+So when it's over,
+you can have a cool reminder?
+
+168
+00:06:15,862 --> 00:06:17,910
+I don't want a reminder.
+This is traumatic.
+
+169
+00:06:18,044 --> 00:06:19,817
+I might need counseling.
+
+170
+00:06:20,004 --> 00:06:22,210
+Come on, don't be lame.
+Let me sign it.
+
+171
+00:06:22,295 --> 00:06:24,131
+You're just gonna
+write something mean.
+
+172
+00:06:24,256 --> 00:06:26,373
+You don't commit a crime
+and sign your own name.
+
+173
+00:06:26,458 --> 00:06:27,709
+Learned that onethe hard way.
+
+174
+00:06:29,665 --> 00:06:31,264
+Oh.
+
+175
+00:06:31,349 --> 00:06:32,570
+Hey, Brenda.
+
+176
+00:06:32,655 --> 00:06:36,070
+Hey. I just
+wanted to check in
+
+177
+00:06:36,155 --> 00:06:37,858
+and see
+how Sheldon's doing.
+
+178
+00:06:38,193 --> 00:06:40,506
+He'll be fine.
+It's just a little fracture.
+
+179
+00:06:40,619 --> 00:06:42,668
+Oh. Poor kid.
+
+180
+00:06:43,280 --> 00:06:46,545
+Please know
+we feel terrible.
+
+181
+00:06:46,732 --> 00:06:48,225
+Eh, accidents happen.
+
+182
+00:06:48,310 --> 00:06:50,585
+Hey, speaking of accidents,
+
+183
+00:06:50,729 --> 00:06:53,344
+which this clearly was,
+
+184
+00:06:54,038 --> 00:06:55,819
+insurance covers
+everything, right?
+
+185
+00:06:56,126 --> 00:06:58,499
+If you're worried about me
+sending you a bill, don't be.
+
+186
+00:06:58,661 --> 00:07:00,144
+Wasn't worried.
+
+187
+00:07:00,229 --> 00:07:02,952
+I just wanted to bring you
+some food as a peace offering
+
+188
+00:07:03,037 --> 00:07:06,038
+and promise
+it will never happen again.
+
+189
+00:07:06,256 --> 00:07:07,763
+Well, thanks.
+
+190
+00:07:07,848 --> 00:07:09,538
+Ooh, fried chicken.
+
+191
+00:07:12,055 --> 00:07:14,811
+Never again.
+
+192
+00:07:15,364 --> 00:07:17,673
+"I hope your arm
+gets better soon.
+
+193
+00:07:17,843 --> 00:07:21,272
+XO, Missy." See?
+
+194
+00:07:21,460 --> 00:07:23,350
+- Nothing mean.
+- Thank you.
+
+195
+00:07:23,450 --> 00:07:25,679
+M <i>y sister could have
+a big heart.</i>
+
+196
+00:07:25,764 --> 00:07:27,405
+If only that were true
+of her brain.
+
+197
+00:07:27,490 --> 00:07:28,803
+That's the wrong "your."
+
+198
+00:07:28,888 --> 00:07:30,057
+What are you talking about?
+
+199
+00:07:30,142 --> 00:07:31,946
+It's supposed to be
+Y-O-U-R.
+
+200
+00:07:32,031 --> 00:07:34,850
+What you wrote means,
+"I hope you are arm gets better."
+
+201
+00:07:35,248 --> 00:07:36,533
+Oh.
+
+202
+00:07:36,688 --> 00:07:39,069
+You defaced my body
+with a grammatical error.
+
+203
+00:07:39,154 --> 00:07:42,077
+I guess that's yourproblem.
+Y-O-U-R.
+
+204
+00:07:46,881 --> 00:07:49,475
+Left-handed knocking.
+Wild.
+
+205
+00:07:50,302 --> 00:07:52,061
+- Georgie?
+- What?
+
+206
+00:07:53,035 --> 00:07:55,474
+You're left-handed.
+Now that I've joined your ranks,
+
+207
+00:07:55,559 --> 00:07:58,321
+I was wondering if you could
+tell me what to expect.
+
+208
+00:07:58,406 --> 00:08:00,715
+I don't know.
+To me, it's just normal.
+
+209
+00:08:00,799 --> 00:08:03,022
+But the vast majority of people
+are right-handed.
+
+210
+00:08:03,107 --> 00:08:05,022
+There must be
+some challenges.
+
+211
+00:08:05,835 --> 00:08:07,622
+It's hard to cut stuff
+with scissors.
+
+212
+00:08:07,707 --> 00:08:09,810
+Mom handles
+most of my cutting needs.
+
+213
+00:08:09,895 --> 00:08:12,597
+Uh, when you shake hands,
+it's the wrong hand.
+
+214
+00:08:12,681 --> 00:08:15,336
+I don't shake hands.
+It's disgusting.
+
+215
+00:08:16,336 --> 00:08:17,862
+Oh! When driving,
+
+216
+00:08:17,947 --> 00:08:19,430
+the gear shifter's
+on the right side.
+
+217
+00:08:19,567 --> 00:08:21,332
+And I'm not old enough
+to drive.
+
+218
+00:08:21,417 --> 00:08:22,900
+Being a lefty
+doesn't seem so bad.
+
+219
+00:08:23,039 --> 00:08:24,107
+I don't know why
+
+220
+00:08:24,192 --> 00:08:25,738
+you complain so much.
+
+221
+00:08:29,527 --> 00:08:30,950
+Don't worry, baby.
+
+222
+00:08:31,035 --> 00:08:33,605
+I cut everything into
+bite-size pieces for you.
+
+223
+00:08:33,708 --> 00:08:35,975
+Maybe you could chew it up
+and spit it in his mouth.
+
+224
+00:08:36,067 --> 00:08:38,591
+Please?
+Let's just say grace.
+
+225
+00:08:42,765 --> 00:08:44,683
+Will you two help him
+with his mittens?
+
+226
+00:08:44,768 --> 00:08:46,121
+Maybe he doesn't wear them.
+
+227
+00:08:46,206 --> 00:08:47,558
+Then I'm not holding hands.
+
+228
+00:08:47,643 --> 00:08:49,387
+- We ain't gotto hold hands?
+- Sweet.
+
+229
+00:08:49,472 --> 00:08:52,070
+I like when we hold hands.
+We are holding hands.
+
+230
+00:08:52,155 --> 00:08:53,420
+Let's go.
+Mittens.
+
+231
+00:08:53,504 --> 00:08:54,840
+- Fine.
+- Fine.
+
+232
+00:08:54,956 --> 00:08:56,724
+Gently. Gently.
+
+233
+00:08:56,809 --> 00:08:57,896
+I'm doing it gently.
+
+234
+00:08:57,981 --> 00:08:59,818
+Well, your tone
+suggests otherwise.
+
+235
+00:08:59,903 --> 00:09:01,296
+Just give me your hand.
+
+236
+00:09:02,515 --> 00:09:03,908
+Gently.
+
+237
+00:09:05,217 --> 00:09:07,436
+There.
+
+238
+00:09:09,801 --> 00:09:12,169
+Bless us, Lord,
+for the food, we are about to receive,
+
+239
+00:09:12,254 --> 00:09:13,801
+and bless the hands
+that prepared it.
+
+240
+00:09:13,886 --> 00:09:17,022
+And bless Sheldon's arm
+to heal strong and quick.
+
+241
+00:09:17,107 --> 00:09:18,199
+Strongly and quickly.
+
+242
+00:09:18,284 --> 00:09:19,462
+Amen.
+
+243
+00:09:19,547 --> 00:09:20,845
+Amen.
+
+244
+00:09:21,314 --> 00:09:23,814
+I've never operated a fork
+with my left hand before.
+
+245
+00:09:23,986 --> 00:09:25,056
+I hope this goes well.
+
+246
+00:09:25,164 --> 00:09:27,338
+When my buddy Mikey
+got the cast off his leg,
+
+247
+00:09:27,423 --> 00:09:30,255
+you would not believe
+how skinny and smelly it was.
+
+248
+00:09:30,422 --> 00:09:32,557
+Like beef jerky with toes.
+
+249
+00:09:32,642 --> 00:09:34,041
+Can we please just eat?
+
+250
+00:09:36,678 --> 00:09:37,736
+Chicken's good.
+
+251
+00:09:37,866 --> 00:09:39,436
+Mrs. Sparks made it.
+
+252
+00:09:39,809 --> 00:09:40,984
+Huh?
+
+253
+00:09:44,330 --> 00:09:45,885
+My first
+bathroom attempt.
+
+254
+00:09:45,970 --> 00:09:47,888
+Let's hope
+this goes well.
+
+255
+00:09:48,080 --> 00:09:50,244
+Let me know
+if you need help.
+
+256
+00:09:50,329 --> 00:09:51,603
+I think I'll be okay.
+
+257
+00:09:51,696 --> 00:09:53,299
+It's just number one.
+
+258
+00:09:53,622 --> 00:09:55,330
+I'm here if you need me.
+
+259
+00:09:57,798 --> 00:10:00,368
+Mom, I can't get
+my zipper down!
+
+260
+00:10:00,733 --> 00:10:02,119
+I'm coming.
+
+261
+00:10:03,676 --> 00:10:04,939
+<i>I am not saying</i>
+
+262
+00:10:05,024 --> 00:10:08,074
+<i>my mother and I had
+a codependent relationship.</i>
+
+263
+00:10:08,187 --> 00:10:10,885
+<i>Mom, I can't get
+my zipper up!</i>
+
+264
+00:10:11,107 --> 00:10:12,406
+I'm on my way!
+
+265
+00:10:12,491 --> 00:10:14,133
+But she did have a tendency
+
+266
+00:10:14,218 --> 00:10:16,110
+to baby me,
+and boy howdy,
+
+267
+00:10:16,195 --> 00:10:17,461
+was I okay with that.
+
+268
+00:10:17,545 --> 00:10:19,550
+<i>♪ Well, I don't know
+if all that's true... ♪</i>
+
+269
+00:10:19,634 --> 00:10:22,484
+How's this?
+It's like I'm doing it myself.
+
+270
+00:10:22,569 --> 00:10:24,292
+<i>♪ And, baby, I got you</i>
+
+271
+00:10:24,377 --> 00:10:25,742
+Mm.
+
+272
+00:10:26,248 --> 00:10:29,529
+<i>- ♪ Babe...</i>
+<i>- Mm-mm.</i>
+
+273
+00:10:29,614 --> 00:10:31,516
+Ooh, you got it.
+
+274
+00:10:31,601 --> 00:10:34,061
+<i>- Yup, chicken.
+- ♪ I got you, babe...</i>
+
+275
+00:10:34,146 --> 00:10:36,037
+I don't have to tell you
+to be gentle.
+
+276
+00:10:36,122 --> 00:10:38,127
+No, you don't.
+
+277
+00:10:40,403 --> 00:10:43,224
+- Washcloth?
+- Washcloth.
+
+278
+00:10:43,309 --> 00:10:44,487
+Soap?
+
+279
+00:10:44,595 --> 00:10:46,107
+Soap.
+
+280
+00:10:46,796 --> 00:10:47,930
+Shampoo?
+
+281
+00:10:48,015 --> 00:10:49,672
+Shampoo.
+
+282
+00:10:49,757 --> 00:10:51,022
+Baby shampoo?
+
+283
+00:10:51,122 --> 00:10:52,756
+Does E equal MC squared?
+
+284
+00:10:52,841 --> 00:10:53,976
+Love you.
+
+285
+00:10:54,130 --> 00:10:56,005
+- <i>♪ I got you to understand...
+- "The quantum properties</i>
+
+286
+00:10:56,089 --> 00:10:58,029
+<i>of matter are to be associated"</i>
+
+287
+00:10:58,114 --> 00:11:01,662
+<i>with incompletely defined
+potentialities,</i>
+
+288
+00:11:01,966 --> 00:11:05,299
+<i>which can be more
+definitely realized..."</i>
+
+289
+00:11:05,392 --> 00:11:07,631
+<i>♪ I got you, babe.</i>
+
+290
+00:11:10,130 --> 00:11:12,186
+All right,
+you're gonna pedal.
+
+291
+00:11:12,271 --> 00:11:13,779
+I'm gonna run behind
+and hold you up.
+
+292
+00:11:13,864 --> 00:11:14,911
+I'm nervous.
+
+293
+00:11:14,996 --> 00:11:16,392
+Just pedal. You'll be fine.
+
+294
+00:11:16,477 --> 00:11:18,047
+You're gonna get hurt!
+
+295
+00:11:18,132 --> 00:11:19,441
+What?
+
+296
+00:11:19,526 --> 00:11:21,096
+Put us back on!
+
+297
+00:11:21,181 --> 00:11:22,272
+Mom?
+
+298
+00:11:22,357 --> 00:11:24,638
+You need us.
+We'll keep you safe!
+
+299
+00:11:24,959 --> 00:11:26,662
+This is weird.
+
+300
+00:11:26,747 --> 00:11:28,013
+We're a team.
+
+301
+00:11:28,481 --> 00:11:30,833
+<i>You and I belong together.</i>
+
+302
+00:11:30,918 --> 00:11:33,255
+No. I have to grow up
+and go to college.
+
+303
+00:11:33,340 --> 00:11:34,692
+<i>Forever!</i>
+
+304
+00:11:34,777 --> 00:11:36,036
+Getting weirder.
+
+305
+00:11:36,121 --> 00:11:37,734
+<i>Forever...</i>
+
+306
+00:11:37,826 --> 00:11:40,667
+<i>and ever!</i>
+
+307
+00:11:42,044 --> 00:11:43,825
+<i>Forever and ever and ever.</i>
+
+308
+00:11:43,910 --> 00:11:45,643
+<i>"That is, if we try to picture</i>
+
+309
+00:11:45,728 --> 00:11:47,487
+<i>- the position...
+- "No.</i>
+
+310
+00:11:47,579 --> 00:11:49,909
+Mom's my training wheels.
+
+311
+00:11:50,706 --> 00:11:52,604
+I can't have training wheels.
+
+312
+00:11:52,689 --> 00:11:55,604
+- Mom's my training wheels.
+- Lot of noise over there.
+
+313
+00:11:59,033 --> 00:12:00,284
+Everything okay?
+
+314
+00:12:00,369 --> 00:12:01,456
+I'm not sure.
+
+315
+00:12:01,541 --> 00:12:02,784
+What's going on?
+
+316
+00:12:03,136 --> 00:12:05,924
+Ugh. He was muttering
+in his sleep that
+
+317
+00:12:06,009 --> 00:12:07,745
+I am his training wheels.
+
+318
+00:12:07,830 --> 00:12:09,901
+What on earth does
+that mean?
+
+319
+00:12:09,986 --> 00:12:11,599
+Well, let's think about it.
+
+320
+00:12:11,968 --> 00:12:13,427
+Training wheels arefor little kids.
+
+321
+00:12:13,511 --> 00:12:15,604
+Maybe he doesn't want
+to be a little kid anymore.
+
+322
+00:12:16,549 --> 00:12:18,095
+What does that have
+to do with me?
+
+323
+00:12:19,992 --> 00:12:22,998
+You have made it your life's
+mission to hold him up.
+
+324
+00:12:23,347 --> 00:12:25,057
+What are you saying here?
+
+325
+00:12:25,176 --> 00:12:27,529
+That I am wrong to love
+and protect my son?
+
+326
+00:12:27,613 --> 00:12:30,284
+That he doesn't need his
+mother to keep an eye on him?
+
+327
+00:12:30,369 --> 00:12:31,808
+I'm not saying that. I...
+
+328
+00:12:31,893 --> 00:12:33,463
+I would never say that.
+
+329
+00:12:34,650 --> 00:12:36,588
+All right then.
+
+330
+00:12:38,323 --> 00:12:39,838
+I'm not an idiot.
+
+331
+00:12:42,206 --> 00:12:43,284
+Did you have
+
+332
+00:12:43,368 --> 00:12:45,682
+a tough time when your kids
+started being independent?
+
+333
+00:12:45,767 --> 00:12:47,034
+I'll let you know.
+
+334
+00:12:47,549 --> 00:12:48,729
+What does that mean?
+
+335
+00:12:48,814 --> 00:12:50,819
+Means one of 'em is still
+sitting in my kitchen
+
+336
+00:12:50,904 --> 00:12:52,659
+whining about something.
+
+337
+00:12:52,986 --> 00:12:56,342
+Could you be supportive
+for once?
+
+338
+00:12:57,182 --> 00:13:00,534
+Yes, watching your kids
+grow up is hard.
+
+339
+00:13:00,619 --> 00:13:02,319
+So how do you handle it?
+
+340
+00:13:02,404 --> 00:13:05,062
+I find a little bourbon
+in my coffee does the trick.
+
+341
+00:13:05,163 --> 00:13:07,339
+And we're back
+to being not helpful.
+
+342
+00:13:08,751 --> 00:13:11,355
+Look, you haven't even gotten
+to the worst part of it yet.
+
+343
+00:13:11,440 --> 00:13:12,440
+They're gonna leave home.
+
+344
+00:13:12,525 --> 00:13:14,979
+- They're gonna move to another city.
+- Oh, Lord.
+
+345
+00:13:15,064 --> 00:13:19,096
+They're gonna tell you their loser
+boyfriend has knocked them up.
+
+346
+00:13:19,563 --> 00:13:22,424
+- Just to be clear, that would be you.
+- Sorry.
+
+347
+00:13:22,667 --> 00:13:25,717
+- Turned my hair gray overnight.
+- I said sorry.
+
+348
+00:13:25,933 --> 00:13:27,743
+Clearly, you're not
+in the mood to help.
+
+349
+00:13:28,325 --> 00:13:31,897
+Listen, it's hard
+being a parent,
+
+350
+00:13:31,982 --> 00:13:35,518
+but if you do it right,
+they don't need you anymore.
+
+351
+00:13:35,964 --> 00:13:37,795
+Well, I don't like that.
+
+352
+00:13:38,573 --> 00:13:41,784
+I get it,
+but I just don't like it.
+
+353
+00:13:42,228 --> 00:13:45,830
+Well, I'd point out,
+you'll always have your husband,
+
+354
+00:13:45,953 --> 00:13:48,878
+but you want me
+to be "helpful."
+
+355
+00:13:51,635 --> 00:13:54,635
+Johannes Diderik van der Waals.
+
+356
+00:13:55,090 --> 00:13:57,213
+Nils Gustaf Dalén.
+
+357
+00:13:57,986 --> 00:13:59,963
+Heike Kamerlingh Onnes.
+
+358
+00:14:00,048 --> 00:14:01,378
+What are you going?
+
+359
+00:14:01,463 --> 00:14:03,924
+Listing Nobel Prize winners
+in physics.
+
+360
+00:14:04,009 --> 00:14:05,274
+Why?
+
+361
+00:14:05,359 --> 00:14:07,667
+To keep me from cracking
+this cast like a coconut
+
+362
+00:14:07,752 --> 00:14:09,417
+and scratching my skin off.
+
+363
+00:14:09,604 --> 00:14:11,706
+I need Mom
+to sing "Soft Kitty."
+
+364
+00:14:11,891 --> 00:14:13,159
+Don't do it.
+
+365
+00:14:13,244 --> 00:14:14,509
+Why?
+
+366
+00:14:14,594 --> 00:14:16,034
+You're being a baby again.
+
+367
+00:14:16,119 --> 00:14:17,253
+But I'm injured.
+
+368
+00:14:17,636 --> 00:14:19,471
+Big deal.
+You broke your arm.
+
+369
+00:14:19,845 --> 00:14:21,760
+Look at Stephen
+Hawking over there.
+
+370
+00:14:21,845 --> 00:14:23,487
+He's in a wheelchair.
+
+371
+00:14:23,613 --> 00:14:26,526
+You don't hear him whining
+about it with his robot voice.
+
+372
+00:14:29,017 --> 00:14:31,620
+So you're saying
+he and I are brilliant minds
+
+373
+00:14:31,736 --> 00:14:34,495
+who have both suffered
+great physical adversity.
+
+374
+00:14:34,580 --> 00:14:36,454
+That's not even close
+to what I'm saying.
+
+375
+00:14:37,079 --> 00:14:38,431
+Well, that's what I heard.
+
+376
+00:14:38,711 --> 00:14:41,190
+And if Hawking
+doesn't let it stop him,
+
+377
+00:14:41,315 --> 00:14:43,417
+then I can't
+let this cast stop me.
+
+378
+00:14:43,502 --> 00:14:45,003
+Great. Go back to sleep.
+
+379
+00:14:45,316 --> 00:14:48,338
+I will, and I'll do it
+all by myself.
+
+380
+00:14:54,584 --> 00:14:56,823
+♪ Soft kitty, warm kitty
+
+381
+00:14:56,908 --> 00:15:00,542
+- Oh, my God.
+- ♪ Little ball of fur
+
+382
+00:15:00,627 --> 00:15:04,385
+♪ Happy kitty,
+sleepy kitty, purr ♪
+
+383
+00:15:04,470 --> 00:15:06,323
+♪ Purr, purr.
+
+384
+00:15:14,663 --> 00:15:16,018
+I did it.
+
+385
+00:15:16,771 --> 00:15:18,292
+Missy, I did it!
+
+386
+00:15:18,596 --> 00:15:20,503
+What?
+
+387
+00:15:20,587 --> 00:15:22,221
+I slept through the night.
+
+388
+00:15:22,306 --> 00:15:23,799
+What time is it?
+
+389
+00:15:24,162 --> 00:15:25,713
+6:14.
+
+390
+00:15:25,820 --> 00:15:27,862
+This is why people
+hate you.
+
+391
+00:15:28,612 --> 00:15:31,948
+<i>My sister's crankiness
+did not dampen my enthusiasm.</i>
+
+392
+00:15:32,033 --> 00:15:34,362
+<i>A chicken may have
+fractured my arm,</i>
+
+393
+00:15:34,470 --> 00:15:37,018
+<i>but nothing could break
+my can-do spirit.</i>
+
+394
+00:15:38,167 --> 00:15:40,120
+All in the bowl,
+none on me.
+
+395
+00:15:40,205 --> 00:15:41,949
+I call that
+a successful urination.
+
+396
+00:15:42,042 --> 00:15:43,588
+Great.
+Go teach your brother.
+
+397
+00:15:43,673 --> 00:15:46,213
+<i>♪ There's no stopping me...</i>
+
+398
+00:15:46,314 --> 00:15:49,979
+I will not be denied my jelly.
+
+399
+00:15:50,572 --> 00:15:51,750
+Yes!
+
+400
+00:15:51,835 --> 00:15:54,784
+Watch out, peanut butter.
+You're next.
+
+401
+00:15:54,946 --> 00:15:56,211
+Who would like to tell us
+
+402
+00:15:56,296 --> 00:15:58,503
+how God touched their lives
+this week?
+
+403
+00:15:58,652 --> 00:16:00,002
+Sheldon.
+
+404
+00:16:00,102 --> 00:16:01,901
+He didn't,
+because He doesn't exist.
+
+405
+00:16:01,986 --> 00:16:03,426
+Then why raise your hand?
+
+406
+00:16:03,511 --> 00:16:05,268
+Not just any hand.
+My left hand.
+
+407
+00:16:05,397 --> 00:16:07,794
+Because I'm able
+to overcome any obstacle.
+
+408
+00:16:07,879 --> 00:16:09,579
+And maybe
+God helped you do that.
+
+409
+00:16:09,664 --> 00:16:11,057
+Actually,
+it was Stephen Hawking,
+
+410
+00:16:11,142 --> 00:16:13,159
+and he's better
+because he exists.
+
+411
+00:16:13,258 --> 00:16:15,792
+Yes, 'cause God made him.
+Anybody else?
+
+412
+00:16:15,924 --> 00:16:18,253
+Billy. Is this gonna be
+on the test?
+
+413
+00:16:18,338 --> 00:16:19,510
+Oh, boy.
+
+414
+00:16:19,595 --> 00:16:20,722
+I took a moment
+
+415
+00:16:20,806 --> 00:16:23,940
+to reflect on my journey
+of the last two weeks.
+
+416
+00:16:24,131 --> 00:16:29,424
+Such emotional growth
+was worthy of a majestic bubble beard.
+
+417
+00:16:29,524 --> 00:16:31,707
+<i>♪ Don't stop me,
+have a good time, good time... ♪</i>
+
+418
+00:16:31,792 --> 00:16:33,635
+<i>Perhaps my sister was right.</i>
+
+419
+00:16:35,229 --> 00:16:37,760
+This was a time
+I'd want to remember.
+
+420
+00:16:37,845 --> 00:16:39,937
+Dad, will you sign
+my cast?
+
+421
+00:16:40,885 --> 00:16:42,417
+Sure.
+
+422
+00:16:45,107 --> 00:16:48,374
+And if you have any grammar
+questions, please ask first.
+
+423
+00:16:53,101 --> 00:16:56,292
+"Have a great summer.
+Georgie."
+
+424
+00:16:56,975 --> 00:16:58,932
+Normally I'd write,
+"Have a bitchin' summer,"
+
+425
+00:16:59,017 --> 00:17:00,413
+but I figured
+you wouldn't like that.
+
+426
+00:17:00,497 --> 00:17:01,589
+I wouldn't.
+
+427
+00:17:01,674 --> 00:17:03,417
+My meemaw wrote...
+
+428
+00:17:03,502 --> 00:17:05,420
+"To my brave Moon Pie.
+
+429
+00:17:05,612 --> 00:17:09,260
+You handled this
+like a true Texan."
+
+430
+00:17:10,994 --> 00:17:12,277
+My mom wrote...
+
+431
+00:17:12,377 --> 00:17:15,152
+<i>"Shelly, you'll always
+be my baby,</i>
+
+432
+00:17:15,272 --> 00:17:19,081
+"but I'm so proud of the young man
+you've become.
+
+433
+00:17:19,166 --> 00:17:21,299
+Love, Mom."
+
+434
+00:17:22,683 --> 00:17:24,253
+And Billy wrote...
+
+435
+00:17:24,344 --> 00:17:25,753
+"Billy."
+
+436
+00:17:29,832 --> 00:17:32,301
+<i>The next day,
+I got my cast off.</i>
+
+437
+00:17:32,386 --> 00:17:35,793
+<i>In a world where I valued
+symmetry, I was relieved</i>
+
+438
+00:17:35,878 --> 00:17:40,042
+<i>to see that both my arms were
+as pale and skinny as ever.</i>
+
+439
+00:17:40,127 --> 00:17:43,605
+<i>But this Texan had unfinished
+business to tend to.</i>
+
+440
+00:17:43,713 --> 00:17:45,108
+Want me to get
+you started?
+
+441
+00:17:45,278 --> 00:17:47,088
+No, I can do it.
+
+442
+00:17:51,823 --> 00:17:53,639
+<i>And I did do it.</i>
+
+443
+00:17:54,022 --> 00:17:57,366
+<i>I rode my bike without
+training wheels like an adult.</i>
+
+444
+00:17:57,451 --> 00:17:58,748
+<i>It would take more
+than a chicken</i>
+
+445
+00:17:58,833 --> 00:18:01,343
+<i>or the threat of a fractured bone
+to scare me.</i>
+
+446
+00:18:01,428 --> 00:18:04,086
+<i>It would take a brown beast
+named Scraps.</i>
+
+447
+00:18:04,170 --> 00:18:06,208
+Aah!
+
+448
+00:18:06,332 --> 00:18:07,859
+Mommy?!
+
+449
+00:18:08,225 --> 00:18:10,936
+<i>I rode my bike 11 miles
+that day.</i>
+
+450
+00:18:11,128 --> 00:18:12,706
+<i>Mommy!</i>
+
+451
+00:18:12,790 --> 00:18:14,343
+Captioned by Media Access
+Group at WGBH access.wgbh.org
+
+452
+00:18:14,427 --> 00:18:16,427
+<font color="#ffc30f">Sync corrections</font> by <font color=#00FF00>srjanapala</font>
+
+453
+00:18:17,305 --> 00:19:17,433
+OpenSubtitles recommends using Nord VPN
+from 3.49 USD/month ----> osdb.link/vpn										
+    
+
+ 
+
+ 
+   
+   
+
+
+   
+ 
+  
+
+										
+ 
+
+ 
+  
+  
+
+   
+ 
+    
