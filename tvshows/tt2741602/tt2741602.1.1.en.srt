@@ -1,0 +1,3106 @@
+﻿1
+00:00:06,000 --> 00:00:12,074
+Advertise your product or brand here
+contact www.OpenSubtitles.org today
+
+2
+00:00:13,699 --> 00:00:16,834
+Must be good
+to be home again, sir.
+
+3
+00:00:20,723 --> 00:00:22,107
+Yeah.
+
+4
+00:00:24,010 --> 00:00:26,244
+Well, we'll see about that.
+
+5
+00:00:47,250 --> 00:00:48,933
+Good afternoon.
+
+6
+00:00:48,951 --> 00:00:51,436
+I'm here to see Assistant Director
+Harold Cooper.
+
+7
+00:00:51,470 --> 00:00:53,054
+Do you have an appointment?
+
+8
+00:00:53,089 --> 00:00:54,272
+I do not.
+
+9
+00:00:54,307 --> 00:00:56,124
+Tell him
+it's Raymond Reddington.
+
+10
+00:01:55,685 --> 00:01:57,335
+Ressler.
+Washington field office.
+
+11
+00:01:57,353 --> 00:01:58,987
+I'm the case agent
+on Reddington.
+
+12
+00:01:59,038 --> 00:02:00,755
+- When did this happen?
+- Under an hour ago.
+
+13
+00:02:00,790 --> 00:02:02,340
+We confirm it's actually him?
+
+14
+00:02:02,374 --> 00:02:04,909
+It's him all right.
+Prints match. Tattoos.
+
+15
+00:02:04,944 --> 00:02:08,146
+He even volunteered classified details
+about a Brussels mission in '08.
+
+16
+00:02:08,180 --> 00:02:10,815
+- What happened in Brussels?
+- Sir?
+
+17
+00:02:10,850 --> 00:02:12,334
+We tried to kill him, sir.
+
+18
+00:02:16,505 --> 00:02:17,772
+It really is him.
+
+19
+00:02:19,792 --> 00:02:22,944
+Came in with a briefcase containing
+every alias he's ever used.
+
+20
+00:02:22,979 --> 00:02:24,629
+Most of 'em we've
+never even heard of.
+
+21
+00:02:24,664 --> 00:02:25,763
+What does he want?
+
+22
+00:02:25,781 --> 00:02:27,499
+Don't know. Won't talk.
+
+23
+00:02:27,533 --> 00:02:29,117
+He's a stone.
+
+24
+00:02:29,151 --> 00:02:30,452
+Call lab services.
+
+25
+00:02:30,486 --> 00:02:33,304
+Have them fit him with
+an AlphaChip RFID tag.
+
+26
+00:02:33,322 --> 00:02:36,041
+Assemble a full intel review.
+NSA. CIA.
+
+27
+00:02:36,075 --> 00:02:38,313
+What exactly
+do you want to know?
+
+28
+00:02:38,461 --> 00:02:39,778
+Everything.
+
+29
+00:02:42,581 --> 00:02:45,216
+Raymond "Red" Reddington
+attended the Naval Academy.
+
+30
+00:02:45,234 --> 00:02:48,286
+Top of his class.
+Graduated by the time he was 24.
+
+31
+00:02:48,304 --> 00:02:50,438
+He was being groomed
+for admiral.
+
+32
+00:02:50,473 --> 00:02:53,358
+Then in 1990,
+Reddington's coming home
+
+33
+00:02:53,392 --> 00:02:55,577
+to see his wife and his daughter
+for Christmas.
+
+34
+00:02:55,628 --> 00:02:57,128
+He never arrives.
+
+35
+00:02:57,146 --> 00:02:58,780
+This highly respected officer
+
+36
+00:02:58,831 --> 00:03:00,665
+up and disappears from
+the face of the earth...
+
+37
+00:03:00,683 --> 00:03:03,268
+until four years later
+
+38
+00:03:03,302 --> 00:03:07,005
+when classified NOFORN documents
+start showing up in Maghreb,
+
+39
+00:03:07,039 --> 00:03:09,357
+Islamabad, Beijing.
+
+40
+00:03:09,408 --> 00:03:11,176
+These leaks were traced
+to Reddington.
+
+41
+00:03:11,210 --> 00:03:13,611
+This guy's an equal
+opportunity offender,
+
+42
+00:03:13,646 --> 00:03:15,313
+a facilitator of sorts,
+
+43
+00:03:15,331 --> 00:03:17,515
+who's built an enterprise brokering deals
+for fellow criminals.
+
+44
+00:03:17,549 --> 00:03:19,718
+- Ouch.
+- He has no country.
+
+45
+00:03:19,752 --> 00:03:21,152
+He has no political agenda.
+
+46
+00:03:21,187 --> 00:03:24,723
+Reddington's only allegiance
+is to the highest bidder.
+
+47
+00:03:24,757 --> 00:03:27,191
+They call him something
+in the papers.
+
+48
+00:03:28,394 --> 00:03:29,994
+"The concierge of crime."
+
+49
+00:03:30,029 --> 00:03:32,547
+He's online.
+
+50
+00:03:32,598 --> 00:03:37,052
+Evidently someone with the authority
+to make decisions has arrived.
+
+51
+00:03:37,103 --> 00:03:41,489
+I think I smell the stench of your cologne,
+Agent Cooper. Smells like hubris.
+
+52
+00:03:41,524 --> 00:03:44,426
+Get these feeds fixed.
+I want him up here. Come on.
+
+53
+00:03:44,460 --> 00:03:46,311
+You must have many questions,
+
+54
+00:03:46,345 --> 00:03:49,764
+so let's begin with the most
+important one... Why I'm here.
+
+55
+00:03:49,815 --> 00:03:53,735
+Remember the 1986 attack
+on the U.S. Embassy in Damascus,
+
+56
+00:03:53,769 --> 00:03:56,404
+the abduction of
+the six foreign nationals
+
+57
+00:03:56,439 --> 00:03:59,174
+from the French consulate
+in Algiers in '97,
+
+58
+00:03:59,208 --> 00:04:03,778
+or the 2002 breach of the
+Krungthai Bank in Bangkok?
+
+59
+00:04:03,813 --> 00:04:06,748
+You see these events
+as unrelated.
+
+60
+00:04:06,782 --> 00:04:09,501
+I can tell you one man is
+responsible for all three.
+
+61
+00:04:09,535 --> 00:04:12,520
+His name is Ranko Zamani.
+
+62
+00:04:12,571 --> 00:04:14,839
+You want him. I want him.
+
+63
+00:04:14,857 --> 00:04:18,993
+So let's say for the moment
+our interests are aligned.
+
+64
+00:04:20,746 --> 00:04:22,564
+Ranko Sinisa Zamani.
+
+65
+00:04:22,598 --> 00:04:24,999
+Serbian national
+educated in the U.S.
+
+66
+00:04:26,386 --> 00:04:28,837
+Ranko Zamani's
+been dead for six years.
+
+67
+00:04:28,871 --> 00:04:30,705
+- He's a non-existent threat.
+- Then a dead man
+
+68
+00:04:30,740 --> 00:04:34,142
+just stepped off United 283
+from Munich to Dulles.
+
+69
+00:04:37,797 --> 00:04:40,048
+He entered the country
+under the name Sacha M. Chacko.
+
+70
+00:04:40,099 --> 00:04:42,917
+- Cleared customs at 10:56 a.m.
+- Listen up, people.
+
+71
+00:04:42,952 --> 00:04:46,137
+The lab just pulled a latent
+print from the airline arm rest.
+
+72
+00:04:46,172 --> 00:04:48,072
+Nine points of comparison.
+
+73
+00:04:48,107 --> 00:04:50,041
+Zamani's alive.
+
+74
+00:04:55,698 --> 00:04:57,148
+You have my attention.
+
+75
+00:04:57,166 --> 00:04:58,299
+Were you wrong?
+
+76
+00:04:58,334 --> 00:05:00,435
+I was wrong.
+
+77
+00:05:00,469 --> 00:05:02,787
+Yes, you were wrong.
+
+78
+00:05:02,822 --> 00:05:05,390
+At least it's not the first time.
+Familiar territory.
+
+79
+00:05:07,042 --> 00:05:09,427
+Now, I'll give you Zamani,
+but first...
+
+80
+00:05:09,461 --> 00:05:11,496
+No "but firsts."
+You don't decide anything.
+
+81
+00:05:11,530 --> 00:05:14,215
+Agent Cooper, you've overestimated
+your authority.
+
+82
+00:05:14,250 --> 00:05:17,118
+I said I'll help you
+find Zamani, and I will.
+
+83
+00:05:17,153 --> 00:05:21,823
+But from this point forward,
+there's one very important rule...
+
+84
+00:05:21,874 --> 00:05:24,375
+I speak only with Elizabeth Keen.
+
+85
+00:05:25,494 --> 00:05:27,462
+Who the hell's Elizabeth Keen?
+
+86
+00:05:30,983 --> 00:05:32,750
+Oh, buddy.
+
+87
+00:05:32,784 --> 00:05:34,302
+Seriously, dude?
+
+88
+00:05:38,757 --> 00:05:40,310
+Babe, what time is it?
+
+89
+00:05:40,345 --> 00:05:42,108
+I don't know.
+What time you gotta be there?
+
+90
+00:05:42,444 --> 00:05:44,329
+- Oh, crap.
+- What's up?
+
+91
+00:05:44,363 --> 00:05:45,346
+- Crap!
+- What?
+
+92
+00:05:45,381 --> 00:05:48,416
+No! My first day!
+
+93
+00:05:48,450 --> 00:05:49,901
+Babe, are you good?
+You need help?
+
+94
+00:05:49,935 --> 00:05:51,986
+I missed the bus, babe.
+
+95
+00:05:52,037 --> 00:05:54,205
+I'm gonna need to take the car.
+
+96
+00:05:54,223 --> 00:05:55,690
+You can't take the car.
+I need the car.
+
+97
+00:05:55,724 --> 00:05:57,575
+I've got field trip
+planning committee.
+
+98
+00:05:57,610 --> 00:05:59,227
+You took the dog out, right?
+
+99
+00:05:59,261 --> 00:06:02,363
+I did. For the field trip...
+Air and Space or the D.C. Zoo?
+
+100
+00:06:02,398 --> 00:06:05,383
+- The zoo's gender neutral.
+- All right.
+
+101
+00:06:05,401 --> 00:06:07,118
+- Good thinkin'.
+- We're out of milk.
+
+102
+00:06:07,152 --> 00:06:09,287
+- Oop. Sorry.
+- Is this pee?
+
+103
+00:06:09,305 --> 00:06:10,738
+I'm standing in pee, babe.
+
+104
+00:06:10,773 --> 00:06:12,974
+- He's your dog, too.
+- Yeah, thanks a lot.
+
+105
+00:06:13,008 --> 00:06:16,535
+I'm gonna smell like a urinary
+tract infection on my first day!
+
+106
+00:06:17,079 --> 00:06:21,366
+Hey, don't forget we got the last
+adoption meeting today. One-thirty.
+
+107
+00:06:21,400 --> 00:06:22,800
+You heard me, right?
+One-thirty.
+
+108
+00:06:22,818 --> 00:06:24,769
+Yep. One-thirty.
+Last meeting.
+
+109
+00:06:24,803 --> 00:06:26,437
+I'm in the car.
+You got the keys?
+
+110
+00:06:26,472 --> 00:06:28,506
+Yeah, in my pocket.
+I got your coffee.
+
+111
+00:06:28,541 --> 00:06:31,092
+No more peeing, dude.
+
+112
+00:06:34,897 --> 00:06:36,114
+What?
+
+113
+00:06:37,199 --> 00:06:39,234
+We both woke up
+seven minutes ago.
+
+114
+00:06:39,268 --> 00:06:41,169
+I'm pretty sure my pants
+are on backwards
+
+115
+00:06:41,203 --> 00:06:43,120
+and I can barely see straight.
+
+116
+00:06:43,138 --> 00:06:45,323
+But you are somehow dressed,
+
+117
+00:06:45,357 --> 00:06:48,259
+composed, and as beautiful
+as the day I met you.
+
+118
+00:06:48,293 --> 00:06:50,111
+- I think I'm forgetting something.
+- Yeah.
+
+119
+00:06:54,767 --> 00:06:57,568
+You know I'm not gonna let this job
+come between us and our family, right?
+
+120
+00:06:57,586 --> 00:06:59,303
+I know.
+
+121
+00:06:59,321 --> 00:07:01,789
+We want a family,
+we're going to have a family.
+
+122
+00:07:01,840 --> 00:07:04,108
+Were you serious about that kid thing?
+Because I got stuff goin...
+
+123
+00:07:04,143 --> 00:07:05,226
+Ow!
+
+124
+00:07:05,261 --> 00:07:07,045
+Mama.
+
+125
+00:07:07,079 --> 00:07:08,245
+Today's the day.
+
+126
+00:07:08,264 --> 00:07:09,347
+Yeah, I know.
+
+127
+00:07:11,166 --> 00:07:13,434
+Man, I am so proud of you.
+
+128
+00:07:13,485 --> 00:07:15,169
+- Thanks.
+- You worked so hard for this.
+
+129
+00:07:15,220 --> 00:07:16,187
+Are you nervous?
+
+130
+00:07:16,221 --> 00:07:18,406
+No. But I am very late.
+
+131
+00:07:28,367 --> 00:07:29,667
+Agent Keen.
+
+132
+00:07:29,701 --> 00:07:31,769
+Donald Ressler.
+Washington field office.
+
+133
+00:07:31,787 --> 00:07:33,721
+I need you to come with me
+right away.
+
+134
+00:07:35,274 --> 00:07:37,859
+Babe, I don't think I'm
+gonna need to take the car.
+
+135
+00:07:45,267 --> 00:07:47,485
+Agent Keen.
+Am I getting that right?
+
+136
+00:07:47,503 --> 00:07:49,387
+- Yes, sir.
+- Harold Cooper.
+
+137
+00:07:49,421 --> 00:07:50,738
+Assistant Director
+of Counterterrorism.
+
+138
+00:07:50,773 --> 00:07:52,840
+Yes, sir.
+I know who you are, sir.
+
+139
+00:07:52,875 --> 00:07:56,561
+So, uh...can you
+tell us what's going on?
+
+140
+00:07:56,595 --> 00:07:58,095
+I wish I could.
+
+141
+00:07:58,113 --> 00:08:00,982
+I can tell you that...
+
+142
+00:08:01,016 --> 00:08:03,384
+I've been vetted by the
+agency like everyone else,
+
+143
+00:08:03,419 --> 00:08:06,104
+you know, same background checks,
+psych profiles.
+
+144
+00:08:06,138 --> 00:08:08,839
+I'm sure OPR's trolling
+my digital footprint right now,
+
+145
+00:08:08,857 --> 00:08:10,441
+and I can tell you
+what they'll find.
+
+146
+00:08:10,459 --> 00:08:11,575
+What will they find?
+
+147
+00:08:11,593 --> 00:08:13,861
+Nothing. I have no history
+with Reddington.
+
+148
+00:08:13,912 --> 00:08:16,301
+They tell me today's
+your first day as a profiler.
+
+149
+00:08:16,337 --> 00:08:17,436
+Yes, sir.
+
+150
+00:08:17,471 --> 00:08:19,467
+I was reassigned from New York.
+I graduated Quantico last month.
+
+151
+00:08:19,518 --> 00:08:22,003
+- Congratulations.
+- Thank you.
+
+152
+00:08:22,037 --> 00:08:25,039
+Do me a favor.
+Profile yourself.
+
+153
+00:08:26,091 --> 00:08:27,425
+I'm sorry, sir?
+
+154
+00:08:27,443 --> 00:08:30,144
+Who are you?
+What is he looking for?
+
+155
+00:08:30,179 --> 00:08:31,612
+Profile Elizabeth Keen.
+
+156
+00:08:32,631 --> 00:08:33,965
+Oh. Okay.
+
+157
+00:08:33,999 --> 00:08:35,733
+Uh...
+
+158
+00:08:35,767 --> 00:08:39,470
+Um, well, I've been with
+the Bureau for four years.
+
+159
+00:08:39,488 --> 00:08:42,006
+I was the head of the Mobile
+Emergency Psych Unit in New York.
+
+160
+00:08:42,024 --> 00:08:43,458
+We worked murders,
+
+161
+00:08:43,492 --> 00:08:45,093
+- extortion...
+- Read your résumé.
+
+162
+00:08:46,412 --> 00:08:48,596
+Of course.
+
+163
+00:08:52,685 --> 00:08:55,737
+My colleagues call me "sir."
+
+164
+00:08:55,771 --> 00:08:59,323
+They think I'm...
+
+165
+00:08:59,357 --> 00:09:00,591
+a bitch.
+
+166
+00:09:03,762 --> 00:09:05,680
+Like most kids
+who raised themselves,
+
+167
+00:09:05,731 --> 00:09:08,032
+I can display
+narcissistic behavior.
+
+168
+00:09:08,050 --> 00:09:12,220
+I can be withdrawn,
+disconnected. Uh...
+
+169
+00:09:12,254 --> 00:09:16,290
+I have a deep yearning to understand
+and relate to the criminal mind.
+
+170
+00:09:20,913 --> 00:09:22,964
+I'm board certified
+in forensic psychology,
+
+171
+00:09:22,998 --> 00:09:24,849
+and yet I operate
+under the delusion
+
+172
+00:09:24,883 --> 00:09:28,419
+that I can rewrite my past
+by having kids of my own.
+
+173
+00:09:28,437 --> 00:09:31,005
+Do you find it odd
+Reddington surrendered himself
+
+174
+00:09:31,040 --> 00:09:32,840
+the day you started working
+as a profiler?
+
+175
+00:09:32,875 --> 00:09:35,376
+I think that it suggests
+he was waiting for me.
+
+176
+00:09:35,427 --> 00:09:37,245
+Why you? Specifically.
+
+177
+00:09:39,748 --> 00:09:45,103
+Because I'm new and he thinks
+I can be easily manipulated.
+
+178
+00:09:45,137 --> 00:09:47,855
+The man obviously
+doesn't know me very well.
+
+179
+00:09:51,343 --> 00:09:53,010
+What is this place?
+
+180
+00:09:53,044 --> 00:09:55,747
+D.C. Metro Sorting Facility,
+U.S. Postal Service.
+
+181
+00:09:55,781 --> 00:09:58,316
+It was abandoned and slated
+for demo twelve years ago.
+
+182
+00:09:58,350 --> 00:10:00,951
+The Bureau acquired the building
+post-9/11.
+
+183
+00:10:00,969 --> 00:10:04,221
+Been operating a variety of covert
+operations here ever since.
+
+184
+00:10:04,239 --> 00:10:07,208
+So this is a black site?
+
+185
+00:10:07,242 --> 00:10:10,928
+We're sentimental.
+We prefer to call it The Post Office.
+
+186
+00:10:18,570 --> 00:10:21,071
+If you need anything,
+remember...
+
+187
+00:10:21,090 --> 00:10:22,673
+we're right here.
+
+188
+00:11:03,849 --> 00:11:05,883
+Agent Keen, what a pleasure.
+
+189
+00:11:11,306 --> 00:11:13,174
+Well...
+
+190
+00:11:13,208 --> 00:11:14,709
+I'm here.
+
+191
+00:11:15,811 --> 00:11:17,912
+You got rid of your highlights.
+
+192
+00:11:21,283 --> 00:11:23,584
+You look much less Baltimore.
+
+193
+00:11:26,822 --> 00:11:28,656
+Do you get back home much?
+
+194
+00:11:28,690 --> 00:11:30,324
+Tell me about Zamani.
+
+195
+00:11:31,527 --> 00:11:33,027
+I haven't been home in years.
+
+196
+00:11:35,097 --> 00:11:37,815
+Why involve me? I'm nobody.
+It's my first day.
+
+197
+00:11:37,850 --> 00:11:39,650
+Nothin' special about me.
+
+198
+00:11:39,685 --> 00:11:41,652
+Oh, I think
+you're very special.
+
+199
+00:11:47,426 --> 00:11:49,827
+Within the hour,
+Ranko Zamani will abduct
+
+200
+00:11:49,862 --> 00:11:52,563
+the daughter of
+U.S. General Daniel Ryker.
+
+201
+00:11:52,598 --> 00:11:55,066
+There'll be
+some kind of diversion,
+
+202
+00:11:55,100 --> 00:11:57,835
+communications will be scrambled,
+
+203
+00:11:57,870 --> 00:12:00,671
+then he'll grab the girl.
+
+204
+00:12:00,689 --> 00:12:03,140
+He wants to be out of the
+country within 36 hours.
+
+205
+00:12:03,175 --> 00:12:06,310
+If you don't move quickly,
+she will die.
+
+206
+00:12:06,345 --> 00:12:08,379
+That's what I know.
+
+207
+00:12:08,413 --> 00:12:10,464
+And how do you know this?
+
+208
+00:12:10,499 --> 00:12:13,050
+Because I'm the one
+who got him into the country.
+
+209
+00:12:14,253 --> 00:12:15,937
+And I'm supposed
+to believe you?
+
+210
+00:12:15,988 --> 00:12:18,222
+No, of course not!
+
+211
+00:12:21,376 --> 00:12:24,428
+I'm a criminal.
+Criminals are notorious liars.
+
+212
+00:12:26,114 --> 00:12:28,316
+Everything about me is a lie.
+
+213
+00:12:33,405 --> 00:12:36,891
+But if anyone can give me
+a second chance, it's you.
+
+214
+00:12:36,925 --> 00:12:41,028
+The two of us have...
+overcome so much.
+
+215
+00:12:42,164 --> 00:12:44,098
+I mean, look at you.
+
+216
+00:12:46,034 --> 00:12:48,970
+Abandoned by a father
+who was a career criminal,
+
+217
+00:12:49,004 --> 00:12:52,440
+a mother who died of...
+weakness and shame.
+
+218
+00:12:55,344 --> 00:12:58,246
+And yet here you are, about
+to make a name for yourself,
+
+219
+00:12:58,280 --> 00:13:01,232
+about to...
+capture Ranko Zamani.
+
+220
+00:13:05,370 --> 00:13:08,122
+I'm gonna make you famous,
+Lizzy.
+
+221
+00:13:08,156 --> 00:13:09,607
+What did you tell him?
+
+222
+00:13:09,641 --> 00:13:11,609
+What are you talking about?
+
+223
+00:13:11,643 --> 00:13:14,912
+How did he know those things?
+Private things about my family?
+
+224
+00:13:14,947 --> 00:13:17,398
+Why didn't your father's criminal record
+show up on your background report?
+
+225
+00:13:17,432 --> 00:13:19,917
+We need to contact the SWAT commander
+at Quantico. Roll a team out to the girl.
+
+226
+00:13:19,952 --> 00:13:21,168
+This is nonsense.
+He's bluffing, sir.
+
+227
+00:13:21,219 --> 00:13:23,137
+No, he's establishing value.
+
+228
+00:13:23,171 --> 00:13:25,039
+I've been the case agent
+on this guy for five years.
+
+229
+00:13:25,090 --> 00:13:27,275
+And five years
+has gotten you what?
+
+230
+00:13:29,511 --> 00:13:31,428
+You asked me here,
+you asked my opinion.
+
+231
+00:13:31,446 --> 00:13:34,198
+Here it is...
+That girl's gonna get taken.
+
+232
+00:13:34,216 --> 00:13:35,366
+Excuse me.
+
+233
+00:13:44,743 --> 00:13:47,111
+Tom.
+Thank God you picked up.
+
+234
+00:13:47,145 --> 00:13:49,297
+Hey, tell me you're close.
+What's going on? Are you close?
+
+235
+00:13:49,348 --> 00:13:51,015
+That helicopter,
+
+236
+00:13:51,049 --> 00:13:52,566
+they flew me to
+the Assistant Director,
+
+237
+00:13:52,601 --> 00:13:55,052
+put me on a case, and I
+can't get away right now.
+
+238
+00:13:55,070 --> 00:13:56,420
+You're kidding, right?
+
+239
+00:13:56,455 --> 00:13:58,756
+The adoption people,
+they're all waiting.
+
+240
+00:14:00,108 --> 00:14:02,293
+- Liz, are you there?
+- Put on a great show in there.
+
+241
+00:14:02,327 --> 00:14:03,728
+You better
+pull yourself together
+
+242
+00:14:03,762 --> 00:14:05,179
+because you just
+called in the cavalry.
+
+243
+00:14:05,213 --> 00:14:07,631
+Can I just have one minute,
+um...
+
+244
+00:14:07,666 --> 00:14:08,749
+We don't have a minute.
+Come on.
+
+245
+00:14:08,800 --> 00:14:10,668
+Let's go.
+
+246
+00:14:10,702 --> 00:14:13,004
+I'm sorry. I know we had
+
+247
+00:14:13,038 --> 00:14:16,440
+an appointment, but there's a
+girl, something happened...
+
+248
+00:14:16,475 --> 00:14:20,044
+I-I can't tell you.
+It's classified.
+
+249
+00:14:20,062 --> 00:14:22,863
+- This whole...day is classified.
+- Lizzy...
+
+250
+00:14:22,898 --> 00:14:24,949
+Lizzy, babe, if...
+if it's too much,
+
+251
+00:14:24,983 --> 00:14:26,934
+we don't have to
+do this right now, okay?
+
+252
+00:14:26,985 --> 00:14:28,703
+We don't have to do it.
+We'll just... We'll do it next year.
+
+253
+00:14:28,754 --> 00:14:31,038
+But if we are gonna go through
+
+254
+00:14:31,073 --> 00:14:34,358
+with this,
+you gotta do it with me.
+
+255
+00:14:34,393 --> 00:14:36,027
+- I can't do it alone, Lizzy.
+- We gotta go.
+
+256
+00:14:36,061 --> 00:14:38,646
+No. No. Tom, listen,
+
+257
+00:14:38,697 --> 00:14:42,900
+our family is the only thing
+that matters, okay?
+
+258
+00:14:42,934 --> 00:14:45,720
+- It's the only thing that matters.
+- Okay.
+
+259
+00:14:45,754 --> 00:14:47,955
+All right, let me, uh...
+
+260
+00:14:47,989 --> 00:14:50,374
+Let me handle it, I'll,
+um, I'll take care of it.
+
+261
+00:14:50,409 --> 00:14:51,809
+I think this woman might
+punch me in the face,
+
+262
+00:14:51,843 --> 00:14:53,044
+- but I got it.
+- I am so sorry.
+
+263
+00:14:53,078 --> 00:14:54,845
+Don't be sorry,
+just be safe, okay?
+
+264
+00:14:54,879 --> 00:14:55,846
+I love you.
+
+265
+00:14:55,880 --> 00:14:57,314
+I love you too.
+
+266
+00:15:03,388 --> 00:15:04,739
+Sir.
+
+267
+00:15:04,773 --> 00:15:06,207
+At ease.
+
+268
+00:15:06,241 --> 00:15:08,008
+We have a situation, sir.
+
+269
+00:15:08,060 --> 00:15:09,710
+It's about your daughter.
+
+270
+00:15:09,745 --> 00:15:11,045
+My daughter?
+
+271
+00:15:18,737 --> 00:15:20,704
+Guys, with the guns, please.
+
+272
+00:15:20,739 --> 00:15:22,206
+We don't want to
+scare the kids.
+
+273
+00:15:22,224 --> 00:15:24,325
+I got this.
+
+274
+00:15:32,067 --> 00:15:35,252
+Beth. Sweetie, this lady
+needs to speak to you.
+
+275
+00:15:35,286 --> 00:15:36,904
+Hi, Bethany, don't be scared.
+
+276
+00:15:36,938 --> 00:15:38,989
+I just need you
+to come with me, okay?
+
+277
+00:15:39,024 --> 00:15:40,374
+Thank you.
+
+278
+00:15:49,767 --> 00:15:52,103
+Your name's Beth, right?
+Yeah?
+
+279
+00:15:52,137 --> 00:15:53,654
+My name's Beth, too.
+
+280
+00:15:53,688 --> 00:15:55,873
+I'm Elizabeth.
+
+281
+00:15:55,907 --> 00:15:58,175
+My friends call me Liz, though.
+
+282
+00:15:58,210 --> 00:16:00,210
+You can call me Liz
+if you want.
+
+283
+00:16:00,228 --> 00:16:02,797
+My daddy has a pin like that.
+
+284
+00:16:02,831 --> 00:16:06,801
+Oh, yeah? I bet your daddy
+has lots of medals.
+
+285
+00:16:06,852 --> 00:16:09,420
+To get a pin like this
+you gotta be really brave.
+
+286
+00:16:09,454 --> 00:16:12,440
+This can be
+your special pin, okay?
+
+287
+00:16:12,491 --> 00:16:14,658
+There you go.
+
+288
+00:16:14,693 --> 00:16:16,260
+You like it?
+
+289
+00:16:19,598 --> 00:16:21,749
+Oh...
+
+290
+00:16:21,783 --> 00:16:23,767
+You don't have to...
+
+291
+00:16:23,802 --> 00:16:26,003
+Thank you so much.
+This is beautiful.
+
+292
+00:16:26,972 --> 00:16:28,756
+Wow.
+
+293
+00:16:28,790 --> 00:16:31,258
+The bull's pokey.
+Be careful.
+
+294
+00:16:31,293 --> 00:16:32,860
+Okay, I'll be careful.
+
+295
+00:16:39,851 --> 00:16:41,302
+What's going on?
+
+296
+00:16:41,353 --> 00:16:42,686
+Hey, what's going on up there?
+
+297
+00:16:42,721 --> 00:16:45,272
+HazMat has the road closed.
+We'll be turning around.
+
+298
+00:16:45,307 --> 00:16:48,075
+Rolling
+Thunder to Follow 1.
+
+299
+00:16:48,109 --> 00:16:49,894
+Be advised we have
+a chemical spill ahead.
+
+300
+00:16:49,928 --> 00:16:52,596
+Copy that.
+Proceeding to alternate route.
+
+301
+00:16:54,483 --> 00:16:56,366
+Do you want to call your daddy?
+
+302
+00:16:56,384 --> 00:16:58,435
+Yeah, I want to
+tell him I'm okay.
+
+303
+00:16:58,469 --> 00:16:59,469
+Okay.
+
+304
+00:17:31,002 --> 00:17:32,002
+Back up!
+
+305
+00:17:34,873 --> 00:17:36,557
+- Are you okay?
+- I think so.
+
+306
+00:17:46,001 --> 00:17:47,885
+Tango, tango,
+tango, respond!
+
+307
+00:17:47,919 --> 00:17:49,403
+I can't see!
+I got blood in my...
+
+308
+00:17:56,077 --> 00:17:58,028
+Get the girl!
+
+309
+00:17:58,063 --> 00:18:00,598
+If you want to save the girl,
+do not fire your weapon.
+
+310
+00:18:04,886 --> 00:18:06,670
+Take it.
+
+311
+00:18:12,594 --> 00:18:14,845
+Okay, baby,
+this smoke's gonna hurt us.
+
+312
+00:18:14,879 --> 00:18:16,897
+All right? I need you
+to put this on for me.
+
+313
+00:18:16,948 --> 00:18:19,300
+- What about you?
+- There's only one.
+
+314
+00:18:19,334 --> 00:18:21,185
+It's for you, hon.
+Okay, listen to me.
+
+315
+00:18:21,219 --> 00:18:23,988
+- These men are gonna take you.
+- Are they gonna hurt me?
+
+316
+00:18:24,022 --> 00:18:26,423
+They're not gonna hurt you.
+I'm gonna find you, okay?
+
+317
+00:18:26,458 --> 00:18:27,758
+Okay.
+
+318
+00:18:37,936 --> 00:18:39,320
+Beth, I'm gonna find you.
+
+319
+00:19:53,560 --> 00:19:56,334
+Who made the call to send that girl
+after my daughter?
+
+320
+00:19:56,411 --> 00:19:58,309
+Who made the call?!
+
+321
+00:20:00,247 --> 00:20:02,599
+Where's the girl?
+It's been four hours.
+
+322
+00:20:02,650 --> 00:20:04,884
+Your people haven't made
+any demands.
+
+323
+00:20:04,919 --> 00:20:08,254
+My people? I told you
+Zamani would take the girl.
+
+324
+00:20:08,289 --> 00:20:10,890
+I told you that's all I knew.
+
+325
+00:20:10,925 --> 00:20:13,159
+This is in your hands now.
+
+326
+00:20:13,194 --> 00:20:15,345
+I need your help with Zamani.
+
+327
+00:20:17,148 --> 00:20:18,915
+How about a trade?
+
+328
+00:20:18,949 --> 00:20:21,334
+You tell me and I'll tell you.
+
+329
+00:20:21,352 --> 00:20:23,419
+Tell me about
+the scar on your palm.
+
+330
+00:20:24,455 --> 00:20:27,307
+I've noticed how you stroke it.
+
+331
+00:20:29,843 --> 00:20:32,879
+There was a fire.
+I was fourteen.
+
+332
+00:20:32,913 --> 00:20:34,848
+Someone tried to hurt you.
+
+333
+00:20:38,418 --> 00:20:40,487
+Not exactly, no.
+
+334
+00:20:48,863 --> 00:20:51,047
+May I see it?
+
+335
+00:21:05,980 --> 00:21:07,914
+Is a child really what you want?
+
+336
+00:21:08,731 --> 00:21:09,927
+How on earth...
+
+337
+00:21:09,962 --> 00:21:11,651
+But a baby won't fix
+what happened in the past.
+
+338
+00:21:11,685 --> 00:21:13,386
+You lost the right
+to speak about parenthood
+
+339
+00:21:13,420 --> 00:21:16,339
+when you abandoned your wife
+and daughter on Christmas Eve.
+
+340
+00:21:16,373 --> 00:21:18,491
+- The girl.
+- You won't find the girl
+
+341
+00:21:18,526 --> 00:21:20,693
+until you learn
+to look at this differently.
+
+342
+00:21:20,711 --> 00:21:22,929
+And how should I look at this?
+
+343
+00:21:22,963 --> 00:21:25,031
+Like a criminal.
+
+344
+00:21:25,049 --> 00:21:28,434
+May come easier than you think.
+
+345
+00:21:28,469 --> 00:21:31,237
+Shall I show you?
+
+346
+00:21:34,708 --> 00:21:37,610
+Well, at least you know
+what Zamani looks like.
+
+347
+00:21:40,798 --> 00:21:43,650
+Oh, my goodness!
+
+348
+00:21:43,684 --> 00:21:46,269
+I haven't seen him in years.
+
+349
+00:21:46,303 --> 00:21:48,388
+Very interesting fellow.
+
+350
+00:21:48,422 --> 00:21:50,356
+Completely unrelated to this.
+
+351
+00:21:51,492 --> 00:21:53,343
+You're pointing at
+the wrong guy here.
+
+352
+00:21:54,678 --> 00:21:56,362
+Miroslav.
+
+353
+00:21:56,397 --> 00:21:57,964
+They call him The Chemist.
+
+354
+00:21:57,998 --> 00:22:00,683
+A highly regarded munitions expert.
+
+355
+00:22:00,718 --> 00:22:05,672
+He left MIT to work for
+the Russian, Vor Usoyan.
+
+356
+00:22:05,706 --> 00:22:09,375
+Last two years...
+very expensive freelancer.
+
+357
+00:22:13,847 --> 00:22:16,182
+I don't know what the hell
+any of this is.
+
+358
+00:22:17,151 --> 00:22:19,318
+Ooh, the German.
+
+359
+00:22:19,336 --> 00:22:21,771
+A banker. Name's Reinhardt.
+
+360
+00:22:23,107 --> 00:22:25,625
+He's most likely
+moving the money.
+
+361
+00:22:27,027 --> 00:22:28,194
+What about the girl?
+
+362
+00:22:28,228 --> 00:22:29,712
+What do you have on
+the girl and her father?
+
+363
+00:22:29,747 --> 00:22:33,265
+Your 36-hour timeline
+would suggest a singular event.
+
+364
+00:22:33,284 --> 00:22:34,867
+Something in D.C.
+
+365
+00:22:34,901 --> 00:22:38,270
+I'm not sure how the girl fits.
+
+366
+00:22:38,289 --> 00:22:39,839
+What about the Chemist?
+
+367
+00:22:41,976 --> 00:22:45,194
+Important...well paid...
+
+368
+00:22:47,014 --> 00:22:49,332
+Whatever Zamani's planning
+is expensive.
+
+369
+00:22:50,651 --> 00:22:52,352
+Some sort of attack?
+
+370
+00:22:52,386 --> 00:22:54,754
+You're thinking like a cop.
+
+371
+00:22:54,788 --> 00:22:56,407
+Cops are so objective.
+
+372
+00:22:56,442 --> 00:22:59,362
+They're obligated to protocols.
+Make it personal.
+
+373
+00:22:59,397 --> 00:23:01,760
+Okay, this is nonsense.
+
+374
+00:23:02,479 --> 00:23:06,482
+Zamani's sick.
+CIA says he carries Nipah virus.
+
+375
+00:23:06,517 --> 00:23:07,734
+Dying makes him dangerous.
+
+376
+00:23:07,768 --> 00:23:12,355
+So what does he desperately want
+before he dies?
+
+377
+00:23:12,389 --> 00:23:14,674
+And how does that relate
+to the little girl?
+
+378
+00:23:18,312 --> 00:23:21,848
+Her father, the General,
+spent time in Bosnia...
+
+379
+00:23:21,882 --> 00:23:24,217
+supporting NATO troops
+in the Bihac Pocket region.
+
+380
+00:23:24,251 --> 00:23:26,052
+Zamani's home.
+
+381
+00:23:26,086 --> 00:23:28,254
+He bombed a chemical weapons
+facility...
+
+382
+00:23:29,923 --> 00:23:31,457
+poisoning the village.
+
+383
+00:23:32,826 --> 00:23:34,594
+It's about his family.
+
+384
+00:23:36,313 --> 00:23:38,481
+They died, Zamani survived.
+
+385
+00:23:38,515 --> 00:23:40,266
+He wants revenge.
+
+386
+00:23:40,300 --> 00:23:43,619
+He hired the Chemist to build a bomb,
+detonate it in Washington.
+
+387
+00:23:49,693 --> 00:23:52,545
+He's gonna use Beth
+to settle the score...
+
+388
+00:23:56,116 --> 00:23:58,384
+deliver the bomb.
+
+389
+00:23:59,473 --> 00:24:01,904
+Okay, let's move.
+We're on a clock.
+
+390
+00:24:04,024 --> 00:24:05,491
+I have an acquaintance.
+
+391
+00:24:05,525 --> 00:24:09,145
+They call him The Innkeeper,
+runs a series of safe houses.
+
+392
+00:24:09,179 --> 00:24:12,865
+Lean on him.
+He'll know where to find the Chemist.
+
+393
+00:24:12,900 --> 00:24:16,169
+You find the Chemist,
+you'll find Zamani.
+
+394
+00:24:16,203 --> 00:24:18,637
+Where is this Innkeeper?
+
+395
+00:24:18,655 --> 00:24:21,273
+If I tell you, you have to
+give me something in return.
+
+396
+00:24:21,291 --> 00:24:23,810
+No more restraints,
+no more cages.
+
+397
+00:24:23,844 --> 00:24:25,628
+If you want to capture Zamani,
+
+398
+00:24:25,662 --> 00:24:27,296
+he has to believe
+I'm moving freely...
+
+399
+00:24:27,331 --> 00:24:28,865
+in touch with old friends,
+
+400
+00:24:28,899 --> 00:24:30,867
+staying in one of
+my favorite hotels...
+
+401
+00:24:30,901 --> 00:24:33,036
+If you think we're gonna
+put you up at the Sheraton...
+
+402
+00:24:33,070 --> 00:24:36,105
+Save your Starwood points,
+Harold.
+
+403
+00:24:36,140 --> 00:24:38,074
+The Sheraton's not my scene.
+
+404
+00:24:47,718 --> 00:24:49,385
+Hey, live it up, pal.
+
+405
+00:24:49,420 --> 00:24:52,121
+Soon as this is over, you're
+headed back to a black site.
+
+406
+00:24:53,133 --> 00:24:55,636
+Mr. Homan, it's awfully nice
+to have you back.
+
+407
+00:24:55,671 --> 00:24:57,860
+There's complimentary Champagne.
+
+408
+00:24:57,895 --> 00:25:01,364
+As usual, the bed's made up with
+blankets instead of a comforter.
+
+409
+00:25:01,398 --> 00:25:03,866
+- Will there be anything else?
+- No, thank you, Eric.
+
+410
+00:25:05,636 --> 00:25:07,470
+Tip the gentleman, will you?
+
+411
+00:25:18,315 --> 00:25:19,615
+Where is the Chemist?
+
+412
+00:25:24,154 --> 00:25:26,956
+FBI. Hands.
+
+413
+00:25:28,425 --> 00:25:30,126
+Tranquilo, papi.
+
+414
+00:25:40,304 --> 00:25:43,973
+♪ How lucky can one guy be? ♪
+
+415
+00:25:44,007 --> 00:25:47,076
+♪ I kissed her
+and she kissed me ♪
+
+416
+00:25:47,111 --> 00:25:49,445
+♪ Like the fella once said ♪
+
+417
+00:25:49,480 --> 00:25:51,681
+♪ Ain't that a kick in the head? ♪
+
+418
+00:25:51,715 --> 00:25:52,815
+They found the lab.
+
+419
+00:25:52,850 --> 00:25:55,318
+They're interrogating
+the Chemist as we speak.
+
+420
+00:25:55,352 --> 00:25:57,286
+- What about the bomb?
+- We think that we got there
+
+421
+00:25:57,321 --> 00:25:58,921
+before he built it.
+
+422
+00:25:58,956 --> 00:26:00,990
+I gotta get out of here
+and clear my head.
+
+423
+00:26:02,159 --> 00:26:04,093
+Take a shower, see my husband.
+
+424
+00:26:06,363 --> 00:26:08,531
+Don't go too far.
+
+425
+00:26:18,809 --> 00:26:19,926
+Oh, my...
+
+426
+00:26:23,096 --> 00:26:25,181
+Did they say yes?
+
+427
+00:26:25,215 --> 00:26:29,035
+Oh, baby!
+How did you do this?
+
+428
+00:26:29,069 --> 00:26:32,338
+Oh, my God, I cannot believe...
+
+429
+00:26:32,356 --> 00:26:34,157
+We're gonna have a baby,
+and this is exac...
+
+430
+00:26:36,260 --> 00:26:37,610
+Tom?
+
+431
+00:26:41,765 --> 00:26:43,533
+Sit down.
+
+432
+00:26:43,584 --> 00:26:45,268
+Sit down!!!
+
+433
+00:26:46,586 --> 00:26:49,956
+Do what I say
+or I'll shoot your husband.
+
+434
+00:26:49,990 --> 00:26:53,242
+See, Tom and I,
+we have been talking,
+
+435
+00:26:53,293 --> 00:26:56,669
+trying to figure out how
+you knew I was in town.
+
+436
+00:26:56,704 --> 00:27:00,032
+I tell him you figure out
+my plan...
+
+437
+00:27:01,952 --> 00:27:03,502
+to take the General's daughter.
+
+438
+00:27:03,520 --> 00:27:04,937
+Tom, look at me.
+
+439
+00:27:04,971 --> 00:27:06,839
+Make for nice surprise.
+
+440
+00:27:06,873 --> 00:27:09,775
+But my people handle
+quite well, I think.
+
+441
+00:27:09,809 --> 00:27:11,677
+It's gonna be okay.
+
+442
+00:27:11,711 --> 00:27:16,382
+But then, your people
+come for my Chemist friend.
+
+443
+00:27:16,400 --> 00:27:18,534
+I was finished with The Chemist,
+
+444
+00:27:18,569 --> 00:27:21,887
+so you saved me payment
+for services.
+
+445
+00:27:21,905 --> 00:27:25,341
+And for that, I thank you.
+
+446
+00:27:25,375 --> 00:27:30,012
+But...it did make me wonder
+what else you know.
+
+447
+00:27:31,898 --> 00:27:33,349
+What else do you know?
+
+448
+00:27:33,383 --> 00:27:35,534
+I don't...
+
+449
+00:27:35,569 --> 00:27:36,619
+Tom.
+
+450
+00:27:36,653 --> 00:27:38,371
+No, no, no, no, no.
+Over here.
+
+451
+00:27:38,405 --> 00:27:40,139
+I ask question.
+
+452
+00:27:40,173 --> 00:27:42,425
+What else do you know
+about my plan?
+
+453
+00:27:42,459 --> 00:27:44,827
+A bomb. Maybe.
+We don't know.
+
+454
+00:27:44,861 --> 00:27:47,964
+We only knew about the girl.
+The rest is just speculation.
+
+455
+00:27:47,998 --> 00:27:49,932
+Tom, baby, it's gonna be okay.
+
+456
+00:27:49,983 --> 00:27:52,251
+- Uhh!
+- You son of a bitch!
+
+457
+00:27:52,285 --> 00:27:54,687
+What else do you know
+about my plan?!
+
+458
+00:27:54,721 --> 00:27:56,072
+Nothing! I swear!
+
+459
+00:27:56,106 --> 00:27:57,924
+Oh.
+
+460
+00:27:58,892 --> 00:28:00,142
+My God.
+
+461
+00:28:00,177 --> 00:28:04,096
+You're not as smart
+as Reddington says.
+
+462
+00:28:04,764 --> 00:28:08,467
+My friend, he is always
+so obsessed with you.
+
+463
+00:28:08,501 --> 00:28:09,552
+I'm not sure why.
+
+464
+00:28:09,586 --> 00:28:11,537
+It's gonna be okay.
+
+465
+00:28:11,571 --> 00:28:14,974
+Now, what I have planned
+will make for many casualties.
+
+466
+00:28:14,992 --> 00:28:17,510
+So now you have choice.
+
+467
+00:28:17,544 --> 00:28:21,681
+Stop me now
+and save many Americans,
+
+468
+00:28:21,715 --> 00:28:25,150
+or save only...
+
+469
+00:28:25,168 --> 00:28:26,585
+one.
+
+470
+00:28:26,620 --> 00:28:29,522
+What do you choose?
+
+471
+00:28:35,862 --> 00:28:37,413
+Tom. Baby.
+
+472
+00:28:38,515 --> 00:28:40,950
+Oh, my God.
+Baby, keep your eyes open.
+
+473
+00:28:42,435 --> 00:28:43,502
+I'm gonna get help.
+
+474
+00:28:43,536 --> 00:28:45,638
+I'm gonna get help.
+
+475
+00:28:45,672 --> 00:28:46,856
+Don't fall aslee...
+
+476
+00:28:46,907 --> 00:28:48,424
+You're gonna be okay!
+
+477
+00:28:48,458 --> 00:28:51,143
+- You're gonna be okay.
+- 911. What is your emergency?
+
+478
+00:29:16,376 --> 00:29:18,477
+Did you send him?
+
+479
+00:29:18,528 --> 00:29:19,996
+Are you the one who did this?
+
+480
+00:29:20,030 --> 00:29:21,831
+Did what?
+
+481
+00:29:21,865 --> 00:29:23,783
+He was in my house!
+
+482
+00:29:23,817 --> 00:29:26,269
+My husband is on a ventilator
+because Zamani came...
+
+483
+00:29:26,303 --> 00:29:28,054
+Calm down
+and tell me what happened.
+
+484
+00:29:28,088 --> 00:29:31,023
+Don't play stupid.
+You're the only thing connecting us.
+
+485
+00:29:31,058 --> 00:29:33,242
+He told me that
+you're obsessed with me.
+
+486
+00:29:34,928 --> 00:29:36,662
+Did he mention
+the girl or the bomb?
+
+487
+00:29:36,697 --> 00:29:38,113
+We're not a team.
+
+488
+00:29:38,131 --> 00:29:39,548
+- Zamani.
+- I'm not your partner.
+
+489
+00:29:39,566 --> 00:29:40,583
+What did he say?
+
+490
+00:29:40,617 --> 00:29:42,418
+I don't know, he said...
+
+491
+00:29:42,452 --> 00:29:44,103
+he said something
+about casualties...
+
+492
+00:29:44,154 --> 00:29:46,322
+and chemical agents, and...
+
+493
+00:29:46,340 --> 00:29:47,840
+he talked about you.
+
+494
+00:29:47,874 --> 00:29:50,543
+He even thanked me for
+getting rid of the Chemist.
+
+495
+00:29:50,577 --> 00:29:53,095
+So the bomb's still in play.
+
+496
+00:29:53,130 --> 00:29:56,265
+Why the hell was he
+in my house?!
+
+497
+00:29:56,300 --> 00:29:57,967
+Tell me! You know him!
+
+498
+00:29:58,001 --> 00:30:01,003
+Why is my husband dying
+in a hospital right now?!
+
+499
+00:30:01,038 --> 00:30:04,607
+The truth is, despite your feelings,
+your husband doesn't matter.
+
+500
+00:30:04,641 --> 00:30:06,175
+Zamani did you a favor, Lizzy.
+
+501
+00:30:09,830 --> 00:30:12,765
+Now, you know I just punched
+a hole in your carotid.
+
+502
+00:30:12,816 --> 00:30:15,134
+Best chance, one minute
+before you pass out.
+
+503
+00:30:15,168 --> 00:30:17,053
+So here's how it's gonna work.
+
+504
+00:30:17,087 --> 00:30:19,805
+You tell me how I find Zamani
+and make this right,
+
+505
+00:30:19,840 --> 00:30:22,024
+or I let you die right here.
+
+506
+00:30:22,059 --> 00:30:23,492
+Understand?
+
+507
+00:30:24,928 --> 00:30:27,079
+Yeah.
+
+508
+00:30:27,114 --> 00:30:29,332
+But if I die...
+
+509
+00:30:29,366 --> 00:30:32,218
+you'll never know
+the truth about your husband.
+
+510
+00:30:32,269 --> 00:30:34,654
+You know nothing
+about my husband.
+
+511
+00:31:32,579 --> 00:31:34,463
+Agent Ressler?
+
+512
+00:31:34,481 --> 00:31:36,832
+I gotta talk to him.
+
+513
+00:31:36,867 --> 00:31:38,234
+You shouldn't even be here.
+
+514
+00:31:40,203 --> 00:31:41,921
+You're under official review.
+You know that.
+
+515
+00:31:41,972 --> 00:31:44,190
+I know.
+The Chemist isn't talking, is he?
+
+516
+00:31:44,224 --> 00:31:45,424
+No.
+
+517
+00:31:45,459 --> 00:31:48,411
+Red knows Zamani.
+Just give me five minutes.
+
+518
+00:31:50,213 --> 00:31:51,580
+Thank you.
+
+519
+00:32:01,291 --> 00:32:02,658
+He's gone.
+
+520
+00:32:31,721 --> 00:32:33,672
+It's good to see you,
+old friend.
+
+521
+00:32:34,891 --> 00:32:36,742
+Initiating track.
+
+522
+00:32:36,777 --> 00:32:38,828
+Okay, got him.
+
+523
+00:32:38,862 --> 00:32:40,963
+His chip indicates
+he's at the Lincoln Memorial.
+
+524
+00:32:42,566 --> 00:32:44,517
+We're on him.
+Forty seconds out. En route.
+
+525
+00:32:44,551 --> 00:32:46,368
+How did things go
+with Agent Keen?
+
+526
+00:32:46,403 --> 00:32:49,588
+Paid her a visit, like you asked.
+
+527
+00:32:49,639 --> 00:32:51,457
+And the husband?
+
+528
+00:32:51,491 --> 00:32:53,675
+Like you asked.
+
+529
+00:32:53,693 --> 00:32:56,695
+It's a shame you're gonna
+miss the cherry blossoms.
+
+530
+00:32:58,381 --> 00:33:01,951
+I think a great many people
+will miss the cherry blossoms.
+
+531
+00:33:01,985 --> 00:33:06,772
+Tell me, the General's daughter
+is such a risk.
+
+532
+00:33:06,807 --> 00:33:10,376
+This is about
+much more than one girl.
+
+533
+00:33:10,410 --> 00:33:12,261
+He's on the move.
+Heading westbound.
+
+534
+00:33:12,279 --> 00:33:15,581
+This is about...
+
+535
+00:33:15,632 --> 00:33:17,817
+the children.
+
+536
+00:33:20,287 --> 00:33:23,222
+Raymond, today...
+
+537
+00:33:23,256 --> 00:33:25,357
+on this day...
+
+538
+00:33:25,392 --> 00:33:28,360
+I am giving their plague
+back to them.
+
+539
+00:33:29,729 --> 00:33:33,532
+In sixty years they will be
+talking about this day...
+
+540
+00:33:33,567 --> 00:33:35,000
+about my legacy.
+
+541
+00:33:45,312 --> 00:33:46,495
+Still heading west.
+
+542
+00:33:46,530 --> 00:33:47,996
+300 yards from your position.
+
+543
+00:33:49,499 --> 00:33:50,649
+- Hello?
+- There's a wrinkle.
+
+544
+00:33:50,700 --> 00:33:53,319
+Zamani wants more
+than the General's daughter.
+
+545
+00:33:53,353 --> 00:33:55,204
+- He's after children.
+- Where are you?
+
+546
+00:33:56,189 --> 00:33:57,206
+Approaching 14th.
+
+547
+00:33:57,240 --> 00:33:59,391
+You gotta move!
+You gotta move!
+
+548
+00:33:59,426 --> 00:34:01,360
+I need you to tell me
+what Zamani said.
+
+549
+00:34:01,394 --> 00:34:02,611
+In the house...
+
+550
+00:34:02,646 --> 00:34:03,796
+what did he say,
+
+551
+00:34:03,847 --> 00:34:05,064
+what did you see?
+
+552
+00:34:07,851 --> 00:34:10,319
+He, uh, he asked about
+the Chemist and about the girl.
+
+553
+00:34:10,353 --> 00:34:12,037
+No. What did you see?
+
+554
+00:34:13,173 --> 00:34:14,273
+Uh, there was blood.
+
+555
+00:34:14,307 --> 00:34:15,374
+There was blood everywhere.
+
+556
+00:34:15,408 --> 00:34:16,658
+Take a breath, Lizzy.
+
+557
+00:34:17,794 --> 00:34:18,994
+Over here.
+
+558
+00:34:19,029 --> 00:34:20,396
+There was a tattoo.
+
+559
+00:34:20,430 --> 00:34:21,797
+He's Serbian Orthodox.
+
+560
+00:34:21,831 --> 00:34:23,132
+You're closing on him.
+
+561
+00:34:23,166 --> 00:34:25,401
+- He wouldn't have a tattoo.
+- I know what I saw.
+
+562
+00:34:25,435 --> 00:34:27,019
+This mark, I've seen it before.
+
+563
+00:34:29,906 --> 00:34:32,157
+Field trip. D.C. Air and Space
+or the D.C. Zoo?
+
+564
+00:34:32,192 --> 00:34:33,359
+It wasn't a tattoo.
+
+565
+00:34:33,410 --> 00:34:34,693
+It was a stamp.
+
+566
+00:34:34,744 --> 00:34:36,762
+Zamani's gonna bomb
+the D.C. Zoo.
+
+567
+00:34:38,682 --> 00:34:40,749
+I got nothin'.
+Come on, where is he?!
+
+568
+00:34:40,784 --> 00:34:42,601
+He's turning onto Maryland Ave.
+
+569
+00:34:56,650 --> 00:34:59,335
+Dead ahead.
+He's dead ahead.
+
+570
+00:34:59,369 --> 00:35:00,603
+He's stopped.
+
+571
+00:35:00,637 --> 00:35:03,155
+The signal has stopped.
+He's right there.
+
+572
+00:35:06,893 --> 00:35:08,193
+Where is he?!
+
+573
+00:35:08,244 --> 00:35:10,429
+He should be right behind you.
+
+574
+00:35:10,463 --> 00:35:11,413
+Vertically.
+
+575
+00:35:11,448 --> 00:35:12,648
+Are there stairs near you?
+
+576
+00:35:31,685 --> 00:35:32,768
+Beth?
+
+577
+00:35:32,786 --> 00:35:35,721
+Hi, honey.
+Are you hurt?
+
+578
+00:35:35,755 --> 00:35:37,589
+No.
+
+579
+00:35:37,624 --> 00:35:39,408
+Are you alone?
+
+580
+00:35:39,442 --> 00:35:41,710
+He said to wait here
+for my daddy.
+
+581
+00:35:45,181 --> 00:35:47,282
+He said not to take it off.
+
+582
+00:36:00,814 --> 00:36:02,815
+Whatever you do,
+don't touch it.
+
+583
+00:36:02,849 --> 00:36:04,099
+There's less than three minutes.
+
+584
+00:36:04,134 --> 00:36:06,201
+I've got to evacuate,
+call the bomb squad...
+
+585
+00:36:06,235 --> 00:36:07,853
+Your people will never
+be there in time.
+
+586
+00:36:07,887 --> 00:36:09,188
+My friend, he's on his way.
+
+587
+00:36:09,239 --> 00:36:10,806
+Your friend.
+What friend?
+
+588
+00:36:13,276 --> 00:36:14,226
+Reddington!
+
+589
+00:36:15,462 --> 00:36:17,512
+Reddington!
+
+590
+00:36:17,530 --> 00:36:18,664
+Hands in the air.
+
+591
+00:36:26,573 --> 00:36:27,790
+Zamani.
+
+592
+00:36:27,824 --> 00:36:29,742
+Step down from the ledge.
+
+593
+00:36:31,544 --> 00:36:33,979
+Hands where I can see 'em
+or I'll shoot you down!
+
+594
+00:36:34,030 --> 00:36:37,816
+Tell the General
+his daughter was...
+
+595
+00:36:37,867 --> 00:36:41,220
+an unfortunate civilian casualty.
+
+596
+00:36:50,697 --> 00:36:52,031
+He pulled the tracking chip.
+
+597
+00:36:52,082 --> 00:36:54,166
+Son of a bitch.
+
+598
+00:37:07,790 --> 00:37:09,244
+Did Reddington send you?
+
+599
+00:37:10,296 --> 00:37:12,277
+I can't understand what you're saying.
+Can you stop the bomb?
+
+600
+00:37:12,765 --> 00:37:16,333
+Can you stop it?
+
+601
+00:37:17,869 --> 00:37:20,187
+- Are we gonna be okay?
+- Yeah, baby, we're gonna be okay.
+
+602
+00:37:24,309 --> 00:37:27,545
+Hey. I was scared
+when I was your age, too.
+
+603
+00:37:27,579 --> 00:37:30,614
+But I had a secret weapon
+to keep me safe.
+
+604
+00:37:31,633 --> 00:37:33,133
+My daddy gave it to me.
+
+605
+00:37:34,703 --> 00:37:37,137
+It's very special.
+I've never shown it to anybody.
+
+606
+00:37:37,172 --> 00:37:38,355
+It's like magic.
+
+607
+00:37:40,542 --> 00:37:41,708
+What does it do?
+
+608
+00:37:41,726 --> 00:37:43,811
+Whenever I'm feeling
+sad or afraid,
+
+609
+00:37:43,845 --> 00:37:47,982
+I just touch it like this,
+and it makes me brave.
+
+610
+00:37:48,016 --> 00:37:49,934
+Do you want to see
+if it can make you brave?
+
+611
+00:37:49,968 --> 00:37:51,685
+Yeah?
+
+612
+00:37:58,460 --> 00:37:59,643
+You're a brave girl.
+
+613
+00:38:09,187 --> 00:38:10,871
+<i>Uzasny!</i>
+
+614
+00:38:10,906 --> 00:38:11,872
+Wait.
+
+615
+00:38:14,042 --> 00:38:15,009
+Wait!
+
+616
+00:38:15,043 --> 00:38:16,777
+What are you doing?!
+
+617
+00:38:16,811 --> 00:38:19,496
+Just consider the device
+his payment for services.
+
+618
+00:38:19,547 --> 00:38:21,098
+<i>Spasibo! Naslazhdaisa!</i>
+
+619
+00:38:21,132 --> 00:38:24,034
+That is a chemical weapon!
+
+620
+00:38:24,085 --> 00:38:26,337
+He's fascinated by the things.
+
+621
+00:38:26,388 --> 00:38:29,389
+He certainly has more use
+for it than we do.
+
+622
+00:38:32,660 --> 00:38:34,278
+Daddy!
+
+623
+00:38:35,864 --> 00:38:39,099
+Red vest, gray sweatshirt!
+He's got the bomb!
+
+624
+00:38:44,005 --> 00:38:46,540
+We're gonna make a great team.
+
+625
+00:38:48,727 --> 00:38:51,462
+Who is the Ukrainian?
+
+626
+00:38:53,381 --> 00:38:56,033
+- I'm not gonna tell you.
+- You gave him a chemical weapon.
+
+627
+00:38:57,269 --> 00:38:59,019
+He took it.
+
+628
+00:38:59,037 --> 00:39:00,804
+That's the price
+of doing business, Harold,
+
+629
+00:39:00,839 --> 00:39:03,424
+with certain people who can get
+certain things done. You know that.
+
+630
+00:39:03,458 --> 00:39:05,976
+You never look
+at the larger picture.
+
+631
+00:39:06,011 --> 00:39:08,912
+The bomb didn't detonate,
+the girl is safe, Zamani's dead.
+
+632
+00:39:08,964 --> 00:39:11,365
+Frankly, I think this all
+went down rather swimmingly.
+
+633
+00:39:11,399 --> 00:39:13,500
+This was never about Zamani.
+
+634
+00:39:13,534 --> 00:39:16,570
+You surrendered and infiltrated
+the FBI to get at our intelligence.
+
+635
+00:39:16,604 --> 00:39:18,872
+- Your intelligence?
+- To get that weapon.
+
+636
+00:39:18,890 --> 00:39:22,059
+I certainly don't want your intelligence,
+Agent Ressler.
+
+637
+00:39:22,093 --> 00:39:23,827
+I'm quite happy with my own.
+
+638
+00:39:23,862 --> 00:39:26,530
+I think it's more likely that I
+tried to help you in good faith
+
+639
+00:39:26,564 --> 00:39:29,400
+and had to finish
+the job myself because...
+
+640
+00:39:29,451 --> 00:39:31,302
+you couldn't.
+
+641
+00:39:31,336 --> 00:39:32,552
+I think we're finished.
+
+642
+00:39:34,739 --> 00:39:37,691
+Well, this was fun.
+Let's do it again.
+
+643
+00:39:37,726 --> 00:39:40,193
+Really, let's do it again.
+
+644
+00:39:40,211 --> 00:39:42,730
+Understand,
+Zamani was only the first.
+
+645
+00:39:42,764 --> 00:39:44,298
+The first what?
+
+646
+00:39:44,332 --> 00:39:46,383
+Name. On the list.
+
+647
+00:39:54,192 --> 00:39:55,826
+What list?
+
+648
+00:39:55,877 --> 00:39:59,663
+It's called The Blacklist.
+That sounds exciting.
+
+649
+00:39:59,698 --> 00:40:03,517
+That's why we're all here,
+of course. My wish list.
+
+650
+00:40:03,551 --> 00:40:06,453
+A list I've been cultivating
+for over twenty years.
+
+651
+00:40:06,488 --> 00:40:09,123
+Politicians, mobsters,
+hackers...
+
+652
+00:40:09,157 --> 00:40:10,624
+spies.
+
+653
+00:40:10,658 --> 00:40:12,393
+We have our own list.
+
+654
+00:40:12,427 --> 00:40:14,545
+Agent Ressler, please.
+
+655
+00:40:14,579 --> 00:40:17,631
+We all know your Top Ten is little
+more than a publicity campaign.
+
+656
+00:40:17,665 --> 00:40:20,300
+It's a popularity contest
+at best.
+
+657
+00:40:20,335 --> 00:40:22,602
+I'm talking about
+the criminals who matter.
+
+658
+00:40:22,620 --> 00:40:26,206
+The ones you can't find because
+you don't even know they exist.
+
+659
+00:40:26,241 --> 00:40:29,376
+Zamani was a small fish.
+
+660
+00:40:30,945 --> 00:40:32,888
+I'm Ahab.
+
+661
+00:40:34,082 --> 00:40:38,001
+And if you want the whales on my list,
+you have to play by my rules.
+
+662
+00:40:38,036 --> 00:40:42,439
+I never sleep in the same location
+for more than two nights in a row.
+
+663
+00:40:42,474 --> 00:40:46,160
+I want a fully encrypted 8-millimeter
+tag embedded in my neck...
+
+664
+00:40:46,194 --> 00:40:49,396
+not that garbage from AlphaChip
+you stuck in my shoulder.
+
+665
+00:40:49,431 --> 00:40:53,667
+I want my own security. I've compiled
+a list of five acceptable applicants.
+
+666
+00:40:53,701 --> 00:40:55,185
+Pick two.
+
+667
+00:40:55,220 --> 00:40:58,372
+Whatever I tell you
+falls under an immunity package
+
+668
+00:40:58,406 --> 00:41:00,307
+that I negotiate myself.
+
+669
+00:41:00,325 --> 00:41:02,793
+And finally, most importantly,
+
+670
+00:41:02,827 --> 00:41:06,413
+I speak only
+with Elizabeth Keen.
+
+671
+00:41:19,994 --> 00:41:26,283
+♪ Daylight comes ♪
+
+672
+00:41:27,585 --> 00:41:32,856
+♪ Daylight goes ♪
+
+673
+00:41:34,793 --> 00:41:38,061
+♪ How far will reach ♪
+
+674
+00:41:42,250 --> 00:41:47,788
+♪ Ain't nobody know ♪
+
+675
+00:41:49,323 --> 00:41:53,093
+♪ I use state-of-the-art ♪
+
+676
+00:41:56,298 --> 00:41:59,817
+♪ Technology ♪
+
+677
+00:42:02,520 --> 00:42:05,989
+♪ It's supposed to make
+for better livin' ♪
+
+678
+00:42:09,327 --> 00:42:12,980
+♪ Are we better human beings? ♪
+
+679
+00:42:15,683 --> 00:42:19,403
+♪ And I'm straining
+to remember ♪
+
+680
+00:42:21,656 --> 00:42:25,659
+♪ Just what it means
+to be alive ♪
+
+681
+00:42:47,265 --> 00:42:50,551
+You've discovered something
+curious about your...
+
+682
+00:42:50,585 --> 00:42:52,352
+husband, haven't you, Lizzy?
+
+683
+00:42:52,387 --> 00:42:53,887
+♪ If you're havin'
+girl problems ♪
+
+684
+00:42:53,921 --> 00:42:55,255
+♪ I feel bad for you, son ♪
+
+685
+00:42:55,273 --> 00:42:56,807
+♪ I got 99 problems ♪
+
+686
+00:42:56,858 --> 00:42:58,552
+♪ And I bet you ain't one ♪
+
+687
+00:42:58,653 --> 00:43:03,163
+Sync and corrected by <font color="#FF0000">Elderfel</font>
+www.addic7ed.com
+
+687
+00:43:04,305 --> 00:44:04,246
+OpenSubtitles recommends using Nord VPN
+from 3.49 USD/month ----> osdb.link/vpn
