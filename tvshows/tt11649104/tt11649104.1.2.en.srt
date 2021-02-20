@@ -1,0 +1,3543 @@
+﻿1
+00:00:03,455 --> 00:00:06,175
+{\an8}WOMAN: <font color="#008000">'OK, Pembrokeshire OB is next</font>
+<font color="#008000">with Jonathan Hill.'</font>
+
+2
+00:00:06,215 --> 00:00:07,574
+{\an8}MAN: <font color="cyan">'Stand by, Pembrokeshire.'</font>
+
+3
+00:00:07,614 --> 00:00:09,814
+{\an8}WOMAN: <font color="#008000">'Coming to you in three...</font>
+
+4
+00:00:09,855 --> 00:00:11,654
+{\an8}<font color="#008000">'..two, one.'</font>
+
+5
+00:00:12,695 --> 00:00:14,894
+<font color="yellow">Good evening.</font>
+<font color="yellow">We are live in Pembrokeshire,</font>
+
+6
+00:00:14,935 --> 00:00:17,615
+<font color="yellow">where there have been</font>
+<font color="yellow">dramatic developments</font>
+
+7
+00:00:17,654 --> 00:00:19,534
+<font color="yellow">involving two of Wales'</font>
+<font color="yellow">most baffling crimes.</font>
+
+8
+00:00:19,575 --> 00:00:22,135
+<font color="yellow">Decades on, these two double murders</font>
+<font color="yellow">are being reinvestigated.</font>
+
+9
+00:00:23,455 --> 00:00:25,174
+{\an8}<font color="yellow">Detective Superintendent</font>
+<font color="yellow">Steve Wilkins</font>
+
+10
+00:00:25,214 --> 00:00:28,174
+{\an8}<font color="yellow">is the man</font>
+<font color="yellow">leading this reinvestigation.</font>
+
+11
+00:00:28,214 --> 00:00:32,014
+Developments in DNA analysis
+have revolutionised
+
+12
+00:00:32,054 --> 00:00:33,815
+'cold case reviews.
+
+13
+00:00:33,855 --> 00:00:36,694
+'As a team, we have brought
+these processes to bear on these
+
+14
+00:00:36,734 --> 00:00:39,454
+'two investigations, and
+they have had a significant impact.'
+
+15
+00:00:39,495 --> 00:00:42,734
+<font color="yellow">'And do you think</font>
+<font color="yellow">it's the same local man responsible</font>
+
+16
+00:00:42,774 --> 00:00:44,935
+<font color="yellow">'for all four murders?'</font>
+'I do believe that, Jonathan.
+
+17
+00:00:44,975 --> 00:00:47,734
+'Thanks to the advances
+in DNA forensic science,
+
+18
+00:00:47,774 --> 00:00:49,374
+'we are now
+in a much stronger position
+
+19
+00:00:49,414 --> 00:00:52,295
+'to catch the person responsible.'
+
+20
+00:00:54,615 --> 00:00:56,295
+<font color="yellow">Happy?</font>
+That went quick.
+
+21
+00:00:56,334 --> 00:00:58,774
+<font color="yellow">Not so bad, was it?</font>
+No. Thank you.
+
+22
+00:00:58,815 --> 00:01:02,374
+{\an8}TRAIN RATTLES IN DISTANCE
+
+23
+00:01:08,494 --> 00:01:10,615
+{\an8}SUSPENSEFUL MUSIC
+
+24
+00:01:16,895 --> 00:01:18,015
+HE GASPS
+
+25
+00:01:20,000 --> 00:01:26,074
+OpenSubtitles recommends using Nord VPN
+from 3.49 USD/month ----> osdb.link/vpn
+
+26
+00:01:34,975 --> 00:01:39,255
+SHOUTING IN DISTANCE
+
+27
+00:01:52,414 --> 00:01:55,214
+STEVE: Prisoner Intelligence say
+that Cooper's new favourite place
+
+28
+00:01:55,255 --> 00:01:56,494
+is the library.
+
+29
+00:01:56,535 --> 00:01:58,334
+His specialist subject - DNA.
+
+30
+00:01:59,494 --> 00:02:00,694
+The news item worked.
+
+31
+00:02:00,735 --> 00:02:03,134
+He's worried we've found something.
+PHONE RINGS
+
+32
+00:02:03,175 --> 00:02:05,694
+Oh, a date for the diary.
+
+33
+00:02:05,735 --> 00:02:08,574
+Dyffryn Prison's governor has given
+us our dates for the interviews.
+
+34
+00:02:08,614 --> 00:02:10,215
+A month from now.
+
+35
+00:02:10,255 --> 00:02:13,294
+Monday, June 30th
+to Wednesday, July 2nd.
+
+36
+00:02:13,335 --> 00:02:15,854
+We've got three days
+to get inside his head,
+
+37
+00:02:15,894 --> 00:02:19,014
+find out the exhibits
+that give him night sweats.
+
+38
+00:02:19,055 --> 00:02:22,134
+Rambo, we should find out if there
+are any psychologists out there
+
+39
+00:02:22,174 --> 00:02:24,335
+who have interviewed him.
+We want their insights.
+
+40
+00:02:24,375 --> 00:02:25,614
+<font color="cyan">Right you are.</font>
+
+41
+00:02:25,655 --> 00:02:28,574
+<font color="yellow">Boss, that was</font>
+<font color="yellow">Pembroke Dock Police Station.</font>
+
+42
+00:02:28,614 --> 00:02:30,055
+<font color="yellow">Andrew Cooper was found collapsed</font>
+
+43
+00:02:30,095 --> 00:02:32,854
+<font color="yellow">by the railway tracks last night</font>
+<font color="yellow">outside Fishguard.</font>
+
+44
+00:02:32,894 --> 00:02:34,414
+<font color="yellow">He was taken to Withybush Hospital.</font>
+
+45
+00:02:34,454 --> 00:02:36,775
+<font color="yellow">He claimed he overdid it</font>
+<font color="yellow">on his pain medication.</font>
+
+46
+00:02:36,815 --> 00:02:37,935
+By the railway tracks?
+
+47
+00:02:37,975 --> 00:02:41,734
+<font color="yellow">Apparently, he's adamant</font>
+<font color="yellow">he wasn't trying to kill himself.</font>
+
+48
+00:02:41,775 --> 00:02:43,935
+<font color="yellow">He checked out of the hospital</font>
+<font color="yellow">this morning.</font>
+
+49
+00:02:43,975 --> 00:02:45,215
+HE SIGHS
+
+50
+00:02:47,815 --> 00:02:49,335
+JOHN COOPER: Tried to kill himself?
+
+51
+00:02:49,375 --> 00:02:51,535
+Didn't try very hard, did he?
+He's still breathing.
+
+52
+00:02:51,574 --> 00:02:52,614
+<font color="yellow">John...</font>
+
+53
+00:02:52,655 --> 00:02:54,174
+Anyway, guess what?
+
+54
+00:02:55,574 --> 00:02:57,694
+The police want to interview me.
+
+55
+00:02:57,734 --> 00:03:00,414
+That stuff on the news.
+I'm their bloody suspect.
+
+56
+00:03:02,215 --> 00:03:05,055
+<font color="yellow">Why you?</font>
+Well, it's the same as before, hm?
+
+57
+00:03:05,095 --> 00:03:07,255
+Cos it's easier
+to frame an innocent man
+
+58
+00:03:07,294 --> 00:03:09,294
+than it is for them to do their job.
+
+59
+00:03:09,335 --> 00:03:12,055
+Now, you'd better be on your toes.
+They might wanna talk to you.
+
+60
+00:03:12,095 --> 00:03:13,454
+<font color="yellow">Talk to me?</font>
+
+61
+00:03:14,815 --> 00:03:16,975
+<font color="yellow">What about?</font>
+<font color="yellow">I don't know anything.</font>
+
+62
+00:03:17,014 --> 00:03:19,335
+When they come knocking,
+that's exactly what you tell them.
+
+63
+00:03:19,375 --> 00:03:23,574
+And don't go running off to Adrian
+cos you feel sorry him. He's a rat.
+
+64
+00:03:23,614 --> 00:03:26,614
+And anything you say to him
+will go directly back to the police.
+
+65
+00:03:28,894 --> 00:03:31,014
+ENTRY SYSTEM BUZZES
+
+66
+00:03:31,055 --> 00:03:33,215
+BUZZING CONTINUES
+
+67
+00:03:33,255 --> 00:03:34,614
+<font color="cyan">I'm coming!</font>
+
+68
+00:03:34,655 --> 00:03:36,535
+HE GASPS FOR BREATH
+
+69
+00:03:38,734 --> 00:03:40,095
+Hello, Andrew.
+
+70
+00:03:41,134 --> 00:03:42,255
+<font color="cyan">Hello.</font>
+
+71
+00:03:43,294 --> 00:03:46,014
+Sorry to bother you.
+I heard you'd been in hospital.
+
+72
+00:03:46,055 --> 00:03:47,935
+How are you doing?
+
+73
+00:03:47,975 --> 00:03:49,095
+<font color="cyan">I'm fine.</font>
+
+74
+00:03:52,734 --> 00:03:53,935
+Well, I just wanted you to know
+
+75
+00:03:53,975 --> 00:03:56,454
+that if you feel like
+you need some support,
+
+76
+00:03:56,495 --> 00:03:58,215
+we can sort something for you.
+
+77
+00:03:59,734 --> 00:04:01,375
+<font color="cyan">I don't need anything like that.</font>
+
+78
+00:04:03,174 --> 00:04:04,734
+<font color="cyan">You don't have to worry about me.</font>
+
+79
+00:04:22,015 --> 00:04:23,535
+LYNNE: <font color="yellow">Dr Harry Stephens...</font>
+
+80
+00:04:23,575 --> 00:04:26,775
+<font color="yellow">..is a forensic psychologist</font>
+<font color="yellow">from Liverpool University.</font>
+
+81
+00:04:26,814 --> 00:04:31,174
+<font color="yellow">Now, he interviewed Cooper</font>
+<font color="yellow">for a book about violent offenders.</font>
+
+82
+00:04:31,215 --> 00:04:33,934
+<font color="yellow">He's the only person</font>
+<font color="yellow">to have gone on record</font>
+
+83
+00:04:33,975 --> 00:04:36,135
+<font color="yellow">as saying that Cooper</font>
+<font color="yellow">is a psychopath.</font>
+
+84
+00:04:36,174 --> 00:04:38,015
+<font color="yellow">He also told us that,</font>
+
+85
+00:04:38,054 --> 00:04:40,575
+<font color="yellow">like most psychopaths,</font>
+<font color="yellow">Cooper is a narcissist</font>
+
+86
+00:04:40,614 --> 00:04:43,734
+<font color="yellow">and we should treat him accordingly.</font>
+
+87
+00:04:43,775 --> 00:04:45,614
+<font color="yellow">Like royalty.</font>
+
+88
+00:04:45,655 --> 00:04:49,174
+<font color="yellow">Er, pamper him</font>
+<font color="yellow">into a false sense of security.</font>
+
+89
+00:04:49,215 --> 00:04:53,254
+Nige, we need you to find a suitable
+station for the interviews.
+
+90
+00:04:53,294 --> 00:04:56,015
+Sterile, clean, quiet holding cells.
+
+91
+00:04:56,054 --> 00:04:58,215
+And make sure the custody sergeant
+is very charming.
+
+92
+00:04:58,254 --> 00:04:59,215
+<font color="cyan">Yes, boss.</font>
+
+93
+00:04:59,254 --> 00:05:02,734
+Dr Stephens also recommended
+that one of the interview team
+
+94
+00:05:02,775 --> 00:05:03,814
+be a woman.
+
+95
+00:05:03,854 --> 00:05:07,174
+<font color="yellow">Yeah, apparently, Cooper has a very</font>
+<font color="yellow">low opinion of female intelligence.</font>
+
+96
+00:05:07,215 --> 00:05:12,254
+<font color="yellow">And a woman opposite him</font>
+<font color="yellow">might make him drop his guard.</font>
+
+97
+00:05:12,294 --> 00:05:14,614
+Are you up for that, missus?
+<font color="#008000">Let me at him.</font>
+
+98
+00:05:14,655 --> 00:05:17,254
+That's settled, then.
+You and Rambo in the room.
+
+99
+00:05:17,294 --> 00:05:20,294
+<font color="cyan">What about you, boss?</font>
+I don't think it's clever.
+
+100
+00:05:20,335 --> 00:05:23,335
+We know he's seen me on TV.
+I'm the face of the investigation.
+
+101
+00:05:23,374 --> 00:05:25,494
+That could rattle him.
+
+102
+00:05:25,535 --> 00:05:29,095
+No, I shall sit in the cheap seats
+with you lot on video link.
+
+103
+00:05:29,135 --> 00:05:32,095
+<font color="yellow">Hey, here's to our interview team,</font>
+<font color="yellow">then.</font>
+
+104
+00:05:32,135 --> 00:05:34,575
+<font color="yellow">Rambo and Bimbo.</font>
+
+105
+00:05:34,614 --> 00:05:36,414
+<font color="yellow">Oh...!</font>
+
+106
+00:05:38,054 --> 00:05:39,455
+<font color="#008000">'I'll ask you again, John.</font>
+
+107
+00:05:39,494 --> 00:05:42,095
+<font color="#008000">'Regarding the murders</font>
+<font color="#008000">of Peter and Gwenda Dixon,</font>
+
+108
+00:05:42,135 --> 00:05:44,254
+<font color="#008000">'were you the person responsible?</font>
+
+109
+00:05:46,135 --> 00:05:47,775
+STEVE: He starts off cooperative.
+
+110
+00:05:47,814 --> 00:05:49,814
+Then, when your man
+gets heavy-handed,
+
+111
+00:05:49,854 --> 00:05:51,374
+down comes the portcullis.
+
+112
+00:05:51,414 --> 00:05:53,814
+<font color="cyan">So, we keep it non-confrontational.</font>
+
+113
+00:05:53,854 --> 00:05:58,054
+<font color="cyan">Er, maybe even avoid any direct</font>
+<font color="cyan">questions about the murders.</font>
+
+114
+00:05:58,095 --> 00:05:59,535
+<font color="yellow">If we can't talk about the murders,</font>
+
+115
+00:05:59,575 --> 00:06:01,734
+<font color="yellow">how are we supposed</font>
+<font color="yellow">to get anything useful out of him?</font>
+
+116
+00:06:01,775 --> 00:06:03,895
+You talk about the exhibits.
+
+117
+00:06:03,934 --> 00:06:05,614
+That's what this is all about,
+
+118
+00:06:05,655 --> 00:06:08,734
+trying to draw out
+which ones he's worried about,
+
+119
+00:06:08,775 --> 00:06:12,135
+which ones he thinks might bear
+a trace of his or his victims' DNA.
+
+120
+00:06:19,254 --> 00:06:20,734
+Jack?
+
+121
+00:06:31,254 --> 00:06:32,734
+Someone's keen.
+
+122
+00:06:33,975 --> 00:06:35,414
+<font color="yellow">I've got a trial for the county.</font>
+
+123
+00:06:36,455 --> 00:06:38,135
+No way!
+
+124
+00:06:38,174 --> 00:06:39,854
+Ah, that's great.
+
+125
+00:06:39,895 --> 00:06:41,854
+Well done, Wilkins Junior!
+
+126
+00:06:41,895 --> 00:06:43,575
+<font color="yellow">Do you think you can come along?</font>
+
+127
+00:06:46,854 --> 00:06:48,294
+<font color="yellow">No, it's OK.</font>
+No, no, no.
+
+128
+00:06:48,335 --> 00:06:50,095
+Bollocks. I'll be there.
+
+129
+00:06:51,135 --> 00:06:52,254
+Well done, son!
+
+130
+00:06:53,294 --> 00:06:55,015
+Food?
+<font color="yellow">Aye.</font>
+
+131
+00:06:58,135 --> 00:07:00,374
+CROCKERY RATTLES
+
+132
+00:07:00,414 --> 00:07:02,535
+PLATES CLATTER
+
+133
+00:07:29,054 --> 00:07:30,054
+<font color="cyan">All right?</font>
+
+134
+00:07:31,215 --> 00:07:32,215
+<font color="yellow">Yeah.</font>
+
+135
+00:07:34,734 --> 00:07:36,854
+<font color="cyan">I'll see you in sunny Ammanford.</font>
+
+136
+00:07:36,895 --> 00:07:38,575
+PHONE RINGS
+Steve Wilkins.
+
+137
+00:07:38,614 --> 00:07:40,734
+<font color="yellow">'Hello, boss, this is Control.</font>
+
+138
+00:07:40,775 --> 00:07:45,135
+<font color="yellow">'Cooper has left Dyffryn Prison.</font>
+<font color="yellow">ETA Ammanford 09:00.</font>
+
+139
+00:07:45,174 --> 00:07:47,135
+<font color="yellow">They're all set up for you.</font>
+
+140
+00:08:09,934 --> 00:08:11,695
+<font color="cyan">I found the kitchen, boss.</font>
+
+141
+00:08:11,734 --> 00:08:13,015
+Thanks.
+
+142
+00:08:15,294 --> 00:08:16,814
+PHONE RINGS
+
+143
+00:08:17,814 --> 00:08:19,095
+<font color="yellow">Yep?</font>
+
+144
+00:08:20,135 --> 00:08:21,814
+<font color="yellow">He's here.</font>
+
+145
+00:08:28,854 --> 00:08:30,655
+<font color="#008000">Good morning, John.</font>
+
+146
+00:08:30,695 --> 00:08:32,254
+<font color="#008000">'I hope you had</font>
+<font color="#008000">a comfortable journey.'</font>
+
+147
+00:08:32,295 --> 00:08:33,894
+'Oh, yes.'
+
+148
+00:08:33,935 --> 00:08:35,335
+Business class.
+
+149
+00:08:36,654 --> 00:08:38,815
+See, it doesn't cost anything
+to be polite.
+
+150
+00:08:43,455 --> 00:08:45,055
+<font color="yellow">He takes the bait.</font>
+
+151
+00:08:45,095 --> 00:08:46,494
+<font color="cyan">He's old.</font>
+
+152
+00:08:52,095 --> 00:08:53,894
+He still looks strong, though.
+
+153
+00:09:01,175 --> 00:09:02,415
+<font color="#008000">All right, boss.</font>
+
+154
+00:09:04,654 --> 00:09:05,774
+<font color="cyan">'Morning.'</font>
+
+155
+00:09:05,815 --> 00:09:07,055
+<font color="cyan">Good morning, John.</font>
+
+156
+00:09:08,335 --> 00:09:10,815
+Where's the big cheese, then,
+the one off the telly?
+
+157
+00:09:10,854 --> 00:09:14,055
+<font color="cyan">Detective Superintendent Wilkins</font>
+<font color="cyan">won't be joining us, John.</font>
+
+158
+00:09:16,254 --> 00:09:17,935
+Oh, he likes to watch, does he?
+
+159
+00:09:20,095 --> 00:09:21,254
+<font color="cyan">OK, John...</font>
+
+160
+00:09:21,295 --> 00:09:22,894
+<font color="cyan">..1978.</font>
+
+161
+00:09:22,935 --> 00:09:26,374
+<font color="cyan">'The year you won Spot The Ball.</font>
+
+162
+00:09:26,415 --> 00:09:28,175
+<font color="cyan">'£94,000</font>
+
+163
+00:09:28,215 --> 00:09:31,095
+<font color="cyan">'That's about £800,000</font>
+<font color="cyan">in today's money.</font>
+
+164
+00:09:31,134 --> 00:09:32,695
+<font color="cyan">'Your life was good at the time.'</font>
+
+165
+00:09:32,734 --> 00:09:36,095
+<font color="cyan">You bought Big House Farm</font>
+<font color="cyan">at Rosemarket.</font>
+
+166
+00:09:36,134 --> 00:09:37,854
+<font color="cyan">Your wife told Huntsman</font>
+
+167
+00:09:37,894 --> 00:09:40,215
+<font color="cyan">you also took your brothers</font>
+<font color="cyan">and their families to Spain.</font>
+
+168
+00:09:41,415 --> 00:09:43,575
+I certainly did.
+<font color="yellow">You didn't take Adrian.</font>
+
+169
+00:09:43,614 --> 00:09:45,254
+<font color="yellow">Why was that, John?</font>
+
+170
+00:09:49,614 --> 00:09:51,734
+I don't know.
+
+171
+00:09:51,774 --> 00:09:53,894
+Maybe he was ill with his asthma.
+
+172
+00:09:53,935 --> 00:09:55,854
+You've been talking to him,
+have you?
+
+173
+00:09:55,894 --> 00:09:57,415
+<font color="yellow">No, John.</font>
+
+174
+00:09:57,455 --> 00:09:59,614
+<font color="yellow">We have his statements</font>
+<font color="yellow">from Huntsman.</font>
+
+175
+00:10:01,975 --> 00:10:03,614
+<font color="cyan">So, John...</font>
+
+176
+00:10:03,654 --> 00:10:04,854
+<font color="cyan">..things were going well.</font>
+
+177
+00:10:04,894 --> 00:10:07,455
+<font color="cyan">You were buying and selling</font>
+<font color="cyan">properties.</font>
+
+178
+00:10:07,494 --> 00:10:09,494
+<font color="cyan">But then the money worries started.</font>
+
+179
+00:10:10,614 --> 00:10:11,935
+HE SCOFFS
+
+180
+00:10:11,975 --> 00:10:14,215
+Well, an estate agent tricked me
+out of a lot of money.
+
+181
+00:10:14,254 --> 00:10:16,014
+My solicitor lied to me.
+
+182
+00:10:16,055 --> 00:10:17,734
+When you come into a bit of money,
+
+183
+00:10:17,774 --> 00:10:19,774
+well, the cockroaches
+come out of the woodwork.
+
+184
+00:10:19,815 --> 00:10:21,374
+<font color="cyan">It can't have been easy,</font>
+
+185
+00:10:21,415 --> 00:10:23,894
+<font color="cyan">moving from Big House Farm,</font>
+<font color="cyan">making the adjustment</font>
+
+186
+00:10:23,935 --> 00:10:28,654
+<font color="cyan">from owning your own place</font>
+<font color="cyan">to renting at 28 Rose Meadow Lane.</font>
+
+187
+00:10:28,695 --> 00:10:30,494
+A man doesn't sit around moping.
+
+188
+00:10:30,534 --> 00:10:32,534
+He's got to get out there,
+got to get grafting.
+
+189
+00:10:32,575 --> 00:10:37,494
+<font color="cyan">Between 1978 and 1983,</font>
+<font color="cyan">you spent over £125,000.</font>
+
+190
+00:10:37,534 --> 00:10:41,055
+<font color="cyan">That's £35,000 more</font>
+<font color="cyan">than your winnings on Spot The Ball.</font>
+
+191
+00:10:42,055 --> 00:10:44,014
+Well, you've got to speculate
+to accumulate.
+
+192
+00:10:44,055 --> 00:10:45,614
+<font color="yellow">Is that when you started gambling?</font>
+
+193
+00:10:45,654 --> 00:10:47,295
+What, £3 or £4 a week?
+
+194
+00:10:47,335 --> 00:10:48,935
+A 50p round robin?
+
+195
+00:10:48,975 --> 00:10:50,935
+I'd hardly call that gambling.
+
+196
+00:10:50,975 --> 00:10:54,254
+{\an8}<font color="yellow">Adrian told Huntsman</font>
+<font color="yellow">you bet £1,000 on one race.</font>
+
+197
+00:10:57,295 --> 00:10:58,935
+He misremembered.
+
+198
+00:11:02,374 --> 00:11:04,254
+<font color="yellow">April 20th, 1983.</font>
+
+199
+00:11:04,295 --> 00:11:05,575
+<font color="yellow">Clareston Hall, Freystrop.</font>
+
+200
+00:11:05,614 --> 00:11:08,935
+<font color="yellow">Your first conviction for burglary.</font>
+<font color="yellow">Is that your idea of grafting, John?</font>
+
+201
+00:11:17,854 --> 00:11:19,455
+I don't like your tone.
+
+202
+00:11:25,295 --> 00:11:26,854
+<font color="#008000">Oh, don't shut down, John boy.</font>
+
+203
+00:11:32,815 --> 00:11:33,975
+<font color="cyan">John...</font>
+
+204
+00:11:35,215 --> 00:11:38,055
+<font color="cyan">..if you don't want to talk to us,</font>
+<font color="cyan">we'll respect that.</font>
+
+205
+00:11:39,055 --> 00:11:41,254
+<font color="cyan">You can go back to Dyffryn Prison</font>
+<font color="cyan">today.</font>
+
+206
+00:11:50,455 --> 00:11:52,415
+I'm not a thief.
+
+207
+00:11:56,295 --> 00:11:58,134
+<font color="#008000">Well done, Rambo.</font>
+
+208
+00:11:58,175 --> 00:11:59,854
+<font color="cyan">'OK. You told Huntsman'</font>
+
+209
+00:11:59,894 --> 00:12:05,095
+<font color="cyan">that you visited Scoveston Park</font>
+<font color="cyan">for the first time in August 1984,</font>
+
+210
+00:12:05,134 --> 00:12:07,614
+<font color="cyan">when you went to meet</font>
+<font color="cyan">Richard and Helen Thomas</font>
+
+211
+00:12:07,654 --> 00:12:09,815
+<font color="cyan">about working on their land.</font>
+<font color="cyan">Is that correct, John?</font>
+
+212
+00:12:09,854 --> 00:12:12,614
+I know what Adrian told Huntsman
+about Scoveston Park.
+
+213
+00:12:12,654 --> 00:12:15,935
+About me telling him and his mother
+to lie to the police
+
+214
+00:12:15,975 --> 00:12:18,854
+about us all being in that night,
+the night of the fire.
+
+215
+00:12:18,894 --> 00:12:21,695
+That the truth was,
+according to him,
+
+216
+00:12:21,734 --> 00:12:24,774
+that I came home late
+smelling of a bonfire.
+
+217
+00:12:24,815 --> 00:12:27,014
+Now, you say you haven't spoken to
+him. Fair enough.
+
+218
+00:12:28,415 --> 00:12:30,575
+But there's something
+I want to get off my chest.
+
+219
+00:12:31,854 --> 00:12:33,415
+'Everything that comes out'
+
+220
+00:12:33,455 --> 00:12:35,734
+of that boy's mouth is lies.
+
+221
+00:12:35,774 --> 00:12:38,935
+Has been ever since
+we didn't take him to Spain.
+
+222
+00:12:40,734 --> 00:12:43,295
+When me and Pat got back...
+
+223
+00:12:43,335 --> 00:12:45,055
+he was a different boy.
+
+224
+00:12:46,175 --> 00:12:47,614
+He was surly.
+
+225
+00:12:48,894 --> 00:12:50,254
+He was disobedient.
+
+226
+00:12:50,295 --> 00:12:51,695
+Bunking off school.
+
+227
+00:12:51,734 --> 00:12:53,134
+Smoking wacky baccy.
+
+228
+00:12:54,455 --> 00:12:57,815
+Forging cheques.
+Stealing money... off us.
+
+229
+00:12:58,894 --> 00:13:01,175
+And all because
+we didn't take him on holiday.
+
+230
+00:13:03,335 --> 00:13:04,774
+As a father...
+
+231
+00:13:04,815 --> 00:13:07,055
+I take no pleasure in saying this.
+
+232
+00:13:07,095 --> 00:13:10,055
+But the truth is, the real truth,
+the night of the fire...
+
+233
+00:13:11,175 --> 00:13:12,935
+..the murders...
+
+234
+00:13:12,975 --> 00:13:15,654
+Adrian was the one
+who came home late.
+
+235
+00:13:18,095 --> 00:13:20,614
+<font color="#008000">He's pointing the finger</font>
+<font color="#008000">at his own son?</font>
+
+236
+00:13:20,654 --> 00:13:22,095
+<font color="#008000">Piece of filth.</font>
+
+237
+00:13:32,484 --> 00:13:34,964
+<font color="yellow">You know, I've been across the table</font>
+<font color="yellow">from wife-beaters,</font>
+
+238
+00:13:35,004 --> 00:13:36,805
+<font color="yellow">rapists, paedophiles.</font>
+
+239
+00:13:36,844 --> 00:13:39,884
+<font color="yellow">And I let him get to me.</font>
+And you made something happen.
+
+240
+00:13:39,925 --> 00:13:42,204
+When he feels under threat,
+he blames Adrian.
+
+241
+00:13:42,244 --> 00:13:43,805
+That's something to keep an eye on.
+
+242
+00:13:43,844 --> 00:13:45,325
+So...
+
+243
+00:13:45,364 --> 00:13:47,884
+tomorrow...
+<font color="cyan">Huntsman.</font>
+
+244
+00:13:47,925 --> 00:13:50,285
+<font color="cyan">With particular emphasis</font>
+<font color="cyan">on our prime exhibits.</font>
+
+245
+00:13:50,325 --> 00:13:51,724
+<font color="cyan">There you go, look at that.</font>
+
+246
+00:14:03,765 --> 00:14:05,445
+HE SIGHS
+
+247
+00:14:17,805 --> 00:14:21,844
+<font color="cyan">Now, John, I want to ask you</font>
+<font color="cyan">about some exhibits</font>
+
+248
+00:14:21,884 --> 00:14:24,765
+<font color="cyan">found by Operation Huntsman.</font>
+
+249
+00:14:24,805 --> 00:14:27,964
+<font color="cyan">Some of them pertain</font>
+<font color="cyan">to one particular robbery,</font>
+
+250
+00:14:28,004 --> 00:14:31,405
+<font color="cyan">the so-called Sardis robbery,</font>
+<font color="cyan">for which you were convicted.</font>
+
+251
+00:14:31,445 --> 00:14:32,805
+Wrongly convicted.
+
+252
+00:14:34,685 --> 00:14:37,204
+<font color="yellow">'For the tape,</font>
+<font color="yellow">I am showing Mr Cooper a photograph'</font>
+
+253
+00:14:37,244 --> 00:14:41,285
+<font color="yellow">of Huntsman exhibit BB/109,</font>
+<font color="yellow">a black glove.</font>
+
+254
+00:14:41,325 --> 00:14:43,645
+<font color="cyan">Do you recognise this glove, John?</font>
+
+255
+00:14:43,685 --> 00:14:45,244
+I haven't got the foggiest.
+
+256
+00:14:47,084 --> 00:14:49,645
+I had a bit of an accident
+last night.
+
+257
+00:14:50,645 --> 00:14:52,325
+I can't see a thing without them.
+Sorry.
+
+258
+00:14:52,364 --> 00:14:54,285
+'I know you're on a tight schedule.'
+
+259
+00:14:55,325 --> 00:14:57,805
+<font color="yellow">We know you had a problem</font>
+<font color="yellow">with your glasses during Huntsman.</font>
+
+260
+00:14:57,844 --> 00:15:00,004
+<font color="yellow">We got your prescription</font>
+<font color="yellow">from Dyffryn Prison.</font>
+
+261
+00:15:00,045 --> 00:15:01,724
+<font color="yellow">Just in case.</font>
+
+262
+00:15:03,724 --> 00:15:05,045
+I don't actually wear gloves.
+
+263
+00:15:05,084 --> 00:15:06,765
+Adrian's the glove-wearer
+in the family.
+
+264
+00:15:08,765 --> 00:15:14,244
+<font color="yellow">For the tape, evidence photo</font>
+<font color="yellow">of Huntsman exhibit MTJ/14.</font>
+
+265
+00:15:14,285 --> 00:15:15,405
+<font color="yellow">Black balaclava.</font>
+
+266
+00:15:15,445 --> 00:15:17,604
+<font color="cyan">Do you recognise this balaclava,</font>
+<font color="cyan">John?</font>
+
+267
+00:15:19,084 --> 00:15:22,685
+<font color="cyan">Do you remember that</font>
+<font color="cyan">Huntsman found head hairs inside it</font>
+
+268
+00:15:22,724 --> 00:15:24,325
+<font color="cyan">that were forensically tested</font>
+
+269
+00:15:24,364 --> 00:15:26,805
+<font color="cyan">'and confirmed to be yours?'</font>
+
+270
+00:15:33,204 --> 00:15:35,165
+Yes.
+
+271
+00:15:35,204 --> 00:15:36,844
+<font color="cyan">And yet you said it wasn't yours.</font>
+
+272
+00:15:39,685 --> 00:15:41,244
+That... was a mistake.
+
+273
+00:15:41,285 --> 00:15:43,525
+I was wrong.
+I think that was mine.
+
+274
+00:15:51,045 --> 00:15:53,685
+Ten years in prison,
+a man gets into a lot of thinking.
+
+275
+00:15:54,765 --> 00:15:57,805
+He remembers things that he hasn't
+thought about for ages.
+
+276
+00:15:57,844 --> 00:16:00,004
+And one of the things I do remember,
+
+277
+00:16:00,045 --> 00:16:02,405
+and it was about 20 years ago,
+
+278
+00:16:02,445 --> 00:16:04,084
+was I did used to have
+a black balaclava
+
+279
+00:16:04,124 --> 00:16:06,285
+just like that one
+that I used to wear
+
+280
+00:16:06,325 --> 00:16:08,124
+'when I went fishing
+with a boat that I had.
+
+281
+00:16:08,165 --> 00:16:12,204
+'Well, remembering that,
+everything slotted into place.'
+
+282
+00:16:12,244 --> 00:16:14,964
+There's only one explanation
+that makes any sense.
+
+283
+00:16:16,525 --> 00:16:18,445
+I didn't lose the balaclava.
+
+284
+00:16:18,484 --> 00:16:20,805
+It was stolen.
+
+285
+00:16:20,844 --> 00:16:23,165
+By the same individual
+who did the robbery
+
+286
+00:16:23,204 --> 00:16:25,445
+'that I was wrongly convicted of.'
+
+287
+00:16:28,084 --> 00:16:29,244
+<font color="cyan">OK, John.</font>
+
+288
+00:16:29,285 --> 00:16:30,484
+<font color="cyan">On we go.</font>
+
+289
+00:16:30,525 --> 00:16:32,084
+<font color="yellow">Huntsman exhibits...</font>
+
+290
+00:16:32,124 --> 00:16:34,604
+<font color="yellow">'PAS/1, a sawn-off shotgun,'</font>
+
+291
+00:16:34,645 --> 00:16:36,525
+<font color="yellow">and PH/2,</font>
+
+292
+00:16:36,565 --> 00:16:39,484
+<font color="yellow">a sawn-off shotgun</font>
+<font color="yellow">with customised shoulder strap.</font>
+
+293
+00:16:39,525 --> 00:16:42,004
+<font color="cyan">Do you recognise these shotguns,</font>
+<font color="cyan">John?</font>
+
+294
+00:16:42,045 --> 00:16:43,484
+You're trying to trick me.
+
+295
+00:16:45,004 --> 00:16:46,525
+This gun is mine.
+
+296
+00:16:46,565 --> 00:16:48,525
+This one is not.
+
+297
+00:16:48,565 --> 00:16:51,844
+<font color="cyan">Huntsman found this gun,</font>
+<font color="cyan">wrapped in oilcloth,</font>
+
+298
+00:16:51,884 --> 00:16:54,204
+<font color="cyan">buried underneath the duck run</font>
+<font color="cyan">at your home.</font>
+
+299
+00:16:54,244 --> 00:16:55,724
+<font color="cyan">Why did you bury it, John?</font>
+
+300
+00:16:55,765 --> 00:16:58,325
+I didn't want Adrian to find it.
+Didn't want him hurting himself.
+
+301
+00:16:58,364 --> 00:17:00,045
+<font color="cyan">And this gun, PH/2,</font>
+
+302
+00:17:00,084 --> 00:17:03,685
+<font color="cyan">was found with the glove</font>
+<font color="cyan">and balaclava under the hedge</font>
+
+303
+00:17:03,724 --> 00:17:06,205
+<font color="cyan">close to the scene</font>
+<font color="cyan">of the Sardis robbery.</font>
+
+304
+00:17:06,245 --> 00:17:08,924
+I'm aware. Huntsman must have
+told me about a hundred times.
+
+305
+00:17:08,965 --> 00:17:10,444
+<font color="cyan">If you look closely, John,</font>
+
+306
+00:17:10,485 --> 00:17:14,325
+<font color="cyan">you will see that both guns</font>
+<font color="cyan">have the same modifications.</font>
+
+307
+00:17:14,364 --> 00:17:17,485
+<font color="cyan">Sawn-off barrels</font>
+<font color="cyan">and sawn-down stocks.</font>
+
+308
+00:17:17,525 --> 00:17:19,805
+<font color="cyan">Screws in both barrels and stocks</font>
+
+309
+00:17:19,844 --> 00:17:21,205
+<font color="cyan">'for a shoulder strap.</font>
+
+310
+00:17:22,285 --> 00:17:25,285
+<font color="cyan">'John, how do you account</font>
+<font color="cyan">for the fact that'</font>
+
+311
+00:17:25,325 --> 00:17:28,604
+<font color="cyan">the very same</font>
+<font color="cyan">distinctive DIY modifications</font>
+
+312
+00:17:28,644 --> 00:17:30,805
+<font color="cyan">were made to both shotguns?</font>
+Coincidence.
+
+313
+00:17:30,844 --> 00:17:33,124
+Stranger things have happened,
+right?
+
+314
+00:17:33,164 --> 00:17:35,285
+And while we're on the subject...
+
+315
+00:17:36,604 --> 00:17:40,805
+..I want to talk about the gun that
+Huntsman found under the hedge.
+
+316
+00:17:40,844 --> 00:17:42,084
+For the tape.
+
+317
+00:17:42,124 --> 00:17:43,525
+<font color="#008000">Here we go again.</font>
+
+318
+00:17:43,565 --> 00:17:46,525
+'During the Huntsman trial,
+and I remember this very clearly
+
+319
+00:17:46,565 --> 00:17:49,084
+'because I thought
+it was very strange at the time,'
+
+320
+00:17:49,124 --> 00:17:52,805
+the prosecution barrister handed me
+the gun on more than one occasion.
+
+321
+00:17:54,644 --> 00:17:57,765
+Well, what I'm saying is,
+if my DNA is on that,
+
+322
+00:17:57,805 --> 00:17:59,404
+that's the reason why.
+
+323
+00:18:05,404 --> 00:18:07,844
+<font color="#008000">His time in the library</font>
+<font color="#008000">was well-spent.</font>
+
+324
+00:18:07,884 --> 00:18:10,285
+He's digging his own grave.
+
+325
+00:18:10,325 --> 00:18:12,565
+Today was a result for us.
+
+326
+00:18:12,604 --> 00:18:13,604
+The lengths he went to
+
+327
+00:18:13,644 --> 00:18:18,325
+to distance himself from the Sardis
+exhibits means we are bang-on.
+
+328
+00:18:18,364 --> 00:18:21,684
+His story about the gun
+being handled in the trial.
+
+329
+00:18:21,725 --> 00:18:25,285
+The balaclava being stolen
+20 years before, in 1988,
+
+330
+00:18:25,325 --> 00:18:27,164
+the year before Coastal Path.
+
+331
+00:18:28,325 --> 00:18:31,485
+He wasn't just telling us
+the man who stole the balaclava
+
+332
+00:18:31,525 --> 00:18:32,725
+did the Sardis robbery,
+
+333
+00:18:32,765 --> 00:18:34,644
+he was saying the man
+murdered the Dixons.
+
+334
+00:18:34,684 --> 00:18:37,325
+Today, he confirmed
+what we'd always suspected.
+
+335
+00:18:37,364 --> 00:18:40,045
+And he gave us something new
+into the bargain.
+
+336
+00:18:40,084 --> 00:18:42,805
+When he killed
+Peter and Gwenda Dixon...
+
+337
+00:18:42,844 --> 00:18:44,525
+he wore that balaclava.
+
+338
+00:18:44,565 --> 00:18:47,325
+And PH/2 is, without a doubt,
+the murder weapon.
+
+339
+00:18:47,364 --> 00:18:50,124
+<font color="cyan">What exhibits shall we send back</font>
+<font color="cyan">for re-testing, then, boss?</font>
+
+340
+00:18:50,164 --> 00:18:51,844
+The Sardis robbery gun
+and the balaclava.
+
+341
+00:18:51,884 --> 00:18:53,285
+Don't bother with the duck run gun.
+
+342
+00:18:53,325 --> 00:18:55,765
+Save that money for something else.
+<font color="yellow">What about the glove?</font>
+
+343
+00:18:55,805 --> 00:18:58,884
+<font color="yellow">He said Adrian was the glove-wearer.</font>
+<font color="yellow">That's got to mean something.</font>
+
+344
+00:19:00,005 --> 00:19:01,525
+Put it in.
+
+345
+00:19:01,565 --> 00:19:02,965
+<font color="cyan">Don't all call me a twat at once...</font>
+
+346
+00:19:03,005 --> 00:19:04,884
+MEN: <font color="#008000">Twat!</font>
+
+347
+00:19:04,924 --> 00:19:06,485
+<font color="cyan">..but what's the point in re-testing</font>
+
+348
+00:19:06,525 --> 00:19:08,684
+<font color="cyan">when we already know</font>
+<font color="cyan">they'll come back negative?</font>
+
+349
+00:19:08,725 --> 00:19:11,485
+<font color="yellow">Testing for trace DNA is like</font>
+<font color="yellow">battleships. It's a guessing game.</font>
+
+350
+00:19:12,684 --> 00:19:14,644
+<font color="yellow">The boffins can't see</font>
+<font color="yellow">what they're looking for.</font>
+
+351
+00:19:14,684 --> 00:19:16,644
+<font color="yellow">They test small areas</font>
+<font color="yellow">they think are most likely</font>
+
+352
+00:19:16,684 --> 00:19:18,124
+<font color="yellow">and hope for the best.</font>
+
+353
+00:19:19,525 --> 00:19:21,684
+<font color="yellow">But there's always bits</font>
+<font color="yellow">that haven't been tested.</font>
+
+354
+00:19:21,725 --> 00:19:22,684
+So...
+
+355
+00:19:22,725 --> 00:19:24,364
+..tomorrow is our last day with him.
+
+356
+00:19:25,965 --> 00:19:28,684
+I'm happy to risk
+a bit of confrontation.
+
+357
+00:19:28,725 --> 00:19:30,725
+Rambo, I want Ella to lead.
+
+358
+00:19:30,765 --> 00:19:32,124
+<font color="cyan">Right.</font>
+
+359
+00:19:33,884 --> 00:19:35,325
+<font color="cyan">Hey, don't leave me hanging!</font>
+
+360
+00:19:36,364 --> 00:19:38,924
+HE CHUCKLES
+
+361
+00:19:43,884 --> 00:19:46,045
+<font color="yellow">John, do you think</font>
+<font color="yellow">the man in the drawing</font>
+
+362
+00:19:46,084 --> 00:19:50,285
+<font color="yellow">bears any resemblance to yourself</font>
+<font color="yellow">as you were in July 1989?</font>
+
+363
+00:19:53,084 --> 00:19:54,684
+No, not at all.
+
+364
+00:19:56,684 --> 00:19:59,404
+Even the detective who came round
+the house said as much at the time.
+
+365
+00:19:59,444 --> 00:20:01,805
+<font color="yellow">Detective Rees.</font>
+<font color="yellow">The one who used to drink with you?</font>
+
+366
+00:20:02,924 --> 00:20:04,684
+Yeah.
+
+367
+00:20:04,725 --> 00:20:07,285
+<font color="yellow">So, John, how did you look</font>
+<font color="yellow">in July 1989?</font>
+
+368
+00:20:07,325 --> 00:20:09,485
+Haven't you got any photographs?
+<font color="yellow">No, John.</font>
+
+369
+00:20:09,525 --> 00:20:11,684
+<font color="yellow">Which is why we'd appreciate</font>
+<font color="yellow">your help.</font>
+
+370
+00:20:11,725 --> 00:20:14,245
+I don't remember.
+It was 20 years ago. <font color="yellow">19, actually.</font>
+
+371
+00:20:16,045 --> 00:20:17,164
+<font color="yellow">Let me get this straight.</font>
+
+372
+00:20:17,205 --> 00:20:19,084
+<font color="yellow">You can't remember</font>
+<font color="yellow">how you looked back then,</font>
+
+373
+00:20:19,124 --> 00:20:22,245
+<font color="yellow">but you're confident that</font>
+<font color="yellow">this sketch, made at that time,</font>
+
+374
+00:20:22,285 --> 00:20:24,285
+<font color="yellow">'doesn't resemble you at all.'</font>
+
+375
+00:20:24,325 --> 00:20:25,325
+'I'm sure.
+
+376
+00:20:25,364 --> 00:20:27,965
+'Because I know
+I didn't have hair that long.'
+
+377
+00:20:28,005 --> 00:20:30,644
+<font color="yellow">You never had collar-length hair?</font>
+I don't like it on my neck.
+
+378
+00:20:30,684 --> 00:20:34,164
+<font color="yellow">What about the clothes the man</font>
+<font color="yellow">in the drawing's wearing, John?</font>
+
+379
+00:20:34,205 --> 00:20:35,604
+I don't go in for shorts.
+
+380
+00:20:35,644 --> 00:20:37,965
+Shorts were more Adrian's thing.
+
+381
+00:20:40,485 --> 00:20:43,005
+Stick with the shorts, Ella.
+
+382
+00:20:43,045 --> 00:20:45,765
+<font color="yellow">The witness who saw this man</font>
+<font color="yellow">using Peter Dixon's stolen cash card</font>
+
+383
+00:20:45,805 --> 00:20:48,364
+<font color="yellow">said that the shorts he was wearing</font>
+<font color="yellow">were khaki coloured.</font>
+
+384
+00:20:49,565 --> 00:20:51,725
+<font color="yellow">Did you ever own</font>
+<font color="yellow">a pair of khaki shorts, John?</font>
+
+385
+00:20:52,765 --> 00:20:53,765
+Yes.
+
+386
+00:20:55,045 --> 00:20:56,565
+But they were more bathers
+
+387
+00:20:56,604 --> 00:20:58,444
+'than shorts.'
+
+388
+00:20:58,485 --> 00:21:00,644
+They were shorter.
+Those are long shorts.
+
+389
+00:21:00,684 --> 00:21:02,485
+Mine were short shorts,
+more like bathers.
+
+390
+00:21:02,525 --> 00:21:05,404
+'Adrian used to wear them
+more than I did.'
+
+391
+00:21:05,444 --> 00:21:08,325
+He was always borrowing my clothes.
+
+392
+00:21:21,805 --> 00:21:23,965
+<font color="#008000">These are the only shorts</font>
+<font color="#008000">that Huntsman found</font>
+
+393
+00:21:24,005 --> 00:21:26,644
+<font color="#008000">at 28 Rose Meadow Lane.</font>
+
+394
+00:21:26,684 --> 00:21:28,245
+<font color="#008000">No khaki,</font>
+<font color="#008000">and they're all a lot shorter</font>
+
+395
+00:21:28,285 --> 00:21:29,684
+<font color="#008000">than the ones in the wanted photo.</font>
+
+396
+00:21:29,725 --> 00:21:31,005
+<font color="yellow">What about bathers?</font>
+
+397
+00:21:31,045 --> 00:21:33,404
+<font color="yellow">He said that more than once.</font>
+<font color="#008000">Bathers.</font>
+
+398
+00:21:33,444 --> 00:21:35,884
+<font color="#008000">Shorts. Swimming trucks. Trousers.</font>
+<font color="#008000">We did the lot.</font>
+
+399
+00:21:35,924 --> 00:21:37,245
+He said Andrew wore them.
+
+400
+00:21:37,285 --> 00:21:39,404
+That's his tell.
+
+401
+00:21:39,444 --> 00:21:42,725
+Something about those shorts
+worries him.
+
+402
+00:21:42,765 --> 00:21:44,124
+Why?
+
+403
+00:21:45,364 --> 00:21:47,205
+<font color="#008000">And where the hell are they?</font>
+
+404
+00:21:47,245 --> 00:21:49,045
+KNOCK ON DOOR
+
+405
+00:21:53,404 --> 00:21:54,844
+Mrs Patricia Cooper?
+
+406
+00:21:56,084 --> 00:21:58,005
+Detective Superintendent
+Steve Wilkins.
+
+407
+00:21:58,045 --> 00:21:59,444
+This is DI Ella Richards.
+
+408
+00:21:59,485 --> 00:22:01,084
+Can we come in for a minute, please?
+
+409
+00:22:01,124 --> 00:22:02,884
+WHISPERS: <font color="cyan">Come in.</font>
+
+410
+00:22:13,844 --> 00:22:15,444
+<font color="cyan">You won't find anything.</font>
+
+411
+00:22:17,604 --> 00:22:19,965
+<font color="cyan">Well, you lot took everything</font>
+<font color="cyan">of John's nine years ago.</font>
+
+412
+00:22:20,005 --> 00:22:21,485
+<font color="yellow">Not us, Mrs Cooper.</font>
+
+413
+00:22:22,725 --> 00:22:25,604
+<font color="yellow">You used to work at Ocky White's,</font>
+<font color="yellow">didn't you, Mrs Cooper?</font>
+
+414
+00:22:25,644 --> 00:22:27,565
+<font color="cyan">I was the best seamstress they had.</font>
+
+415
+00:22:34,164 --> 00:22:37,805
+These were taken the year
+your husband won on Spot The Ball?
+
+416
+00:22:37,844 --> 00:22:39,245
+1978?
+
+417
+00:22:39,285 --> 00:22:41,005
+Yes?
+<font color="cyan">Yes.</font>
+
+418
+00:22:42,924 --> 00:22:46,124
+<font color="cyan">A professional photographer</font>
+<font color="cyan">came to the house.</font>
+
+419
+00:22:46,164 --> 00:22:49,884
+Do you have any later photographs
+of the two of you, Mrs Cooper?
+
+420
+00:22:49,924 --> 00:22:51,084
+<font color="cyan">No.</font>
+
+421
+00:22:52,205 --> 00:22:53,924
+<font color="cyan">We weren't big on family photos.</font>
+
+422
+00:22:57,444 --> 00:23:01,404
+1978, that was the year
+you went on holiday to Spain, right?
+
+423
+00:23:02,725 --> 00:23:03,884
+<font color="cyan">Yes.</font>
+
+424
+00:23:03,924 --> 00:23:07,485
+Do you mind me asking,
+why didn't you take Adrian with you?
+
+425
+00:23:07,525 --> 00:23:08,924
+<font color="cyan">I don't remember.</font>
+
+426
+00:23:12,485 --> 00:23:13,844
+<font color="cyan">Are you finished?</font>
+
+427
+00:23:16,684 --> 00:23:17,884
+Thank you.
+
+428
+00:23:22,644 --> 00:23:23,965
+FRONT DOOR CLOSES
+
+429
+00:23:27,924 --> 00:23:30,684
+DOG BARKS OUTSIDE
+
+430
+00:23:38,285 --> 00:23:40,765
+BARKING CONTINUES
+
+431
+00:23:40,805 --> 00:23:43,725
+HE BREATHES HEAVILY
+
+432
+00:23:43,765 --> 00:23:46,045
+HE GROANS
+
+433
+00:23:47,565 --> 00:23:49,884
+HE PANTS FOR BREATH
+
+434
+00:24:10,819 --> 00:24:12,180
+What's wrong with you?
+
+435
+00:24:13,259 --> 00:24:14,940
+<font color="yellow">I had the police round.</font>
+
+436
+00:24:16,299 --> 00:24:19,940
+<font color="yellow">Asking about an old khaki pair</font>
+<font color="yellow">of bathers of yours.</font>
+
+437
+00:24:19,979 --> 00:24:21,299
+<font color="yellow">What's that about?</font>
+
+438
+00:24:21,340 --> 00:24:23,219
+Did they find them?
+<font color="yellow">No.</font>
+
+439
+00:24:23,259 --> 00:24:26,059
+<font color="yellow">They took all your clothes when</font>
+<font color="yellow">you were arrested. You know that.</font>
+
+440
+00:24:26,100 --> 00:24:29,019
+I want you to get hold of Adrian.
+Find out if he's got them.
+
+441
+00:24:30,700 --> 00:24:32,259
+<font color="yellow">I don't have a number for him.</font>
+
+442
+00:24:32,299 --> 00:24:34,979
+Well, Shirley's daughter, she's
+a receptionist in the hospital.
+
+443
+00:24:35,019 --> 00:24:36,819
+She'll give it to you.
+You're his mother.
+
+444
+00:24:36,860 --> 00:24:39,059
+<font color="yellow">You're telling me...</font>
+
+445
+00:24:39,100 --> 00:24:40,420
+<font color="yellow">to get in touch with Adrian?</font>
+
+446
+00:24:40,459 --> 00:24:41,940
+Yes!
+
+447
+00:24:47,779 --> 00:24:50,779
+<font color="cyan">Forensics said they took it apart,</font>
+<font color="cyan">tested every nook and cranny,</font>
+
+448
+00:24:50,819 --> 00:24:52,539
+<font color="cyan">every millimetre</font>
+<font color="cyan">of the shoulder strap.</font>
+
+449
+00:24:52,580 --> 00:24:55,100
+<font color="yellow">Yeah, they also said re-testing</font>
+<font color="yellow">it for DNA</font>
+
+450
+00:24:55,140 --> 00:24:57,739
+<font color="yellow">would be a complete waste</font>
+<font color="yellow">of Ottawa's money and their time.</font>
+
+451
+00:24:57,779 --> 00:25:00,380
+That's not their call to make.
+
+452
+00:25:00,420 --> 00:25:02,979
+Where are we
+with the forensics budget?
+
+453
+00:25:03,019 --> 00:25:04,420
+<font color="yellow">17,000 left.</font>
+
+454
+00:25:04,459 --> 00:25:05,979
+<font color="yellow">Out of 350,000.</font>
+
+455
+00:25:06,019 --> 00:25:07,340
+Jesus...
+
+456
+00:25:07,380 --> 00:25:09,219
+<font color="cyan">Boss, I'm not convinced</font>
+<font color="cyan">we're getting</font>
+
+457
+00:25:09,259 --> 00:25:11,620
+<font color="cyan">the best possible bang for our buck</font>
+<font color="cyan">here.</font>
+
+458
+00:25:11,660 --> 00:25:14,140
+<font color="cyan">I think we should have a sit-down</font>
+<font color="cyan">with Dr Gallop.</font>
+
+459
+00:25:14,180 --> 00:25:17,700
+<font color="cyan">Make sure we're not getting</font>
+<font color="cyan">sidelined by some big London job.</font>
+
+460
+00:25:18,739 --> 00:25:21,180
+Is that metal I can see
+through the paint?
+
+461
+00:25:21,219 --> 00:25:24,180
+<font color="yellow">It's where the finish has worn off.</font>
+<font color="yellow">That thing was made in the 1940s.</font>
+
+462
+00:25:24,219 --> 00:25:27,259
+And that's the manufacturer's
+finish? <font color="cyan">Yeah, we assumed.</font>
+
+463
+00:25:27,299 --> 00:25:29,860
+<font color="cyan">Obviously, we've not seen the thing</font>
+<font color="cyan">in the flesh. </font>Assumed?
+
+464
+00:25:31,420 --> 00:25:33,259
+Really, Lynne?
+Glyn?
+
+465
+00:25:35,700 --> 00:25:38,299
+Did Huntsman recover any paint
+from Cooper's home?
+
+466
+00:25:38,340 --> 00:25:39,739
+KEYBOARD CLACKS
+
+467
+00:25:39,779 --> 00:25:41,259
+<font color="yellow">Yeah, six pots in the shed.</font>
+
+468
+00:25:41,299 --> 00:25:43,259
+<font color="yellow">Nige, get the Huntsman shed file.</font>
+
+469
+00:25:43,299 --> 00:25:44,459
+Any of them black?
+
+470
+00:25:46,259 --> 00:25:47,340
+<font color="#008000">Yeah.</font>
+
+471
+00:25:47,380 --> 00:25:48,860
+<font color="#008000">JAW/100.</font>
+
+472
+00:25:49,940 --> 00:25:51,299
+JAW/100...
+
+473
+00:26:00,420 --> 00:26:02,940
+I want that taken out of storage.
+
+474
+00:26:12,819 --> 00:26:15,180
+LYNNE: <font color="yellow">Your team have been</font>
+<font color="yellow">on this case for 18 months now</font>
+
+475
+00:26:15,219 --> 00:26:17,019
+<font color="yellow">and all we've got to show for it is</font>
+
+476
+00:26:17,059 --> 00:26:20,259
+<font color="yellow">a partial for Peter Dixon's DNA</font>
+<font color="yellow">on a piece of rope.</font>
+
+477
+00:26:20,299 --> 00:26:23,059
+<font color="cyan">With respect,</font>
+<font color="cyan">we're seeing this a lot.</font>
+
+478
+00:26:23,100 --> 00:26:26,100
+<font color="cyan">This obsession with DNA</font>
+<font color="cyan">at the expense of...</font>
+
+479
+00:26:27,059 --> 00:26:30,059
+<font color="cyan">..well, other, less fashionable</font>
+<font color="cyan">avenues of analysis.</font>
+
+480
+00:26:30,100 --> 00:26:34,580
+<font color="cyan">Ottawa's insistence</font>
+<font color="cyan">that we focus solely on DNA</font>
+
+481
+00:26:34,620 --> 00:26:36,739
+<font color="cyan">has put my team in a straitjacket.</font>
+
+482
+00:26:36,779 --> 00:26:39,700
+<font color="yellow">No. No, no, no.</font>
+<font color="yellow">We asked you to prioritise DNA,</font>
+
+483
+00:26:39,739 --> 00:26:41,499
+<font color="yellow">but not to the exclusion</font>
+<font color="yellow">of everything else.</font>
+
+484
+00:26:41,539 --> 00:26:43,940
+<font color="cyan">But that's the impression</font>
+<font color="cyan">you gave my colleague.</font>
+
+485
+00:26:43,979 --> 00:26:45,539
+Dr Gallop...
+
+486
+00:26:46,539 --> 00:26:48,819
+..let's say we remove
+the straitjacket.
+
+487
+00:26:48,860 --> 00:26:50,819
+How would that change things?
+
+488
+00:26:50,860 --> 00:26:53,059
+<font color="cyan">Well, it would allow us</font>
+<font color="cyan">to widen our search,</font>
+
+489
+00:26:53,100 --> 00:26:55,779
+<font color="cyan">look for other types of evidence.</font>
+
+490
+00:26:55,819 --> 00:26:59,180
+<font color="cyan">Now, we're agreed that</font>
+<font color="cyan">the killer wore gloves, yes?</font>
+
+491
+00:26:59,219 --> 00:27:00,979
+<font color="cyan">We look for textile fibres.</font>
+
+492
+00:27:01,019 --> 00:27:02,459
+Fibres are circumstantial.
+
+493
+00:27:02,499 --> 00:27:05,059
+We need hard proof.
+<font color="cyan">Yes, but...</font>
+
+494
+00:27:05,100 --> 00:27:08,940
+<font color="cyan">if we can find enough fibres</font>
+<font color="cyan">linking culprit to victim,</font>
+
+495
+00:27:08,979 --> 00:27:11,779
+<font color="cyan">it could tell</font>
+<font color="cyan">an equally compelling story</font>
+
+496
+00:27:11,819 --> 00:27:13,459
+<font color="cyan">about the circumstances</font>
+<font color="cyan">of the crimes.</font>
+
+497
+00:27:13,499 --> 00:27:16,299
+<font color="cyan">Maybe even get you over</font>
+<font color="cyan">the charge threshold with the CPS.</font>
+
+498
+00:27:20,180 --> 00:27:21,259
+OK.
+
+499
+00:27:21,299 --> 00:27:22,380
+Let's go for it.
+
+500
+00:27:22,420 --> 00:27:24,219
+<font color="cyan">All right.</font>
+
+501
+00:27:24,259 --> 00:27:26,779
+We have one other request.
+
+502
+00:27:26,819 --> 00:27:28,459
+We believe...
+
+503
+00:27:28,499 --> 00:27:31,100
+that this is the Coastal Path
+murder weapon.
+
+504
+00:27:31,140 --> 00:27:32,499
+<font color="cyan">Yeah, PH/2.</font>
+
+505
+00:27:32,539 --> 00:27:34,700
+<font color="cyan">I heard you'd asked the team</font>
+<font color="cyan">to have another look.</font>
+
+506
+00:27:34,739 --> 00:27:36,900
+Yes, but this is
+a different request.
+
+507
+00:27:36,940 --> 00:27:38,380
+Among the items recovered
+by Huntsman
+
+508
+00:27:38,420 --> 00:27:39,620
+from the shed at Cooper's home
+
+509
+00:27:39,660 --> 00:27:43,700
+was this 750ml tin
+of Anvileen satin black metal paint.
+
+510
+00:27:46,620 --> 00:27:49,860
+I think Cooper
+painted the barrels of the gun
+
+511
+00:27:49,900 --> 00:27:51,620
+to make it less visible at night.
+
+512
+00:27:51,660 --> 00:27:52,860
+<font color="cyan">Hm.</font>
+
+513
+00:27:52,900 --> 00:27:54,100
+The murders were in 1989.
+
+514
+00:27:54,140 --> 00:27:58,499
+Anvileen didn't manufacture
+this particular paint until 1995.
+
+515
+00:27:58,539 --> 00:28:01,059
+So, if PH/2 is the murder weapon,
+
+516
+00:28:01,100 --> 00:28:04,860
+there could still be trace DNA
+under the paint.
+
+517
+00:28:04,900 --> 00:28:07,499
+<font color="cyan">Well, that's more than six years.</font>
+
+518
+00:28:07,539 --> 00:28:09,700
+<font color="cyan">During which the gun</font>
+<font color="cyan">would've been cleaned,</font>
+
+519
+00:28:09,739 --> 00:28:11,979
+<font color="cyan">rained on, exposed to the elements.</font>
+
+520
+00:28:13,140 --> 00:28:15,900
+<font color="cyan">Are you sure this is the best use</font>
+<font color="cyan">of what's left of your budget?</font>
+
+521
+00:28:18,739 --> 00:28:20,019
+I'm sure.
+
+522
+00:28:21,340 --> 00:28:22,580
+<font color="cyan">All right.</font>
+
+523
+00:28:49,219 --> 00:28:51,340
+PHONE RINGS
+
+524
+00:28:53,860 --> 00:28:55,140
+Hello?
+
+525
+00:28:57,140 --> 00:28:58,620
+<font color="yellow">Hello, Adrian.</font>
+
+526
+00:29:01,299 --> 00:29:03,019
+DIALLING TONE
+
+527
+00:29:23,900 --> 00:29:26,459
+PHONE RINGS
+
+528
+00:29:33,100 --> 00:29:35,259
+<font color="yellow">'Hello?'</font>
+How did you get my number?
+
+529
+00:29:35,299 --> 00:29:37,140
+<font color="yellow">Nice to hear from you, too!</font>
+
+530
+00:29:40,219 --> 00:29:41,779
+What do you want?
+
+531
+00:29:41,819 --> 00:29:43,700
+<font color="yellow">'Just to find out how you are.'</font>
+
+532
+00:29:46,100 --> 00:29:48,019
+<font color="yellow">I heard you were in hospital.</font>
+
+533
+00:29:50,180 --> 00:29:52,059
+<font color="yellow">Why did you go and do</font>
+<font color="yellow">a silly thing like that?</font>
+
+534
+00:29:56,140 --> 00:29:57,620
+It was nothing.
+
+535
+00:29:57,660 --> 00:29:59,100
+'A mistake.'
+
+536
+00:30:00,700 --> 00:30:02,380
+<font color="yellow">I thought I could come and see you.</font>
+
+537
+00:30:05,140 --> 00:30:07,259
+It's not a good time.
+
+538
+00:30:07,299 --> 00:30:08,819
+I'm doing the place up.
+
+539
+00:30:08,860 --> 00:30:10,259
+'It's a bombsite.'
+
+540
+00:30:11,340 --> 00:30:13,660
+<font color="yellow">So, come to mine, then.</font>
+
+541
+00:30:22,380 --> 00:30:24,979
+<font color="cyan">Ah, boss. Ollie Wakefield</font>
+<font color="cyan">from the CPS called you.</font>
+
+542
+00:30:25,019 --> 00:30:26,259
+Great.
+
+543
+00:30:27,340 --> 00:30:28,660
+Ollie, Steve Wilkins.
+
+544
+00:30:28,700 --> 00:30:29,940
+Listen...
+
+545
+00:30:29,979 --> 00:30:31,700
+Ottawa needs a favour.
+
+546
+00:30:31,739 --> 00:30:33,180
+The governor at Dyffryn Prison
+
+547
+00:30:33,219 --> 00:30:35,380
+refuses to delay
+Cooper's second parole hearing.
+
+548
+00:30:35,420 --> 00:30:38,380
+'And I think a word from the CPS
+might persuade the man
+
+549
+00:30:38,420 --> 00:30:39,620
+'to see some sense.
+
+550
+00:30:39,660 --> 00:30:42,019
+<font color="yellow">The case, it isn't there, Steve.</font>
+
+551
+00:30:42,059 --> 00:30:44,700
+<font color="yellow">You know what the prison services</font>
+<font color="yellow">will say. No hard evidence.</font>
+
+552
+00:30:44,739 --> 00:30:47,140
+<font color="yellow">I'm sorry.</font>
+'Ollie, if he is released'
+
+553
+00:30:47,180 --> 00:30:49,620
+back into the community
+and he hurts someone,
+
+554
+00:30:49,660 --> 00:30:52,340
+"institutionally incompetent"
+will be a happy memory
+
+555
+00:30:52,380 --> 00:30:55,819
+'when we are up to our necks
+in public inquiries.'
+
+556
+00:30:55,860 --> 00:30:57,660
+<font color="yellow">You're that convinced</font>
+<font color="yellow">he'll kill again?</font>
+
+557
+00:30:58,979 --> 00:31:00,819
+He's a serial killer.
+
+558
+00:31:00,860 --> 00:31:02,620
+Serial killers don't...
+
+559
+00:31:02,660 --> 00:31:04,299
+They can't stop.
+
+560
+00:31:04,340 --> 00:31:06,819
+<font color="yellow">'Steve, inevitable mutterings</font>
+<font color="yellow">have started.'</font>
+
+561
+00:31:06,860 --> 00:31:09,019
+<font color="yellow">There's talk of</font>
+<font color="yellow">shutting Ottawa down.</font>
+
+562
+00:31:09,059 --> 00:31:10,779
+HE SIGHS
+
+563
+00:31:45,459 --> 00:31:46,739
+Hi, Ma.
+
+564
+00:31:49,420 --> 00:31:50,779
+<font color="yellow">What happened to you?</font>
+
+565
+00:31:52,539 --> 00:31:54,140
+An accident at work.
+
+566
+00:32:06,380 --> 00:32:07,860
+DOOR CLOSES
+
+567
+00:32:13,219 --> 00:32:14,779
+<font color="yellow">I thought you might be peckish.</font>
+
+568
+00:32:23,059 --> 00:32:25,299
+Are you still visiting him?
+
+569
+00:32:25,340 --> 00:32:26,900
+<font color="yellow">Every week.</font>
+
+570
+00:32:28,779 --> 00:32:31,940
+Is he gonna live here with you
+when he gets out?
+
+571
+00:32:31,979 --> 00:32:33,700
+<font color="yellow">I'm his wife.</font>
+
+572
+00:32:33,739 --> 00:32:35,059
+<font color="yellow">Where else is he gonna live?</font>
+
+573
+00:32:41,180 --> 00:32:43,380
+<font color="yellow">He's a bit worked up at the moment.</font>
+
+574
+00:32:43,420 --> 00:32:44,940
+<font color="yellow">The police are bothering him again.</font>
+
+575
+00:32:47,100 --> 00:32:48,259
+Oh, yeah?
+
+576
+00:32:50,580 --> 00:32:51,860
+<font color="yellow">Actually...</font>
+
+577
+00:32:53,380 --> 00:32:54,739
+<font color="yellow">it's a silly thing.</font>
+
+578
+00:32:56,420 --> 00:32:59,420
+<font color="yellow">You don't have an old pair</font>
+<font color="yellow">of khaki bathers of his, do you?</font>
+
+579
+00:33:04,660 --> 00:33:06,940
+Still running things,
+even from in prison.
+
+580
+00:33:06,979 --> 00:33:08,979
+SHE SIGHS
+
+581
+00:33:09,019 --> 00:33:11,900
+It wasn't true what I said earlier
+about an accident at work.
+
+582
+00:33:14,140 --> 00:33:15,620
+He did this to me.
+
+583
+00:33:15,660 --> 00:33:17,940
+The same year
+you had those stupid photos done,
+
+584
+00:33:17,979 --> 00:33:19,539
+he broke my back.
+
+585
+00:33:19,580 --> 00:33:21,019
+<font color="yellow">He didn't break your back.</font>
+
+586
+00:33:21,059 --> 00:33:25,019
+A year ago, I was fit and strong,
+working in Ireland, hod-carrying.
+
+587
+00:33:25,059 --> 00:33:27,779
+One morning, it was like
+I was struck by lightning.
+
+588
+00:33:29,100 --> 00:33:30,620
+Nine hours of surgery.
+
+589
+00:33:31,739 --> 00:33:34,380
+Rods and screws in my pelvis
+and spine.
+
+590
+00:33:34,420 --> 00:33:36,739
+I thought it was the work that
+caused it, but the consultant
+
+591
+00:33:36,779 --> 00:33:39,420
+told me
+it was an injury from childhood.
+
+592
+00:33:41,299 --> 00:33:43,900
+Straight away, I knew
+it was that punch in the back.
+
+593
+00:33:43,940 --> 00:33:47,180
+You knew something was seriously
+wrong when it happened,
+
+594
+00:33:47,219 --> 00:33:49,100
+but you didn't take
+me to the hospital
+
+595
+00:33:49,140 --> 00:33:51,700
+because he was worried
+someone might be suspicious.
+
+596
+00:33:51,739 --> 00:33:53,219
+<font color="yellow">I never knew it was serious.</font>
+
+597
+00:33:53,259 --> 00:33:54,620
+I couldn't move!
+
+598
+00:33:56,420 --> 00:33:58,940
+You left me to lie in my own urine
+for five days.
+
+599
+00:34:01,140 --> 00:34:03,299
+You didn't even
+change my sopping sheets.
+
+600
+00:34:05,259 --> 00:34:07,860
+You brought me plenty of toast
+and strawberry jam, though!
+
+601
+00:34:09,339 --> 00:34:11,540
+A couple of weeks later,
+you left me with nan
+
+602
+00:34:11,580 --> 00:34:13,700
+and all took off for sunny Spain.
+
+603
+00:34:17,020 --> 00:34:19,339
+I was 12 years old.
+
+604
+00:34:20,580 --> 00:34:22,580
+<font color="yellow">We thought</font>
+<font color="yellow">it was better that you rested.</font>
+
+605
+00:34:25,259 --> 00:34:26,819
+What's wrong with you?
+
+606
+00:34:26,859 --> 00:34:29,700
+<font color="yellow">I didn't know.</font>
+
+607
+00:34:31,299 --> 00:34:33,540
+HE EXHALES HEAVILY
+
+608
+00:34:34,580 --> 00:34:36,140
+<font color="yellow">Don't go, Adrian.</font>
+
+609
+00:34:36,180 --> 00:34:38,140
+<font color="yellow">I didn't just call you</font>
+<font color="yellow">because he told me to.</font>
+
+610
+00:34:38,180 --> 00:34:40,100
+<font color="yellow">I've missed you.</font>
+
+611
+00:34:40,140 --> 00:34:41,379
+FRONT DOOR SLAMS
+
+612
+00:34:49,660 --> 00:34:51,460
+KNOCKS ON DOOR
+
+613
+00:34:52,540 --> 00:34:54,819
+<font color="#008000">Second time lucky.</font>
+
+614
+00:34:54,859 --> 00:34:56,299
+I got it?
+
+615
+00:34:56,339 --> 00:34:57,939
+<font color="#008000">Congratulations, John.</font>
+
+616
+00:34:57,980 --> 00:34:59,660
+<font color="#008000">You're gonna be out by Christmas.</font>
+
+617
+00:35:04,779 --> 00:35:06,140
+<font color="#008000">Well done.</font>
+
+618
+00:35:29,339 --> 00:35:32,020
+Yup. Well...
+
+619
+00:35:32,060 --> 00:35:33,500
+thanks for letting me know.
+
+620
+00:35:39,259 --> 00:35:41,259
+<font color="yellow">I can't believe</font>
+<font color="yellow">they're letting him out now.</font>
+
+621
+00:35:41,299 --> 00:35:43,460
+<font color="yellow">We're so close.</font>
+
+622
+00:35:43,500 --> 00:35:44,819
+Are we, though?
+
+623
+00:35:45,899 --> 00:35:48,819
+<font color="yellow">I'm gonna put that down</font>
+<font color="yellow">to exhaustion and a shit day.</font>
+
+624
+00:35:50,620 --> 00:35:52,779
+<font color="yellow">Do you know what I do</font>
+<font color="yellow">after a shit day?</font>
+
+625
+00:35:52,819 --> 00:35:53,859
+What?
+
+626
+00:35:53,899 --> 00:35:55,379
+<font color="yellow">I go home...</font>
+
+627
+00:35:55,419 --> 00:35:58,259
+<font color="yellow">and I eat a large amount</font>
+<font color="yellow">of unhealthy food with my family.</font>
+
+628
+00:35:58,299 --> 00:35:59,899
+HE CHUCKLES
+
+629
+00:35:59,939 --> 00:36:01,819
+<font color="yellow">Go home, Steve.</font>
+
+630
+00:36:01,859 --> 00:36:03,299
+<font color="yellow">Be with your boy.</font>
+
+631
+00:36:04,500 --> 00:36:05,739
+Evening!
+
+632
+00:36:06,980 --> 00:36:09,180
+Jack?
+
+633
+00:36:09,219 --> 00:36:10,819
+I've got fish and chips!
+
+634
+00:36:23,100 --> 00:36:25,739
+<font color="yellow">'Hey, it's Jack Wilkins.</font>
+<font color="yellow">I'm not here at the moment.</font>
+
+635
+00:36:25,779 --> 00:36:28,140
+<font color="yellow">'Just leave a message</font>
+<font color="yellow">and I'll get back to you.'</font>
+
+636
+00:36:28,180 --> 00:36:30,140
+HE SIGHS
+
+637
+00:36:31,180 --> 00:36:32,379
+CAR DOOR CLOSES
+
+638
+00:36:32,419 --> 00:36:34,540
+TV IN BACKGROUND
+
+639
+00:36:36,060 --> 00:36:37,580
+DOOR CLOSES
+
+640
+00:36:38,779 --> 00:36:39,939
+Finally!
+
+641
+00:36:39,980 --> 00:36:41,020
+FRIDGE DOOR OPENS
+
+642
+00:36:41,060 --> 00:36:44,419
+You know, I'd appreciate it if,
+once in a blue moon,
+
+643
+00:36:44,460 --> 00:36:46,779
+you'd answer your phone
+or responded to a text.
+
+644
+00:36:49,339 --> 00:36:51,700
+Have you been drinking,
+by any chance?
+
+645
+00:36:51,739 --> 00:36:53,020
+<font color="yellow">Yeah, I've been celebrating!</font>
+
+646
+00:36:54,020 --> 00:36:55,419
+Celebrating what?
+
+647
+00:36:55,460 --> 00:36:57,299
+<font color="yellow">I made the county team.</font>
+
+648
+00:36:59,100 --> 00:37:01,259
+<font color="yellow">Thanks for being there for me today,</font>
+<font color="yellow">Dad!</font>
+
+649
+00:37:02,180 --> 00:37:03,540
+Shit...!
+
+650
+00:37:05,140 --> 00:37:06,419
+Jack!
+
+651
+00:37:06,460 --> 00:37:08,419
+DOOR SLAMS
+Jack!
+
+652
+00:37:10,180 --> 00:37:11,899
+KNOCKING ON DOOR
+
+653
+00:37:16,660 --> 00:37:18,140
+<font color="yellow">Leave me alone.</font>
+
+654
+00:37:19,219 --> 00:37:20,660
+There's no need for that.
+
+655
+00:37:22,500 --> 00:37:23,819
+I'm sorry, Jack.
+
+656
+00:37:25,580 --> 00:37:29,620
+<font color="yellow">You made such a big deal about</font>
+<font color="yellow">us spending more time together.</font>
+
+657
+00:37:29,660 --> 00:37:32,980
+<font color="yellow">But you just can't do it. You're</font>
+<font color="yellow">so fucking obsessed with your work.</font>
+
+658
+00:37:33,020 --> 00:37:34,140
+<font color="yellow">You're a shit dad.</font>
+
+659
+00:37:34,180 --> 00:37:35,939
+Hey, now, come on. That's not fair.
+
+660
+00:37:38,140 --> 00:37:39,819
+Look, I'm sorry
+I forgot about the trial.
+
+661
+00:37:39,859 --> 00:37:41,140
+I'm sorry I'm not a perfect dad.
+
+662
+00:37:44,219 --> 00:37:45,899
+It's no excuse.
+
+663
+00:37:45,939 --> 00:37:47,500
+I took my eye off the ball, OK?
+
+664
+00:37:52,180 --> 00:37:53,339
+<font color="yellow">OK.</font>
+
+665
+00:37:59,700 --> 00:38:00,980
+Have you eaten?
+
+666
+00:38:01,020 --> 00:38:02,299
+<font color="yellow">Yeah.</font>
+
+667
+00:38:02,339 --> 00:38:03,859
+Right, well...
+
+668
+00:38:03,899 --> 00:38:05,700
+get some kip.
+
+669
+00:38:24,835 --> 00:38:26,594
+This is last chance saloon, guys.
+
+670
+00:38:26,634 --> 00:38:28,314
+Cooper will be home in a week.
+
+671
+00:38:28,355 --> 00:38:30,915
+We have got to go over everything.
+
+672
+00:38:32,114 --> 00:38:34,754
+I mean,
+not having a photograph of Cooper
+
+673
+00:38:34,794 --> 00:38:37,314
+that we can compare
+to the artist's impression,
+
+674
+00:38:37,355 --> 00:38:38,794
+it's a hole in our case.
+
+675
+00:38:39,835 --> 00:38:43,154
+Nige, Glyn,
+doorstep his and Pat's relatives.
+
+676
+00:38:43,194 --> 00:38:45,955
+Tell them that we need family
+photographs for our records.
+
+677
+00:38:45,995 --> 00:38:47,154
+<font color="cyan">Yes, boss.</font>
+
+678
+00:38:47,194 --> 00:38:48,555
+<font color="cyan">I'll drive.</font>
+
+679
+00:39:03,555 --> 00:39:04,915
+Andrew...
+
+680
+00:39:08,634 --> 00:39:10,634
+<font color="yellow">What about Pat?</font>
+
+681
+00:39:10,674 --> 00:39:13,555
+<font color="yellow">He'll be housed somewhere else,</font>
+<font color="yellow">right? She can't live with him now.</font>
+
+682
+00:39:13,594 --> 00:39:15,274
+They've been married a long time,
+Andrew.
+
+683
+00:39:15,314 --> 00:39:17,634
+If he was gonna do something
+to her, he'd have done it by now.
+
+684
+00:39:17,674 --> 00:39:18,875
+<font color="yellow">You don't know that.</font>
+
+685
+00:39:20,154 --> 00:39:22,955
+<font color="yellow">He's been in prison ten years.</font>
+<font color="yellow">Who knows what that's done to him?</font>
+
+686
+00:39:24,915 --> 00:39:26,314
+<font color="yellow">She's still scared of him.</font>
+
+687
+00:39:27,355 --> 00:39:29,194
+<font color="yellow">I went to see her.</font>
+
+688
+00:39:29,234 --> 00:39:31,395
+<font color="yellow">She called me.</font>
+
+689
+00:39:32,435 --> 00:39:33,634
+<font color="yellow">I thought...</font>
+
+690
+00:39:35,035 --> 00:39:37,355
+<font color="yellow">I thought she wanted</font>
+<font color="yellow">a mother-and-son reunion.</font>
+
+691
+00:39:38,555 --> 00:39:40,355
+<font color="yellow">But she was just following orders.</font>
+
+692
+00:39:42,314 --> 00:39:45,835
+<font color="yellow">He wanted her to find out if I had</font>
+<font color="yellow">an old pair of bathers of his.</font>
+
+693
+00:39:45,875 --> 00:39:47,395
+<font color="yellow">Does that mean anything to you?</font>
+
+694
+00:39:48,475 --> 00:39:50,634
+Do you have them?
+
+695
+00:39:50,674 --> 00:39:52,835
+<font color="yellow">I wouldn't wear anything of his.</font>
+
+696
+00:39:55,714 --> 00:39:57,355
+Get down there, Jack!
+
+697
+00:39:57,395 --> 00:39:59,035
+Come on!
+
+698
+00:40:01,035 --> 00:40:03,194
+WHISTLE BLOWS
+REFEREE: <font color="#008000">Corner.</font>
+
+699
+00:40:04,475 --> 00:40:06,594
+Right, on it!
+
+700
+00:40:06,634 --> 00:40:08,754
+PLAYERS SHOUT
+
+701
+00:40:08,794 --> 00:40:10,194
+Yes!
+
+702
+00:40:10,234 --> 00:40:11,475
+Go on, son!
+
+703
+00:40:12,634 --> 00:40:13,794
+Yes!
+
+704
+00:40:15,714 --> 00:40:18,395
+<font color="yellow">So, the scout was there again today.</font>
+He was? Did he speak to you?
+
+705
+00:40:18,435 --> 00:40:20,395
+<font color="yellow">He's gonna give me a ring</font>
+<font color="yellow">after the weekend.</font>
+
+706
+00:40:21,515 --> 00:40:24,355
+<font color="yellow">Thanks for being there today, Dad.</font>
+Oh, my pleasure, sunshine.
+
+707
+00:40:24,395 --> 00:40:27,234
+<font color="yellow">I'm sorry I've been a bit of a pain.</font>
+Oh, don't you worry about it.
+
+708
+00:40:27,274 --> 00:40:28,995
+Hey, I'll see you later.
+
+709
+00:40:29,035 --> 00:40:31,395
+<font color="yellow">You're not coming in?</font>
+I'd better not.
+
+710
+00:40:31,435 --> 00:40:34,274
+<font color="yellow">Is it something to do with work?</font>
+
+711
+00:40:34,314 --> 00:40:36,674
+It's one of his old haunts.
+<font color="yellow">You're joking?</font>
+
+712
+00:40:37,754 --> 00:40:40,475
+I shouldn't go in.
+Someone might recognise me.
+
+713
+00:40:40,515 --> 00:40:41,955
+<font color="yellow">So?</font>
+
+714
+00:40:41,995 --> 00:40:44,314
+Well, I don't want
+you connected to me.
+
+715
+00:40:44,355 --> 00:40:46,035
+It's just a precaution.
+
+716
+00:40:46,075 --> 00:40:48,075
+<font color="yellow">It's fine.</font>
+<font color="yellow">I'll go in ahead of you.</font>
+
+717
+00:40:48,114 --> 00:40:50,754
+<font color="yellow">Aren't you curious to see inside?</font>
+
+718
+00:40:50,794 --> 00:40:52,515
+<font color="yellow">Come on, you know you want to.</font>
+
+719
+00:40:55,274 --> 00:40:58,035
+It's fine.
+Go on, I'll pick you up in an hour.
+
+720
+00:41:05,154 --> 00:41:07,274
+WAVES CRASH
+
+721
+00:41:08,915 --> 00:41:11,035
+BACKGROUND CHATTER
+
+722
+00:41:14,314 --> 00:41:16,875
+EERIE MUSIC
+
+723
+00:41:32,234 --> 00:41:34,515
+A pint of lager shandy, please.
+
+724
+00:41:43,114 --> 00:41:44,515
+All right, lads?
+
+725
+00:42:01,835 --> 00:42:03,594
+Excuse me.
+
+726
+00:42:03,634 --> 00:42:04,955
+Dyfed Powys Police.
+
+727
+00:42:08,154 --> 00:42:10,835
+Can you identify
+the man in the picture?
+
+728
+00:42:10,875 --> 00:42:14,475
+<font color="yellow">With the 'tache?</font>
+<font color="yellow">Aye, that's Johnny Cooper.</font>
+
+729
+00:42:14,515 --> 00:42:15,875
+When was the photograph taken?
+
+730
+00:42:15,915 --> 00:42:18,114
+<font color="yellow">I don't know, the late '80s.</font>
+
+731
+00:42:18,154 --> 00:42:20,314
+<font color="yellow">Probably about the time</font>
+<font color="yellow">he was on that...</font>
+
+732
+00:42:20,355 --> 00:42:22,995
+<font color="yellow">What do you call it?</font>
+<font color="yellow">That darts quiz show on telly.</font>
+
+733
+00:42:23,035 --> 00:42:25,435
+Bullseye?
+<font color="yellow">Aye. That's the one.</font>
+
+734
+00:42:30,395 --> 00:42:32,794
+STEVE: Bullseye, 1989.
+
+735
+00:42:34,475 --> 00:42:36,634
+<font color="yellow">You are shitting me!</font>
+
+736
+00:42:36,674 --> 00:42:38,355
+The year he killed the Dixons,
+
+737
+00:42:38,395 --> 00:42:40,555
+Cooper was throwing darts
+on national television.
+
+738
+00:42:40,594 --> 00:42:41,674
+On ITV!
+
+739
+00:42:41,714 --> 00:42:45,154
+We've been looking for a photo
+of the bastard from '89.
+
+740
+00:42:45,194 --> 00:42:47,594
+And we might well have
+a whole bloody video.
+
+741
+00:42:48,875 --> 00:42:50,634
+<font color="yellow">Jesus Christ...!</font>
+
+742
+00:43:38,674 --> 00:43:40,035
+<font color="cyan">Welcome home, love.</font>
+
+743
+00:43:44,754 --> 00:43:45,875
+<font color="cyan">What?</font>
+
+744
+00:43:47,114 --> 00:43:48,475
+Come here.
+
+745
+00:43:55,475 --> 00:43:59,114
+<font color="yellow">So, Bullseye was produced</font>
+<font color="yellow">by Central Television in Birmingham.</font>
+
+746
+00:43:59,154 --> 00:44:02,314
+<font color="yellow">But recordings of old shows</font>
+<font color="yellow">are held in an archive in Leeds.</font>
+
+747
+00:44:02,355 --> 00:44:03,754
+<font color="yellow">Now, the librarian there</font>
+
+748
+00:44:03,794 --> 00:44:05,794
+<font color="yellow">has been going through lists</font>
+<font color="yellow">of old contestants</font>
+
+749
+00:44:05,835 --> 00:44:07,835
+<font color="yellow">from old shows from the '80s.</font>
+
+750
+00:44:07,875 --> 00:44:09,674
+<font color="yellow">And in series nine,</font>
+
+751
+00:44:09,714 --> 00:44:13,435
+<font color="yellow">there's two contestants identified</font>
+<font color="yellow">as being from South Pembrokeshire.</font>
+
+752
+00:44:13,475 --> 00:44:18,274
+<font color="yellow">Now, the episode they were in</font>
+<font color="yellow">was broadcast in October '89.</font>
+
+753
+00:44:18,314 --> 00:44:20,955
+<font color="yellow">But it was recorded on 28th May.</font>
+
+754
+00:44:22,634 --> 00:44:25,355
+A month and a day
+before the Dixons were murdered.
+
+755
+00:44:32,435 --> 00:44:35,835
+BULLSEYE THEME TUNE PLAYS
+
+756
+00:44:38,035 --> 00:44:40,435
+<font color="yellow">So, you've got the tapes, then?</font>
+<font color="cyan">Yeah, they've just arrived.</font>
+
+757
+00:44:41,714 --> 00:44:45,154
+BULLSEYE THEME TUNE CONTINUES
+
+758
+00:44:45,194 --> 00:44:47,714
+ANNOUNCER: <font color="#008000">'It's a bull's-eye!</font>
+
+759
+00:44:47,754 --> 00:44:49,594
+<font color="#008000">'And here's your host...</font>
+
+760
+00:44:49,634 --> 00:44:51,274
+<font color="#008000">'Jim Bowen!'</font>
+<font color="cyan">'Good evening.</font>
+
+761
+00:44:51,314 --> 00:44:52,955
+<font color="cyan">'Welcome to Bullseye.'</font>
+
+762
+00:44:52,995 --> 00:44:54,995
+<font color="yellow">Can you just fast-forward it</font>
+<font color="yellow">to the contestants?</font>
+
+763
+00:44:58,435 --> 00:44:59,915
+JIM BOWEN: <font color="#008000">'Good.</font>
+
+764
+00:44:59,955 --> 00:45:01,794
+<font color="#008000">'You've got an unusual hobby, John.</font>
+
+765
+00:45:01,835 --> 00:45:04,594
+'Oh, yes, the scuba diving.'
+<font color="#008000">'The scuba diving.'</font>
+
+766
+00:45:04,634 --> 00:45:06,875
+<font color="#008000">'It's the place to do it down there,</font>
+<font color="#008000">isn't it?'</font>
+
+767
+00:45:06,915 --> 00:45:08,555
+'Well, we've got the coastline,
+yes.'
+
+768
+00:45:08,594 --> 00:45:11,355
+STEVE: And there's the
+shoulder-length hair he never had.
+
+769
+00:45:11,395 --> 00:45:12,835
+'Well, we've got the deep water...
+
+770
+00:45:12,875 --> 00:45:15,035
+'And you can swim over mountains
+and all sorts.'
+
+771
+00:45:15,075 --> 00:45:17,714
+<font color="#008000">'We hope you all have a good night.</font>
+<font color="#008000">Give them a round of applause.'</font>
+
+772
+00:45:17,754 --> 00:45:20,555
+APPLAUSE
+
+773
+00:45:30,875 --> 00:45:32,274
+<font color="#008000">'Best of luck, John.'</font>
+
+774
+00:45:34,114 --> 00:45:35,515
+<font color="#008000">'That's five.</font>
+
+775
+00:45:35,555 --> 00:45:36,714
+<font color="#008000">'20.</font>
+
+776
+00:45:38,875 --> 00:45:40,075
+<font color="#008000">'And one.</font>
+
+777
+00:45:40,114 --> 00:45:41,395
+<font color="#008000">'26.'</font>
+
+778
+00:45:41,435 --> 00:45:42,915
+HE SIGHS
+
+779
+00:45:57,435 --> 00:45:59,234
+<font color="#008000">'36, and takes the first round.</font>
+
+780
+00:45:59,274 --> 00:46:01,794
+<font color="#008000">'Right, John, it's only £36,</font>
+<font color="#008000">but you really could do with this.'</font>
+
+781
+00:46:03,355 --> 00:46:05,555
+BATHWATER RUNS
+What are you having a bath for?
+
+782
+00:46:06,674 --> 00:46:08,154
+<font color="yellow">I won't be long!</font>
+
+783
+00:46:09,274 --> 00:46:11,435
+I could get in with you.
+<font color="yellow">No, John.</font>
+
+784
+00:46:12,355 --> 00:46:14,194
+<font color="yellow">I'm shy.</font>
+Shy?
+
+785
+00:46:14,234 --> 00:46:16,194
+I've seen it all before, you know?
+
+786
+00:46:18,955 --> 00:46:21,274
+Come on, missus, let me in.
+
+787
+00:46:22,955 --> 00:46:25,154
+BATHWATER RUNS
+
+788
+00:46:30,955 --> 00:46:32,395
+Can you pause it there, please?
+
+789
+00:46:32,435 --> 00:46:34,555
+Rewind a bit.
+
+790
+00:46:34,594 --> 00:46:35,754
+There.
+
+791
+00:46:42,194 --> 00:46:45,314
+It may not prove
+he killed the Dixons.
+
+792
+00:46:45,355 --> 00:46:47,515
+But it proves what he looked like
+four weeks before.
+
+793
+00:46:57,594 --> 00:47:00,035
+PHONE RINGS
+
+794
+00:47:00,075 --> 00:47:02,194
+WOMAN: <font color="#008000">'999, which service?'</font>
+
+795
+00:47:02,234 --> 00:47:03,955
+HEAVY BREATHING
+
+796
+00:47:03,995 --> 00:47:05,194
+WOMAN: <font color="#008000">'Hello?'</font>
+
+797
+00:47:06,475 --> 00:47:10,234
+MUSIC: 'Suo Gan'
+
+797
+00:47:11,305 --> 00:48:11,822
+Support us and become VIP member 
+to remove all ads from www.OpenSubtitles.org
