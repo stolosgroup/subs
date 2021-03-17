@@ -1,0 +1,2626 @@
+1
+00:00:00,396 --> 00:00:02,897
+<i>Previously on
+"Marvel's Agents of S.H.I.E.L.D."...</i>
+
+2
+00:00:02,931 --> 00:00:06,200
+<i>I was killed. Well, almost.</i>
+
+3
+00:00:06,235 --> 00:00:07,801
+<i>Afterwards is kind of a blank.</i>
+
+4
+00:00:07,836 --> 00:00:10,838
+- Not everyone gets sent to Tahiti.
+- It's a magical place.
+
+5
+00:00:10,873 --> 00:00:13,241
+- He really doesn't know, does he?
+- He can never know.
+
+6
+00:00:13,275 --> 00:00:14,575
+What is Centipede?
+
+7
+00:00:14,609 --> 00:00:16,210
+<i>It's an intravenous
+filter for his blood.</i>
+
+8
+00:00:16,245 --> 00:00:17,611
+<i>The soldiers at the warehouse</i>
+
+9
+00:00:17,645 --> 00:00:20,213
+<i>were forced to attack us
+through that eye thing?</i>
+
+10
+00:00:20,248 --> 00:00:21,348
+When the tide turned in our favor,
+
+11
+00:00:21,383 --> 00:00:24,551
+- Centipede flipped Hayward's kill switch.
+- Don't do th...
+
+12
+00:00:24,586 --> 00:00:26,086
+<i>Po's the strategist.
+Raina's the recruiter.</i>
+
+13
+00:00:26,120 --> 00:00:27,588
+Perhaps this Clairvoyant's the money.
+
+14
+00:00:27,622 --> 00:00:29,523
+- Why do they want you?
+- They've taken Coulson.
+
+15
+00:00:29,557 --> 00:00:30,691
+Take care of my boy!
+
+16
+00:00:31,926 --> 00:00:33,260
+Mike!
+
+17
+00:00:33,294 --> 00:00:37,230
+We want you to tell us
+about the day after you died.
+
+18
+00:00:43,512 --> 00:00:47,133
+<b>1x11 - The Magical Place</b>
+
+19
+00:00:48,042 --> 00:00:52,578
+<i>100% premium-grade
+Chitauri metal,</i>
+
+20
+00:00:52,613 --> 00:00:54,680
+<i>as rare as it gets.</i>
+
+21
+00:00:54,715 --> 00:00:58,117
+How'd you get your
+hands on this, Vanchat?
+
+22
+00:00:58,151 --> 00:01:01,487
+It's what I do ... Find alien
+scrap that no one else can,
+
+23
+00:01:01,522 --> 00:01:04,089
+then offer it to people who
+fully appreciate my efforts.
+
+24
+00:01:04,124 --> 00:01:08,460
+Mm, I appreciate the hell out of them.
+
+25
+00:01:09,529 --> 00:01:11,563
+You can name your price.
+
+26
+00:01:15,001 --> 00:01:16,936
+Is that a roomba?
+
+27
+00:01:18,000 --> 00:01:24,074
+OpenSubtitles recommends using Nord VPN
+from 3.49 USD/month ----> osdb.link/vpn
+
+28
+00:01:45,297 --> 00:01:48,232
+Fitz-Simmons, he's heading your way.
+
+29
+00:01:48,267 --> 00:01:49,700
+We've never done
+anything like this before.
+
+30
+00:01:49,734 --> 00:01:52,303
+- Are you sure?
+- It's time, Simmons.
+
+31
+00:01:52,338 --> 00:01:53,838
+Embrace the change.
+
+32
+00:02:10,655 --> 00:02:13,123
+Skye, you're up.
+
+33
+00:02:16,394 --> 00:02:19,262
+Here.
+Let me get that for you.
+
+34
+00:02:46,723 --> 00:02:47,956
+Mr. Vanchat.
+
+35
+00:02:49,259 --> 00:02:51,827
+We were hoping you could
+help us find a friend.
+
+36
+00:02:55,011 --> 00:02:58,239
+<i><font color="cyan"> sync & correction by f1nc0
+~ addic7ed.com ~ </font> </i>
+
+37
+00:02:59,936 --> 00:03:01,103
+Impressive.
+
+38
+00:03:01,138 --> 00:03:03,371
+You actually managed to
+reopen all your stitches.
+
+39
+00:03:03,405 --> 00:03:05,874
+Just hope Vanchat can
+lead us to Centipede.
+
+40
+00:03:05,908 --> 00:03:08,176
+Well, the Chitauri metal he was selling
+
+41
+00:03:08,210 --> 00:03:11,312
+is an exact match to what
+Centipede used for their device.
+
+42
+00:03:11,347 --> 00:03:14,616
+We find Centipede, we find Coulson.
+
+43
+00:03:14,651 --> 00:03:16,057
+Don't ask questions, Agent Kob.
+
+44
+00:03:16,092 --> 00:03:19,086
+<i>Just get me the five-millimeter
+injector. That's an order.</i>
+
+45
+00:03:19,121 --> 00:03:20,121
+<i>Yes sir.</i>
+
+46
+00:03:20,156 --> 00:03:24,425
+Honestly, how many agents do they
+think they can cram on this plane?
+
+47
+00:03:24,460 --> 00:03:26,093
+It's only gonna get more crowded.
+
+48
+00:03:26,128 --> 00:03:27,662
+We're set to pick up more men
+
+49
+00:03:27,696 --> 00:03:29,997
+when Agent Hand dumps
+Vanchat off at the fridge.
+
+50
+00:03:30,032 --> 00:03:32,099
+Honestly, I think
+it's good they're here.
+
+51
+00:03:32,134 --> 00:03:33,268
+We need fresh eyes.
+
+52
+00:03:33,302 --> 00:03:35,269
+It's been 36 hours since
+Agent Coulson was taken,
+
+53
+00:03:35,303 --> 00:03:36,971
+and none of us have gotten any rest.
+
+54
+00:03:37,005 --> 00:03:40,041
+Oh, joy. Agent Hand is
+giving another briefing.
+
+55
+00:03:48,516 --> 00:03:50,250
+The burnt remains
+recovered at the site
+
+56
+00:03:50,285 --> 00:03:52,519
+are believed to be those of
+Agent trainee Michael Peterson.
+
+57
+00:03:52,554 --> 00:03:54,888
+Other physical evidence
+has proven scarce.
+
+58
+00:03:54,922 --> 00:03:57,291
+Nothing relating to Mr. Po,
+his Centipede associates,
+
+59
+00:03:57,325 --> 00:04:00,060
+- or their location has been found.
+- Any progress with Vanchat?
+
+60
+00:04:00,094 --> 00:04:01,795
+Nothing actionable, Agent Ward,
+
+61
+00:04:01,829 --> 00:04:04,298
+but I have my best
+interrogator in there right now.
+
+62
+00:04:04,332 --> 00:04:06,800
+Vanchat will talk, and
+rest assured, when he does,
+
+63
+00:04:06,834 --> 00:04:10,536
+not a single stone will be left unturned
+until we take down Centipede.
+
+64
+00:04:10,571 --> 00:04:13,479
+- And find Agent Coulson.
+- And get Coulson back.
+
+65
+00:04:14,775 --> 00:04:17,443
+We have a security breach.
+Someone's hacking the system.
+
+66
+00:04:19,613 --> 00:04:23,449
+Just in time.
+Can you override this?
+
+67
+00:04:23,483 --> 00:04:24,850
+What do you think you're doing?
+
+68
+00:04:24,884 --> 00:04:26,352
+The money trail's our
+key to finding Coulson.
+
+69
+00:04:26,386 --> 00:04:28,754
+I just need to gain access
+to Vanchat's financials,
+
+70
+00:04:28,788 --> 00:04:31,557
+and from there, I should be able
+to trace Centipede's payments
+
+71
+00:04:31,592 --> 00:04:33,259
+and then hack into their account.
+
+72
+00:04:33,293 --> 00:04:35,561
+You're the consultant ...
+the one who shot Agent Sitwell.
+
+73
+00:04:35,596 --> 00:04:38,964
+- Technically, that wasn't me ...
+- I want you off this plane immediately.
+
+74
+00:04:38,998 --> 00:04:41,539
+- What?
+- Wait.
+
+75
+00:04:41,574 --> 00:04:43,802
+I know I'm not some badass
+field agent like May or Ward,
+
+76
+00:04:43,837 --> 00:04:47,439
+but this is what I do.
+You can't just kick me off this mission.
+
+77
+00:04:47,473 --> 00:04:51,376
+Listen, I will do whatever you say.
+
+78
+00:04:51,410 --> 00:04:53,812
+All this protocol crap
+doesn't matter to me.
+
+79
+00:04:53,847 --> 00:04:55,714
+All that matters to me is Coulson.
+
+80
+00:04:55,749 --> 00:04:57,915
+Well, "all this protocol crap"
+matters to me.
+
+81
+00:04:57,950 --> 00:04:59,817
+You're a distraction, and you're gone.
+
+82
+00:04:59,852 --> 00:05:04,723
+Agent Hand, I know Skye's
+methods are unorthodox,
+
+83
+00:05:04,757 --> 00:05:08,923
+but she's a member of this team.
+She can help.
+
+84
+00:05:09,395 --> 00:05:11,563
+Agent May, your professional opinion ...
+
+85
+00:05:11,597 --> 00:05:14,832
+Will this girl be of any
+use to us on this plane?
+
+86
+00:05:14,867 --> 00:05:16,200
+No.
+
+87
+00:05:18,937 --> 00:05:21,305
+Increase her restriction level.
+
+88
+00:05:21,339 --> 00:05:24,942
+Confiscate her laptop and phone,
+then have her delivered to debrief.
+
+89
+00:05:24,977 --> 00:05:27,778
+I'll do it. I'm her S.O.
+
+90
+00:05:39,123 --> 00:05:41,492
+It's clear that May has
+an axe to grind with me,
+
+91
+00:05:41,526 --> 00:05:43,160
+but that was way out of line.
+
+92
+00:05:43,194 --> 00:05:45,462
+No one knows what's in
+May's head except May.
+
+93
+00:05:45,497 --> 00:05:46,563
+Don't worry.
+
+94
+00:05:46,598 --> 00:05:48,498
+Coulson will make this
+right when he gets back.
+
+95
+00:05:48,532 --> 00:05:50,633
+I can find him, Ward.
+
+96
+00:05:50,668 --> 00:05:53,770
+I believe you.
+I've seen firsthand what you can do,
+
+97
+00:05:53,805 --> 00:05:56,173
+even without S.H.I.E.L.D. resources.
+
+98
+00:05:58,542 --> 00:06:00,911
+- Hang on, hang on.
+- We have something for you.
+
+99
+00:06:00,945 --> 00:06:04,614
+- You made me a sandwich?
+- Yes, it is that.
+
+100
+00:06:04,648 --> 00:06:07,183
+<i>It's a satellite phone ...
+damper resistant.</i>
+
+101
+00:06:07,217 --> 00:06:09,585
+<i>You get one shot before
+your bracelet shuts it down.</i>
+
+102
+00:06:09,620 --> 00:06:12,555
+- So only call in case of emergency.
+- What do I even need this for?
+
+103
+00:06:12,589 --> 00:06:14,123
+I'm gonna be spending
+the next three days
+
+104
+00:06:14,157 --> 00:06:16,025
+in a S.H.I.E.L.D. broom
+closet getting debriefed.
+
+105
+00:06:16,059 --> 00:06:17,360
+That's right.
+
+106
+00:06:17,394 --> 00:06:19,696
+A few agents are coming here
+to pick you up for debriefing...
+
+107
+00:06:19,730 --> 00:06:22,664
+<i>in exactly 12 minutes.</i>
+
+108
+00:06:23,699 --> 00:06:25,634
+<i>Good luck.</i>
+
+109
+00:06:31,441 --> 00:06:34,576
+Don't touch Lola.
+
+110
+00:06:34,610 --> 00:06:36,745
+Mm.
+
+111
+00:06:38,581 --> 00:06:42,617
+- Can you feel that?
+- Don't stop.
+
+112
+00:06:44,086 --> 00:06:45,887
+Listen to him.
+
+113
+00:06:46,889 --> 00:06:48,423
+Who ordered this?
+
+114
+00:06:56,899 --> 00:07:00,034
+<i> It seems you passed out.</i>
+
+115
+00:07:01,503 --> 00:07:05,206
+Now maybe you're ready to share
+what memories you're seeing.
+
+116
+00:07:09,845 --> 00:07:13,313
+I saw... Jordan...
+
+117
+00:07:13,348 --> 00:07:17,818
+<i>hitting that game-winner over
+Russell in the '98 finals.</i>
+
+118
+00:07:17,853 --> 00:07:19,119
+So clutch.
+
+119
+00:07:19,153 --> 00:07:22,055
+Agent Coulson, we're gonna
+turn the machine back on
+
+120
+00:07:22,090 --> 00:07:25,259
+and open your mind.
+It's time to stop fighting it.
+
+121
+00:07:25,293 --> 00:07:27,794
+If you don't, you won't
+survive the process.
+
+122
+00:07:27,828 --> 00:07:30,430
+I'll let you kill me
+before I give you anything.
+
+123
+00:07:31,632 --> 00:07:34,134
+Seems you have a taste
+for that, anyway ...
+
+124
+00:07:34,168 --> 00:07:36,904
+murdered Mike Peterson
+in front of his own son.
+
+125
+00:07:36,938 --> 00:07:39,506
+Mr. Peterson chose that end.
+
+126
+00:07:39,540 --> 00:07:43,309
+We gave him his life
+and his child unscathed.
+
+127
+00:07:43,343 --> 00:07:44,778
+You're just upset
+
+128
+00:07:44,812 --> 00:07:47,246
+because that man's death
+hit so close to home,
+
+129
+00:07:47,281 --> 00:07:52,018
+seeing a boy lose his
+father at such a young age.
+
+130
+00:07:53,153 --> 00:07:54,854
+As you did.
+
+131
+00:07:55,890 --> 00:07:57,791
+A defining moment.
+
+132
+00:07:59,393 --> 00:08:02,128
+- The Clairvoyant saw that.
+- I hate to break it to you,
+
+133
+00:08:02,129 --> 00:08:04,330
+but your telepathic friend is a fraud.
+
+134
+00:08:04,364 --> 00:08:08,600
+Otherwise, he'd know all these
+answers, and I wouldn't be here.
+
+135
+00:08:08,635 --> 00:08:11,470
+It's true ... this is strange.
+
+136
+00:08:11,504 --> 00:08:14,873
+My friend can see that you died.
+
+137
+00:08:14,908 --> 00:08:16,642
+You went cold.
+
+138
+00:08:17,676 --> 00:08:20,378
+Your heart was torn to pieces.
+
+139
+00:08:20,413 --> 00:08:24,583
+What the Clairvoyant can't
+see is what happened after ...
+
+140
+00:08:24,617 --> 00:08:27,252
+<i>how they brought you back from the dead.</i>
+
+141
+00:08:27,286 --> 00:08:31,056
+For some reason, Agent Coulson,
+you're different.
+
+142
+00:08:31,090 --> 00:08:32,757
+Now, why is that?
+
+143
+00:08:37,796 --> 00:08:41,099
+So we have to do this the hard way.
+
+144
+00:08:56,773 --> 00:09:00,341
+<i>Just need an exploit ...
+some way in.</i>
+
+145
+00:09:04,747 --> 00:09:07,348
+<i>- Oh, what?
+- Come on!</i>
+
+146
+00:09:07,349 --> 00:09:09,349
+<i>Something with wireless, maybe.</i>
+
+147
+00:09:17,726 --> 00:09:21,563
+Hey, Lloyd.
+You might be my way in.
+
+148
+00:09:32,808 --> 00:09:35,710
+- That's what I said. Yeah.
+- One second.
+
+149
+00:09:35,744 --> 00:09:38,801
+Of course, I love truffles,
+but not on that.
+
+150
+00:09:38,878 --> 00:09:41,385
+What an idiot.
+
+151
+00:09:42,918 --> 00:09:45,786
+No, sweetie, listen to me.
+It was a private jet.
+
+152
+00:09:45,821 --> 00:09:49,990
+Of course there was wi-fi.
+He should've at least texted you back.
+
+153
+00:09:56,130 --> 00:09:57,230
+<i>No, that's too much!</i>
+
+154
+00:09:57,264 --> 00:10:00,567
+I know the night-night rounds
+no longer affect the Centipede soldiers,
+
+155
+00:10:00,601 --> 00:10:04,805
+but all we want to do is
+disable them, not kill them.
+
+156
+00:10:04,839 --> 00:10:07,441
+- I'm good with either, frankly.
+- Fitz, you don't mean that.
+
+157
+00:10:07,475 --> 00:10:08,942
+Those soldiers are just men who ...
+
+158
+00:10:08,976 --> 00:10:11,110
+Who could smash your skull
+open with a single punch.
+
+159
+00:10:11,145 --> 00:10:12,478
+But they're being controlled.
+
+160
+00:10:12,512 --> 00:10:14,547
+Centipede is making them
+fight against their will.
+
+161
+00:10:14,581 --> 00:10:15,849
+Well, they took Coulson,
+
+162
+00:10:15,883 --> 00:10:17,183
+and I don't care what we
+have to do to get him back.
+
+163
+00:10:17,218 --> 00:10:18,417
+We need to bring him home.
+
+164
+00:10:18,452 --> 00:10:21,988
+<i>What's this guy doing,
+lulling Vanchat to sleep?</i>
+
+165
+00:10:22,923 --> 00:10:25,859
+I'm going in.
+
+166
+00:10:36,269 --> 00:10:38,671
+Damn it!
+
+167
+00:10:43,910 --> 00:10:47,445
+Okay, Skye, just need a plan "B."
+
+168
+00:11:07,700 --> 00:11:10,902
+<i>Roadside assistance.
+We see you've had an accident.</i>
+
+169
+00:11:10,936 --> 00:11:12,103
+Yeah.
+
+170
+00:11:12,137 --> 00:11:14,706
+Can you send somebody to
+tow me back to my house?
+
+171
+00:11:14,740 --> 00:11:18,042
+<i>Of course.
+I'll dispatch someone right away.</i>
+
+172
+00:11:18,076 --> 00:11:20,144
+<i>Are you okay?</i>
+
+173
+00:11:20,178 --> 00:11:23,580
+Yeah. I'm good.
+
+174
+00:11:51,435 --> 00:11:54,137
+Agent Hand needs you, says it's urgent.
+
+175
+00:12:02,979 --> 00:12:04,714
+Time to talk.
+
+176
+00:12:06,184 --> 00:12:09,319
+The names of all your buyers,
+alphabetically would help.
+
+177
+00:12:09,353 --> 00:12:11,020
+I'm not telling you a bloody thing.
+
+178
+00:12:11,054 --> 00:12:12,789
+That's how you want to play it?
+
+179
+00:12:19,996 --> 00:12:21,698
+Rochambeau you?
+
+180
+00:12:21,732 --> 00:12:24,333
+- Rochambeau!
+- Scissors!
+
+181
+00:12:24,367 --> 00:12:26,869
+Fitz!
+
+182
+00:12:33,243 --> 00:12:35,744
+I've got all day.
+
+183
+00:12:39,950 --> 00:12:43,885
+All right!
+All right, I'll talk! I'll talk!
+
+184
+00:13:13,249 --> 00:13:16,116
+<i>The town that the bomb forgot.</i>
+
+185
+00:13:16,150 --> 00:13:20,020
+It was built in the '40s for nuclear testing,
+
+186
+00:13:20,054 --> 00:13:23,056
+but when the cold war
+ended, the town was spared.
+
+187
+00:13:23,091 --> 00:13:25,158
+Not exactly prime real estate.
+
+188
+00:13:25,193 --> 00:13:27,461
+Mm, true.
+
+189
+00:13:27,496 --> 00:13:30,630
+There's nothing but desert
+for hundreds of miles.
+
+190
+00:13:32,367 --> 00:13:37,371
+But I really like it.
+It's nice here.
+
+191
+00:13:37,405 --> 00:13:38,872
+<i>The children are always playing...</i>
+
+192
+00:13:42,343 --> 00:13:44,144
+...yet never make a sound.
+
+193
+00:13:45,178 --> 00:13:48,648
+Shall we get back to it, then?
+
+194
+00:13:52,219 --> 00:13:55,522
+So, you sure you don't want
+me to take it to the dealer?
+
+195
+00:13:55,556 --> 00:13:59,325
+- No, thanks. I got a guy.
+- All right. Thank you.
+
+196
+00:14:10,237 --> 00:14:12,305
+Dollar bills, y'all.
+
+197
+00:14:36,028 --> 00:14:37,728
+<i>Lloyd Rathman's office.</i>
+
+198
+00:14:37,763 --> 00:14:40,432
+This is the L.A.P.D.
+I need to speak with Mr. Rathman.
+
+199
+00:14:40,466 --> 00:14:43,001
+We've recovered a stolen
+vehicle registered in his name.
+
+200
+00:14:43,035 --> 00:14:44,402
+<i>Oh. Was it damaged?</i>
+
+201
+00:14:44,437 --> 00:14:47,538
+Yes, ma'am. We have two
+officers waiting at his home,
+
+202
+00:14:47,573 --> 00:14:49,040
+ready to take a statement.
+
+203
+00:14:49,075 --> 00:14:53,478
+How long do you think it'll
+take Mr. Rathman to get there?
+
+204
+00:15:02,888 --> 00:15:06,056
+<i>You're in a lot of trouble, Mr. Rathman.</i>
+
+205
+00:15:06,091 --> 00:15:07,658
+Who the hell are you?
+
+206
+00:15:07,693 --> 00:15:12,429
+Agent Melinda May with S.H.I.E.L.D.
+
+207
+00:15:14,846 --> 00:15:17,647
+Look, clearly there's
+been a misunderstanding.
+
+208
+00:15:17,681 --> 00:15:19,149
+I'm a legitimate businessman.
+
+209
+00:15:19,183 --> 00:15:21,917
+S.H.I.E.L.D. has evidence your
+company has been siphoning funds
+
+210
+00:15:21,952 --> 00:15:24,854
+into an offshore account
+for some very bad people.
+
+211
+00:15:24,888 --> 00:15:26,622
+My clients' business is their business.
+
+212
+00:15:26,657 --> 00:15:28,658
+Well, my business is
+catching those guys,
+
+213
+00:15:28,692 --> 00:15:31,560
+and if it turns out you've made
+a profit from just one of them,
+
+214
+00:15:31,594 --> 00:15:34,229
+S.H.I.E.L.D. is prepared to
+freeze all of your assets.
+
+215
+00:15:34,264 --> 00:15:38,400
+- I'm calling my lawyer.
+- Do that and my offer's off the table.
+
+216
+00:15:38,834 --> 00:15:40,602
+What offer is that?
+
+217
+00:15:40,636 --> 00:15:45,280
+Immunity ... you walk...
+free and clear.
+
+218
+00:15:45,315 --> 00:15:47,442
+S.H.I.E.L.D. doesn't
+touch a single asset.
+
+219
+00:15:47,876 --> 00:15:51,012
+Not even your party boat in Key Largo.
+
+220
+00:15:51,046 --> 00:15:53,181
+And if I say no?
+
+221
+00:15:53,215 --> 00:15:55,248
+You spend the next five
+years in the fridge.
+
+222
+00:15:55,283 --> 00:15:58,719
+- The fridge?
+- It's worse than it sounds.
+
+223
+00:15:59,888 --> 00:16:03,223
+- All right, what do you want?
+- Follow me to your office.
+
+224
+00:16:03,257 --> 00:16:06,426
+We've got some work to do.
+
+225
+00:16:09,964 --> 00:16:13,300
+<i>Vanchat's intel is paying off.</i>
+
+226
+00:16:13,334 --> 00:16:16,069
+We're pursuing every known buyer
+of Chitauri metals around the globe.
+
+227
+00:16:16,104 --> 00:16:18,939
+The largest has a warehouse in Sydney.
+We're heading there now.
+
+228
+00:16:18,973 --> 00:16:21,508
+This is our chance to
+take down Centipede.
+
+229
+00:16:21,542 --> 00:16:25,279
+- I want everyone in full tactical.
+- And what about Agent Coulson?
+
+230
+00:16:25,313 --> 00:16:27,113
+If we're lucky, Centipede's
+holding him in Sydney.
+
+231
+00:16:27,147 --> 00:16:28,281
+Dismissed.
+
+232
+00:16:31,084 --> 00:16:33,720
+Agent Ward, a moment.
+
+233
+00:16:33,754 --> 00:16:37,890
+First, your friend Skye left the plane
+and never arrived for her debrief,
+
+234
+00:16:37,925 --> 00:16:40,927
+then Vanchat almost flies
+out of the interrogation room.
+
+235
+00:16:40,961 --> 00:16:43,830
+- Do we have a problem?
+- No, Agent Hand.
+
+236
+00:16:43,864 --> 00:16:47,433
+Your man wasn't getting
+answers, so I stepped in.
+
+237
+00:16:47,467 --> 00:16:49,969
+Without my permission.
+Well, congratulations.
+
+238
+00:16:50,003 --> 00:16:53,105
+Thanks to you and your
+unique interrogation skills,
+
+239
+00:16:53,140 --> 00:16:58,010
+we now have active strike teams
+running raids all over the world.
+
+240
+00:16:58,045 --> 00:17:00,946
+- The question is, why?
+- Excuse me?
+
+241
+00:17:00,980 --> 00:17:02,314
+It's unprecedented,
+
+242
+00:17:02,349 --> 00:17:05,684
+this kind of response for
+a level 8 operative,
+
+243
+00:17:05,719 --> 00:17:10,389
+the sheer manpower involved.
+I've been on the phone all day ...
+
+244
+00:17:10,423 --> 00:17:14,426
+Director Fury, Commander Hill...
+everyone wants an update.
+
+245
+00:17:14,461 --> 00:17:17,395
+Frankly, I don't understand it.
+
+246
+00:17:17,429 --> 00:17:20,631
+No single agent is that important.
+
+247
+00:17:21,666 --> 00:17:23,768
+Coulson is.
+
+248
+00:17:31,777 --> 00:17:35,179
+S.H.I.E.L.D.'s gonna find me
+before you break me.
+
+249
+00:17:35,213 --> 00:17:36,280
+S.H.I.E.L.D.?
+
+250
+00:17:36,314 --> 00:17:39,584
+Well, the Clairvoyant
+sees an end to all that.
+
+251
+00:17:44,089 --> 00:17:45,757
+<i>He doesn't look so good.</i>
+
+252
+00:17:45,791 --> 00:17:48,393
+Raina, what took you so long?
+
+253
+00:17:48,427 --> 00:17:52,029
+- I was tending to our other subject.
+- The persuasion skills
+
+254
+00:17:52,063 --> 00:17:53,998
+I've spoken to the
+Clairvoyant so much about
+
+255
+00:17:54,032 --> 00:17:57,601
+would be better served here
+with me, breaking this man.
+
+256
+00:17:57,635 --> 00:17:59,803
+I would never use force
+to bend a man to my wishes.
+
+257
+00:17:59,837 --> 00:18:01,071
+He's being difficult.
+
+258
+00:18:01,106 --> 00:18:03,374
+- He's being beaten.
+- Into submission.
+
+259
+00:18:03,408 --> 00:18:06,543
+The Clairvoyant requested
+it and will tell me to ...
+
+260
+00:18:06,577 --> 00:18:08,645
+See?
+
+261
+00:18:10,381 --> 00:18:12,716
+Yes?
+
+262
+00:18:12,717 --> 00:18:15,051
+No.
+
+263
+00:18:15,085 --> 00:18:18,388
+Well, I've only just begun.
+My methods are sound.
+
+264
+00:18:18,423 --> 00:18:19,890
+I assure you ...
+
+265
+00:18:21,726 --> 00:18:23,492
+Right here.
+
+266
+00:18:25,862 --> 00:18:27,830
+Yes.
+
+267
+00:18:30,233 --> 00:18:33,469
+The Clairvoyant would
+like to speak to you.
+
+268
+00:18:40,509 --> 00:18:42,744
+This is Raina.
+
+269
+00:18:44,814 --> 00:18:46,414
+Yes.
+
+270
+00:18:47,950 --> 00:18:49,818
+I agree.
+
+271
+00:18:51,186 --> 00:18:55,457
+Thank you.
+I'll put him back on.
+
+272
+00:18:59,227 --> 00:19:00,361
+Yes, I'm here.
+
+273
+00:19:18,296 --> 00:19:20,931
+<i>There a problem?</i>
+
+274
+00:19:20,965 --> 00:19:25,402
+<i>Victoria Hand.
+We don't exactly see eye to eye.</i>
+
+275
+00:19:25,437 --> 00:19:28,639
+<i>I'm sure she's utilizing all
+of S.H.I.E.L.D.'s resources</i>
+
+276
+00:19:28,673 --> 00:19:32,442
+- to find Coulson.
+- Not all of them.
+
+277
+00:19:32,476 --> 00:19:35,411
+You know, it wouldn't hurt to
+have Skye working an exploit.
+
+278
+00:19:35,446 --> 00:19:40,050
+- Why didn't you stick up for her?
+- Excuse me?
+
+279
+00:19:40,084 --> 00:19:41,985
+She has proven herself
+on multiple missions.
+
+280
+00:19:42,019 --> 00:19:46,877
+She's a part of this team.
+You let her get tossed.
+
+281
+00:19:47,524 --> 00:19:50,526
+All I did was tell Hand the truth.
+
+282
+00:19:50,561 --> 00:19:53,596
+Skye's no use to us on this plane.
+
+283
+00:19:53,631 --> 00:19:55,898
+- How can you say that?
+- She's not.
+
+284
+00:19:57,134 --> 00:19:59,902
+Not with all these agents
+here over her shoulder,
+
+285
+00:19:59,936 --> 00:20:01,571
+monitoring her every move.
+
+286
+00:20:01,605 --> 00:20:05,040
+- You wanted her off the plane.
+- Outside the system.
+
+287
+00:20:05,075 --> 00:20:07,342
+That's how Skye works best.
+
+288
+00:20:09,545 --> 00:20:12,214
+You don't have to
+assume the worst of me.
+
+289
+00:20:12,249 --> 00:20:16,318
+<i> Agent May, change of plans.
+Sending new coordinates now.</i>
+
+290
+00:20:16,352 --> 00:20:19,821
+<i>We found their helicopter at a
+laboratory outside the Mojave desert.</i>
+
+291
+00:20:19,855 --> 00:20:22,090
+Copy that. Coordinates received.
+
+292
+00:20:22,124 --> 00:20:25,622
+Hang on to something.
+
+293
+00:20:43,295 --> 00:20:45,430
+You want me to hack into
+a Swiss bank account?
+
+294
+00:20:45,464 --> 00:20:47,798
+Just need you to type in
+your private corporate I.D.
+
+295
+00:20:47,832 --> 00:20:49,033
+to get me in the door.
+
+296
+00:20:49,068 --> 00:20:51,135
+Yeah, well, letting you
+in that door is a crime.
+
+297
+00:20:51,170 --> 00:20:52,169
+Come to think of it,
+
+298
+00:20:52,203 --> 00:20:53,671
+how do I know you're
+not just some criminal?
+
+299
+00:20:53,705 --> 00:20:56,273
+In my experience, a
+federal agent shows a badge.
+
+300
+00:20:56,307 --> 00:20:58,108
+You want to see my badge.
+
+301
+00:21:02,781 --> 00:21:04,414
+S.H.I.E.L.D. protocol six alpha victor.
+
+302
+00:21:07,452 --> 00:21:11,821
+There.
+That's my badge.
+
+303
+00:21:11,855 --> 00:21:14,558
+Great.
+Just got my high score in Tiny Wings.
+
+304
+00:21:14,592 --> 00:21:18,261
+S.H.I.E.L.D.'s been watching you
+for quite some time, Mr. Rathman.
+
+305
+00:21:18,296 --> 00:21:20,897
+You're a prime exploit ...
+the gambling, the divorces,
+
+306
+00:21:20,931 --> 00:21:23,533
+that money pit in the Caymans.
+
+307
+00:21:23,568 --> 00:21:25,702
+You're even behind on your
+child-support payments.
+
+308
+00:21:25,736 --> 00:21:28,404
+Ugh, that's a clerical thing.
+My ex knows that.
+
+309
+00:21:28,438 --> 00:21:32,040
+- But does David know that?
+- David thinks I'm a cool dad.
+
+310
+00:21:32,075 --> 00:21:33,442
+David thinks you're a jackass.
+
+311
+00:21:33,477 --> 00:21:37,879
+You got to fix that, Lloyd.
+Kids need someone they can look up to.
+
+312
+00:21:37,914 --> 00:21:40,782
+Now... start typing.
+
+313
+00:21:42,085 --> 00:21:44,586
+<i>PD security! Don't move!
+That's it. Nice and easy.</i>
+
+314
+00:21:45,822 --> 00:21:47,155
+Keep your hands where I can ...
+ugh!
+
+315
+00:21:47,757 --> 00:21:49,190
+<i>On the ground!</i>
+
+316
+00:21:51,227 --> 00:21:52,995
+Okay, I-I'm typing, I'm typing.
+
+317
+00:21:53,029 --> 00:21:56,431
+<i>You S.H.I.E.L.D. guys don't mess around.</i>
+
+318
+00:21:58,967 --> 00:22:01,769
+This is turning into an
+interesting day, isn't it?
+
+319
+00:22:01,803 --> 00:22:02,903
+So, you're my friend now?
+
+320
+00:22:02,938 --> 00:22:05,773
+'Cause I've seen what
+you do to your "friends."
+
+321
+00:22:05,807 --> 00:22:08,042
+- Mr. Po?
+- Yeah.
+
+322
+00:22:08,076 --> 00:22:12,847
+He was a murderer incapable of remorse.
+
+323
+00:22:12,881 --> 00:22:16,551
+I was thinking of Mike Peterson,
+Chan Ho Yin.
+
+324
+00:22:16,585 --> 00:22:19,386
+I gave them what they asked for.
+
+325
+00:22:19,420 --> 00:22:23,557
+Mike wanted to be a hero to his son.
+Now he is.
+
+326
+00:22:23,591 --> 00:22:25,660
+Did Akela Amador want
+a bomb in her head?
+
+327
+00:22:25,694 --> 00:22:27,528
+The people you work
+for are just as capable
+
+328
+00:22:27,562 --> 00:22:30,564
+of using cruel means to
+reach a justified end.
+
+329
+00:22:30,598 --> 00:22:34,734
+And who do you work for, Raina?
+The Clairvoyant?
+
+330
+00:22:38,199 --> 00:22:39,139
+Yes.
+
+331
+00:22:39,174 --> 00:22:41,107
+- Who is he?
+- I don't know.
+
+332
+00:22:41,142 --> 00:22:44,778
+Today was the first time
+I personally made contact.
+
+333
+00:22:46,214 --> 00:22:50,249
+- My heart's still racing.
+- He has you building super soldiers.
+
+334
+00:22:50,284 --> 00:22:53,486
+The Clairvoyant gives
+us guidance, formulas.
+
+335
+00:22:53,520 --> 00:22:57,057
+- For what?
+- The changing world,
+
+336
+00:22:57,091 --> 00:23:00,393
+<i>the world your organization
+brought upon us.</i>
+
+337
+00:23:00,427 --> 00:23:04,363
+We're new to the business
+of what you've been doing for decades.
+
+338
+00:23:04,398 --> 00:23:06,732
+So now what?
+You have soldiers?
+
+339
+00:23:06,766 --> 00:23:09,902
+You can make them strong,
+you can control them.
+
+340
+00:23:09,936 --> 00:23:12,205
+In an instant, you can kill them.
+
+341
+00:23:12,239 --> 00:23:15,541
+Yes, but we can't
+bring them back to life.
+
+342
+00:23:17,511 --> 00:23:19,345
+You were killed.
+
+343
+00:23:20,379 --> 00:23:22,981
+<i>Now you're here.</i>
+
+344
+00:23:23,016 --> 00:23:26,952
+We want to know how.
+
+345
+00:23:26,986 --> 00:23:29,188
+Don't you?
+
+346
+00:23:31,557 --> 00:23:33,926
+I'd like to turn the machine on again.
+
+347
+00:23:35,795 --> 00:23:39,731
+<i>It induces theta brain-wave frequencies</i>
+
+348
+00:23:39,765 --> 00:23:44,636
+to help uncover the secrets
+buried in the subconscious.
+
+349
+00:23:44,670 --> 00:23:48,673
+If you cooperate, you
+can surf those waves.
+
+350
+00:23:48,708 --> 00:23:53,144
+I've gone surfing.
+That is definitely not like surfing.
+
+351
+00:23:53,178 --> 00:23:56,280
+You've been resisting.
+Fight the waves and you'll drown.
+
+352
+00:23:56,314 --> 00:24:01,759
+Your brain will cook.
+You'll stop breathing ... again.
+
+353
+00:24:01,820 --> 00:24:03,888
+Then that's what it'll be,
+
+354
+00:24:03,922 --> 00:24:06,991
+or I hold out until my
+team comes to find me.
+
+355
+00:24:07,025 --> 00:24:10,561
+Either way, you will not
+get classified intel from me.
+
+356
+00:24:10,595 --> 00:24:13,364
+I'm not interested in those secrets.
+
+357
+00:24:13,398 --> 00:24:17,468
+The Clairvoyant can see within
+any agency, any government.
+
+358
+00:24:17,502 --> 00:24:20,937
+He knows what the President
+dreams about at night.
+
+359
+00:24:20,972 --> 00:24:23,140
+I want what you want ...
+
+360
+00:24:23,174 --> 00:24:26,143
+to uncover a different secret...
+
+361
+00:24:28,045 --> 00:24:32,849
+the secret S.H.I.E.L.D.
+is keeping from you.
+
+362
+00:24:36,176 --> 00:24:39,476
+<i>All right, we're
+logged in, but you do realize </i>
+
+363
+00:24:39,511 --> 00:24:41,407
+you can't transfer these
+kinds of funds online.
+
+364
+00:24:41,442 --> 00:24:44,715
+I'm not looking to transfer funds.
+I'm looking for transaction records.
+
+365
+00:24:44,749 --> 00:24:49,628
+Go to your account history.
+We need to open up a terminal emulator,
+
+366
+00:24:49,663 --> 00:24:51,388
+- see what kind of encryption they've got.
+- Okay.
+
+367
+00:24:51,423 --> 00:24:53,590
+If it's an SSL 256 or
+an A.E.S. twofish serpent,
+
+368
+00:24:53,625 --> 00:24:54,892
+- we're in business.
+- Yeah.
+
+369
+00:24:54,926 --> 00:24:57,594
+- Quantum key, that's another story.
+- Right.
+
+370
+00:24:58,629 --> 00:25:02,933
+Lloyd.
+What is happening here?
+
+371
+00:25:02,967 --> 00:25:05,802
+Yeah, account history.
+Where is that?
+
+372
+00:25:11,242 --> 00:25:12,875
+Delete that second line.
+
+373
+00:25:12,910 --> 00:25:15,578
+<i>Press "return."</i>
+
+374
+00:25:15,612 --> 00:25:19,482
+Thing is, I have an assistant
+that does all this for me.
+
+375
+00:25:19,516 --> 00:25:22,051
+- That's it.
+- So, this Vanchat ...
+
+376
+00:25:22,085 --> 00:25:23,586
+is this the guy you're trying to bust?
+
+377
+00:25:23,620 --> 00:25:26,622
+No, we already have him in custody.
+What I wanna know
+
+378
+00:25:26,657 --> 00:25:28,825
+is who's recently paid
+Vanchat a lot of money.
+
+379
+00:25:28,859 --> 00:25:31,226
+I backtrack those payments
+to the buyer's account
+
+380
+00:25:31,261 --> 00:25:33,295
+and get a record of all
+the purchases she's made,
+
+381
+00:25:33,330 --> 00:25:36,514
+maybe use it to track her down.
+Click there.
+
+382
+00:25:38,798 --> 00:25:42,904
+Hello, Raina.
+Let's see what you've been up to.
+
+383
+00:25:42,939 --> 00:25:45,807
+- Print that.
+- Great. So are we done here?
+
+384
+00:25:45,842 --> 00:25:47,809
+One last thing.
+
+385
+00:25:53,850 --> 00:25:56,785
+And you're clinging to
+the one thing you have ...
+
+386
+00:25:56,819 --> 00:25:58,920
+fond memories of your recovery.
+
+387
+00:25:58,955 --> 00:26:00,221
+So, this person you work for
+
+388
+00:26:00,255 --> 00:26:03,925
+told you I died and
+have gaps in my memory.
+
+389
+00:26:03,960 --> 00:26:06,595
+Ever think your mind reader
+
+390
+00:26:06,629 --> 00:26:08,763
+might just be looking
+up symptoms online?
+
+391
+00:26:08,798 --> 00:26:11,199
+I was also told it
+keeps you up at night,
+
+392
+00:26:11,233 --> 00:26:13,734
+that you crave answers,
+that you're troubled by the fact
+
+393
+00:26:13,768 --> 00:26:16,637
+<i>that when you asked for
+answers, you were denied.</i>
+
+394
+00:26:16,671 --> 00:26:20,041
+- Isn't that true?
+- I trust the system.
+
+395
+00:26:21,075 --> 00:26:24,173
+They keep secrets for a reason.
+
+396
+00:26:24,208 --> 00:26:28,849
+But why would S.H.I.E.L.D. keep
+details of your death from you?
+
+397
+00:26:28,884 --> 00:26:30,851
+They're your family ...
+
+398
+00:26:30,886 --> 00:26:35,723
+Your only family since
+you've lost your mother, too.
+
+399
+00:26:35,757 --> 00:26:40,260
+- Now, after all you've sacrificed...
+- Sacrifice is part of the job.
+
+400
+00:26:40,294 --> 00:26:43,531
+- I would give my life ...
+- You didn't just give your life,
+
+401
+00:26:43,565 --> 00:26:48,868
+you gave up your chance
+at a normal one, at love.
+
+402
+00:26:52,807 --> 00:26:55,708
+And she did love you, Agent Coulson.
+
+403
+00:26:58,111 --> 00:27:01,080
+How could you know that?
+
+404
+00:27:01,114 --> 00:27:04,516
+Do you miss her?
+Dinners at the Richmond.
+
+405
+00:27:04,551 --> 00:27:07,753
+Do you miss hearing her play?
+
+406
+00:27:09,622 --> 00:27:12,858
+You didn't even have a
+chance to say goodbye.
+
+407
+00:27:12,892 --> 00:27:15,527
+I-I couldn't.
+I-I can't.
+
+408
+00:27:15,562 --> 00:27:19,064
+She cried for days
+after S.H.I.E.L.D. told her you died.
+
+409
+00:27:19,098 --> 00:27:24,870
+They shattered her heart with a lie,
+
+410
+00:27:27,172 --> 00:27:29,641
+- and now they're lying to you.
+- No.
+
+411
+00:27:31,043 --> 00:27:34,479
+- No, they're not.
+- I know you don't want to believe it,
+
+412
+00:27:34,513 --> 00:27:38,483
+but you can't tell me
+nothing makes you doubt,
+
+413
+00:27:38,517 --> 00:27:42,552
+makes you wonder what
+happened in Tahiti.
+
+414
+00:27:42,587 --> 00:27:45,322
+It's a magical place...
+
+415
+00:27:48,225 --> 00:27:53,364
+- I keep saying that.
+- Don't you want to know why?
+
+416
+00:28:04,785 --> 00:28:08,122
+Turn it... turn it on.
+
+417
+00:28:08,345 --> 00:28:10,547
+<i>The Centipede soldiers each have a port</i>
+
+418
+00:28:10,581 --> 00:28:13,449
+<i>on their delivery device
+to inject refills of serum.</i>
+
+419
+00:28:13,484 --> 00:28:17,120
+But with this injector cuff, we
+can use the port to our advantage.
+
+420
+00:28:17,154 --> 00:28:19,355
+By injecting a refined
+dose of dendrotoxin
+
+421
+00:28:19,390 --> 00:28:22,492
+- to incapacitate the soldier.
+- How's it work?
+
+422
+00:28:22,526 --> 00:28:27,363
+Oh, just simply lock it around
+the Centipede soldier's forearm.
+
+423
+00:28:27,398 --> 00:28:29,132
+<i>And night-night, superpowers.</i>
+
+424
+00:28:29,166 --> 00:28:31,967
+Sounds like riding a
+bull for eight seconds.
+
+425
+00:28:32,002 --> 00:28:36,672
+- Yeah, exactly. It's that simple.
+- Yeah.
+
+426
+00:28:38,174 --> 00:28:40,543
+Hello?
+
+427
+00:28:40,577 --> 00:28:44,379
+- Simmons, it's me.
+- Why, hello... Dr. Nugent.
+
+428
+00:28:44,414 --> 00:28:47,349
+<i>Is someone there?
+God, don't try to lie.</i>
+
+429
+00:28:47,383 --> 00:28:49,584
+You are the worst at this.
+Remember our safe word.
+
+430
+00:28:49,618 --> 00:28:53,055
+Manscaping?
+Oh, I shouldn't have said that.
+
+431
+00:28:53,089 --> 00:28:56,324
+Um, I am right as rain.
+Couldn't be better, old chap.
+
+432
+00:28:56,359 --> 00:28:58,960
+<i>- You three, out.
+- Listen up.</i>
+
+433
+00:28:58,994 --> 00:29:02,164
+I may have a lead on where
+Centipede's holding Coulson.
+
+434
+00:29:02,198 --> 00:29:03,397
+Skye?
+
+435
+00:29:05,333 --> 00:29:07,936
+What have you found?
+
+436
+00:29:09,337 --> 00:29:11,906
+We're about to launch a major
+assault on a Centipede lab,
+
+437
+00:29:11,941 --> 00:29:13,240
+and you want to take your team
+
+438
+00:29:13,275 --> 00:29:15,043
+to the desert based
+on a hunch from Skye?
+
+439
+00:29:15,077 --> 00:29:16,210
+It's not a hunch.
+
+440
+00:29:17,279 --> 00:29:19,613
+Skye followed the money from
+Vanchat back to Centipede.
+
+441
+00:29:19,647 --> 00:29:21,182
+Turns out they recently purchased
+
+442
+00:29:21,216 --> 00:29:23,451
+a small development less
+than 100 miles from here.
+
+443
+00:29:23,485 --> 00:29:25,319
+Well, that's great news for
+their real-estate portfolio,
+
+444
+00:29:25,353 --> 00:29:27,421
+but we have confirmed
+activity at the lab.
+
+445
+00:29:27,456 --> 00:29:30,357
+I'm taking a strike team to investigate.
+End of story.
+
+446
+00:29:30,392 --> 00:29:31,592
+<i>So we split up.</i>
+
+447
+00:29:31,626 --> 00:29:33,094
+You take the strike team
+and go after Centipede.
+
+448
+00:29:33,128 --> 00:29:36,997
+We'll investigate Skye's lead,
+see if Coulson's there.
+
+449
+00:29:37,031 --> 00:29:38,966
+You backed my decision to
+kick Skye off the plane.
+
+450
+00:29:39,000 --> 00:29:41,167
+- Seems like it worked out.
+- Seems like you played me.
+
+451
+00:29:41,202 --> 00:29:42,535
+<i>Look, this isn't personal,</i>
+
+452
+00:29:42,570 --> 00:29:45,572
+but I am taking my team and
+we're gonna find Coulson.
+
+453
+00:29:46,608 --> 00:29:49,042
+Send backup if you want.
+
+454
+00:29:56,616 --> 00:30:00,120
+What makes you so sure
+this machine will even work?
+
+455
+00:30:00,154 --> 00:30:01,887
+It worked on me.
+
+456
+00:30:04,758 --> 00:30:11,063
+One thing before we start ...
+what is it with the flowers?
+
+457
+00:30:11,098 --> 00:30:16,602
+Who doesn't like flowers?
+I'm glad you noticed.
+
+458
+00:30:18,204 --> 00:30:19,672
+Close your eyes and relax.
+
+459
+00:30:24,444 --> 00:30:29,281
+I want you to think back to
+your first memory after you died.
+
+460
+00:30:31,717 --> 00:30:33,785
+<i>What do you see?</i>
+
+461
+00:30:35,721 --> 00:30:41,193
+Sandy beach, blue waves ...
+just as I remember it.
+
+462
+00:30:41,227 --> 00:30:43,227
+Focus on the details.
+
+463
+00:30:45,131 --> 00:30:48,533
+- Can you feel that?
+- Don't stop.
+
+464
+00:30:51,003 --> 00:30:55,339
+<i>Listen to him!
+Who ordered this?</i>
+
+465
+00:30:55,374 --> 00:31:00,611
+- W-what?
+- Director Fury himself.
+
+466
+00:31:24,235 --> 00:31:26,770
+Got creepy?
+
+467
+00:31:47,957 --> 00:31:49,191
+<i>You shouldn't be here.</i>
+
+468
+00:31:52,462 --> 00:31:55,734
+There's nowhere to run!
+
+469
+00:32:04,578 --> 00:32:09,982
+<i>Agent Coulson, something's
+happening, isn't it?</i>
+
+470
+00:32:13,788 --> 00:32:15,754
+Listen to him.
+
+471
+00:32:15,789 --> 00:32:17,924
+<i>I need you to look at your surroundings.</i>
+
+472
+00:32:19,359 --> 00:32:22,929
+<i>I can't take it anymore...</i>
+
+473
+00:32:22,963 --> 00:32:24,996
+Try and describe what you see.
+
+474
+00:32:28,067 --> 00:32:31,503
+<i>Are you still in Tahiti?
+Tell me.</i>
+
+475
+00:32:31,538 --> 00:32:34,907
+It's dark.
+There's nothing.
+
+476
+00:32:34,941 --> 00:32:37,843
+Everything is dark.
+
+477
+00:32:38,545 --> 00:32:42,080
+<i>Coulson's gotta be here somewhere.
+We need to split up.</i>
+
+478
+00:32:42,114 --> 00:32:46,852
+- Or run.
+- I'll take care of him.
+
+479
+00:32:46,886 --> 00:32:48,454
+Are you sure?
+
+480
+00:32:49,489 --> 00:32:53,358
+- I got this.
+- Come on, let's move!
+
+481
+00:32:58,130 --> 00:32:59,631
+Coulson!
+
+482
+00:33:41,973 --> 00:33:46,543
+Now, Coulson, where the hell are you?
+
+483
+00:34:06,430 --> 00:34:10,132
+<i> He's drifting.</i>
+
+484
+00:34:12,702 --> 00:34:14,236
+<i> He's drifting.</i>
+
+485
+00:34:16,606 --> 00:34:18,741
+- This is wrong.
+- Can you feel that?
+
+486
+00:34:18,775 --> 00:34:19,775
+Don't.
+
+487
+00:34:19,810 --> 00:34:21,644
+- Listen to him.
+- Stop.
+
+488
+00:34:21,678 --> 00:34:23,746
+- Who ordered this?
+- Director Fury himself.
+
+489
+00:34:23,780 --> 00:34:25,513
+This is wrong!
+
+490
+00:34:28,952 --> 00:34:30,618
+<i>Listen to him!</i>
+
+491
+00:34:30,653 --> 00:34:33,888
+Let me die, please.
+Please, please.
+
+492
+00:34:33,923 --> 00:34:36,925
+Please, I'm begging you, let me die.
+
+493
+00:34:36,960 --> 00:34:40,562
+Please. Please let me die.
+
+494
+00:34:40,596 --> 00:34:42,464
+<i>Let me die, please!</i>
+
+495
+00:34:42,498 --> 00:34:45,500
+<i>Please! Let me die!</i>
+
+496
+00:34:45,534 --> 00:34:48,703
+<i>Please! Let me die!</i>
+
+497
+00:34:52,641 --> 00:34:56,077
+Stop fighting it, Agent Coulson.
+Stop fighting it.
+
+498
+00:34:56,111 --> 00:34:59,080
+Please let me die.
+
+499
+00:34:59,114 --> 00:35:00,581
+It's for his own good.
+
+500
+00:35:02,117 --> 00:35:05,486
+Please, let me die!
+Please, let me die!
+
+501
+00:35:05,520 --> 00:35:06,820
+<i>Please, let me die!</i>
+
+502
+00:35:06,855 --> 00:35:09,790
+<i>Let me die.
+Let me die.</i>
+
+503
+00:35:11,593 --> 00:35:13,027
+Coulson, Coulson.
+
+504
+00:35:13,061 --> 00:35:16,563
+Come back, come back,
+come back, come back...
+
+505
+00:35:18,800 --> 00:35:20,133
+Come back, come back.
+
+506
+00:35:20,167 --> 00:35:24,938
+Skye.
+Skye.
+
+507
+00:35:28,142 --> 00:35:30,744
+Skye.
+
+508
+00:35:36,246 --> 00:35:39,118
+Nice jacket.
+
+509
+00:35:42,023 --> 00:35:44,658
+Bet there aren't any flowered
+dresses where she's going.
+
+510
+00:35:44,692 --> 00:35:46,126
+Amen to that, sister.
+
+511
+00:35:58,872 --> 00:36:00,372
+<i>- Dismissed.
+- Let's go, madam.</i>
+
+512
+00:36:07,147 --> 00:36:09,015
+Just got off the phone
+with headquarters.
+
+513
+00:36:09,049 --> 00:36:10,550
+Director Fury was very relieved.
+
+514
+00:36:10,584 --> 00:36:13,753
+I understand you've been busy.
+Heard you put some miles on my plane.
+
+515
+00:36:13,787 --> 00:36:15,755
+The manhunt has yielded
+some impressive results.
+
+516
+00:36:15,789 --> 00:36:18,223
+Centipede operations have been
+taken down around the globe.
+
+517
+00:36:18,258 --> 00:36:19,859
+Any word on the Clairvoyant?
+
+518
+00:36:19,893 --> 00:36:22,428
+Nothing yet, but it's gonna
+be awfully hard to stay hidden
+
+519
+00:36:22,462 --> 00:36:24,796
+now that the Clairvoyant's
+on S.H.I.E.L.D.'s radar.
+
+520
+00:36:24,830 --> 00:36:29,068
+Good, because Raina knew things
+about me ... personal things.
+
+521
+00:36:29,102 --> 00:36:31,836
+- I want to know how.
+- My men and I are taking her
+
+522
+00:36:31,871 --> 00:36:33,372
+straight to headquarters
+for questioning.
+
+523
+00:36:33,406 --> 00:36:36,408
+- We'll be in touch.
+- Agent Hand?
+
+524
+00:36:37,376 --> 00:36:42,614
+- Thank you... for everything.
+- Good to have you back.
+
+525
+00:36:42,648 --> 00:36:47,018
+Honestly, this bus
+isn't really my style.
+
+526
+00:37:02,634 --> 00:37:06,770
+I just want to say...
+thank you.
+
+527
+00:37:13,944 --> 00:37:15,912
+Now get back to work.
+
+528
+00:37:27,325 --> 00:37:29,726
+I heard what you did for me.
+
+529
+00:37:31,095 --> 00:37:34,998
+I think it's time...
+that we remove this.
+
+530
+00:37:35,732 --> 00:37:39,802
+Disengage bracelet.
+
+531
+00:37:39,837 --> 00:37:43,172
+- Are you kidding me?
+- Thought you'd like that.
+
+532
+00:37:48,512 --> 00:37:52,848
+Back in that room, did
+they learn anything?
+
+533
+00:37:52,882 --> 00:37:55,116
+No.
+
+534
+00:37:56,253 --> 00:37:57,386
+Did you?
+
+535
+00:37:59,889 --> 00:38:02,190
+I heard what you were saying.
+
+536
+00:38:03,626 --> 00:38:05,961
+It wasn't real.
+
+537
+00:38:08,497 --> 00:38:12,067
+They were just messing with my head...
+
+538
+00:38:12,101 --> 00:38:15,236
+but I appreciate your concern.
+
+539
+00:38:29,851 --> 00:38:32,120
+<i>Evening, Doctor.</i>
+
+540
+00:38:35,356 --> 00:38:38,926
+- Agent Coulson.
+- You weren't operating on my heart.
+
+541
+00:38:38,961 --> 00:38:43,764
+- I know about Tahiti.
+- I was afraid this day would come.
+
+542
+00:38:43,799 --> 00:38:46,734
+- Because of what I'd do?
+- Because of what I've done.
+
+543
+00:38:49,704 --> 00:38:54,908
+After New York, you weren't dead
+for 8 seconds or 40 seconds
+
+544
+00:38:54,942 --> 00:38:56,643
+or whatever they put in your file.
+
+545
+00:38:56,677 --> 00:39:01,582
+You were dead for... days.
+
+546
+00:39:01,616 --> 00:39:03,049
+That's impossible.
+
+547
+00:39:03,084 --> 00:39:07,153
+It should be, but Director
+Fury moved heaven and Earth.
+
+548
+00:39:07,187 --> 00:39:11,157
+He had a team of scientists
+working around the clock
+
+549
+00:39:11,191 --> 00:39:15,294
+using procedures that no
+good Doctor would ever allow.
+
+550
+00:39:15,329 --> 00:39:16,796
+You were there.
+
+551
+00:39:16,831 --> 00:39:20,600
+Fury brought me in during
+the seventh operation.
+
+552
+00:39:20,635 --> 00:39:24,470
+We kept you conscious to
+monitor brain activity,
+
+553
+00:39:24,505 --> 00:39:26,972
+but you were in extreme pain.
+
+554
+00:39:27,007 --> 00:39:30,876
+The neurological damage...
+it was catastrophic.
+
+555
+00:39:32,812 --> 00:39:37,016
+- I wanted to die.
+- And we should have let you.
+
+556
+00:39:37,050 --> 00:39:41,954
+The trauma you'd endured was...
+Ungodly.
+
+557
+00:39:41,988 --> 00:39:44,957
+Why was that machine
+messing with my brain?
+
+558
+00:39:44,991 --> 00:39:48,493
+After what you'd been through...
+
+559
+00:39:49,528 --> 00:39:53,732
+ we wanted to restore
+the man you'd once been,
+
+560
+00:39:53,767 --> 00:39:59,937
+so we gave you a pleasant
+memory of a beautiful island.
+
+561
+00:39:59,972 --> 00:40:06,010
+We didn't want you to be that...
+thing.
+
+562
+00:40:08,047 --> 00:40:15,118
+What did I become, Doctor?
+Tell me.
+
+563
+00:40:15,153 --> 00:40:18,121
+You'd lost your will to live.
+
+564
+00:40:20,559 --> 00:40:23,827
+We tried to give it back.
+
+565
+00:40:27,732 --> 00:40:33,937
+I'm sorry, Agent Coulson.
+Truly, I am.
+
+566
+00:40:33,971 --> 00:40:37,540
+If you only knew.
+
+567
+00:40:52,221 --> 00:40:55,591
+<i>"Marvel's Agents of S.H.I.E.L.D."
+will return in a moment.</i>
+
+568
+00:41:28,596 --> 00:41:30,364
+H-hello?
+
+569
+00:41:32,567 --> 00:41:36,871
+Anybody there?
+Hello?
+
+570
+00:41:50,467 --> 00:41:52,223
+No.
+
+571
+00:41:51,893 --> 00:41:55,169
+<i><font color="yellow"> sync & correction by f1nc0
+~ addic7ed.com ~ </font> </i>
+
+572
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>
+
+573
+00:41:56,305 --> 00:42:56,244
+Support us and become VIP member 
+to remove all ads from OpenSubtitles.org
