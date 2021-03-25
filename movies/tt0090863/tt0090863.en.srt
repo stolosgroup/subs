@@ -1,0 +1,1828 @@
+{25}{175}Advertise your product or brand here|contact www.OpenSubtitles.org today
+{1234}{1278}9-ball is rotation pool.
+{1282}{1350}The balls are pocketed|in numbered order.
+{1354}{1398}The only ball|that means anything...
+{1402}{1470}that wins it,|is the 9.
+{1474}{1564}The player can shoot|eight trick shots in a row...
+{1568}{1642}blow the 9, and lose.
+{1686}{1718}On the other hand...
+{1722}{1790}the player can get|the 9 in on the break...
+{1794}{1866}if the balls spread right,|and win.
+{1870}{1994}Which is to say that luck|plays a part in 9-ball.
+{1998}{2048}But for some players...
+{2103}{2169}Iuck itself is an art.
+{4523}{4574}Colour.
+{4578}{4624}Check the colour.
+{4628}{4680}Dead giveaway,|you know?
+{4684}{4770}It's thick.|You can almost feel it.
+{4774}{4858}Lay down and let it|roll all over you.
+{4862}{4898}That's single malt.
+{4947}{5025}On the other hand,|you got something like Old Mcdonnell.
+{5029}{5090}More like Young Mcdonnell,|actually.
+{5094}{5180}Tastes like|6-year-old bonded.
+{5184}{5229}Smell this.
+{5252}{5282}Mmm.
+{5286}{5346}Hmm?
+{5461}{5499}That's good stuff.
+{5503}{5560}Yeah.
+{5564}{5626}Very good stuff.
+{5630}{5710}I can get you a case|for $35.50 less...
+{5714}{5808}than your wholesaler|can get you a case of Jack Daniel's.
+{5812}{5895}Go peddle that to one|of your hotel chains.
+{5899}{5927}Peddle?
+{5931}{6012}I don't do that, do l?|This is family.
+{6016}{6072}I'm glad|to see you, too.
+{6076}{6119}Come to my house|tonight.
+{6123}{6168}I'll make you|an omelet.
+{6172}{6203}I'll make the omelets.
+{6207}{6299}Did you forget the omelet|I made you last time?
+{6303}{6323}No.
+{6327}{6360}What was in it?
+{6364}{6388}Sweet sausage.
+{6392}{6417}Sweet sausage.
+{6421}{6508}Hey, I never made you|sweet sausage.
+{6512}{6535}Eddie.
+{6539}{6611}Come on,|what was in it?
+{6615}{6647}Sour.
+{6651}{6695}Sour cream|and caviar, right?
+{6699}{6755}Okay. Excuse me.
+{6759}{6783}Eddie.
+{6787}{6831}Julian,|am I working?
+{6835}{6868}I'm working, too.
+{6872}{6939}This guy is up|for 20 a rack.
+{6943}{6971}What guy?
+{7087}{7155}Playing 2, 2 1/2 hours|for 5 a game.
+{7159}{7199}He's up 300.
+{7203}{7252}I've been|playing him off.
+{7355}{7411}Yo, Vincent!
+{7415}{7460}Vincent, we're on.
+{7491}{7555}Hey, Vincent.
+{7558}{7681}Can you believe this guy?|Hey, Vinnie.
+{7685}{7778}You slide this stuff|into a bottle of Old Granddad...
+{7782}{7852}you'd hardly be lying.
+{7856}{7948}Pick me up.|I get off at 10:00.
+{7952}{7995}Not without me|you don't.
+{7999}{8034}Do you?
+{8038}{8071}Lately...
+{8075}{8131}Wait a minute.|I'm talking bourbon.
+{8135}{8178}You know the secret?
+{8182}{8251}These people get a hold|of aged kegs.
+{8255}{8319}You're tasting|low fusel oil content.
+{8323}{8395}Just like the big guys.|It's the kegs.
+{8399}{8455}Where do you get|the kegs?
+{8459}{8490}Hey.
+{8494}{8563}That was fast.|What the hell happened?
+{8567}{8610}I slipped.
+{8614}{8670}He slipped.
+{8674}{8728}Where do they get|the kegs?
+{8732}{8800}They just do.|Do whatever you want.
+{8804}{8880}It'll leave the warehouse|one way or another.
+{8885}{8973}On the snap, Vincent.
+{8976}{9042}That kid's got|a sledgehammer break.
+{9140}{9172}Bottoms up.
+{9176}{9245}Do you know who|loves this stuff?
+{9249}{9281}The Chinese.
+{9285}{9352}It must be the low|fusel oil content.
+{9356}{9424}Don't kid yourself.|It has its effect.
+{9428}{9520}It's like those things|you take for granted, like electricity.
+{9524}{9569}Eddie, loan me|another 20.
+{9573}{9628}Who you working,|me or him?
+{9632}{9718}He's on the ropes.|He just lucked out.
+{9722}{9764}You know me, right?
+{9768}{9809}Take it easy.
+{9813}{9837}Woo!
+{9841}{9895}Woo! Woo! Woo!
+{9962}{9995}Victory.
+{10219}{10287}Pick us out|a nice bottle of wine.
+{10291}{10329}Red or white?
+{10333}{10389}On the snap, Vincent.
+{10543}{10599}Hey, Eddie,|about those labels.
+{10603}{10683}Can you get me|some Wild Turkey labels?
+{10687}{10719}Sure.
+{10750}{10815}{Y:i}...Oh, one more night
+{10819}{10922}{Y:i}'Cause I can't|wait forever
+{10926}{10996}{Y:i}Give me one more night
+{11000}{11072}{Y:i}Give me just|one more night
+{11076}{11151}{Y:i}Give me one more night
+{11155}{11237}{Y:i}I can't wait forever...
+{11241}{11289}Hiya.|How you doing?
+{11293}{11377}{Y:i}...Like a river|to the sea
+{11381}{11466}{Y:i}I will always be|with you
+{11470}{11545}{Y:i}And if you should|sail away
+{11549}{11633}{Y:i}I will follow you
+{11637}{11704}{Y:i}Give me one more night
+{11708}{11752}{Y:i}Give me just|one more night
+{11756}{11814}Kid draws|some bead, huh?
+{11818}{11876}{Y:i}Oh, one more night
+{11880}{11980}{Y:i}I can't wait forever
+{11984}{12100}{Y:i}I know there'll|never be a time...
+{12104}{12190}Play him again.|You really got him on the ropes.
+{12194}{12243}One more,|right, chief?
+{12247}{12299}I got to split.
+{12303}{12333}You're going.
+{12337}{12387}Come on,|one more game.
+{12391}{12434}I'm bust.
+{12438}{12480}So let's just|play play.
+{12484}{12504}What?
+{12508}{12559}Play for play.|No money.
+{12593}{12629}Play play?
+{12633}{12676}Show me|what you got.
+{12680}{12705}Vincent.
+{12709}{12780}Julian, I just want|your best game.
+{12784}{12829}I think the money's|throwing you off today.
+{12833}{12885}{Y:i}...One more night
+{12889}{12977}{Y:i}'Cause I can't|wait forever
+{12981}{13039}How about I win,|no money.
+{13043}{13091}You win,|I'll throw you 20.
+{13095}{13170}{Y:i}One more night
+{13174}{13223}No?
+{13227}{13346}{Y:i}'Cause I can't|wait forever
+{13350}{13419}What's the matter|with this guy?
+{13423}{13483}All right, Carmen,|who's next?
+{13487}{13516}Nobody.
+{13556}{13588}Hey.
+{13592}{13636}You want to play me?
+{13640}{13675}For your girlfriend.
+{13679}{13707}One game.
+{13711}{13736}No.
+{13740}{13795}I'll spot you|the 7 and 8.
+{13799}{13868}I'll give you|the table.
+{13887}{13940}You want to play him?
+{13943}{13987}Me?
+{13991}{14036}Sure.
+{14040}{14083}20 a rack.
+{14087}{14144}No. 500 a rack.
+{14148}{14193}Oh, you serious?
+{14243}{14288}I never kid|about money.
+{14292}{14328}Ha ha ha ha!
+{14332}{14359}Cowards!
+{14363}{14409}Off with their heads.
+{14519}{14588}You don't know|what you're doing, do you?
+{14592}{14636}What do you mean?
+{14640}{14696}Well, you just blew|500 bucks.
+{14700}{14769}That kid, he has both arms|in traction...
+{14773}{14828}he beats anybody|in the room.
+{14832}{14864}Yeah, he could.
+{14868}{14936}So I'll offer it|to you again.
+{14940}{15021}I'll play him|for 500 bucks.
+{15025}{15092}You don't know|what to say, do you?
+{15096}{15164}Maybe I'm hustling you,|maybe I'm not.
+{15168}{15236}You don't know,|but you should know.
+{15240}{15333}If you know that,|you know when to say no.
+{15337}{15381}What should I say?
+{15385}{15428}You should say no.
+{15432}{15488}Why? Because|it's too much money
+{15492}{15560}and I'm an unknown.
+{15564}{15644}He should be the unknown.
+{15648}{15692}That would be nice.
+{15696}{15740}That would|be beautiful.
+{15744}{15824}You could play around|with that.
+{15828}{15872}You could control that.
+{15876}{15930}I'll offer it|to you again.
+{15934}{15978}I'll play him|for 500 bucks.
+{15982}{16030}No.
+{16034}{16090}Actually,|you should have said yes.
+{16094}{16151}It's very hard|to know that.
+{16155}{16190}It's very complex...
+{16194}{16262}Iike which twin|has got the Toni.
+{16266}{16322}Maybe they both|got the Toni.
+{16326}{16398}Maybe Toni's a guy.|It's very complicated.
+{16402}{16447}Plus it's too much money.
+{16451}{16483}God, you're crazy.
+{16487}{16545}No, I'm not.|Just common sense.
+{16585}{16677}How about I take you guys|out for dinner tonight?
+{16714}{16758}You should ask Vincent.
+{16762}{16817}No. You should|ask Vincent.
+{17050}{17130}You know the last time|Julian lost for me?
+{17134}{17238}It's just a game, man.|Some balls and a stick.
+{17242}{17287}9-ball's not that tough.
+{17291}{17333}Stalker is tough.
+{17337}{17389}It's his video game.
+{17393}{17436}Vincent's the best|at it.
+{17440}{17508}In pool, you just|got these balls.
+{17512}{17584}You take your time,|set up a shot.
+{17588}{17677}Can you make any money|playing Stalker?
+{17681}{17758}I'll tell you what|I can do off Stalker.
+{17762}{17854}10 years from now,|I can go to West Point.
+{17858}{17926}It's all coming down|to video-game reflexes.
+{17930}{17975}Computerized tanks,|Star Wars.
+{17979}{18053}In 10 years,|a heavy scorer on Stalker...
+{18057}{18117}is a shoo-in|at the Point.
+{18121}{18172}You are beautiful.
+{18176}{18242}What do you mean,|"money"?
+{18246}{18277}Money money.
+{18281}{18327}Really?
+{18331}{18361}Hey, look.
+{18365}{18429}If you got an area|of excellence...
+{18432}{18489}you're the best|at something, anything...
+{18493}{18537}then rich|can be arranged.
+{18541}{18585}Rich can come|fairly easy.
+{18589}{18625}Really?
+{18629}{18710}You got some other|area of excellence besides Stalker?
+{18714}{18760}9-ball, right?
+{18764}{18841}You're some|piece of work.
+{18845}{18883}You're also|a natural character.
+{18887}{18970}I've been telling her that.|I got natural character.
+{18974}{19026}That's not|what I said, kid.
+{19030}{19116}I said you are|a natural character.
+{19120}{19160}You're|an incredible flake.
+{19164}{19207}But that's a gift.
+{19211}{19279}Guys spend half their lives|inventing that.
+{19283}{19370}You walk into a poolroom|with that "go, go, go..."
+{19374}{19425}guys will be|killing each other...
+{19429}{19471}trying to get|to you.
+{19475}{19507}You got that.
+{19511}{19567}But I'll tell you|something, kiddo.
+{19571}{19615}You couldn't|find big time...
+{19619}{19663}if you had|a road map.
+{19667}{19739}Pool excellence is not about|excellent pool.
+{19743}{19791}It's about|becoming something.
+{19795}{19855}Yeah?
+{19859}{19916}Yeah.
+{19920}{19955}Like what?
+{19959}{20013}You got to be a student...
+{20017}{20049}of human moves.
+{20053}{20121}See, all the greats|that I know of...
+{20125}{20180}were students|of human moves.
+{20184}{20256}Students|of human moves?
+{20260}{20347}Yeah. That's my area|of excellence.
+{20351}{20389}Oh, yeah?
+{20393}{20441}Yeah.
+{20445}{20477}Ahem.
+{20481}{20517}What?
+{20553}{20621}What?
+{20631}{20718}That guy at the end|of the bar...
+{20721}{20801}he's been hustling that broad|for half an hour.
+{20805}{20887}He's going to throw in the towel|in 300 seconds for a buck.
+{20891}{20946}You got it.|Starting now.
+{20950}{20981}10 seconds.
+{20985}{21060}What do you mean,|rich can be arranged?
+{21064}{21101}Shh.
+{21105}{21145}22, 23, 24...
+{21149}{21209}25, 26, 27, 28.
+{21213}{21262}Guess the news.|You lose.
+{21309}{21396}And I just missed it|by a couple of seconds.
+{21400}{21470}Want to up the bet?
+{21474}{21511}Yeah.
+{21515}{21630}Check for the meal says|I leave with her in two minutes.
+{21705}{21745}Okay. Ready, go.
+{21749}{21815}Now. I'm counting.
+{21873}{21928}I know this will|sound crazy...
+{21932}{22024}but would you come outside|and look at my car?
+{22028}{22060}Your car?
+{22064}{22141}Yeah.
+{22145}{22182}Come on.
+{22268}{22326}Hold it here|for a second.
+{22496}{22543}Human moves, kid.
+{22547}{22601}You study the watch...
+{22605}{22649}but I study you.
+{22653}{22714}You get the check.|Excuse me.
+{22809}{22850}Cab's on me.
+{22975}{23018}What's with|the car, Eddie?
+{23022}{23064}Nothing.|I'll drive you home.
+{23068}{23147}I hated to see you|sitting alone.
+{23151}{23195}Did you see Julian?
+{23199}{23267}Yeah. Does he still|got his nighttime job?
+{23271}{23391}He wanted to talk to you,|but you were busy.
+{23513}{23553}Where did you go?
+{23557}{23597}What?
+{23601}{23647}You certainly|weren't here.
+{23651}{23731}Oh, yeah?|Where was l?
+{23791}{23835}God, the earth moved.
+{23839}{23907}Didn't it move|for you a little bit?
+{23911}{23957}That was a train.
+{24007}{24053}No, it was you...
+{24092}{24182}but it certainly wasn't San Juan.
+{24186}{24267}I mean, if you're going to talk|earth moving...
+{24271}{24327}you got to talk San Juan.
+{24331}{24412}Remember that waterbed we had?
+{24416}{24459}God!
+{24463}{24517}Sometimes I think about that week.
+{24521}{24565}When I'm behind the bar...
+{24569}{24673}I think,|"l'm going to get me a waterbed..."
+{24677}{24709}and not tell anybody...
+{24713}{24784}Just make it a surprise.
+{24830}{24896}Get some rum and pineapple juice.
+{24941}{25022}You couldn't tell me|one word I just said...
+{25026}{25057}could you?
+{25061}{25105}No, I couldn't.
+{25109}{25194}Waterbed, rum, pineapple juice.
+{25198}{25255}Not that, it's...
+{25293}{25353}I don't know,|that kid today...
+{25357}{25451}it was like watching|a home movie.
+{25489}{25557}Ah, it just|made me wonder.
+{25561}{25599}Wonder what?
+{25645}{25715}It made me wonder|about San Juan.
+{26012}{26064}What did you mean|last night about money...
+{26068}{26119}and all that stuff?
+{26180}{26237}I want to show you|something.
+{26686}{26730}So this is|liquor money.
+{26734}{26834}Some. Do you know|what I invest in?
+{26838}{26881}Excellence.
+{26928}{26983}You think Vincent's|that good?
+{26987}{27092}Well, he's got the eye.|He's got the stroke.
+{27096}{27158}He's got the flake|down cold...
+{27162}{27228}but can he flake on|and flake off?
+{27232}{27292}I don't know whether|that can be taught.
+{27296}{27361}He's got to learn how to be himself,|but on purpose.
+{27389}{27416}Yeah.
+{27420}{27463}Do you like to travel?
+{27467}{27488}Yeah.
+{27492}{27542}You like hotels?
+{27546}{27576}They're okay.
+{27580}{27660}Are you going to|help me with him?
+{27732}{27813}That lady you picked up|last night--
+{27817}{27881}you knew her|from before, right?
+{27932}{27956}Mm-hmm.
+{27960}{27989}And the guy.
+{27993}{28078}You probably had his schedule|down cold.
+{28082}{28139}Maybe he's your|brother-in-law.
+{28143}{28198}You're a hard broad.
+{28202}{28262}What does Vincent|see in you?
+{28266}{28302}Vincent's the best.
+{28306}{28377}That's what|he sees in me.
+{28381}{28447}We've just been together|about a year.
+{28451}{28532}Vincent made us|get a place together.
+{28536}{28590}You know how we met?
+{28594}{28649}My old boyfriend|last year got busted
+{28653}{28710}breaking into Vincent's|parents' house.
+{28714}{28773}We met|at the police station.
+{28777}{28831}You were bailing|your boyfriend out.
+{28835}{28877}No. I got|busted, too.
+{28881}{28926}I was driving|the car.
+{28930}{28962}See this?
+{28966}{29001}Look.
+{29050}{29083}Vincent's mother's.
+{29087}{29130}He gave that to you?
+{29134}{29181}Nope.|From the robbery.
+{29218}{29322}Vince says his mother|has one just like it.
+{29326}{29398}He's sweet.
+{29402}{29448}Vincent's real sweet.
+{29685}{29781}The problem with this one|is that it's made in Taiwan.
+{29785}{29863}You want something|for your kid to bounce in.
+{29867}{29898}What animal bounces?
+{29902}{29927}Kangaroo.
+{29931}{29971}It comes from Australia.
+{29975}{30007}This is|Australian made.
+{30011}{30055}It's twice|as expensive...
+{30059}{30127}but it's three times|better than Taiwan.
+{30131}{30163}I'll take 15 off.
+{30167}{30199}Yeah, okay.
+{30203}{30260}All right,|Mr and Mrs Randall...
+{30264}{30306}it's a good buy.
+{30310}{30366}Lou, could you|write them up?
+{30370}{30438}If you ever need anything,|Vincent, okay?
+{30442}{30474}Thanks.
+{30478}{30546}Mr Felson,|what can I do you for?
+{30550}{30582}Eddie is okay.
+{30586}{30654}In fact, just plain Ed|if you want.
+{30658}{30702}Ed. Yes, sir.
+{30706}{30752}Can we talk privately?
+{30814}{30882}There's a 9-ball tournament,|end of April.
+{30886}{30971}I think|we ought to go.
+{30975}{31021}We?
+{31025}{31072}Yeah. Me, you,|and Carmen.
+{31076}{31144}Yeah? That sounds|like a lot of fun.
+{31148}{31197}We ought to|leave tomorrow.
+{31201}{31265}Tomorrow.|Why not leave today?
+{31269}{31328}What is it|with this guy?
+{31332}{31371}If you're going to|take the plunge...
+{31375}{31434}give yourself|a fair shake.
+{31438}{31483}Don't go half-assed.
+{31487}{31612}Go on the road for six weeks.|Get some seasoning.
+{31616}{31666}Why don't you|ask Julian?
+{31670}{31711}Julian's known.|You're nobody.
+{31715}{31782}I get better bets|with you.
+{31786}{31819}If there's|some other way...
+{31823}{31904}that I can be|honest with you, tell me.
+{31908}{31966}This is my job, Eddie.
+{31970}{32023}You think so?
+{32027}{32079}That's funny.|I don't think so.
+{32083}{32130}I think|it's your problem.
+{32172}{32209}What is?
+{32213}{32282}Well, you're hooked|on Carmen, aren't you?
+{32315}{32348}Yeah.
+{32352}{32382}Crazy about her?
+{32435}{32494}You're getting|a little personal here.
+{32611}{32646}What?
+{32650}{32695}You're losing her,|kiddo.
+{32699}{32743}What do you mean?
+{32747}{32815}She don't get the allure|of this place.
+{32819}{32854}Hey, Vincent.
+{32858}{32883}Wait.
+{32887}{32945}Take a good look|at her.
+{32949}{32994}She's starting|to pack.
+{33067}{33113}You don't know her.
+{33117}{33195}I didn't know that broad|at that bar either.
+{33199}{33253}She's bored, Vincent.
+{33257}{33327}Are you listening|to what I'm telling you?
+{33331}{33379}What are you saying?
+{33383}{33448}You, me, her on the road.|Six weeks.
+{33452}{33521}She'll be a couple years|catching her breath.
+{33525}{33575}Vincent,|these people--
+{33579}{33619}Lou, I'm talking here.
+{33623}{33690}Do me a favour.|Take care of them.
+{33694}{33755}He's late|for his coffee break.
+{33759}{33823}Go on,|get back to work...
+{33826}{33881}but think|about it, okay?
+{33885}{33962}Take your time.|I'll give you five seconds.
+{33966}{34010}Five seconds.
+{34014}{34063}You know where|to find me...
+{34067}{34110}if you want to talk.
+{34114}{34184}Vincent.|Don't worry about it.
+{34487}{34551}{Y:i}lf I can hold you|tonight
+{34555}{34600}{Y:i}I might never let go...
+{34604}{34662}If anybody asks,|I'll be in the back.
+{34666}{34707}{Y:i}I might never let go
+{34711}{34763}{Y:i}lf I can hold you|tonight
+{34805}{34839}Come on in.
+{34951}{34986}Hey, Eddie.
+{35047}{35116}Uh... what we were|talking about yesterday...
+{35120}{35211}I just wanted to ask you|some questions about it.
+{35215}{35271}What happens?
+{35275}{35322}I mean, what happens?
+{35467}{35498}Damn.
+{35539}{35571}It's a Balabushka.
+{35575}{35610}It's beautiful.
+{35614}{35691}It makes the others|look like stickball bats.
+{35695}{35732}This yours?
+{35736}{35776}You want it?
+{35780}{35812}No.
+{35816}{35860}This isn't for me.
+{35864}{35932}I don't know|who this is for.
+{35936}{35979}No, this isn't for me.
+{35983}{36051}John Wayne would carry|something like this...
+{36055}{36111}if he played pool.
+{36115}{36171}Babe Ruth.
+{36175}{36208}No. I...
+{36259}{36330}No, I can't accept this.
+{36334}{36376}Go ahead, take it.
+{36451}{36494}You're pushing|pretty hard.
+{36498}{36530}You betcha.
+{36534}{36620}I've been thinking|about nothing else all day.
+{36711}{36779}I don't know|what to tell you, Eddie.
+{36783}{36823}It doesn't matter.
+{36827}{36871}Go outside.|Horse around with it.
+{36875}{36946}You don't like it,|bring it back.
+{37033}{37059}Eddie.
+{37063}{37118}Hey, Eddie.
+{37122}{37197}I was talking to Carmen|the other night...
+{37201}{37250}feeling her out.
+{37254}{37288}Oh, Willie.|Wait a minute.
+{37292}{37341}Sorry. Go ahead.
+{37345}{37440}I said I was talking to Carmen|the other night...
+{37444}{37473}feeling her out.
+{37477}{37522}I think|you're wrong, man.
+{37526}{37584}She's doing real good.
+{37588}{37640}Okay. I'm glad I'm wrong.
+{37644}{37678}Willie.
+{37740}{37784}No. I don't know.
+{37788}{37856}I can make it|in half an hour.
+{37860}{37886}Sure.
+{38268}{38312}Where's Carmen,|my girlfriend?
+{38316}{38372}She just went|in the bathroom.
+{38376}{38432}You know|what this is?
+{38436}{38492}Balabushka.
+{38496}{38528}Balabushka?
+{38532}{38588}Where'd you get|a Balabushka?
+{38592}{38648}Eddie Felson|gave it to me.
+{38652}{38696}Eddie gave you|a Balabushka?
+{38700}{38756}Yeah.
+{38760}{38804}You know|what that's worth?
+{38808}{38840}Yeah.
+{38844}{38910}That guy died|about 15 years ago.
+{38914}{38995}It must be|a collector's item.
+{38999}{39052}{Y:i}...Snake's in the garden
+{39056}{39100}{Y:i}Apple's on the tree
+{39104}{39163}{Y:i}All of this|looks easy
+{39167}{39231}{Y:i}None of this is free
+{39234}{39282}{Y:i}You might get lucky
+{39286}{39334}{Y:i}Got the will to win
+{39338}{39379}{Y:i}You need a little failure
+{39383}{39438}{Y:i}To thicken your skin
+{39442}{39498}{Y:i}Everybody's talking
+{39502}{39563}{Y:i}They promise you the moon
+{39567}{39616}{Y:i}It's made of paper
+{39620}{39679}{Y:i}And you find out|pretty soon
+{39683}{39772}{Y:i}Who owns this place?
+{39776}{39799}{Y:i}Who?
+{39803}{39882}{Y:i}Who owns this place?
+{39886}{39956}{Y:i}I'm talking to you...
+{39995}{40038}It's my word|against yours.
+{40042}{40098}I'm a rare book|expert.
+{40102}{40146}Have you seen|my girlfriend?
+{40150}{40183}She went out.
+{40187}{40215}Where?
+{40219}{40260}Hey, she's|your girlfriend.
+{40345}{40373}Hey.
+{40377}{40408}Everything okay?
+{40412}{40444}Yeah.
+{40448}{40492}Where'd you go?
+{40496}{40540}I went out|for cigs.
+{40544}{40588}They sell cigarettes|right here.
+{40592}{40661}So I got them|across the street.
+{40665}{40733}You needed|some fresh air, right?
+{40737}{40768}What's your problem?
+{40772}{40852}No problem.|There's no problem.
+{40856}{40907}I'm glad to hear it.
+{40911}{40968}I just didn't know|where you went.
+{40972}{41044}I'm going to sit down now.|Is that okay?
+{41048}{41088}Yeah.
+{41092}{41143}I might go to the bathroom|in about half an hour. Is that okay?
+{41147}{41232}I'll be sure|and tell you when.
+{41236}{41262}Hey, look.
+{41266}{41335}I just didn't know|where you went.
+{41339}{41430}Let's not make a federal production|out of this, okay?
+{41434}{41466}Okay!
+{41470}{41504}Okay.
+{41603}{41679}It's a Balabushka.|Eddie gave it to me.
+{41683}{41716}Great.
+{42100}{42145}{Y:i}Who owns this place?
+{42740}{42796}Excuse me. Eddie?
+{42800}{42845}I've been thinking|about it.
+{42849}{42893}Let's do it, okay?
+{42897}{42927}Great.
+{43226}{43282}I wonder|what's upstairs.
+{43286}{43311}Why?
+{43315}{43373}Well, there might|be something soft...
+{43377}{43445}for you|to lean against...
+{43449}{43520}so I don't|crush your skirt.
+{43713}{43788}In the Bahamas,|do they tango or rumba?
+{43792}{43829}Samba, I think.
+{43904}{43972}How's that Old Mcdonnell|working out?
+{43976}{44020}You're drinking|it now.
+{44024}{44068}You're serious.
+{44072}{44160}- It's good stuff.|- It's very good stuff.
+{44164}{44228}Yo, Eddie,|my man, hey.
+{44232}{44260}Why don't you|look in the mirror...
+{44264}{44308}before you leave|the john?
+{44312}{44356}I hate that shit.
+{44384}{44428}Better than|that shit.
+{44432}{44476}Will you be|around Monday?
+{44480}{44536}A guy's set up|in Camden.
+{44540}{44621}No. I'll be out of|town for a few weeks.
+{44625}{44663}Bullshit.
+{44667}{44726}What, you're taking that guy|on the road? What's his name?
+{44730}{44763}It's none|of your business.
+{44767}{44829}He's a chump.|He beat me one night.
+{44833}{44877}I'll put the 9-ball|up both your asses.
+{44881}{44932}Are you serious?|Taking him on the road?
+{44936}{44988}When's the last time|you did the road, 1960?
+{44992}{45076}They didn't even|have cars then.
+{45080}{45192}What? Come on?|You bangin' his girlfriend?
+{45196}{45273}Right? You can tell me.
+{45277}{45336}Jeez, you are|the best, Julian.
+{45340}{45382}Let me play him|tonight.
+{45386}{45455}Winner gets|in the car with you.
+{45459}{45490}You're the best.
+{45494}{45562}You're not the only|stake horse around.
+{45566}{45611}See you|in Atlantic City.
+{45615}{45666}Don't look|too hard for me.
+{45734}{45778}We're going|to the Bahamas.
+{45782}{45826}I just didn't say when.
+{45830}{45898}Appreciate hearing about it|from that dope fiend.
+{45902}{45959}I didn't want|to tell anybody.
+{45963}{46006}Makes me feel great,|Eddie.
+{46010}{46067}That guy sucks.|So do you!
+{46071}{46126}I'm wrong,|but let me do it my way!
+{46130}{46171}Do it any way|you want.
+{46175}{46245}I want to go|on the road.
+{46249}{46294}Your things|at my apartment...
+{46298}{46366}you'll find in a suitcase|out front, okay?
+{46370}{46404}Hey, wait a--
+{46503}{46536}I'm sorry.
+{46580}{46644}I cover all expenses--|food, room, entry fees.
+{46647}{46716}For that, I get 60%|of your winnings.
+{46720}{46785}I also take the losses|if you lose.
+{46789}{46869}For that, I get 60%|of what you win.
+{46873}{46929}60%? What are you,|a slumlord?
+{46933}{46989}Honey, you find|a newcomer...
+{46993}{47073}with a better deal,|come to me, we talk.
+{47077}{47133}Don't worry.|I'm not going to lose often.
+{47137}{47205}Yes, you will.|That's what I'll teach you.
+{47209}{47268}Sometimes|if you lose, you win.
+{47296}{47337}So who's|the heaviest guy?
+{47341}{47385}I'm the heaviest guy,|right, Eddie?
+{47389}{47445}It doesn't make sense.|It goes in streaks.
+{47449}{47518}The balls roll funny|for everybody, kiddo.
+{47522}{47565}There's this guy--|Grady Seasons.
+{47569}{47626}He's making the most|on paper...
+{47630}{47673}but that doesn't|mean anything.
+{47677}{47733}The money's|in the practise room.
+{47737}{47793}That's where|you get good games.
+{47797}{47865}You can get wiped out|at the tournament...
+{47869}{47914}hang around|the practise room...
+{47918}{47986}and make more money than|the tournament winner.
+{47990}{48033}Hear that?|The practise room.
+{48037}{48081}Hey, watch the paint.
+{48085}{48147}What? Oh.
+{48151}{48202}Is that metal|on your jacket?
+{48206}{48249}- Sorry.|- Shit.
+{48600}{48632}I'm starved.
+{48636}{48692}Rub-a-dub,|here's the grub.
+{48696}{48740}My pancakes are burnt.
+{48744}{48776}Wait a minute.
+{48780}{48872}We ordered four on,|two up.
+{48876}{48907}I don't|want sausage.
+{48911}{48956}Sorry.|It's the wrong order.
+{48960}{49004}That's a dead|giveaway--
+{49008}{49046}Four on two.
+{49050}{49087}Oh. Egg talk.
+{49091}{49135}She was|the killer waitress...
+{49139}{49171}at the Acropolis.
+{49175}{49243}She did them a favour|and quit. Ow.
+{49247}{49338}You think he's the only one|who has to work?
+{49410}{49462}How come you don't|play pool any more?
+{49466}{49501}I quit.
+{49551}{49595}Actually,|somebody retired me.
+{49599}{49653}Sometimes you meet|the wrong people.
+{49657}{49725}That was a long|time ago, back east.
+{49729}{49771}It's dead and buried.
+{49775}{49833}I won my share|of medals.
+{49837}{49917}Don't you ever feel|like picking it up again?
+{49921}{49988}I mean, you're always|around those pool halls.
+{49992}{50061}I'm too old.|My wheels are shot.
+{50065}{50110}It's|a young man's game.
+{50114}{50157}Besides,|there's drugs now.
+{50161}{50217}Kids are playing|on coke, speed.
+{50221}{50289}When I was younger,|it was booze.
+{50293}{50336}Somehow it was|more human.
+{50340}{50370}Booze, huh?
+{50374}{50408}Booze. Yeah.
+{50412}{50471}Wine. It goes back|to the Bible.
+{50475}{50523}The Bible never mentions|amphetamines.
+{50527}{50553}You religious, Eddie?
+{50557}{50640}Me? I get high|on the man upstairs.
+{50644}{50687}Isn't there|a masters tournament?
+{50691}{50759}I seen this on television--|Them old golfers...
+{50763}{50807}Iike an old-timers|tournament.
+{50811}{50933}If you're too old to cut the mustard,|you can lick the jar.
+{50937}{50992}Nobody ever asked me|for a refund, honey.
+{50996}{51027}Not yet.
+{51211}{51256}We're just talking|around things here.
+{51260}{51328}It ain't about pool,|sex, love.
+{51332}{51364}It's about money.
+{51368}{51437}The best is the guy|with the most...
+{51441}{51484}in all walks|of life.
+{51488}{51556}Are you the best|liquor salesman?
+{51560}{51609}You betcha.
+{52016}{52084}What a way to get|your feet wet.
+{52088}{52132}This place|is a classic.
+{52136}{52180}Put that|in the trunk.
+{52184}{52229}What will|I play with?
+{52233}{52276}A house cue.
+{52280}{52363}Go in with that,|nobody will come near you.
+{52591}{52660}I can't believe it.|I got goose bumps.
+{52664}{52696}I love it.
+{52700}{52744}You watch for a while.
+{52748}{52805}I got to see this guy.
+{53294}{53355}I can't wait|to see what's next.
+{53359}{53427}Good thing I didn't bring|the Balabushka, huh?
+{53431}{53535}60%? Are we going to|divvy this up in the car?
+{53539}{53573}Enough!
+{53935}{53979}All right. Yes.
+{53983}{54028}Had enough, junior?
+{54102}{54136}Hold on.
+{54269}{54313}What are you doing,|Vincent?
+{54317}{54383}Beat him,|eat him, and go.
+{54387}{54428}I can't take|his money.
+{54432}{54479}There's a hole|in his throat.
+{54483}{54528}So what?
+{54532}{54573}The guy's|breaking my heart.
+{54577}{54633}Look. He's on|his last legs.
+{54637}{54708}It's only 60 bucks.|It's no big deal.
+{54712}{54756}No big deal?
+{54853}{54900}You want me|to quit?
+{54904}{54993}Yeah, if you're going to|keep dumping like this.
+{55033}{55100}Unless... show me.
+{55104}{55149}Make it|a real performance.
+{55153}{55200}Dump like|a professional.
+{55204}{55260}Like|a professional.
+{55407}{55474}Okay, chief,|play you for 300.
+{55596}{55628}Get the car.
+{55632}{55664}What for?
+{55668}{55712}Just bring it|around front.
+{55716}{55760}Head it that way.
+{55764}{55808}That's the wrong|way, Eddie.
+{55812}{55868}Just do|what I tell you.
+{55872}{55906}Yeah, right.
+{55992}{56072}Easy shot. I miss this, I'm a chump.
+{56076}{56122}Easy. Straight in.
+{56172}{56216}Tough one's the 4,|though.
+{56220}{56266}I don't know.
+{56304}{56350}Oh, my God, l--
+{56664}{56720}Oh, my God.|Do you believe--
+{56724}{56756}Don't even bother.
+{56760}{56804}I just can't|hit nothing.
+{56808}{56864}That's it, kid.|Where's the money?
+{56868}{56912}Yeah, I know.|That's it.
+{56916}{56972}Uh... Eddie?
+{56976}{57020}Eddie!
+{57024}{57076}Where's the money?
+{57080}{57128}Eddie's got|the money.
+{57132}{57164}Where'd they go?
+{57168}{57192}They left.
+{57196}{57248}Relax. Take it easy.
+{57252}{57308}What's the matter|with you guys?
+{57312}{57380}Get your hands off.|I'll get your money.
+{57384}{57424}What are you doing?|Relax.
+{57428}{57490}Take it easy!|Take it easy!
+{57660}{57706}Hey! Enough!
+{57792}{57831}I'm his father.
+{57835}{57864}You little bastard!
+{57868}{57938}I tell you|when to play.
+{57942}{57978}Ease off! Family.
+{57982}{58043}Get out of here,|yo-yo.
+{58124}{58172}You punk,|I hope your mother...
+{58176}{58234}kicks the shit|out of you.
+{58296}{58340}Okay, go, go, go, go!
+{58467}{58494}Where to?
+{58498}{58542}Just take|the parkway south.
+{58546}{58579}You never--
+{58583}{58650}You never ease off|on somebody like that...
+{58654}{58699}not when|there's money involved.
+{58703}{58758}That's the problem|with mercy, kid.
+{58762}{58809}It just ain't|professional.
+{58813}{58870}Let me look|at your face.
+{58933}{58961}Ah, you'll live.
+{58965}{58998}You'll live,|right?
+{59002}{59085}Get out of my face,|will you? Jeez.
+{59207}{59238}My father.
+{59242}{59291}Saved your ass.
+{59295}{59370}Carmen, what's to be|learned from this?
+{59374}{59431}Nice guys|finish last.
+{59435}{59510}Is that original,|or did you make that up?
+{59514}{59587}Vincent, you're so sexy|with that bloody lip.
+{59591}{59616}Shut up.
+{59663}{59719}You guys want me|to drive?
+{59723}{59811}No. I'm good.
+{59815}{59919}- That slime ass son-of-a-bitch.|- What?
+{59923}{59966}That guy with the hole--
+{59970}{60010}Stick a pool cue|down his throat.
+{60014}{60083}Go back there with a fucking cannon|and blow their asses away.
+{60087}{60128}Vincent,|that's gross.
+{60132}{60171}Next time, kid.
+{60430}{60474}One of you guys know|where the Triant Motel is?
+{60478}{60539}The what?
+{60543}{60567}Triant Motel.
+{60571}{60642}Yeah, go left on Aurora...
+{60646}{60685}and right on Seneca.
+{60689}{60718}Chalkies still around?
+{60722}{60776}- Chalkies?|- Yeah, it's a pool hall.
+{60780}{60850}I know.|It's still around.
+{60854}{60919}What, it's supposed|to move somewhere?
+{60923}{60968}Some things|never change, huh?
+{60972}{61025}Man, I wouldn't|bet on it.
+{61131}{61163}Eddie, enter.
+{61167}{61222}Hey, good morning.
+{61226}{61337}Come on,|let's get going, guys.
+{61341}{61448}I'm ordering room service.|You want anything?
+{61452}{61495}Food-- you hungry?
+{61499}{61589}I hate the weather.
+{61593}{61646}Can't get room service|in a motel.
+{61650}{61691}Come on,|let's check out Chalkies.
+{61695}{61738}Tell your girlfriend|to get going.
+{61742}{61795}Meet you in the lobby.
+{61799}{61882}What about food?|I'm starved.
+{61886}{61973}- Vincent?|- Yeah?
+{61977}{62044}Don't change the shirt.|It's a nice touch.
+{62048}{62092}And leave|the cue stick.
+{62096}{62135}What's the use|of having it?
+{62194}{62271}This was a nice bad|neighbourhood. Now look.
+{62275}{62358}Will they all|be like this?
+{62362}{62411}On your pool hall scale,|what do you rate this?
+{62415}{62448}10.
+{62452}{62529}At least|it's got tables.
+{62619}{62663}Squeeze me in?
+{62667}{62721}Table number seven|for Fast Eddie.
+{62725}{62819}Yeah, see, you don't|recognize Orvis...
+{62823}{62868}from way back when.
+{62872}{62946}Well, son-of-a-bitch.|What the hell you doin' here?
+{62950}{63011}Now you're starting|to remember.
+{63015}{63098}- How long you want it for?|- Couple hours.
+{63102}{63159}The last time I saw you, you|were sweeping up at Mcgeer's.
+{63163}{63221}Sweeping up at Mcgeer's.|That's right.
+{63225}{63281}Then I started working|here for Chalkie...
+{63285}{63375}till he got scared|of the bad element.
+{63379}{63443}Since then I've been|running Chalkies.
+{63447}{63504}What can I do for you?|Looking for action?
+{63508}{63552}Usually I steer|for 20%...
+{63556}{63597}but for you,|it's 10.
+{63601}{63658}My friend here|wants a game.
+{63662}{63710}How you doin',|Orvis?
+{63786}{63851}Wild place|you got here.
+{63926}{63970}Eddie, are you|stake horsing?
+{63974}{64041}Know who you got|stake horsing for you?
+{64045}{64089}This here's|fast Eddie Felson.
+{64093}{64188}Who the hell are you--|the end of the world?
+{64192}{64245}Ease it up,|will you, Orvis?
+{64249}{64298}Him I'll steer for 15...
+{64302}{64328}since he's staked...
+{64332}{64393}by Fast Eddie|the stake horse.
+{64397}{64437}Playing 9-ball|or straight?
+{64441}{64502}I'll set it up|for you.
+{64506}{64571}The table will|cost you $12.
+{64824}{64904}{Y:i}It's in the way|that you use it...
+{64908}{64977}Maybe you should|go back to the motel.
+{64981}{65012}Why?
+{65016}{65060}There are|rape artists here.
+{65064}{65108}Maybe you|should go back...
+{65112}{65156}pretty boy|like you.
+{65160}{65216}Ooh, you're such|a cute boy.
+{65220}{65241}Carmen.
+{65245}{65301}- Vincent.|- Not here.
+{65305}{65367}Hey, let me give you|the scoop.
+{65371}{65436}See the guy with the|tie pin in his nose?
+{65440}{65474}That's Moselle.
+{65478}{65516}Him you|stay away from.
+{65520}{65587}- No shit.|- Grow up.
+{65591}{65647}He's the main stick|around here.
+{65651}{65683}You beat him...
+{65687}{65740}it scares away|that gentleman.
+{65744}{65795}- Who's he?|- Earl.
+{65799}{65864}He comes in with $6,000|in his pocket.
+{65868}{65892}Jesus.
+{65896}{65935}Yeah.|Runs the numbers.
+{65939}{65995}Orvis says he|don't mind losing.
+{65999}{66060}He just don't like|giving it away.
+{66064}{66095}You beat Moselle...
+{66099}{66148}old Earl there|loses interest.
+{66152}{66191}What happens now?
+{66195}{66240}Nothing|for a little while.
+{66244}{66312}We'll play|over here.
+{66316}{66396}He'll be watching you,|and he'll come to you.
+{66400}{66455}Who am I|going to play?
+{66459}{66480}Me.
+{66484}{66515}You? Okay.
+{66519}{66576}I want her|to go back.
+{66580}{66604}Oh, Christ.
+{66608}{66672}This place is|a damn bird land.
+{66675}{66710}I've dated|worse guys.
+{66714}{66768}Watch|your hands.
+{66772}{66806}Okay, okay, okay.
+{66810}{66889}Okay, that's enough.|That's enough. Okay.
+{66893}{66920}That's enough.
+{66924}{67001}Have Orvis call a cab|back to the hotel.
+{67005}{67051}I don't want--|goddamn it.
+{67112}{67152}Jesus Christ.
+{67244}{67313}No thunderbolt breaks,|no runned over 4-balls.
+{67317}{67363}Just take it easy.
+{67448}{67528}She never went out|with any guys like these.
+{67532}{67576}Vincent, will you|pay attention?
+{67580}{67636}That guy Earl|is paying attention.
+{67640}{67684}Are you listening|to me?
+{67688}{67723}Yeah, yeah.
+{67844}{67924}Want me to break,|or do you want to?
+{67928}{67963}No. I'll break.
+{68060}{68128}What did they do,|saw the legs off?
+{68132}{68200}It's a table for dwarves|or something.
+{68204}{68248}Oh, come on,|Fast Eddie.
+{68252}{68320}Let's see some|heavy legend action here.
+{68324}{68395}There's got to be|305 balls down there.
+{68516}{68560}Not bad.|This ain't pool.
+{68564}{68607}This is for bangers.
+{68611}{68656}Straight pool|is pool.
+{68660}{68703}This is like|handball...
+{68707}{68752}or cribbage|or something.
+{68756}{68847}Straight pool you got|to be a real surgeon...
+{68851}{68895}to get it--
+{68899}{68944}You know,|it's all finesse.
+{68948}{69016}Now everything is 9-ball|because it's fast...
+{69020}{69063}good for TV...
+{69067}{69135}good for a lot|of break shots.
+{69139}{69183}Oh, well.|What the hell.
+{69187}{69234}Checkers sells more|than chess.
+{69312}{69340}Pretty damn good.
+{69344}{69423}Not bad for a blind man.|Rack 'em up.
+{69427}{69510}Yes, sir. Rack 'em up|for Mr Fast Eddie.
+{69514}{69556}I haven't played|serious pool...
+{69560}{69603}since before|you were born...
+{69607}{69675}and right away,|I'm laying them to waste.
+{69679}{69740}Watch this.|9 on the break.
+{69778}{69801}Ooh!
+{69835}{69902}- Damn!|- All yours.
+{69906}{69948}That was phenomenal.
+{70021}{70063}I'd like to play|that big dude Moselle.
+{70065}{70132}I bet he ain't|that good.
+{70136}{70160}Yeah?
+{70164}{70246}I don't know, Eddie.|Maybe you're right.
+{70250}{70355}Maybe this game|is just for bangers.
+{70616}{70676}Cool it.
+{70680}{70779}But the thing is...
+{70783}{70850}even if it is just for bangers,|everybody's doing it.
+{70909}{71005}If everybody's|doing it...
+{71009}{71052}There's a lot|of guys doing it.
+{71120}{71194}A lot of guys|doing it...
+{71433}{71512}but only one guy|can be the best.
+{71672}{71719}Eddie, hey!
+{71745}{71779}Hey!
+{71803}{71841}Eddie.
+{71888}{71945}Eddie! Eddie, what--
+{71949}{71992}Where you goin'?
+{71996}{72029}All right, hey.
+{72033}{72077}Those were|easy shots, man.
+{72081}{72113}Come on.
+{72117}{72185}I'm a smart ass.|I was showing off.
+{72189}{72232}I'm sorry.|All right?
+{72236}{72292}This is turning|into a waste...
+{72296}{72343}of my time and money.
+{72432}{72484}Where are you going?
+{72488}{72545}You're going to|leave me here?
+{72549}{72571}What--
+{72608}{72655}I don't believe|this guy!
+{72948}{73010}Child care.
+{73052}{73095}Eddie.
+{73382}{73448}- Vincent back?|- Yeah, but he's out.
+{73452}{73527}- What do you mean, out?|- Not in the room.
+{73531}{73597}- Mind getting dressed?|- Why? Are we going somewhere?
+{73626}{73688}What if I was|somebody else?
+{73692}{73739}- Like who?|- That's not the point.
+{73743}{73788}I'm not naked|or anything.
+{73792}{73848}Work with me,|not against me.
+{73852}{73921}Don't talk to Vincent|like you did at Chalkies.
+{73925}{74028}Gets him upset.|Use that thing right.
+{74032}{74084}Use what thing?
+{74230}{74261}Come on.
+{74265}{74308}What are you doing?
+{74312}{74345}Me and you.
+{74349}{74405}Quick one|before Vincent gets back.
+{74409}{74442}All right? Hey.
+{74446}{74513}I'm not your daddy|or your boyfriend...
+{74517}{74573}so don't play games|with me.
+{74577}{74609}I'm your partner.
+{74613}{74658}You don't flirt|with me.
+{74662}{74693}Don't flatter|yourself.
+{74697}{74776}Don't waste my time|with bullshit, Carmen.
+{75070}{75114}We got|a racehorse here...
+{75118}{75150}a thoroughbred.
+{75154}{75258}You make him feel good,|I teach him how to run.
+{75262}{75309}We're businesspeople.
+{75359}{75393}Got you.
+{75539}{75596}Where's the Balabushka?
+{75600}{75630}Vincent took it.
+{75634}{75676}You said he was out.
+{75680}{75723}He was in and out.
+{75727}{75756}He took|the cue stick?
+{75760}{75789}Yes.
+{75793}{75818}You let him?
+{75822}{75877}Well, so what?
+{75935}{76020}Shit.
+{76024}{76076}Oh, man, I'm sorry.
+{76080}{76157}Jesus. Goddamn.|Child care!
+{76615}{76648}Shit.
+{76715}{76799}Good game.|Good game.
+{76902}{76951}What you got in there?
+{76955}{77016}In here?
+{77160}{77211}Doom.
+{77284}{77336}Come on, boy,|let's play.
+{77340}{77428}Yeah, let's play.|We'll have a lot of fun.
+{77472}{77552}{Y:i}Ow-ooo|werewolves of London
+{77556}{77620}{Y:i}Ow-ooo
+{77624}{77648}Hey!
+{78089}{78202}{Y:i}He's the hairy-handed gent|who ran amuck in Kent
+{78206}{78309}{Y:i}Lately he's been overheard|in Mayfair
+{78313}{78371}{Y:i}You better|stay away from him
+{78375}{78440}{Y:i}He'll rip|your lungs out, Jim
+{78444}{78496}{Y:i}Ha! I'd like to meet|his tailor
+{78556}{78635}{Y:i}Ow-ooo|werewolves of London
+{78666}{78704}{Y:i}Ow-ooo
+{78780}{78828}{Y:i}Ow-ooo
+{78832}{78893}{Y:i}Werewolves of London
+{78897}{78995}{Y:i}Ow-ooo
+{78999}{79069}{Y:i}Well, I saw Lon Chaney|walkin' with the Queen
+{79108}{79165}{Y:i}Doin' the werewolves|of London
+{79230}{79298}{Y:i}I saw Lon Chaney, Jr.|walkin' with the Queen
+{79302}{79333}Hoo!
+{79337}{79389}{Y:i}Doin' the werewolves|of London
+{79445}{79501}{Y:i}I saw a werewolf|drinking a pina colada
+{79505}{79533}{Y:i}At Trader Vic's
+{79574}{79613}{Y:i}His hair was perfect
+{79673}{79785}{Y:i}Ow-ooo
+{79789}{79847}{Y:i}Werewolves of London
+{79851}{79885}Huh!
+{79889}{79965}{Y:i}Ow-ooo
+{79969}{80001}Ow!
+{80401}{80425}Woo!
+{80429}{80485}Not bad, my man,|not bad.
+{80489}{80545}When you leaving town?|Now, right?
+{80549}{80617}You don't want|to play me again?
+{80621}{80667}Don't kill me.
+{80833}{80876}That boy's hot.
+{81030}{81083}Did you|see me tonight?
+{81087}{81177}Hey!|What?
+{81181}{81231}I m--|I made money.
+{81235}{81264}You lost money.
+{81268}{81327}The town|is dead for you.
+{81331}{81417}Do I not speak your native language?|What is the matter?
+{81421}{81487}You give me this stick|and tell me to lay low.
+{81491}{81549}The goddamn thing, I lay it down|and it jumps up at me!
+{81553}{81592}You don't deserve|this stick.
+{81625}{81669}I don't deserve this?
+{81709}{81753}You don't deserve|this stick.
+{81757}{81825}Alls you do|is you sit in there.
+{81829}{81885}You talk.|You tell me things.
+{81889}{81957}I played.|I'm a fuckin' pool player.
+{82009}{82041}You know something?
+{82045}{82077}I'm a fuckin' animal!
+{82081}{82121}Ow-ooo!
+{82125}{82153}Animal!
+{82273}{82317}Vincent,|get in the car.
+{82321}{82353}This is embarrassing.
+{82357}{82401}You're acting|like some girl...
+{82405}{82473}who got felt up|in a drive-in.
+{82477}{82521}It looks terrible.
+{82525}{82557}Tough shit.
+{82561}{82630}How much did you|take off of Moselle?
+{82634}{82666}I heard 100.
+{82670}{82702}150.
+{82706}{82738}150?
+{82742}{82773}Yeah. 150.
+{82777}{82846}Walk into a shoe store|with 150 bucks...
+{82850}{82892}you leave with one shoe.
+{82896}{82941}We were working|on 5,000.
+{82945}{82989}Come on.
+{82993}{83041}Get in. It's cold.
+{83137}{83169}Vincent.
+{83285}{83390}You got me|talking to myself.
+{83394}{83433}Half of me says|I got a hold of...
+{83437}{83472}the best thing|I ever seen.
+{83476}{83564}Half of me says|it ain't worth it.
+{83568}{83623}Either I don't|teach you right...
+{83627}{83657}or you don't listen...
+{83661}{83749}or you listen,|but you don't hear.
+{83753}{83797}What was|that voodoo stuff?
+{83801}{83836}That wasn't pool.|That was a circus.
+{83840}{83886}You dropped your pants.
+{83890}{83947}You want to get down?|Good.
+{83951}{83995}You and Gypsy Rose Lee.
+{83999}{84067}I can always|go back to whiskey.
+{84071}{84127}It's been|very good to me.
+{84131}{84199}You're sitting in it,|and I'm wearing it...
+{84203}{84271}but it's tired.
+{84275}{84342}You know, it's just|kind of run on.
+{84346}{84426}You appear on the scene,|I'm jumping again.
+{84430}{84521}You remind me that--|that money won...
+{84525}{84593}is twice as sweet|as money earned.
+{84597}{84690}25 years ago, I had|the screws put on me.
+{84694}{84738}It was over for me...
+{84742}{84785}before it really|got started.
+{84789}{84833}But I'm hungry again...
+{84837}{84912}and you bled that|back into me.
+{84916}{85001}You got to have|two things to win.
+{85005}{85050}You got to have brains...
+{85054}{85109}and you got to|have balls.
+{85113}{85169}You've got|too much of one...
+{85173}{85231}and not enough|of the other.
+{85294}{85350}I mean,|I don't know.
+{85354}{85422}Tell me what|you want to do.
+{85426}{85473}Give me a clue.
+{85546}{85579}Uh...
+{85690}{85722}Um, yeah.
+{85726}{85769}I'll try.
+{85773}{85817}I'll really try,|you know?
+{85821}{85865}Let's go for it.
+{85905}{85961}You know, Eddie,|I mean, uh...
+{85965}{86033}it's just tough|for me to lay down.
+{86037}{86081}You know,|it's just, uh...
+{86085}{86153}I get in there,|and it's just tough.
+{86157}{86237}It's just, uh,|it's just tough to lay down...
+{86241}{86309}but i'll try. Okay?
+{86313}{86359}Tough to lay down,|huh?
+{86363}{86446}Well, roll over,|sweetheart.
+{86450}{86473}Give me.
+{86477}{86534}What?
+{86538}{86558}90 bucks.
+{86562}{86612}60% of 150|is 90 bucks.
+{86843}{86875}I wake you up?
+{86879}{86989}Well, do you|want to hang up?
+{86993}{87074}Are you still|pissed off at me?
+{87078}{87183}Well, if you were, uh,|I'd understand.
+{87258}{87290}I don't know.
+{87294}{87362}Uh, I'm having nightmares,|sweats, and everything.
+{87366}{87430}What kind of rent|are you paying?
+{87433}{87506}I said what kind of rent|do you pay?
+{87545}{87577}Well, listen.
+{87581}{87614}Ahem.
+{87618}{87661}After the Bahamas...
+{87665}{87746}maybe you could|move in with me...
+{87750}{87791}just for practise.
+{87845}{87889}What do you mean?
+{87893}{87973}No, nothing's going on.|What are you, a shrink?
+{87977}{88057}I miss you.|I say nice things to you.
+{88061}{88093}Fine.
+{88097}{88177}A couple of curve balls|every now and then.
+{88181}{88226}They're young.|They're kids.
+{88230}{88278}No, no. You're perfect.
+{88375}{88436}I love this. You should have seen|Eddie play last night.
+{88440}{88496}Terrific.
+{88500}{88574}Are we going to make|some money today?
+{88578}{88619}We'll make some money.|Definitely.
+{88623}{88666}I'm a wild man today.
+{88670}{88735}Did you ever hear|of a hustle...
+{88739}{88796}called two brothers|and a stranger?
+{88800}{88865}That's the guy|in the Bible...
+{88869}{88920}with the many-coloured|coats, right?
+{88924}{89004}I'm joking, you guys.|Come on.
+{89008}{89066}Did I get through|to you?
+{89070}{89125}I'll run it by you|another way.
+{89129}{89173}If you'd have|kicked ass...
+{89177}{89221}in any place|but Chalkies...
+{89225}{89293}Atlantic City would|be dead for us.
+{89297}{89353}The guys never|leave the street.
+{89357}{89419}Otherwise, it would|be all around.
+{89423}{89465}Let me tell you|something.
+{89469}{89537}Last night--|people never talked to me...
+{89541}{89573}Iike that before.
+{89577}{89622}You really|talked to me.
+{89626}{89693}I want you to know|I appreciate it.
+{89697}{89790}I want to thank you|for everything. Uh...
+{89956}{89989}Ahem.
+{90068}{90113}Don't worry, kid.|Don't worry.
+{90232}{90288}Two brothers|and a stranger.
+{90292}{90391}You got two guys|who go into a bar, see?
+{90495}{90538}Give me two hours.
+{90542}{90610}They'll be building me|a trophy wall.
+{90614}{90700}That kid gets to|have all the fun.
+{90768}{90800}Lock and load.
+{90965}{91008}All right.|Who's next here?
+{91012}{91108}You guys want to play?|No. Anybody? Want to play?
+{91112}{91143}Forget it.
+{91147}{91191}Spot you|the break here.
+{91195}{91264}Come on, I'll spot you|the break.
+{91268}{91322}I want|the 7-ball, too.
+{91326}{91406}How about the 8?|I'll give you the 8.
+{91410}{91479}What do you want?|You up? Let's go.
+{91615}{91671}Ha ha ha!
+{92078}{92110}Ha ha ha!
+{92114}{92171}Why don't you|keep it down?
+{92222}{92303}What did I say?|I coughed.
+{92492}{92531}Well, ya ga ga ga.
+{92535}{92596}Stop it, Eddie.
+{92600}{92650}Do you mind?
+{92654}{92706}Excuse me?
+{92710}{92762}It's a money game|here, guy.
+{93054}{93086}Ha ha!
+{93090}{93139}Big money game.
+{93143}{93207}Right. So take your hands|off the girl...
+{93211}{93257}and let us play, okay?
+{93261}{93347}What do you care|where I put my hand?
+{93351}{93415}Gramps, put your teeth in,|get your hands off your daughter|and pay attention.
+{93418}{93452}You might learn|something today.
+{93456}{93522}I'll change my teeth.|You change your goddamn diapers.
+{93526}{93571}Hey, we've got|a game going here.
+{93575}{93647}Really? What are you|playing for?
+{93651}{93693}What's it to you?
+{93697}{93737}What are you playing for?
+{93741}{93784}50.
+{93788}{93826}You want to win?
+{93886}{93955}I'll bet 500 bucks|on this guy here.
+{93959}{94006}Huh?
+{94010}{94050}I think|you're a choker.
+{94054}{94103}500 bucks|says you choke.
+{94107}{94159}Why don't you|take a walk?
+{94163}{94204}Anybody want to bet?
+{94208}{94294}What are you|starting trouble for?
+{94298}{94357}- I'm going to leave.|- Jerk.
+{94361}{94407}Want to go|for 1,000?
+{94576}{94618}I know. I mean...
+{94622}{94691}you'd think|he would have seen it.
+{94695}{94752}Oh, my God,|he got suckered...
+{94756}{94799}into that so easy.
+{94803}{94836}Unbelievable.|Unbelievable.
+{94840}{94895}What's up?|What do you think?
+{94899}{94943}Get in the car.
+{94947}{94991}Get away from me.
+{94995}{95043}What the hell|is the matter with you?
+{95047}{95077}Did you have|a good time?
+{95081}{95123}I'm disappointed,|frankly.
+{95127}{95198}Frankly, your ass!|I seen you.
+{95202}{95223}Don't give me that.
+{95227}{95293}Seen what?
+{95297}{95358}Screw this.|I don't need this. I'm gone.
+{95362}{95420}I'm going home.|Come on.
+{95424}{95456}- The hell you are.|- The hell I am?
+{95460}{95540}You're going home|alone, man.
+{95544}{95598}Is it you|and Eddie now?
+{95602}{95629}Getting felt up|by Eddie?
+{95633}{95662}Come on.
+{95666}{95747}You go in that place,|you play your part.
+{95751}{95820}I put my hands on her.|It's acting.
+{95824}{95875}Your hands were|all over her!
+{95879}{95912}It's acting!
+{95916}{95948}Hey, look, Vincent...
+{95952}{95996}when you go|into movies...
+{96000}{96045}and you see|people kissing...
+{96049}{96117}do you think|they go home together?
+{96121}{96153}They're professionals.
+{96157}{96201}We're trying|to be professionals.
+{96444}{96526}Okay, you guys,|it was just a little rough.
+{96530}{96598}I ain't used|to that, Carmen.
+{96604}{96649}I don't know|about this.
+{96653}{96697}Vincent the kid, huh?
+{96701}{96781}You're going to be|one of the greats, kiddo.
+{96785}{96872}I got a good feeling|about this.
+{97037}{97119}{Y:i}You say it's black,|and you know it's white
+{97123}{97200}{Y:i}You say it's day|when you know it's night
+{97204}{97271}{Y:i}You say it's good,|and you know it's mean
+{97275}{97353}{Y:i}It's the finest music|that I ever seen
+{97357}{97434}{Y:i}Don't tell me nothin'
+{97438}{97520}{Y:i}Don't you tell me nothin'
+{97524}{97576}{Y:i}Don't tell me nothin'
+{97580}{97697}{Y:i}I can see that rock 'n' roll|is good for me
+{98048}{98129}{Y:i}You say it's a dog|when you know it's a cat
+{98133}{98212}{Y:i}You say it's a mouse|when you know it's a rat
+{98216}{98292}{Y:i}You say it's meat,|and you know it's bread
+{98296}{98368}{Y:i}You tell me it's gold|when it's a hunk of lead
+{98372}{98430}{Y:i}No, don't you tell me nothin'
+{98434}{98536}{Y:i}Oh, don't you tell me nothin'
+{98540}{98596}{Y:i}Don't you tell me nothin'
+{98600}{98711}{Y:i}I can see that rock 'n' roll|is good for me
+{98715}{98764}{Y:i}Don't you tell me nothin'
+{98800}{98847}{Y:i}Don't you tell me nothin'
+{99007}{99054}Ha ha ha!
+{99221}{99298}{Y:i}You say it's right,|and you know it's wrong
+{99302}{99382}{Y:i}You say it's short,|and you know it's long
+{99386}{99472}{Y:i}You say it's low|when you know it's high
+{99476}{99559}{Y:i}Tell me the truth|and don't tell no lie
+{99563}{99631}{Y:i}Don't tell me nothin'
+{99635}{99688}{Y:i}Don't you tell me nothin'
+{99692}{99728}Play another one?
+{99732}{99766}{Y:i}Don't you tell me nothin'
+{99770}{99886}{Y:i}I can see that rock 'n' roll|is good for me
+{99890}{99920}Are you sure...
+{99924}{99990}You don't want|to play again?
+{99994}{100058}Woo! Woo! Woo!
+{100062}{100094}Woo! Woo! Woo!
+{100098}{100145}Woo! Woo!
+{100149}{100172}{Y:i}Don't
+{100296}{100328}Hmm.
+{100332}{100388}Do you smell|what I smell?
+{100392}{100428}Smoke?
+{100432}{100468}Money.
+{100504}{100569}Let's take|a stroll around.
+{100615}{100690}{Y:i}A starless black sky|revealed
+{100694}{100783}{Y:i}Somewhere in America
+{100827}{100989}{Y:i}I can feel the tears,|all lost and alone
+{101059}{101127}{Y:i}And I feel...
+{101300}{101333}Hey.
+{101337}{101436}Check out that guy|that's playing back there.
+{101440}{101472}That guy?
+{101476}{101533}Yeah. This is|a golden opportunity.
+{101537}{101559}You know|who that is?
+{101563}{101598}That's Grady Seasons...
+{101602}{101655}the best money player|in the world.
+{101659}{101740}That's Grady Seasons?|You want me to play him.
+{101744}{101775}You bet.
+{101779}{101836}And you are|going to dump.
+{101840}{101919}You are going to|lose something fierce.
+{101923}{101967}You'll ask for the spot|and the break.
+{101971}{102041}It'll be humiliating.|This is beautiful.
+{102045}{102113}What do you mean, dump?
+{102117}{102187}If you lose bad now|to this guy...
+{102191}{102258}you'll be a super nobody|in Atlantic City...
+{102262}{102304}and the odds on you|will drop to nothing.
+{102308}{102378}- See? She learns.|- Let me ask you.
+{102382}{102438}These guys hustle,|and they win.
+{102442}{102498}How come I always|got to play the jerk?
+{102502}{102548}Why can't we hustle|where I win?
+{102552}{102626}Because|there's something...
+{102630}{102675}at the end of this.
+{102679}{102734}I wouldn't|have you do it...
+{102738}{102782}unless the payoff|was phenomenal.
+{102786}{102855}Look, do whatever you want to do.|Do whatever you want.
+{102870}{102915}I'll play.|I ask a question, he panics.
+{103510}{103566}It's like a nightmare,|isn't it?
+{103666}{103731}It just keeps getting|worse and worse...
+{103735}{103787}Doesn't it?
+{103951}{104022}{Y:i}Are you going to|fall for this?
+{104067}{104132}{Y:i}We're gonna pay|hell for this
+{104191}{104235}{Y:i}And now we can|move through it
+{104239}{104296}Oh. The impossible dream.
+{104300}{104420}{Y:i}Let ourselves|in for it...
+{104945}{104970}Don't choke now.
+{104974}{105062}It's not|that hard a shot.
+{105066}{105134}Did you just say,|"don't choke now"?
+{105138}{105170}You heard me.
+{105174}{105256}Yeah. Yeah,|I heard you.
+{105260}{105375}{Y:i}Let ourselves in for it
+{105460}{105510}Oh!
+{105514}{105566}{Y:i}Let yourself in
+{105627}{105697}{Y:i}Any way that you figure it
+{105701}{105759}{Y:i}It's down here|at our fingertips
+{105763}{105810}{Y:i}Back again, again...
+{106052}{106087}Hey, Grady.
+{106091}{106155}Up your ass with the spot,|okay with you?
+{106159}{106212}Fine with me.
+{108192}{108283}How you doing?|Hmm?
+{108287}{108347}Carmen, I'm playing|here now.
+{108351}{108406}I know.
+{108410}{108442}Vincent,|you win one more game...
+{108446}{108504}you're gonna be humping|your fist for a long time.
+{108508}{108632}You got that,|Vincent?
+{108908}{108996}What are you doing,|meditating?
+{109667}{109700}Yeah?
+{109886}{109918}Yeah?
+{109983}{110027}Can I have|the Balabushka?
+{110031}{110074}Yeah.
+{110114}{110171}Are you going|to play, Eddie?
+{110175}{110207}Yeah, maybe.
+{110211}{110242}Where?
+{110246}{110290}I don't know.|Gunther's.
+{110294}{110363}Are you mad at me|about last night?
+{110367}{110411}No. You done good.
+{110450}{110494}Where's he going?
+{110498}{110543}He's going to|Gunther's, ja.
+{111236}{111328}Hey, Bill.
+{111332}{111411}Why don't you|call Dud?
+{111415}{111507}{Y:i}Just about|to lose my mind
+{111550}{111634}{Y:i}Never gonna let|your love...
+{111638}{111670}Thank you.
+{111708}{111775}I'll have another Drambuie|and potato salad.
+{111779}{111835}Give my friend|another J.T.S. Brown.
+{111839}{111869}One more time?
+{111873}{111904}Absolutely.
+{111908}{111952}You remind me a lot...
+{111956}{112034}of a guy I played|about 20 years ago.
+{112038}{112128}After that, five of us|went on a road trip...
+{112132}{112164}to San Antonio.
+{112168}{112211}We didn't get any action.
+{112215}{112305}The windup was we ended up|playing each other.
+{112309}{112400}That's all she wrote.
+{112404}{112433}Nice book, though.
+{112437}{112468}Buy you one?
+{112472}{112515}No, I'll buy you one.
+{112519}{112586}I'm going to play|for a while.
+{112590}{112633}It's crazy, you know.
+{112637}{112716}I was working at this job|busting my butt.
+{112720}{112774}They didn't|give me a raise.
+{112778}{112833}My old lady,|she leaves me...
+{112837}{112892}because|she says I'm a bum...
+{112896}{112928}because I quit.
+{112932}{112998}Then after, I start|working at the university...
+{113002}{113045}strictly|for the experience.
+{113049}{113093}Guess what I was.
+{113097}{113144}What were you?
+{113148}{113204}I was a subject.
+{113208}{113257}A what?
+{113261}{113312}A subject|in the psych department.
+{113316}{113380}I was a subject|for experiments--
+{113384}{113439}reflexes, memory things.
+{113443}{113473}I didn't do anything...
+{113477}{113523}when it got|to electric shock.
+{113527}{113639}I did just once,|but it don't count.
+{113643}{113673}Oh!
+{113867}{113899}Okay.
+{113903}{113950}That's 80.
+{113995}{114059}- Do it again?|- Yeah, sure, I don't care.
+{114063}{114125}- Double or nothing?|- Double or nothing.
+{114129}{114200}Is there an echo?
+{114204}{114236}Let's play.
+{114322}{114388}Eddie, how you doing?
+{114392}{114474}Holding my own|and a little bit of his.
+{114478}{114509}Good man.
+{114513}{114546}Here.
+{114572}{114599}Go!
+{114603}{114626}Go!
+{114630}{114650}Go!
+{114654}{114713}Go! Go!|Go! Go! Go!
+{114717}{114741}Fall!
+{114784}{114816}Is that it?
+{114867}{114899}Do it again.
+{114903}{114934}Double or nothing?
+{114938}{114980}What else?
+{114984}{115030}All right.
+{115132}{115179}Ha ha ha!
+{115183}{115267}That is bullshit.
+{115271}{115368}I never did that.|That is luck, man!
+{115424}{115468}I'm really sorry.
+{115472}{115554}There's nothing I can do.|The 9-ball fell.
+{115558}{115601}I can't believe that.
+{115605}{115675}Are you|a hustler, Amos?
+{115712}{115755}Come on, Eddie, man.
+{115759}{115789}Luck.
+{115793}{115879}Are you a hustler?
+{115883}{115965}Hey, you don't|want to pay me?
+{115969}{116012}Keep it.|Forget it.
+{116016}{116080}I don't want|no bad feelings.
+{116083}{116128}When the|big guy loses.
+{116132}{116196}I lost, I paid.|I don't...
+{116232}{116276}Are you|a hustler, Amos?
+{116444}{116464}What?
+{116468}{116512}You want to quit?
+{116584}{116664}Fuck you, kid.|Double it again.
+{117266}{117300}{Y:i}Don't bother
+{117329}{117400}{Y:i}Sure enough I do
+{117446}{117485}{Y:i}Oh, well
+{117660}{117726}Hey, I want to|ask you something.
+{117730}{117775}I want you|to be honest.
+{117864}{117931}You think I need|to lose some weight?
+{117935}{117987}{Y:i}...All of my life
+{118032}{118146}{Y:i}Well, I sure|don't remember
+{118620}{118744}How could I|get suckered like that?
+{118844}{118886}You got to|work hard.
+{118890}{118992}That takes a real gift|to show your ass like that.
+{119065}{119168}Everything in a stack.
+{119172}{119268}Everything-- just probably|a little too much booze...
+{119272}{119316}a little too cocky...
+{119320}{119370}right amount of jerk...
+{119444}{119522}to miss all those|fuckin' signals.
+{119787}{119820}Hey.
+{119858}{119916}Eddie, you'll|get him next time.
+{120300}{120401}How much would you need|to go it on your own...
+{120405}{120444}from here|to Atlantic City?
+{120448}{120476}What?
+{120480}{120542}Should have wiped|the floor with that guy.
+{120546}{120577}Yeah? So?
+{120581}{120672}How much would you need|to go to Atlantic City?
+{120676}{120706}A couple thousand?
+{120710}{120741}Come on, Eddie.
+{120745}{120800}You had too much|to drink.
+{120804}{120847}Let's forget|about it.
+{120851}{120905}I got nothing|left to teach.
+{120909}{120949}That was|the last lesson.
+{120953}{120978}Take the money.
+{120982}{121028}Front for yourself.|You'll do fine.
+{121032}{121083}You're walking off?
+{121087}{121135}Dumping us.
+{121139}{121163}Dumping you?
+{121167}{121210}I'm giving you|a stake.
+{121214}{121269}I showed you|all I got.
+{121273}{121322}What the hell else|you want?
+{121326}{121366}That's it!|That's all!
+{121401}{121453}What are we|supposed to do?
+{121457}{121534}Where we supposed|to go from here?
+{121538}{121567}Here's you, see?
+{121571}{121610}Between you|and Atlantic City...
+{121614}{121657}there's about 27|pool halls.
+{121661}{121715}Three weeks, a couple|thousand dollars.
+{121719}{121763}Why you talking|this way?
+{121767}{121837}You're played for a chump,|so you walk out?
+{121841}{121897}We'll get this guy|next time...
+{121901}{121940}Eddie.
+{121973}{122017}Hey, hey!
+{122021}{122100}You do this|to some guy on the street...
+{122104}{122136}not to me.
+{122140}{122207}What about the stuff|you told me?
+{122211}{122254}You're going to|ruin everything.
+{122258}{122333}Carmen and me,|you told me about that.
+{122337}{122370}Okay, look, Eddie.
+{122374}{122417}Hey, it's|my attitude, right?
+{122421}{122452}From now on--
+{122456}{122486}Attitude, bullshit.
+{122490}{122555}You always do|what you want to do!
+{122559}{122603}Don't tell me that!
+{122607}{122637}I'm tired!
+{122641}{122684}I try|to do everything!
+{122688}{122717}Take the money.
+{122721}{122814}It's the last thing|I can give you.
+{122818}{122850}Let it go, Vincent.
+{122854}{122904}You give me money|to get rid of me.
+{122908}{122973}You got|a long way to go.
+{122977}{123065}This is|nickel-and-dime shit.
+{123069}{123091}Shut up|and give me money.
+{123095}{123124}Make it 30,000.
+{123128}{123182}I'll give you|what I got!
+{123186}{123218}You know something?
+{123222}{123300}Just keep your|fuckin' money, pal.
+{123304}{123327}Here.
+{123365}{123421}Fuck it.
+{123471}{123521}Fuck.
+{125558}{125610}Feel good, don't it?
+{125614}{125646}I'm blind.
+{125650}{125684}You're cool.
+{126057}{126113}Better?|The same? Worse?
+{126117}{126141}Better.
+{126180}{126218}Better?|Same? Worse?
+{126261}{126302}Better.
+{126306}{126361}Better?|Same? Worse?
+{127663}{127752}I like|the glasses.
+{127756}{127800}Fast Eddie,|this here's Moselle.
+{127804}{127834}He plays pool.
+{127838}{127869}No kidding.
+{127873}{127916}That's a nice stick.
+{127920}{127962}I get the break.
+{127966}{127996}What's the book?
+{128000}{128065}50 on Fast Eddie|wins you 100.
+{128069}{128123}50 on Moselle|wins you 25.
+{128127}{128147}Thanks.
+{128151}{128193}Facts of life, man.
+{128197}{128239}100 on the side?
+{128243}{128278}Read my mind.
+{128282}{128319}Rack 'em up.
+{128353}{128381}Give it up.
+{128385}{128405}Eddie.
+{128409}{128429}Eddie.
+{128433}{128453}Moselle.
+{128457}{128486}Moselle. Moselle.
+{129092}{129157}- Shh!|- Shh!
+{129282}{129321}- Yeah!|- All right!
+{131525}{131581}You guys going|to Atlantic City?
+{132042}{132069}That's $4.00.
+{132073}{132115}You need|at least $5.00.
+{132119}{132163}Resorts lnternational|Hotel And Casino...
+{132167}{132226}on the Boardwalk|in Atlantic City...
+{132230}{132290}welcomes you|to our casino.
+{132294}{132347}As anyone can tell you...
+{132351}{132392}the greatest secret to success...
+{132396}{132502}on the casino floor is knowing|how to play the game.
+{132506}{132575}There are slot machines,|roulette, blackjack, craps...
+{132579}{132621}deep-six,|and baccarat tables.
+{132625}{132695}Some have simple,|easy-to-learn rules...
+{132699}{132778}but most are|more complicated...
+{132891}{132945}The rules, regulations,|and pay-out odds...
+{132949}{132992}are established|and supervised...
+{132996}{133057}by the New Jersey|Casino Control Commission.
+{133481}{133513}Knock 'em dead.
+{133517}{133564}I'll try.
+{134682}{134704}Hey!
+{134821}{134852}{Y:i}Keep saying now
+{134856}{134921}{Y:i}"Daddy, I have to|leave you"
+{134925}{134973}{Y:i}Oh, yeah
+{134977}{135090}{Y:i}"But I'm in love|with another guy"
+{135094}{135129}{Y:i}Oh, no, no
+{135133}{135183}{Y:i}I couldn't believe...
+{135187}{135220}Hey, Eddie.
+{135283}{135305}What?
+{135309}{135339}You playing?
+{135343}{135385}Got a problem|with that?
+{135389}{135455}No. You got|any problem with that?
+{135459}{135523}If it makes|you happy, do it.
+{135584}{135649}I just wanted|to say hello.
+{135777}{135829}Hello, test. 1, 2, 30.
+{135833}{135864}1, test.
+{136048}{136080}Ladies and gentlemen...
+{136084}{136151}it's nice to see so many faces here...
+{136155}{136213}for today's 9-ball classic.
+{136335}{136393}Players,|start your matches.
+{136648}{136692}I didn't deserve that.
+{136801}{136859}Is this your first|tournament, Duke?
+{137101}{137143}Match to Mr Felson.
+{137147}{137196}11 games to 5.
+{137287}{137342}I didn't deserve that.
+{137346}{137395}Yes, you did.
+{137680}{137748}{Y:i}Tall and tan|and young and handsome
+{137752}{137845}{Y:i}The boy from lpanema|goes walking
+{137849}{137890}{Y:i}And when he passes
+{137894}{137962}{Y:i}Each girl|he passes goes
+{137992}{138052}{Y:i}Ahh!
+{138059}{138106}We'll play 10 games.
+{138110}{138177}You win 8.|I got to win 10.
+{138181}{138249}I'll put up $1,200.|You put up $800.
+{138253}{138321}I win 8 games|to your 10?
+{138325}{138393}You're putting up|$1,200 to my $800?
+{138397}{138466}This is a good deal,|isn't it?
+{138470}{138537}This guy won|the Akron Open, Vincent.
+{138541}{138585}There is no such thing.
+{138589}{138634}What have I|been reading?
+{138638}{138681}I can win 8 games.
+{138685}{138741}I just don't like|the deal.
+{138745}{138805}What don't|you like, lady?
+{138809}{138853}Up your end|to 1,500.
+{138857}{138913}$300 isn't going to|kill the guy!
+{138977}{139028}All right.|All right.
+{139032}{139076}I shouldn't,|but I will.
+{139080}{139112}$1,500,|how's that?
+{139116}{139162}Okay. Yeah.|I'm sorry.
+{139166}{139197}Don't be sorry.
+{139201}{139244}All right,|it's 8:30.
+{139248}{139304}How about 12:300|in the green room?
+{139308}{139340}12:300. Great.
+{139344}{139380}Terrific.
+{139384}{139437}You can|get these, right?
+{139441}{139472}No problem.
+{139476}{139521}We got it|covered here.
+{139596}{139616}$1,500?
+{139620}{139652}Not bad, huh?
+{139656}{139688}"Not bad, huh?"
+{139692}{139736}He wouldn't|go for more--
+{139740}{139821}That guy had $2,000|written all over his face.
+{139825}{139905}You gave him $500,|and you're buying his drink.
+{139909}{139953}Do it yourself|next time.
+{140124}{140167}I got to go rest.
+{140171}{140193}Great.
+{140257}{140289}Eddie.
+{140343}{140407}You got new glasses.|They look good.
+{140410}{140479}If it isn't|the kid and Carmen.
+{140483}{140521}How's|it going?
+{140525}{140570}Can't complain. You?
+{140574}{140611}$4,000 in 3 weeks.
+{140615}{140661}Could have been better,|could have been worse.
+{140665}{140718}Well, I'm happy for you.
+{140722}{140804}At 12:300 we're taking out|that lame from Akron.
+{140808}{140854}You want in on it?
+{140858}{140948}Well, thanks, uh...
+{140952}{141007}Iisten, I'll pass up|on that.
+{141011}{141065}I got to play|at 10:00.
+{141069}{141115}All right.|It's on you.
+{141119}{141158}Good luck tomorrow.
+{141162}{141199}Same to you.
+{141203}{141252}I got to go rest.
+{141256}{141335}Uh, come get me|in about three hours, okay?
+{141339}{141375}In three?
+{141379}{141416}Yeah. Yeah.
+{141479}{141511}Going good?
+{141515}{141571}Yeah. Yeah.|We're doing okay.
+{141575}{141607}You were right.
+{141611}{141658}We didn't|need you any more.
+{141662}{141713}That's what I said.
+{141717}{141791}You wouldn't believe|Vincent now.
+{141795}{141853}Oh, he's a new man, huh?
+{141857}{141922}Why don't you|take him up on tonight?
+{141926}{142003}I got to get up early|and play, so...
+{142054}{142111}Well, see you around.
+{143495}{143552}It's like a nightmare,|isn't it?
+{143556}{143622}You got lucky,|you lucky prick.
+{144119}{144214}Wipe your nose,|will you, Julian?
+{144218}{144284}You're going down,|Eddie.
+{144475}{144528}Oh! Goddamn.
+{144532}{144590}Jesus Christ.
+{144594}{144650}It keeps getting worse,|doesn't it?
+{144654}{144722}Take it on off.|I can't help it.
+{144843}{144863}Eddie.
+{144867}{144911}Nice game,|Eddie.
+{144915}{144947}Thank you.
+{144951}{144983}Dynamite game,|Eddie.
+{144987}{145019}Good game.
+{145141}{145210}- Excuse me.|- Way to go.
+{145214}{145247}I'm doing fine.
+{145251}{145344}I'm only feeling nervous|because I feel good.
+{145348}{145477}Yeah. Eyes feel good,|legs feel great.
+{145481}{145537}I get no grief down here.
+{145541}{145609}Come on down|and give me some grief.
+{145613}{145668}Forget the Bahamas.|This is it.
+{145672}{145696}Hey.
+{145700}{145770}It would be good|having you here.
+{146688}{146758}Pow!
+{146862}{146908}Hey.
+{146939}{147017}I'm going to|beat him, you know.
+{147021}{147070}Well...
+{147108}{147175}Maybe.
+{147237}{147270}Hello, Eddie.
+{147704}{147775}That was nice.
+{147967}{148036}...Ron Albrecht|and Larry Schwartz.
+{148131}{148191}Following match|on table number eight...
+{148195}{148269}Vincent Lauria|and Eddie Felson.
+{153063}{153120}Hey, you shot|a great game.
+{153170}{153238}The balls roll funny|for everybody.
+{153242}{153273}I told you that.
+{153277}{153324}You shot|a great game.
+{154044}{154074}Ah!
+{154377}{154409}Oh, come on.
+{154413}{154503}Eddie!
+{154507}{154554}- Who is it?|- Vincent!
+{154627}{154684}Oh, I can't|believe it.
+{154776}{154832}Hi, guys.
+{154836}{154880}Should we|come back later?
+{154884}{154928}No. No.|We were just--
+{154932}{154988}Janelle's having|a glass of cham--
+{154992}{155036}Early bubbly.|Come on in.
+{155040}{155072}Listen, l--
+{155076}{155120}I drew|this guy Kennedy...
+{155124}{155168}in the semifinals.
+{155172}{155216}You know anything|about him?
+{155256}{155300}What's that?
+{155304}{155372}That's for you.
+{155376}{155423}- Hey, how you doing? That's your cut.|- Cut of what?
+{155427}{155467}- For the game.|- What game?
+{155471}{155569}Our game. Got a front|to lay 4,000 on you. Then I dumped.
+{155573}{155651}I dogged|about four shots.
+{155655}{155736}Eddie, you know, you are|a very, very good player.
+{155740}{155812}I feel shitty about getting booted|but there's other tournaments, right?
+{155816}{155873}Right.
+{155877}{155906}You dumped, huh?
+{155910}{155942}Carmen didn't|want to go for it...
+{155946}{155989}but I told her|you would appreciate it.
+{155993}{156052}There's $8,000 there.
+{156056}{156128}After I beat Grady Seasons,|the odds were a joke.
+{156132}{156200}Two brothers|and a stranger.
+{156204}{156272}It was beautiful.|It was fuckin' beautiful.
+{156276}{156344}When I banked the 5--|When I saw the table...
+{156348}{156410}I knew it was|going to be the 5.
+{156414}{156515}To be able to just|miss the pocket by a hair...
+{156519}{156552}I mean,|the audience..."oh!"
+{156556}{156630}It was...|It was... I...
+{156634}{156748}$8,000 in there.
+{156752}{156785}We got to split.
+{156789}{156845}I got green room games|for the next three nights.
+{156849}{156892}These guys won't|leave me alone.
+{156896}{156941}You sure you don't want in on this?|We're talking a lot of money.
+{156945}{157016}Yeah. Maybe.
+{157020}{157073}Okay.
+{157077}{157128}I'll call you, okay?
+{157132}{157196}Look, good luck|with Kennedy, all right?
+{157305}{157387}He's a little prick.
+{157391}{157434}Ladies and gentlemen...
+{157438}{157519}it's good to see you here|for the semifinals...
+{157523}{157567}of today's 9-ball classic.
+{157571}{157615}Right now on table one...
+{157619}{157695}will be, from Chicago,|Larry Schwartz.
+{157699}{157744}Larry will be playing...
+{157748}{157804}St. Louis, Missouri...
+{158059}{158167}...regional 9-ball champion|Lorenzo Kennedy...
+{158171}{158240}will be playing,|as we welcome back...
+{158244}{158280}Fast Eddie Felson.
+{158384}{158452}Players,|begin your matches.
+{159490}{159534}What are you|doing?
+{159538}{159570}I forfeit.
+{159574}{159596}Forfeit.
+{159600}{159641}What do you mean,|forfeit?
+{159645}{159677}You can't forfeit.
+{159681}{159726}What's he talking about?
+{159730}{159772}He threw|50,000 away.
+{159776}{159821}Come on, Eddie.|Don't forfeit.
+{159825}{159894}I don't want|to win like this.
+{159898}{159967}I don't want|to win like that, though.
+{160441}{160485}The match on table three...
+{160489}{160568}has been forfeited|by Eddie Felson.
+{160572}{160650}Lorenzo Kennedy,|win by default.
+{160918}{160949}What do you say?
+{160953}{161034}Why don't we get|the hell out of here?
+{161085}{161189}The Bahamas are looking|real good to me about now.
+{161193}{161273}Anyway, I got out|of my lease.
+{161277}{161334}All my stuff's|in boxes.
+{161338}{161370}That's nice.
+{161374}{161454}I'm a real big fan|of character in people.
+{161458}{161538}I don't know|if you knew that about me.
+{161542}{161574}Character, huh?
+{161578}{161602}Yeah.
+{161667}{161703}Here it comes.
+{161985}{162029}Vincent says|this is yours.
+{162033}{162076}You don't want it...
+{162080}{162137}you should give it|to charity.
+{162141}{162185}What will|that solve?
+{162189}{162234}I don't know|anything any more.
+{162238}{162282}I want|his best game.
+{162286}{162341}Then go talk|to him yourself.
+{162345}{162389}He won't|listen to me.
+{162393}{162462}So I got to cover|your ass now?
+{162466}{162523}No. You got to|save it.
+{162527}{162582}Why should l?
+{162657}{162711}I'll be in|the green room.
+{163323}{163389}Stings like a bitch,|don't it?
+{163393}{163423}Yes, it does.
+{163569}{163639}You got brass, man.|I'll give you that.
+{163643}{163669}You want my game?
+{163673}{163719}You couldn't deal|with my game.
+{163723}{163839}I ain't got a leg to stand on,|but I'm asking you.
+{163843}{163867}Shove it!
+{163871}{163896}Don't do that.
+{163900}{163955}I call the shots.
+{163959}{164031}I don't have that many games|left in me.
+{164035}{164115}God! You used us!|You used me!
+{164119}{164157}Yes, I did...
+{164161}{164236}but you're in Atlantic City now|with the big boys.
+{164240}{164321}You're not back there|playing around with baby dolls.
+{164325}{164420}Think about it.|It's a wash.
+{164424}{164489}About all that|other stuff...
+{164493}{164567}I don't take|much pride in that.
+{164571}{164615}It's even,|but it ain't settled.
+{164619}{164642}Let's settle it.
+{164646}{164679}Why should l?
+{164683}{164749}How long do you want me to fry?|5 years? 10 years?
+{164753}{164850}You want to play kick the dog|for the rest of your life?
+{164854}{164919}Come on.|Let's clean it up.
+{165306}{165373}You want to play for the envelope?|ls that it?
+{165377}{165427}Whatever.
+{165786}{165819}Thank you.
+{165919}{165962}Eddie,|what will you do...
+{165966}{166010}when I kick|your ass?
+{166014}{166095}Pick myself up|and let you kick me again.
+{166134}{166161}Oh, yeah?
+{166165}{166195}Yeah.
+{166199}{166273}Just don't put the money|in the bank, kid.
+{166277}{166333}If I don't|whip you now...
+{166337}{166405}I'll whip you|next month in Dallas.
+{166409}{166429}Houston.
+{166433}{166465}Houston, Dallas.
+{166469}{166539}If not, a month after that|in New Orleans.
+{166543}{166620}What makes you|so sure?
+{166741}{166809}Hey, I'm back.
+{168531}{168633}{Y:i}I feel so|doggone lonely
+{168695}{168818}{Y:i}Today just|isn't my day
+{168865}{168986}{Y:i}When I got home|this mornin'
+{169053}{169154}{Y:i}I found a letter|on my bed
+{169198}{169322}{Y:i}When I opened up|that letter
+{169377}{169495}{Y:i}I broke right down|and cried
+{169564}{169655}{Y:i}She said, now, daddy,|I hate to leave you
+{169659}{169712}{Y:i}Oh, yeah
+{169716}{169830}{Y:i}But I'm in love|with another guy
+{169834}{169877}{Y:i}Oh no, no
+{169881}{169937}{Y:i}I couldn't believe
+{169941}{170020}{Y:i}I couldn't believe|she wrote it
+{170054}{170189}{Y:i}So I read her letter again
+{170229}{170352}{Y:i}And when I was finished
+{170409}{170532}{Y:i}The tears came down|like rain
+{170570}{170673}{Y:i}The more I read|this doggone letter
+{170750}{170865}{Y:i}The more|my poor heart cries
+{170923}{171021}{Y:i}She said, now daddy,|I hate to leave you
+{171025}{171073}{Y:i}Oh yeah
+{171077}{171209}{Y:i}But I'm in love|with another guy
+{171213}{171272}{Y:i}My baby, she said
+{171305}{171403}{Y:i}Oh yeah|my baby, she said
+{171407}{171473}{Y:i}My baby, she said
+{171477}{171554}{Y:i}My baby, she said
+{171558}{171600}{Y:i}This what she said
+{171604}{171705}{Y:i}She said, now daddy,|I hate to leave you
+{171709}{171754}{Y:i}Oh yeah
+{171758}{171861}{Y:i}But I'm in love|with another guy
+{171886}{173386}OpenSubtitles recommends using Nord VPN|from 3.49 USD/month ----> osdb.link/vpn
