@@ -1,0 +1,5161 @@
+1
+00:00:11,550 --> 00:00:13,092
+<i>Station announcement.</i>
+
+2
+00:00:13,260 --> 00:00:15,383
+<i>The train standing at platform two...</i>
+
+3
+00:00:15,554 --> 00:00:21,924
+<i>... is the 4:50 for Ealing Broadway,</i>
+<i>Hanwell, Hayes, West Drayton...</i>
+
+4
+00:00:22,102 --> 00:00:26,599
+<i>... Langley, Taplow, Milchester,</i>
+<i>and Brackhampton.</i>
+
+5
+00:00:28,000 --> 00:00:34,074
+Advertise your product or brand here
+contact www.OpenSubtitles.org today
+
+6
+00:03:30,583 --> 00:03:34,248
+- Tickets please.
+- A woman has been strangled. I saw it.
+
+7
+00:03:34,420 --> 00:03:37,421
+- I beg your pardon?
+- A man strangled a woman in a train.
+
+8
+00:03:37,590 --> 00:03:38,918
+I saw it. Out there.
+
+9
+00:03:39,508 --> 00:03:41,086
+- Strangled?
+- Yes, strangled.
+
+10
+00:03:41,260 --> 00:03:42,886
+You must do something
+about it at once.
+
+11
+00:03:43,387 --> 00:03:44,929
+Me? Well...
+
+12
+00:03:46,640 --> 00:03:50,768
+Madam, don't you think perhaps you had
+a little nap and maybe had a bad dream?
+
+13
+00:03:50,936 --> 00:03:53,937
+Young man, I was not dreaming.
+I saw it.
+
+14
+00:03:54,106 --> 00:03:55,600
+What are you going to do about it?
+
+15
+00:03:56,317 --> 00:03:59,851
+Well, look, we'll be in Brackhampton
+in about five minutes.
+
+16
+00:04:00,029 --> 00:04:02,281
+- I'll report it as soon as we get there.
+- Thank you.
+
+17
+00:04:02,489 --> 00:04:06,902
+- Could I have your name and address...?
+- Yes, of course. Miss Jane Marple.
+
+18
+00:04:07,077 --> 00:04:08,620
+- Marple?
+- Marple.
+
+19
+00:04:09,163 --> 00:04:11,784
+- Old Pasture Lane.
+- Pasture Lane.
+
+20
+00:04:11,957 --> 00:04:14,116
+- Milchester.
+- Milchester.
+
+21
+00:04:14,293 --> 00:04:17,163
+Very well, Miss Marple.
+I'll report this to the station master...
+
+22
+00:04:17,630 --> 00:04:20,417
+- Yes, please do.
+- Thank you.
+
+23
+00:04:24,261 --> 00:04:26,468
+A bad dream indeed.
+
+24
+00:04:43,489 --> 00:04:46,359
+All right, Lucy. I'll answer that.
+
+25
+00:04:50,246 --> 00:04:52,997
+- Good morning, madam. I'm...
+- Not today, thank you.
+
+26
+00:04:55,084 --> 00:04:56,827
+Inspector Craddock, County CID, madam.
+
+27
+00:04:57,002 --> 00:05:00,502
+Oh, I am so sorry.
+Do come in, inspector.
+
+28
+00:05:02,174 --> 00:05:04,499
+I've just been going through
+all the papers again...
+
+29
+00:05:04,677 --> 00:05:08,342
+...for the last two days,
+and still not a word about the murder.
+
+30
+00:05:08,514 --> 00:05:11,847
+I suppose the police asked the press
+to say nothing for the moment.
+
+31
+00:05:12,017 --> 00:05:14,010
+Do sit down, won't you?
+
+32
+00:05:14,186 --> 00:05:18,515
+Lull the murderer into a false
+sense of security, then pounce, eh?
+
+33
+00:05:18,691 --> 00:05:21,063
+What's that?
+Oh, how stupid of me.
+
+34
+00:05:21,235 --> 00:05:23,144
+- Here.
+- I'm so sorry.
+
+35
+00:05:23,320 --> 00:05:26,523
+Lucy. You will have some tea,
+won't you?
+
+36
+00:05:26,699 --> 00:05:28,525
+Some tea for the inspector, dear, please.
+
+37
+00:05:28,701 --> 00:05:30,278
+Yes, ma'am.
+
+38
+00:05:30,995 --> 00:05:32,703
+Well, now, have you got him?
+
+39
+00:05:33,872 --> 00:05:35,958
+Well, I...
+
+40
+00:05:36,542 --> 00:05:41,998
+That is, we have come to the conclusion
+that what you saw on the train was...
+
+41
+00:05:42,172 --> 00:05:45,043
+- Well, a man and a woman...
+- Yes, as I said.
+
+42
+00:05:46,302 --> 00:05:51,177
+I mean, perhaps
+they were honeymooners.
+
+43
+00:05:51,348 --> 00:05:55,761
+Inspector, I may be
+what is termed a spinster...
+
+44
+00:05:55,936 --> 00:05:59,981
+...but I do know the difference
+between horseplay and murder.
+
+45
+00:06:00,524 --> 00:06:02,102
+Of course, madam... Miss Marple.
+
+46
+00:06:02,276 --> 00:06:05,193
+But the fact remains that there's been
+a search of every train...
+
+47
+00:06:05,362 --> 00:06:07,770
+...and no hospital treated any woman
+as you describe.
+
+48
+00:06:07,948 --> 00:06:10,902
+She was blond and had on a coat
+with a pale fur collar.
+
+49
+00:06:11,076 --> 00:06:13,746
+And no such woman has been seen
+getting on or off a train...
+
+50
+00:06:13,913 --> 00:06:16,617
+...alone or with anybody else.
+- Of course not. She was dead.
+
+51
+00:06:17,291 --> 00:06:20,078
+Further, a search has been
+made of every inch of the tracks...
+
+52
+00:06:20,252 --> 00:06:22,494
+...for the whole length of the line.
+Negative.
+
+53
+00:06:23,923 --> 00:06:26,081
+So you don't believe me?
+
+54
+00:06:26,467 --> 00:06:28,594
+- I didn't mean to imply that.
+- You certainly did.
+
+55
+00:06:28,761 --> 00:06:30,800
+- Not at all. L...
+- What then?
+
+56
+00:06:30,971 --> 00:06:33,047
+L... I assure you Miss Marple...
+
+57
+00:06:33,223 --> 00:06:36,972
+...that a woman cannot be murdered on
+a train a few minutes before a station...
+
+58
+00:06:37,144 --> 00:06:38,769
+...without our finding out about it.
+
+59
+00:06:38,938 --> 00:06:41,096
+I'm quite sure you mean well,
+inspector...
+
+60
+00:06:41,273 --> 00:06:44,025
+...but if you imagine
+that I am going to sit back...
+
+61
+00:06:44,193 --> 00:06:47,194
+...and let everybody regard me
+as a dotty old maid...
+
+62
+00:06:47,363 --> 00:06:49,604
+...you are very much mistaken.
+
+63
+00:06:49,782 --> 00:06:51,442
+Good day.
+
+64
+00:07:24,108 --> 00:07:25,222
+Sorry, Mrs. Stainton.
+
+65
+00:07:25,401 --> 00:07:27,892
+<i>The Hat Rack Hanging,</i>
+Falcon Smith's latest...
+
+66
+00:07:28,070 --> 00:07:30,739
+...I'm afraid we haven't
+received our copy yet.
+
+67
+00:07:30,906 --> 00:07:32,780
+Plain inefficiency.
+
+68
+00:07:32,950 --> 00:07:34,610
+I want to know
+the moment it comes in.
+
+69
+00:07:34,785 --> 00:07:37,157
+Of course, of course, Mrs. Stainton.
+
+70
+00:07:37,329 --> 00:07:41,374
+- Oh, good morning, Miss Marple.
+- Good morning, Mr. Stringer.
+
+71
+00:07:41,542 --> 00:07:43,416
+Good morning, Hilda.
+
+72
+00:07:45,671 --> 00:07:47,747
+One moment.
+
+73
+00:07:47,923 --> 00:07:51,624
+<i>The Hat Rack Hanging.</i>
+I've been keeping it for you.
+
+74
+00:07:55,306 --> 00:07:58,472
+Mr. Stringer, would you say
+I was an unstable woman?
+
+75
+00:07:58,642 --> 00:07:59,685
+Certainly not.
+
+76
+00:07:59,852 --> 00:08:02,936
+- In full possession of my faculties?
+- Absolutely.
+
+77
+00:08:03,105 --> 00:08:05,561
+- Not given to hallucinations?
+- Why, no.
+
+78
+00:08:05,941 --> 00:08:07,768
+Thank you, Mr. Stringer.
+
+79
+00:08:07,943 --> 00:08:10,019
+- The police think I'm dotty.
+- What?
+
+80
+00:08:10,195 --> 00:08:12,686
+Apparently what I saw
+was a young man and woman...
+
+81
+00:08:12,865 --> 00:08:14,857
+...in the throes of connubial bliss.
+
+82
+00:08:15,200 --> 00:08:17,277
+I see. Well, if I were you,
+Miss Marple...
+
+83
+00:08:17,453 --> 00:08:19,908
+...I would certainly write
+to the chief constable.
+
+84
+00:08:20,080 --> 00:08:23,948
+How many detective novels would you
+say we have read over the years?
+
+85
+00:08:24,877 --> 00:08:26,786
+Impossible to say.
+Certainly many hundreds.
+
+86
+00:08:26,962 --> 00:08:28,836
+Yes. Which gives us,
+wouldn't you agree...
+
+87
+00:08:29,006 --> 00:08:31,414
+...a certain knowledge
+of the criminal mind?
+
+88
+00:08:31,592 --> 00:08:32,707
+Most assuredly.
+
+89
+00:08:32,885 --> 00:08:36,965
+Well, this is where we put
+that knowledge to the test.
+
+90
+00:08:37,139 --> 00:08:39,262
+- We?
+- Yes, we.
+
+91
+00:08:44,229 --> 00:08:46,637
+So it has come in.
+
+92
+00:08:46,941 --> 00:08:50,144
+- Has it?
+- Well, I think I have first call.
+
+93
+00:08:50,319 --> 00:08:52,525
+I don't think you'll like it, Hilda.
+Too obvious.
+
+94
+00:08:52,696 --> 00:08:53,977
+The mother did it, of course.
+
+95
+00:08:54,156 --> 00:08:56,279
+How can you know that?
+The book has just come in.
+
+96
+00:08:56,450 --> 00:09:01,077
+It always is with Falcon Smith.
+A deprived child, you know.
+
+97
+00:09:01,997 --> 00:09:05,247
+Hot buttered crumpets for tea,
+Mr. Stringer, if you care to join me.
+
+98
+00:09:05,626 --> 00:09:08,413
+Indeed I would, Miss Marple.
+
+99
+00:09:12,758 --> 00:09:14,964
+Yes, here we are.
+
+100
+00:09:15,135 --> 00:09:17,840
+Now I calculate
+the 5:00 express to Brackhampton...
+
+101
+00:09:18,013 --> 00:09:21,678
+...overtook my train
+somewhere about there.
+
+102
+00:09:21,850 --> 00:09:23,724
+But how can you be sure?
+
+103
+00:09:23,894 --> 00:09:27,429
+Well, I remember the ticket collector
+saying, "Five minutes to Brackhampton."
+
+104
+00:09:27,606 --> 00:09:30,691
+It couldn't have been more than
+a minute after the murder he came in.
+
+105
+00:09:30,859 --> 00:09:33,433
+So that makes it six minutes
+before Brackhampton...
+
+106
+00:09:33,612 --> 00:09:37,028
+...at, say, 30 miles an hour.
+
+107
+00:09:37,199 --> 00:09:40,327
+So about there.
+
+108
+00:09:41,245 --> 00:09:42,656
+But the body, Miss Marple?
+
+109
+00:09:42,830 --> 00:09:45,237
+Well, it seems clear
+that was thrown from the train...
+
+110
+00:09:45,416 --> 00:09:47,040
+...between here and Brackhampton.
+
+111
+00:09:47,209 --> 00:09:49,914
+- The police found nothing.
+- Of course not.
+
+112
+00:09:50,087 --> 00:09:53,954
+The murderer returned before the search
+and disposed of the body.
+
+113
+00:09:54,133 --> 00:09:57,466
+By Jove, the police will certainly
+want to investigate now.
+
+114
+00:09:57,636 --> 00:10:00,174
+Well, according to them,
+there is nothing to investigate.
+
+115
+00:10:00,347 --> 00:10:02,636
+Surely, in the light of our theory,
+a fresh search...
+
+116
+00:10:02,808 --> 00:10:05,477
+Certainly. But this time
+we will conduct our own.
+
+117
+00:10:06,562 --> 00:10:07,807
+Yes, Mr. Stringer.
+
+118
+00:10:08,147 --> 00:10:10,982
+I recommend
+a hearty breakfast tomorrow.
+
+119
+00:10:11,150 --> 00:10:14,732
+You and I are going to take
+an early morning walk.
+
+120
+00:10:23,495 --> 00:10:25,322
+There must be something somewhere.
+
+121
+00:10:25,497 --> 00:10:27,988
+You can't throw a body
+out of a fast-moving train...
+
+122
+00:10:28,167 --> 00:10:30,243
+...without leaving some kind of trace.
+
+123
+00:10:30,419 --> 00:10:32,495
+Miss Marple,
+if we linger here much longer...
+
+124
+00:10:32,671 --> 00:10:34,545
+...I feel certain we shall be apprehended.
+
+125
+00:10:34,715 --> 00:10:38,166
+Oh, nonsense. No one will give
+a couple of tracklayers a second glance.
+
+126
+00:10:38,344 --> 00:10:41,179
+I'm not altogether convinced
+our disguises are adequate.
+
+127
+00:10:41,347 --> 00:10:44,348
+A shoe, a bit of cloth, something.
+
+128
+00:10:44,516 --> 00:10:47,186
+I'll concede our timetable
+may have been out of date...
+
+129
+00:10:47,353 --> 00:10:49,808
+...but I'm quite sure
+the 7: 15 is still running.
+
+130
+00:10:49,980 --> 00:10:53,729
+- Very possibly.
+- But it could be most dangerous up here.
+
+131
+00:10:53,901 --> 00:10:55,810
+Undoubtedly.
+
+132
+00:11:12,378 --> 00:11:13,872
+Miss Marple.
+
+133
+00:11:14,046 --> 00:11:15,789
+- Miss Marple.
+- Yes?
+
+134
+00:11:17,633 --> 00:11:20,717
+There you are.
+I think I heard something.
+
+135
+00:11:20,886 --> 00:11:22,926
+And I think I've found something.
+
+136
+00:11:23,097 --> 00:11:24,556
+Really?
+
+137
+00:11:35,401 --> 00:11:39,149
+Consistent with something having been
+dumped from a train, wouldn't you say?
+
+138
+00:11:40,072 --> 00:11:45,411
+If it was the body, it would roll down
+and finish up against this wall.
+
+139
+00:11:45,578 --> 00:11:47,570
+Then where is it?
+
+140
+00:11:47,746 --> 00:11:50,831
+That, Mr. Stringer, is the question.
+
+141
+00:11:51,000 --> 00:11:53,076
+It could be buried.
+
+142
+00:11:53,252 --> 00:11:55,624
+You'd need a pick or a shovel.
+
+143
+00:11:55,796 --> 00:12:00,588
+No, this is hardly an ideal spot
+for disposing of a body.
+
+144
+00:12:00,759 --> 00:12:02,586
+Unless...
+
+145
+00:12:11,437 --> 00:12:14,354
+From her fur collar, I think.
+
+146
+00:12:16,108 --> 00:12:18,777
+Mr. Stringer,
+will you kindly give me a leg up?
+
+147
+00:12:18,944 --> 00:12:22,609
+- Really, Miss Marple, l...
+- Please, Mr. Stringer.
+
+148
+00:12:23,782 --> 00:12:25,242
+No, no.
+
+149
+00:12:26,619 --> 00:12:28,528
+Make a stirrup.
+
+150
+00:12:29,496 --> 00:12:32,533
+- Come on, careful. Are you ready?
+- Yes.
+
+151
+00:12:32,708 --> 00:12:36,291
+- Interlock your fingers.
+- They are interlocked.
+
+152
+00:12:36,462 --> 00:12:38,170
+- Well, are you ready?
+- Yes.
+
+153
+00:12:38,339 --> 00:12:39,381
+Up.
+
+154
+00:12:40,132 --> 00:12:42,125
+Magnificent.
+
+155
+00:12:44,303 --> 00:12:45,346
+Down.
+
+156
+00:12:50,517 --> 00:12:53,305
+- What a frightful-looking man.
+- What a frightful-looking dog.
+
+157
+00:12:53,479 --> 00:12:56,052
+Miss Marple,
+prudence demands a retreat.
+
+158
+00:12:56,231 --> 00:12:59,683
+Mr. Stringer, I am convinced the body
+is on the other side of this wall.
+
+159
+00:12:59,860 --> 00:13:02,351
+But that's the Ackenthorpe Hall Estate.
+
+160
+00:13:02,529 --> 00:13:04,237
+I know. Perfect.
+
+161
+00:13:04,406 --> 00:13:06,529
+Easy for someone to come down
+out of the house...
+
+162
+00:13:06,700 --> 00:13:09,535
+...recover the body, and dispose of it
+somewhere in the grounds.
+
+163
+00:13:09,703 --> 00:13:11,992
+Someone from the house?
+You mean one of the family?
+
+164
+00:13:12,164 --> 00:13:15,580
+Yes. Or one of the servants,
+if they're lucky enough to have any.
+
+165
+00:13:16,293 --> 00:13:19,496
+Servants. I wonder...
+
+166
+00:13:19,880 --> 00:13:22,881
+Miss Marple, whatever it is, no, no.
+
+167
+00:13:23,342 --> 00:13:28,253
+Mr. Stringer,
+we will withdraw temporarily.
+
+168
+00:13:43,779 --> 00:13:45,902
+- Good morning.
+- Good morning.
+
+169
+00:13:46,365 --> 00:13:48,073
+I'm afraid there's
+nothing on my books.
+
+170
+00:13:48,242 --> 00:13:49,701
+Not so much as a mother's help.
+
+171
+00:13:50,202 --> 00:13:53,820
+I'm seeking a post, not offering one.
+
+172
+00:13:56,041 --> 00:13:58,200
+- Pray be seated, do, my good woman.
+- Thank you.
+
+173
+00:13:58,377 --> 00:14:00,998
+You need seek no more.
+You've come to the right place.
+
+174
+00:14:01,171 --> 00:14:05,715
+How good to see the spirit
+of unselfish service is still with us.
+
+175
+00:14:05,884 --> 00:14:07,794
+Let me see now.
+
+176
+00:14:07,970 --> 00:14:09,927
+Yes. Here's a perfect plum.
+
+177
+00:14:10,097 --> 00:14:12,588
+"Cheerful home for cheerful lady.
+
+178
+00:14:12,766 --> 00:14:15,886
+Own suite, TV, radio and the use of car.
+
+179
+00:14:16,061 --> 00:14:18,517
+Tea in bed on Sundays.
+Pension scheme."
+
+180
+00:14:18,689 --> 00:14:19,732
+Heaven forbid.
+
+181
+00:14:21,233 --> 00:14:22,727
+Oh, all right.
+
+182
+00:14:22,902 --> 00:14:24,396
+"Mrs. Forbes Alexbridge.
+
+183
+00:14:24,570 --> 00:14:26,313
+Setting up house near Monte Carlo."
+
+184
+00:14:26,488 --> 00:14:28,481
+They won't have any foreigners,
+of course.
+
+185
+00:14:28,657 --> 00:14:30,068
+"Own gaming allowance."
+
+186
+00:14:30,242 --> 00:14:31,820
+Well, I don't approve of gambling.
+
+187
+00:14:32,745 --> 00:14:36,244
+"Mrs. Hamilton Potts."
+The Dingley Stud Farm, you know.
+
+188
+00:14:36,415 --> 00:14:38,953
+"Seven children, eldest, 7."
+
+189
+00:14:39,126 --> 00:14:40,407
+Oh, no, thank you.
+
+190
+00:14:40,920 --> 00:14:45,083
+Perhaps if I might have a quiet word
+with Mrs. Binster.
+
+191
+00:14:47,801 --> 00:14:49,426
+I am Mrs. Binster.
+
+192
+00:14:49,970 --> 00:14:51,844
+Oh, I see.
+
+193
+00:14:52,014 --> 00:14:53,259
+Well, as a matter of fact...
+
+194
+00:14:53,432 --> 00:14:56,599
+...I wondered if there might be a position
+at Ackenthorpe Hall?
+
+195
+00:14:56,769 --> 00:15:00,303
+- Ackenthorpe Hall?
+- Yes, Ackenthorpe Hall.
+
+196
+00:15:00,898 --> 00:15:04,848
+Oh, yes, I think I can accommodate you.
+
+197
+00:15:05,027 --> 00:15:08,230
+Yes, there's always a vacancy there.
+
+198
+00:15:28,884 --> 00:15:30,378
+Thank you.
+
+199
+00:16:26,358 --> 00:16:27,401
+Yes?
+
+200
+00:16:28,277 --> 00:16:31,444
+I'm Jane
+from Mrs. Binster's Employment Agency.
+
+201
+00:16:31,614 --> 00:16:33,238
+The new maid.
+
+202
+00:16:33,407 --> 00:16:37,452
+Well, you look old enough
+to know better. Come in.
+
+203
+00:16:52,051 --> 00:16:53,509
+I am to see Miss Ackenthorpe.
+
+204
+00:16:53,677 --> 00:16:56,631
+You're expected. In there.
+
+205
+00:17:03,228 --> 00:17:05,802
+- Miss Ackenthorpe?
+- Yes?
+
+206
+00:17:06,565 --> 00:17:08,309
+I'm Jane.
+
+207
+00:17:08,984 --> 00:17:12,602
+- The new maid?
+- Yes, Jane Marple.
+
+208
+00:17:12,780 --> 00:17:15,567
+Now, if you'll kindly show me
+where I'm to put my things...
+
+209
+00:17:15,908 --> 00:17:18,778
+Oh, yes. Yes, of course.
+
+210
+00:17:19,411 --> 00:17:23,160
+But I'm wondering if this post is really
+what you're looking for, Miss Marple.
+
+211
+00:17:23,332 --> 00:17:26,084
+Well, naturally.
+Otherwise, I wouldn't be here.
+
+212
+00:17:26,543 --> 00:17:28,251
+I don't want a housekeeper, you know.
+
+213
+00:17:28,420 --> 00:17:30,627
+I want someone to...
+Well, to do the work.
+
+214
+00:17:30,923 --> 00:17:35,003
+Yes. You want cooking, washing up,
+beds made, floors scrubbed...
+
+215
+00:17:35,177 --> 00:17:38,178
+...fires lit, ashes taken away,
+I quite understand.
+
+216
+00:17:38,973 --> 00:17:42,591
+- Well, I hope you'll find us suitable.
+- I'm sure I shall.
+
+217
+00:17:42,768 --> 00:17:44,761
+Perhaps you won't find the work
+too exacting.
+
+218
+00:17:44,937 --> 00:17:46,265
+There are only the three of us.
+
+219
+00:17:46,438 --> 00:17:49,605
+Myself, my nephew
+down from school for the holidays...
+
+220
+00:17:50,442 --> 00:17:51,937
+...and then there's Father.
+
+221
+00:17:52,111 --> 00:17:54,436
+- May I show you to your room?
+- Yes, certainly.
+
+222
+00:17:57,283 --> 00:17:58,907
+I'll take that, my dear.
+
+223
+00:17:59,076 --> 00:18:01,567
+Perhaps the clubs, if you wouldn't mind.
+
+224
+00:18:01,745 --> 00:18:03,619
+I must keep fit, you know.
+
+225
+00:18:03,789 --> 00:18:06,078
+Yes, of course.
+
+226
+00:18:06,917 --> 00:18:09,491
+Our staff consists of Hillman,
+the gardener...
+
+227
+00:18:09,670 --> 00:18:11,497
+...and Mrs. Kidder, she let you in.
+
+228
+00:18:11,672 --> 00:18:14,128
+She comes in from the village
+three afternoons a week...
+
+229
+00:18:14,300 --> 00:18:16,126
+...to do the rough work.
+
+230
+00:18:16,719 --> 00:18:19,838
+That was my grandfather.
+He founded the family fortune.
+
+231
+00:18:20,014 --> 00:18:22,137
+- Tea biscuits, you know.
+- Oh, yes.
+
+232
+00:18:22,308 --> 00:18:24,977
+And very excellent biscuits
+they were too.
+
+233
+00:18:25,352 --> 00:18:27,974
+Quite a severe man, I'm afraid.
+
+234
+00:18:29,315 --> 00:18:32,648
+Miss Marple, I think it only fair
+to explain to you...
+
+235
+00:18:32,818 --> 00:18:35,143
+...that my father himself is...
+
+236
+00:18:35,321 --> 00:18:37,728
+Well, quite frankly,
+he's a bit difficult at times.
+
+237
+00:18:37,907 --> 00:18:39,864
+He's an invalid, you know.
+
+238
+00:18:40,034 --> 00:18:41,943
+He's very keen on economy...
+
+239
+00:18:42,119 --> 00:18:44,575
+...and he sometimes says things
+that upset people.
+
+240
+00:18:44,747 --> 00:18:45,861
+I wouldn't want you to...
+
+241
+00:18:46,040 --> 00:18:49,373
+I'm quite used to looking
+after elderly people of all sorts.
+
+242
+00:18:49,543 --> 00:18:51,168
+We'll manage.
+
+243
+00:18:52,588 --> 00:18:56,502
+Emma? Emma? I hear you?
+
+244
+00:18:56,675 --> 00:18:58,751
+Yes, Father. Excuse me one moment.
+
+245
+00:18:58,928 --> 00:19:01,134
+Don't try to sneak off.
+
+246
+00:19:01,305 --> 00:19:02,716
+Is that the new girl with you?
+
+247
+00:19:03,307 --> 00:19:05,346
+Well, yes, Father.
+
+248
+00:19:05,935 --> 00:19:08,508
+Hope she's got a bit more meat on her
+than the last one.
+
+249
+00:19:08,687 --> 00:19:10,561
+Can't stand them skinny.
+
+250
+00:19:10,731 --> 00:19:13,020
+Don't just stand there boggling,
+girl, bring her in.
+
+251
+00:19:13,192 --> 00:19:15,184
+- I want to look at her.
+- Yes.
+
+252
+00:19:15,361 --> 00:19:17,353
+Will you come in, please?
+
+253
+00:19:25,120 --> 00:19:28,869
+Father, this is Miss Marple. Jane.
+
+254
+00:19:29,041 --> 00:19:31,034
+And a plainer Jane
+I've never set eyes on.
+
+255
+00:19:31,210 --> 00:19:35,042
+Well, we can't all be young and
+handsome, can we, Mr. Ackenthorpe?
+
+256
+00:19:35,214 --> 00:19:37,883
+There's one thing
+I can't tolerate and that is impertinence.
+
+257
+00:19:38,801 --> 00:19:41,718
+Well, we should get on admirably.
+Neither can I.
+
+258
+00:19:42,346 --> 00:19:44,469
+Well, if you're coming to stay here...
+
+259
+00:19:44,640 --> 00:19:46,716
+...there's one thing
+you'd better understand.
+
+260
+00:19:47,268 --> 00:19:48,726
+Because I live in a big house...
+
+261
+00:19:48,894 --> 00:19:51,302
+...it doesn't necessarily follow
+that I'm a rich man...
+
+262
+00:19:51,480 --> 00:19:54,351
+...so there's no good coming here
+with extravagant ideas.
+
+263
+00:19:54,525 --> 00:19:58,225
+I live here because I want to,
+not because I can afford it.
+
+264
+00:19:58,904 --> 00:20:00,739
+- Father, don't you think...?
+- No, I don't.
+
+265
+00:20:00,906 --> 00:20:04,571
+- Can you cook?
+- If you want good English cooking, yes.
+
+266
+00:20:04,743 --> 00:20:07,578
+Cod's as good as lobster any day,
+and much cheaper.
+
+267
+00:20:09,248 --> 00:20:13,910
+That depends on whether or not one
+has a palate unsullied by cheap opiates.
+
+268
+00:20:14,253 --> 00:20:15,830
+If you mean what I think you mean...
+
+269
+00:20:16,005 --> 00:20:17,665
+...this cheroot cost two shillings.
+
+270
+00:20:18,173 --> 00:20:19,253
+Yes, quite.
+
+271
+00:20:19,883 --> 00:20:22,256
+I'll show Miss Marple to her room.
+This way, please.
+
+272
+00:20:22,678 --> 00:20:24,421
+Good idea.
+
+273
+00:20:30,519 --> 00:20:31,894
+That was Hillman, the gardener.
+
+274
+00:20:32,062 --> 00:20:35,182
+When Mr. Ackenthorpe wants
+to move about, he always calls him.
+
+275
+00:20:35,357 --> 00:20:36,982
+They're quite close.
+
+276
+00:20:37,151 --> 00:20:40,271
+Will you be staying, Miss Marple... Jane?
+
+277
+00:20:40,446 --> 00:20:42,604
+Why, my dear lady, of course.
+
+278
+00:20:42,781 --> 00:20:44,026
+I'm so glad.
+
+279
+00:20:44,199 --> 00:20:47,485
+Emma. Come back here.
+You've forgotten my medicine.
+
+280
+00:20:47,661 --> 00:20:49,950
+Excuse me a moment.
+That's your room, down there.
+
+281
+00:20:50,122 --> 00:20:53,123
+- The door opposite the small stairs.
+- I'll find it. Don't you worry.
+
+282
+00:20:53,292 --> 00:20:54,793
+- May I give you those?
+- Of course.
+
+283
+00:20:54,960 --> 00:20:56,953
+- All right?
+- Yes, thank you.
+
+284
+00:22:10,703 --> 00:22:12,363
+Come out at once.
+
+285
+00:22:15,082 --> 00:22:16,873
+I advise you to come out.
+
+286
+00:22:18,711 --> 00:22:19,956
+Very well.
+
+287
+00:22:45,112 --> 00:22:47,152
+You're Miss Emma's nephew, I presume.
+
+288
+00:22:47,323 --> 00:22:50,407
+Yes. Alexander Eastley. How do you do?
+
+289
+00:22:50,576 --> 00:22:53,945
+How do you do? I'm Jane, Jane Marple.
+
+290
+00:22:54,663 --> 00:22:57,285
+Yes. It is disappointing, isn't it?
+
+291
+00:22:57,458 --> 00:22:59,497
+I'd rather hoped
+for the Jayne Mansfield type.
+
+292
+00:23:00,419 --> 00:23:03,206
+I see you have something in common
+with your grandfather.
+
+293
+00:23:03,380 --> 00:23:05,254
+Oh, we're very alike in many ways.
+
+294
+00:23:05,424 --> 00:23:07,547
+Mind you, I'm not mean with money.
+
+295
+00:23:07,718 --> 00:23:10,838
+He'll stop that vase
+out of your wages, you know.
+
+296
+00:23:11,347 --> 00:23:14,182
+It's just as well you got out
+of the way, otherwise...
+
+297
+00:23:14,350 --> 00:23:17,137
+It'd have been my head,
+and you'd have got 10 years.
+
+298
+00:23:18,103 --> 00:23:19,432
+That is still possible.
+
+299
+00:23:24,944 --> 00:23:27,944
+You know, it isn't just that
+you don't look like Jayne Mansfield...
+
+300
+00:23:28,113 --> 00:23:29,940
+...you're not my idea of a maid, either.
+
+301
+00:23:30,449 --> 00:23:34,661
+Well, quite honestly, I don't think
+you'd be everybody's idea of a boy.
+
+302
+00:23:34,828 --> 00:23:37,366
+You know, there's something
+decidedly fishy about you.
+
+303
+00:23:38,082 --> 00:23:41,285
+I can see you'll have to go.
+After Mrs. Kidder, of course.
+
+304
+00:23:41,460 --> 00:23:43,618
+She's next. Depressing creature.
+
+305
+00:23:43,796 --> 00:23:45,041
+So was Annie.
+
+306
+00:23:45,214 --> 00:23:47,171
+- Annie?
+- Your predecessor.
+
+307
+00:23:47,341 --> 00:23:50,710
+Thin as a rake and a shocking cook.
+Can you cook?
+
+308
+00:23:51,929 --> 00:23:54,135
+Well, I think I've done better
+than Annie.
+
+309
+00:23:55,641 --> 00:23:59,092
+Grandfather's like that too,
+and he hates his dinner to be late.
+
+310
+00:23:59,270 --> 00:24:01,595
+I'd leave your unpacking until later,
+if I were you.
+
+311
+00:24:01,772 --> 00:24:05,473
+Well, in that case, hadn't you better
+show me the way to the kitchen?
+
+312
+00:24:05,651 --> 00:24:08,320
+Very well, Jane.
+
+313
+00:24:15,202 --> 00:24:16,910
+- Emma.
+- That's him.
+
+314
+00:24:17,079 --> 00:24:18,538
+Always shouting about something.
+
+315
+00:24:18,706 --> 00:24:21,375
+- Mostly money. This way.
+- Emma.
+
+316
+00:24:21,542 --> 00:24:24,329
+Of course, they're all waiting for him
+to drop dead, you know.
+
+317
+00:24:24,503 --> 00:24:26,330
+Frightful pack of vultures, our family.
+
+318
+00:24:26,505 --> 00:24:28,249
+Except possibly Aunt Emma.
+
+319
+00:24:28,424 --> 00:24:30,500
+And who are these vultures?
+
+320
+00:24:30,676 --> 00:24:33,345
+There's Uncle Harold,
+stinking rich and just as mean.
+
+321
+00:24:33,512 --> 00:24:36,050
+Uncle Albert, deadly dull, poor fellow.
+
+322
+00:24:36,223 --> 00:24:39,972
+Then there's Uncle Cedric.
+He paints, but not for art's sake.
+
+323
+00:24:40,144 --> 00:24:42,765
+Do you know, last year,
+he and one of his models...
+
+324
+00:24:44,732 --> 00:24:46,855
+- Alexander!
+- Well, he's like that.
+
+325
+00:24:47,526 --> 00:24:49,851
+- There was an Uncle Edmond.
+- Was?
+
+326
+00:24:50,029 --> 00:24:53,398
+Yes. Stopped a whole bomb
+during the war, all by himself.
+
+327
+00:24:53,574 --> 00:24:57,025
+Wasn't another man around for miles.
+Deserting, probably.
+
+328
+00:24:57,369 --> 00:24:59,409
+And who can be held responsible
+for you?
+
+329
+00:24:59,955 --> 00:25:03,241
+Well put. Mummy's name was Edith,
+but she's dead.
+
+330
+00:25:03,876 --> 00:25:05,952
+Daddy's Brian Eastley, you know.
+
+331
+00:25:06,128 --> 00:25:08,334
+You know, the fighter ace.
+Battle of Britain.
+
+332
+00:25:08,505 --> 00:25:10,747
+- Oh, the Brian Eastley.
+- Yes.
+
+333
+00:25:10,925 --> 00:25:14,874
+I'm going to set him up in business when
+I get my inheritance from Grandfather.
+
+334
+00:25:15,054 --> 00:25:16,096
+Here we are.
+
+335
+00:25:18,390 --> 00:25:20,549
+There you are, and about time too.
+Well, I'm off.
+
+336
+00:25:20,726 --> 00:25:23,893
+I wouldn't stay in this place after dark.
+Not for all the tea in China.
+
+337
+00:25:24,063 --> 00:25:27,147
+Now look, the pots and pans
+are on that shelf there, over the stove.
+
+338
+00:25:27,316 --> 00:25:32,108
+- Oh, yes.
+- The groceries and provisions, in there.
+
+339
+00:25:32,780 --> 00:25:34,938
+- Thank you.
+- Well, cheerio.
+
+340
+00:25:35,115 --> 00:25:38,401
+- Good day.
+- Good day, Mrs. Kidder.
+
+341
+00:25:38,577 --> 00:25:41,329
+- What's the matter with you?
+- I was merely being polite.
+
+342
+00:25:44,416 --> 00:25:46,409
+Charming, isn't she, Jane?
+
+343
+00:25:46,585 --> 00:25:48,545
+- I think you should see this. Come on.
+- What?
+
+344
+00:25:48,754 --> 00:25:51,541
+Phase four, anti-Kidder campaign.
+
+345
+00:26:00,557 --> 00:26:02,434
+Splendid.
+
+346
+00:26:04,520 --> 00:26:06,477
+Dinner at 8, please, Jane.
+
+347
+00:27:07,708 --> 00:27:10,662
+I see you made yourself comfortable.
+
+348
+00:27:10,836 --> 00:27:13,161
+I trust you have no objection.
+
+349
+00:27:13,339 --> 00:27:14,590
+Maybe.
+
+350
+00:27:18,302 --> 00:27:21,338
+I shouldn't make yourself
+too comfortable if I was you.
+
+351
+00:28:27,663 --> 00:28:28,706
+Yes?
+
+352
+00:28:30,499 --> 00:28:33,619
+- Who are you?
+- I'm the new maid, sir.
+
+353
+00:28:34,169 --> 00:28:36,625
+Doctor Quimper.
+You'll get used to seeing me here.
+
+354
+00:28:38,507 --> 00:28:41,378
+- Alexander, I suppose?
+- Yes, I'm afraid so.
+
+355
+00:28:41,552 --> 00:28:43,924
+Well, Mr. Ackenthorpe
+will be expecting me.
+
+356
+00:28:44,096 --> 00:28:45,341
+Oh, yes. I'll show you up.
+
+357
+00:28:45,514 --> 00:28:47,174
+Oh, that won't be...
+
+358
+00:28:54,732 --> 00:28:56,475
+The doctor...
+
+359
+00:28:56,650 --> 00:28:59,770
+Where on earth
+are my confounded matches?
+
+360
+00:29:00,112 --> 00:29:01,155
+Oh, it's you.
+
+361
+00:29:01,322 --> 00:29:03,065
+- Good morning.
+- Morning.
+
+362
+00:29:03,240 --> 00:29:06,158
+What are you doing in here?
+Snooping, I suppose.
+
+363
+00:29:06,327 --> 00:29:08,366
+Where are my matches?
+
+364
+00:29:12,291 --> 00:29:14,960
+If you're going to smoke,
+we'd better have some windows open.
+
+365
+00:29:15,127 --> 00:29:18,461
+I'm a great believer in fresh air,
+aren't you, doctor?
+
+366
+00:29:18,631 --> 00:29:20,956
+Why, yes, I am, Miss...?
+
+367
+00:29:21,133 --> 00:29:24,632
+Marple her name, marble her nature.
+
+368
+00:29:26,639 --> 00:29:30,138
+That's right.
+Let her give me double pneumonia.
+
+369
+00:29:30,309 --> 00:29:33,594
+If you can't kill me off one way,
+you'll kill me off another.
+
+370
+00:29:33,771 --> 00:29:37,471
+Nonsense. You're going to live to be
+100 in spite of anything I can do.
+
+371
+00:29:37,650 --> 00:29:41,564
+In that case, tell that woman to stop
+opening windows and light my cheroot.
+
+372
+00:29:41,737 --> 00:29:44,738
+Is there any chance
+that will send him to sleep, doctor?
+
+373
+00:29:45,366 --> 00:29:47,239
+I'm afraid it's a stimulant.
+
+374
+00:29:49,662 --> 00:29:50,990
+Roll over.
+
+375
+00:29:51,163 --> 00:29:52,990
+Oh, dear.
+
+376
+00:29:54,583 --> 00:29:56,955
+Hold it closer, woman.
+
+377
+00:30:04,927 --> 00:30:08,094
+Your hometown lost a good horse doctor
+when you left, Quimper.
+
+378
+00:30:08,264 --> 00:30:10,552
+As a matter of fact,
+I was very bad with the horses.
+
+379
+00:30:10,724 --> 00:30:13,844
+How'd the birthday party go?
+All the family get down all right?
+
+380
+00:30:14,019 --> 00:30:16,557
+Of course they did.
+Made a whole weekend of it.
+
+381
+00:30:16,730 --> 00:30:19,684
+- Board and lodging from Friday night.
+- Friday.
+
+382
+00:30:20,818 --> 00:30:22,976
+- What's that to do with you?
+- Oh, nothing.
+
+383
+00:30:23,153 --> 00:30:26,439
+It just happened to be
+an interesting day for me too.
+
+384
+00:30:26,615 --> 00:30:28,275
+How old were you, Mr. Ackenthorpe?
+
+385
+00:30:28,617 --> 00:30:32,282
+Mind your business.
+Anyhow, it was a miserable weekend.
+
+386
+00:30:32,705 --> 00:30:34,033
+I hope it'll be a long time...
+
+387
+00:30:34,206 --> 00:30:36,282
+...before I have to put up
+with them again.
+
+388
+00:30:37,001 --> 00:30:39,670
+Not a very nice way
+to talk about one's family.
+
+389
+00:30:39,837 --> 00:30:41,248
+Not a very nice family.
+
+390
+00:30:41,422 --> 00:30:44,292
+And you know what
+that overgrown beatnik Cedric, did?
+
+391
+00:30:44,466 --> 00:30:46,957
+Told Emma, in front of me,
+she ought to get out of here.
+
+392
+00:30:47,136 --> 00:30:50,505
+Get married or something.
+Tried to make her as selfish as he is.
+
+393
+00:30:50,681 --> 00:30:55,390
+I don't know. If Emma did marry,
+it wouldn't be such a bad thing.
+
+394
+00:30:56,729 --> 00:30:59,017
+Father, I thought I'd tell you
+I'm going into town.
+
+395
+00:30:59,189 --> 00:31:01,431
+I'll be leaving in a moment.
+Can I give you a lift?
+
+396
+00:31:01,609 --> 00:31:04,645
+What do you want to go to town for?
+Can't she go for whatever it is?
+
+397
+00:31:04,820 --> 00:31:07,026
+Well, it's tradesmen, Father.
+A few bills to pay.
+
+398
+00:31:07,197 --> 00:31:11,242
+Money. All right, it's a different thing.
+Can't trust anybody these days.
+
+399
+00:31:11,410 --> 00:31:12,821
+All right, off you go.
+
+400
+00:31:12,995 --> 00:31:15,237
+- In that case, may I be of service?
+- Thank you.
+
+401
+00:31:15,414 --> 00:31:18,201
+Of course you can, Quimper.
+Save the price of a taxi.
+
+402
+00:31:18,375 --> 00:31:20,582
+- Pay you enough as it is.
+- It'll be on your bill.
+
+403
+00:31:20,753 --> 00:31:22,087
+- You ready now?
+- Only my coat.
+
+404
+00:31:22,254 --> 00:31:25,837
+Good. Friday, then, Mr. Ackenthorpe.
+Good day, Miss Marple.
+
+405
+00:31:26,091 --> 00:31:27,634
+Good day, doctor.
+
+406
+00:31:27,801 --> 00:31:31,585
+If you don't shut those windows,
+you'll be fired.
+
+407
+00:31:31,764 --> 00:31:36,390
+In that case, I shall require
+four weeks wages in lieu of notice.
+
+408
+00:31:36,560 --> 00:31:40,605
+- Get out of my sight, woman!
+- With pleasure.
+
+409
+00:32:18,394 --> 00:32:20,682
+Your weight
+isn't quite evenly distributed.
+
+410
+00:32:22,147 --> 00:32:26,145
+I'll have you know that I won
+the Ladies Open Handicap in 1921.
+
+411
+00:32:26,318 --> 00:32:27,778
+Really?
+
+412
+00:32:28,153 --> 00:32:32,365
+- I'm sure you have many things to do.
+- Not at all. I'm most interested.
+
+413
+00:32:32,533 --> 00:32:34,656
+We've never had
+a golf-playing maid before.
+
+414
+00:32:34,827 --> 00:32:37,496
+You may have heard that this is the age
+of the common woman.
+
+415
+00:32:41,709 --> 00:32:44,828
+- You hooked.
+- I'm aware of it.
+
+416
+00:32:53,387 --> 00:32:55,344
+- You know something?
+- What?
+
+417
+00:32:55,681 --> 00:32:58,552
+I believe you pulled those shots
+on purpose.
+
+418
+00:32:59,184 --> 00:33:01,854
+Alexander, if you wish
+to be helpful at all...
+
+419
+00:33:02,021 --> 00:33:06,232
+...will you kindly look for the hook
+while I look for the slice?
+
+420
+00:34:20,599 --> 00:34:22,141
+Found yours yet?
+
+421
+00:34:22,309 --> 00:34:23,768
+Yes, have you?
+
+422
+00:34:23,936 --> 00:34:25,560
+Disappeared without a trace.
+
+423
+00:34:25,729 --> 00:34:27,556
+Well, fortunately I have some more.
+
+424
+00:34:27,731 --> 00:34:30,483
+At the present rate,
+you're going to need them.
+
+425
+00:34:31,777 --> 00:34:34,564
+Perhaps you would care
+to demonstrate the next one.
+
+426
+00:34:34,738 --> 00:34:35,936
+Certainly.
+
+427
+00:34:39,660 --> 00:34:42,910
+Let's see how close you can get
+to those outbuildings.
+
+428
+00:34:43,831 --> 00:34:46,037
+Yes, I think that's possible.
+
+429
+00:34:55,593 --> 00:34:56,635
+Fair.
+
+430
+00:34:57,511 --> 00:35:01,176
+You know perfectly well it was superb
+for a boy of my age.
+
+431
+00:35:11,817 --> 00:35:13,062
+Right on the fairway.
+
+432
+00:35:13,235 --> 00:35:15,809
+A chip and a putt
+and I'd have holed out in three.
+
+433
+00:35:16,655 --> 00:35:19,111
+Does your grandfather keep horses,
+Alexander?
+
+434
+00:35:19,283 --> 00:35:23,150
+He did. Now he just keeps a few relics
+of a more spacious age.
+
+435
+00:35:23,329 --> 00:35:24,527
+Nostalgia, you know.
+
+436
+00:35:24,705 --> 00:35:27,908
+A failing of the old, I suppose.
+Like to look?
+
+437
+00:35:28,083 --> 00:35:30,918
+Well, I think I'm old enough don't you?
+
+438
+00:35:39,136 --> 00:35:40,844
+An old-fashioned Pony chaise.
+
+439
+00:35:41,013 --> 00:35:43,089
+They used that for going to the village.
+
+440
+00:35:43,265 --> 00:35:45,590
+I suppose they used the Victoria
+for going to church?
+
+441
+00:35:45,768 --> 00:35:48,722
+Yes, on Sundays in the summer,
+I believe.
+
+442
+00:35:49,063 --> 00:35:51,470
+And the brougham's for visiting
+in the winter perhaps.
+
+443
+00:35:51,649 --> 00:35:53,273
+Yes, I expect so.
+
+444
+00:35:53,442 --> 00:35:55,435
+It's supposed to be haunted here,
+you know.
+
+445
+00:35:55,611 --> 00:35:57,734
+Grandfather found a man
+hanging from this rafter.
+
+446
+00:35:57,905 --> 00:35:59,573
+- Good heavens.
+- He'd been dead a week.
+
+447
+00:35:59,740 --> 00:36:01,234
+- That will do.
+- All purple.
+
+448
+00:36:01,408 --> 00:36:02,903
+Alexander.
+
+449
+00:36:04,370 --> 00:36:06,327
+- What was that?
+- I wonder.
+
+450
+00:36:06,497 --> 00:36:08,205
+All right. I'll look.
+
+451
+00:36:08,374 --> 00:36:10,117
+All yours.
+
+452
+00:36:12,378 --> 00:36:15,544
+Dear, dear, we are nervous, aren't we?
+
+453
+00:36:16,674 --> 00:36:17,716
+Pity.
+
+454
+00:36:17,883 --> 00:36:20,125
+- Well, what did you expect to find?
+- Bodies.
+
+455
+00:36:20,302 --> 00:36:22,972
+- What?
+- Live ones, of course.
+
+456
+00:36:23,138 --> 00:36:25,926
+Used to be quite the spot
+for courting couples from the town...
+
+457
+00:36:26,100 --> 00:36:28,306
+...till grandfather got Hillman to stop it.
+
+458
+00:36:28,477 --> 00:36:31,763
+Spoil sport. Quite extraordinary,
+the goings-on here.
+
+459
+00:36:31,939 --> 00:36:34,644
+- Apparently there was this girl...
+- That's enough, Alexander.
+
+460
+00:36:34,817 --> 00:36:37,652
+There may be some other
+poor bird trapped.
+
+461
+00:36:58,507 --> 00:36:59,836
+Look at this.
+
+462
+00:37:00,009 --> 00:37:01,835
+Somebody else must have been in here.
+
+463
+00:37:02,011 --> 00:37:04,087
+- This isn't Aunt Emma's.
+- It's mine.
+
+464
+00:37:04,263 --> 00:37:07,430
+I must have dropped it.
+Thank you so much.
+
+465
+00:37:07,600 --> 00:37:09,841
+It was bequeathed to me.
+
+466
+00:37:10,019 --> 00:37:12,936
+You're not, by any chance, on the run
+from the police, are you?
+
+467
+00:37:13,105 --> 00:37:14,184
+Too much television.
+
+468
+00:37:14,356 --> 00:37:17,606
+You must learn to rationalize
+your imagination.
+
+469
+00:37:18,068 --> 00:37:19,942
+What's behind there?
+
+470
+00:37:20,112 --> 00:37:21,654
+More relics from the past?
+
+471
+00:37:21,822 --> 00:37:23,281
+Matter of fact, yes.
+
+472
+00:37:23,449 --> 00:37:25,488
+The fruits of grandfather's
+Egyptian phase.
+
+473
+00:37:25,659 --> 00:37:27,119
+Indeed.
+
+474
+00:37:27,620 --> 00:37:29,280
+How interesting.
+
+475
+00:37:41,467 --> 00:37:43,552
+- No one's allowed in there.
+- Let go of my wrist.
+
+476
+00:37:43,761 --> 00:37:45,171
+- What are you up to?
+- Up to?
+
+477
+00:37:45,346 --> 00:37:47,837
+- The boy was showing me around.
+- What boy?
+
+478
+00:37:48,015 --> 00:37:50,054
+- Alexander. He...
+- You're lying.
+
+479
+00:37:51,560 --> 00:37:54,229
+Alexander, come out of there at once.
+
+480
+00:37:56,982 --> 00:37:59,556
+I thought discretion
+the better part of valor, Jane.
+
+481
+00:37:59,735 --> 00:38:02,308
+This fellow's not above clipping
+a person's ear.
+
+482
+00:38:02,488 --> 00:38:05,358
+You know your grandfather don't like
+no one sneaking around here.
+
+483
+00:38:05,532 --> 00:38:07,240
+Don't think I won't tell him, neither.
+
+484
+00:38:07,409 --> 00:38:09,983
+Despite the double negatives,
+I'm sure you will.
+
+485
+00:38:10,162 --> 00:38:11,953
+Come, Jane.
+
+486
+00:38:12,331 --> 00:38:14,620
+Good for you, young man.
+
+487
+00:41:54,011 --> 00:41:55,054
+What?
+
+488
+00:41:55,804 --> 00:41:56,847
+No.
+
+489
+00:41:57,723 --> 00:41:58,766
+No.
+
+490
+00:41:58,933 --> 00:42:01,055
+Now, listen, Mr. Stringer...
+
+491
+00:42:01,226 --> 00:42:04,346
+...I want you to inform the police,
+anonymously.
+
+492
+00:42:04,521 --> 00:42:06,395
+Don't mention me yet.
+
+493
+00:42:06,565 --> 00:42:08,772
+I wish to be in at the kill, so to speak.
+
+494
+00:42:08,984 --> 00:42:10,313
+Miss Marple, really.
+
+495
+00:42:10,486 --> 00:42:14,863
+All right, but it makes my blood run cold
+to think of you there alone.
+
+496
+00:42:15,032 --> 00:42:19,445
+I was wondering, perhaps they have
+a vacancy for a gardener?
+
+497
+00:42:20,079 --> 00:42:21,537
+They've got one.
+
+498
+00:42:21,705 --> 00:42:24,279
+Very well, I'll do as you say.
+
+499
+00:42:25,292 --> 00:42:27,415
+Miss Marple, the compact.
+
+500
+00:42:27,586 --> 00:42:30,160
+If the murderer should know
+that you have it...
+
+501
+00:42:30,339 --> 00:42:32,747
+I'll be careful, dear Mr. Stringer.
+
+502
+00:42:32,925 --> 00:42:35,250
+Now phone the inspector right away.
+
+503
+00:42:54,822 --> 00:42:57,776
+- Well?
+- Never seen her before in my life.
+
+504
+00:42:57,950 --> 00:43:00,073
+No, she's not from these parts.
+
+505
+00:43:00,244 --> 00:43:02,913
+Well, whoever she is,
+I want her out of here at once.
+
+506
+00:43:03,122 --> 00:43:05,992
+If you hadn't left the barn unlocked
+this wouldn't have happened.
+
+507
+00:43:06,166 --> 00:43:09,084
+We wouldn't have these people
+poking their noses into everything.
+
+508
+00:43:14,300 --> 00:43:17,087
+- Are you all right, Father?
+- Of course I'm all right.
+
+509
+00:43:17,261 --> 00:43:19,170
+Think I've never seen a corpse before?
+
+510
+00:43:19,346 --> 00:43:21,422
+Be one myself soon.
+
+511
+00:43:21,807 --> 00:43:24,298
+Perhaps you'd better
+go back to the house.
+
+512
+00:43:24,476 --> 00:43:26,434
+I'll follow you up.
+
+513
+00:43:34,069 --> 00:43:36,691
+Whoever it was tried
+to get her in here first.
+
+514
+00:43:36,864 --> 00:43:40,280
+It must've taken the strength
+of a maniac to shift it this far.
+
+515
+00:43:40,451 --> 00:43:42,028
+Inspector?
+
+516
+00:43:42,828 --> 00:43:44,453
+Oh, yes, doctor.
+
+517
+00:43:44,622 --> 00:43:47,658
+I don't know whether
+this is being helpful...
+
+518
+00:43:48,459 --> 00:43:49,657
+Go on.
+
+519
+00:43:49,835 --> 00:43:52,041
+Well, the woman, no one recognized her.
+
+520
+00:43:52,212 --> 00:43:55,831
+And her clothes struck me as
+being foreign. Perhaps French.
+
+521
+00:43:58,010 --> 00:44:01,213
+Yes, that's very interesting.
+Yes, thank you, doctor.
+
+522
+00:44:02,056 --> 00:44:03,680
+Well, it was just a thought.
+
+523
+00:44:03,849 --> 00:44:05,723
+Maybe a useful one. Thank you.
+
+524
+00:44:14,693 --> 00:44:16,935
+That would explain why
+I didn't recognize her, sir.
+
+525
+00:44:17,112 --> 00:44:18,820
+I know every face for miles around.
+
+526
+00:44:18,989 --> 00:44:20,365
+I'm sure you do, sergeant.
+
+527
+00:44:20,532 --> 00:44:22,525
+Still, I have to start
+with the assumption...
+
+528
+00:44:22,701 --> 00:44:25,073
+...there's some connection
+between her and the family.
+
+529
+00:44:25,246 --> 00:44:27,534
+I think I'll get the whole bunch
+down here.
+
+530
+00:44:27,873 --> 00:44:30,660
+There'll be fireworks, sir.
+They hate the sight of each other.
+
+531
+00:44:30,834 --> 00:44:32,163
+So I believe.
+
+532
+00:44:32,336 --> 00:44:34,163
+Anyway, routine first.
+
+533
+00:44:34,338 --> 00:44:36,710
+Have they any other servants
+apart from this gardener?
+
+534
+00:44:36,882 --> 00:44:38,709
+Yes, they have, inspector.
+
+535
+00:44:42,942 --> 00:44:44,567
+Good Lord.
+
+536
+00:44:44,736 --> 00:44:46,693
+- You.
+- Yes.
+
+537
+00:44:46,863 --> 00:44:48,986
+Dotty old me.
+
+538
+00:45:07,050 --> 00:45:08,674
+In there, please.
+
+539
+00:45:10,011 --> 00:45:14,554
+It's only a cigarette packet.
+Of doubtful significance, I'd say.
+
+540
+00:45:14,891 --> 00:45:16,718
+I'll bear your views in mind.
+
+541
+00:45:16,893 --> 00:45:20,262
+Any idea what you expect
+your fellows to find?
+
+542
+00:45:20,688 --> 00:45:22,432
+- Clues.
+- Well, naturally.
+
+543
+00:45:22,607 --> 00:45:25,774
+But do you seriously think
+they'll find anything?
+
+544
+00:45:26,778 --> 00:45:30,147
+Well, somebody dragged the body
+from there over to there.
+
+545
+00:45:30,323 --> 00:45:33,241
+It's possible something could have been
+dropped in the process.
+
+546
+00:45:33,410 --> 00:45:36,613
+- Don't you agree?
+- Yes. Yes, I do.
+
+547
+00:45:36,788 --> 00:45:39,955
+- Did you find anything?
+- No, inspector. Not a thing.
+
+548
+00:45:40,125 --> 00:45:43,244
+- Family's here, by the way.
+- Thank you.
+
+549
+00:45:43,420 --> 00:45:45,163
+I'll get around to them later.
+
+550
+00:45:45,338 --> 00:45:48,837
+They'll enjoy that, I'm sure.
+Good hunting.
+
+551
+00:45:52,804 --> 00:45:55,212
+Some silly idiot goes
+and strangles his girlfriend...
+
+552
+00:45:55,390 --> 00:45:58,307
+...which she probably richly deserved,
+and what do they do?
+
+553
+00:45:58,476 --> 00:45:59,935
+Swarm all over the place...
+
+554
+00:46:00,103 --> 00:46:02,179
+...mess about in our private affairs.
+
+555
+00:46:02,355 --> 00:46:05,439
+I said to this inspector fellow,
+Haddock, or whatever his name is...
+
+556
+00:46:06,025 --> 00:46:07,983
+Craddock, sir.
+
+557
+00:46:08,153 --> 00:46:11,070
+- Shall I pour?
+- Of course.
+
+558
+00:46:11,322 --> 00:46:13,778
+Anyway, I said to this fellow, Haddock...
+
+559
+00:46:13,950 --> 00:46:17,615
+...that no member of my family had ever
+seen the woman, and that was final.
+
+560
+00:46:17,787 --> 00:46:19,780
+Well, what makes you
+so sure of that, Father?
+
+561
+00:46:19,956 --> 00:46:21,201
+Now, Cedric, this is absurd.
+
+562
+00:46:21,374 --> 00:46:23,782
+Well, after all, Harold,
+she wasn't from around here...
+
+563
+00:46:23,960 --> 00:46:26,202
+...and she was found in our stable,
+wasn't she?
+
+564
+00:46:26,379 --> 00:46:28,206
+One of us could have known her.
+
+565
+00:46:28,381 --> 00:46:30,216
+She could've been your girlfriend,
+dear boy.
+
+566
+00:46:30,425 --> 00:46:31,468
+What?
+
+567
+00:46:31,634 --> 00:46:34,671
+Yes, yes, I suppose
+Cedric has a point there.
+
+568
+00:46:35,221 --> 00:46:38,092
+- He never has a point.
+- I mean, from the police point of view.
+
+569
+00:46:38,266 --> 00:46:39,677
+It's all right for you, Eastley.
+
+570
+00:46:39,851 --> 00:46:42,686
+I don't suppose you're too concerned
+with the family reputation.
+
+571
+00:46:42,854 --> 00:46:45,855
+After all, you're not a member of it,
+are you, strictly speaking?
+
+572
+00:46:46,024 --> 00:46:48,396
+What I can't understand
+is who telephoned the police.
+
+573
+00:46:48,568 --> 00:46:50,893
+Oh, I know who did that.
+
+574
+00:46:52,781 --> 00:46:53,823
+Who?
+
+575
+00:46:54,240 --> 00:46:58,024
+Obviously someone who knew
+the body was there.
+
+576
+00:46:58,703 --> 00:47:00,992
+Any coffee left, Jane?
+
+577
+00:47:01,706 --> 00:47:03,366
+Help yourself.
+
+578
+00:47:04,250 --> 00:47:06,160
+Well, it certainly wasn't one of us.
+
+579
+00:47:06,336 --> 00:47:08,909
+- Who knows?
+- Who cares who did it anyway?
+
+580
+00:47:09,089 --> 00:47:12,043
+- The woman was probably a spy.
+- That's absurd, Father.
+
+581
+00:47:12,217 --> 00:47:13,877
+The police think she was a foreigner.
+
+582
+00:47:14,052 --> 00:47:17,088
+Well, lots of English girls go to Paris
+and buy French clothes.
+
+583
+00:47:17,847 --> 00:47:19,389
+Decent ones don't.
+
+584
+00:47:19,557 --> 00:47:22,309
+Doctor Quimper to see you,
+Mr. Ackenthorpe.
+
+585
+00:47:22,477 --> 00:47:25,727
+Still getting shot
+with revitalizers, Father?
+
+586
+00:47:25,897 --> 00:47:28,518
+I'd take anything to outlive you lot...
+
+587
+00:47:28,691 --> 00:47:32,025
+...and keep my property from
+your thieving hands.
+
+588
+00:47:35,365 --> 00:47:39,113
+Well, I'll just go and see if I can be
+of any further assistance to the police.
+
+589
+00:47:39,285 --> 00:47:41,693
+Delicious coffee, Jane.
+
+590
+00:47:45,041 --> 00:47:48,742
+By the way, the inspector said
+he'd be interrogating you all later.
+
+591
+00:47:48,920 --> 00:47:51,411
+Better get your alibis ready.
+
+592
+00:47:52,674 --> 00:47:54,548
+He's a bright boy, that one.
+
+593
+00:47:54,717 --> 00:47:58,003
+Well, let's face it, the police say
+the woman was murdered on Friday...
+
+594
+00:47:58,179 --> 00:47:59,971
+...and we were down here last Friday.
+
+595
+00:48:00,140 --> 00:48:02,132
+They're gonna be very interested
+in all of us.
+
+596
+00:48:02,308 --> 00:48:04,135
+But none of us were here till quite late.
+
+597
+00:48:04,310 --> 00:48:08,640
+Yes, but the point is,
+what were we all doing earlier?
+
+598
+00:48:08,815 --> 00:48:10,642
+Albert, what about you?
+
+599
+00:48:10,817 --> 00:48:12,062
+- Me?
+- Yes, you.
+
+600
+00:48:12,235 --> 00:48:14,228
+Don't tell me you were
+in your office all day.
+
+601
+00:48:14,404 --> 00:48:17,073
+L... Well, no.
+
+602
+00:48:17,240 --> 00:48:21,190
+As a matter of fact, there was a film
+that I particularly wanted to see.
+
+603
+00:48:21,369 --> 00:48:22,744
+A Brigitte Bardot?
+
+604
+00:48:22,912 --> 00:48:24,739
+Now, look, Cedric, this is preposterous.
+
+605
+00:48:24,914 --> 00:48:28,248
+Oh, well, is it, Harold?
+Very well, what about you?
+
+606
+00:48:28,418 --> 00:48:31,917
+Or can your secretary verify
+all your movements on that day?
+
+607
+00:48:32,088 --> 00:48:34,840
+- That's none of your business.
+- Well, I'm in the clear.
+
+608
+00:48:35,008 --> 00:48:37,000
+I was at my club.
+
+609
+00:48:37,510 --> 00:48:39,135
+It has a back door, hasn't it?
+
+610
+00:48:39,304 --> 00:48:43,088
+Yes, I think so, but I didn't get
+here until Saturday.
+
+611
+00:48:43,433 --> 00:48:45,840
+But you could've lugged
+the body up here on Friday...
+
+612
+00:48:46,019 --> 00:48:47,347
+...slipped back to London...
+
+613
+00:48:47,520 --> 00:48:50,936
+...and be sitting in your usual chair
+when the club closed.
+
+614
+00:48:51,107 --> 00:48:53,645
+I suppose one of your women friends
+can vouch for you?
+
+615
+00:48:53,818 --> 00:48:58,030
+Why, I'm certain my current comfort
+will satisfy the inspector completely...
+
+616
+00:48:58,198 --> 00:49:00,867
+...as, no doubt, will your secretary.
+
+617
+00:49:02,368 --> 00:49:05,572
+When you've finished here, will you
+kindly bring me some fresh coffee...
+
+618
+00:49:05,747 --> 00:49:06,909
+...into the library?
+
+619
+00:49:07,082 --> 00:49:08,624
+Certainly, sir.
+
+620
+00:49:08,792 --> 00:49:11,579
+Well, well, jumpy, isn't he?
+
+621
+00:49:11,753 --> 00:49:13,164
+And you're very calm.
+
+622
+00:49:13,338 --> 00:49:15,663
+But then, I've no reason not to be.
+
+623
+00:49:19,969 --> 00:49:21,547
+I've just been thinking.
+
+624
+00:49:22,388 --> 00:49:23,931
+If that woman was foreign...
+
+625
+00:49:24,099 --> 00:49:26,091
+You should think of girls
+more often, Albert.
+
+626
+00:49:26,267 --> 00:49:28,011
+Might bring about
+some changes in you.
+
+627
+00:49:28,186 --> 00:49:30,309
+- I know it's laughable.
+- I agree.
+
+628
+00:49:30,480 --> 00:49:35,058
+No, but, I mean, if she was French...
+It could be her, I suppose.
+
+629
+00:49:35,235 --> 00:49:36,812
+All right, I give up. Could be who?
+
+630
+00:49:37,904 --> 00:49:39,149
+That Martine woman.
+
+631
+00:49:39,447 --> 00:49:41,155
+- Martine?
+- Yes.
+
+632
+00:49:41,324 --> 00:49:44,076
+You know that French farm girl
+we had all the trouble about?
+
+633
+00:49:44,244 --> 00:49:47,161
+The one Edmond was so infatuated with
+before he was killed?
+
+634
+00:49:47,330 --> 00:49:50,366
+- But that was ages ago.
+- Yes, I know.
+
+635
+00:49:50,667 --> 00:49:53,074
+Still, I suppose it is possible.
+
+636
+00:49:53,253 --> 00:49:57,381
+But why should she turn up dead
+in our stable 16 years later?
+
+637
+00:49:57,549 --> 00:50:01,083
+- It's preposterous.
+- Well, it isn't my idea.
+
+638
+00:50:01,261 --> 00:50:02,671
+Well, whose idea is it then?
+
+639
+00:50:03,513 --> 00:50:05,470
+Well, Emma's.
+
+640
+00:50:06,182 --> 00:50:07,225
+Emma?
+
+641
+00:50:07,809 --> 00:50:09,269
+Emma's?
+
+642
+00:50:09,519 --> 00:50:11,179
+That's odd.
+
+643
+00:50:16,735 --> 00:50:17,777
+Paul.
+
+644
+00:50:33,752 --> 00:50:36,456
+- Darling.
+- No, Paul, please.
+
+645
+00:50:36,629 --> 00:50:38,752
+How much longer are we
+going on like this, Emma?
+
+646
+00:50:38,923 --> 00:50:41,046
+We've got to tell the old man.
+
+647
+00:50:41,217 --> 00:50:43,969
+- Not yet. Please, not yet.
+- Why? Why?
+
+648
+00:50:44,179 --> 00:50:45,637
+Paul...
+
+649
+00:50:46,055 --> 00:50:49,222
+...I think someone in the family
+may be a murderer.
+
+650
+00:50:49,559 --> 00:50:50,602
+Emma.
+
+651
+00:50:51,686 --> 00:50:55,351
+I've had a letter.
+I can't keep it to myself any longer.
+
+652
+00:50:55,523 --> 00:50:57,682
+I want you to read it.
+
+653
+00:50:59,194 --> 00:51:02,230
+I'm afraid my French isn't up to this.
+
+654
+00:51:03,073 --> 00:51:04,946
+"Dear Miss Ackenthorpe...
+
+655
+00:51:05,116 --> 00:51:07,654
+...you will be surprised to hear,
+after so many years...
+
+656
+00:51:07,827 --> 00:51:10,401
+...that you have a sister-in-law.
+
+657
+00:51:10,580 --> 00:51:14,660
+I married your brother Edmond
+two days before he was killed in action.
+
+658
+00:51:14,834 --> 00:51:17,076
+I decided it was best
+to forget the marriage...
+
+659
+00:51:17,253 --> 00:51:19,246
+...but now I'm planning
+a visit to England...
+
+660
+00:51:19,422 --> 00:51:22,340
+...and I find I do wish to meet you all.
+
+661
+00:51:22,675 --> 00:51:26,969
+I write to you instead of your father
+because I understand he is a sick man...
+
+662
+00:51:27,138 --> 00:51:31,765
+...and my existence may come as a
+shock to him, as it must be to you all.
+
+663
+00:51:31,935 --> 00:51:36,098
+Sincerely yours, Martine Ackenthorpe."
+
+664
+00:51:36,898 --> 00:51:39,815
+But I thought Edmond was killed
+before they had a chance to marry.
+
+665
+00:51:39,984 --> 00:51:41,776
+That's what we all thought.
+
+666
+00:51:42,529 --> 00:51:44,770
+- What's on your mind, Emma?
+- Well, don't you see?
+
+667
+00:51:44,948 --> 00:51:47,273
+The strangled woman,
+it must have been Martine.
+
+668
+00:51:47,450 --> 00:51:50,237
+Listen, if she could've proved
+she was really Edmond's widow...
+
+669
+00:51:50,412 --> 00:51:52,534
+...she'd have been entitled
+to share in the will.
+
+670
+00:51:52,705 --> 00:51:54,791
+Oh, I see.
+
+671
+00:51:55,208 --> 00:51:56,951
+Paul, what shall I do?
+
+672
+00:51:57,961 --> 00:51:59,870
+- Have you told the others?
+- No.
+
+673
+00:52:00,171 --> 00:52:04,121
+I did suggest to Albert that if the woman
+was French, she might be Martine.
+
+674
+00:52:04,300 --> 00:52:05,498
+What did he say?
+
+675
+00:52:05,677 --> 00:52:09,461
+He said it was fantastic,
+but I think he was worried.
+
+676
+00:52:12,684 --> 00:52:14,059
+You'll have to tell the police.
+
+677
+00:52:14,227 --> 00:52:16,433
+They're bound to think
+one of the family did this.
+
+678
+00:52:16,604 --> 00:52:17,885
+What else can you do?
+
+679
+00:52:18,064 --> 00:52:20,353
+I don't know. I don't know.
+
+680
+00:52:20,525 --> 00:52:22,933
+I think you must tell them.
+
+681
+00:52:23,278 --> 00:52:25,769
+I'll have to think about this.
+
+682
+00:52:26,573 --> 00:52:28,482
+You'd better go.
+
+683
+00:52:39,669 --> 00:52:41,994
+- Good afternoon.
+- Good afternoon.
+
+684
+00:53:33,181 --> 00:53:36,764
+- Oh, there you are.
+- The train was late, Miss Marple. L...
+
+685
+00:53:38,019 --> 00:53:39,893
+Good evening, inspector.
+
+686
+00:53:40,063 --> 00:53:42,102
+I suppose you knew about
+this compact business?
+
+687
+00:53:42,273 --> 00:53:43,858
+- Well, l...
+- Before I did, no doubt?
+
+688
+00:53:44,025 --> 00:53:45,068
+Well, you see...
+
+689
+00:53:45,235 --> 00:53:48,568
+I thought it best to bring the inspector
+in on this after all, Mr. Stringer.
+
+690
+00:53:48,738 --> 00:53:51,739
+- Very wise. Very wise.
+- I'm glad you think so.
+
+691
+00:53:52,242 --> 00:53:54,911
+Withholding information from
+the police is a serious matter.
+
+692
+00:53:55,286 --> 00:53:57,908
+Oh, I know, inspector,
+and I'm most awfully sorry.
+
+693
+00:53:58,081 --> 00:54:01,035
+- Will you take tea?
+- Thank you, no.
+
+694
+00:54:01,334 --> 00:54:03,208
+Don't you realize what this means?
+
+695
+00:54:03,378 --> 00:54:05,370
+The compact having been stolen
+from your room?
+
+696
+00:54:05,547 --> 00:54:06,875
+Coffee perhaps?
+
+697
+00:54:07,048 --> 00:54:10,251
+It means that the thief and the murderer
+are almost certainly the same...
+
+698
+00:54:10,427 --> 00:54:12,752
+...and that he or she is in that house...
+
+699
+00:54:13,179 --> 00:54:15,421
+...and that your life may be
+in great danger.
+
+700
+00:54:15,598 --> 00:54:17,924
+Oh, I say, do you really think so?
+
+701
+00:54:18,560 --> 00:54:21,596
+Now, I must ask you to give the whole
+thing up immediately, tonight.
+
+702
+00:54:21,771 --> 00:54:25,105
+Yes, of course.
+Indeed you must, Miss Marple.
+
+703
+00:54:28,069 --> 00:54:31,154
+Very well, then, I'll give in
+my notice tomorrow.
+
+704
+00:54:31,322 --> 00:54:32,365
+Good.
+
+705
+00:54:33,241 --> 00:54:34,439
+That's settled then.
+
+706
+00:54:34,617 --> 00:54:37,618
+It has to be a month's notice, you know.
+
+707
+00:54:37,912 --> 00:54:41,957
+- Will you have a small beer, inspector?
+- Miss Marple, I...
+
+708
+00:54:42,292 --> 00:54:44,580
+Oh, what's the use?
+
+709
+00:54:47,797 --> 00:54:49,873
+- Good night.
+- Good night.
+
+710
+00:54:51,718 --> 00:54:55,217
+Well, now, how did you get
+on at the Probate Registry?
+
+711
+00:54:55,555 --> 00:54:58,639
+Really, Miss Marple, I think,
+in view of what the inspector said...
+
+712
+00:54:58,808 --> 00:55:01,180
+- Did you see the will?
+- Yes.
+
+713
+00:55:01,978 --> 00:55:03,176
+And what did it say?
+
+714
+00:55:03,521 --> 00:55:07,815
+Well, old Mr. Ackenthorpe's father
+obviously didn't get on well with him.
+
+715
+00:55:07,984 --> 00:55:09,893
+I'm not surprised at that. Go on.
+
+716
+00:55:10,070 --> 00:55:13,853
+You see, the house and the income
+from the family fortune are his...
+
+717
+00:55:14,032 --> 00:55:17,483
+...but he can't touch the fortune itself.
+
+718
+00:55:17,660 --> 00:55:19,736
+That's the first point.
+
+719
+00:55:20,288 --> 00:55:21,331
+Yes?
+
+720
+00:55:21,664 --> 00:55:25,116
+The second point is that the fortune
+goes to his children on his death.
+
+721
+00:55:25,293 --> 00:55:28,709
+- To Emma, Cedric, Harold and Albert.
+- Yes.
+
+722
+00:55:28,880 --> 00:55:31,086
+Two of the others in the will,
+Edith and Edmond...
+
+723
+00:55:31,257 --> 00:55:32,835
+...are already dead, of course.
+
+724
+00:55:33,676 --> 00:55:34,957
+That much more for the rest.
+
+725
+00:55:35,136 --> 00:55:37,627
+Well, young Alexander,
+Edith's son, gets her share.
+
+726
+00:55:37,806 --> 00:55:39,597
+What about the boy's father, Eastley?
+
+727
+00:55:39,766 --> 00:55:43,016
+Next of kin only come in for a share
+if there's no issue of a marriage.
+
+728
+00:55:43,186 --> 00:55:46,353
+So Eastley's only interest is
+how much young Alexander gets?
+
+729
+00:55:46,523 --> 00:55:50,686
+- Dr. Quimper to see you, sir.
+- Oh, yes, send him in.
+
+730
+00:55:51,152 --> 00:55:53,477
+Your call to the Probate Registry's
+been very useful.
+
+731
+00:55:53,655 --> 00:55:55,030
+Thanks.
+
+732
+00:55:55,824 --> 00:55:57,909
+- Morning, inspector.
+- Morning, doctor, sit down.
+
+733
+00:55:58,118 --> 00:55:59,576
+Thank you.
+
+734
+00:56:00,203 --> 00:56:02,361
+Have you found out
+who the woman is yet?
+
+735
+00:56:02,539 --> 00:56:05,041
+The French police haven't come up
+with anything so far, sir.
+
+736
+00:56:05,834 --> 00:56:08,538
+You are working on the assumption
+that she's French, then?
+
+737
+00:56:08,711 --> 00:56:12,045
+The clothes and makeup did turn out
+to be made in Paris, yes.
+
+738
+00:56:12,215 --> 00:56:14,457
+Is that what you wanted
+to see me about?
+
+739
+00:56:14,634 --> 00:56:16,212
+No, sir.
+
+740
+00:56:17,345 --> 00:56:19,053
+I understand last Christmas...
+
+741
+00:56:19,222 --> 00:56:21,215
+...old Mr. Ackenthorpe
+had a stomach upset.
+
+742
+00:56:21,391 --> 00:56:25,258
+Yes, he's inclined to overindulge
+when there's too much rich food about.
+
+743
+00:56:25,437 --> 00:56:28,437
+But he said you had asked him
+a lot of questions...
+
+744
+00:56:28,648 --> 00:56:30,806
+...as though you suspected
+arsenic poisoning.
+
+745
+00:56:30,984 --> 00:56:32,312
+All right.
+
+746
+00:56:32,485 --> 00:56:34,727
+I did suspect
+something was a bit odd.
+
+747
+00:56:35,071 --> 00:56:37,064
+- Didn't you run a food test?
+- No.
+
+748
+00:56:37,240 --> 00:56:38,520
+Why not?
+
+749
+00:56:38,700 --> 00:56:42,318
+Well, there was nothing positive.
+No history of chronic gastric trouble...
+
+750
+00:56:42,495 --> 00:56:46,493
+...such as one would expect to find in
+the classic method of arsenic poisoning.
+
+751
+00:56:46,666 --> 00:56:48,623
+You mean small doses
+administered regularly?
+
+752
+00:56:48,835 --> 00:56:50,503
+Exactly.
+
+753
+00:56:51,755 --> 00:56:53,249
+Excuse me.
+
+754
+00:56:57,510 --> 00:56:58,553
+Yes?
+
+755
+00:57:00,263 --> 00:57:01,805
+Put her on.
+
+756
+00:57:01,973 --> 00:57:04,262
+- Miss Ackenthorpe.
+- Emma?
+
+757
+00:57:06,603 --> 00:57:07,645
+Yes.
+
+758
+00:57:09,522 --> 00:57:11,349
+- <i>Hello.</i>
+- Hello. Morning.
+
+759
+00:57:11,524 --> 00:57:13,102
+<i>I've had a letter from...</i>
+
+760
+00:57:13,985 --> 00:57:15,236
+I see.
+
+761
+00:57:15,945 --> 00:57:18,816
+Well, would you read the letter to me?
+
+762
+00:57:18,990 --> 00:57:21,446
+<i>"You will be surprised to hear,</i>
+<i>after so many years...</i>
+
+763
+00:57:21,618 --> 00:57:23,776
+<i>... that you have...</i>
+
+764
+00:57:23,953 --> 00:57:26,705
+<i>I am planning a visit to England,</i>
+<i>and I find I'm"...</i>
+
+765
+00:57:26,873 --> 00:57:27,916
+Thank you.
+
+766
+00:57:28,083 --> 00:57:31,368
+I'd like to send round for that letter
+if you don't mind, Miss Ackenthorpe.
+
+767
+00:57:31,544 --> 00:57:33,336
+Yes, we'll check with the French police.
+
+768
+00:57:33,505 --> 00:57:36,126
+Thank you. Goodbye.
+
+769
+00:57:38,134 --> 00:57:40,341
+Do you know what
+that was about, doctor?
+
+770
+00:57:40,762 --> 00:57:42,801
+Yes, I think I do.
+
+771
+00:57:42,972 --> 00:57:44,052
+Why didn't you tell me?
+
+772
+00:57:46,851 --> 00:57:50,303
+I'm in love with Emma, inspector.
+I want to marry her.
+
+773
+00:57:50,480 --> 00:57:52,888
+I told her I thought
+she ought to tell you about this.
+
+774
+00:57:53,066 --> 00:57:55,105
+- But you didn't insist?
+- No.
+
+775
+00:57:55,276 --> 00:57:58,692
+It was important to me, to us,
+that she made up her own mind.
+
+776
+00:57:59,989 --> 00:58:02,943
+- I understand, doctor.
+- Thank you. Is that all?
+
+777
+00:58:05,328 --> 00:58:08,246
+Doctor, do you think the dead woman
+is Martine Ackenthorpe?
+
+778
+00:58:08,415 --> 00:58:10,407
+Well, who else could it be?
+
+779
+00:58:10,583 --> 00:58:13,288
+Do you think she was killed by
+a member of the family?
+
+780
+00:58:14,671 --> 00:58:16,498
+I'd rather not answer that, inspector.
+
+781
+00:58:18,007 --> 00:58:19,050
+All right, doctor.
+
+782
+00:58:19,217 --> 00:58:21,340
+- Thank you very much.
+- Thank you.
+
+783
+00:58:32,939 --> 00:58:34,517
+Well, sir?
+
+784
+00:58:34,899 --> 00:58:36,228
+I'm worried, Bacon.
+
+785
+00:58:36,401 --> 00:58:39,734
+- About the doctor?
+- No, no, not him.
+
+786
+00:58:40,196 --> 00:58:42,189
+I'm worried about Miss Marple.
+
+787
+00:59:33,583 --> 00:59:35,741
+Looking for something, Miss Marple?
+
+788
+00:59:35,919 --> 00:59:37,587
+No, I...
+
+789
+00:59:38,546 --> 00:59:40,669
+Are you...? Are you all right?
+
+790
+00:59:40,840 --> 00:59:43,248
+Yes, perfectly, thank you, Mr. Eastley.
+
+791
+00:59:43,426 --> 00:59:44,707
+What is it you want?
+
+792
+00:59:44,886 --> 00:59:47,459
+Well, I just thought I'd take up
+the old boy's nightcap...
+
+793
+00:59:47,639 --> 00:59:48,919
+...and save you the trouble.
+
+794
+00:59:49,099 --> 00:59:52,432
+That's kind of you. It is ready.
+
+795
+01:00:01,152 --> 01:00:04,568
+The storm, I expect.
+The electricity supply's rather shaky.
+
+796
+01:00:04,739 --> 01:00:06,981
+Like the rest of the place.
+
+797
+01:00:07,450 --> 01:00:11,318
+- You're a little shaky too, aren't you?
+- No, not at all.
+
+798
+01:00:11,955 --> 01:00:14,872
+- Thank you.
+- Thank you.
+
+799
+01:01:16,019 --> 01:01:18,177
+Oh, my goodness, what are you doing?
+
+800
+01:01:18,688 --> 01:01:19,731
+Looking for light.
+
+801
+01:01:19,898 --> 01:01:22,685
+- You ought to be asleep.
+- I happen to be reading.
+
+802
+01:01:25,195 --> 01:01:27,021
+May I ask what you're doing?
+
+803
+01:01:27,197 --> 01:01:29,522
+Trying to provide light.
+
+804
+01:01:29,866 --> 01:01:32,618
+Oh, I see. Well, you won't
+find it there, you know.
+
+805
+01:01:32,786 --> 01:01:35,786
+- Indeed?
+- It's a power failure. Often happens.
+
+806
+01:01:36,289 --> 01:01:38,661
+- May I borrow this?
+- Alexander, come back.
+
+807
+01:01:38,833 --> 01:01:40,909
+Good night, Jane.
+
+808
+01:01:48,384 --> 01:01:51,006
+Who's that? Who is it?
+
+809
+01:01:54,724 --> 01:01:58,508
+Mr. Cedric, it's a power failure.
+Often happens.
+
+810
+01:01:58,686 --> 01:02:00,975
+I'll have to find some candles,
+if you'll excuse me.
+
+811
+01:02:01,147 --> 01:02:02,689
+Just a minute.
+
+812
+01:02:03,733 --> 01:02:06,271
+My sister says you started work here
+only a few days ago.
+
+813
+01:02:06,444 --> 01:02:07,487
+Yes.
+
+814
+01:02:07,779 --> 01:02:09,736
+You don't look like a domestic to me.
+
+815
+01:02:10,198 --> 01:02:13,115
+I have to earn my living,
+Mr. Ackenthorpe, like anybody else.
+
+816
+01:02:13,993 --> 01:02:16,745
+The day after you arrived,
+the body was discovered.
+
+817
+01:02:17,539 --> 01:02:20,243
+- You found it, didn't you?
+- What makes you think that?
+
+818
+01:02:20,542 --> 01:02:23,246
+Because it fits, and so neatly.
+
+819
+01:02:24,087 --> 01:02:25,878
+You telephoned the police, didn't you?
+
+820
+01:02:26,047 --> 01:02:29,214
+I assure you, I am not the person
+who telephoned the police.
+
+821
+01:02:29,384 --> 01:02:30,546
+- You're not?
+- No.
+
+822
+01:02:31,219 --> 01:02:33,591
+Who are you?
+And what are you doing here?
+
+823
+01:02:33,763 --> 01:02:36,171
+I have already told you.
+
+824
+01:02:37,392 --> 01:02:40,677
+Well, I'm going to watch you
+very closely, Miss Marple.
+
+825
+01:02:40,854 --> 01:02:41,896
+Jane.
+
+826
+01:02:43,440 --> 01:02:46,476
+Oh, Hillman, I want
+to have a word with you.
+
+827
+01:03:34,824 --> 01:03:35,867
+Help.
+
+828
+01:03:42,832 --> 01:03:43,875
+Help.
+
+829
+01:03:48,838 --> 01:03:50,747
+What's the matter? What is it?
+
+830
+01:03:50,924 --> 01:03:54,043
+Albert, see to Albert.
+
+831
+01:03:57,388 --> 01:04:01,007
+Alexander, call the doctor, quickly.
+
+832
+01:04:04,604 --> 01:04:07,771
+There was nothing I could do for him,
+I'm afraid, inspector.
+
+833
+01:04:08,358 --> 01:04:09,686
+How are the others now?
+
+834
+01:04:09,859 --> 01:04:11,733
+Well, Emma, Cedric, Harold
+and Eastley...
+
+835
+01:04:11,903 --> 01:04:14,228
+...have had only comparatively
+minor effects.
+
+836
+01:04:14,406 --> 01:04:17,360
+And the old man will be all right.
+He's a tough old bird.
+
+837
+01:04:17,534 --> 01:04:19,526
+He'll be recovered by morning.
+
+838
+01:04:22,831 --> 01:04:25,203
+- No doubt about the cause?
+- No.
+
+839
+01:04:25,375 --> 01:04:27,035
+They were all poisoned.
+
+840
+01:04:27,210 --> 01:04:29,368
+Well, thank you, doctor.
+
+841
+01:04:29,546 --> 01:04:31,585
+Quimper! Quimper!
+
+842
+01:04:31,756 --> 01:04:35,706
+Harold. I might have expected him
+to bellow the hardest.
+
+843
+01:04:41,975 --> 01:04:45,723
+- This is the last. Chicken stock.
+- Thank you.
+
+844
+01:04:52,277 --> 01:04:53,945
+- Finished, sergeant?
+- Just about, sir.
+
+845
+01:04:54,154 --> 01:04:56,395
+See that stuff gets
+down to the lab right away.
+
+846
+01:04:56,573 --> 01:04:58,980
+We're pretty well all through for tonight.
+
+847
+01:05:05,582 --> 01:05:06,624
+Well, Miss Marple?
+
+848
+01:05:07,751 --> 01:05:11,914
+Mushroom soup, curried duck,
+rice and apple pie.
+
+849
+01:05:12,714 --> 01:05:14,208
+Thank you.
+
+850
+01:05:14,382 --> 01:05:17,585
+- Mushroom soup out of a can?
+- Certainly not.
+
+851
+01:05:17,761 --> 01:05:21,295
+Half a pound of mushrooms,
+chicken stock, milk, flour, butter...
+
+852
+01:05:21,473 --> 01:05:23,761
+...lemon juice, touch of herbs.
+
+853
+01:05:25,143 --> 01:05:29,093
+- Mushrooms?
+- I had some of the soup myself. Superb.
+
+854
+01:05:29,939 --> 01:05:32,347
+I'm sure. The pie?
+
+855
+01:05:32,776 --> 01:05:36,145
+I'm afraid I never can resist
+my own pie, inspector.
+
+856
+01:05:36,321 --> 01:05:38,195
+Anybody else's, of course...
+
+857
+01:05:38,740 --> 01:05:41,231
+- The curry?
+- Exactly.
+
+858
+01:05:41,409 --> 01:05:44,861
+Good, of course.
+But rice, you see... Fattening.
+
+859
+01:05:45,538 --> 01:05:47,163
+And as I was having the pie...
+
+860
+01:05:49,459 --> 01:05:51,202
+Where did the duck come from?
+
+861
+01:05:51,377 --> 01:05:53,666
+Oh, those. Mr. Harold shot them.
+
+862
+01:05:53,838 --> 01:05:57,088
+He seems to be rather fond
+of killing things.
+
+863
+01:05:58,301 --> 01:06:01,421
+The boy, Alexander, he doesn't seem
+to have had any curry either?
+
+864
+01:06:01,596 --> 01:06:03,921
+No. I thought it would appeal to him.
+
+865
+01:06:04,099 --> 01:06:06,138
+Curious child.
+
+866
+01:06:06,309 --> 01:06:11,185
+Well, did anyone come into the kitchen
+while the cooking was going on?
+
+867
+01:06:11,356 --> 01:06:13,016
+Not while I was there.
+
+868
+01:06:13,191 --> 01:06:16,227
+I do have other duties, you know.
+
+869
+01:06:17,028 --> 01:06:19,104
+Anyone could've come in then.
+
+870
+01:06:20,115 --> 01:06:22,688
+Six people are poisoned...
+
+871
+01:06:23,284 --> 01:06:25,526
+...only one dies.
+
+872
+01:06:25,995 --> 01:06:29,614
+I'm thinking about that too, inspector.
+
+873
+01:06:30,333 --> 01:06:32,492
+Excuse me, sir, message
+from the chief constable.
+
+874
+01:06:32,669 --> 01:06:35,504
+- He's waiting up to hear your report.
+- All right.
+
+875
+01:06:35,672 --> 01:06:38,377
+- In person, sir.
+- Right, sergeant, get the car.
+
+876
+01:06:38,550 --> 01:06:40,756
+- I'll be out in a minute.
+- Very good.
+
+877
+01:06:44,681 --> 01:06:47,801
+I think the two killings
+are connected, don't you?
+
+878
+01:06:47,976 --> 01:06:49,174
+Yes, I do.
+
+879
+01:06:49,352 --> 01:06:52,519
+Now, we've got to find out who
+has that compact, Miss Marple.
+
+880
+01:06:52,689 --> 01:06:55,974
+So far I've only been able
+to search one room.
+
+881
+01:06:56,151 --> 01:06:59,602
+- Whose?
+- Unfortunately, Albert's.
+
+882
+01:07:01,948 --> 01:07:05,068
+- Miss Marple, I have to go now, but...
+- Oh, yes, I know.
+
+883
+01:07:05,243 --> 01:07:08,197
+A policeman's work is never done.
+
+884
+01:07:09,205 --> 01:07:11,032
+Nor a woman's.
+
+885
+01:07:12,751 --> 01:07:15,372
+I was going to say, please be careful.
+
+886
+01:07:16,880 --> 01:07:20,414
+If you do think of anything, I hope you'll
+take me into your confidence.
+
+887
+01:07:52,791 --> 01:07:56,242
+The lab boys turned it up
+as arsenic in the curry.
+
+888
+01:07:56,419 --> 01:08:00,203
+Not a lot, just enough for
+stomach aches all the way around.
+
+889
+01:08:00,381 --> 01:08:03,501
+- Not enough to kill.
+- So Albert must have had an extra dose.
+
+890
+01:08:04,135 --> 01:08:05,843
+Yes, but why poison the others at all?
+
+891
+01:08:06,262 --> 01:08:09,927
+If the poisoner is a member of
+the family, he had to be ill as well.
+
+892
+01:08:10,391 --> 01:08:11,802
+Well, say it isn't, sir.
+
+893
+01:08:11,976 --> 01:08:14,977
+I mean, that gardener
+of theirs, Hillman...
+
+894
+01:08:15,146 --> 01:08:18,100
+...there's talk in the local pub that
+he's in for a nice bequest...
+
+895
+01:08:18,274 --> 01:08:19,650
+...when old Ackenthorpe goes.
+
+896
+01:08:19,818 --> 01:08:21,193
+Well, it is a possibility, sir.
+
+897
+01:08:21,361 --> 01:08:23,686
+You're forgetting
+the dead woman, Bacon.
+
+898
+01:08:23,863 --> 01:08:26,817
+This poisoning makes it pretty certain
+she was Martine Ackenthorpe.
+
+899
+01:08:27,909 --> 01:08:29,949
+French police come up
+with something then?
+
+900
+01:08:30,120 --> 01:08:32,492
+Only that there's
+no record of a marriage.
+
+901
+01:08:32,664 --> 01:08:35,949
+The village where Edmond was stationed
+was blown to bits during the war.
+
+902
+01:08:36,126 --> 01:08:38,617
+- All the files in the town hall, destroyed.
+- Well, sir?
+
+903
+01:08:38,795 --> 01:08:41,500
+Well, don't you see, Bacon?
+It's the pattern of the killings.
+
+904
+01:08:41,673 --> 01:08:44,460
+Only a member of the family would
+want to get rid of her too.
+
+905
+01:08:44,634 --> 01:08:48,335
+Yes, kill off your relations in easy stages,
+except the old man.
+
+906
+01:08:48,513 --> 01:08:50,137
+When he dies a natural death...
+
+907
+01:08:50,306 --> 01:08:53,510
+...inherit the entire fortune
+as well as the property.
+
+908
+01:08:54,727 --> 01:08:57,812
+Albert must have got his
+second dose after dinner.
+
+909
+01:08:58,022 --> 01:08:59,185
+Possibly in a drink.
+
+910
+01:09:08,158 --> 01:09:09,403
+I shouldn't drink that.
+
+911
+01:09:11,327 --> 01:09:14,661
+- Why not?
+- Because it's lunch time.
+
+912
+01:09:15,331 --> 01:09:18,451
+- What is it?
+- Beef broth, baked custard.
+
+913
+01:09:18,626 --> 01:09:20,370
+Beef broth? But I ordered beef steak.
+
+914
+01:09:20,545 --> 01:09:22,621
+The doctor said beef broth.
+
+915
+01:09:22,797 --> 01:09:25,335
+To the blazes with him.
+I give the orders in this house.
+
+916
+01:09:25,508 --> 01:09:27,631
+I'm sick of slops. Take it away.
+
+917
+01:09:27,802 --> 01:09:29,510
+Certainly.
+
+918
+01:09:37,228 --> 01:09:39,766
+Hillman, another bottle.
+
+919
+01:09:39,939 --> 01:09:42,395
+Surely you realize that
+if the woman was Martine...
+
+920
+01:09:42,567 --> 01:09:46,268
+...by showing that letter to the police,
+you've pointed the finger at one of us.
+
+921
+01:09:46,446 --> 01:09:48,688
+Not only for her death, but Albert's too.
+
+922
+01:09:48,865 --> 01:09:52,281
+- Exactly. One of us.
+- I might have expected that from you.
+
+923
+01:09:52,452 --> 01:09:56,200
+Come now, you're thinking along
+exactly the same lines as I am.
+
+924
+01:09:56,372 --> 01:09:59,907
+If you didn't do it, that is.
+You're probably thinking it was me.
+
+925
+01:10:00,085 --> 01:10:01,709
+Stop it. Stop it.
+
+926
+01:10:01,878 --> 01:10:03,705
+Or even you, dear Emma.
+
+927
+01:10:03,880 --> 01:10:06,632
+Look, I think we've had just about
+enough of this nonsense.
+
+928
+01:10:06,800 --> 01:10:08,673
+I bet the police don't think it's nonsense.
+
+929
+01:10:08,843 --> 01:10:09,886
+Now listen, Cedric...
+
+930
+01:10:10,053 --> 01:10:13,220
+...say what you like about the rest of us,
+but leave Emma out of it.
+
+931
+01:10:13,389 --> 01:10:15,963
+Well, it could be argued, you know...
+
+932
+01:10:16,142 --> 01:10:20,222
+...that Emma kept that letter until
+she could use it to her own advantage.
+
+933
+01:10:21,397 --> 01:10:22,440
+What?
+
+934
+01:10:23,775 --> 01:10:25,399
+I think you'd better explain that.
+
+935
+01:10:25,819 --> 01:10:28,736
+Well, let's face it. The moment
+Martine's body was discovered...
+
+936
+01:10:28,905 --> 01:10:31,194
+...everyone in this family
+was under suspicion...
+
+937
+01:10:31,366 --> 01:10:33,074
+...including you, Emma.
+
+938
+01:10:33,243 --> 01:10:35,615
+And the moment you produced
+the letter voluntarily...
+
+939
+01:10:35,787 --> 01:10:38,159
+...everyone was under suspicion...
+
+940
+01:10:38,331 --> 01:10:40,490
+...excluding you.
+
+941
+01:10:43,253 --> 01:10:46,953
+- I hadn't thought of it like that.
+- You must be round the bend.
+
+942
+01:10:47,132 --> 01:10:49,124
+That woman was strangled.
+
+943
+01:10:49,300 --> 01:10:51,922
+Do you think your sister capable
+of a thing like that?
+
+944
+01:10:52,095 --> 01:10:55,428
+Oh, but Emma's an attractive woman,
+don't you think so?
+
+945
+01:10:55,598 --> 01:10:56,641
+Well?
+
+946
+01:10:57,350 --> 01:11:01,478
+Well, an attractive woman doesn't need
+to do her own dirty work, does she?
+
+947
+01:11:02,564 --> 01:11:04,355
+Emma, I think we better
+leave them to it.
+
+948
+01:11:04,524 --> 01:11:06,232
+Now, now, Eastley...
+
+949
+01:11:06,401 --> 01:11:09,022
+...Emma has her eye
+on the good doctor, you know.
+
+950
+01:11:09,195 --> 01:11:13,407
+It's not going to be easy for you to
+marry into the family for a second time.
+
+951
+01:11:14,701 --> 01:11:15,946
+That hit home, didn't it?
+
+952
+01:11:16,119 --> 01:11:19,286
+Yes, and I'm about ready
+to break your blasted neck.
+
+953
+01:11:19,456 --> 01:11:20,950
+Very possibly.
+
+954
+01:11:21,124 --> 01:11:22,702
+But tell me something first:
+
+955
+01:11:22,876 --> 01:11:25,117
+Do you deny meeting Emma
+secretly in the grounds...
+
+956
+01:11:25,295 --> 01:11:27,287
+...the night before
+the body was discovered?
+
+957
+01:11:29,466 --> 01:11:31,542
+- Well, I...
+- Hillman saw you, you know.
+
+958
+01:11:33,052 --> 01:11:35,092
+All right, we did meet that night, yes.
+
+959
+01:11:35,263 --> 01:11:37,137
+He asked me to intercede with Father.
+
+960
+01:11:38,641 --> 01:11:42,769
+- What for?
+- To borrow money, if you must know.
+
+961
+01:12:18,431 --> 01:12:20,340
+Oh, my goodness.
+
+962
+01:12:41,538 --> 01:12:43,411
+What are you doing?
+
+963
+01:12:43,581 --> 01:12:44,862
+Making up the bed.
+
+964
+01:12:45,041 --> 01:12:46,619
+But you made it up this morning.
+
+965
+01:12:46,793 --> 01:12:49,545
+Yes, but the pillow slips
+need changing.
+
+966
+01:12:49,712 --> 01:12:51,586
+They look perfectly all right to me.
+
+967
+01:12:51,756 --> 01:12:55,836
+But not to me. What am I doing?
+
+968
+01:13:02,392 --> 01:13:04,883
+I do wish that woman would hurry up.
+
+969
+01:13:05,061 --> 01:13:07,220
+They know I don't like being
+here after dark.
+
+970
+01:13:07,397 --> 01:13:10,766
+What are you afeard of?
+Some man will get you?
+
+971
+01:13:12,235 --> 01:13:14,643
+You know, it's funny how
+things always come together.
+
+972
+01:13:14,821 --> 01:13:16,979
+My sister's eldest had measles...
+
+973
+01:13:17,157 --> 01:13:19,233
+...and then her Ernie fell
+and broke his arm...
+
+974
+01:13:19,409 --> 01:13:21,567
+...and her husband come
+out all over with boils.
+
+975
+01:13:21,745 --> 01:13:24,615
+All in the same week.
+You wouldn't believe it, would you?
+
+976
+01:13:24,789 --> 01:13:26,782
+It's gonna be the same thing here.
+
+977
+01:13:26,958 --> 01:13:29,081
+First that nasty murder...
+
+978
+01:13:29,252 --> 01:13:30,794
+...and then Mr. Albert poisoned.
+
+979
+01:13:30,962 --> 01:13:33,667
+Who's gonna be the next,
+I'd like to know?
+
+980
+01:13:33,840 --> 01:13:36,248
+Things always go in threes.
+
+981
+01:13:36,426 --> 01:13:38,964
+Here you are, Mrs. Kidder.
+I'm sorry to have kept you...
+
+982
+01:13:39,137 --> 01:13:41,343
+...but the doctor has been
+with Mr. Ackenthorpe.
+
+983
+01:13:41,514 --> 01:13:43,886
+Long wait for very little.
+
+984
+01:13:47,312 --> 01:13:49,803
+The younger generation.
+
+985
+01:13:50,315 --> 01:13:52,438
+Well, I don't know.
+
+986
+01:14:42,409 --> 01:14:44,816
+What's the matter with you?
+
+987
+01:14:48,039 --> 01:14:50,364
+It's Mr. Harold.
+
+988
+01:14:52,877 --> 01:14:55,831
+Did he use this on himself,
+or did somebody else pull the trigger?
+
+989
+01:14:56,005 --> 01:14:57,832
+Well, it'll add up if it was suicide.
+
+990
+01:14:58,007 --> 01:15:00,130
+Harold killed the other two,
+got cold feet...
+
+991
+01:15:00,301 --> 01:15:03,172
+...and took what is laughingly
+called the easy way out.
+
+992
+01:15:04,055 --> 01:15:07,341
+All of them knew he liked shooting
+before dinner when he was at the Hall.
+
+993
+01:15:07,517 --> 01:15:09,556
+But he was shot from a range
+of two inches.
+
+994
+01:15:10,311 --> 01:15:13,515
+All right, someone he knows
+comes up to him...
+
+995
+01:15:13,690 --> 01:15:16,856
+...casually asks to have a look
+at the gun and...
+
+996
+01:15:17,026 --> 01:15:18,686
+Still could've been suicide, though.
+
+997
+01:15:18,862 --> 01:15:21,898
+If I were the murderer, that's exactly
+what I'd want us to think.
+
+998
+01:15:22,073 --> 01:15:24,860
+One thing's sure, we can't risk
+any more killings. Come on.
+
+999
+01:15:25,034 --> 01:15:27,608
+- Where to, sir?
+- The Hall.
+
+1000
+01:15:27,787 --> 01:15:29,246
+I'm gonna find that compact...
+
+1001
+01:15:29,414 --> 01:15:32,450
+...if I have to turn the whole place
+and everyone in it upside down.
+
+1002
+01:15:33,752 --> 01:15:36,077
+Excuse me, sir.
+There's a lady to see you, sir.
+
+1003
+01:15:36,254 --> 01:15:37,748
+A Miss Marple.
+
+1004
+01:15:37,922 --> 01:15:40,710
+Oh, come in.
+Good afternoon, Miss Marple.
+
+1005
+01:15:40,884 --> 01:15:42,793
+- You were going somewhere?
+- Yes.
+
+1006
+01:15:42,969 --> 01:15:45,542
+Then I'll come to the point at once.
+
+1007
+01:15:54,063 --> 01:15:56,934
+A beautiful little piece, isn't it?
+
+1008
+01:16:01,362 --> 01:16:03,154
+- Who had it?
+- Young Alexander.
+
+1009
+01:16:04,199 --> 01:16:06,405
+- What?
+- I should have realized, of course.
+
+1010
+01:16:06,576 --> 01:16:08,236
+That boy's incorrigible.
+
+1011
+01:16:08,411 --> 01:16:11,116
+Playing it in the middle
+of the night like that. Typical.
+
+1012
+01:16:11,498 --> 01:16:14,119
+- So we're back where we started?
+- Oh, no, inspector.
+
+1013
+01:16:14,584 --> 01:16:18,167
+I think I know who our murderer is.
+
+1014
+01:16:18,963 --> 01:16:22,831
+The difficulty's going to be
+getting him to show his hand.
+
+1015
+01:16:25,261 --> 01:16:28,049
+- Sit down, Miss Marple.
+- Thank you.
+
+1016
+01:16:37,440 --> 01:16:39,812
+Oh, hold that expression, Emma.
+
+1017
+01:16:40,110 --> 01:16:42,601
+Oh, pity, you spoiled it.
+
+1018
+01:16:43,530 --> 01:16:46,234
+What's the matter, darling?
+Things not working out for you?
+
+1019
+01:16:46,408 --> 01:16:50,239
+How do you manage to make everything
+you say sound like an insinuation?
+
+1020
+01:16:50,412 --> 01:16:53,662
+- He works at it.
+- For heaven's sake stop fussing.
+
+1021
+01:16:53,832 --> 01:16:56,916
+If I wish to come down,
+I shall do so.
+
+1022
+01:16:57,085 --> 01:16:58,662
+I think this chair, Hillman.
+
+1023
+01:16:58,837 --> 01:17:01,047
+- Father, don't you think...?
+- Now, don't you start.
+
+1024
+01:17:01,214 --> 01:17:03,883
+Sorry, but you know what he's like
+when his mind is made up.
+
+1025
+01:17:04,050 --> 01:17:09,045
+I'm not gonna stay up there all alone.
+Might get murdered in me bed.
+
+1026
+01:17:09,222 --> 01:17:11,049
+At least there's some safety in numbers.
+
+1027
+01:17:11,224 --> 01:17:14,308
+- I quite agree with you, Father.
+- Well, that makes a nice change.
+
+1028
+01:17:14,477 --> 01:17:17,264
+I want a drink.
+No, not you. Quimper.
+
+1029
+01:17:17,439 --> 01:17:19,561
+Then I must be going.
+
+1030
+01:17:21,484 --> 01:17:23,809
+Don't smother me with it, man,
+put it round me knees.
+
+1031
+01:17:23,987 --> 01:17:26,026
+Well, this is all very nice and cozy.
+
+1032
+01:17:26,197 --> 01:17:28,356
+How about a rubber of bridge?
+
+1033
+01:17:28,533 --> 01:17:30,490
+It was just a thought.
+
+1034
+01:17:39,961 --> 01:17:41,669
+What have you got there, boy?
+
+1035
+01:17:41,838 --> 01:17:43,332
+Oh, a charming little thing.
+
+1036
+01:17:43,506 --> 01:17:46,507
+French, Second Empire.
+Pretty valuable, I'd say.
+
+1037
+01:17:47,260 --> 01:17:50,012
+- Where'd you get it?
+- It belongs to Miss Marple.
+
+1038
+01:17:50,180 --> 01:17:52,753
+Really? You better give it
+back to her, haven't you?
+
+1039
+01:17:52,932 --> 01:17:56,847
+I only borrowed it.
+I'll drop it in on my way to bed.
+
+1040
+01:18:53,451 --> 01:18:55,776
+Come in, doctor.
+
+1041
+01:18:55,954 --> 01:18:57,234
+You're expecting me?
+
+1042
+01:18:57,914 --> 01:18:59,574
+Didn't Alexander tell you?
+
+1043
+01:19:00,083 --> 01:19:01,328
+Tell me what?
+
+1044
+01:19:04,587 --> 01:19:06,212
+Forgetful boy.
+
+1045
+01:19:06,381 --> 01:19:08,255
+I have a sore throat, doctor...
+
+1046
+01:19:08,425 --> 01:19:12,837
+...and I asked him to ask you to be kind
+enough to have a look before you left.
+
+1047
+01:19:13,096 --> 01:19:14,347
+I see.
+
+1048
+01:19:16,099 --> 01:19:19,266
+I'm sorry to trouble you. I haven't
+had one of these throats in years.
+
+1049
+01:19:19,436 --> 01:19:21,558
+Well, you've been lucky, Miss Marple.
+
+1050
+01:19:21,729 --> 01:19:23,140
+Any headaches?
+
+1051
+01:19:23,314 --> 01:19:25,770
+No, just a sore throat.
+
+1052
+01:19:26,151 --> 01:19:28,439
+Well, we'll have a look.
+
+1053
+01:19:30,488 --> 01:19:33,525
+- This is rather attractive.
+- Yes, isn't it?
+
+1054
+01:19:33,700 --> 01:19:35,739
+- Where did you get it?
+- I found it.
+
+1055
+01:19:35,910 --> 01:19:39,445
+- Where?
+- In the stables here.
+
+1056
+01:19:39,622 --> 01:19:40,998
+Really?
+
+1057
+01:19:42,751 --> 01:19:44,957
+Open wide, please.
+
+1058
+01:19:45,420 --> 01:19:47,496
+Say "aah."
+
+1059
+01:19:48,506 --> 01:19:50,546
+No inflammation.
+
+1060
+01:19:50,925 --> 01:19:53,298
+Don't you think that was
+a little dishonest?
+
+1061
+01:19:53,470 --> 01:19:54,964
+Keeping the compact, I mean?
+
+1062
+01:19:55,138 --> 01:19:58,139
+Under the circumstances, doctor, no.
+
+1063
+01:20:01,478 --> 01:20:04,562
+- Is there any swelling?
+- I don't think so.
+
+1064
+01:20:09,819 --> 01:20:12,144
+I've seen you like that
+once before, doctor...
+
+1065
+01:20:12,322 --> 01:20:14,149
+...your hands at a woman's throat.
+
+1066
+01:20:14,324 --> 01:20:18,784
+It was on a train,
+and you were strangling her.
+
+1067
+01:20:27,378 --> 01:20:29,003
+That's quite an allegation.
+
+1068
+01:20:29,798 --> 01:20:31,208
+I have a few more.
+
+1069
+01:20:33,885 --> 01:20:37,254
+You've come for the compact because
+you had given it to that woman...
+
+1070
+01:20:37,680 --> 01:20:40,966
+...and it might be traced back to you.
+
+1071
+01:20:41,142 --> 01:20:44,843
+- I think she was your wife.
+- Do you?
+
+1072
+01:20:45,396 --> 01:20:49,525
+You killed her after you had written
+that letter to Emma...
+
+1073
+01:20:49,692 --> 01:20:52,943
+...signing it Martine Ackenthorpe.
+
+1074
+01:20:53,113 --> 01:20:54,358
+Why should I do that?
+
+1075
+01:20:55,323 --> 01:20:59,273
+The murder, so that you would
+then be free to marry Emma...
+
+1076
+01:21:00,370 --> 01:21:04,699
+...the letter, so that people would think
+the dead woman was Martine...
+
+1077
+01:21:04,874 --> 01:21:07,246
+...and look among the family
+for the killer...
+
+1078
+01:21:07,794 --> 01:21:09,074
+...never at you.
+
+1079
+01:21:17,804 --> 01:21:20,721
+How did you arrive at
+this fascinating hypothesis?
+
+1080
+01:21:20,890 --> 01:21:23,097
+It was I who found her body.
+
+1081
+01:21:23,518 --> 01:21:28,144
+Martine was, or is, for all I know,
+a Normandy peasant.
+
+1082
+01:21:28,398 --> 01:21:31,067
+The dead woman had never
+worked on a farm in her life.
+
+1083
+01:21:31,568 --> 01:21:33,774
+I saw her hands.
+
+1084
+01:21:34,571 --> 01:21:37,737
+- Go on.
+- Certainly.
+
+1085
+01:21:37,907 --> 01:21:40,445
+You then proceeded to
+augment your prospects...
+
+1086
+01:21:41,119 --> 01:21:44,404
+...by eliminating Albert and Harold.
+
+1087
+01:21:44,581 --> 01:21:45,909
+How, conceivably?
+
+1088
+01:21:47,083 --> 01:21:50,618
+You contrived to introduce
+arsenic into my curry...
+
+1089
+01:21:50,795 --> 01:21:54,164
+...which I find unforgivable,
+by the way...
+
+1090
+01:21:54,424 --> 01:21:57,959
+...knowing that you would be called on
+to deal with the aftereffects.
+
+1091
+01:21:58,136 --> 01:22:02,762
+Easy then to give Albert
+his final dose in the medicine.
+
+1092
+01:22:02,932 --> 01:22:04,557
+And Harold?
+
+1093
+01:22:04,726 --> 01:22:08,095
+You shot him
+and made it look like suicide.
+
+1094
+01:22:09,189 --> 01:22:11,347
+Ingenious, I must admit.
+
+1095
+01:22:11,858 --> 01:22:13,436
+More than that.
+
+1096
+01:22:13,610 --> 01:22:17,026
+Now that you are here to secure
+your dead wife's compact...
+
+1097
+01:22:17,197 --> 01:22:18,988
+...a fair case.
+
+1098
+01:22:20,617 --> 01:22:21,659
+Yes.
+
+1099
+01:22:22,410 --> 01:22:24,699
+A pity you won't be able
+to present it.
+
+1100
+01:22:25,288 --> 01:22:29,535
+One more murder, doctor,
+might be one too many.
+
+1101
+01:22:29,709 --> 01:22:32,165
+This won't look like murder,
+Miss Marple.
+
+1102
+01:22:32,337 --> 01:22:34,709
+The death certificate,
+signed by me, of course...
+
+1103
+01:22:34,881 --> 01:22:37,668
+...will register heart failure.
+
+1104
+01:22:40,136 --> 01:22:42,461
+- You all right?
+- Yes, thank you.
+
+1105
+01:22:43,556 --> 01:22:45,513
+You're under arrest,
+and I must warn you...
+
+1106
+01:22:45,683 --> 01:22:49,183
+That everything I've said has been taken
+down and will be used in evidence.
+
+1107
+01:22:49,771 --> 01:22:52,807
+You were right about
+everything, of course.
+
+1108
+01:23:13,878 --> 01:23:16,204
+You're a very brave woman,
+Miss Marple.
+
+1109
+01:23:16,381 --> 01:23:18,089
+Good night.
+
+1110
+01:23:44,075 --> 01:23:46,234
+About time too.
+
+1111
+01:23:46,828 --> 01:23:49,533
+I was coming up to see you,
+you know, before leaving.
+
+1112
+01:23:49,706 --> 01:23:51,283
+No need to leave.
+
+1113
+01:23:51,458 --> 01:23:54,375
+- I have my own home, Mr. Ackenthorpe.
+- Sell it.
+
+1114
+01:23:54,544 --> 01:23:55,955
+Why on earth should I?
+
+1115
+01:23:57,005 --> 01:24:00,705
+Well, taking one thing and another...
+
+1116
+01:24:00,884 --> 01:24:03,209
+I mean, you're a fair cook...
+
+1117
+01:24:03,803 --> 01:24:06,721
+...and you seem to have
+your wits about you...
+
+1118
+01:24:06,890 --> 01:24:12,050
+...and, well, I've decided to marry you.
+
+1119
+01:24:14,189 --> 01:24:17,392
+- Well?
+- Well, I'm honored, of course.
+
+1120
+01:24:17,567 --> 01:24:20,023
+Of course you are,
+but come to the point.
+
+1121
+01:24:20,195 --> 01:24:21,819
+I'm afraid that cannot be.
+
+1122
+01:24:21,988 --> 01:24:23,031
+Why?
+
+1123
+01:24:23,656 --> 01:24:27,156
+Well, if ever I do embark
+on such a venture...
+
+1124
+01:24:27,327 --> 01:24:28,738
+...there is someone else.
+
+1125
+01:24:29,579 --> 01:24:31,073
+Nonsense.
+
+1126
+01:24:31,247 --> 01:24:34,118
+I don't believe it.
+Who on earth would have you?
+
+1127
+01:24:34,292 --> 01:24:37,246
+Apparently you, for one,
+Mr. Ackenthorpe.
+
+1128
+01:24:37,796 --> 01:24:39,464
+Goodbye.
+
+1129
+01:24:49,724 --> 01:24:52,429
+The woman must be
+completely unbalanced.
+
+1130
+01:24:54,270 --> 01:24:57,889
+- Oh, Miss Marple, I am so glad.
+- How good of you to come.
+
+1131
+01:24:58,066 --> 01:25:00,853
+- Let me give you a hand.
+- Thank you.
+
+1132
+01:25:46,823 --> 01:25:48,899
+Subtitles by
+SDI Media Group
+
+1133
+01:25:49,305 --> 01:26:49,205
+Support us and become VIP member 
+to remove all ads from www.OpenSubtitles.org
