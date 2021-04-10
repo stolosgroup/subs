@@ -1,0 +1,2126 @@
+﻿1
+00:00:00,093 --> 00:00:01,793
+<i>Previously, on</i>
+<font color="#ffff80">"Young Sheldon"...</font>
+
+2
+00:00:02,240 --> 00:00:03,413
+What are you doing here?
+
+3
+00:00:03,500 --> 00:00:04,564
+Apparently,
+the head of the college
+
+4
+00:00:04,648 --> 00:00:05,657
+wants to talk to us.
+
+5
+00:00:05,742 --> 00:00:07,566
+I'll just get
+right to the point.
+
+6
+00:00:07,651 --> 00:00:09,177
+I would like you
+and your son
+
+7
+00:00:09,261 --> 00:00:12,102
+to meet with a very important
+benefactor of the college.
+
+8
+00:00:12,269 --> 00:00:13,688
+Why us?
+
+9
+00:00:13,773 --> 00:00:17,054
+Sheldon is an impressive addition
+to the physics program,
+
+10
+00:00:17,139 --> 00:00:20,275
+and-and we like our donors
+to feel really good
+
+11
+00:00:20,359 --> 00:00:21,799
+about where their money's going.
+
+12
+00:00:21,890 --> 00:00:23,009
+No, thank you.
+
+13
+00:00:23,094 --> 00:00:24,446
+Can I speak to you alone?
+
+14
+00:00:24,531 --> 00:00:25,666
+Will you give us a minute?
+
+15
+00:00:25,751 --> 00:00:27,539
+Very well.
+But if you're looking to see
+
+16
+00:00:27,624 --> 00:00:29,028
+if my father will be
+a potential donor,
+
+17
+00:00:29,112 --> 00:00:31,114
+you are barking
+up the wrong tree.
+
+18
+00:00:35,592 --> 00:00:38,174
+<i>People often ask
+why I was so resistant</i>
+
+19
+00:00:38,259 --> 00:00:39,991
+<i>to getting
+a driver's license.</i>
+
+20
+00:00:40,075 --> 00:00:42,260
+<i>My spotty history
+with motor vehicles</i>
+
+21
+00:00:42,345 --> 00:00:43,751
+<i>was certainly a factor.</i>
+
+22
+00:00:43,836 --> 00:00:45,213
+Please slow down.
+
+23
+00:00:45,297 --> 00:00:46,824
+I'm going eight
+miles an hour.
+
+24
+00:00:46,908 --> 00:00:48,305
+A cow just passed us.
+
+25
+00:00:48,390 --> 00:00:49,774
+You're gonna hit it!
+
+26
+00:00:50,322 --> 00:00:51,423
+Make it stop!
+
+27
+00:00:51,508 --> 00:00:52,599
+It's just a car wash.
+
+28
+00:00:52,684 --> 00:00:55,254
+- Do something!
+- It's just a car wash.
+
+29
+00:00:55,339 --> 00:00:56,431
+We're gonna die!
+
+30
+00:00:56,549 --> 00:00:57,751
+Just a car wash.
+
+31
+00:00:57,843 --> 00:00:59,400
+Why did I agree to this?
+
+32
+00:00:59,485 --> 00:01:01,836
+I don't care for this at all.
+
+33
+00:01:03,989 --> 00:01:06,211
+Oh!
+
+34
+00:01:07,826 --> 00:01:09,029
+Oh, my God.
+
+35
+00:01:10,021 --> 00:01:11,456
+Are you okay?
+
+36
+00:01:11,840 --> 00:01:13,764
+Yes, I think so.
+
+37
+00:01:13,849 --> 00:01:16,670
+<i>♪ Nobody else
+is stronger than I am ♪</i>
+
+38
+00:01:16,785 --> 00:01:19,654
+<i>♪ Yesterday I moved a mountain</i>
+
+39
+00:01:19,739 --> 00:01:22,179
+<i>♪ I bet I could be your hero</i>
+
+40
+00:01:22,264 --> 00:01:24,967
+<i>♪ I am a mighty little man</i>
+
+41
+00:01:25,052 --> 00:01:28,786
+<i>♪ I am a mighty little man. ♪</i>
+<font color=#FF00FF>*YOUNG SHELDON*</font>
+
+42
+00:01:28,870 --> 00:01:30,099
+<font color=#FF00FF>*YOUNG SHELDON*</font>
+<font color=#00FF00>Season 04  Episode 13</font>
+
+43
+00:01:30,184 --> 00:01:31,795
+Episode Title: <font color=#FFc30f>"The Geezer Bus
+and a New Model for Education"</font>
+
+44
+00:01:31,879 --> 00:01:32,879
+Aired on:
+<font color="#00ffff">April 08, 2021</font>
+
+45
+00:01:33,084 --> 00:01:34,669
+Tow truck's on the way.
+
+46
+00:01:36,068 --> 00:01:36,874
+You sure
+
+47
+00:01:36,958 --> 00:01:37,794
+we shouldn't call
+an ambulance?
+
+48
+00:01:37,879 --> 00:01:39,568
+I'm fine. Sheldon?
+
+49
+00:01:39,653 --> 00:01:40,570
+I feel fine.
+
+50
+00:01:40,655 --> 00:01:41,716
+What happened?
+
+51
+00:01:41,801 --> 00:01:43,806
+Oh, a cat ran in front of me.
+
+52
+00:01:43,921 --> 00:01:45,186
+You couldn't stop?
+
+53
+00:01:45,271 --> 00:01:48,147
+I tried,
+but the brake just gave out.
+
+54
+00:01:48,232 --> 00:01:50,280
+Well, thank goodness
+it wasn't worse.
+
+55
+00:01:50,373 --> 00:01:52,161
+I should have
+aimed for the cat.
+
+56
+00:01:52,246 --> 00:01:54,456
+Looks like your car's gonna be
+out of commission for a while.
+
+57
+00:01:54,540 --> 00:01:57,198
+If you need a ride, the church
+offers a shuttle service.
+
+58
+00:01:57,282 --> 00:02:00,071
+I'm not getting
+on that geezer bus.
+
+59
+00:02:00,155 --> 00:02:02,622
+It's just for people
+who can't get around.
+
+60
+00:02:02,707 --> 00:02:04,016
+That's 'cause they're
+so shriveled up,
+
+61
+00:02:04,100 --> 00:02:06,453
+they can't even see
+over the steering wheel.
+
+62
+00:02:06,538 --> 00:02:07,760
+That's not nice.
+
+63
+00:02:07,900 --> 00:02:10,079
+I've driven that van...
+It is grim.
+
+64
+00:02:10,382 --> 00:02:13,154
+If Meemaw doesn't have a car,
+who's gonna drive me to college?
+
+65
+00:02:13,239 --> 00:02:16,202
+I guess if we leave early,
+I could take you before work.
+
+66
+00:02:16,287 --> 00:02:18,419
+Hey, when you take the shuttle,
+bring hard candy.
+
+67
+00:02:18,504 --> 00:02:19,786
+They gobble it up.
+
+68
+00:02:21,607 --> 00:02:22,920
+I can't believe
+
+69
+00:02:23,004 --> 00:02:24,529
+you and Meemaw
+almost died tonight.
+
+70
+00:02:24,614 --> 00:02:26,318
+I wouldn't say
+we almost died.
+
+71
+00:02:26,435 --> 00:02:28,144
+Well, that's what I'm saying
+at school tomorrow.
+
+72
+00:02:28,228 --> 00:02:30,799
+- Why?
+- It's called good storytelling.
+
+73
+00:02:30,884 --> 00:02:32,513
+- But it's lying.
+- They don't know that.
+
+74
+00:02:32,598 --> 00:02:33,911
+You weren't even
+in the car.
+
+75
+00:02:33,996 --> 00:02:36,444
+Doesn't matter.
+Shay McElheney's dad
+
+76
+00:02:36,529 --> 00:02:39,474
+- had a kidney stone...
+- she got out of homework for a week.
+
+77
+00:02:39,559 --> 00:02:41,661
+I can't believe you'd use
+my traumatic experience
+
+78
+00:02:41,750 --> 00:02:43,059
+to manipulate people.
+
+79
+00:02:43,144 --> 00:02:44,798
+Really? I can.
+
+80
+00:02:45,857 --> 00:02:47,290
+Hey, did the engine catch fire?
+
+81
+00:02:47,375 --> 00:02:48,224
+No!
+
+82
+00:02:48,309 --> 00:02:50,037
+You're in shock.
+You don't know what happened.
+
+83
+00:02:50,121 --> 00:02:52,208
+I might be a little late
+picking you up tonight,
+
+84
+00:02:52,293 --> 00:02:53,896
+so you can wait in the library.
+
+85
+00:02:53,981 --> 00:02:55,630
+All right.
+I didn't have time
+
+86
+00:02:55,775 --> 00:02:57,389
+To make lunch, so
+
+87
+00:02:57,473 --> 00:02:59,826
+are you okay...
+
+88
+00:03:02,270 --> 00:03:03,405
+Okay.
+
+89
+00:03:03,827 --> 00:03:05,240
+What's going on?
+
+90
+00:03:05,405 --> 00:03:07,388
+I can't do it.
+What's wrong?
+
+91
+00:03:07,473 --> 00:03:08,935
+What if there's another crash?
+
+92
+00:03:09,180 --> 00:03:11,677
+Baby, that's
+not gonna happen again.
+
+93
+00:03:11,762 --> 00:03:12,940
+You don't know that.
+
+94
+00:03:13,880 --> 00:03:15,450
+Sheldon,
+if you don't get in right now,
+
+95
+00:03:15,534 --> 00:03:16,930
+you're going
+to miss school.
+
+96
+00:03:17,060 --> 00:03:18,677
+True.
+
+97
+00:03:20,302 --> 00:03:21,896
+I know you don't
+believe in it,
+
+98
+00:03:21,981 --> 00:03:24,290
+but I'm gonna say an extra
+special prayer right now
+
+99
+00:03:24,375 --> 00:03:25,510
+to keep us safe.
+
+100
+00:03:25,595 --> 00:03:26,686
+Lord,
+
+101
+00:03:26,771 --> 00:03:28,272
+please look after me
+and Sheldon
+
+102
+00:03:28,357 --> 00:03:30,378
+on our drive to school...
+
+103
+00:03:34,204 --> 00:03:35,786
+I'll get back to you.
+
+104
+00:03:35,898 --> 00:03:38,034
+- You see Sheldon?
+- T-hat way.
+
+105
+00:03:38,478 --> 00:03:39,630
+What's going on?
+
+106
+00:03:39,715 --> 00:03:42,199
+He's having some sort
+of panic attack.
+
+107
+00:03:42,284 --> 00:03:45,417
+Oh, man. My
+story just keeps getting better.
+
+108
+00:03:52,222 --> 00:03:54,497
+Baby, you can't go
+the rest of your life
+
+109
+00:03:54,582 --> 00:03:56,152
+never getting in a car again.
+
+110
+00:03:56,237 --> 00:03:59,099
+Before cars were invented,
+people did it all the time.
+
+111
+00:04:01,411 --> 00:04:03,762
+Well, I'm not gonna force you.
+
+112
+00:04:05,113 --> 00:04:06,708
+Thank you.
+
+113
+00:04:08,000 --> 00:04:14,074
+Advertise your product or brand here
+contact www.OpenSubtitles.org today
+
+114
+00:04:15,855 --> 00:04:18,388
+I can't get him in the car.
+
+115
+00:04:18,473 --> 00:04:19,433
+So what now?
+
+116
+00:04:19,518 --> 00:04:21,045
+So he's not going to school.
+
+117
+00:04:21,130 --> 00:04:23,873
+You know, on The A-Team,
+Mr. T is afraid to fly,
+
+118
+00:04:23,958 --> 00:04:25,655
+and they give him special milk
+to put him to sleep.
+
+119
+00:04:25,739 --> 00:04:27,222
+Ooh. No!
+
+120
+00:04:27,307 --> 00:04:28,308
+Aw.
+
+121
+00:04:29,346 --> 00:04:31,013
+I don't care what your guy says.
+
+122
+00:04:31,098 --> 00:04:32,926
+Have him check it again.
+
+123
+00:04:34,729 --> 00:04:35,974
+Sorry, I'm cranky.
+
+124
+00:04:36,059 --> 00:04:39,497
+No problem. I like when you yell
+at people who aren't me.
+
+125
+00:04:39,679 --> 00:04:42,815
+Stupid mechanic said
+the brakes are just fine.
+
+126
+00:04:42,961 --> 00:04:45,227
+Well, you probably stepped
+on the wrong pedal.
+
+127
+00:04:45,312 --> 00:04:46,360
+I didn't.
+
+128
+00:04:46,445 --> 00:04:47,536
+I'm just saying, it happens
+
+129
+00:04:47,621 --> 00:04:48,812
+with people our age, you know.
+
+130
+00:04:48,896 --> 00:04:50,596
+I've been driving my whole life.
+
+131
+00:04:50,681 --> 00:04:52,643
+I know which pedal is which.
+
+132
+00:04:52,757 --> 00:04:54,802
+- Now you're yelling at me.
+- Sorry.
+
+133
+00:04:55,458 --> 00:04:58,294
+What do you think about letting
+me borrow your truck today?
+
+134
+00:04:58,674 --> 00:05:00,592
+I don't know.
+Why not?
+
+135
+00:05:00,778 --> 00:05:02,304
+'Cause I like my truck.
+
+136
+00:05:02,389 --> 00:05:03,523
+Not funny.
+
+137
+00:05:03,608 --> 00:05:06,005
+It is.
+You're just cranky.
+
+138
+00:05:06,384 --> 00:05:07,591
+Fine.
+
+139
+00:05:07,777 --> 00:05:11,566
+Maybe I'll just ride my bicycle
+to the salon.
+
+140
+00:05:11,904 --> 00:05:13,365
+You ride a bike?
+
+141
+00:05:13,664 --> 00:05:16,104
+Is that amusing to you?
+
+142
+00:05:16,724 --> 00:05:18,230
+An old lady riding a bike?
+
+143
+00:05:18,315 --> 00:05:19,293
+Oh, no.
+
+144
+00:05:21,051 --> 00:05:22,142
+Shut up.
+
+145
+00:05:22,227 --> 00:05:23,855
+Okay, will do.
+
+146
+00:05:27,808 --> 00:05:30,161
+Oh, my goodness.
+Was anyone hurt?
+
+147
+00:05:30,245 --> 00:05:33,643
+No. But now I got no car
+for a while.
+
+148
+00:05:33,727 --> 00:05:35,183
+You could ride your bike.
+
+149
+00:05:35,268 --> 00:05:38,698
+An old lady on a bike?
+That's not cool.
+
+150
+00:05:38,783 --> 00:05:41,658
+Really? Then I won't ask
+how I look on one.
+
+151
+00:05:41,995 --> 00:05:43,261
+You look great.
+
+152
+00:05:43,345 --> 00:05:44,349
+I know.
+
+153
+00:05:44,433 --> 00:05:46,448
+I just wanted
+to hear you say it.
+
+154
+00:05:47,549 --> 00:05:49,745
+So, there's no one
+who can lend you a car?
+
+155
+00:05:49,830 --> 00:05:51,558
+There is the church shuttle,
+
+156
+00:05:51,658 --> 00:05:55,152
+but that just feels like
+it's the end of the line.
+
+157
+00:05:55,387 --> 00:05:57,044
+Oh, I wouldn't say that.
+
+158
+00:05:57,316 --> 00:06:00,848
+There's all sorts of
+depressing steps before the end.
+
+159
+00:06:00,887 --> 00:06:02,283
+You've got full-time
+
+160
+00:06:02,368 --> 00:06:03,633
+nursing care.
+
+161
+00:06:03,718 --> 00:06:04,635
+Bye, John.
+
+162
+00:06:04,720 --> 00:06:06,290
+Assisted living.
+
+163
+00:06:06,390 --> 00:06:08,115
+- Bye, John.
+- Hospice.
+
+164
+00:06:08,200 --> 00:06:10,205
+- Bye, John.
+- Life support.
+
+165
+00:06:10,492 --> 00:06:11,583
+Bye, John!
+
+166
+00:06:11,668 --> 00:06:13,760
+Pulling the plug.
+
+167
+00:06:13,845 --> 00:06:15,589
+- Bye, John.
+- Then...
+
+168
+00:06:15,674 --> 00:06:18,157
+you make
+a miraculous recovery!
+
+169
+00:06:18,242 --> 00:06:20,123
+- Great!
+- But...
+
+170
+00:06:20,208 --> 00:06:21,560
+the hospital bills
+
+171
+00:06:21,653 --> 00:06:24,050
+- leave you destitute!
+- Bye.
+
+172
+00:06:24,289 --> 00:06:25,638
+Bye.
+
+173
+00:06:30,490 --> 00:06:31,631
+Grant Linkletter.
+
+174
+00:06:31,716 --> 00:06:33,111
+Dr. Linkletter,
+Sheldon Cooper.
+
+175
+00:06:33,215 --> 00:06:35,656
+I wanted to let you know
+I won't be in class today.
+
+176
+00:06:35,741 --> 00:06:37,398
+- Is everything all right?
+<i>- Yes,</i>
+
+177
+00:06:37,483 --> 00:06:39,013
+but in the interest
+of self-preservation,
+
+178
+00:06:39,098 --> 00:06:42,109
+I've decided to avoid traveling
+in motor vehicles.
+
+179
+00:06:42,327 --> 00:06:44,359
+I'm sure there's a story
+behind that.
+
+180
+00:06:44,444 --> 00:06:46,232
+- There is.
+- I don't want to hear it.
+
+181
+00:06:46,317 --> 00:06:48,632
+So, how shall we handle
+today's class?
+
+182
+00:06:48,717 --> 00:06:50,995
+Well, I'm sure you can get notes
+from another student.
+
+183
+00:06:51,080 --> 00:06:53,129
+Or you could give the lecture
+to me right now.
+
+184
+00:06:53,460 --> 00:06:54,875
+That's preposterous.
+
+185
+00:06:54,960 --> 00:06:58,195
+Why? We could be creating
+a new model of education
+
+186
+00:06:58,280 --> 00:06:59,905
+where students
+could learn remotely.
+
+187
+00:06:59,990 --> 00:07:01,734
+It could be the wave
+of the future.
+
+188
+00:07:01,898 --> 00:07:03,611
+Sheldon,
+it's your responsibility
+
+189
+00:07:03,696 --> 00:07:06,030
+to come to class,
+not mine to bring the class to you.
+
+190
+00:07:06,115 --> 00:07:08,570
+My meemaw gets cranky like this
+when she's hungover.
+
+191
+00:07:08,655 --> 00:07:10,178
+Is that what's happening here?
+
+192
+00:07:13,010 --> 00:07:15,482
+First Baptist of Medford.
+How may I bless you?
+
+193
+00:07:15,567 --> 00:07:17,833
+I thought Peg answered
+the phones.
+
+194
+00:07:17,918 --> 00:07:18,951
+Mom?
+
+195
+00:07:19,036 --> 00:07:20,005
+Yeah.
+
+196
+00:07:20,090 --> 00:07:21,921
+Something I can help you with?
+
+197
+00:07:22,373 --> 00:07:23,920
+No, it can wait.
+
+198
+00:07:24,005 --> 00:07:26,573
+You want the number
+to the shuttle, don't you?
+
+199
+00:07:27,284 --> 00:07:28,506
+Yes.
+
+200
+00:07:28,591 --> 00:07:30,376
+Let me get that for you.
+
+201
+00:07:32,153 --> 00:07:35,948
+Huh. Um, looking under "G"
+for "geezer bus,"
+
+202
+00:07:36,033 --> 00:07:37,451
+and it's not there.
+
+203
+00:07:37,540 --> 00:07:38,935
+Oh, that's hilarious.
+
+204
+00:07:39,066 --> 00:07:41,614
+Maybe it's under "O"
+for "old fogies."
+
+205
+00:07:41,699 --> 00:07:44,685
+You know, you're not being a
+very Christian person right now.
+
+206
+00:07:44,770 --> 00:07:47,515
+I have enough prayers in
+the bank, I can coast for a day.
+
+207
+00:07:47,600 --> 00:07:49,065
+Just give me the number!
+
+208
+00:07:49,150 --> 00:07:51,938
+All right.
+Now, remember when you call
+
+209
+00:07:52,023 --> 00:07:54,545
+to let them know if you need
+any help getting up stairs.
+
+210
+00:07:54,721 --> 00:07:56,947
+<i>Dr. Linkletter
+wouldn't give me what I wanted.</i>
+
+211
+00:07:57,031 --> 00:07:58,788
+<i>I couldn't tell on him
+to his mommy,</i>
+
+212
+00:07:58,873 --> 00:08:00,420
+<i>but I could to his "work mommy."</i>
+
+213
+00:08:00,505 --> 00:08:02,162
+Sheldon.
+What can I do for you?
+
+214
+00:08:02,247 --> 00:08:04,120
+I can't make it to school today,
+and I'm concerned
+
+215
+00:08:04,204 --> 00:08:05,601
+about the physics class
+I'm missing.
+
+216
+00:08:05,685 --> 00:08:06,950
+And how come you're not here?
+
+217
+00:08:07,171 --> 00:08:09,176
+I was in a car accident
+with my meemaw.
+
+218
+00:08:09,261 --> 00:08:10,874
+Oh, my God.
+Are you okay?
+
+219
+00:08:10,966 --> 00:08:11,885
+Well...
+
+220
+00:08:11,970 --> 00:08:13,758
+I can't believe you'd use
+my traumatic experience
+
+221
+00:08:13,842 --> 00:08:15,194
+to manipulate people.
+
+222
+00:08:15,279 --> 00:08:17,299
+Really? I can.
+
+223
+00:08:17,422 --> 00:08:19,470
+...and then her car
+had to get towed away.
+
+224
+00:08:19,554 --> 00:08:21,736
+It was quite
+a traumatic experience.
+
+225
+00:08:21,821 --> 00:08:22,825
+Oh, you poor thing.
+
+226
+00:08:22,910 --> 00:08:24,915
+What can I do to help?
+
+227
+00:08:25,268 --> 00:08:27,752
+If you turn
+to page 78 in the textbook,
+
+228
+00:08:27,837 --> 00:08:29,363
+I'll begin today's lecture.
+
+229
+00:08:29,648 --> 00:08:32,091
+We should come up
+with some kind of video system
+
+230
+00:08:32,176 --> 00:08:33,814
+so you can see
+when I raise my hand.
+
+231
+00:08:33,913 --> 00:08:35,352
+Why don't you just tell me?
+
+232
+00:08:35,437 --> 00:08:37,268
+Let's try it. Hand-raise.
+
+233
+00:08:37,554 --> 00:08:39,167
+Yes, Sheldon.
+
+234
+00:08:39,252 --> 00:08:41,124
+That worked great.
+
+235
+00:08:43,360 --> 00:08:45,315
+Hey, Connie.
+Waiting for the mail?
+
+236
+00:08:45,400 --> 00:08:47,417
+- Yeah.
+- You know me.Yeah.
+
+237
+00:08:47,502 --> 00:08:48,288
+Oh.
+
+238
+00:08:48,373 --> 00:08:50,117
+Something
+from Publishers Clearing House.
+
+239
+00:08:50,202 --> 00:08:51,393
+Maybe you won.
+
+240
+00:08:51,478 --> 00:08:53,352
+- Yeah, wouldn't that be something?
+- Yeah.
+
+241
+00:08:53,437 --> 00:08:54,330
+You know,
+people think
+
+242
+00:08:54,415 --> 00:08:56,518
+Publishers Clearing House
+is Ed McMahon,
+
+243
+00:08:56,603 --> 00:08:58,216
+but that's actually
+a different company.
+
+244
+00:08:58,301 --> 00:08:59,229
+- Is that so?
+- Yeah.
+
+245
+00:08:59,314 --> 00:09:01,487
+Publishers Clearing House
+is the Prize Patrol
+
+246
+00:09:01,572 --> 00:09:02,775
+with the giant check.
+
+247
+00:09:02,859 --> 00:09:03,994
+Ed McMahon...
+
+248
+00:09:04,079 --> 00:09:06,694
+Well, it sure is nice talking
+to you, Edwin. Bye.
+
+249
+00:09:06,819 --> 00:09:07,908
+Oh.
+
+250
+00:09:07,994 --> 00:09:09,580
+The church van.
+My grandma
+
+251
+00:09:09,665 --> 00:09:11,041
+- rides that sometimes.
+- Edwin.
+
+252
+00:09:11,126 --> 00:09:12,541
+- Hmm?
+- Beat it.
+
+253
+00:09:12,674 --> 00:09:13,885
+All right. Yep.
+
+254
+00:09:14,064 --> 00:09:16,440
+One can choose
+the extended-zone scheme,
+
+255
+00:09:16,525 --> 00:09:17,908
+the reduced-zone scheme
+or the...
+
+256
+00:09:17,993 --> 00:09:19,252
+- Hand-raise.
+- Yes?
+
+257
+00:09:19,337 --> 00:09:20,820
+I set you up
+on speakerphone,
+
+258
+00:09:20,905 --> 00:09:23,127
+so now it's really like
+I'm learning in the future.
+
+259
+00:09:23,212 --> 00:09:24,377
+May I continue?
+
+260
+00:09:24,469 --> 00:09:26,044
+Ahead warp factor five.
+
+261
+00:09:26,129 --> 00:09:28,752
+That's from Star Trek,
+which is also in the future.
+
+262
+00:09:30,270 --> 00:09:31,753
+- Connie Tucker?
+- Yeah.
+
+263
+00:09:31,838 --> 00:09:33,278
+Give me one second.
+I'll help you in.
+
+264
+00:09:33,362 --> 00:09:36,080
+No, no, I don't need your help.
+I can get it myself.
+
+265
+00:09:38,470 --> 00:09:40,244
+She opened that
+door by herself.
+
+266
+00:09:40,329 --> 00:09:42,117
+Looks like we got
+a feisty one.
+
+267
+00:09:42,210 --> 00:09:44,081
+Don't test me.
+
+268
+00:09:44,648 --> 00:09:46,979
+- Oh, yeah, she's feisty.
+- What?
+
+269
+00:09:47,080 --> 00:09:48,871
+- She's feisty!
+- She's feisty!
+
+270
+00:09:51,812 --> 00:09:53,465
+What?
+
+271
+00:10:00,786 --> 00:10:02,172
+Vern.
+
+272
+00:10:02,968 --> 00:10:04,079
+Connie.
+
+273
+00:10:04,164 --> 00:10:05,910
+Where you headed, Connie?
+
+274
+00:10:06,017 --> 00:10:07,337
+Stop flirting with her.
+
+275
+00:10:07,422 --> 00:10:09,719
+I'm not flirting with her.
+I was being cordial.
+
+276
+00:10:09,803 --> 00:10:11,705
+Mm-hmm.
+I'm Hortense,
+
+277
+00:10:11,790 --> 00:10:14,836
+his wife, which, clearly,
+he seems to have forgotten.
+
+278
+00:10:14,921 --> 00:10:16,796
+Judas Priest, give it a rest.
+
+279
+00:10:17,028 --> 00:10:18,166
+That's Doris.
+
+280
+00:10:18,251 --> 00:10:19,947
+Hello, Doris.
+What?
+
+281
+00:10:20,093 --> 00:10:22,095
+Turn on your hearing aid.
+
+282
+00:10:23,481 --> 00:10:24,833
+It's nice to meet y'all.
+
+283
+00:10:24,918 --> 00:10:27,750
+And to answer your question,
+I'm headed to the salon.
+
+284
+00:10:27,865 --> 00:10:29,739
+Oh, fancy.
+
+285
+00:10:30,157 --> 00:10:32,454
+We're headed to the pharmacy.
+
+286
+00:10:33,784 --> 00:10:35,805
+Seven pills a day.
+
+287
+00:10:35,907 --> 00:10:39,184
+You take nine...
+Clearly one ain't working.
+
+288
+00:10:39,268 --> 00:10:41,422
+Okay, I'm on. What'd I miss?
+
+289
+00:10:41,594 --> 00:10:43,666
+She's headed to the salon!
+
+290
+00:10:43,843 --> 00:10:45,976
+Ooh, fancy.
+
+291
+00:10:57,696 --> 00:10:58,855
+Cooper residence.
+
+292
+00:10:58,939 --> 00:11:01,423
+Sheldon,
+President Hagemeyer again.
+
+293
+00:11:01,507 --> 00:11:04,687
+Just calling to make sure it all
+worked out with Dr. Linkletter.
+
+294
+00:11:04,771 --> 00:11:06,446
+Yes, everything went quite well.
+
+295
+00:11:06,672 --> 00:11:08,353
+Although he was a tad irritable.
+
+296
+00:11:08,438 --> 00:11:10,824
+Maybe because I ripped him
+a new one.
+
+297
+00:11:10,908 --> 00:11:13,000
+- A new what?
+- Ot important.
+
+298
+00:11:13,084 --> 00:11:15,176
+Uh, whatever you need
+for classes,
+
+299
+00:11:15,260 --> 00:11:16,656
+you just say the word.
+
+300
+00:11:16,954 --> 00:11:18,994
+I suppose it could be helpful
+if I could dial
+
+301
+00:11:19,079 --> 00:11:20,822
+into the university's server
+while still
+
+302
+00:11:20,907 --> 00:11:22,548
+on the phone with my professors.
+
+303
+00:11:22,633 --> 00:11:24,120
+Like a second phone line?
+
+304
+00:11:24,205 --> 00:11:25,557
+We can take care of that.
+
+305
+00:11:25,642 --> 00:11:26,951
+Well, as my meemaw would say,
+
+306
+00:11:27,035 --> 00:11:29,301
+"Aren't you
+just a spoonful of sugar?"
+
+307
+00:11:31,093 --> 00:11:33,739
+Who is he talking to
+all this time?
+
+308
+00:11:33,824 --> 00:11:36,563
+And if there's anything else
+you need, you just let me know.
+
+309
+00:11:36,648 --> 00:11:38,479
+I can't think of anything
+except that I wanted
+
+310
+00:11:38,571 --> 00:11:40,315
+Strawberry Quik
+and my brother put the empty
+
+311
+00:11:40,400 --> 00:11:42,318
+milk carton back in the fridge.
+
+312
+00:11:42,403 --> 00:11:44,146
+Ah, brothers, they're the worst.
+
+313
+00:11:44,231 --> 00:11:46,411
+Mine's an environmental
+activist.
+
+314
+00:11:48,584 --> 00:11:50,110
+And then they crashed
+into a tree.
+
+315
+00:11:50,195 --> 00:11:52,287
+Oh, no! The engine caught fire.
+
+316
+00:11:52,401 --> 00:11:54,058
+My goodness, is everyone okay?
+
+317
+00:11:54,143 --> 00:11:55,321
+Thankfully, yes.
+
+318
+00:11:55,406 --> 00:11:57,243
+But I was pretty shook up.
+
+319
+00:11:58,079 --> 00:12:00,258
+Well, don't worry
+about that test today.
+
+320
+00:12:00,868 --> 00:12:02,400
+Thank you for understanding.
+
+321
+00:12:02,485 --> 00:12:03,988
+Mm-hmm.
+
+322
+00:12:04,072 --> 00:12:06,680
+Oh, and where are we
+on homework tonight?
+
+323
+00:12:06,765 --> 00:12:08,509
+- Don't push it.
+- Right.
+
+324
+00:12:08,990 --> 00:12:11,200
+Hey, I'm just gonna run Doris
+into the bank.
+
+325
+00:12:11,285 --> 00:12:12,722
+We'll be back in a minute.
+
+326
+00:12:13,734 --> 00:12:15,173
+Doris. Whoa.
+
+327
+00:12:15,257 --> 00:12:17,567
+You seem like
+you can get around,
+
+328
+00:12:17,651 --> 00:12:20,526
+so why are you
+in this geezer-buggy?
+
+329
+00:12:20,854 --> 00:12:22,572
+I had a little car accident.
+
+330
+00:12:22,656 --> 00:12:24,704
+Oh, no.Ooh.
+Anybody get hurt?
+
+331
+00:12:24,807 --> 00:12:26,271
+Only the tree.
+
+332
+00:12:26,355 --> 00:12:27,604
+Step on the wrong pedal?
+
+333
+00:12:27,689 --> 00:12:29,346
+No.
+
+334
+00:12:29,561 --> 00:12:30,956
+Maybe.
+
+335
+00:12:31,041 --> 00:12:32,339
+Maybe, my ass.
+
+336
+00:12:32,424 --> 00:12:34,246
+Hey, that sort of thing happens.
+
+337
+00:12:34,331 --> 00:12:35,479
+Oh.
+
+338
+00:12:35,564 --> 00:12:37,874
+He drove
+into all kinds of stuff
+
+339
+00:12:37,959 --> 00:12:39,398
+before they took his keys away.
+
+340
+00:12:39,483 --> 00:12:40,792
+Remember the goose?
+
+341
+00:12:40,877 --> 00:12:42,795
+Ooh. Feathers everywhere.
+
+342
+00:12:43,024 --> 00:12:44,855
+Huh. I just think it'd kill me
+
+343
+00:12:44,939 --> 00:12:46,628
+to lose my independence
+like that.
+
+344
+00:12:46,713 --> 00:12:47,789
+Oh, it's not so bad.
+
+345
+00:12:48,115 --> 00:12:50,557
+Sometimes Clayton takes us
+to the park.
+
+346
+00:12:50,650 --> 00:12:51,872
+Like dogs.
+
+347
+00:12:51,957 --> 00:12:53,550
+I got places to go...
+
+348
+00:12:53,723 --> 00:12:55,424
+Bowling league,
+water aerobics,
+
+349
+00:12:55,509 --> 00:12:56,932
+I drive my grandson to college.
+
+350
+00:12:57,017 --> 00:12:58,544
+Why can't he drive himself?
+
+351
+00:12:58,629 --> 00:13:00,136
+Well, he's 11.
+
+352
+00:13:00,221 --> 00:13:02,589
+Wha...?
+11 and in college?
+
+353
+00:13:02,674 --> 00:13:03,831
+He's special.
+
+354
+00:13:03,923 --> 00:13:06,668
+Our grandson is 27.
+
+355
+00:13:06,877 --> 00:13:09,823
+Mm, he may be
+the other kind of special.
+
+356
+00:13:18,578 --> 00:13:19,931
+Sheldon?
+
+357
+00:13:20,016 --> 00:13:22,192
+In my room.
+
+358
+00:13:23,310 --> 00:13:24,445
+I saw a truck outside.
+
+359
+00:13:24,530 --> 00:13:25,925
+What's wrong
+with the phone?
+
+360
+00:13:26,010 --> 00:13:27,667
+Nothing.
+Oh.
+
+361
+00:13:27,752 --> 00:13:29,235
+Adding a second line.
+
+362
+00:13:29,505 --> 00:13:30,640
+I'm almost done here.
+
+363
+00:13:30,724 --> 00:13:32,076
+Just got to hop up on the roof.
+
+364
+00:13:32,160 --> 00:13:35,393
+Hold on. You can't just
+add another phone line
+
+365
+00:13:35,478 --> 00:13:36,550
+without asking.
+
+366
+00:13:36,635 --> 00:13:38,243
+I didn't do it.
+The university did.
+
+367
+00:13:38,328 --> 00:13:40,866
+- Why would they do that?
+- I asked them to.
+
+368
+00:13:40,951 --> 00:13:42,739
+Are you some sort
+of special kid?
+
+369
+00:13:42,823 --> 00:13:44,436
+You have no idea.
+
+370
+00:13:44,520 --> 00:13:46,565
+Shouldn't you be up on the roof?
+
+371
+00:13:47,729 --> 00:13:50,953
+You can't just ask
+the university for things.
+
+372
+00:13:51,092 --> 00:13:53,140
+President Hagemeyer seemed
+so happy to help.
+
+373
+00:13:53,224 --> 00:13:54,577
+Why rob her of that?
+
+374
+00:13:54,661 --> 00:13:56,753
+Sheldon, you are going to have
+
+375
+00:13:56,837 --> 00:13:58,624
+to get in a car again
+eventually.
+
+376
+00:13:58,708 --> 00:14:00,147
+It's not looking like it.
+
+377
+00:14:01,752 --> 00:14:03,754
+This isn't over.
+
+378
+00:14:05,366 --> 00:14:06,784
+Can I help you?
+
+379
+00:14:06,869 --> 00:14:09,222
+- Grocery delivery for Sheldon Cooper?
+- What is it?
+
+380
+00:14:09,458 --> 00:14:12,737
+Looks like milk, straws and
+three cans of Strawberry Quik.
+
+381
+00:14:12,822 --> 00:14:14,348
+Oh, boy.
+
+382
+00:14:14,672 --> 00:14:15,672
+Thank you.
+
+383
+00:14:16,030 --> 00:14:17,295
+Would you tip him?
+
+384
+00:14:17,379 --> 00:14:18,690
+I'm a little light.
+
+385
+00:14:18,775 --> 00:14:20,645
+So, I was singing
+
+386
+00:14:20,730 --> 00:14:22,430
+karaoke with
+my girlfriend
+
+387
+00:14:22,514 --> 00:14:25,253
+who used to be married to
+the guy I'm currently dating.
+
+388
+00:14:25,338 --> 00:14:27,474
+What the heck is a karaoke?
+
+389
+00:14:27,688 --> 00:14:29,222
+It's when you stand up and sing
+
+390
+00:14:29,307 --> 00:14:30,869
+in front of everybody
+at the bar.
+
+391
+00:14:30,954 --> 00:14:32,655
+You're like a Las Vegas showgirl.
+
+392
+00:14:32,739 --> 00:14:34,854
+Oh, no, no,
+anybody can do it.
+
+393
+00:14:34,939 --> 00:14:37,423
+- I'll take you sometime.
+- Oh, please. Can we?
+
+394
+00:14:37,508 --> 00:14:40,078
+Well, could I sing
+"Blue Suede Shoes"?
+
+395
+00:14:40,210 --> 00:14:43,434
+You bet. You better turn your hearing aid
+down for that one.
+
+396
+00:14:43,605 --> 00:14:44,653
+You got that right.
+
+397
+00:14:45,066 --> 00:14:46,543
+Tell me,
+when was the last time
+
+398
+00:14:46,628 --> 00:14:48,903
+you went and got all
+dolled up at a salon?
+
+399
+00:14:48,988 --> 00:14:50,637
+I don't even remember.
+
+400
+00:14:50,729 --> 00:14:52,037
+It's been years.
+
+401
+00:14:52,122 --> 00:14:53,997
+Does it look like
+I go to a salon?
+
+402
+00:14:54,082 --> 00:14:55,278
+We're going now.
+
+403
+00:14:55,363 --> 00:14:58,075
+I'm gonna take you,
+and it's on me.
+
+404
+00:14:58,249 --> 00:14:59,989
+This is exciting.
+
+405
+00:15:00,160 --> 00:15:01,817
+It's a good thing
+I got my heart pills.
+
+406
+00:15:04,785 --> 00:15:05,746
+Hello.
+
+407
+00:15:05,866 --> 00:15:08,137
+Hi. This is Linda Hagemeyer
+from the university.
+
+408
+00:15:08,222 --> 00:15:09,878
+Is this Mrs. Cooper?
+
+409
+00:15:10,006 --> 00:15:11,402
+- Yes, it is.
+- Excellent.
+
+410
+00:15:11,487 --> 00:15:13,629
+Did the Strawberry Quik arrive?
+
+411
+00:15:13,714 --> 00:15:15,328
+As a matter of fact,
+it did.
+
+412
+00:15:15,414 --> 00:15:17,680
+Sounds like nasty stuff,
+but, hey,
+
+413
+00:15:17,765 --> 00:15:20,031
+whatever floats
+the little guy's boat, right?
+
+414
+00:15:20,116 --> 00:15:23,905
+Listen, I appreciate that you
+value Sheldon at your school.
+
+415
+00:15:23,990 --> 00:15:26,996
+Love him.
+But I am trying to raise him
+
+416
+00:15:27,081 --> 00:15:31,161
+to be a well-rounded individual
+who will get in a car.
+
+417
+00:15:31,246 --> 00:15:32,817
+Oh, I wouldn't worry about that.
+
+418
+00:15:32,902 --> 00:15:35,559
+Academia draws all kinds
+of eccentrics.
+
+419
+00:15:36,074 --> 00:15:37,818
+Yeah, we've got
+a biology professor
+
+420
+00:15:37,926 --> 00:15:39,931
+who hasn't cut his nails
+in years.
+
+421
+00:15:40,070 --> 00:15:42,114
+Ugh. Looks like
+Edward Scissorhands.
+
+422
+00:15:42,199 --> 00:15:44,668
+That is not what I want
+for my son.
+
+423
+00:15:47,035 --> 00:15:48,371
+Do you have children?
+
+424
+00:15:48,456 --> 00:15:50,648
+No, but thanks
+for bringing it up.
+
+425
+00:15:50,733 --> 00:15:54,479
+Anyway, I would like Sheldon
+to function in society,
+
+426
+00:15:54,563 --> 00:15:58,364
+and it does not help if you give
+him everything that he asks for.
+
+427
+00:15:58,449 --> 00:16:00,262
+I'm just doing my job.
+
+428
+00:16:01,282 --> 00:16:03,825
+And I am just doing mine.
+
+429
+00:16:05,323 --> 00:16:06,519
+Understood.
+
+430
+00:16:06,604 --> 00:16:07,608
+Thank you.
+
+431
+00:16:08,153 --> 00:16:10,153
+Oh, and, um, in a few minutes,
+
+432
+00:16:10,238 --> 00:16:12,635
+my assistant is gonna be
+dropping off a big old basket
+
+433
+00:16:12,793 --> 00:16:14,614
+of Star Trektapes.
+
+434
+00:16:14,699 --> 00:16:17,614
+I'm afraid it's too late for me
+to pump the brakes on that one.
+
+435
+00:16:17,707 --> 00:16:19,625
+<i>♪ Whoa!</i>
+
+436
+00:16:28,205 --> 00:16:31,159
+- Sarah did a real nice job on my cuticles.
+- Yeah.
+
+437
+00:16:31,244 --> 00:16:33,198
+So where we headed next?
+And don't say dinner.
+
+438
+00:16:33,283 --> 00:16:35,033
+Oh, but it's almost 4:00.
+
+439
+00:16:35,118 --> 00:16:37,582
+- What?!
+- It's almost 4:00.
+
+440
+00:16:37,667 --> 00:16:38,932
+Ooh, dinnertime.
+
+441
+00:16:39,017 --> 00:16:41,088
+Just get in.
+
+442
+00:16:41,213 --> 00:16:44,455
+Ooh. She's like
+a muscle man.
+
+443
+00:16:46,210 --> 00:16:48,924
+- Move on over, Doris.
+- What?
+
+444
+00:16:53,290 --> 00:16:54,867
+<i>My mother eventually coaxed me</i>
+
+445
+00:16:54,951 --> 00:16:57,405
+<i>back into a car
+with a trip to RadioShack.</i>
+
+446
+00:16:57,490 --> 00:16:58,904
+<i>She knew I was nervous</i>
+
+447
+00:16:58,989 --> 00:17:01,473
+<i>so she came up with
+an interesting distraction.</i>
+
+448
+00:17:01,654 --> 00:17:03,922
+Baby, how about
+we play a car game?
+
+449
+00:17:04,007 --> 00:17:07,317
+I suppose.
+Can I make it science-based?
+
+450
+00:17:07,402 --> 00:17:10,104
+Sure. I'll say an element
+starting with "A,"
+
+451
+00:17:10,203 --> 00:17:12,730
+then you repeat that
+and add one starting with "B."
+
+452
+00:17:12,838 --> 00:17:14,843
+- I don't think I'll get very far.
+- Great.
+
+453
+00:17:14,928 --> 00:17:16,323
+Then I'll win.
+Aluminum.
+
+454
+00:17:16,660 --> 00:17:20,887
+Okay, uh, you said
+"A" for aluminum.
+
+455
+00:17:21,341 --> 00:17:25,192
+- "B." Is boron an element?
+- Yes.
+
+456
+00:17:25,277 --> 00:17:27,437
+<i>It was
+the beginning of a new tradition.</i>
+
+457
+00:17:27,650 --> 00:17:30,764
+<i>One that would eventually
+bring countless hours of joy</i>
+
+458
+00:17:30,849 --> 00:17:32,724
+<i>to Leonard
+on our drives to work.</i>
+
+459
+00:17:32,809 --> 00:17:35,497
+<i>Much like my mother,
+he never beat me.</i>
+
+460
+00:17:36,199 --> 00:17:38,291
+I don't know an element
+that starts with "D."
+
+461
+00:17:38,376 --> 00:17:40,033
+I win. That was fun.
+
+462
+00:17:40,134 --> 00:17:42,049
+Round two.
+Argon.
+
+463
+00:17:47,985 --> 00:17:50,113
+Captioned by <font color="#00ffff">Media Access
+Group at WGBH</font> access.wgbh.org
+
+464
+00:17:50,197 --> 00:17:52,197
+<font color=#ffc30f>Synchronized</font> by <font color=#00FF00>srjanapala</font>
+
+464
+00:17:53,305 --> 00:18:53,194
+OpenSubtitles recommends using Nord VPN
+from 3.49 USD/month ----> osdb.link/vpn										
+    
+
+ 
+
+ 
+   
+   
+
+
+   
+ 
+  
+
+										
+ 
+
+ 
+  
+  
+
+   
+ 
+    
