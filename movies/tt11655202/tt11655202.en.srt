@@ -1,0 +1,5001 @@
+1
+00:00:06,000 --> 00:00:12,074
+Support us and become VIP member 
+to remove all ads from www.OpenSubtitles.org
+
+2
+00:00:59,067 --> 00:01:01,442
+Good evening.
+
+3
+00:01:01,608 --> 00:01:04,483
+My niece would like a bike for
+Christmas.
+
+4
+00:01:14,025 --> 00:01:19,192
+It's nice, but I don't like red. Do
+you have it in blue?
+
+5
+00:01:20,525 --> 00:01:24,483
+- Do I have to order one of these?
+- Can I have one, please?
+
+6
+00:01:24,650 --> 00:01:27,525
+Nothing in life is shown.
+
+7
+00:01:27,692 --> 00:01:32,567
+Christmas is a long time. Maybe I'll
+give you one. Maybe you don't.
+
+8
+00:01:34,067 --> 00:01:37,650
+- I think I'll get it.
+- God willing.
+
+9
+00:01:39,525 --> 00:01:41,400
+We'll see.
+
+10
+00:02:39,858 --> 00:02:43,317
+(the car will not start)
+
+11
+00:02:46,275 --> 00:02:49,733
+(your phone is buzzing)
+
+12
+00:02:49,900 --> 00:02:52,233
+It's Dad.
+
+13
+00:02:56,233 --> 00:03:01,400
+- Hey, baby. Is everything OK?
+- Everything okay. Mathilde left?
+
+14
+00:03:01,567 --> 00:03:05,525
+No. She's had her bike stolen at the
+station, so I'm going to take her.
+
+15
+00:03:05,692 --> 00:03:09,233
+- But now the car won't start.
+- Oh, it.
+
+16
+00:03:09,400 --> 00:03:13,483
+- Do you want me to call you a little
+later?
+- <i>She's missing the first hour
+anyway.</i>
+
+17
+00:03:13,650 --> 00:03:18,525
+- <i>What's going on?</i>
+- Well, they've asked me to stay.
+
+18
+00:03:19,775 --> 00:03:22,442
+How long?
+
+19
+00:03:23,817 --> 00:03:25,275
+Three months.
+
+20
+00:03:41,525 --> 00:03:44,108
+Isn't he coming home?
+
+21
+00:03:46,650 --> 00:03:48,733
+Then.
+
+22
+00:03:48,900 --> 00:03:50,442
+Well.
+
+23
+00:03:50,608 --> 00:03:56,025
+That way we won't have him sitting in
+the barn staring.
+
+24
+00:04:01,025 --> 00:04:05,358
+Came. Let's go down to the train. Put
+the phone away.
+
+25
+00:04:05,525 --> 00:04:08,733
+Came. We're going to take a truancy
+day.
+
+26
+00:04:12,567 --> 00:04:15,150
+The algorithm concluded unequivocally
+that
+
+27
+00:04:15,317 --> 00:04:19,692
+- that lowest income group drove Kia,
+Fiat and Hyundai.
+
+28
+00:04:19,858 --> 00:04:24,400
+The middle income group drove larger
+Toyotas, Ford and Volvo.
+
+29
+00:04:24,567 --> 00:04:30,317
+- while the top group predominantly
+chose Mercedes, Tesla and Audi.
+
+30
+00:04:30,483 --> 00:04:34,233
+- And how did it do that? The.
+- Otto, I'm going to stop you right
+here.
+
+31
+00:04:34,400 --> 00:04:39,442
+How long have you and your team spent
+on this algorithm?
+
+32
+00:04:41,733 --> 00:04:43,983
+Uha. It's hard to tell.
+
+33
+00:04:44,150 --> 00:04:46,775
+- 46 weeks.
+- A lot was going on in the evening
+hours.
+
+34
+00:04:46,942 --> 00:04:49,983
+One year and four million on an
+algorithm that shows
+
+35
+00:04:50,150 --> 00:04:53,067
+- that the poor drive Kia, and the
+rich Mercedes?
+
+36
+00:04:53,233 --> 00:04:57,275
+What's interesting is that the
+algorithm itself found and juxtaposed
+-
+
+37
+00:04:57,442 --> 00:05:01,608
+- 82,504 registration certificates
+with tax returns in 46 municipalities
+-
+
+38
+00:05:01,775 --> 00:05:05,067
+- to form the statistical basis.
+
+39
+00:05:05,233 --> 00:05:08,275
+Are there contexts that are
+interesting to us?
+
+40
+00:05:08,442 --> 00:05:12,317
+Yes, yes, but that's not the goal.
+You need to think bigger.
+
+41
+00:05:12,483 --> 00:05:16,108
+This algorithm will, when we get
+enough processing power,
+
+42
+00:05:16,275 --> 00:05:18,317
+- be able to predict events.
+
+43
+00:05:18,483 --> 00:05:21,775
+Can you explain it? Incidents such as?
+
+44
+00:05:21,942 --> 00:05:25,900
+All events are the product of a
+series of prior events.
+
+45
+00:05:26,067 --> 00:05:30,900
+We most often have insufficient data
+and categorize it as coincidences.
+
+46
+00:05:31,067 --> 00:05:34,650
+But it's not. If a drunk driver
+crashes in a snowstorm,
+
+47
+00:05:34,817 --> 00:05:40,442
+- we don't call it a coincidence as
+we have data to conclude.
+
+48
+00:05:40,608 --> 00:05:45,483
+But imagine that the error was
+discovered before it happened.
+
+49
+00:05:45,650 --> 00:05:47,942
+What is macrodaktyli?
+
+50
+00:05:49,483 --> 00:05:54,775
+That means club foot. My father's
+sister in Horsens suffers from it.
+
+51
+00:05:54,942 --> 00:05:59,650
+The algorithm has examined links
+between club foot and hearing?
+
+52
+00:05:59,817 --> 00:06:03,483
+- It's one of my big.
+- Let me do the talking.
+
+53
+00:06:03,650 --> 00:06:10,983
+Here, the algorithm collected 41,534
+patient records from 1912 to 2020.
+
+54
+00:06:11,150 --> 00:06:14,192
+The earliest it found was...
+
+55
+00:06:14,358 --> 00:06:18,858
+Was there a connection between being
+lump-footed and hearing badly?
+
+56
+00:06:19,025 --> 00:06:23,275
+Context? No. No, not at all.
+
+57
+00:07:27,525 --> 00:07:30,817
+- I thought it was nice.
+- Well, that's nice.
+
+58
+00:07:30,983 --> 00:07:34,525
+Don't you want to sit here? There's a
+single seat.
+
+59
+00:07:34,692 --> 00:07:36,983
+No, I don't have to. I'm fine.
+
+60
+00:07:37,150 --> 00:07:41,233
+No, at last. I need to stretch my
+legs so that it...
+
+61
+00:07:45,192 --> 00:07:48,108
+- Thank you very much.
+- You're welcome.
+
+62
+00:08:17,608 --> 00:08:20,817
+(panicked breathing)
+
+63
+00:08:28,442 --> 00:08:31,733
+(screams and crying in the background)
+
+64
+00:08:43,192 --> 00:08:45,900
+Mother?
+
+65
+00:08:49,733 --> 00:08:51,567
+Mother?
+
+66
+00:09:15,692 --> 00:09:18,275
+Good work, boys.
+
+67
+00:09:18,442 --> 00:09:22,942
+I'll meet you in the tent for debrief
+in 05.
+
+68
+00:10:56,233 --> 00:10:59,150
+<i>Police are still carrying out
+inquiries.</i>
+
+69
+00:10:59,317 --> 00:11:03,067
+<i>All train traffic on the line has
+been suspended.</i>
+
+70
+00:11:03,233 --> 00:11:06,358
+<i>The police ruled out the
+possibility of terrorism.</i>
+
+71
+00:11:06,525 --> 00:11:10,067
+- <i>And right now, there's no
+indication that this is anything
+other than an accident.</i>
+
+72
+00:11:10,233 --> 00:11:12,483
+<i>The accident happened at 3:31
+p.m.</i>
+
+73
+00:11:12,650 --> 00:11:17,192
+- <i>when part of a parked freight
+train collided with the S train.</i>
+
+74
+00:11:17,358 --> 00:11:22,317
+<i>There is mainly damage to the
+right side of the train in the front
+three carriages.</i>
+
+75
+00:11:22,483 --> 00:11:26,025
+<i>The death toll now stands at 11,
+and it's confirmed-</i>
+
+76
+00:11:26,192 --> 00:11:31,108
+- <i>that the rocker Johan "The
+Eagle" Ulrichsen and his lawyer are
+dead.</i>
+
+77
+00:11:31,275 --> 00:11:35,525
+<i>The eagle was to testify against
+his old brethren in the Riders of
+Justice.</i>
+
+78
+00:11:35,692 --> 00:11:38,733
+- <i>among them the group's
+president, Kurt "Tandem" Olesen.</i>
+
+79
+00:11:38,900 --> 00:11:44,442
+<i>The case he was supposed to
+testify in is the murder case from
+Kaalundsgade.</i>
+
+80
+00:11:44,608 --> 00:11:48,275
+- <i>where four Turkish men were
+liquidated.</i>
+
+81
+00:11:50,150 --> 00:11:53,275
+(mumbles)
+
+82
+00:12:22,650 --> 00:12:24,775
+Are we going home now?
+
+83
+00:12:26,650 --> 00:12:31,025
+I don't know, I don't know. Not yet,
+I think.
+
+84
+00:12:31,192 --> 00:12:35,858
+We are talking about four phases. The
+shock phase you're in now. The
+reaction phase ...
+
+85
+00:12:36,025 --> 00:12:40,442
+- I'd like to see my wife.
+- I strongly advise against that.
+
+86
+00:12:40,608 --> 00:12:43,192
+I'd like to see her.
+
+87
+00:12:46,567 --> 00:12:51,275
+- You are perfectly entitled to...
+- I'd like to see my wife.
+
+88
+00:13:47,608 --> 00:13:52,317
+I've been dealing with probability
+calculation for 26 years.
+
+89
+00:13:52,483 --> 00:13:58,358
+- and there is too much to suggest
+that it is not an accident.
+
+90
+00:13:59,233 --> 00:14:00,567
+Such as?
+
+91
+00:14:00,733 --> 00:14:05,192
+The likelihood of a crown witness in
+a biker-related homicide case-
+
+92
+00:14:05,358 --> 00:14:09,942
+- and his lawyer are killed in a
+train accident before he has to
+testify.
+
+93
+00:14:10,108 --> 00:14:13,525
+- is according to my calculations ...
+What does it say?
+
+94
+00:14:13,692 --> 00:14:18,525
+1:234.287.121.
+
+95
+00:14:18,692 --> 00:14:21,442
+Too large a number to ignore.
+
+96
+00:14:21,608 --> 00:14:24,983
+It's extremely unfortunate, but
+there's no indication that
+
+97
+00:14:25,150 --> 00:14:28,025
+- that it is more than an accident.
+
+98
+00:14:28,192 --> 00:14:30,733
+The numbers never lie.
+
+99
+00:14:30,900 --> 00:14:34,150
+It would require someone from riders
+of justice to know-
+
+100
+00:14:34,317 --> 00:14:38,442
+- in exactly which wagon and where in
+the compartment the Eagle sat.
+
+101
+00:14:38,608 --> 00:14:40,900
+It doesn't make any sense.
+
+102
+00:14:41,067 --> 00:14:45,317
+That's your job. I'm just saying,
+it's too big a number.
+
+103
+00:14:45,483 --> 00:14:49,483
+We are very grateful for that. We'll
+take a look at it.
+
+104
+00:14:49,650 --> 00:14:52,317
+We thank you for today.
+
+105
+00:14:52,483 --> 00:14:58,483
+The problem is, I saw an extremely
+suspicious man get off the train.
+
+106
+00:14:58,650 --> 00:15:03,567
+- just before the accident happened.
+
+107
+00:15:03,733 --> 00:15:07,442
+Yes? What was suspicious about him?
+
+108
+00:15:07,608 --> 00:15:11,567
+He boarded a Joe &amp; the Juice
+sandwich and a big juice.
+
+109
+00:15:11,733 --> 00:15:14,942
+- but he ate only a small bite and
+did not drink at all from the juice.
+
+110
+00:15:15,108 --> 00:15:21,608
+All of a sudden, he gets up, throws
+out the whole sandwich and the juice,
+
+111
+00:15:21,775 --> 00:15:25,025
+- and get off the train.
+
+112
+00:15:25,192 --> 00:15:27,858
+Okay. Yes.
+
+113
+00:15:28,025 --> 00:15:30,650
+A Joe &amp; the Juice sandwich costs
+$5.99.
+
+114
+00:15:30,817 --> 00:15:35,317
+65 if it is with extra filling, and a
+large juice costs 54.
+
+115
+00:15:35,483 --> 00:15:41,192
+Nobody throws out $11.99 juice and
+sandwiches like that.
+
+116
+00:15:41,358 --> 00:15:44,400
+- We'll take a look at it.
+- Thank you for your help.
+
+117
+00:16:07,692 --> 00:16:10,233
+(text message audio)
+
+118
+00:16:31,483 --> 00:16:35,442
+- I'll be in in a minute, baby.
+- It's okay. I want to go to school.
+
+119
+00:16:35,608 --> 00:16:40,942
+I don't think you should. If you want
+to get out, we can go for a run
+together.
+
+120
+00:16:41,108 --> 00:16:43,900
+I want to go to school.
+
+121
+00:16:45,567 --> 00:16:48,192
+Have you stopped running?
+
+122
+00:16:48,358 --> 00:16:52,608
+- No.
+- When was the last time you ran?
+
+123
+00:16:52,775 --> 00:16:54,608
+I don't know, I don't know.
+
+124
+00:16:54,775 --> 00:16:59,358
+Then you don't run the three times a
+week we agreed.
+
+125
+00:16:59,525 --> 00:17:04,358
+- It's for your own good.
+- You're such a jerk.
+
+126
+00:17:04,525 --> 00:17:08,192
+Mathilde! Why don't I drive you then?
+
+127
+00:17:22,442 --> 00:17:27,567
+It wasn't an accident, it was an
+assassination, but I can't prove
+anything.
+
+128
+00:17:27,733 --> 00:17:31,192
+If you can hack us into Fitness
+World's servers, there is a
+possibility.
+
+129
+00:17:31,358 --> 00:17:35,817
+- Fitness World? The fitness chain?
+- No, the stonemason, Lennart.
+
+130
+00:17:35,983 --> 00:17:41,233
+- Speak nicely, or I won't help.
+- Sorry. But would you be able to?
+
+131
+00:17:41,400 --> 00:17:43,942
+A blind child can do that with his
+feet.
+
+132
+00:17:44,108 --> 00:17:48,608
+I have hacked Fitness Worlds servers
+plenty of times.
+
+133
+00:17:48,775 --> 00:17:51,317
+Have you hacked Fitness World's
+servers?
+
+134
+00:17:51,483 --> 00:17:55,857
+- So Emmenthaler can go to pilates.
+- Do Emmenthaler grow pilates?
+
+135
+00:17:56,025 --> 00:18:00,400
+Not. See how little you know about
+your team.
+
+136
+00:18:00,567 --> 00:18:04,941
+Emmenthaler has had back problems for
+three years. I can't believe it!
+
+137
+00:18:05,108 --> 00:18:09,317
+- What do you think you can find
+there?
+- Eagle.
+
+138
+00:18:11,317 --> 00:18:14,525
+The eagle trained every day. He was
+methodical.
+
+139
+00:18:14,692 --> 00:18:18,275
+Can we prove that he used the same
+treadmill?
+
+140
+00:18:18,442 --> 00:18:21,150
+- He probably chose the same train
+seat every time.
+
+141
+00:18:21,317 --> 00:18:24,775
+- And then they would have known
+where he was sitting.
+
+142
+00:18:24,942 --> 00:18:27,317
+- Okay.
+- Thank you, Lennart.
+
+143
+00:18:27,483 --> 00:18:31,567
+I still need to renew my crossfit
+card.
+
+144
+00:18:32,650 --> 00:18:38,483
+When miracles happen, we often
+attribute a divine character to them.
+
+145
+00:18:38,650 --> 00:18:42,900
+Conversely, when lightning strikes,
+when tragedy is a reality,
+
+146
+00:18:43,067 --> 00:18:46,650
+- Then we'll have a hard time putting
+a sender on.
+
+147
+00:18:46,817 --> 00:18:49,733
+- and we therefore call it
+coincidences.
+
+148
+00:18:49,900 --> 00:18:55,150
+How can a merciful God share in such
+a cruel tragedy?
+
+149
+00:18:55,317 --> 00:19:00,067
+- like the one who tore away your
+beloved mother and wife, Emma?
+
+150
+00:19:00,233 --> 00:19:04,358
+But if it's all coincidence, isn't it
+obvious to feel...
+
+151
+00:19:04,525 --> 00:19:07,025
+- that everything doesn't matter?
+
+152
+00:19:07,192 --> 00:19:10,108
+Where do we go with all our grief?
+
+153
+00:19:10,275 --> 00:19:13,900
+- all our anger, all our fear and
+loneliness?
+
+154
+00:19:23,858 --> 00:19:26,108
+(door goes)
+
+155
+00:19:36,442 --> 00:19:39,483
+- What's up, baby?
+- I can't sleep.
+
+156
+00:19:39,650 --> 00:19:43,817
+Just try to close your eyes and count
+down from 500, okay?
+
+157
+00:19:46,192 --> 00:19:50,442
+- Why do you think Mom died?
+- There's no point talking about that.
+
+158
+00:19:50,608 --> 00:19:53,900
+- You think it was just a coincidence?
+- Yes. Came. I'm going in.
+
+159
+00:19:54,067 --> 00:19:57,775
+- What if it wasn't a coincidence?
+- What else would it be?
+
+160
+00:19:57,942 --> 00:19:59,858
+I don't know, I don't know.
+
+161
+00:20:02,108 --> 00:20:03,983
+- God?
+- Stop.
+
+162
+00:20:04,150 --> 00:20:07,067
+The priest didn't get half his own
+nonsense.
+
+163
+00:20:07,233 --> 00:20:11,483
+So. Now you're just trying to close
+your eyes and sleep, baby.
+
+164
+00:20:13,358 --> 00:20:18,442
+- Grandpa believed in God.
+- Yes. He wasn't too smart either.
+
+165
+00:20:20,608 --> 00:20:24,900
+Didn't you do that when you were
+little?
+
+166
+00:20:25,067 --> 00:20:29,025
+I believed in Santa Claus, too, but
+when you grow up,
+
+167
+00:20:29,192 --> 00:20:33,233
+- one must be able to distinguish
+between reality and fantasy.
+
+168
+00:20:35,442 --> 00:20:40,567
+The priest was sure that God had a
+reason for mom to die.
+
+169
+00:20:40,733 --> 00:20:45,525
+Look how crazy that sounds. That's
+what insanity says.
+
+170
+00:20:47,275 --> 00:20:49,442
+Sorry.
+
+171
+00:20:53,108 --> 00:20:56,817
+It's just that I miss her so much.
+
+172
+00:20:58,358 --> 00:21:02,817
+I can't bear to think she's all alone.
+
+173
+00:21:07,608 --> 00:21:10,108
+I understand that.
+
+174
+00:21:11,650 --> 00:21:14,608
+But she's not alone.
+
+175
+00:21:14,775 --> 00:21:18,567
+She's nothing now. She's gone.
+
+176
+00:21:22,358 --> 00:21:25,233
+- It's so unfair.
+- Yes.
+
+177
+00:21:29,483 --> 00:21:33,067
+When people die, they're gone
+forever, baby.
+
+178
+00:21:33,233 --> 00:21:38,525
+And you might as well learn that now.
+Because unless you die early,
+
+179
+00:21:38,692 --> 00:21:41,483
+- You're going to put most of the
+people you love in your grave.
+
+180
+00:21:41,650 --> 00:21:44,858
+If you have to torment yourself every
+time with false hope,
+
+181
+00:21:45,025 --> 00:21:49,733
+- About souls and angels up in
+heaven, you're going to go crazy up
+in your head.
+
+182
+00:21:49,900 --> 00:21:51,400
+Not?
+
+183
+00:21:55,442 --> 00:21:57,233
+So.
+
+184
+00:21:59,650 --> 00:22:05,775
+Now try to close those eyes and
+sleep. Count down from 500, baby. It
+helps.
+
+185
+00:22:19,692 --> 00:22:23,025
+(a car is approaching)
+
+186
+00:22:43,692 --> 00:22:46,233
+- Yes?
+- Markus Hansen?
+
+187
+00:22:48,275 --> 00:22:53,192
+Good evening. My name is Otto
+Hoffmann, and it's Lennart.
+
+188
+00:22:53,358 --> 00:22:57,567
+I was on the same train as your wife
+and daughter.
+
+189
+00:23:00,108 --> 00:23:03,442
+Is your daughter okay?
+
+190
+00:23:03,608 --> 00:23:06,817
+- How did you find my address?
+- It wasn't hard.
+
+191
+00:23:06,983 --> 00:23:09,817
+I told you to call first.
+
+192
+00:23:09,983 --> 00:23:14,817
+It's just that I was standing next to
+your wife and your daughter on the
+train.
+
+193
+00:23:15,942 --> 00:23:18,483
+What do you want from me?
+
+194
+00:23:18,650 --> 00:23:23,108
+I think you have a right to know that
+it wasn't an accident.
+
+195
+00:23:25,525 --> 00:23:29,233
+Are you aware of who the rocker Johan
+"The Eagle" Ulrichsen is?
+
+196
+00:23:33,192 --> 00:23:36,233
+- Can I...?
+- Here you go.
+
+197
+00:23:36,400 --> 00:23:41,192
+- Just... I'm going to take these.
+- That was quite a barn.
+
+198
+00:23:42,483 --> 00:23:46,733
+It is disproportionally large
+compared to the main house.
+
+199
+00:23:46,900 --> 00:23:52,233
+- Do you know what year it's built?
+- What? No. What's all that?
+
+200
+00:23:52,400 --> 00:23:55,608
+These are status certificates from
+the Eagle's doctor.
+
+201
+00:23:55,775 --> 00:24:00,567
+His records, criminal record, bank
+details,
+
+202
+00:24:00,733 --> 00:24:04,525
+- telephone lists and text messages.
+
+203
+00:24:05,525 --> 00:24:09,900
+- Where did you get that?
+- Lennart is good at finding things.
+
+204
+00:24:10,067 --> 00:24:14,567
+Yes. And it's not illegal. Or it's
+illegal, but not much.
+
+205
+00:24:14,733 --> 00:24:19,067
+This is the same penalty as building
+a bathing jetty without permission.
+
+206
+00:24:19,233 --> 00:24:20,858
+Why do you say it wasn't an accident?
+
+207
+00:24:21,025 --> 00:24:23,983
+The surveillance footage shows-
+
+208
+00:24:24,150 --> 00:24:27,192
+- that he was not only habitual, but
+suffered from OCD,
+
+209
+00:24:27,358 --> 00:24:29,775
+- which his medicine card confirms.
+
+210
+00:24:29,942 --> 00:24:33,525
+He was given citalopram and diazepam,
+which are given to OCD patients.
+
+211
+00:24:33,692 --> 00:24:39,525
+In addition, on his criminal record
+there are six cases of hand-wringing
+on trains.
+
+212
+00:24:39,692 --> 00:24:41,733
+At the end of November of this year,
+
+213
+00:24:41,900 --> 00:24:44,942
+- Where he kicks a retired landscaper
+in the face,
+
+214
+00:24:45,108 --> 00:24:47,983
+- when he refused to give him his
+seat.
+
+215
+00:24:48,150 --> 00:24:52,817
+We have the statistical abnormality.
+We know riders of justice knew-
+
+216
+00:24:52,983 --> 00:24:58,442
+- that the eagle, due to its OCD,
+always sat in the second carriage,
+row two.
+
+217
+00:24:58,608 --> 00:25:02,108
+And then we have him here.
+
+218
+00:25:02,275 --> 00:25:04,067
+- Who is he?
+- We don't know yet.
+
+219
+00:25:04,233 --> 00:25:09,067
+He rushed off where your family was
+standing just before the accident.
+
+220
+00:25:09,233 --> 00:25:12,650
+- I guess a lot of people did.
+- Yes.
+
+221
+00:25:12,817 --> 00:25:16,233
+But this guy threw out a whole
+sandwich and a full juice.
+
+222
+00:25:16,400 --> 00:25:21,483
+The night before, the same man was at
+Østerport Station at 10:14 p.m.
+
+223
+00:25:21,650 --> 00:25:27,858
+- where there was free passage to the
+freight wagons that later hit the
+train.
+
+224
+00:25:32,483 --> 00:25:36,983
+- Did you tell the police about this?
+- We can't show them this.
+
+225
+00:25:37,150 --> 00:25:41,400
+But we've been to the police three
+times. They don't give a.
+
+226
+00:25:41,567 --> 00:25:46,025
+They just think we're over-gifted
+charlatans.
+
+227
+00:25:46,192 --> 00:25:49,858
+But this one's the key. We just need
+to find out who he is.
+
+228
+00:25:50,025 --> 00:25:52,650
+We're on it, but it's not easy.
+
+229
+00:25:52,817 --> 00:25:57,483
+We have fierce disagreements with our
+face recognition expert.
+
+230
+00:25:57,650 --> 00:26:03,317
+Are these any disagreements you can
+resolve and try to find him here?
+
+231
+00:26:03,483 --> 00:26:07,442
+We need to bring Emmenthaler. We need
+him.
+
+232
+00:26:07,608 --> 00:26:11,442
+Never in life! That was a great barn,
+don't you think?
+
+233
+00:26:11,608 --> 00:26:14,692
+It was the kind of one we had in
+Horsens.
+
+234
+00:26:14,858 --> 00:26:19,942
+- Are you sure you should back down
+here?
+- Yes. There's a lot of room.
+
+235
+00:26:32,442 --> 00:26:35,067
+Stone. There's a rock there. Be
+careful.
+
+236
+00:26:39,400 --> 00:26:43,983
+The shock phase is individual. Some
+want care, contact and conversation.
+
+237
+00:26:44,150 --> 00:26:47,650
+Others just want to be alone. Both
+are perfectly okay.
+
+238
+00:26:47,817 --> 00:26:52,317
+We offer you cognitive therapy,
+individually or together.
+
+239
+00:26:52,483 --> 00:26:56,317
+Thanks. I'll let you know if I have
+to.
+
+240
+00:26:56,483 --> 00:27:02,358
+We can offer a child and an adult
+psychologist who will visit you.
+
+241
+00:27:02,525 --> 00:27:05,317
+- That's a great idea.
+- I don't want that.
+
+242
+00:27:05,483 --> 00:27:08,983
+- Why not?
+- Often you're not yourself...
+
+243
+00:27:09,150 --> 00:27:15,317
+We're trying to get our lives back,
+so we're not going to have people
+running around. Came.
+
+244
+00:27:28,400 --> 00:27:32,192
+yes, it's Dad again. It's 4:00,
+Mathilde.
+
+245
+00:27:32,358 --> 00:27:37,192
+If you don't call me in five minutes,
+I'm going to go look for you.
+
+246
+00:27:46,067 --> 00:27:51,400
+- Buster and Gustav were annoying.
+- They've never spoken to me before.
+
+247
+00:27:51,567 --> 00:27:56,358
+Mathilde! It's 7:30. Why don't you
+answer the phone?
+
+248
+00:27:57,442 --> 00:28:01,775
+- Sorry. We were at the movies.
+- You have to tell me something like
+that!
+
+249
+00:28:01,942 --> 00:28:07,067
+- Don't be out at 11:00.
+- Mom and I agreed at 11:00.
+
+250
+00:28:07,233 --> 00:28:12,150
+- Go home with you. Into.
+- No need to raise your voice.
+
+251
+00:28:13,525 --> 00:28:15,983
+- What did you say?
+- I'll drive.
+
+252
+00:28:16,150 --> 00:28:21,192
+But the tone towards Mathilde may not
+be what she needs.
+
+253
+00:28:22,483 --> 00:28:26,525
+What the fuck are you doing, man?
+You're sick in the head!
+
+254
+00:28:28,692 --> 00:28:31,358
+(moped starts)
+
+255
+00:28:45,775 --> 00:28:48,275
+- Honey, open the door.
+- No!
+
+256
+00:28:48,442 --> 00:28:53,317
+You can just kick it in, you fucking
+mugging psycho!
+
+257
+00:28:55,108 --> 00:28:59,692
+Mathilde, I didn't mean to hit that
+hard.
+
+258
+00:28:59,858 --> 00:29:02,900
+I shouldn't have hit.
+
+259
+00:29:06,775 --> 00:29:08,775
+Who was he?
+
+260
+00:29:11,108 --> 00:29:12,567
+Are you dating?
+
+261
+00:29:12,733 --> 00:29:15,900
+I don't know when you just him up!
+
+262
+00:29:16,067 --> 00:29:18,775
+Yes, it was also ...
+
+263
+00:29:18,942 --> 00:29:20,817
+I didn't know he was your girlfriend.
+
+264
+00:29:20,983 --> 00:29:23,858
+You don't know anything. You haven't
+been here. You don't know anything
+about me.
+
+265
+00:29:24,025 --> 00:29:26,858
+You don't know me at all!
+
+266
+00:29:29,358 --> 00:29:31,733
+Would you please open?
+
+267
+00:29:31,900 --> 00:29:34,358
+I've gone to bed.
+
+268
+00:29:36,025 --> 00:29:38,275
+Okay.
+
+269
+00:29:38,442 --> 00:29:43,150
+Sleep well. I'll see you tomorrow,
+won't you?
+
+270
+00:30:19,567 --> 00:30:22,025
+- What do you want from me?
+- This is Otto and Lennart.
+
+271
+00:30:22,192 --> 00:30:24,317
+I can see that. Go away.
+
+272
+00:30:24,483 --> 00:30:29,358
+Come on, Emmenthaler. We need you.
+We're unraveling a murder case.
+
+273
+00:30:31,150 --> 00:30:33,692
+<i>We brought pizza.</i>
+
+274
+00:30:50,983 --> 00:30:55,317
+I've got him. Aharon Nahas Shadid, 38.
+
+275
+00:30:55,483 --> 00:31:01,150
+Works as a clinical dental
+technician. Nazlet al-Seman al-Kebli
+21.
+
+276
+00:31:01,317 --> 00:31:05,150
+- Nazlet el-Semman, al-Haram, Cairo,
+Egypt.
+
+277
+00:31:06,275 --> 00:31:07,567
+- Then it's not him.
+- The.
+
+278
+00:31:07,733 --> 00:31:11,442
+He is the only match above 99.12% on
+the biometric markers.
+
+279
+00:31:11,608 --> 00:31:14,525
+Stick to matches at Danish addresses.
+
+280
+00:31:14,692 --> 00:31:20,067
+Have you followed me? There is no
+nossefucking match in Pisdanmark.
+
+281
+00:31:20,233 --> 00:31:23,525
+What is the highest match of one in
+Denmark?
+
+282
+00:31:23,692 --> 00:31:28,983
+I haven't looked at that. There's
+nothing above the 99.12% limit.
+
+283
+00:31:29,150 --> 00:31:33,567
+No, but I'm thinking, for example, if
+you lowered the limit,
+
+284
+00:31:33,733 --> 00:31:35,942
+- to, for example, 95%?
+
+285
+00:31:36,108 --> 00:31:39,608
+We can do that, but it doesn't make
+any sense.
+
+286
+00:31:39,775 --> 00:31:44,067
+When you need to qualify for the
+Olympics in high jump, there is a
+requirement ...
+
+287
+00:31:44,233 --> 00:31:47,108
+I don't know if I want to hear that
+Olympics story for the third time!
+
+288
+00:31:47,275 --> 00:31:50,650
+We get it, but now we're asking you
+to change it.
+
+289
+00:31:50,817 --> 00:31:54,775
+- so we don't just find people in
+fucking South America and Africa.
+
+290
+00:31:54,942 --> 00:31:57,567
+I think we're just fucking shitty
+stuffing here.
+
+291
+00:31:57,733 --> 00:32:00,942
+I'm not going to put up with that
+dick. Take the pizza and leave the
+apartment.
+
+292
+00:32:01,108 --> 00:32:06,358
+- You ate that, you fat pig.
+- So. So. Relax, both of you.
+
+293
+00:32:06,525 --> 00:32:09,650
+Emmenthaler, try listening sometime.
+
+294
+00:32:09,817 --> 00:32:15,900
+The two surveillance footage we have
+was taken from high angles.
+
+295
+00:32:16,067 --> 00:32:21,358
+- so any match will still be subject
+to some uncertainty, right?
+
+296
+00:32:21,525 --> 00:32:24,942
+The. We don't have enough biometric
+data for a 100-% match.
+
+297
+00:32:25,108 --> 00:32:31,317
+No, so now we're asking you to show
+us what you found in Denmark, right?
+
+298
+00:32:31,483 --> 00:32:35,233
+Okay, but it just doesn't make any
+sense.
+
+299
+00:32:40,525 --> 00:32:46,400
+There's a 95.84% there. Can we see
+him? Please?
+
+300
+00:32:56,650 --> 00:32:59,692
+It's him. It's him.
+
+301
+00:33:01,400 --> 00:33:04,608
+I know him from the train.
+
+302
+00:33:04,775 --> 00:33:08,483
+Palle Olesen. Look at that.
+
+303
+00:33:12,567 --> 00:33:14,233
+Fuck.
+
+304
+00:33:22,650 --> 00:33:25,400
+Good morning, baby. Are you hungry?
+
+305
+00:33:25,567 --> 00:33:29,317
+- I bought eggs and rye bread.
+- I don't eat eggs.
+
+306
+00:33:29,483 --> 00:33:32,025
+Spend less time saving empty cans.
+
+307
+00:33:32,192 --> 00:33:34,733
+- and empty the ashtray. It's
+disgusting.
+
+308
+00:33:34,900 --> 00:33:38,067
+What do I have to do to make it up to
+you?
+
+309
+00:33:38,233 --> 00:33:41,483
+Do you want me to call him? Talk to
+his parents and apologize?
+
+310
+00:33:41,650 --> 00:33:45,150
+He's said he fell because he doesn't
+believe in revenge.
+
+311
+00:33:45,317 --> 00:33:50,192
+He could have turned you in to the
+police. You gave him a black eye.
+
+312
+00:33:50,358 --> 00:33:52,900
+What if I make spaghetti meat sauce?
+
+313
+00:33:53,067 --> 00:33:56,150
+Then we can eat here, and then I can
+say I'm sorry.
+
+314
+00:33:56,317 --> 00:33:58,483
+Spaghetti meat sauce? You think we're
+three years old?
+
+315
+00:33:58,650 --> 00:34:02,192
+Then takeaway. Just tell me what you
+want.
+
+316
+00:34:02,358 --> 00:34:06,525
+Come on, Mathilde. I'm doing the best
+I can.
+
+317
+00:34:09,275 --> 00:34:11,733
+I'll ask him.
+
+318
+00:34:22,150 --> 00:34:25,358
+There's the barn, Emmenthaler.
+
+319
+00:34:32,442 --> 00:34:34,608
+- Hi.
+- Hi.
+
+320
+00:34:34,775 --> 00:34:37,108
+It's Emmenthaler.
+
+321
+00:34:38,858 --> 00:34:42,275
+Have you found out who he is?
+
+322
+00:34:42,442 --> 00:34:47,983
+Everyone's been looking forward to
+seeing the barn, so why don't we go
+over there and talk?
+
+323
+00:34:49,483 --> 00:34:52,192
+His name is Palle Olesen.
+
+324
+00:34:52,358 --> 00:34:58,525
+He is a trained electrical technician
+specializing in train components.
+
+325
+00:34:58,692 --> 00:35:03,358
+And he's the one who got off before
+the accident and hung out by the
+freight wagons?
+
+326
+00:35:03,525 --> 00:35:06,067
+It's getting better. He's a brother.
+
+327
+00:35:06,233 --> 00:35:11,358
+- to Kurt "Tandem" Olesen, president
+of riders of justice.
+
+328
+00:35:18,775 --> 00:35:23,483
+- The one the Eagle was supposed to
+testify against.
+- Shut up. He knows that.
+
+329
+00:35:25,400 --> 00:35:28,650
+So they are simply brothers.
+
+330
+00:35:31,275 --> 00:35:34,192
+Everybody's in on the fact that we're
+on our way to a psychopathic biker,
+right?
+
+331
+00:35:34,358 --> 00:35:39,608
+No. He's an electrical mechanic
+specializing in train components.
+
+332
+00:35:39,775 --> 00:35:42,942
+"Possession of drugs, violence,
+aggravated assault,
+
+333
+00:35:43,107 --> 00:35:46,442
+- theft, complicity in manslaughter,
+illegal possession of weapons,
+
+334
+00:35:46,608 --> 00:35:49,983
+- horse theft, drug possession,
+possession of weapons..."
+
+335
+00:35:50,150 --> 00:35:55,066
+Then he's an electrical mechanic who
+moves in an inflamed environment.
+
+336
+00:35:55,233 --> 00:35:58,942
+- And who stole a horse.
+- Who at one point stole a horse.
+
+337
+00:35:59,108 --> 00:36:02,857
+- That still doesn't make him a
+rocker.
+- Let's talk to him.
+
+338
+00:36:03,025 --> 00:36:06,150
+See how he reacts, and then we go to
+the police.
+
+339
+00:36:29,358 --> 00:36:33,317
+- Take a ride. He's not ready yet.
+- Dav. My name is Markus.
+
+340
+00:36:33,483 --> 00:36:36,567
+It could be. He's not ready. Take a
+ride.
+
+341
+00:36:36,733 --> 00:36:40,983
+- My wife was on the train.
+- He was there, too.
+
+342
+00:36:41,150 --> 00:36:44,442
+- We know you were on the train, too.
+- What the fuck is going on?
+
+343
+00:36:44,608 --> 00:36:47,483
+- We would like to ask you ...
+- You have to get out of here now.
+
+344
+00:36:47,650 --> 00:36:51,025
+- If I may...
+- All you have to do is shut your ass
+right now.
+
+345
+00:36:51,192 --> 00:36:54,400
+Are you going to have a bullet
+between your eyes? Get out of here.
+
+346
+00:36:54,567 --> 00:36:59,442
+Bring your three little pigs. Get out
+of here, I'll tell you!
+
+347
+00:37:08,567 --> 00:37:10,983
+At least we got it sorted out.
+
+348
+00:37:14,108 --> 00:37:17,275
+Markus. No, no, no. Markus.
+
+349
+00:37:19,983 --> 00:37:21,775
+Fucking...
+
+350
+00:37:48,358 --> 00:37:50,608
+Is he dead?
+
+351
+00:37:52,733 --> 00:37:58,358
+- Yes. Do you want me to call the
+police?
+- No, we can't.
+
+352
+00:37:58,525 --> 00:38:02,692
+- It was in self-defense.
+- No police. Let's get out of here.
+
+353
+00:38:02,858 --> 00:38:07,025
+If we don't report it, we'll at least
+have to remove the body.
+
+354
+00:38:07,192 --> 00:38:11,400
+Forensic evidence traps the
+perpetrator in 87.4% of all homicides.
+
+355
+00:38:11,567 --> 00:38:16,275
+Markus' DNA is all over him.
+Emmenthaler, come in here and help.
+
+356
+00:38:16,442 --> 00:38:19,567
+- Now! Before anyone sees you.
+- We can't take him with us.
+
+357
+00:38:19,733 --> 00:38:23,942
+It's overly illegal. I don't want to
+be a part of that.
+
+358
+00:38:25,525 --> 00:38:28,358
+It was a mistake.
+
+359
+00:38:28,525 --> 00:38:33,567
+I shouldn't have done that. I made a
+mistake.
+
+360
+00:38:33,733 --> 00:38:37,275
+- We're leaving now.
+- He deserved it.
+
+361
+00:38:37,442 --> 00:38:39,692
+He deserved it.
+
+362
+00:38:39,858 --> 00:38:44,067
+If you knew how many times these have
+been after me.
+
+363
+00:38:44,233 --> 00:38:46,525
+You're not so cool anymore, are you?
+
+364
+00:38:46,692 --> 00:38:50,858
+See if you can bully now, you.
+
+365
+00:38:51,025 --> 00:38:56,358
+Who's a little pig now, you fucking
+pussy dick?
+
+366
+00:38:57,150 --> 00:39:00,525
+- Emmenthaler. So, then.
+- Cock!
+
+367
+00:39:00,692 --> 00:39:03,983
+- Pussy!
+- So, Emmenthaler. Okay?
+
+368
+00:39:04,150 --> 00:39:07,400
+- Well. Let's go.
+- What about him?
+
+369
+00:39:07,567 --> 00:39:10,192
+We can't bring a dead man.
+
+370
+00:39:10,358 --> 00:39:13,858
+Let me see if there's a DNA-degrading
+cleaner.
+
+371
+00:39:14,025 --> 00:39:17,900
+Find something that contains sodium
+hydroxide or hydrogen nitride.
+
+372
+00:39:18,067 --> 00:39:21,275
+- Benzylsulfamide is the best.
+- Stop chemistry class.
+
+373
+00:39:21,442 --> 00:39:25,358
+Thanks! Get in the car and wait, and
+I'll take care of it.
+
+374
+00:40:07,900 --> 00:40:11,067
+Have you killed anyone before?
+
+375
+00:40:14,692 --> 00:40:19,108
+At least it looked like it wasn't the
+first time.
+
+376
+00:40:20,775 --> 00:40:23,900
+I'm sure you've always worn a uniform
+when you've done it.
+
+377
+00:40:24,067 --> 00:40:27,067
+Let's just be quiet, Emmenthaler.
+
+378
+00:40:27,233 --> 00:40:30,358
+I understand how you feel, Markus.
+
+379
+00:40:30,525 --> 00:40:34,900
+When I was little, I loved playing
+horns.
+
+380
+00:40:36,108 --> 00:40:41,983
+- How does that correspond to...?
+- Let me speak out. .
+
+381
+00:40:42,150 --> 00:40:46,608
+I played in tivoligarden in red
+uniform and black bearskin hat, -
+
+382
+00:40:46,775 --> 00:40:51,067
+- But when I turned 17, you couldn't
+be in it anymore.
+
+383
+00:40:51,233 --> 00:40:54,067
+Yes, then you were alone.
+
+384
+00:40:54,233 --> 00:40:57,150
+I tried to play a couple of times.
+
+385
+00:40:57,317 --> 00:41:01,358
+- But it was as if me and the uniform
+had played together.
+
+386
+00:41:01,525 --> 00:41:04,233
+- And I couldn't do it alone.
+
+387
+00:41:05,483 --> 00:41:09,150
+Why don't we put some music on?
+
+388
+00:41:09,317 --> 00:41:11,483
+Yes. That's it.
+
+389
+00:41:50,108 --> 00:41:53,650
+- I'm not going all the way up.
+- You want him to take a cab home?
+
+390
+00:41:53,817 --> 00:41:57,108
+I don't want to back out. Last time I
+bumped into the fence.
+
+391
+00:41:57,275 --> 00:42:02,900
+- Go all the way up to the house,.
+- Are you paying for the record work?
+
+392
+00:42:23,025 --> 00:42:27,025
+- Hi. Sirius is here.
+- Yep.
+
+393
+00:42:29,067 --> 00:42:31,233
+- Hey, Sirius.
+- Hi.
+
+394
+00:42:31,400 --> 00:42:35,358
+- And I'm sorry.
+- Don't apologize for that.
+
+395
+00:42:35,525 --> 00:42:38,692
+This is a difficult time for you.
+
+396
+00:42:38,858 --> 00:42:42,817
+Yep. Okay. Fine.
+
+397
+00:42:45,608 --> 00:42:50,358
+There is a link between people's
+professions and crisis management.
+
+398
+00:42:50,525 --> 00:42:53,775
+A yoga teacher meditates on his
+problems.
+
+399
+00:42:53,942 --> 00:43:00,567
+An athlete will add an element of
+competition and so on.
+
+400
+00:43:00,733 --> 00:43:04,983
+And violence is a big part of your
+work and your everyday life.
+
+401
+00:43:05,150 --> 00:43:09,067
+It's a part of you, Dad, and it's
+probably been for so long.
+
+402
+00:43:09,233 --> 00:43:13,025
+- that it is the only option you know
+about.
+
+403
+00:43:13,192 --> 00:43:16,150
+Do you understand what we're saying
+to you?
+
+404
+00:43:16,317 --> 00:43:18,442
+Yes, I think so.
+
+405
+00:43:19,775 --> 00:43:22,442
+What if you're a baker?
+
+406
+00:43:23,733 --> 00:43:27,900
+How do you resolve conflicts if
+you're a baker?
+
+407
+00:43:28,067 --> 00:43:31,483
+You cannot use the model in all
+professions.
+
+408
+00:43:31,650 --> 00:43:34,942
+Well, it's such a model.
+
+409
+00:43:36,025 --> 00:43:40,900
+- So, what else have you been up to
+today?
+- You need help.
+
+410
+00:43:42,150 --> 00:43:44,400
+Have you talked to anyone?
+
+411
+00:43:44,567 --> 00:43:46,942
+- Yes.
+- With whom?
+
+412
+00:43:49,525 --> 00:43:52,525
+With you. We'll talk.
+
+413
+00:43:52,692 --> 00:43:55,817
+Sirius meant a professional. And no,
+we don't.
+
+414
+00:43:55,983 --> 00:43:57,858
+I think so.
+
+415
+00:43:58,025 --> 00:44:02,233
+My mother is a psychologist and is
+available if it finally is.
+
+416
+00:44:14,275 --> 00:44:16,942
+Come on, Mathilde.
+
+417
+00:44:18,233 --> 00:44:23,067
+- What do you want me to do?
+- You need help, Dad.
+
+418
+00:44:24,525 --> 00:44:29,650
+Let the crisis psychologists come
+here. That would be good for both of
+us.
+
+419
+00:44:38,317 --> 00:44:44,067
+I can't, baby. Not right now. I can't
+figure that out.
+
+420
+00:44:50,983 --> 00:44:53,442
+(door slams)
+
+421
+00:45:02,150 --> 00:45:05,817
+<i>Today, a verdict was reached in
+the case of the Kaalundsgade
+killings.</i>
+
+422
+00:45:05,983 --> 00:45:11,233
+<i>Two riders of justice members were
+sentenced to 16 years in prison.</i>
+
+423
+00:45:11,400 --> 00:45:15,442
+- <i>while Kurt "Tandem" Olesen, who
+is seen here leaving the courtroom
+-</i>
+
+424
+00:45:15,608 --> 00:45:20,608
+- <i>with Kenneth "Turbot" Jensen,
+was acquitted on all counts.</i>
+
+425
+00:45:20,775 --> 00:45:24,317
+<i>Of course we're disappointed, but
+without the Eagle's testimony,</i>
+
+426
+00:45:24,483 --> 00:45:27,942
+- <i>We were standing on the
+ground.</i>
+
+427
+00:45:28,108 --> 00:45:30,108
+<i>A brief statement?</i>
+
+428
+00:45:30,275 --> 00:45:34,317
+<i>It's a great day for my brothers
+and I and for the legal
+consciousness.</i>
+
+429
+00:45:34,483 --> 00:45:39,233
+<i>There's not much to celebrate, is
+there? Now I'm thinking about your
+brother's death.</i>
+
+430
+00:45:39,400 --> 00:45:45,025
+<i>He wanted us to celebrate the
+victory of justice.</i>
+
+431
+00:45:45,192 --> 00:45:50,108
+<i>So we do. Today we're going to
+party, drink and.</i>
+
+432
+00:45:56,858 --> 00:46:00,525
+- Thank you for coming.
+- What are we going to do?
+
+433
+00:46:00,692 --> 00:46:05,025
+I'm going to ask you to find
+everything you can on riders of
+justice.
+
+434
+00:46:05,192 --> 00:46:08,775
+How many members they have, what they
+are punished and suspected of.
+
+435
+00:46:08,942 --> 00:46:11,858
+Names, addresses, family
+relationships, everything.
+
+436
+00:46:12,025 --> 00:46:15,525
+Is that something you can do without
+it being traceable?
+
+437
+00:46:23,108 --> 00:46:28,108
+- We understand it's easy for you.
+- It's easy for me.
+
+438
+00:46:28,275 --> 00:46:32,025
+- What are you going to do with it?
+- I want to avenge my wife.
+
+439
+00:46:32,192 --> 00:46:34,358
+Are you going to kill them?
+
+440
+00:46:34,525 --> 00:46:37,733
+- I'm in.
+- No. Make sure I get close.
+
+441
+00:46:37,900 --> 00:46:40,900
+- I'll take care of the rest.
+- We want to do it all.
+
+442
+00:46:41,067 --> 00:46:46,150
+In fact, we have talked about
+something similar. I'd like to help.
+
+443
+00:46:46,317 --> 00:46:49,108
+We haven't talked about killing
+people.
+
+444
+00:46:49,275 --> 00:46:53,817
+No, but you'd empty their accounts
+and join associations.
+
+445
+00:46:53,983 --> 00:46:56,817
+There's a leap from that to killing.
+
+446
+00:46:56,983 --> 00:47:02,067
+We want to avenge it. If you deal
+with this deal,
+
+447
+00:47:02,233 --> 00:47:06,358
+- It will be Markus who is
+responsible for the very illegal part
+of it.
+
+448
+00:47:06,525 --> 00:47:10,692
+Otto, they're bikers. We're not going
+to bomb a crèche. We're in.
+
+449
+00:47:10,858 --> 00:47:15,525
+We collect information on them, but
+we don't kill anyone.
+
+450
+00:47:15,692 --> 00:47:18,358
+- I knew it.
+- You're a bad leader.
+
+451
+00:47:18,525 --> 00:47:23,108
+That's how we do it. You get
+information, and I'll take care of
+the rest.
+
+452
+00:47:24,108 --> 00:47:27,150
+- You just call me if it is, right?
+- Yes.
+
+453
+00:47:29,650 --> 00:47:31,775
+I'll see you.
+
+454
+00:47:48,567 --> 00:47:52,025
+- Hi.
+- Why are you home so early?
+
+455
+00:47:52,192 --> 00:47:56,192
+It's Wednesday. We're off at 2:00.
+What's going on?
+
+456
+00:47:57,442 --> 00:48:01,942
+The one who was on the train. Him and
+Mom, they talked.
+
+457
+00:48:04,150 --> 00:48:08,567
+That's right. It's Otto. He was on
+the train, yes.
+
+458
+00:48:16,692 --> 00:48:21,067
+- What's going on, Dad?
+- Yes, it's because he...
+
+459
+00:48:24,775 --> 00:48:27,150
+I'll tell you what I'm going to do.
+
+460
+00:48:27,317 --> 00:48:31,025
+We've had a confrontation between
+your father and Otto.
+
+461
+00:48:31,192 --> 00:48:34,483
+Otto feels guilty that he gave your
+mother his place.
+
+462
+00:48:34,650 --> 00:48:37,900
+- It's been very rewarding.
+- Really rewarding.
+
+463
+00:48:38,067 --> 00:48:41,692
+Yes. That's what we're doing,
+Mathilde.
+
+464
+00:48:43,067 --> 00:48:45,525
+No, Dad. Thanks!
+
+465
+00:48:45,692 --> 00:48:51,192
+I was hoping you'd let them come. I'd
+like to talk to them, too.
+
+466
+00:48:51,358 --> 00:48:54,942
+Yes. Who do you want to talk to?
+
+467
+00:48:55,108 --> 00:48:59,608
+With the crisis psychologists. You're
+psychologists, aren't you?
+
+468
+00:48:59,775 --> 00:49:01,983
+You have to say we are.
+
+469
+00:49:02,150 --> 00:49:05,483
+- Are you a child or adult
+psychologist?
+- Adult.
+
+470
+00:49:05,650 --> 00:49:09,858
+Dr.med., PhD Lennart Horsens...
+Horsensbygård.
+
+471
+00:49:10,025 --> 00:49:14,775
+Mr Davs, Member of the Commission.
+And that's my colleague, child
+psychologist Ulf Emmenthaler.
+
+472
+00:49:14,942 --> 00:49:18,650
+Ulf Emmenthaler, crisis child
+psychologist.
+
+473
+00:49:18,817 --> 00:49:23,233
+Hi. I'm kind of in between. What
+would you advise me to do?
+
+474
+00:49:23,400 --> 00:49:27,483
+Therapeutically, you're an adult. I'm
+the one you need to talk to.
+
+475
+00:49:27,650 --> 00:49:31,358
+- You can wait, too.
+- No. That's what we're here for.
+
+476
+00:49:31,525 --> 00:49:35,358
+It's good to break down the first
+barriers right now.
+
+477
+00:49:35,525 --> 00:49:37,858
+Come on, Mathilde.
+
+478
+00:49:40,275 --> 00:49:43,192
+Lennart's capable.
+
+479
+00:49:43,358 --> 00:49:46,483
+He's been with over 25 psychologists
+in the last 40 years.
+
+480
+00:49:46,650 --> 00:49:50,900
+He is personally in contact with
+virtually all diagnoses.
+
+481
+00:49:55,525 --> 00:50:01,192
+The other day, Sirius and I saw a dog
+get hit by a car. It screamed and
+bled.
+
+482
+00:50:01,358 --> 00:50:04,567
+- You're afraid of being run over.
+- No.
+
+483
+00:50:04,733 --> 00:50:09,483
+I felt no pity. I didn't feel
+anything when I saw it.
+
+484
+00:50:11,067 --> 00:50:14,108
+Maybe it's because you lost your
+mother.
+
+485
+00:50:14,275 --> 00:50:18,233
+I'm not buying it because my mother's
+dead, and I'm in mourning.
+
+486
+00:50:18,400 --> 00:50:20,775
+- so I can't feel anything for anyone
+else.
+
+487
+00:50:20,942 --> 00:50:27,525
+That's not what I was going to say,
+but it doesn't matter now.
+
+488
+00:50:27,692 --> 00:50:30,983
+I'm afraid I look like my father.
+
+489
+00:50:32,275 --> 00:50:37,983
+I'm sorry every morning and I don't
+care about everything.
+
+490
+00:50:38,150 --> 00:50:41,317
+Of course you look like him. You
+carry his genes.
+
+491
+00:50:41,483 --> 00:50:44,650
+If I have children, they'll have
+those genes, too.
+
+492
+00:50:44,817 --> 00:50:48,608
+- and becomes indifferent to others
+and violent and cold in the ass.
+
+493
+00:50:48,775 --> 00:50:52,275
+- You can't say that.
+- Statistically, they will.
+
+494
+00:50:52,442 --> 00:50:55,233
+Statistically, you can drown in a
+puddle.
+
+495
+00:50:55,400 --> 00:50:59,108
+But you don't walk around and you're
+afraid of that.
+
+496
+00:51:00,150 --> 00:51:04,150
+So much shit has happened that it's
+unlikely that more will happen.
+
+497
+00:51:04,317 --> 00:51:09,983
+That's not how statistics work. A lot
+of terrible things can happen.
+
+498
+00:51:10,150 --> 00:51:13,942
+There will most likely be. But there
+will also be some good ones.
+
+499
+00:51:14,108 --> 00:51:17,192
+- and we should try to focus on them
+now.
+
+500
+00:51:17,358 --> 00:51:23,358
+Remember the first time you saw
+something terrible on TV?
+
+501
+00:51:24,567 --> 00:51:29,733
+Yes. Yes, we once saw footage from
+Auschwitz at school.
+
+502
+00:51:29,900 --> 00:51:34,442
+- There were dead people in piles.
+- Yes, yes.
+
+503
+00:51:34,608 --> 00:51:38,233
+- Did you get so upset about that?
+- Yes.
+
+504
+00:51:38,400 --> 00:51:43,692
+Or I got more scared, I guess. But I
+wasn't that big back then.
+
+505
+00:51:46,275 --> 00:51:50,067
+Yes, I was big.
+
+506
+00:51:50,233 --> 00:51:54,400
+- But I wasn't very old, I mean.
+
+507
+00:51:56,775 --> 00:52:01,025
+Quiet. If there was one thing I
+learned in Horsens, it's-
+
+508
+00:52:01,192 --> 00:52:04,567
+- that people lose feelings about
+repetition.
+
+509
+00:52:04,733 --> 00:52:07,317
+We're not laughing at the same joke
+for the third time.
+
+510
+00:52:07,483 --> 00:52:11,025
+You stop crying when you're abused.
+
+511
+00:52:11,192 --> 00:52:17,358
+- time and time again by his father
+or by all his uncles -
+
+512
+00:52:17,525 --> 00:52:20,275
+- out in a barn for example.
+
+513
+00:52:26,358 --> 00:52:31,733
+My point is that emotions arise when
+we are surprised or stimulated.
+
+514
+00:52:31,900 --> 00:52:35,525
+There's death and mutilation on
+YouTube or on TV.
+
+515
+00:52:35,692 --> 00:52:38,192
+- and therefore you do not feel
+anything.
+
+516
+00:52:38,358 --> 00:52:43,983
+- You think that's just it?
+- 100 %. You're not callous.
+
+517
+00:52:45,192 --> 00:52:48,317
+But you're fat.
+
+518
+00:52:48,483 --> 00:52:52,442
+- What?
+- Yes. You're a little fat salge
+sausage.
+
+519
+00:53:05,817 --> 00:53:08,692
+Does he speak Danish, that one?
+
+520
+00:53:08,858 --> 00:53:13,025
+Do you speak Danish? What did you
+tell the police?
+
+521
+00:53:13,192 --> 00:53:16,400
+Nothing. I don't see anything. I
+don't hear anything.
+
+522
+00:53:16,567 --> 00:53:20,775
+- I'm like a little potato.
+- You see this?
+
+523
+00:53:20,942 --> 00:53:25,525
+Maybe you remember a little better,
+too. Do you remember your name?
+
+524
+00:53:25,692 --> 00:53:28,733
+Bodashka Litvinenko.
+
+525
+00:53:28,900 --> 00:53:31,358
+No, it's not going to work.
+
+526
+00:53:31,525 --> 00:53:35,150
+Your name is Jens-Ole. It's easier
+for us to remember.
+
+527
+00:53:35,317 --> 00:53:39,108
+Yes. It's a lot easier. Thanks. Thank
+you very much for your new name.
+
+528
+00:53:39,275 --> 00:53:44,983
+Bon appétit. If you don't remember
+now, I'm going to break your little
+fingers.
+
+529
+00:53:45,150 --> 00:53:49,567
+And the last thing you hear, this is
+the one saying bang!
+
+530
+00:53:53,775 --> 00:53:57,358
+- Let me hear it.
+- I only saw one man.
+
+531
+00:53:57,525 --> 00:54:01,317
+He was well dressed. Handsome man.
+
+532
+00:54:01,483 --> 00:54:05,275
+He kind of looks a bit like the guy
+with the guitar in Queen. Rockband.
+
+533
+00:54:05,442 --> 00:54:09,275
+But I hear them shouting a name.
+
+534
+00:54:09,442 --> 00:54:12,067
+One name. Rectums.
+
+535
+00:54:15,483 --> 00:54:18,650
+- End of the world?
+- No, no. Rectums.
+
+536
+00:54:18,817 --> 00:54:23,067
+Like the cheese sandwich. They shout
+it many times.
+
+537
+00:54:24,567 --> 00:54:29,150
+- Ellemtaner?
+- Or emmentaler.
+
+538
+00:54:30,650 --> 00:54:31,733
+Emmentaler.
+
+539
+00:54:44,192 --> 00:54:46,233
+Okay. It's the last of them.
+
+540
+00:54:51,983 --> 00:54:57,150
+- Do you want me to help with the
+wires?
+- No. Get off the wires!
+
+541
+00:54:57,317 --> 00:54:59,400
+Go away. Away.
+
+542
+00:55:03,275 --> 00:55:08,483
+Yes, I'm sorry, Markus. I'm going to
+be furious about bad resolution.
+
+543
+00:55:08,650 --> 00:55:12,608
+Look at a solution Lennart's driving.
+We're going to have a sore eye.
+
+544
+00:55:12,775 --> 00:55:17,275
+You're very close to the wires.
+Please step away.
+
+545
+00:55:17,442 --> 00:55:19,942
+Get off the wires.
+
+546
+00:55:26,608 --> 00:55:31,150
+All right, one more. A proper sip.
+And one more.
+
+547
+00:55:31,317 --> 00:55:33,900
+You can take more.
+
+548
+00:55:35,608 --> 00:55:40,483
+- What are you guys doing?
+- Drinking coke upside down.
+Impossible.
+
+549
+00:55:40,650 --> 00:55:44,150
+- Lennart, Otto, come with me.
+- Not in the middle of a session.
+
+550
+00:55:44,317 --> 00:55:48,400
+And then it's the ice. Just go to the
+ice. And eat. Eat. Lots of ice cream.
+
+551
+00:55:48,567 --> 00:55:52,817
+- Don't eat all that shit.
+- Don't listen to him. Eat.
+
+552
+00:55:52,983 --> 00:55:56,025
+- Lennart, come with me.
+- Don't give orders.
+
+553
+00:55:56,192 --> 00:55:59,233
+- Lennart knows what he's doing.
+- Spit that shit out.
+
+554
+00:55:59,400 --> 00:56:02,233
+This is where you're speaking out.
+Came.
+
+555
+00:56:03,192 --> 00:56:06,775
+Dad, I'm not afraid to be fat.
+
+556
+00:56:06,942 --> 00:56:10,525
+I'm not going to look like a starved
+sled dog.
+
+557
+00:56:10,692 --> 00:56:13,525
+- because you're afraid of having an
+overweight daughter.
+
+558
+00:56:13,692 --> 00:56:18,442
+It's cognitive therapy. Not graduated
+exposure, but flooding.
+
+559
+00:56:18,608 --> 00:56:23,108
+- Mathilde faces his demons.
+- Lennart!
+
+560
+00:56:23,275 --> 00:56:26,858
+- Working on a Core i9?
+- Yes.
+
+561
+00:56:28,108 --> 00:56:33,150
+Are you a pisidiot? How am I supposed
+to track something on a processor?
+
+562
+00:56:33,317 --> 00:56:38,358
+Somebody's got to drive in and get my
+servers and my monitors right now.
+
+563
+00:56:38,525 --> 00:56:42,358
+- Otherwise, I'm not going to get
+started on this. computer.
+
+564
+00:56:42,525 --> 00:56:47,775
+God, if you don't mind listening to
+that prima donna! You fat pig!
+
+565
+00:56:47,942 --> 00:56:52,858
+As if your equipment is better! I'm
+not going out driving that trailer!
+
+566
+00:56:53,025 --> 00:56:55,192
+Pee-wife screens!
+
+567
+00:56:55,358 --> 00:56:58,900
+- What's going on, Dad?
+- Yes...
+
+568
+00:57:00,692 --> 00:57:04,317
+MBT, right?
+
+569
+00:57:04,483 --> 00:57:09,067
+That's exactly what I'm talking
+about. That's a good look, Sirius.
+It's exactly MBT.
+
+570
+00:57:10,358 --> 00:57:13,525
+- What is MBT?
+- We'll have to take that later.
+
+571
+00:57:13,692 --> 00:57:18,983
+- We're going to Emmenthaler's.
+- Mentalization-based therapy.
+
+572
+00:57:19,150 --> 00:57:22,692
+You use role-playing to get an
+emotional response.
+
+573
+00:57:22,858 --> 00:57:27,275
+- That's a simplistic explanation.
+- Lennart!
+
+574
+00:57:27,442 --> 00:57:31,442
+- I'll tell you something.
+- Fuck you!
+
+575
+00:57:31,608 --> 00:57:33,942
+(they argue further)
+
+576
+00:57:34,108 --> 00:57:37,192
+Something's wrong.
+
+577
+00:57:40,858 --> 00:57:43,650
+It works, Mathilde. View.
+
+578
+00:57:43,817 --> 00:57:49,025
+Your father interacts. The most
+important thing is the result.
+
+579
+00:57:49,192 --> 00:57:52,483
+He's acting weirder than ever.
+
+580
+00:57:52,650 --> 00:57:56,983
+What are they doing with that
+computer in the barn?
+
+581
+00:57:57,150 --> 00:58:01,192
+Don't say anything more to her or do
+anything else. Understood?
+
+582
+00:58:01,358 --> 00:58:03,983
+She's afraid to gain because you're
+after her.
+
+583
+00:58:04,150 --> 00:58:06,942
+- We're just helping.
+- She doesn't need any help.
+
+584
+00:58:07,108 --> 00:58:13,150
+I've had over 4,000 psychology
+classes. I know a little more about
+it than you do.
+
+585
+00:58:13,317 --> 00:58:16,358
+And you think those 4,000 hours have
+helped?
+
+586
+00:58:16,525 --> 00:58:20,525
+Says the guy who breaks people's
+necks but is afraid of coke and ice
+cream.
+
+587
+00:58:20,692 --> 00:58:22,525
+Be careful.
+
+588
+00:58:22,692 --> 00:58:26,942
+You need help, too, and there's
+nothing embarrassing about that.
+
+589
+00:58:27,108 --> 00:58:31,192
+The important thing is that you also
+start working with yourself.
+
+590
+00:58:31,358 --> 00:58:35,108
+- Why can't she believe in God?
+- Stop.
+
+591
+00:58:35,275 --> 00:58:38,692
+- She's just trying to understand.
+- I said stop.
+
+592
+00:58:38,858 --> 00:58:44,192
+Well, that's not how it works. Once
+you've agreed to therapy,
+
+593
+00:58:44,358 --> 00:58:47,692
+- Then you can't say stop when it
+snarps.
+
+594
+00:58:47,858 --> 00:58:53,067
+I'm going to you both up if you don't
+shut up.
+
+595
+00:58:54,275 --> 00:58:56,442
+One more word ...
+
+596
+00:58:59,858 --> 00:59:02,192
+No, I'll tell you what...
+
+597
+00:59:13,692 --> 00:59:16,442
+(pain outbreak)
+
+598
+00:59:24,150 --> 00:59:27,400
+- No! No, I'm sorry!
+- What the hell are you doing?
+
+599
+00:59:27,567 --> 00:59:30,775
+- No, no, no!
+- Hey, don't do that.
+
+600
+00:59:30,942 --> 00:59:34,358
+- Would you please not?
+- Hey! Don't do that!
+
+601
+00:59:34,525 --> 00:59:38,358
+I'll be nice. I'll be nice! No, no,
+no.
+
+602
+00:59:38,525 --> 00:59:41,775
+Don't do this! Don't do this! No, no,
+I'm sorry!
+
+603
+00:59:41,942 --> 00:59:45,025
+Sorry! Sorry!
+
+604
+00:59:45,192 --> 00:59:49,650
+- No! No!
+- Oh, it.
+
+605
+01:00:38,358 --> 01:00:42,150
+- I...
+- We don't have to talk about it.
+
+606
+01:00:46,275 --> 01:00:50,733
+- I'm not from Horsens.
+- I don't want to hear any more.
+
+607
+01:00:52,900 --> 01:00:55,525
+I've been lying all the time.
+
+608
+01:01:02,317 --> 01:01:04,275
+I'm from Randers.
+
+609
+01:01:20,067 --> 01:01:22,733
+- Is that them?
+- Yes.
+
+610
+01:01:22,900 --> 01:01:26,025
+Let me see. Could it be this one?
+
+611
+01:01:28,525 --> 01:01:33,192
+- Look at them. Is that them?
+- Yes. yes, it's him. It's him.
+
+612
+01:01:36,650 --> 01:01:38,025
+Down!
+
+613
+01:02:12,817 --> 01:02:15,233
+Down, down, down.
+
+614
+01:02:31,692 --> 01:02:34,567
+(shot)
+
+615
+01:02:43,150 --> 01:02:46,275
+No! No, don't kill him!
+
+616
+01:02:49,150 --> 01:02:51,192
+Don't kill him.
+
+617
+01:02:51,358 --> 01:02:55,608
+He's seen us. We'll just take him
+with us.
+
+618
+01:03:30,233 --> 01:03:34,067
+- Are you going to kill me?
+- No, nobody kills anyone here.
+
+619
+01:03:34,233 --> 01:03:38,525
+Well? Easy does it. What's your name?
+
+620
+01:03:38,692 --> 01:03:41,442
+Bodashka Litvinenko.
+
+621
+01:03:41,608 --> 01:03:46,900
+But a lot of people call me Jens-Ole.
+You'll have to, too, many times.
+
+622
+01:03:47,067 --> 01:03:51,692
+No, why would we? We call you... the
+first one there.
+
+623
+01:03:51,858 --> 01:03:54,275
+Do you have a cell phone?
+
+624
+01:04:03,483 --> 01:04:06,233
+If they know who I am, I can't go
+home.
+
+625
+01:04:06,400 --> 01:04:09,483
+Then you'll have to stay here and
+sleep. For now.
+
+626
+01:04:09,650 --> 01:04:14,608
+- Isn't it safest for everyone to
+stay?
+- The.
+
+627
+01:04:14,775 --> 01:04:18,942
+We need to get guns now so we can
+defend ourselves.
+
+628
+01:04:19,108 --> 01:04:25,025
+- Can you work on Lennart's equipment?
+- Yes, but not light-beneled.
+
+629
+01:04:25,192 --> 01:04:28,483
+It would be the happy madness not to
+give us weapons.
+
+630
+01:04:28,650 --> 01:04:30,442
+I don't want you to have guns.
+
+631
+01:04:30,608 --> 01:04:34,150
+It's one thing for me to smash my
+eyes in a cold barn.
+
+632
+01:04:34,317 --> 01:04:37,567
+- and find a massive amount of data
+on a little computer,
+
+633
+01:04:37,733 --> 01:04:40,817
+- But if I can't even take revenge
+myself,
+
+634
+01:04:40,983 --> 01:04:45,942
+- Then I don't know if I want to be a
+part of it. This is crying out for
+revenge.
+
+635
+01:04:47,650 --> 01:04:52,733
+I'm not going to touch a finger if we
+don't get gun training right now.
+
+636
+01:04:52,900 --> 01:04:58,150
+Okay. Get the equipment up and
+running, and I'll train you.
+
+637
+01:04:58,317 --> 01:05:02,400
+But find everything you can on every
+member and focus on Kurt.
+
+638
+01:05:02,567 --> 01:05:06,525
+Okay. And we can just shoot some
+birds in the first place.
+
+639
+01:05:06,692 --> 01:05:09,900
+Or a fox. Can't we shoot one each and
+then no more?
+
+640
+01:05:10,067 --> 01:05:14,275
+- The. Just get on with it.
+- What about Bodashka?
+
+641
+01:05:27,817 --> 01:05:32,942
+My mother gave our au pair extra
+because she thought the pay was too
+low.
+
+642
+01:05:33,108 --> 01:05:36,150
+But it depends on how much Bodashka
+has to work.
+
+643
+01:05:36,317 --> 01:05:40,483
+I guess just the normal. 37 hours,
+right, Markus?
+
+644
+01:05:40,650 --> 01:05:45,525
+- 30 hours is max. for an au pair.
+- 37 hours is really good for me.
+
+645
+01:05:45,692 --> 01:05:49,525
+How much did you work in the last
+place?
+
+646
+01:05:49,692 --> 01:05:52,817
+- 10-12 hours every day.
+- People are pigs.
+
+647
+01:05:54,192 --> 01:05:57,525
+- And how much did they pay you?
+- So...
+
+648
+01:05:57,692 --> 01:06:01,983
+I make about $135,000 a month.
+
+649
+01:06:02,150 --> 01:06:05,650
+- but I only keep 2000.
+
+650
+01:06:05,817 --> 01:06:10,775
+Shall we say 30 hours a week? If you
+work more, we'll pay extra.
+
+651
+01:06:10,942 --> 01:06:14,150
+- Don't you want to stay, Dad?
+- Let him go, Mathilde.
+
+652
+01:06:14,317 --> 01:06:18,025
+It is important that he is allowed to
+resign.
+
+653
+01:06:19,942 --> 01:06:23,192
+- Do you play chess, Mathilde?
+- No.
+
+654
+01:06:24,025 --> 01:06:27,025
+No...
+
+655
+01:06:27,192 --> 01:06:32,108
+But we can play the Star of Africa.
+We've played that a lot.
+
+656
+01:06:32,275 --> 01:06:35,692
+I had a colleague called the Star of
+Africa.
+
+657
+01:06:38,317 --> 01:06:42,400
+He was strangled on New Year's Eve by
+a core customer.
+
+658
+01:06:53,400 --> 01:06:55,942
+(shouting from the inside)
+
+659
+01:07:13,775 --> 01:07:16,233
+- Lennart?
+- Yes?
+
+660
+01:07:17,358 --> 01:07:22,108
+You want to fuck my ass before you
+sleep so you can sleep rough and well?
+
+661
+01:07:24,275 --> 01:07:26,192
+No.
+
+662
+01:07:26,358 --> 01:07:28,483
+No, thank you.
+
+663
+01:07:28,650 --> 01:07:33,900
+No, we have a really long day ahead
+of us. Otherwise, thank you.
+
+664
+01:07:34,067 --> 01:07:37,733
+Ok. Goodnight.
+
+665
+01:07:37,900 --> 01:07:40,150
+Goodnight.
+
+666
+01:07:45,525 --> 01:07:50,150
+Lennart? Thank you for saving me.
+
+667
+01:07:50,317 --> 01:07:52,733
+And thank you for not fucking my ass.
+
+668
+01:07:54,692 --> 01:07:58,900
+You're welcome. Sleep well, my friend.
+
+669
+01:08:12,233 --> 01:08:14,483
+- Good night, Emmenthaler.
+- Good night, Otto.
+
+670
+01:08:44,442 --> 01:08:46,650
+Hi. Where's my dad?
+
+671
+01:08:46,817 --> 01:08:49,442
+- He went to morning therapy.
+- In the barn?
+
+672
+01:08:49,608 --> 01:08:56,025
+- Yes.
+- Okay. But then say hello and good
+day.
+
+673
+01:08:56,192 --> 01:08:58,900
+You need a little button here.
+
+674
+01:09:00,608 --> 01:09:03,150
+I'll sew that tonight.
+
+675
+01:09:05,192 --> 01:09:06,900
+Wait a minute.
+
+676
+01:09:16,067 --> 01:09:20,442
+That's it. You're very, very
+beautiful.
+
+677
+01:09:21,900 --> 01:09:28,525
+- Remember the packed lunch. Have a
+good school day.
+- Yes. Thanks. Hey, hey.
+
+678
+01:09:28,692 --> 01:09:34,067
+Kurt "Tandem" Olesen. Death sentence.
+Kenneth "Turbot" Jensen. Death
+sentence.
+
+679
+01:09:34,233 --> 01:09:35,983
+Noah "Abe" Frandsen. Death sentence.
+
+680
+01:09:36,150 --> 01:09:40,525
+Isn't it easier to say those who
+aren't doomed?
+
+681
+01:09:42,692 --> 01:09:45,525
+Anker Trier, Tim "Tonser" Petersen
+and Vitus "Pork" Clausen walk free.
+
+682
+01:09:45,692 --> 01:09:48,900
+- They have children.
+- Aren't those harsh punishments?
+
+683
+01:09:49,067 --> 01:09:52,317
+- That's 22 homicides.
+- They tried to kill us.
+
+684
+01:09:52,483 --> 01:09:56,192
+They know who we are and don't stop
+unless we kill them first.
+
+685
+01:09:56,358 --> 01:10:01,400
+- So now we're going to do what we
+agreed.
+- So far, we've defended ourselves.
+
+686
+01:10:01,567 --> 01:10:05,233
+When they find out it's an attack,
+it's going to be harder to reach Kurt.
+
+687
+01:10:05,400 --> 01:10:09,608
+It already is. He always has 10 men
+around him.
+
+688
+01:10:09,775 --> 01:10:13,317
+Why don't you kill one of them like
+it was an accident?
+
+689
+01:10:13,483 --> 01:10:16,192
+- And then kill them all at the
+funeral?
+
+690
+01:10:16,358 --> 01:10:19,483
+There are women and children at a
+funeral. We can't do that.
+
+691
+01:10:19,650 --> 01:10:22,483
+- What about their clubhouse?
+- Lennart?
+
+692
+01:10:22,650 --> 01:10:24,483
+Get out of here! Away!
+
+693
+01:10:24,650 --> 01:10:28,483
+Even though the resolution is poor on
+these monitors,
+
+694
+01:10:28,650 --> 01:10:32,233
+- then you can faintly see how the
+clubhouse is monitored -
+
+695
+01:10:32,400 --> 01:10:36,192
+- 24 hours by the police and PET.
+That's impossible.
+
+696
+01:10:36,358 --> 01:10:41,317
+But I have a handle on where they are
+and have track on their mobiles and
+emails.
+
+697
+01:10:41,483 --> 01:10:45,692
+Then we'll have to wait for me to get
+a group where Kurt's in.
+
+698
+01:10:45,858 --> 01:10:50,317
+- Five or six people max.
+- If the group is bigger, we can help.
+
+699
+01:10:50,483 --> 01:10:55,942
+Especially when we soon get the
+massive weapons training we've agreed
+upon.
+
+700
+01:10:56,108 --> 01:10:58,900
+The M10 is an old model.
+
+701
+01:10:59,067 --> 01:11:02,650
+It consists of a trigger housing, a
+flask, buffer, spring,
+
+702
+01:11:02,817 --> 01:11:08,525
+- steering frame, a pipe, optical
+sieve, bottom piece, impact bolt,
+
+703
+01:11:08,692 --> 01:11:15,608
+- charging handle and magazine. We
+start by placing buffer in spring.
+
+704
+01:11:15,775 --> 01:11:19,067
+- I can't get it in.
+- I don't think it's easy for you.
+
+705
+01:11:19,232 --> 01:11:24,192
+- Put the spring into the flask.
+- Finished.
+
+706
+01:11:25,150 --> 01:11:27,649
+Where did you serve military service?
+
+707
+01:11:27,817 --> 01:11:31,857
+I don't have that anywhere. Look at
+me.
+
+708
+01:11:32,025 --> 01:11:35,233
+- How can you do it so fast?
+- There are few components.
+
+709
+01:11:35,400 --> 01:11:38,692
+- It kind of gave itself up.
+- It's crazy.
+
+710
+01:11:39,692 --> 01:11:42,191
+Can you do it again?
+
+711
+01:11:50,482 --> 01:11:55,691
+- I like to collect things.
+- Such. Finished. Second.
+
+712
+01:12:00,400 --> 01:12:04,982
+I don't understand this. When are we
+going to need to collect a gun?
+
+713
+01:12:05,149 --> 01:12:10,357
+Our lives may depend on it. But
+handsome, Lennart. What's it called?
+
+714
+01:12:10,525 --> 01:12:13,316
+It's called Fuck You, Emmenthaler.
+
+715
+01:12:13,482 --> 01:12:17,566
+If I wanted to collect things, I'd
+probably have gone to IKEA.
+
+716
+01:12:31,733 --> 01:12:36,817
+They found the Ukrainian bush's cell
+phone at exit 51.
+
+717
+01:12:36,983 --> 01:12:40,900
+We need to focus our energy around
+exit 51.
+
+718
+01:12:41,067 --> 01:12:46,816
+- Focus?
+- Find the Ukrainian and we'll find
+them.
+
+719
+01:12:46,983 --> 01:12:50,857
+Ulf Emmenthaler, he has two friends.
+
+720
+01:12:52,817 --> 01:12:55,983
+They were all fired two weeks ago.
+
+721
+01:12:56,150 --> 01:13:01,858
+These. Lennart Gerner Nielsen and
+this one, Otto Hoffmann.
+
+722
+01:13:02,025 --> 01:13:05,317
+Otto Hoffmann has a schmuck arm.
+
+723
+01:13:07,483 --> 01:13:10,233
+Don't you think it's a little easier
+to find them?
+
+724
+01:13:10,400 --> 01:13:14,775
+- than sitting at exit 51 and waiting
+for a Ukrainian gay?
+
+725
+01:13:14,942 --> 01:13:15,858
+Yes, yes.
+
+726
+01:13:17,483 --> 01:13:20,942
+- Then find me that schmuck arm.
+- Yes, yes.
+
+727
+01:13:21,108 --> 01:13:23,942
+Look at that.
+
+728
+01:13:24,108 --> 01:13:28,900
+It's like pizza and yet it's not. Is
+that too much?
+
+729
+01:13:29,067 --> 01:13:32,108
+- Still a little too much.
+- I just thought...
+
+730
+01:13:32,275 --> 01:13:35,983
+- The Queen is the strongest, isn't
+she?
+- Numerically, she is.
+
+731
+01:13:36,150 --> 01:13:40,567
+But strategically, it's the farmer.
+It changes from party to party.
+
+732
+01:13:40,733 --> 01:13:43,858
+All pieces may turn out to be
+strongest.
+
+733
+01:13:44,025 --> 01:13:48,567
+Chess is a game in which chance and
+luck are not a factor.
+
+734
+01:13:48,733 --> 01:13:54,275
+No dice, no jokers, no hidden items.
+Everything's in front of us.
+
+735
+01:13:54,442 --> 01:13:57,983
+- and it is only your own actions
+that determine the outcome.
+
+736
+01:13:58,150 --> 01:14:00,192
+Then there's snacks.
+
+737
+01:14:00,358 --> 01:14:05,150
+- Can't you take a picture of us?
+- Obviously. Move to the couch.
+
+738
+01:14:05,317 --> 01:14:07,650
+- Can it be a video?
+- Like this?
+
+739
+01:14:07,817 --> 01:14:13,400
+- We're at it.
+- I'm just going to get him here...
+
+740
+01:14:13,567 --> 01:14:19,025
+Noller and a group of seven are
+meeting tonight at antorini
+restaurant.
+
+741
+01:14:21,317 --> 01:14:24,025
+It's down in the harbor area.
+
+742
+01:14:25,275 --> 01:14:30,233
+Turbot confirms kurt's going to be
+here tonight at 7:00. Noller gives.
+
+743
+01:14:30,400 --> 01:14:32,317
+They'll be 12.
+
+744
+01:14:32,483 --> 01:14:36,525
+Can you take that many? Otherwise, I
+can come with you.
+
+745
+01:14:36,692 --> 01:14:40,275
+And Lennart and Otto hit a lot in the
+woods, too.
+
+746
+01:14:42,483 --> 01:14:47,150
+We could take them when they get out.
+Catch them in a crossfire here and
+there.
+
+747
+01:14:49,650 --> 01:14:53,067
+We're not going to get a better
+chance, Markus.
+
+748
+01:14:56,650 --> 01:14:58,775
+You're coming with me.
+
+749
+01:15:03,942 --> 01:15:06,733
+Neutrons are a bit heavier than
+protons.
+
+750
+01:15:06,900 --> 01:15:13,150
+If it were the other way around,
+atoms couldn't exist. And without
+atoms no life.
+
+751
+01:15:13,317 --> 01:15:15,525
+- We have to go.
+- Okay. What are we going to do?
+
+752
+01:15:15,692 --> 01:15:18,983
+- I'll explain that in the car.
+- We're doing our homework.
+
+753
+01:15:19,150 --> 01:15:23,858
+- Emmenthaler, this is it.
+- There's therapy for everyone. Come
+with me.
+
+754
+01:15:24,025 --> 01:15:27,650
+- What the hell are you saying?
+- Don't grab him.
+
+755
+01:15:27,817 --> 01:15:30,567
+- Why do you always have to...?
+- Shut up!
+
+756
+01:15:30,733 --> 01:15:33,483
+Don't interfere. Let's go.
+
+757
+01:15:38,358 --> 01:15:42,108
+You can't talk to your daughter like
+that. What's that?
+
+758
+01:15:42,275 --> 01:15:47,650
+- Weapons? What are you doing?
+- Markus explains in the car.
+
+759
+01:15:47,817 --> 01:15:50,942
+What are we going to do with the
+guns? Isn't that too dark?
+
+760
+01:15:51,108 --> 01:15:54,317
+- Don't shoot anything.
+- All we have to do is crossfire.
+
+761
+01:15:54,483 --> 01:16:00,150
+You're not going to get anything out
+of it other than getting shot or
+going to jail.
+
+762
+01:16:00,317 --> 01:16:03,400
+- What about Mathilde? Don't you care?
+- Shut up.
+
+763
+01:16:03,567 --> 01:16:06,983
+- Otto, I wouldn't.
+- You're not going to get your wife
+back.
+
+764
+01:16:07,150 --> 01:16:09,192
+I'm going to break your nose.
+
+765
+01:16:09,358 --> 01:16:13,275
+Why don't we just get this over with
+and come home and get banana cake?
+
+766
+01:16:13,442 --> 01:16:16,692
+I'm just saying she's dead.
+
+767
+01:16:41,650 --> 01:16:45,358
+- Don't we need crossfire now?
+- What's his problem?
+
+768
+01:16:45,525 --> 01:16:51,108
+He's got a lot of people. But right
+now, he's lying unconscious on a bike
+path.
+
+769
+01:16:53,650 --> 01:16:56,608
+His daughter died in a traffic
+accident.
+
+770
+01:16:56,775 --> 01:17:02,442
+- so he can be touchy on behalf of
+other father-daughter relationships.
+
+771
+01:17:02,608 --> 01:17:07,442
+But don't feel bad. That was many
+years ago. He crashed into a tree.
+
+772
+01:17:07,608 --> 01:17:12,192
+That's how he got the withered arm.
+It was January 12, 2002.
+
+773
+01:17:12,358 --> 01:17:16,275
+He had a blood alcohol level of 0.92
+and was disqualified from driving
+conditionally.
+
+774
+01:17:16,442 --> 01:17:19,817
+Was fined DKK 28,342.
+
+775
+01:17:19,983 --> 01:17:24,525
+- Are you hacking your own friends,
+too?
+- No, no, no.
+
+776
+01:17:24,692 --> 01:17:27,608
+Otto told us.
+
+777
+01:17:27,775 --> 01:17:30,900
+Or at least he's mentioned it a few
+times.
+
+778
+01:17:31,067 --> 01:17:35,067
+And then we've just read up on the
+details.
+
+779
+01:17:36,567 --> 01:17:39,525
+He has a picture of his wife and
+daughter standing up.
+
+780
+01:17:39,692 --> 01:17:44,358
+Then you ask for it yourself when you
+flash your privacy like that.
+
+781
+01:18:06,483 --> 01:18:08,692
+Get ready.
+
+782
+01:18:12,692 --> 01:18:17,483
+- On the right. Lennart, you stay
+here.
+- Isn't Lennart going?
+
+783
+01:18:21,817 --> 01:18:26,275
+What kind of girls are these girls?
+
+784
+01:18:26,442 --> 01:18:30,567
+It's just a lie. Didn't you tell me
+they were alone?
+
+785
+01:18:30,733 --> 01:18:34,400
+That's what they wrote. Then someone
+must have brought ladies.
+
+786
+01:18:34,567 --> 01:18:37,067
+So let's go home and have banana cake.
+
+787
+01:18:37,233 --> 01:18:39,692
+We'll wait a while.
+
+788
+01:18:56,983 --> 01:19:01,317
+- You stay here.
+- What's he doing?
+
+789
+01:19:30,233 --> 01:19:35,317
+What the hell are you doing, man?
+Ouch for ... Fuck, man!
+
+790
+01:20:03,442 --> 01:20:05,942
+Sorry...
+
+791
+01:20:09,275 --> 01:20:14,942
+Sorry. I couldn't. I'm not good at it.
+
+792
+01:20:15,108 --> 01:20:19,442
+- You're good at it. I'm not.
+- It's okay.
+
+793
+01:20:19,608 --> 01:20:22,025
+No, it's not.
+
+794
+01:20:22,192 --> 01:20:25,400
+They're dead now. He's dead.
+
+795
+01:20:27,233 --> 01:20:31,608
+It's not easy to kill a human being.
+Especially the first time.
+
+796
+01:20:31,775 --> 01:20:34,525
+No, no, I can't...
+
+797
+01:20:34,692 --> 01:20:39,608
+I don't want to be a part of this
+anymore. I don't want to be a part of
+this anymore. Never again.
+
+798
+01:20:39,775 --> 01:20:45,567
+You're not going to either. But try
+to remember why we do it.
+
+799
+01:20:45,733 --> 01:20:52,192
+Why are we doing this? What if he
+hadn't been with...?
+
+800
+01:20:52,358 --> 01:20:57,358
+He has! Shut up, he has! They all
+have.
+
+801
+01:21:00,525 --> 01:21:03,692
+Try to think about what they've done.
+
+802
+01:21:03,858 --> 01:21:08,358
+Think about how many lives they've
+destroyed.
+
+803
+01:21:08,525 --> 01:21:10,858
+Oh, my God.
+
+804
+01:21:13,775 --> 01:21:17,608
+Emmenthaler? Do you want me to put
+some radio on?
+
+805
+01:21:17,775 --> 01:21:22,025
+Would you like that? To hear a little
+quiet radio?
+
+806
+01:21:23,317 --> 01:21:25,858
+Such.
+
+807
+01:22:30,775 --> 01:22:34,733
+- Father?
+- Not right now, baby. We're working.
+
+808
+01:22:34,900 --> 01:22:39,400
+Okay. That's just what you said with
+that Otto guy with a schmuck arm.
+
+809
+01:22:43,233 --> 01:22:45,900
+- <i>I'm going to...</i>
+- Yes.
+
+810
+01:22:49,108 --> 01:22:53,233
+- Who is Sirius Zen?
+- Some homo I follow.
+
+811
+01:22:53,400 --> 01:22:57,275
+I don't know him. He makes great
+recipes.
+
+812
+01:23:02,983 --> 01:23:06,067
+- Reporter: Good morning.
+- Good morning, baby.
+
+813
+01:23:07,442 --> 01:23:09,608
+Reporter: Good morning.
+
+814
+01:23:12,150 --> 01:23:14,817
+What happened, Otto?
+
+815
+01:23:23,817 --> 01:23:28,567
+You're the one who did that? You're
+sick.
+
+816
+01:23:28,733 --> 01:23:32,858
+You're the fucking one who should be
+dead, not Mom!
+
+817
+01:23:33,025 --> 01:23:34,567
+(door slams)
+
+818
+01:23:39,775 --> 01:23:47,108
+I just want to say that it wasn't
+your father who did it. I fell.
+
+819
+01:23:47,275 --> 01:23:51,608
+Don't lie to me. You're about it.
+
+820
+01:23:51,775 --> 01:23:55,525
+- You all are.
+- Don't get mad at your father.
+
+821
+01:23:55,692 --> 01:23:59,233
+He may not be doing the right thing
+all the time, but he's really trying.
+
+822
+01:23:59,400 --> 01:24:02,650
+Then he's bad at trying.
+
+823
+01:24:02,817 --> 01:24:07,442
+We can agree on that. But he's not
+doing so well.
+
+824
+01:24:07,608 --> 01:24:10,192
+No. I know, I know.
+
+825
+01:24:16,192 --> 01:24:20,567
+Are all the incidents leading up to
+the accident?
+
+826
+01:24:24,067 --> 01:24:27,983
+And it started with your bike being
+stolen?
+
+827
+01:24:28,150 --> 01:24:33,858
+Yes. If my bike hadn't been stolen,
+it wouldn't have happened.
+
+828
+01:24:34,025 --> 01:24:37,275
+Then my mom wouldn't have to drive
+me, and then it didn't matter.
+
+829
+01:24:37,442 --> 01:24:40,608
+- that the car could not start, and
+then we would not have taken the
+train.
+
+830
+01:24:40,775 --> 01:24:43,150
+How does it matter that your father
+calls?
+
+831
+01:24:43,317 --> 01:24:45,317
+He said he wasn't coming home.
+
+832
+01:24:45,483 --> 01:24:49,317
+My mother was so disappointed that
+she suggested we take a truancy day.
+
+833
+01:24:49,483 --> 01:24:51,983
+- and drove into town.
+
+834
+01:24:52,150 --> 01:24:57,358
+All these incidents have their own
+individual course.
+
+835
+01:24:57,525 --> 01:24:59,525
+What do you mean, you don't know?
+
+836
+01:24:59,692 --> 01:25:04,817
+I got fired that day, so I took an
+earlier train than usual.
+
+837
+01:25:04,983 --> 01:25:09,650
+But you have to go back to when I
+learned you give the seat to a woman.
+
+838
+01:25:09,817 --> 01:25:14,483
+The man who taught me, he wants his
+very own course.
+
+839
+01:25:14,650 --> 01:25:20,817
+Everything has threads that weave
+themselves into other events and life
+into one...
+
+840
+01:25:20,983 --> 01:25:23,650
+Not infinity. In a very large
+equation.
+
+841
+01:25:23,817 --> 01:25:27,608
+Not even the world's largest
+computers will be able to
+
+842
+01:25:27,775 --> 01:25:32,067
+- to process all the data, and even
+if you're a smart girl,
+
+843
+01:25:32,233 --> 01:25:37,192
+- your human brain will never be able
+to process a fraction of what
+
+844
+01:25:37,358 --> 01:25:41,108
+- and you will therefore never be
+able to draw a useful conclusion.
+
+845
+01:25:41,275 --> 01:25:44,442
+It's never going to make sense.
+
+846
+01:25:47,650 --> 01:25:50,525
+So...
+
+847
+01:25:50,692 --> 01:25:53,275
+It's a waste of time.
+
+848
+01:26:00,733 --> 01:26:03,233
+I know that, too.
+
+849
+01:26:07,775 --> 01:26:13,150
+I've rewinded everything a million
+times to find a reason.
+
+850
+01:26:13,317 --> 01:26:17,983
+- But there isn't one.
+- Yes, that's it.
+
+851
+01:26:18,150 --> 01:26:21,150
+There are centillions.
+
+852
+01:26:21,317 --> 01:26:24,900
+But you can't use any of them for
+anything.
+
+853
+01:26:31,483 --> 01:26:35,733
+I sometimes dream of finding the guy
+who stole my bike.
+
+854
+01:26:35,900 --> 01:26:40,442
+I see him cycling off on my bike, and
+then I run after him.
+
+855
+01:26:40,608 --> 01:26:43,650
+- and catch him.
+
+856
+01:26:46,567 --> 01:26:51,233
+But I also know it's not his fault.
+It's nobody's fault.
+
+857
+01:26:52,817 --> 01:26:58,442
+It just makes a little more sense if
+you have someone you can...
+
+858
+01:26:58,608 --> 01:27:01,442
+... get mad at.
+
+859
+01:27:07,275 --> 01:27:08,775
+Yes.
+
+860
+01:27:11,317 --> 01:27:15,817
+My mother had seven children, but the
+little ones were hungry.
+
+861
+01:27:15,983 --> 01:27:20,733
+And thin as matches. And we froze,
+and winter came on the way.
+
+862
+01:27:20,900 --> 01:27:27,025
+- So my mom's selling a baby. And
+then Palle came and took me to
+Germany.
+
+863
+01:27:28,483 --> 01:27:31,567
+He rents me out...
+
+864
+01:27:33,692 --> 01:27:37,067
+I'm like a city bike.
+
+865
+01:27:37,233 --> 01:27:39,733
+- that anyone can just come and ride.
+
+866
+01:27:42,650 --> 01:27:48,192
+But then we go home on vacation, and
+I meet you.
+
+867
+01:27:48,358 --> 01:27:53,525
+We'll be here just three days before
+you kill him and save me.
+
+868
+01:27:53,692 --> 01:27:58,317
+No, it can't be. No, Palle was on the
+train the week before.
+
+869
+01:27:59,275 --> 01:28:03,817
+No. No, no, no trains. We're flying
+home.
+
+870
+01:28:03,983 --> 01:28:08,108
+But not three days before. You must
+have come back from Germany earlier.
+
+871
+01:28:08,275 --> 01:28:11,358
+No. Well, we landed Monday.
+
+872
+01:28:11,525 --> 01:28:14,608
+- And you're going to kill him
+Thursday.
+
+873
+01:28:14,775 --> 01:28:18,525
+There's something I need to check.
+
+874
+01:28:18,692 --> 01:28:21,192
+Did I say something wrong?
+
+875
+01:28:33,358 --> 01:28:34,942
+No.
+
+876
+01:28:38,442 --> 01:28:43,525
+No, no, no, no, no. Oh, no.
+
+877
+01:28:51,692 --> 01:28:54,233
+<i>As-salaamu-alaikum.</i>
+
+878
+01:28:54,400 --> 01:28:57,275
+My lovely children.
+
+879
+01:28:59,525 --> 01:29:04,608
+It's a beautiful country. Green and
+flat as flatbread.
+
+880
+01:29:04,775 --> 01:29:08,442
+But the food was the biggest
+disappointment.
+
+881
+01:29:08,608 --> 01:29:12,525
+- Dad had the worst sandwich in the
+world.
+- Worse than Grandma's?
+
+882
+01:29:12,692 --> 01:29:17,983
+The tuna was old and wet. The bread
+was dry as desert sand.
+
+883
+01:29:18,150 --> 01:29:22,775
+- and I got a juice that tasted like
+camel.
+
+884
+01:29:22,942 --> 01:29:27,233
+I threw it in the trash and went to
+McDonald's.
+
+885
+01:29:28,900 --> 01:29:31,192
+3.28% was missing.
+
+886
+01:29:31,358 --> 01:29:35,983
+It's unlikely that anyone looks so
+much like Kurt Olesen's brother.
+
+887
+01:29:36,150 --> 01:29:40,108
+I told you. The biometric limit value
+was not met.
+
+888
+01:29:40,275 --> 01:29:43,108
+You wanted it to be true.
+
+889
+01:29:43,275 --> 01:29:46,692
+No. He is a qualified electrical
+engineer specializing in train
+components.
+
+890
+01:29:46,858 --> 01:29:50,233
+- It's close to impossible.
+- It was a coincidence.
+
+891
+01:29:50,400 --> 01:29:54,317
+There's no connection. You created
+it, Otto.
+
+892
+01:29:54,483 --> 01:29:58,150
+You said you recognized him from the
+train.
+
+893
+01:29:58,317 --> 01:30:01,483
+That's what I thought I could do.
+
+894
+01:30:01,650 --> 01:30:05,233
+I must have looked blind.
+
+895
+01:30:05,400 --> 01:30:08,942
+So it was just an accident.
+
+896
+01:30:09,108 --> 01:30:14,400
+- I'm so sorry, Markus.
+- Then who is it?
+
+897
+01:30:14,567 --> 01:30:16,317
+What?
+
+898
+01:30:17,733 --> 01:30:21,400
+If it's not him, who is it?
+
+899
+01:30:22,900 --> 01:30:25,317
+Then who is it?
+
+900
+01:30:26,858 --> 01:30:30,400
+You told me it wasn't an accident.
+
+901
+01:30:34,775 --> 01:30:37,983
+But it's him.
+
+902
+01:30:41,567 --> 01:30:45,525
+It's him. It's him.
+
+903
+01:30:46,525 --> 01:30:49,150
+- Markus. Markus.
+- It...
+
+904
+01:31:24,650 --> 01:31:27,400
+(bang and shout)
+
+905
+01:31:58,525 --> 01:32:00,108
+Markus.
+
+906
+01:32:00,275 --> 01:32:04,275
+Markus, Markus. Markus.
+
+907
+01:32:04,442 --> 01:32:09,567
+- Breathe quietly.
+- What's going on? What's going on?
+
+908
+01:32:10,483 --> 01:32:14,275
+- Don't worry about it. yes, that's
+it.
+- I'm scared.
+
+909
+01:32:17,650 --> 01:32:21,067
+- What do you say?
+- I'm scared.
+
+910
+01:32:21,233 --> 01:32:24,775
+I understand that. I understand that.
+
+911
+01:32:24,942 --> 01:32:27,400
+I understand that very well.
+
+912
+01:32:28,692 --> 01:32:32,108
+Look me in the eye. Look me in the
+eye.
+
+913
+01:32:33,650 --> 01:32:37,067
+She's dead. She's gone.
+
+914
+01:32:38,900 --> 01:32:43,067
+Yes. She's dead. Take a breath. So.
+
+915
+01:32:43,233 --> 01:32:48,067
+Come on, here. Came. Come here. yes,
+that's so good.
+
+916
+01:32:48,233 --> 01:32:51,817
+It doesn't matter.
+
+917
+01:33:25,942 --> 01:33:31,608
+There is an old Ukrainian legend of
+chance.
+
+918
+01:33:33,192 --> 01:33:38,525
+It's about Ljubaba Vasilkovna from
+Vitebsk.
+
+919
+01:33:38,692 --> 01:33:41,192
+A beautiful princess.
+
+920
+01:33:41,358 --> 01:33:47,942
+- which goes bear hunting the morning
+after the first full moon of spring.
+
+921
+01:33:48,108 --> 01:33:53,025
+A giant bear comes and attacks her
+and bites her finger off-
+
+922
+01:33:53,192 --> 01:33:57,650
+- with her beloved diamond ring on.
+
+923
+01:33:57,817 --> 01:34:03,317
+Very sad for her. But then, exactly
+10 years later,
+
+924
+01:34:03,483 --> 01:34:07,192
+- the morning after the first full
+moon of spring,
+
+925
+01:34:07,358 --> 01:34:11,900
+- in the same thick forests in the
+same precise place,
+
+926
+01:34:12,067 --> 01:34:14,025
+- She goes hunting again.
+
+927
+01:34:14,192 --> 01:34:17,733
+And this time, she shoots a big old
+bear.
+
+928
+01:34:17,900 --> 01:34:21,067
+And when they open its belly,
+
+929
+01:34:21,233 --> 01:34:24,317
+- There wasn't a ring in there.
+
+930
+01:34:25,983 --> 01:34:28,067
+Nothing.
+
+931
+01:34:38,650 --> 01:34:40,567
+Okay.
+
+932
+01:34:47,358 --> 01:34:52,983
+Well. Now it will be really exciting
+to see if the water boils soon.
+
+933
+01:35:01,817 --> 01:35:04,983
+Why did you come here anyway, Otto?
+
+934
+01:35:07,400 --> 01:35:10,400
+Because the police wouldn't help.
+
+935
+01:35:17,483 --> 01:35:21,317
+Or I came because we switched seats,
+I think.
+
+936
+01:35:22,733 --> 01:35:26,233
+Because I was the one who should have
+died.
+
+937
+01:35:29,358 --> 01:35:34,192
+Then I saw Mathilde in the hospital,
+and she looked so helpless.
+
+938
+01:35:37,817 --> 01:35:42,025
+And Lennart and Emmenthaler, did they
+just follow?
+
+939
+01:35:42,192 --> 01:35:46,025
+They don't have many friends.
+
+940
+01:35:46,192 --> 01:35:50,692
+I think people with problems tend to
+get together.
+
+941
+01:35:50,858 --> 01:35:53,400
+Like fat people,
+
+942
+01:35:53,567 --> 01:35:56,567
+- so they look less thick when they
+are together.
+
+943
+01:35:56,733 --> 01:35:59,275
+Then it's all a little easier to live
+with.
+
+944
+01:36:01,192 --> 01:36:05,233
+You also have some things you need to
+learn to live with.
+
+945
+01:36:05,400 --> 01:36:08,942
+I don't know if I have anything to
+learn to live with.
+
+946
+01:36:09,108 --> 01:36:12,817
+You have to learn to live with the
+death of your wife.
+
+947
+01:36:15,942 --> 01:36:18,358
+Why do I have to?
+
+948
+01:36:18,525 --> 01:36:22,483
+You're going to have to get some real
+help.
+
+949
+01:36:22,650 --> 01:36:25,733
+Nothing's going to help.
+
+950
+01:36:25,900 --> 01:36:30,108
+- It doesn't matter.
+- Yes, but...
+
+951
+01:36:32,233 --> 01:36:36,775
+- You have Mathilde.
+- We should never have had her.
+
+952
+01:36:38,358 --> 01:36:41,567
+Before she got here, at least I was
+hoping that she'd be able to do it.
+
+953
+01:36:41,733 --> 01:36:46,108
+- That once we have kids, it all
+makes sense.
+
+954
+01:36:47,900 --> 01:36:51,483
+Well, you have a responsibility to
+your daughter.
+
+955
+01:36:55,317 --> 01:36:58,858
+Yes. You were so fucking responsible
+to your daughter yourself.
+
+956
+01:37:16,650 --> 01:37:18,567
+No.
+
+957
+01:37:20,817 --> 01:37:23,483
+I wasn't.
+
+958
+01:37:23,650 --> 01:37:26,650
+Because I was an idiot.
+
+959
+01:37:28,358 --> 01:37:31,067
+I didn't think of anyone but myself.
+
+960
+01:37:36,358 --> 01:37:40,775
+But not a day goes by when I wouldn't
+want...
+
+961
+01:37:45,192 --> 01:37:48,442
+... that I just once more ...
+
+962
+01:37:50,608 --> 01:37:54,233
+... be allowed to find her hairbrush
+for her-
+
+963
+01:37:54,400 --> 01:38:00,025
+- or discuss with her if she could
+have a dog.
+
+964
+01:38:00,192 --> 01:38:05,192
+Or get tired of her not figuring out
+how to put the milk in place.
+
+965
+01:38:22,858 --> 01:38:26,108
+I don't have anything to be proud of.
+
+966
+01:38:27,650 --> 01:38:30,233
+But you have.
+
+967
+01:38:32,067 --> 01:38:38,150
+And I look at you and Mathilde, and I
+wish I were you.
+
+968
+01:38:40,900 --> 01:38:43,567
+Then it may not all matter.
+
+969
+01:38:43,733 --> 01:38:46,858
+- but that's all you don't have a
+relationship with.
+
+970
+01:38:47,025 --> 01:38:50,858
+You don't know Mathilde. That's why
+you can't understand her.
+
+971
+01:38:51,025 --> 01:38:57,025
+But you have to understand that it
+takes time for it to make sense.
+
+972
+01:38:57,192 --> 01:39:00,108
+It costs time.
+
+973
+01:39:00,275 --> 01:39:02,733
+But you have it.
+
+974
+01:39:04,942 --> 01:39:06,900
+Then use it.
+
+975
+01:39:22,233 --> 01:39:25,650
+I'm sorry if I got angry and raised
+my voice.
+
+976
+01:39:25,817 --> 01:39:27,900
+It's okay.
+
+977
+01:39:29,692 --> 01:39:32,942
+I'm sorry about the nose thing, too.
+
+978
+01:39:58,067 --> 01:40:00,525
+- Hi.
+- Sirius.
+
+979
+01:40:01,817 --> 01:40:04,650
+- Is that you?
+- Yes.
+
+980
+01:40:09,275 --> 01:40:11,942
+<i>No, it means "we'll be called."</i>
+
+981
+01:40:12,108 --> 01:40:14,567
+- Give me your hand.
+- What? No!
+
+982
+01:40:16,067 --> 01:40:19,067
+Listen to me. I'm going to break your
+finger.
+
+983
+01:40:19,233 --> 01:40:23,233
+- And then you tell me where you took
+that video of Otto Hoffmann.
+
+984
+01:40:23,400 --> 01:40:25,400
+Where, when...
+
+985
+01:40:25,567 --> 01:40:29,275
+I'll tell you what I'm going to do.
+Don't break my finger.
+
+986
+01:40:29,442 --> 01:40:34,650
+- I'm going to break two because you
+broke off.
+- I'll tell you what I know.
+
+987
+01:40:34,817 --> 01:40:38,108
+I'm going to break three because
+you're a little gossip.
+
+988
+01:40:38,275 --> 01:40:41,525
+There it was four because you're a
+crying prince.
+
+989
+01:40:41,692 --> 01:40:44,067
+It's just a finger.
+
+990
+01:41:02,483 --> 01:41:06,108
+That sounds great. Very precise. It's
+a really good job.
+
+991
+01:41:06,275 --> 01:41:08,567
+Maybe you could break it up a little
+bit.
+
+992
+01:41:24,900 --> 01:41:27,858
+Get in the room. Hide under your bed.
+
+993
+01:41:28,025 --> 01:41:32,858
+No matter what, you stay there. Is
+that clear? Get on your stomach.
+
+994
+01:41:42,692 --> 01:41:45,233
+- Is anyone hit?
+- In the foot, I think.
+
+995
+01:41:45,400 --> 01:41:49,692
+- Shoulder. Since.
+- I'm unstricken.
+
+996
+01:41:51,192 --> 01:41:55,400
+- I'm unstricken, too.
+- Emmenthaler, down. Down, down!
+
+997
+01:41:55,567 --> 01:41:58,233
+I just had time to duck.
+
+998
+01:41:58,400 --> 01:42:01,942
+Lennart, I need help. Come here.
+
+999
+01:42:04,108 --> 01:42:08,233
+The bag with M10s is at the end of
+the stairs. You're faster than me.
+
+1000
+01:42:11,525 --> 01:42:14,233
+Do you see it?
+
+1001
+01:42:14,400 --> 01:42:18,233
+- Why the hell did you take them
+apart?
+- It doesn't matter. Throw them up.
+
+1002
+01:43:00,775 --> 01:43:02,400
+Oh, hello.
+
+1003
+01:43:45,192 --> 01:43:47,275
+Soldier boy!
+
+1004
+01:43:49,650 --> 01:43:52,067
+Come out into the light.
+
+1005
+01:43:53,817 --> 01:43:56,442
+Soldier boy, come out into the light!
+
+1006
+01:44:03,567 --> 01:44:08,067
+Come all the way out into the light,
+or I'm going to fucking blow her head
+off.
+
+1007
+01:44:13,900 --> 01:44:17,358
+Get down on your knees and throw that
+shit away from you.
+
+1008
+01:44:24,650 --> 01:44:27,525
+That one on the panty line, too.
+
+1009
+01:44:39,900 --> 01:44:41,775
+Then we're going to kill that fool.
+
+1010
+01:45:19,442 --> 01:45:23,692
+Oh, my God, this is aummer, man. What
+the hell did we do to you?
+
+1011
+01:45:30,858 --> 01:45:35,067
+Don't be afraid, darling. It's going
+to be okay.
+
+1012
+01:45:35,233 --> 01:45:38,233
+We'll take care of you. Came.
+
+1013
+01:45:38,400 --> 01:45:41,400
+I'll call you with an ambulance.
+
+1014
+01:45:49,275 --> 01:45:51,525
+Don't be afraid.
+
+1015
+01:46:28,483 --> 01:46:30,483
+Are you in pain?
+
+1016
+01:46:30,650 --> 01:46:32,275
+No.
+
+1017
+01:46:35,192 --> 01:46:38,108
+I'm just freezing a lot.
+
+1018
+01:46:38,275 --> 01:46:40,108
+(sirens)
+
+1019
+01:46:40,275 --> 01:46:44,358
+They're coming, Dad. They're coming.
+
+1020
+01:46:51,650 --> 01:46:54,900
+I should have just listened to you.
+
+1021
+01:46:57,317 --> 01:47:00,317
+I think I need help.
+
+1022
+01:47:05,692 --> 01:47:07,358
+Sorry.
+
+1023
+01:47:13,650 --> 01:47:15,733
+Father...
+
+1024
+01:47:17,650 --> 01:47:22,608
+I want you to... They'll be here in a
+minute. You just have to keep talking.
+
+1025
+01:47:28,233 --> 01:47:31,067
+Sorry. Sorry.
+
+1026
+01:47:35,275 --> 01:47:37,358
+Father.
+
+1027
+01:47:38,608 --> 01:47:40,358
+Father!
+
+1028
+01:47:42,650 --> 01:47:44,775
+Father...
+
+1029
+01:48:02,567 --> 01:48:05,025
+What's this?
+
+1030
+01:48:06,733 --> 01:48:11,108
+- It's chess. Thank you so much,
+Mathilde.
+- You're welcome.
+
+1031
+01:48:12,108 --> 01:48:16,567
+- I'm glad you did.
+- Otto's turn to find a gift.
+
+1032
+01:48:16,733 --> 01:48:21,233
+Let's see what's here. It's this one.
+Uha.
+
+1033
+01:48:21,400 --> 01:48:25,608
+"To Emmenthaler from Markus and
+Mathilde."
+
+1034
+01:48:33,692 --> 01:48:37,483
+- Team...
+- What the hell is that?
+
+1035
+01:48:38,525 --> 01:48:40,983
+It's a horn.
+
+1036
+01:48:42,150 --> 01:48:45,150
+Can you conjure it, Emmenthaler?
+
+1037
+01:48:50,983 --> 01:48:56,192
+No, I don't think I can. What am I
+supposed to play?
+
+1038
+01:48:56,358 --> 01:49:00,442
+It's awesome. Play something!
+
+1039
+01:49:02,192 --> 01:49:05,108
+But what?
+
+1040
+01:49:05,275 --> 01:49:09,067
+yes, just play something random.
+
+1041
+01:49:17,358 --> 01:49:18,150
+(false tones)
+
+1042
+01:49:18,317 --> 01:49:24,067
+Hell, if I can sit and listen to it
+on Christmas Eve.
+
+1043
+01:49:24,233 --> 01:49:27,858
+So, then. Take a breath. Take a
+breath.
+
+1044
+01:49:32,400 --> 01:49:36,025
+- You're wearing a uniform. We're in
+Tivoli.
+- Yes.
+
+1045
+01:49:36,192 --> 01:49:38,775
+- We're standing on the Lawn.
+- Yes.
+
+1046
+01:49:39,692 --> 01:49:42,067
+So. I know you can.
+
+1047
+01:49:51,108 --> 01:49:54,317
+(plays "Little Drummer Boy")
+
+1048
+01:53:50,608 --> 01:53:55,233
+Danish texts: Jesper Buhl
+Scandinavian Text Service
+
+1049
+01:53:56,305 --> 01:54:56,332
+Support us and become VIP member 
+to remove all ads from www.OpenSubtitles.org
