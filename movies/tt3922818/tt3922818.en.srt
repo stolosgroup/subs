@@ -1,0 +1,6217 @@
+﻿1
+00:00:06,000 --> 00:00:12,074
+-== [ www.OpenSubtitles.org ] ==-
+
+2
+00:01:48,800 --> 00:01:52,679
+"I want to go to Mars.
+
+3
+00:01:53,120 --> 00:01:57,796
+"Not just to visit.
+I want to live there.
+
+4
+00:01:57,960 --> 00:01:59,632
+"Because then
+I'd be living proof
+
+5
+00:01:59,720 --> 00:02:02,951
+"that life on
+Mars was possible.
+
+6
+00:02:03,280 --> 00:02:06,113
+"Proof that
+if we had to,
+
+7
+00:02:06,520 --> 00:02:09,956
+"mankind could make
+a fresh start.
+
+8
+00:02:10,880 --> 00:02:13,872
+"We're in trouble,
+and it's our fault.
+
+9
+00:02:14,040 --> 00:02:19,034
+"And we're running out of time and
+Mother Nature doesn't negotiate.
+
+10
+00:02:19,240 --> 00:02:22,391
+"We can't give up. Not now.
+
+11
+00:02:22,560 --> 00:02:27,714
+"Mars is a planet ripe
+and ready for life.
+
+12
+00:02:28,480 --> 00:02:30,675
+"Earth's resources
+may be depleted,
+
+13
+00:02:30,840 --> 00:02:35,311
+"but there's one resource
+we must never neglect.
+
+14
+00:02:36,000 --> 00:02:37,991
+"It's the most valuable
+
+15
+00:02:38,120 --> 00:02:41,192
+"and it's the one
+without limits.
+
+16
+00:02:43,520 --> 00:02:45,954
+"Courage."
+
+17
+00:02:54,600 --> 00:02:56,272
+I wrote those words...
+
+18
+00:02:57,160 --> 00:03:00,994
+I wrote those words
+when I was 12 years old.
+
+19
+00:03:01,400 --> 00:03:03,277
+My letter to the White House.
+
+20
+00:03:03,440 --> 00:03:04,998
+Never did I imagine
+the president
+
+21
+00:03:05,120 --> 00:03:06,838
+would read them aloud
+to a nation
+
+22
+00:03:07,040 --> 00:03:09,190
+mourning the loss of yet
+another crew of astronauts.
+
+23
+00:03:09,600 --> 00:03:11,670
+Never did I dream
+
+24
+00:03:11,760 --> 00:03:16,436
+that I would be proclaimed
+an "Emblem of Fortitude,"
+
+25
+00:03:16,520 --> 00:03:20,069
+a "Young Man with
+a Singular Vision."
+
+26
+00:03:20,440 --> 00:03:22,078
+And the rest is, well...
+
+27
+00:03:23,040 --> 00:03:24,268
+It's not history.
+
+28
+00:03:25,240 --> 00:03:26,958
+Just the beginning.
+
+29
+00:03:31,640 --> 00:03:33,710
+So, here we all are.
+
+30
+00:03:33,800 --> 00:03:37,031
+Thanks to Genesis
+Space Technologies,
+
+31
+00:03:37,120 --> 00:03:42,240
+in 20 hours the Magellan-61 will
+travel six astronauts to Mars,
+
+32
+00:03:42,320 --> 00:03:43,958
+not to visit,
+but to live there.
+
+33
+00:03:44,040 --> 00:03:47,316
+The first true
+citizens of Mars!
+
+34
+00:03:50,760 --> 00:03:54,275
+From a childhood vision
+to the greatest space endeavor
+
+35
+00:03:54,440 --> 00:03:55,714
+the world has ever attempted,
+
+36
+00:03:55,920 --> 00:03:59,629
+the settlement known
+as East Texas, Mars.
+
+37
+00:04:05,840 --> 00:04:07,159
+Come on, say it with me.
+
+38
+00:04:07,320 --> 00:04:10,630
+Just add water!
+
+39
+00:04:10,800 --> 00:04:11,800
+Yes!
+
+40
+00:04:16,760 --> 00:04:18,990
+Well, whatever I am,
+
+41
+00:04:19,080 --> 00:04:24,677
+I cannot begin to compare
+to these six heroes,
+
+42
+00:04:25,280 --> 00:04:29,910
+living examples of
+courage without limits.
+
+43
+00:04:30,840 --> 00:04:31,989
+And on that note,
+
+44
+00:04:32,680 --> 00:04:34,193
+I would like to
+hand things off
+
+45
+00:04:34,320 --> 00:04:39,269
+to the mission head
+of this historic expedition,
+
+46
+00:04:39,440 --> 00:04:44,434
+Lead Astronaut Sarah Elliot.
+
+47
+00:05:01,880 --> 00:05:05,111
+Sorry if we only have time
+for a couple of questions.
+
+48
+00:05:05,320 --> 00:05:07,200
+You know what it's like
+the night before a trip.
+
+49
+00:05:09,520 --> 00:05:11,636
+Scott Hubbard,
+Aerospace Times.
+
+50
+00:05:11,720 --> 00:05:12,720
+Miss Elliot,
+
+51
+00:05:12,840 --> 00:05:17,630
+how does it feel to sacrifice the
+next four years of your life to Mars?
+
+52
+00:05:18,520 --> 00:05:21,830
+It's not a sacrifice.
+It's an opportunity.
+
+53
+00:05:21,920 --> 00:05:28,314
+I feel humbled, excited, and grateful
+for the chance to be a pioneer.
+
+54
+00:05:37,200 --> 00:05:39,475
+Miss Elliot,
+aren't you scared,
+
+55
+00:05:39,560 --> 00:05:41,915
+given the history,
+given the dangers?
+
+56
+00:05:42,880 --> 00:05:43,880
+Of course.
+
+57
+00:05:44,920 --> 00:05:47,718
+I'm scared that I might let
+the mission down in some way.
+
+58
+00:05:49,840 --> 00:05:55,312
+I was taught that people who took
+risks without fear were brave.
+
+59
+00:05:56,200 --> 00:05:59,670
+Well, far braver are those that
+take risks despite their fear.
+
+60
+00:06:00,760 --> 00:06:03,433
+Courage is fear that
+has said its prayers.
+
+61
+00:06:44,400 --> 00:06:45,560
+T minus ten.
+
+62
+00:06:46,400 --> 00:06:48,391
+Nine. Eight.
+
+63
+00:06:49,400 --> 00:06:51,914
+Seven. Six.
+
+64
+00:06:52,400 --> 00:06:54,914
+Five. Four.
+
+65
+00:06:55,680 --> 00:06:57,671
+Three. Two.
+
+66
+00:06:58,640 --> 00:07:00,995
+One. Zero.
+
+67
+00:07:02,480 --> 00:07:03,480
+Ignition.
+
+68
+00:07:04,760 --> 00:07:06,318
+Liftoff.
+
+69
+00:07:11,800 --> 00:07:14,633
+Liftoff for Magellan-61.
+
+70
+00:07:46,640 --> 00:07:49,632
+Stand by for docking
+to Mars transfer vehicle.
+
+71
+00:07:53,240 --> 00:07:54,559
+Magellan speed is good.
+
+72
+00:07:55,040 --> 00:07:56,792
+Watch your drift, Sarah.
+
+73
+00:08:00,080 --> 00:08:01,308
+Contact.
+
+74
+00:08:01,400 --> 00:08:03,994
+Not yet! Not yet! Not yet.
+
+75
+00:08:12,320 --> 00:08:14,880
+Manual capture is confirmed.
+
+76
+00:08:18,920 --> 00:08:23,152
+Let's go to Mars!
+Let's go to Mars!
+
+77
+00:09:10,720 --> 00:09:11,720
+You okay?
+
+78
+00:09:11,960 --> 00:09:13,109
+Yeah, I'm fine.
+
+79
+00:09:16,960 --> 00:09:18,029
+Sarah, can I have a word?
+
+80
+00:09:18,560 --> 00:09:19,754
+What's up?
+
+81
+00:09:22,640 --> 00:09:23,993
+Show it to me.
+
+82
+00:09:36,000 --> 00:09:38,468
+We can't just turn the
+mission around, correct?
+
+83
+00:09:39,320 --> 00:09:40,753
+Doctor,
+how's she doing, anyway?
+
+84
+00:09:40,840 --> 00:09:42,256
+You mean, aside
+from being mortified?
+
+85
+00:09:42,280 --> 00:09:43,280
+She's fine.
+
+86
+00:09:43,320 --> 00:09:45,072
+Oh, this is a disaster.
+
+87
+00:09:45,400 --> 00:09:47,516
+Nathaniel, she's due
+shortly after they arrive.
+
+88
+00:09:47,800 --> 00:09:49,597
+We need to get out
+in front of this.
+
+89
+00:09:49,760 --> 00:09:51,239
+An astronaut
+behaved irresponsibly
+
+90
+00:09:51,360 --> 00:09:54,040
+and NASA will make a decision what
+to do as soon as the baby's born.
+
+91
+00:09:54,320 --> 00:09:55,799
+Decision about what?
+
+92
+00:09:56,080 --> 00:09:58,071
+About when to bring them back.
+
+93
+00:09:59,000 --> 00:10:01,992
+Tom, there's
+a bigger issue here.
+
+94
+00:10:02,200 --> 00:10:06,796
+Subjecting a fetus to zero gravity
+during its entire gestation...
+
+95
+00:10:07,000 --> 00:10:09,355
+It's uncharted territory.
+
+96
+00:10:18,120 --> 00:10:19,189
+We do not go to press.
+
+97
+00:10:19,360 --> 00:10:20,952
+We keep
+this internal for now.
+
+98
+00:10:21,120 --> 00:10:23,190
+We need to gather
+more information.
+
+99
+00:10:23,360 --> 00:10:24,360
+What are you saying?
+
+100
+00:10:24,480 --> 00:10:25,856
+I'm saying,
+we go short-term contingency.
+
+101
+00:10:25,880 --> 00:10:27,871
+We have Dr. Loh deliver
+the baby on Mars.
+
+102
+00:10:28,040 --> 00:10:31,555
+We keep this quiet.
+We wait this out.
+
+103
+00:10:31,800 --> 00:10:34,314
+Sarah may have
+behaved irresponsibly,
+
+104
+00:10:34,400 --> 00:10:36,038
+but she's no longer
+just an astronaut
+
+105
+00:10:36,120 --> 00:10:39,351
+and it's not just
+a Genesis decision.
+
+106
+00:10:39,800 --> 00:10:43,839
+She's a mother now.
+
+107
+00:10:47,080 --> 00:10:48,718
+It's her decision, too.
+
+108
+00:11:40,800 --> 00:11:44,429
+Big, deep breath.
+Push, push, push!
+
+109
+00:11:44,520 --> 00:11:46,431
+Good. All right, big, deep breath.
+Here we go.
+
+110
+00:11:46,520 --> 00:11:49,557
+And, push, push! Good.
+
+111
+00:11:49,720 --> 00:11:52,553
+Okay, good. Good job, Sarah.
+
+112
+00:11:52,720 --> 00:11:53,789
+Keep breathing.
+
+113
+00:11:53,880 --> 00:11:55,256
+You're doing great.
+You're doing great.
+
+114
+00:11:55,280 --> 00:11:56,474
+One final push!
+
+115
+00:11:56,560 --> 00:11:57,976
+Come on,
+come on, big, deep breath.
+
+116
+00:12:04,320 --> 00:12:05,719
+Is he okay?
+
+117
+00:12:06,120 --> 00:12:07,120
+Well done.
+
+118
+00:12:11,080 --> 00:12:12,308
+He looks great.
+
+119
+00:12:34,840 --> 00:12:36,159
+Sarah. Sarah?
+
+120
+00:12:36,320 --> 00:12:37,496
+Sarah?
+Her heart rate is dropping.
+
+121
+00:12:37,520 --> 00:12:38,520
+Hey, something's wrong!
+
+122
+00:12:38,680 --> 00:12:39,976
+It's postpartum
+preeclampsia.
+
+123
+00:12:40,000 --> 00:12:41,816
+Push two milligrams of lorazepam, stat.
+
+124
+00:12:41,840 --> 00:12:43,592
+Take it easy. Take him.
+
+125
+00:12:43,680 --> 00:12:45,079
+You got him? You got him?
+
+126
+00:12:51,520 --> 00:12:52,748
+Sarah, breathe.
+
+127
+00:12:52,920 --> 00:12:55,514
+She's still not responding.
+Give her 20 milligrams of...
+
+128
+00:12:56,000 --> 00:12:58,309
+Hurry, she's coding.
+
+129
+00:13:08,360 --> 00:13:09,429
+Come on, Sarah, breathe.
+
+130
+00:13:12,800 --> 00:13:13,869
+How long?
+
+131
+00:13:13,960 --> 00:13:15,473
+30 minutes
+without a heartbeat.
+
+132
+00:13:15,640 --> 00:13:18,473
+Stop. Stop.
+Hey, hey, hey, hey.
+
+133
+00:13:18,560 --> 00:13:20,630
+She's gone. She's gone.
+
+134
+00:13:21,560 --> 00:13:22,709
+She's gone.
+
+135
+00:13:45,320 --> 00:13:49,074
+Mr. Shepherd, are you there?
+
+136
+00:13:50,840 --> 00:13:52,478
+We lost her.
+
+137
+00:14:21,680 --> 00:14:24,797
+Okay. Here's what we know.
+
+138
+00:14:24,960 --> 00:14:28,430
+Two-thirds less gravity will alter
+the child's internal organs.
+
+139
+00:14:28,600 --> 00:14:32,639
+The heart will simply not be conditioned
+to have the strength to pump
+
+140
+00:14:32,760 --> 00:14:34,352
+in the Earth's gravity.
+
+141
+00:14:34,440 --> 00:14:37,477
+Bones will be brittle,
+probably oversized.
+
+142
+00:14:37,600 --> 00:14:39,216
+The child would never survive
+the trip back to Earth.
+
+143
+00:14:39,240 --> 00:14:41,959
+Yeah, but, Nathaniel,
+in the eyes of the world,
+
+144
+00:14:42,040 --> 00:14:44,600
+isn't this whole mission,
+East Texas, an experiment?
+
+145
+00:14:44,760 --> 00:14:47,069
+And wouldn't we be forgiven?
+Experiment?
+
+146
+00:14:47,320 --> 00:14:51,711
+Tom, this isn't a mouse.
+This is not a monkey.
+
+147
+00:14:51,880 --> 00:14:52,949
+This is a human being.
+
+148
+00:14:53,160 --> 00:14:54,256
+And in the eyes of the world,
+
+149
+00:14:54,280 --> 00:14:56,080
+the lead astronaut of
+the Genesis Mars Mission
+
+150
+00:14:56,240 --> 00:14:59,550
+not only got pregnant,
+but died in childbirth,
+
+151
+00:14:59,720 --> 00:15:02,996
+sentencing a baby to a motherless
+existence in outer space.
+
+152
+00:15:03,320 --> 00:15:05,914
+Imagine the bloody outcry.
+
+153
+00:15:06,080 --> 00:15:10,676
+East Texas runs on money,
+science, good faith,
+
+154
+00:15:10,840 --> 00:15:13,308
+and above all, good PR.
+
+155
+00:15:13,480 --> 00:15:14,993
+We're not only talking
+about a secret,
+
+156
+00:15:15,080 --> 00:15:16,479
+we're talking
+about a cover-up.
+
+157
+00:15:17,320 --> 00:15:19,390
+It will bring
+the company down.
+
+158
+00:15:21,840 --> 00:15:22,840
+Unless.
+
+159
+00:15:23,320 --> 00:15:25,117
+Unless what?
+
+160
+00:15:25,960 --> 00:15:30,078
+Unless we don't cover up,
+we take full responsibility.
+
+161
+00:15:30,160 --> 00:15:31,639
+We face it head-on.
+
+162
+00:15:31,760 --> 00:15:33,159
+Tom,
+
+163
+00:15:34,840 --> 00:15:36,432
+I wanna be on
+the next mission.
+
+164
+00:15:36,520 --> 00:15:37,839
+As a passenger?
+Yes.
+
+165
+00:15:37,920 --> 00:15:40,115
+Nathaniel, for the love of...
+Oh, here we go.
+
+166
+00:15:40,200 --> 00:15:41,349
+No, actually, he's right.
+
+167
+00:15:41,480 --> 00:15:42,816
+There would be
+no better show of support.
+
+168
+00:15:42,840 --> 00:15:43,955
+Thank you, Alice. Exactly.
+
+169
+00:15:44,040 --> 00:15:45,416
+You can imagine
+their morale right now.
+
+170
+00:15:45,440 --> 00:15:46,640
+They've just
+lost their leader.
+
+171
+00:15:46,680 --> 00:15:48,591
+Nathaniel,
+it is out of the question.
+
+172
+00:15:48,680 --> 00:15:50,159
+And you know it.
+
+173
+00:15:53,200 --> 00:15:55,031
+Am I missing something here?
+
+174
+00:15:55,200 --> 00:15:57,031
+Doctor, will you
+enlighten Alice, please?
+
+175
+00:15:58,360 --> 00:15:59,509
+Hydrocephalus.
+
+176
+00:16:00,560 --> 00:16:03,279
+We found it on Mr. Shepherd's
+very first medical.
+
+177
+00:16:03,480 --> 00:16:05,550
+A congenital brain disorder.
+It's basically benign.
+
+178
+00:16:05,720 --> 00:16:08,553
+Benign unless he wants to go into
+outer space, and then nobody knows...
+
+179
+00:16:08,640 --> 00:16:10,392
+And what if I'm willing
+to take that risk?
+
+180
+00:16:10,480 --> 00:16:12,550
+Sorry. Not happening.
+
+181
+00:16:19,400 --> 00:16:21,391
+So the child remains on Mars?
+
+182
+00:16:22,320 --> 00:16:23,320
+I don't...
+
+183
+00:16:28,480 --> 00:16:29,879
+We don't have a choice.
+
+184
+00:16:31,400 --> 00:16:35,678
+Say we come clean
+and we lose our financing.
+
+185
+00:16:35,840 --> 00:16:39,469
+Say we give up
+everything we fought for.
+
+186
+00:16:39,680 --> 00:16:41,830
+Say we bring everyone home.
+You heard the doctor.
+
+187
+00:16:41,920 --> 00:16:44,309
+The child wouldn't
+even make the trip.
+
+188
+00:16:46,760 --> 00:16:49,877
+Keeping this a secret
+saves the company,
+
+189
+00:16:50,760 --> 00:16:54,992
+which saves East Texas,
+which saves the child.
+
+190
+00:16:58,200 --> 00:17:00,714
+So the child
+remains classified?
+
+191
+00:17:04,440 --> 00:17:05,440
+Yes.
+
+192
+00:17:08,040 --> 00:17:09,268
+I'm sorry.
+
+193
+00:17:09,680 --> 00:17:10,954
+Yes.
+
+194
+00:17:28,200 --> 00:17:30,509
+Can I bring your car around,
+Mr. Shepherd?
+
+195
+00:17:53,640 --> 00:17:56,154
+Entering stratospheric flight.
+
+196
+00:17:57,480 --> 00:17:59,675
+Entering stratospheric flight.
+
+197
+00:17:59,760 --> 00:18:02,069
+Entering exospheric flight.
+
+198
+00:18:02,160 --> 00:18:03,991
+Entering exospheric flight.
+
+199
+00:18:04,440 --> 00:18:06,670
+Altitude limit.
+Altitude limit.
+
+200
+00:18:07,000 --> 00:18:08,831
+- Approaching outer space.
+- Yes!
+
+201
+00:18:12,520 --> 00:18:15,990
+Decrease velocity.
+Danger. Over speed.
+
+202
+00:18:16,160 --> 00:18:19,835
+Decrease velocity.
+Danger. Danger.
+
+203
+00:18:35,040 --> 00:18:36,632
+All perish.
+
+204
+00:19:19,760 --> 00:19:20,840
+Ha! There you are.
+
+205
+00:19:22,520 --> 00:19:24,511
+Centaur,
+can you make me a map?
+
+206
+00:19:24,760 --> 00:19:27,513
+And what is it you'd like
+a map of, Gardner Elliot?
+
+207
+00:19:27,680 --> 00:19:29,240
+A pathway through
+the ventilation system
+
+208
+00:19:29,360 --> 00:19:32,909
+from my quarters to the storage
+facility on East Texas.
+
+209
+00:19:33,080 --> 00:19:35,071
+And why would you
+like that information?
+
+210
+00:19:35,600 --> 00:19:37,079
+That's none of your business.
+
+211
+00:19:37,680 --> 00:19:39,875
+It is my business.
+I'm your best friend.
+
+212
+00:19:40,040 --> 00:19:43,999
+No. You're a machine with rudimentary
+artificial intelligence.
+
+213
+00:19:44,560 --> 00:19:46,118
+A machine which
+I helped to build.
+
+214
+00:19:46,280 --> 00:19:47,395
+That hurts my feelings.
+
+215
+00:19:47,600 --> 00:19:48,919
+You don't have feelings.
+
+216
+00:19:49,120 --> 00:19:50,758
+I do have feelings.
+I'm your best friend.
+
+217
+00:19:50,960 --> 00:19:53,758
+I'm your teacher.
+I'm your homie. Hug it out.
+
+218
+00:19:55,440 --> 00:19:57,431
+Get me a map of
+the ventilation system.
+
+219
+00:19:57,600 --> 00:19:59,238
+Information classified.
+
+220
+00:20:00,040 --> 00:20:01,040
+I'm sorry.
+
+221
+00:20:01,560 --> 00:20:04,120
+No. I'm sorry.
+
+222
+00:20:04,280 --> 00:20:06,032
+Information classified.
+
+223
+00:20:06,280 --> 00:20:07,599
+Gardner, don't.
+
+224
+00:20:07,760 --> 00:20:09,955
+I'm your friend.
+Gardner, stop.
+
+225
+00:20:10,120 --> 00:20:12,953
+Once upon a time,
+deep in the 15-acre wood,
+
+226
+00:20:13,120 --> 00:20:15,953
+Frogsy found Owl
+sitting on his doorstep.
+
+227
+00:20:16,120 --> 00:20:18,634
+The flood had
+taken away his entire...
+
+228
+00:20:26,960 --> 00:20:29,190
+Centaur,
+look who just bypassed
+
+229
+00:20:29,280 --> 00:20:31,160
+the East Texas infrastructure
+firewall program.
+
+230
+00:20:34,000 --> 00:20:35,000
+Mission number.
+
+231
+00:20:39,160 --> 00:20:41,594
+We're running
+out of time and...
+
+232
+00:20:41,840 --> 00:20:43,319
+"Mother Nature
+doesn't negotiate."
+
+233
+00:20:43,440 --> 00:20:44,475
+...doesn't negotiate.
+
+234
+00:20:45,400 --> 00:20:49,313
+Letter to the White House,
+and he's 12 years old. Blah, blah...
+
+235
+00:20:54,160 --> 00:20:55,912
+Sorry if we only have time...
+Hey, Mom.
+
+236
+00:20:56,000 --> 00:20:57,353
+...for a couple
+of questions.
+
+237
+00:20:57,520 --> 00:20:59,400
+You know what it's like
+the night before a trip.
+
+238
+00:21:08,000 --> 00:21:09,513
+To be continued.
+
+239
+00:21:13,200 --> 00:21:14,599
+Colony 52 Bravo,
+
+240
+00:21:14,680 --> 00:21:16,033
+report to
+the automatic air lock.
+
+241
+00:21:16,640 --> 00:21:20,189
+Colony 52 Bravo, report to
+the automatic air lock.
+
+242
+00:21:27,160 --> 00:21:28,160
+You're late.
+
+243
+00:21:28,840 --> 00:21:30,717
+Hey, Kendra.
+
+244
+00:21:30,880 --> 00:21:32,552
+Hey.
+What's up?
+
+245
+00:21:32,720 --> 00:21:34,199
+Have you seen this?
+I mean...
+
+246
+00:21:34,800 --> 00:21:36,677
+Just, uh,
+so cool. I mean...
+
+247
+00:21:36,840 --> 00:21:38,040
+Works better if
+you turn it on.
+
+248
+00:21:39,040 --> 00:21:40,040
+Right.
+
+249
+00:21:40,680 --> 00:21:42,955
+The irrigator
+on 23 is blocked.
+
+250
+00:21:43,720 --> 00:21:45,836
+By the way,
+I can't reach Centaur.
+
+251
+00:21:46,400 --> 00:21:47,880
+What have you done
+with him this time?
+
+252
+00:21:48,240 --> 00:21:49,280
+Are you checking up on me?
+
+253
+00:21:49,400 --> 00:21:50,536
+Here you go, Kendra.
+Thanks, Tony.
+
+254
+00:21:50,560 --> 00:21:52,073
+No. I'm checking up
+on Centaur.
+
+255
+00:21:53,080 --> 00:21:55,719
+Yeah, who checks up on me.
+
+256
+00:21:56,040 --> 00:21:57,553
+You don't fool me,
+Gardner Elliot.
+
+257
+00:21:57,680 --> 00:21:58,715
+You never have.
+
+258
+00:21:59,240 --> 00:22:02,038
+Okay. Uh, 23 should be clear.
+
+259
+00:22:03,840 --> 00:22:04,840
+Really?
+
+260
+00:22:09,080 --> 00:22:10,229
+Thanks a lot.
+
+261
+00:22:10,720 --> 00:22:12,551
+Here.
+Thanks.
+
+262
+00:22:12,720 --> 00:22:14,233
+Okay, get on 17 now.
+
+263
+00:22:14,760 --> 00:22:16,751
+We'll make you
+indispensable yet.
+
+264
+00:22:20,760 --> 00:22:21,760
+What?
+
+265
+00:22:22,080 --> 00:22:24,719
+How can I be indispensable
+if no one knows I exist?
+
+266
+00:22:39,920 --> 00:22:40,955
+Okay.
+
+267
+00:23:50,080 --> 00:23:51,080
+Open.
+
+268
+00:23:53,360 --> 00:23:54,360
+Play.
+
+269
+00:23:57,520 --> 00:23:59,158
+Virtual visit.
+
+270
+00:24:04,800 --> 00:24:06,756
+Hey! Come on!
+
+271
+00:24:14,040 --> 00:24:16,156
+Come on. Come on. Come on.
+
+272
+00:24:17,360 --> 00:24:19,351
+Want it? Come get it,
+get it! Go fetch!
+
+273
+00:24:24,320 --> 00:24:26,197
+You go fetch it!
+Hey!
+
+274
+00:24:36,520 --> 00:24:38,078
+What would you do
+without me?
+
+275
+00:24:39,000 --> 00:24:40,399
+I'm gonna miss you.
+
+276
+00:24:41,240 --> 00:24:42,639
+I'm gonna miss you, too.
+
+277
+00:24:43,240 --> 00:24:44,912
+Come on.
+
+278
+00:24:47,400 --> 00:24:48,628
+Replay.
+
+279
+00:24:55,400 --> 00:24:56,400
+Memo.
+
+280
+00:25:03,880 --> 00:25:05,029
+Print.
+
+281
+00:25:12,880 --> 00:25:14,438
+Centaur, some privacy.
+
+282
+00:25:14,600 --> 00:25:17,910
+Again? All you ever ask for
+is privacy these days.
+
+283
+00:25:18,120 --> 00:25:19,599
+I remember a time
+when you and I...
+
+284
+00:25:21,920 --> 00:25:23,069
+Where's the code?
+
+285
+00:25:42,280 --> 00:25:43,395
+Hey, Tulsa.
+
+286
+00:25:45,600 --> 00:25:47,830
+Say it with me.
+
+287
+00:25:47,960 --> 00:25:50,110
+Why?
+Because misery loves company.
+
+288
+00:25:50,280 --> 00:25:51,633
+Why are you miserable?
+
+289
+00:25:52,040 --> 00:25:54,952
+Just dealing with the basic
+people of the school.
+
+290
+00:25:55,440 --> 00:25:57,078
+You know, everybody's
+always frontin'.
+
+291
+00:25:57,280 --> 00:25:58,474
+Nobody's ever real,
+you know?
+
+292
+00:26:01,120 --> 00:26:02,553
+Tell me about it.
+
+293
+00:26:03,120 --> 00:26:07,079
+Anyway, the second I turn 18,
+I am so outta here.
+
+294
+00:26:07,240 --> 00:26:08,309
+Emancipation...
+
+295
+00:26:08,400 --> 00:26:10,311
+"Emancipation,
+mobility, music."
+
+296
+00:26:11,000 --> 00:26:12,320
+Are you making
+fun of me, Gardner?
+
+297
+00:26:12,480 --> 00:26:15,836
+No, Tulsa. I just wish
+I could go with you.
+
+298
+00:26:16,480 --> 00:26:19,153
+You've been saying that since last summer.
+And you can.
+
+299
+00:26:19,960 --> 00:26:20,995
+No, I can't.
+
+300
+00:26:21,160 --> 00:26:23,151
+Oh, right. You can't
+leave your house.
+
+301
+00:26:24,000 --> 00:26:26,594
+It's not a house, it's a
+penthouse on Park Avenue.
+
+302
+00:26:28,160 --> 00:26:29,673
+I can't leave
+because of my disease.
+
+303
+00:26:31,240 --> 00:26:33,356
+Osteogenesis Imperfecta.
+
+304
+00:26:33,520 --> 00:26:35,670
+Yeah.
+Still don't believe you.
+
+305
+00:26:36,760 --> 00:26:38,496
+Wouldn't your
+foster dad be unhappy?
+
+306
+00:26:38,520 --> 00:26:41,512
+Yeah. No more checks
+from the state.
+
+307
+00:26:41,920 --> 00:26:43,911
+Study lab is over.
+Gotta go.
+
+308
+00:26:44,000 --> 00:26:45,592
+See ya in
+the funny papers.
+
+309
+00:26:46,440 --> 00:26:48,510
+What does that mean?
+Hmm?
+
+310
+00:26:49,040 --> 00:26:51,315
+You always say that.
+What does it mean?
+
+311
+00:26:52,040 --> 00:26:53,598
+I don't know,
+I had a foster sister
+
+312
+00:26:53,680 --> 00:26:55,400
+in Oklahoma who used
+to say it all the time.
+
+313
+00:26:56,040 --> 00:26:57,712
+Just a different way
+of saying goodbye.
+
+314
+00:26:57,840 --> 00:27:00,195
+I like it.
+Talk tomorrow?
+
+315
+00:27:02,920 --> 00:27:04,717
+I'm not going anywhere.
+
+316
+00:27:29,560 --> 00:27:30,993
+Where'd you get
+this movie?
+
+317
+00:27:31,720 --> 00:27:34,996
+One of the German scientists who was
+here last month left it behind.
+
+318
+00:27:37,400 --> 00:27:39,197
+How do you know
+what's going on?
+
+319
+00:27:40,960 --> 00:27:42,234
+Excuse me?
+
+320
+00:27:42,400 --> 00:27:43,400
+It's easy.
+
+321
+00:27:43,920 --> 00:27:46,388
+You see those men there?
+They're angels.
+
+322
+00:27:46,600 --> 00:27:49,398
+They look over the people on Earth
+and make sure they're okay.
+
+323
+00:27:49,760 --> 00:27:51,159
+You see that angel?
+Mmm-hmm.
+
+324
+00:27:51,240 --> 00:27:56,234
+He's gonna fall in love
+with her and fall to Earth.
+
+325
+00:27:57,600 --> 00:27:59,352
+You're a romantic.
+
+326
+00:28:00,080 --> 00:28:02,355
+Then he won't be
+an angel anymore.
+
+327
+00:28:02,680 --> 00:28:04,432
+He'll be just like her.
+
+328
+00:28:53,640 --> 00:28:55,631
+Hey, Tulsa,
+give us a ride, you slut!
+
+329
+00:28:55,800 --> 00:28:57,836
+I got a Harley
+you can ride.
+
+330
+00:28:58,160 --> 00:28:59,479
+Tulsa! Come here!
+
+331
+00:29:00,160 --> 00:29:01,639
+Come back here, you slut!
+
+332
+00:29:35,800 --> 00:29:36,800
+Hey, boy!
+
+333
+00:29:43,160 --> 00:29:44,832
+What up, Chuck?
+
+334
+00:29:45,360 --> 00:29:47,032
+Don't get up 'cause of me.
+
+335
+00:29:49,040 --> 00:29:51,713
+"Hey, honey, how was your day?
+Make any new friends yet?"
+
+336
+00:29:51,880 --> 00:29:55,270
+Oh, you bet. Boy, am I
+fighting them off.
+
+337
+00:29:55,680 --> 00:29:58,478
+I'm the most popular girl
+in my class.
+
+338
+00:29:58,720 --> 00:30:01,598
+Hey, did you get Thursday's check yet?
+'Cause I wouldn't want you...
+
+339
+00:30:01,680 --> 00:30:02,776
+Wait a second,
+it's Thursday!
+
+340
+00:30:02,800 --> 00:30:04,870
+Hey, hey, Chuck!
+Chuck, wake up!
+
+341
+00:30:04,960 --> 00:30:06,313
+You gotta do
+the Sanders farm.
+
+342
+00:30:06,400 --> 00:30:07,600
+Hey, come on,
+come on, wake up.
+
+343
+00:30:09,240 --> 00:30:11,515
+Listen to me. You have
+one single property.
+
+344
+00:30:11,680 --> 00:30:14,399
+It's pretty simple, all right?
+15 minutes, tops.
+
+345
+00:31:06,120 --> 00:31:07,519
+Okay, the starter.
+
+346
+00:31:12,800 --> 00:31:15,268
+Let's try the brakes.
+It doesn't have brakes.
+
+347
+00:31:15,920 --> 00:31:18,036
+All right.
+Now check the sprays.
+
+348
+00:31:19,800 --> 00:31:20,869
+Check.
+
+349
+00:31:20,960 --> 00:31:23,235
+Not while I'm standing
+behind the plane!
+
+350
+00:31:23,440 --> 00:31:25,795
+Okay, we are gonna
+lose another property.
+
+351
+00:31:25,960 --> 00:31:26,960
+You do it.
+
+352
+00:31:27,120 --> 00:31:28,120
+What?
+
+353
+00:31:28,280 --> 00:31:30,430
+You can fly this thing.
+You do it.
+
+354
+00:31:32,480 --> 00:31:34,789
+Awesome parenting.
+Seriously.
+
+355
+00:31:34,960 --> 00:31:37,997
+Risk my life for 190 bucks.
+
+356
+00:31:38,640 --> 00:31:41,154
+Good to know what
+my life's worth to ya!
+
+357
+00:32:57,160 --> 00:32:58,991
+It's okay. I got ya.
+
+358
+00:33:04,040 --> 00:33:07,919
+You're okay. You're okay.
+You're okay. I'm right here.
+
+359
+00:33:10,720 --> 00:33:11,914
+Are you insane?
+
+360
+00:33:12,080 --> 00:33:14,355
+Do you think the exit protocol
+doesn't apply to you?
+
+361
+00:33:15,040 --> 00:33:16,917
+You could've caused
+an atmospheric breach,
+
+362
+00:33:17,000 --> 00:33:18,672
+not to mention, died.
+
+363
+00:33:18,760 --> 00:33:21,228
+Nobody rides unaccompanied,
+no matter who they are!
+
+364
+00:33:23,400 --> 00:33:26,437
+Gardner, what's going on here?
+This isn't like you.
+
+365
+00:33:26,600 --> 00:33:29,034
+You wouldn't understand.
+My mother's out there.
+
+366
+00:33:29,200 --> 00:33:30,872
+How did you get past
+the electronic lock?
+
+367
+00:33:32,360 --> 00:33:35,591
+Okay, that magnetic implant is there
+to monitor the growth of your organs,
+
+368
+00:33:35,680 --> 00:33:37,352
+not serve as a passkey.
+
+369
+00:33:37,520 --> 00:33:39,160
+And how did you even
+learn how to do that?
+
+370
+00:33:39,520 --> 00:33:42,512
+Raised by scientists,
+in a bubble.
+
+371
+00:34:00,400 --> 00:34:01,400
+Open.
+
+372
+00:34:07,080 --> 00:34:08,911
+That plaque for
+your mother,
+
+373
+00:34:09,480 --> 00:34:12,040
+it's just a piece of
+metal in the ground, okay?
+
+374
+00:34:12,960 --> 00:34:15,713
+Her ashes were spread
+across the Pacific Ocean.
+
+375
+00:34:16,800 --> 00:34:18,472
+You deserve to know that.
+
+376
+00:34:20,960 --> 00:34:23,394
+She's not out there,
+Gardner.
+
+377
+00:34:25,440 --> 00:34:26,759
+She's in you.
+
+378
+00:34:33,440 --> 00:34:35,908
+I don't like to go to
+sleep with us in a fight.
+
+379
+00:34:37,840 --> 00:34:39,273
+We're not in a fight.
+
+380
+00:34:43,840 --> 00:34:44,840
+Okay.
+
+381
+00:35:20,040 --> 00:35:22,190
+This is how you greet
+an old friend?
+
+382
+00:35:22,720 --> 00:35:24,676
+If he's unannounced, yes.
+
+383
+00:35:26,280 --> 00:35:28,316
+It's about the boy.
+
+384
+00:35:29,640 --> 00:35:33,952
+Mr. Shepherd, you have
+no idea how smart he is.
+
+385
+00:35:34,040 --> 00:35:36,190
+He's being denied connection.
+
+386
+00:35:36,560 --> 00:35:38,869
+Not to do this,
+at this point...
+
+387
+00:35:40,040 --> 00:35:41,473
+I'm sorry,
+but it would be inhumane.
+
+388
+00:35:41,640 --> 00:35:44,029
+Miss Wyndham, I'm touched by
+your concern, I really am.
+
+389
+00:35:44,240 --> 00:35:46,959
+But none of this matters
+if he can't survive.
+
+390
+00:35:47,160 --> 00:35:48,878
+We've been through this.
+
+391
+00:35:49,080 --> 00:35:52,152
+For starters, we would have
+to add carbon nanotubes
+
+392
+00:35:52,240 --> 00:35:53,440
+to strengthen
+his bone density.
+
+393
+00:35:53,520 --> 00:35:55,476
+It's a very
+complex procedure.
+
+394
+00:35:55,840 --> 00:35:58,400
+It's too risky. I'm sorry.
+
+395
+00:35:58,520 --> 00:36:00,988
+Tom, I can't sign on to this.
+
+396
+00:36:01,080 --> 00:36:04,675
+With all due respect, Nathaniel,
+I'm not asking. I'm telling.
+
+397
+00:36:05,080 --> 00:36:06,593
+You've been gone
+for 16 years.
+
+398
+00:36:06,680 --> 00:36:07,816
+You've dropped off
+the face of the Earth.
+
+399
+00:36:07,840 --> 00:36:09,114
+Have you run this by NASA?
+
+400
+00:36:09,200 --> 00:36:12,078
+NASA has always felt
+conflicted over this.
+
+401
+00:36:12,240 --> 00:36:15,073
+They wanna do the right
+thing, which this is.
+
+402
+00:36:15,240 --> 00:36:18,038
+They wanna bring
+the boy home.
+
+403
+00:36:19,920 --> 00:36:22,912
+Look, this is our chance
+to turn bad PR into good PR.
+
+404
+00:36:23,080 --> 00:36:24,736
+Wait a minute, this has
+nothing to do with PR.
+
+405
+00:36:24,760 --> 00:36:25,988
+I'm talking about
+a boy's life.
+
+406
+00:36:26,120 --> 00:36:27,120
+Hang on, hang on.
+
+407
+00:36:27,280 --> 00:36:29,430
+Like it or not,
+I'm still the founder.
+
+408
+00:36:29,600 --> 00:36:33,275
+Like it or not, East Texas
+is still my brainchild.
+
+409
+00:36:34,440 --> 00:36:37,989
+You know, you've got a lot more faith in
+how the public will respond than I do.
+
+410
+00:36:44,880 --> 00:36:45,949
+Gardner.
+
+411
+00:36:48,040 --> 00:36:49,632
+I have some news.
+
+412
+00:36:55,080 --> 00:36:56,115
+Guess what?
+
+413
+00:36:59,040 --> 00:37:00,792
+You're taking me
+to Bora-Bora?
+
+414
+00:37:01,640 --> 00:37:03,631
+That was a joke.
+As you were.
+
+415
+00:37:04,600 --> 00:37:07,398
+They may have found
+a cure for my disease.
+
+416
+00:37:07,560 --> 00:37:10,757
+Okay, mine was closer
+to the truth.
+
+417
+00:37:10,920 --> 00:37:12,239
+But mine is the truth.
+
+418
+00:37:13,880 --> 00:37:16,314
+It will involve
+an operation.
+
+419
+00:37:17,080 --> 00:37:18,832
+And some physical therapy.
+
+420
+00:37:19,000 --> 00:37:20,592
+Pick it up,
+pick it up, pick it up.
+
+421
+00:37:20,800 --> 00:37:23,268
+You got it. You got it.
+Keep going. There you go.
+
+422
+00:37:23,440 --> 00:37:24,759
+Remember what
+you're running for.
+
+423
+00:37:29,840 --> 00:37:31,478
+Assuming
+all goes well,
+
+424
+00:37:32,080 --> 00:37:33,513
+I'm coming to see you.
+
+425
+00:37:35,520 --> 00:37:37,909
+Cool.
+When is this happening?
+
+426
+00:37:38,480 --> 00:37:39,674
+In a few months.
+
+427
+00:37:39,800 --> 00:37:41,472
+There's a lot of
+travel involved.
+
+428
+00:37:41,640 --> 00:37:42,816
+Well,
+don't take forever.
+
+429
+00:37:42,840 --> 00:37:45,308
+Once foster care
+spits me out, I'm gone.
+
+430
+00:37:47,600 --> 00:37:49,511
+See you in
+the funny papers.
+
+431
+00:37:54,840 --> 00:37:57,195
+File 32,
+human courtship.
+
+432
+00:37:59,640 --> 00:38:01,471
+Here we are.
+Allow me, won't you?
+
+433
+00:38:01,640 --> 00:38:03,949
+Well, I guess
+chivalry's not entirely dead.
+
+434
+00:38:04,120 --> 00:38:05,712
+At least not in Nantucket.
+
+435
+00:38:05,960 --> 00:38:07,518
+At least not in Nantucket.
+
+436
+00:38:07,880 --> 00:38:08,880
+Repeat.
+
+437
+00:38:10,120 --> 00:38:11,256
+Here we are.
+Here we are.
+
+438
+00:38:11,280 --> 00:38:13,271
+Allow me, won't you?
+Allow me, won't you?
+
+439
+00:38:13,440 --> 00:38:14,856
+Well, I guess
+chivalry's not entirely dead.
+
+440
+00:38:14,880 --> 00:38:16,040
+Chivalry's not entirely dead.
+
+441
+00:38:16,120 --> 00:38:19,112
+At least not in Nantucket.
+At least not in Nantucket.
+
+442
+00:38:19,280 --> 00:38:21,271
+Bravo. Well done.
+
+443
+00:38:51,000 --> 00:38:52,592
+Are you gonna visit
+your ex-husband?
+
+444
+00:38:55,760 --> 00:38:57,751
+I hacked into
+the scientist records.
+
+445
+00:38:58,680 --> 00:39:00,716
+Aren't you the clever
+computer stalker.
+
+446
+00:39:03,160 --> 00:39:04,434
+Why'd you get divorced?
+
+447
+00:39:05,080 --> 00:39:08,914
+Well, he changed when we found
+out I couldn't have children.
+
+448
+00:39:09,680 --> 00:39:12,911
+Uh, did that make you sad,
+that you couldn't have children?
+
+449
+00:39:14,600 --> 00:39:15,919
+That's a tough one.
+
+450
+00:39:16,600 --> 00:39:18,272
+Meant I didn't have
+to choose.
+
+451
+00:39:18,880 --> 00:39:22,759
+And, uh, motherhood wasn't a dream
+I was chasing at that time.
+
+452
+00:39:32,640 --> 00:39:34,710
+My father is somewhere
+on that thing.
+
+453
+00:39:36,640 --> 00:39:37,640
+Earth.
+
+454
+00:39:38,200 --> 00:39:39,792
+We could go and find him.
+
+455
+00:39:39,960 --> 00:39:42,110
+We don't have
+to tell him who I am.
+
+456
+00:39:42,240 --> 00:39:44,037
+I could just
+see him, you know?
+
+457
+00:39:44,200 --> 00:39:45,952
+Maybe I could
+ask for the time.
+
+458
+00:39:46,080 --> 00:39:47,559
+No one has to know.
+
+459
+00:39:48,640 --> 00:39:50,392
+Do you know
+where he lives?
+
+460
+00:39:51,280 --> 00:39:53,635
+No.
+His name?
+
+461
+00:39:54,240 --> 00:39:55,240
+Gardner, I promise,
+
+462
+00:39:55,320 --> 00:39:57,959
+I don't know anything about him.
+Nobody does.
+
+463
+00:40:02,600 --> 00:40:05,990
+How am I supposed to act on Earth,
+with the people?
+
+464
+00:40:36,480 --> 00:40:37,913
+Mr. Shepherd?
+
+465
+00:40:42,200 --> 00:40:44,156
+Your coffee.
+
+466
+00:41:22,400 --> 00:41:23,440
+Excuse me, sir.
+
+467
+00:41:23,560 --> 00:41:25,312
+Do you have
+an appointment? Sir!
+
+468
+00:41:25,400 --> 00:41:26,913
+Tom!
+Sir!
+
+469
+00:41:27,400 --> 00:41:28,400
+Tom!
+Nathaniel.
+
+470
+00:41:28,560 --> 00:41:29,560
+Stop!
+
+471
+00:41:29,720 --> 00:41:31,039
+What are you doing here?
+
+472
+00:41:31,200 --> 00:41:32,519
+I'm here to meet him.
+
+473
+00:41:32,840 --> 00:41:33,840
+Impossible.
+
+474
+00:41:34,000 --> 00:41:39,393
+No. No, what's impossible is
+shuttling back and forth to Mars.
+
+475
+00:41:39,480 --> 00:41:41,630
+What's impossible is building
+our salvation there.
+
+476
+00:41:41,720 --> 00:41:43,358
+But I made
+those things happen.
+
+477
+00:41:43,560 --> 00:41:45,755
+So don't tell me
+what's impossible.
+
+478
+00:43:23,600 --> 00:43:25,720
+Gardner?
+Gardner, how are you feeling?
+
+479
+00:43:25,800 --> 00:43:26,835
+Water.
+
+480
+00:43:27,040 --> 00:43:28,473
+You okay?
+
+481
+00:43:29,480 --> 00:43:30,480
+It's water.
+
+482
+00:43:32,440 --> 00:43:33,440
+Are you thirsty?
+
+483
+00:43:33,960 --> 00:43:36,190
+No. No, there's...
+Let's get this back on.
+
+484
+00:43:36,360 --> 00:43:38,715
+There's water everywhere.
+
+485
+00:43:40,440 --> 00:43:43,477
+All right.
+I feel so heavy.
+
+486
+00:43:44,360 --> 00:43:47,113
+But light.
+Is that normal?
+
+487
+00:43:47,280 --> 00:43:49,555
+I believe
+the term is "euphoria."
+
+488
+00:44:24,520 --> 00:44:26,317
+Sorry about
+the quarantine.
+
+489
+00:44:27,000 --> 00:44:30,310
+It's to protect you
+from us, not us from you.
+
+490
+00:44:30,520 --> 00:44:33,717
+Same bubble, different planet.
+Nothing's changed, has it?
+
+491
+00:44:33,880 --> 00:44:35,393
+Well, except that.
+
+492
+00:44:36,520 --> 00:44:37,839
+It's so blue.
+
+493
+00:44:38,720 --> 00:44:39,914
+And green.
+
+494
+00:44:40,280 --> 00:44:42,077
+There's so many colors.
+
+495
+00:44:44,040 --> 00:44:47,271
+I'm Nathaniel Shepherd.
+How you doing?
+
+496
+00:44:47,440 --> 00:44:51,069
+I'm fine.
+I just weigh so much.
+
+497
+00:44:52,280 --> 00:44:54,077
+I know who you are.
+
+498
+00:44:57,040 --> 00:44:58,393
+I want to be them.
+
+499
+00:45:00,040 --> 00:45:01,268
+That's funny.
+
+500
+00:45:01,560 --> 00:45:03,118
+Because they wanna be you.
+
+501
+00:45:04,720 --> 00:45:06,950
+I got so many questions
+about Mars.
+
+502
+00:45:07,640 --> 00:45:09,198
+Not as many as
+I have about Earth.
+
+503
+00:45:09,280 --> 00:45:10,713
+Oh, you'd be surprised.
+
+504
+00:45:11,560 --> 00:45:12,560
+I'll go first.
+
+505
+00:45:13,640 --> 00:45:15,870
+What's your favorite thing
+about Earth?
+
+506
+00:45:16,840 --> 00:45:20,037
+Uh, rain. My turn.
+
+507
+00:45:20,120 --> 00:45:22,634
+What's your favorite
+thing to do on Mars?
+
+508
+00:45:22,800 --> 00:45:25,030
+To pretend it's Earth.
+My turn.
+
+509
+00:45:25,120 --> 00:45:26,917
+Did you see
+my mother die?
+
+510
+00:45:27,120 --> 00:45:28,314
+No.
+
+511
+00:45:32,600 --> 00:45:33,600
+Yes.
+
+512
+00:45:36,240 --> 00:45:39,312
+Yes. I'm sorry.
+
+513
+00:45:39,920 --> 00:45:40,920
+What scares you?
+
+514
+00:45:41,320 --> 00:45:43,914
+You. You're very disarming.
+
+515
+00:45:45,000 --> 00:45:47,150
+Are you gonna keep going
+out of turn? Yes.
+
+516
+00:45:48,000 --> 00:45:49,228
+Can I stay on Earth?
+
+517
+00:45:49,680 --> 00:45:51,079
+I can't answer that.
+
+518
+00:45:52,320 --> 00:45:53,320
+Why rain?
+
+519
+00:45:53,400 --> 00:45:55,277
+Because it washes
+everything clean.
+
+520
+00:45:55,480 --> 00:45:56,480
+Gardner...
+
+521
+00:45:58,080 --> 00:45:59,354
+Kendra.
+
+522
+00:45:59,520 --> 00:46:00,520
+Hello.
+
+523
+00:46:02,080 --> 00:46:03,638
+We meet in person.
+Hmm.
+
+524
+00:46:04,080 --> 00:46:05,308
+How you feel?
+
+525
+00:46:06,680 --> 00:46:07,680
+Heavy.
+
+526
+00:46:12,000 --> 00:46:14,656
+So what's giving me some
+concern are these inconsistencies
+
+527
+00:46:14,680 --> 00:46:16,511
+in this last batch of tests.
+What about blood?
+
+528
+00:46:16,600 --> 00:46:18,192
+Blood work is
+virtually normal.
+
+529
+00:46:18,360 --> 00:46:20,635
+But if we're going to be sure...
+Virtually? Virtually?
+
+530
+00:46:20,720 --> 00:46:23,029
+Is that what we do
+around here now? Virtually?
+
+531
+00:46:23,120 --> 00:46:24,976
+Because I like to think
+the importance of our work
+
+532
+00:46:25,000 --> 00:46:27,036
+subscribes more to "definitely."
+Meaning?
+
+533
+00:46:27,200 --> 00:46:32,194
+Meaning, troponin. Testing
+for troponin is my point.
+
+534
+00:46:33,880 --> 00:46:35,472
+Run the test for
+troponin, please.
+
+535
+00:46:35,640 --> 00:46:38,632
+Troponin.
+Troponin it is.
+
+536
+00:46:47,640 --> 00:46:48,640
+Hey.
+
+537
+00:46:50,640 --> 00:46:52,471
+They need to do more tests.
+
+538
+00:46:53,560 --> 00:46:56,472
+They already did their tests.
+They said I'm fine.
+
+539
+00:46:56,560 --> 00:46:58,232
+I know. I know.
+I'm more than fine.
+
+540
+00:46:58,360 --> 00:46:59,360
+Hey.
+
+541
+00:47:01,040 --> 00:47:02,696
+They're sending me back
+to Mars, aren't they?
+
+542
+00:47:02,720 --> 00:47:04,073
+They didn't say that.
+
+543
+00:47:04,200 --> 00:47:06,236
+Well, they don't have to.
+
+544
+00:47:29,880 --> 00:47:31,552
+There's been a breach.
+Where?
+
+545
+00:47:31,720 --> 00:47:32,914
+Quarantine.
+
+546
+00:47:34,200 --> 00:47:37,272
+Word of warning, guys.
+These are the real deal.
+
+547
+00:47:37,440 --> 00:47:40,034
+The boots are weighted
+for gravity compensation,
+
+548
+00:47:40,120 --> 00:47:42,554
+as if you were from Mars
+returning to Earth.
+
+549
+00:47:43,200 --> 00:47:45,794
+It's going to feel
+very different.
+
+550
+00:47:49,280 --> 00:47:51,714
+I don't believe this.
+He's tipped the pressure!
+
+551
+00:47:51,880 --> 00:47:53,711
+Raised by scientists.
+
+552
+00:47:53,880 --> 00:47:56,189
+Lock it down.
+This is not a drill.
+
+553
+00:47:59,480 --> 00:48:00,480
+There he is!
+
+554
+00:48:04,600 --> 00:48:05,635
+Where's that go?
+
+555
+00:48:06,120 --> 00:48:08,475
+Zone H. He's headed
+to Service.
+
+556
+00:48:08,920 --> 00:48:10,717
+Relax. It's a dead end.
+
+557
+00:48:53,680 --> 00:48:54,680
+Okay.
+
+558
+00:48:58,280 --> 00:48:59,280
+He changed.
+
+559
+00:48:59,360 --> 00:49:00,918
+Okay, guys, check
+the loading dock.
+
+560
+00:49:23,720 --> 00:49:24,720
+Thanks.
+
+561
+00:49:26,800 --> 00:49:28,677
+All right,
+you can go.
+
+562
+00:49:44,560 --> 00:49:46,073
+I have to talk to you.
+
+563
+00:49:46,240 --> 00:49:48,356
+Gardner trusts me,
+he doesn't trust you.
+
+564
+00:49:48,520 --> 00:49:49,635
+Kendra, give me a minute.
+
+565
+00:49:49,840 --> 00:49:52,308
+We need teams at the Washington
+Avenue Amtrak Station,
+
+566
+00:49:52,400 --> 00:49:54,470
+the airport, and cover
+the bus stations, yeah?
+
+567
+00:49:54,560 --> 00:49:55,560
+You got it.
+
+568
+00:49:55,680 --> 00:49:56,749
+I'm coming with you.
+
+569
+00:49:56,880 --> 00:49:58,916
+Kendra, thank you,
+but I am good.
+
+570
+00:49:59,000 --> 00:50:01,036
+State police are helping
+with blockades.
+
+571
+00:50:01,200 --> 00:50:03,430
+They've been told
+he needs a heart transplant
+
+572
+00:50:03,560 --> 00:50:05,391
+and a donor's suddenly
+become available.
+
+573
+00:50:05,600 --> 00:50:07,875
+I promise I will
+keep you updated.
+
+574
+00:50:08,040 --> 00:50:09,960
+You claim to be concerned
+about Gardner's health,
+
+575
+00:50:10,000 --> 00:50:12,230
+but I think you care more
+about keeping him secret.
+
+576
+00:50:15,920 --> 00:50:17,239
+You were saying?
+
+577
+00:50:18,400 --> 00:50:20,868
+It's one of
+four ambulances.
+
+578
+00:50:21,120 --> 00:50:22,235
+Come on!
+
+579
+00:51:20,920 --> 00:51:22,797
+You found Waldo.
+
+580
+00:51:23,760 --> 00:51:25,637
+I'm Gardner.
+
+581
+00:51:28,320 --> 00:51:31,710
+This fire, it's so warm.
+
+582
+00:51:32,520 --> 00:51:33,839
+I like your shades.
+
+583
+00:51:34,000 --> 00:51:35,353
+I like yours.
+
+584
+00:51:39,480 --> 00:51:40,515
+You wanna trade?
+
+585
+00:51:44,760 --> 00:51:46,830
+Do you know
+where Colorado is?
+
+586
+00:51:47,360 --> 00:51:48,759
+Used to.
+
+587
+00:51:48,840 --> 00:51:52,355
+Greyhound station's about a
+three iron in that direction.
+
+588
+00:51:53,000 --> 00:51:55,195
+Golf reference.
+Do you play?
+
+589
+00:51:55,360 --> 00:51:56,634
+Used to.
+
+590
+00:52:04,360 --> 00:52:06,555
+What's your favorite thing
+about Earth?
+
+591
+00:52:07,960 --> 00:52:10,155
+Dreaming. How 'bout you?
+
+592
+00:52:11,360 --> 00:52:13,191
+So far, uh,
+
+593
+00:52:13,720 --> 00:52:14,994
+meeting you.
+
+594
+00:52:23,720 --> 00:52:25,199
+Weird kid.
+
+595
+00:52:54,040 --> 00:52:55,871
+Oh, this is so cool!
+
+596
+00:53:01,000 --> 00:53:02,000
+Open.
+
+597
+00:53:04,440 --> 00:53:09,434
+Close. Open.
+Open. Open, open.
+
+598
+00:53:09,600 --> 00:53:10,600
+Close.
+
+599
+00:53:20,560 --> 00:53:23,358
+What's your favorite thing
+about Earth?
+
+600
+00:53:42,560 --> 00:53:45,233
+How do we know for
+sure he's going to see her?
+
+601
+00:53:45,800 --> 00:53:48,268
+Because she's the only
+person he knows on Earth.
+
+602
+00:53:48,600 --> 00:53:50,238
+Right. Read that to me.
+
+603
+00:53:50,480 --> 00:53:52,152
+Here she is. Uh...
+
+604
+00:53:53,080 --> 00:53:56,152
+She was left at the Tulsa,
+Oklahoma Child Welfare Services
+
+605
+00:53:56,320 --> 00:53:57,799
+when she was
+four years old.
+
+606
+00:53:58,000 --> 00:54:00,992
+A girl named Tulsa happened
+to be abandoned in Tulsa?
+
+607
+00:54:01,160 --> 00:54:02,229
+It's a nickname.
+Right.
+
+608
+00:54:02,400 --> 00:54:05,472
+She's lived in five foster
+homes over the last 12 years.
+
+609
+00:54:05,640 --> 00:54:06,675
+She know his story?
+
+610
+00:54:07,080 --> 00:54:10,117
+He told her he was confined
+to a Park Avenue penthouse
+
+611
+00:54:10,280 --> 00:54:12,840
+and had
+osteogenesis imperfecta.
+
+612
+00:54:13,440 --> 00:54:14,509
+Brittle bones.
+
+613
+00:54:14,600 --> 00:54:16,431
+Put the address
+in the Sat-Trac.
+
+614
+00:54:16,600 --> 00:54:18,511
+We'll land close,
+but not too close.
+
+615
+00:54:18,640 --> 00:54:20,073
+I don't wanna spook him.
+
+616
+00:54:43,880 --> 00:54:44,880
+Hi.
+
+617
+00:54:48,800 --> 00:54:50,119
+Hi. Hello.
+Get away from me.
+
+618
+00:54:50,280 --> 00:54:51,280
+Okay.
+
+619
+00:54:54,120 --> 00:54:55,120
+Gentlemen.
+
+620
+00:55:21,160 --> 00:55:23,071
+Tulsa? Tulsa.
+
+621
+00:55:23,920 --> 00:55:24,989
+It's me.
+
+622
+00:55:27,160 --> 00:55:28,752
+It's Gardner.
+
+623
+00:55:33,360 --> 00:55:35,920
+Ow! What was that for?
+
+624
+00:55:36,000 --> 00:55:37,752
+Why did you
+ghost me like that?
+
+625
+00:55:37,840 --> 00:55:38,840
+Ghost?
+
+626
+00:55:38,920 --> 00:55:39,976
+Yeah, you completely
+blew me off.
+
+627
+00:55:40,000 --> 00:55:41,440
+You didn't return
+any of my messages.
+
+628
+00:55:41,520 --> 00:55:43,158
+I told you,
+I was taking a trip.
+
+629
+00:55:43,360 --> 00:55:45,056
+For seven months?
+People have phones, you know?
+
+630
+00:55:45,080 --> 00:55:46,354
+You can text, email.
+
+631
+00:55:46,440 --> 00:55:47,714
+I couldn't contact you.
+
+632
+00:55:47,840 --> 00:55:50,434
+It was a very
+specific type of travel.
+
+633
+00:55:51,080 --> 00:55:53,594
+Very specific type of travel?
+Who even talks like that?
+
+634
+00:55:53,760 --> 00:55:56,274
+Tulsa, can you slow down,
+'cause gravity is very heavy.
+
+635
+00:55:56,440 --> 00:55:59,280
+Oh, I'm sorry that this is heavy for
+you, but I really do not appreciate
+
+636
+00:55:59,360 --> 00:56:01,510
+being blown off by the one
+person who I don't...
+
+637
+00:56:02,080 --> 00:56:05,277
+Tulsa, I would
+never ghost on you.
+
+638
+00:56:06,120 --> 00:56:08,918
+Okay, I've actually gone through
+quite a lot to get here.
+
+639
+00:56:10,400 --> 00:56:12,391
+The only person who what?
+
+640
+00:56:14,200 --> 00:56:15,792
+Who I don't hate.
+
+641
+00:56:17,640 --> 00:56:19,471
+You're taller than
+I thought you'd be.
+
+642
+00:56:19,720 --> 00:56:21,358
+You're meaner than
+I thought you'd be.
+
+643
+00:56:23,240 --> 00:56:25,800
+What are you wearing?
+This is so weird.
+
+644
+00:56:26,640 --> 00:56:29,552
+Look, I have a lab, okay?
+So, I don't know.
+
+645
+00:56:29,800 --> 00:56:32,792
+Um... Can you just
+stay here, all right?
+
+646
+00:56:32,880 --> 00:56:35,235
+Do not move, Gardner.
+
+647
+00:56:57,240 --> 00:57:00,835
+And those were the highlights of the
+19th century Industrial Revolution.
+
+648
+00:57:01,000 --> 00:57:03,360
+Now, the 20th century had some
+of the greatest inventions...
+
+649
+00:57:04,960 --> 00:57:06,473
+Hello.
+
+650
+00:57:06,640 --> 00:57:07,640
+Hello.
+
+651
+00:57:07,800 --> 00:57:09,518
+And you are?
+Gardner.
+
+652
+00:57:09,680 --> 00:57:11,750
+Are you a transfer student?
+Okay.
+
+653
+00:57:13,920 --> 00:57:15,040
+Where are you from, Gardner?
+
+654
+00:57:15,200 --> 00:57:16,200
+East Texas.
+
+655
+00:57:16,360 --> 00:57:18,296
+I don't think
+I have you on my roster.
+
+656
+00:57:18,320 --> 00:57:19,320
+Okay.
+
+657
+00:57:22,960 --> 00:57:25,110
+All right, folks.
+Telephone, phonograph...
+
+658
+00:57:25,200 --> 00:57:26,216
+I told you
+to wait for me.
+
+659
+00:57:26,240 --> 00:57:27,336
+...movie camera,
+light bulb...
+
+660
+00:57:27,360 --> 00:57:28,360
+I've waited long enough.
+
+661
+00:57:28,400 --> 00:57:29,456
+...were all inventions
+of one father.
+
+662
+00:57:29,480 --> 00:57:30,515
+Who is he?
+
+663
+00:57:30,600 --> 00:57:31,600
+Thomas Edison.
+
+664
+00:57:31,680 --> 00:57:33,796
+Good. Give me one fact
+about Thomas Edison.
+
+665
+00:57:33,880 --> 00:57:36,872
+The dude was bad-ass.
+
+666
+00:57:37,120 --> 00:57:38,838
+Edison wasn't a bad-ass.
+
+667
+00:57:38,920 --> 00:57:39,920
+Excuse me?
+
+668
+00:57:40,320 --> 00:57:41,799
+Edison invented
+direct current,
+
+669
+00:57:41,880 --> 00:57:44,872
+but it was Nikola Tesla who
+invented alternating current.
+
+670
+00:57:45,280 --> 00:57:48,033
+Edison got jealous and claimed
+AC electrocuted pets.
+
+671
+00:57:48,200 --> 00:57:50,555
+To prove it,
+he electrocuted an elephant.
+
+672
+00:57:50,840 --> 00:57:54,230
+That's not bad-ass,
+that's a bad person.
+
+673
+00:57:57,640 --> 00:58:00,200
+You see, folks? You learn
+something new every day.
+
+674
+00:58:00,400 --> 00:58:02,356
+Thank you, uh...
+
+675
+00:58:03,240 --> 00:58:05,160
+Excuse me. That's our
+emergency eye wash station.
+
+676
+00:58:08,880 --> 00:58:09,880
+Okay.
+
+677
+00:58:10,920 --> 00:58:12,911
+Oh, dear.
+
+678
+00:58:13,080 --> 00:58:16,231
+So the operation worked.
+You're all better now?
+
+679
+00:58:16,880 --> 00:58:18,472
+Yeah. Yeah.
+
+680
+00:58:19,080 --> 00:58:20,399
+Tell me where
+you're really from.
+
+681
+00:58:20,840 --> 00:58:21,840
+Mars.
+
+682
+00:58:23,080 --> 00:58:24,080
+You're from Mars?
+
+683
+00:58:24,240 --> 00:58:25,240
+Yeah.
+
+684
+00:58:25,840 --> 00:58:27,751
+All right, fine,
+don't tell me.
+
+685
+00:58:28,760 --> 00:58:32,912
+Okay, look at this.
+This is my mother.
+
+686
+00:58:33,440 --> 00:58:35,431
+She died.
+I'm sorry.
+
+687
+00:58:35,760 --> 00:58:37,876
+What for?
+It wasn't your fault.
+
+688
+00:58:38,040 --> 00:58:39,598
+It was mine.
+I killed her.
+
+689
+00:58:40,440 --> 00:58:43,910
+But this is my father.
+You're gonna help me find him.
+
+690
+00:58:44,120 --> 00:58:45,599
+I don't know
+where he is, but...
+
+691
+00:58:48,200 --> 00:58:49,679
+Well, you have
+your father's smile.
+
+692
+00:59:04,560 --> 00:59:05,776
+I found the house.
+
+693
+00:59:05,800 --> 00:59:09,031
+Route 14, latitude 40,
+34 longitude.
+
+694
+00:59:21,880 --> 00:59:24,155
+All right.
+You stay here.
+
+695
+00:59:46,840 --> 00:59:47,840
+Gardner!
+
+696
+00:59:50,160 --> 00:59:51,991
+Gardner, you need
+to come with me now!
+
+697
+00:59:52,440 --> 00:59:53,440
+No.
+
+698
+00:59:53,920 --> 00:59:55,433
+We're here to help!
+
+699
+00:59:55,600 --> 00:59:57,830
+You're putting yourself
+in great danger!
+
+700
+00:59:58,000 --> 01:00:00,070
+Why can't you just
+leave me alone!
+
+701
+01:00:00,280 --> 01:00:01,349
+This is my life!
+
+702
+01:00:01,520 --> 01:00:02,794
+Gardner.
+Gardner, please.
+
+703
+01:00:02,840 --> 01:00:04,656
+Come on, just come with us...
+I'm going to find my father.
+
+704
+01:00:04,680 --> 01:00:05,680
+He's all I have.
+
+705
+01:00:05,760 --> 01:00:07,136
+Is there
+another way around?
+
+706
+01:00:07,160 --> 01:00:08,513
+That's not true.
+You have me.
+
+707
+01:00:08,680 --> 01:00:09,680
+No, I don't.
+
+708
+01:00:09,840 --> 01:00:13,435
+Kendra, you told me yourself,
+you don't want children.
+
+709
+01:00:14,680 --> 01:00:16,560
+Gardner, that's not what I meant.
+You know that.
+
+710
+01:00:16,640 --> 01:00:17,976
+You never
+wanted children.
+
+711
+01:00:18,000 --> 01:00:20,878
+And I'm sorry you had
+to raise me at all.
+
+712
+01:00:38,880 --> 01:00:40,154
+Hey.
+
+713
+01:00:42,400 --> 01:00:43,640
+Yeah? I'll get the van.
+You go.
+
+714
+01:00:43,720 --> 01:00:44,789
+Okay.
+Go!
+
+715
+01:01:12,760 --> 01:01:13,988
+Duck!
+Ah!
+
+716
+01:01:16,840 --> 01:01:17,840
+Sorry!
+
+717
+01:01:18,600 --> 01:01:20,591
+Okay. All right,
+you're gonna need to get in.
+
+718
+01:01:20,720 --> 01:01:21,994
+Hurry! Come on!
+
+719
+01:01:24,560 --> 01:01:26,596
+Gardner, let's go!
+
+720
+01:01:30,600 --> 01:01:31,874
+Go faster!
+
+721
+01:01:33,280 --> 01:01:36,238
+I'm trying to help him!
+
+722
+01:01:36,320 --> 01:01:37,320
+Just jump!
+
+723
+01:01:39,600 --> 01:01:41,909
+Come on.
+All right, get in.
+
+724
+01:01:42,240 --> 01:01:43,798
+There you go!
+There you go!
+
+725
+01:01:46,040 --> 01:01:47,792
+All right,
+you may wanna hop in.
+
+726
+01:01:49,160 --> 01:01:50,639
+Whoo-hoo!
+
+727
+01:01:50,960 --> 01:01:51,960
+No!
+
+728
+01:01:52,280 --> 01:01:55,431
+Gardner,
+take a seat, please.
+
+729
+01:01:55,600 --> 01:01:56,749
+- Okay.
+- Gardner!
+
+730
+01:01:57,800 --> 01:01:59,836
+There you go.
+All right.
+
+731
+01:02:04,320 --> 01:02:05,435
+Come on!
+
+732
+01:02:26,680 --> 01:02:28,671
+You know how to
+fly this, right?
+
+733
+01:02:30,000 --> 01:02:31,592
+Nope.
+
+734
+01:02:34,240 --> 01:02:35,240
+Wow.
+
+735
+01:02:42,080 --> 01:02:43,080
+Whoa!
+
+736
+01:03:22,680 --> 01:03:23,680
+Oh, no.
+
+737
+01:03:23,720 --> 01:03:24,960
+Ah...
+
+738
+01:03:25,400 --> 01:03:26,674
+The pressure!
+
+739
+01:03:27,680 --> 01:03:28,829
+I know, right?
+
+740
+01:03:29,360 --> 01:03:31,828
+No, Gardner,
+the oil pressure!
+
+741
+01:03:39,920 --> 01:03:40,920
+All right, I got 'em.
+
+742
+01:03:42,080 --> 01:03:43,520
+My God, they're
+landing on a freeway.
+
+743
+01:03:45,320 --> 01:03:48,312
+Okay. All right, um,
+it's gonna be a little tricky.
+
+744
+01:03:48,480 --> 01:03:50,755
+I usually have
+a landing strip.
+
+745
+01:03:56,000 --> 01:03:58,070
+Coordinates.
+I need coordinates.
+
+746
+01:04:01,000 --> 01:04:02,000
+Tulsa.
+
+747
+01:04:02,160 --> 01:04:03,912
+Tulsa, pull up! Pull up!
+
+748
+01:04:12,600 --> 01:04:13,600
+Ah...
+
+749
+01:04:15,280 --> 01:04:17,111
+Brake! Brake!
+
+750
+01:04:17,280 --> 01:04:18,554
+It doesn't
+have brakes!
+
+751
+01:04:25,000 --> 01:04:26,000
+Whoa!
+
+752
+01:04:31,040 --> 01:04:32,951
+We're gonna have to jump.
+Let's jump!
+
+753
+01:04:49,440 --> 01:04:51,271
+Oh, no.
+
+754
+01:04:52,360 --> 01:04:53,360
+Oh.
+
+755
+01:04:53,880 --> 01:04:54,880
+No.
+
+756
+01:05:05,000 --> 01:05:06,479
+Holy crap.
+
+757
+01:05:08,400 --> 01:05:10,994
+All right, we gotta go.
+Come on. Come on.
+
+758
+01:05:49,040 --> 01:05:50,155
+No bodies.
+
+759
+01:05:50,960 --> 01:05:52,313
+What?
+Are you sure?
+
+760
+01:05:52,480 --> 01:05:53,760
+Positive.
+The fellas went through
+
+761
+01:05:53,840 --> 01:05:55,176
+the wreckage with
+a fine-tooth comb.
+
+762
+01:05:55,200 --> 01:05:56,200
+They're alive.
+
+763
+01:05:56,880 --> 01:05:58,154
+Somewhere.
+
+764
+01:06:01,440 --> 01:06:02,953
+You had one job!
+
+765
+01:06:04,160 --> 01:06:06,720
+One job,
+to protect Gardner!
+
+766
+01:06:07,520 --> 01:06:10,876
+To keep him from making contact
+with the outside world.
+
+767
+01:06:11,360 --> 01:06:14,557
+Preventing exactly
+this kind of eventuality.
+
+768
+01:06:15,640 --> 01:06:18,313
+You're hanging this on me?
+
+769
+01:06:25,560 --> 01:06:27,755
+I admired you
+more than anyone.
+
+770
+01:06:29,640 --> 01:06:30,640
+And you wanna know what?
+
+771
+01:06:30,720 --> 01:06:33,393
+We've been shouldering
+East Texas for you.
+
+772
+01:06:33,640 --> 01:06:34,640
+For years.
+
+773
+01:06:34,840 --> 01:06:35,896
+What are you trying
+to say, Kendra?
+
+774
+01:06:35,920 --> 01:06:39,230
+I'm trying to say the whole
+mission was your job,
+
+775
+01:06:39,360 --> 01:06:40,475
+your responsibility.
+
+776
+01:06:40,600 --> 01:06:44,036
+You just gave up.
+And where were you?
+
+777
+01:06:53,560 --> 01:06:54,675
+Hey.
+
+778
+01:06:55,920 --> 01:06:57,200
+When's the Beemer
+gonna be ready?
+
+779
+01:06:57,440 --> 01:06:58,440
+Later.
+
+780
+01:06:59,200 --> 01:07:02,192
+All right, well, can you
+get the paperwork started?
+
+781
+01:07:04,680 --> 01:07:06,113
+Please.
+
+782
+01:07:06,600 --> 01:07:07,600
+Sir?
+
+783
+01:07:10,240 --> 01:07:11,389
+This is stealing.
+
+784
+01:07:11,560 --> 01:07:12,560
+Yeah, whatever.
+
+785
+01:07:13,200 --> 01:07:14,235
+It's wrong.
+
+786
+01:07:14,400 --> 01:07:16,789
+How do you suppose
+we find your father?
+
+787
+01:07:17,120 --> 01:07:19,236
+You got the paperwork
+on this BMW?
+
+788
+01:07:19,960 --> 01:07:22,110
+Okay.
+
+789
+01:07:22,280 --> 01:07:23,696
+You know, right and
+wrong seem to change
+
+790
+01:07:23,720 --> 01:07:24,948
+when you really
+need something.
+
+791
+01:07:25,280 --> 01:07:26,599
+Don't worry, I'll get it.
+
+792
+01:07:27,360 --> 01:07:28,360
+All right.
+
+793
+01:07:34,120 --> 01:07:35,269
+Friend of yours?
+
+794
+01:08:03,680 --> 01:08:04,908
+Where are we going?
+
+795
+01:08:05,640 --> 01:08:06,675
+Anywhere off the grid.
+
+796
+01:08:07,640 --> 01:08:09,995
+Disabling the phone.
+
+797
+01:08:11,080 --> 01:08:12,672
+Okay.
+
+798
+01:08:12,760 --> 01:08:14,591
+So, uh, Gardner,
+
+799
+01:08:14,680 --> 01:08:16,910
+when you said that
+you killed your mother,
+
+800
+01:08:17,000 --> 01:08:18,479
+what exactly did
+you mean by that?
+
+801
+01:08:19,000 --> 01:08:20,831
+She died giving birth to me.
+
+802
+01:08:22,760 --> 01:08:24,591
+That doesn't mean
+that you killed her.
+
+803
+01:08:24,840 --> 01:08:25,989
+So, who's that guy?
+
+804
+01:08:26,160 --> 01:08:28,435
+He founded East Texas.
+Where I'm from.
+
+805
+01:08:28,600 --> 01:08:30,480
+Well, I thought you said
+you were from New York.
+
+806
+01:08:31,640 --> 01:08:34,438
+Who was the woman? Kendra?
+She's an astronaut.
+
+807
+01:08:35,320 --> 01:08:37,629
+Who you know from Mars?
+Yeah.
+
+808
+01:08:39,800 --> 01:08:41,358
+You know what, get out.
+
+809
+01:08:42,680 --> 01:08:43,680
+Get out.
+
+810
+01:08:44,720 --> 01:08:45,835
+Get out!
+
+811
+01:08:51,360 --> 01:08:52,360
+I don't understand...
+
+812
+01:08:52,520 --> 01:08:54,556
+You know, I don't like
+to be played, Gardner.
+
+813
+01:08:55,040 --> 01:08:58,191
+That's what it is. Mars?
+Some weird disease?
+
+814
+01:08:58,400 --> 01:09:00,868
+People have been lying
+to me my entire life,
+
+815
+01:09:01,040 --> 01:09:03,793
+which is whatever, 'cause people suck.
+They suck. They lie.
+
+816
+01:09:03,880 --> 01:09:05,240
+They use you to
+get what they want,
+
+817
+01:09:05,280 --> 01:09:06,679
+and then they just
+throw you away.
+
+818
+01:09:06,840 --> 01:09:09,877
+And the thing is,
+I didn't even like Calculus.
+
+819
+01:09:10,080 --> 01:09:11,638
+No, just Mr. Hall's
+always drunk
+
+820
+01:09:11,720 --> 01:09:13,056
+and nobody can understand
+what he's saying,
+
+821
+01:09:13,080 --> 01:09:14,696
+but he doesn't care
+what we do on our computers.
+
+822
+01:09:14,720 --> 01:09:16,597
+Tulsa... So that's what
+I looked forward to.
+
+823
+01:09:16,840 --> 01:09:18,876
+Tulsa, I'm not... To Calculus.
+To talking to you.
+
+824
+01:09:19,040 --> 01:09:20,234
+So get out!
+
+825
+01:09:24,680 --> 01:09:26,238
+Tulsa, I'm not lying to you.
+
+826
+01:09:26,400 --> 01:09:28,834
+My mother was an astronaut.
+She made a mistake.
+
+827
+01:09:29,080 --> 01:09:30,308
+I was born on Mars.
+
+828
+01:09:31,840 --> 01:09:34,718
+Just because people lied to you before,
+it doesn't mean I'm lying now.
+
+829
+01:09:35,080 --> 01:09:37,275
+And just because something
+sounds crazy to you,
+
+830
+01:09:37,400 --> 01:09:38,753
+doesn't mean it's not true.
+
+831
+01:09:40,280 --> 01:09:43,431
+So if you really wanna get rid
+of me, you have to get out.
+
+832
+01:09:43,560 --> 01:09:45,198
+Because I'm gonna
+find my father.
+
+833
+01:09:46,080 --> 01:09:51,108
+You know, when people talk to me
+that way, they get their ass kicked.
+
+834
+01:09:51,760 --> 01:09:54,593
+Try it. I'm rockin'
+this gravity.
+
+835
+01:09:56,680 --> 01:09:59,399
+Okay. Maybe you actually
+believe it yourself.
+
+836
+01:10:03,280 --> 01:10:04,349
+What?
+
+837
+01:10:05,400 --> 01:10:06,879
+I'm sorry.
+
+838
+01:10:07,040 --> 01:10:08,040
+For what?
+
+839
+01:10:08,200 --> 01:10:11,795
+For people lying.
+For people sucking things.
+
+840
+01:10:12,960 --> 01:10:14,234
+I'm sorry you're angry.
+
+841
+01:10:14,400 --> 01:10:15,958
+I'm not angry.
+
+842
+01:10:18,960 --> 01:10:19,960
+No.
+
+843
+01:10:20,800 --> 01:10:22,028
+Allow me, won't you?
+
+844
+01:10:22,880 --> 01:10:23,949
+What are you doing?
+
+845
+01:10:24,120 --> 01:10:27,317
+Chivalry's not dead.
+At least not in Nantucket.
+
+846
+01:10:38,440 --> 01:10:41,591
+I'm on a road trip
+with an insane person.
+
+847
+01:10:42,000 --> 01:10:43,000
+Whoa!
+
+848
+01:10:43,080 --> 01:10:44,638
+What is...
+
+849
+01:10:50,320 --> 01:10:51,799
+It's just a horse.
+
+850
+01:11:17,840 --> 01:11:19,193
+Come on, honey.
+Let's go.
+
+851
+01:11:23,360 --> 01:11:24,873
+We should not
+be doing this.
+
+852
+01:11:25,040 --> 01:11:26,616
+Well, we need a device
+that's not being traced.
+
+853
+01:11:26,640 --> 01:11:28,710
+You wanna know where
+your father is, right?
+
+854
+01:11:29,960 --> 01:11:31,029
+Okay.
+
+855
+01:11:31,840 --> 01:11:33,876
+Hey, it's unlocked.
+Consider yourself lucky.
+
+856
+01:11:34,040 --> 01:11:35,996
+I consider myself
+a criminal.
+
+857
+01:11:36,080 --> 01:11:37,080
+Okay.
+
+858
+01:11:38,360 --> 01:11:40,400
+Well, there was a Sarah
+Elliot who was an astronaut.
+
+859
+01:11:40,520 --> 01:11:41,714
+Yeah.
+I'll give ya that.
+
+860
+01:11:41,840 --> 01:11:42,955
+It says
+she died tragically
+
+861
+01:11:43,040 --> 01:11:45,000
+from pressure suit failure
+shortly after arriving.
+
+862
+01:11:45,160 --> 01:11:46,388
+Well, I'm a secret.
+
+863
+01:11:46,560 --> 01:11:49,358
+Yeah. Of course you are.
+And I'm an enigma.
+
+864
+01:11:50,640 --> 01:11:51,709
+Same person.
+
+865
+01:11:51,800 --> 01:11:53,216
+I know.
+That's what I've been...
+
+866
+01:11:53,240 --> 01:11:54,878
+Damn it!
+We lost connection.
+
+867
+01:11:55,240 --> 01:11:56,376
+Yup, they're
+pretty cheap here.
+
+868
+01:11:56,400 --> 01:11:58,470
+Your best option is
+disabling all the decoys
+
+869
+01:11:58,560 --> 01:12:00,516
+and piggybacking off
+the firehouse next door.
+
+870
+01:12:01,520 --> 01:12:02,520
+Right.
+
+871
+01:12:04,240 --> 01:12:05,468
+Oh, cool. Thanks.
+
+872
+01:12:05,560 --> 01:12:07,516
+Pay for my wrap
+and I won't tell.
+
+873
+01:12:08,400 --> 01:12:10,197
+No, no, no, we don't
+have money. I'm sorry.
+
+874
+01:12:10,360 --> 01:12:11,360
+We have money.
+
+875
+01:12:11,520 --> 01:12:12,816
+Great. Why don't
+you say that louder?
+
+876
+01:12:12,840 --> 01:12:13,840
+We have money!
+
+877
+01:12:14,000 --> 01:12:18,073
+No, no. Sorry, sorry,
+he doesn't speak sarcasm.
+
+878
+01:12:19,560 --> 01:12:20,754
+Here, take it.
+
+879
+01:12:22,440 --> 01:12:24,078
+My mother was wearing this
+when she died.
+
+880
+01:12:24,240 --> 01:12:26,879
+It's some sort
+of ring, I think.
+
+881
+01:12:27,440 --> 01:12:30,273
+It's like half a ring.
+Part of a bigger ring?
+
+882
+01:12:30,880 --> 01:12:32,279
+There's words on it.
+Let's see.
+
+883
+01:12:36,120 --> 01:12:37,678
+These words are
+in Havasupai.
+
+884
+01:12:38,440 --> 01:12:40,032
+An Indian tribe
+in Arizona.
+
+885
+01:12:45,240 --> 01:12:48,038
+Yup. It's signed.
+Shaman Neka.
+
+886
+01:12:48,960 --> 01:12:51,428
+Gardner, I think this is
+some kind of wedding ring.
+
+887
+01:12:51,800 --> 01:12:53,711
+And he married them.
+That's Shaman Neka.
+
+888
+01:12:53,880 --> 01:12:56,110
+All right.
+How far is Arizona?
+
+889
+01:12:56,280 --> 01:12:57,998
+Smile.
+
+890
+01:12:59,280 --> 01:13:01,271
+Oh, no.
+
+891
+01:13:03,800 --> 01:13:06,234
+Oh, not smiling. Running.
+Come on. Let's go.
+
+892
+01:13:11,600 --> 01:13:12,953
+Two teenagers
+spotted last night.
+
+893
+01:13:13,040 --> 01:13:14,280
+We think
+they're still in there.
+
+894
+01:13:24,560 --> 01:13:25,600
+Where is he?
+
+895
+01:13:25,720 --> 01:13:26,896
+- Sir, you gotta calm...
+- Stop it!
+
+896
+01:13:26,920 --> 01:13:27,955
+What have...
+Let her go!
+
+897
+01:13:28,120 --> 01:13:30,076
+- Hey!
+- We got him.
+
+898
+01:13:35,920 --> 01:13:37,069
+Are you okay?
+
+899
+01:13:38,440 --> 01:13:41,113
+Nathaniel. Nathaniel.
+
+900
+01:13:41,920 --> 01:13:43,148
+Talk to me.
+
+901
+01:13:44,960 --> 01:13:46,313
+What's going on?
+
+902
+01:13:52,680 --> 01:13:54,193
+You're right, Kendra.
+
+903
+01:13:55,680 --> 01:13:56,999
+I gave up.
+
+904
+01:13:58,320 --> 01:13:59,469
+I withdrew.
+
+905
+01:14:00,440 --> 01:14:03,955
+And the greater the pressure to
+reemerge, the more I retreated.
+
+906
+01:14:05,120 --> 01:14:10,319
+As long as he was just a face, on the
+screen, I could almost handle it,
+
+907
+01:14:11,040 --> 01:14:13,679
+sentencing a boy to a life
+he never asked for.
+
+908
+01:14:14,320 --> 01:14:18,029
+But it's like the malignancy of any
+secret, it just kept getting worse.
+
+909
+01:14:20,480 --> 01:14:23,711
+Every time I go over it, what
+I did, the choices I made...
+
+910
+01:14:23,880 --> 01:14:25,536
+I swear, I couldn't
+have done anything else.
+
+911
+01:14:25,560 --> 01:14:27,278
+But that's not the point.
+
+912
+01:14:28,320 --> 01:14:30,117
+I dealt with the problem.
+
+913
+01:14:31,200 --> 01:14:34,237
+I just had no idea what
+the solution would do to me.
+
+914
+01:14:38,800 --> 01:14:40,028
+It killed me.
+
+915
+01:14:41,640 --> 01:14:43,870
+And it's still killing me.
+
+916
+01:14:44,400 --> 01:14:46,231
+I need to make this right.
+
+917
+01:14:51,920 --> 01:14:52,989
+Yes.
+
+918
+01:14:53,080 --> 01:14:56,356
+Gardner's blood has elevated
+levels of troponin.
+
+919
+01:14:56,520 --> 01:14:58,192
+The news is
+not good, Kendra.
+
+920
+01:14:59,200 --> 01:15:00,235
+Thank you.
+
+921
+01:15:04,680 --> 01:15:06,238
+Talk to me about troponin.
+
+922
+01:15:08,600 --> 01:15:09,600
+What?
+
+923
+01:15:09,760 --> 01:15:11,990
+Elevated troponin
+and Gardner.
+
+924
+01:15:12,080 --> 01:15:13,080
+Oh.
+
+925
+01:15:13,600 --> 01:15:16,160
+His myositic pool
+was depleted.
+
+926
+01:15:16,280 --> 01:15:17,429
+I read the chart.
+
+927
+01:15:17,600 --> 01:15:19,136
+It's not necessarily
+a problem on its own,
+
+928
+01:15:19,160 --> 01:15:23,119
+but in conjunction with
+elevated levels of troponin...
+
+929
+01:15:23,760 --> 01:15:26,228
+He's suffering
+from an enlarged heart.
+
+930
+01:15:27,120 --> 01:15:29,918
+His heart can't handle
+our atmosphere.
+
+931
+01:15:30,360 --> 01:15:31,509
+Our gravity.
+
+932
+01:15:33,080 --> 01:15:34,798
+He's running out of time.
+
+933
+01:15:52,280 --> 01:15:53,280
+Is that a balloon?
+
+934
+01:15:54,640 --> 01:15:56,437
+Tulsa, there's a balloon!
+Yeah.
+
+935
+01:15:56,600 --> 01:15:58,795
+Tulsa, there's a balloon
+up there!
+
+936
+01:15:58,880 --> 01:15:59,949
+All right, all right.
+
+937
+01:16:00,120 --> 01:16:01,155
+Wow, it's huge!
+
+938
+01:16:02,600 --> 01:16:04,238
+Burgers and balloons.
+
+939
+01:16:04,320 --> 01:16:06,436
+You really gotta slow down.
+That's your fifth?
+
+940
+01:16:06,600 --> 01:16:07,874
+These taste so good.
+
+941
+01:16:09,160 --> 01:16:10,593
+Hey, uh,
+can you check in there,
+
+942
+01:16:10,680 --> 01:16:12,318
+just see
+if there's any cash?
+
+943
+01:16:12,480 --> 01:16:14,948
+In here?
+Yup.
+
+944
+01:16:15,160 --> 01:16:17,276
+Cowboys always
+stash away a few bucks.
+
+945
+01:16:21,840 --> 01:16:24,798
+No, that's for your mouth.
+You just gotta blow in it.
+
+946
+01:16:26,320 --> 01:16:28,311
+No, you gotta... Yeah.
+
+947
+01:16:28,840 --> 01:16:29,840
+There ya go.
+So cool.
+
+948
+01:16:33,120 --> 01:16:34,120
+Nice.
+
+949
+01:16:35,160 --> 01:16:37,116
+There ya go.
+
+950
+01:16:38,440 --> 01:16:39,440
+Uh...
+
+951
+01:16:39,520 --> 01:16:43,479
+You got schmutz
+on your face.
+
+952
+01:16:43,920 --> 01:16:44,920
+All right.
+
+953
+01:16:47,600 --> 01:16:49,352
+Thanks.
+Yeah.
+
+954
+01:17:09,720 --> 01:17:12,314
+All right. Go change.
+
+955
+01:17:12,560 --> 01:17:15,791
+Relax, this place has like a million
+stores and a trillion dollars.
+
+956
+01:17:15,880 --> 01:17:16,880
+No, there are cameras...
+
+957
+01:17:16,960 --> 01:17:18,096
+All right,
+all right, all right.
+
+958
+01:17:18,120 --> 01:17:19,536
+But, look, this is
+the last of our money.
+
+959
+01:17:19,560 --> 01:17:23,473
+So, we'll buy the clothes,
+then change.
+
+960
+01:17:23,960 --> 01:17:24,960
+Hey.
+
+961
+01:18:09,880 --> 01:18:11,916
+Break my heart
+
+962
+01:18:12,600 --> 01:18:14,875
+Break my hands
+
+963
+01:18:15,920 --> 01:18:21,597
+You can take anything
+but my plans
+
+964
+01:18:24,440 --> 01:18:29,434
+I've got big things to do
+
+965
+01:18:33,040 --> 01:18:35,634
+You can laugh
+
+966
+01:18:35,960 --> 01:18:37,916
+Have your fun
+
+967
+01:18:38,920 --> 01:18:43,550
+I'll be standing right here
+when you're done
+
+968
+01:18:44,320 --> 01:18:45,799
+Oh, oh...
+
+969
+01:18:47,320 --> 01:18:50,790
+I've got big things...
+
+970
+01:18:53,320 --> 01:18:54,320
+Yo.
+
+971
+01:18:54,640 --> 01:18:55,868
+Is that your song?
+
+972
+01:18:56,600 --> 01:18:57,635
+Maybe.
+
+973
+01:18:57,920 --> 01:18:58,989
+It's beautiful.
+
+974
+01:18:59,480 --> 01:19:00,480
+Whatever.
+
+975
+01:19:10,080 --> 01:19:11,798
+What goes on in there?
+
+976
+01:19:14,760 --> 01:19:15,988
+I don't know.
+
+977
+01:19:17,600 --> 01:19:18,999
+Got us some sleeping bags.
+
+978
+01:19:20,320 --> 01:19:21,639
+Ready?
+Yeah.
+
+979
+01:19:22,520 --> 01:19:24,590
+Oh, and I'm driving
+this time.
+
+980
+01:19:24,680 --> 01:19:26,113
+In your dreams.
+
+981
+01:19:27,760 --> 01:19:29,079
+Excuse me, sir.
+
+982
+01:19:38,680 --> 01:19:40,272
+Play that again.
+
+983
+01:19:44,280 --> 01:19:45,633
+They're moving aimlessly.
+
+984
+01:19:47,000 --> 01:19:48,991
+Why New Mexico?
+
+985
+01:20:07,560 --> 01:20:11,394
+Both hands on the wheel.
+Both eyes on the road.
+
+986
+01:20:16,080 --> 01:20:18,310
+Dude, do you have a problem?
+
+987
+01:20:18,400 --> 01:20:20,816
+'Cause you've definitely been looking
+at me for the last four hours
+
+988
+01:20:20,840 --> 01:20:22,796
+and it's starting
+to freak me out.
+
+989
+01:20:24,080 --> 01:20:25,195
+You're so beautiful.
+
+990
+01:20:26,400 --> 01:20:29,836
+And then you blurt that out,
+just like that? What?
+
+991
+01:20:30,000 --> 01:20:31,479
+Yeah. Why wouldn't I?
+
+992
+01:20:31,560 --> 01:20:35,599
+Uh... Because you may wanna
+just play it cool, you know?
+
+993
+01:20:35,760 --> 01:20:37,876
+Ease yourself
+into the love game.
+
+994
+01:20:38,040 --> 01:20:39,712
+But I do think
+you're beautiful.
+
+995
+01:20:40,920 --> 01:20:42,797
+You're the most beautiful
+girl I've ever seen.
+
+996
+01:20:42,880 --> 01:20:44,598
+Okay, just
+slow your roll, kid.
+
+997
+01:20:46,400 --> 01:20:47,799
+You gotta calm down.
+
+998
+01:20:47,880 --> 01:20:49,632
+I don't wanna calm down.
+
+999
+01:20:50,040 --> 01:20:52,200
+And I don't understand why
+this is making you so upset.
+
+1000
+01:20:52,240 --> 01:20:53,992
+Hey, first of all,
+I'm not upset.
+
+1001
+01:20:54,080 --> 01:20:55,680
+I am uncomfortable.
+There's a difference.
+
+1002
+01:20:55,720 --> 01:20:57,438
+Secondly,
+people don't go around
+
+1003
+01:20:57,520 --> 01:20:59,351
+saying what they feel
+whenever they feel it.
+
+1004
+01:20:59,600 --> 01:21:03,593
+They have guards and shields
+and other metaphors.
+
+1005
+01:21:03,760 --> 01:21:06,274
+Why?
+Because we're all messed up
+
+1006
+01:21:06,440 --> 01:21:08,520
+and scared and trying to be
+something that we're not.
+
+1007
+01:21:08,600 --> 01:21:11,114
+And if we all went around just
+declaring our innermost desires
+
+1008
+01:21:11,280 --> 01:21:12,576
+to the exact people
+we felt them for,
+
+1009
+01:21:12,600 --> 01:21:15,273
+well, then we'd all end up
+happy, or something.
+
+1010
+01:21:20,640 --> 01:21:21,755
+Look, Gardner...
+
+1011
+01:21:23,640 --> 01:21:26,074
+I'm happy that
+you think I'm beautiful
+
+1012
+01:21:27,760 --> 01:21:29,560
+and I've kind of had
+an amazing time with you.
+
+1013
+01:21:29,600 --> 01:21:31,881
+But the last thing I'm gonna
+do is actually tell you that.
+
+1014
+01:21:33,120 --> 01:21:34,120
+You just did.
+
+1015
+01:21:36,960 --> 01:21:37,960
+You're blushing.
+
+1016
+01:21:38,800 --> 01:21:40,870
+I'm not blushing.
+
+1017
+01:22:03,080 --> 01:22:04,672
+Both hands on the wheel?
+
+1018
+01:22:08,280 --> 01:22:09,315
+No.
+
+1019
+01:22:15,200 --> 01:22:16,349
+What is happening?
+
+1020
+01:22:17,680 --> 01:22:20,433
+This is... I believe the
+term is "euphoria."
+
+1021
+01:22:30,880 --> 01:22:32,598
+I got an idea.
+
+1022
+01:22:44,320 --> 01:22:46,959
+Hail in the southern
+desert, extending from Las...
+
+1023
+01:23:30,520 --> 01:23:31,748
+Close your eyes.
+
+1024
+01:24:00,440 --> 01:24:03,910
+How did you just become more
+beautiful in 20 seconds?
+
+1025
+01:24:05,800 --> 01:24:06,949
+Do you wanna kiss me?
+
+1026
+01:24:09,960 --> 01:24:10,960
+Yeah.
+
+1027
+01:24:12,040 --> 01:24:13,632
+But I don't know how.
+
+1028
+01:24:14,920 --> 01:24:16,478
+You will.
+
+1029
+01:24:38,160 --> 01:24:39,309
+You don't understand.
+
+1030
+01:24:39,440 --> 01:24:42,477
+On Mars, people,
+they didn't do this.
+
+1031
+01:24:43,400 --> 01:24:48,394
+We just had scientists and
+they studied ground samples.
+
+1032
+01:24:48,840 --> 01:24:50,751
+Shut up, Gardner.
+
+1033
+01:24:51,640 --> 01:24:54,518
+I thought about you
+every day, up there.
+
+1034
+01:25:02,280 --> 01:25:03,599
+I know
+what's gonna happen.
+
+1035
+01:25:04,200 --> 01:25:05,200
+What?
+
+1036
+01:25:05,280 --> 01:25:08,590
+I'm gonna fall in love with
+you and I'll fall to Earth.
+
+1037
+01:25:08,680 --> 01:25:10,272
+I'll be just like you.
+
+1038
+01:25:10,840 --> 01:25:12,273
+That old line.
+
+1039
+01:25:14,040 --> 01:25:16,873
+Okay, I'll shut up now.
+No, no, no.
+
+1040
+01:25:18,640 --> 01:25:19,959
+Hold that thought.
+
+1041
+01:25:24,360 --> 01:25:25,554
+To myself?
+
+1042
+01:26:18,160 --> 01:26:20,913
+All my life,
+I couldn't feel anything.
+
+1043
+01:26:22,760 --> 01:26:26,435
+I couldn't feel water.
+I couldn't feel a fire.
+
+1044
+01:26:26,600 --> 01:26:29,239
+I couldn't feel
+wind on my face.
+
+1045
+01:26:30,440 --> 01:26:32,192
+And now I can.
+
+1046
+01:26:34,440 --> 01:26:37,352
+That's nothing compared to
+what I feel with you.
+
+1047
+01:26:39,960 --> 01:26:42,110
+I was so scared
+
+1048
+01:26:42,240 --> 01:26:44,276
+I wouldn't know
+how to be human.
+
+1049
+01:26:48,400 --> 01:26:51,073
+You make me human, Tulsa.
+
+1050
+01:27:26,960 --> 01:27:28,996
+Well, that's incredible.
+
+1051
+01:27:29,480 --> 01:27:30,754
+I know, right?
+
+1052
+01:27:31,000 --> 01:27:32,479
+It has so many legs.
+
+1053
+01:27:35,240 --> 01:27:36,240
+Oh.
+
+1054
+01:27:36,320 --> 01:27:38,117
+Everything's cool!
+
+1055
+01:27:38,480 --> 01:27:40,277
+This is reservation property.
+
+1056
+01:27:40,480 --> 01:27:43,597
+The tourist lookout
+is 15 miles that way.
+
+1057
+01:27:43,760 --> 01:27:44,760
+Yeah, we know. Um...
+
+1058
+01:27:44,920 --> 01:27:46,194
+And we hope
+we're not intruding,
+
+1059
+01:27:46,320 --> 01:27:48,117
+but we're looking
+for Shaman Neka.
+
+1060
+01:27:49,360 --> 01:27:50,679
+Right on!
+
+1061
+01:27:51,840 --> 01:27:54,434
+When you know, you know!
+
+1062
+01:27:55,160 --> 01:27:58,038
+Know what?
+I am not sure.
+
+1063
+01:27:58,200 --> 01:27:59,519
+Come on!
+
+1064
+01:28:09,800 --> 01:28:11,791
+I've married many couples.
+
+1065
+01:28:11,960 --> 01:28:14,030
+Well, there were
+no state records.
+
+1066
+01:28:14,200 --> 01:28:15,872
+Um... Do you keep any?
+
+1067
+01:28:18,040 --> 01:28:19,359
+I'd keep her.
+
+1068
+01:28:21,160 --> 01:28:22,479
+What was her name?
+
+1069
+01:28:22,880 --> 01:28:24,518
+Sarah Elliot.
+
+1070
+01:28:25,120 --> 01:28:26,473
+Sarah.
+
+1071
+01:28:28,040 --> 01:28:32,158
+- So, I made this ring 16 years ago.
+- Stop. Stop!
+
+1072
+01:28:32,960 --> 01:28:35,713
+The other half of this ring
+is with your father.
+
+1073
+01:28:37,560 --> 01:28:39,630
+This is the check.
+
+1074
+01:28:41,080 --> 01:28:42,149
+It doesn't say his name.
+
+1075
+01:28:42,240 --> 01:28:44,674
+No, she paid.
+That's her address.
+
+1076
+01:28:44,880 --> 01:28:45,915
+Do you have that photo?
+
+1077
+01:28:46,080 --> 01:28:47,496
+Do you mind if
+I borrow your computer?
+
+1078
+01:28:47,520 --> 01:28:48,520
+Not at all.
+Okay, great.
+
+1079
+01:28:51,240 --> 01:28:52,355
+Okay.
+
+1080
+01:28:56,560 --> 01:28:59,552
+Summerland, California.
+
+1081
+01:28:59,920 --> 01:29:00,920
+Huh.
+
+1082
+01:29:06,080 --> 01:29:07,593
+Yeah, yeah, yeah.
+
+1083
+01:29:13,040 --> 01:29:14,598
+I think this is it.
+
+1084
+01:29:14,680 --> 01:29:16,272
+Yeah, one second,
+I think that's...
+
+1085
+01:29:17,000 --> 01:29:18,035
+We found it.
+
+1086
+01:29:20,280 --> 01:29:21,280
+Well, let's go.
+
+1087
+01:29:54,640 --> 01:29:57,791
+You look like crap.
+You okay?
+
+1088
+01:30:00,160 --> 01:30:01,160
+Yeah.
+
+1089
+01:30:02,160 --> 01:30:03,479
+Do you know
+where we're going?
+
+1090
+01:30:04,120 --> 01:30:05,120
+Oh, yeah.
+
+1091
+01:30:06,320 --> 01:30:09,437
+Paris, Venice,
+and Cairo.
+
+1092
+01:30:22,160 --> 01:30:23,160
+Hello. Checking in?
+
+1093
+01:30:23,320 --> 01:30:25,296
+Hi. Uh, we just left
+the keys in the ignition.
+
+1094
+01:30:25,320 --> 01:30:26,639
+Checking in.
+Thank you.
+
+1095
+01:30:26,800 --> 01:30:27,800
+You're welcome.
+
+1096
+01:30:29,240 --> 01:30:31,231
+Well, you wanted
+to see the world.
+
+1097
+01:30:31,360 --> 01:30:32,873
+Here you have it.
+
+1098
+01:30:35,000 --> 01:30:37,230
+It's like a big toy.
+
+1099
+01:30:37,520 --> 01:30:39,556
+No, no, no, look.
+
+1100
+01:30:39,640 --> 01:30:42,359
+That's Paris.
+New York. Shanghai.
+
+1101
+01:30:42,480 --> 01:30:44,232
+And look over there,
+Venice.
+
+1102
+01:30:45,680 --> 01:30:47,159
+It feels weird.
+
+1103
+01:30:48,040 --> 01:30:51,316
+I mean,
+it's not real, you know?
+
+1104
+01:30:51,480 --> 01:30:54,677
+It's not
+how I pictured it.
+
+1105
+01:30:55,040 --> 01:30:57,190
+It's hurting my head
+to see it like this.
+
+1106
+01:30:57,400 --> 01:30:58,799
+Well, I'm sorry,
+Gardner,
+
+1107
+01:30:58,880 --> 01:31:02,190
+but the world doesn't always
+give you exactly what you want.
+
+1108
+01:31:03,200 --> 01:31:04,349
+It gave me you.
+
+1109
+01:31:04,960 --> 01:31:07,110
+All right, let me be
+cynical for one second.
+
+1110
+01:31:17,560 --> 01:31:19,630
+Tulsa, just because
+your parents are gone,
+
+1111
+01:31:19,720 --> 01:31:22,075
+it doesn't mean
+you can't have a family.
+
+1112
+01:31:22,400 --> 01:31:24,550
+We can be
+each other's family.
+
+1113
+01:31:25,200 --> 01:31:27,714
+'Cause this isn't...
+
+1114
+01:31:28,400 --> 01:31:30,914
+This isn't real,
+but we can be real.
+
+1115
+01:31:31,400 --> 01:31:32,400
+Okay.
+
+1116
+01:31:33,320 --> 01:31:35,400
+I think it's time to go.
+Let's get you to California.
+
+1117
+01:31:35,520 --> 01:31:36,555
+You hear what I said?
+
+1118
+01:31:37,600 --> 01:31:39,113
+Whoa. Yeah, I did. Uh...
+
+1119
+01:31:39,200 --> 01:31:40,520
+But, Gardner,
+I think you're sick.
+
+1120
+01:31:40,560 --> 01:31:42,596
+None of this was how it was
+in my head.
+
+1121
+01:31:42,760 --> 01:31:43,816
+You need to
+go to the hospital.
+
+1122
+01:31:43,840 --> 01:31:45,376
+Except you. We need to
+get you to a hospital.
+
+1123
+01:31:45,400 --> 01:31:46,480
+Something's wrong with you.
+
+1124
+01:31:46,520 --> 01:31:48,078
+Gardner. Gardner.
+
+1125
+01:31:48,240 --> 01:31:50,595
+No, no! Gardner,
+Gardner, Gardner!
+
+1126
+01:31:50,760 --> 01:31:52,034
+You're okay,
+you're okay.
+
+1127
+01:31:52,240 --> 01:31:53,355
+Please help!
+
+1128
+01:31:57,600 --> 01:31:58,600
+I wanna scan him.
+
+1129
+01:31:58,720 --> 01:32:00,200
+Okay. Radiology, stat.
+
+1130
+01:32:03,400 --> 01:32:04,515
+What's his name?
+
+1131
+01:32:05,040 --> 01:32:06,040
+Gardner.
+
+1132
+01:32:06,360 --> 01:32:07,793
+What's his last name?
+
+1133
+01:32:09,040 --> 01:32:10,598
+I don't know.
+
+1134
+01:32:10,840 --> 01:32:12,671
+Well, where's he from?
+Uh...
+
+1135
+01:32:13,720 --> 01:32:14,720
+Uh...
+
+1136
+01:32:15,280 --> 01:32:16,918
+I don't know.
+
+1137
+01:32:25,880 --> 01:32:26,949
+What the...
+
+1138
+01:32:28,200 --> 01:32:29,269
+Look at this.
+
+1139
+01:32:29,640 --> 01:32:31,200
+I've never seen
+anything like it before.
+
+1140
+01:32:31,800 --> 01:32:33,791
+Oh, my God,
+what is that?
+
+1141
+01:32:36,120 --> 01:32:38,315
+His heart is
+grossly enlarged.
+
+1142
+01:32:39,480 --> 01:32:41,391
+I gave him
+some valsartan, but...
+
+1143
+01:32:43,440 --> 01:32:44,953
+It doesn't look good.
+
+1144
+01:32:46,560 --> 01:32:48,232
+He wasn't lying.
+
+1145
+01:32:51,760 --> 01:32:52,760
+Gardner.
+
+1146
+01:32:53,920 --> 01:32:55,592
+Gardner, I have to go.
+
+1147
+01:32:57,400 --> 01:32:58,958
+Social Services are coming.
+
+1148
+01:33:01,400 --> 01:33:03,277
+But I'm gonna
+go to Summerland.
+
+1149
+01:33:05,160 --> 01:33:06,673
+I'm gonna find your father.
+
+1150
+01:33:07,800 --> 01:33:10,234
+And I'm gonna tell him
+how amazing you are.
+
+1151
+01:33:10,920 --> 01:33:12,239
+How much you think about him
+
+1152
+01:33:12,320 --> 01:33:15,915
+and how badly you wanted
+to go there. Okay?
+
+1153
+01:33:18,600 --> 01:33:19,600
+I promise.
+
+1154
+01:33:25,840 --> 01:33:27,831
+Hey. Hey.
+
+1155
+01:33:30,360 --> 01:33:31,496
+- We need to go.
+- No, no.
+
+1156
+01:33:31,520 --> 01:33:32,999
+We need to go.
+You can't. You can't.
+
+1157
+01:33:34,600 --> 01:33:35,600
+You have to stay here.
+
+1158
+01:33:36,160 --> 01:33:37,160
+Gardner.
+
+1159
+01:33:42,360 --> 01:33:44,112
+Do you even know
+why you're sick?
+
+1160
+01:33:46,480 --> 01:33:48,789
+'Cause your heart's too big.
+
+1161
+01:33:48,960 --> 01:33:50,016
+We are going to Summerland.
+
+1162
+01:33:50,040 --> 01:33:51,871
+You can't.
+They're gonna help you.
+
+1163
+01:33:52,040 --> 01:33:54,713
+There's nothing they can do.
+
+1164
+01:33:55,160 --> 01:33:56,878
+They can't. Don't you see?
+
+1165
+01:33:57,880 --> 01:34:00,633
+No matter how much
+I want Earth,
+
+1166
+01:34:00,720 --> 01:34:02,870
+Earth doesn't want me.
+
+1167
+01:34:14,560 --> 01:34:16,040
+Hold on a sec.
+I'll get my bag.
+
+1168
+01:34:21,520 --> 01:34:22,669
+Hang on, Pop.
+
+1169
+01:34:44,560 --> 01:34:46,437
+Social Services.
+Thank God.
+
+1170
+01:34:59,920 --> 01:35:02,434
+They used a credit
+card the owner left in the car.
+
+1171
+01:35:03,240 --> 01:35:05,435
+They're headed north,
+in California.
+
+1172
+01:35:05,760 --> 01:35:07,193
+I know where they're going.
+
+1173
+01:35:07,440 --> 01:35:08,440
+Good evening.
+
+1174
+01:35:18,960 --> 01:35:20,234
+Gardner?
+
+1175
+01:35:21,920 --> 01:35:22,920
+Gardner!
+
+1176
+01:35:24,080 --> 01:35:25,433
+I'm not dead.
+
+1177
+01:35:29,560 --> 01:35:30,709
+Scared me.
+
+1178
+01:35:32,080 --> 01:35:35,595
+You act like you hate
+the world so much, Tulsa.
+
+1179
+01:35:37,440 --> 01:35:38,793
+Save your strength.
+
+1180
+01:35:39,720 --> 01:35:41,119
+It's all an act.
+
+1181
+01:35:43,000 --> 01:35:45,992
+The beautiful music you make
+gives you away.
+
+1182
+01:36:24,040 --> 01:36:25,519
+Gardner, we're here.
+
+1183
+01:36:26,520 --> 01:36:27,520
+Hey.
+
+1184
+01:36:30,040 --> 01:36:32,190
+Hey, we're here.
+
+1185
+01:36:35,160 --> 01:36:36,639
+Will you help me?
+
+1186
+01:36:37,560 --> 01:36:39,039
+Yeah, of course.
+
+1187
+01:36:39,360 --> 01:36:40,360
+Help you what?
+
+1188
+01:36:41,120 --> 01:36:42,678
+Just look better.
+
+1189
+01:36:58,080 --> 01:36:59,080
+Here.
+
+1190
+01:37:16,320 --> 01:37:18,675
+This is the best place
+I've been so far.
+
+1191
+01:37:23,920 --> 01:37:25,512
+You ready?
+
+1192
+01:37:29,200 --> 01:37:30,428
+Yeah.
+
+1193
+01:37:33,560 --> 01:37:34,913
+He's gonna love you.
+
+1194
+01:37:53,960 --> 01:37:54,960
+Hello?
+
+1195
+01:38:25,320 --> 01:38:26,639
+Hello?
+Hi.
+
+1196
+01:38:27,960 --> 01:38:29,837
+Can I help you?
+
+1197
+01:38:31,400 --> 01:38:33,755
+Now would be a good
+time to say something.
+
+1198
+01:38:37,160 --> 01:38:38,160
+Um...
+
+1199
+01:38:49,440 --> 01:38:50,919
+Where did you get this photo?
+
+1200
+01:38:51,840 --> 01:38:53,353
+East Texas.
+
+1201
+01:38:53,520 --> 01:38:54,839
+That's impossible.
+
+1202
+01:38:55,000 --> 01:38:58,072
+My mother was Sarah Elliot.
+She died giving birth to me.
+
+1203
+01:38:58,280 --> 01:39:02,114
+Sarah Elliot died
+from pressure suit failure.
+
+1204
+01:39:02,280 --> 01:39:04,430
+That's not... That's
+what they said, but...
+
+1205
+01:39:10,880 --> 01:39:12,438
+You're my father.
+
+1206
+01:39:14,600 --> 01:39:15,874
+Is this some kind of scam?
+
+1207
+01:39:16,040 --> 01:39:18,110
+No, he's not lying.
+It's the truth, I swear.
+
+1208
+01:39:18,200 --> 01:39:19,428
+I just wanted
+to meet you.
+
+1209
+01:39:19,640 --> 01:39:21,440
+Why are you doing this to me?
+
+1210
+01:39:22,120 --> 01:39:24,350
+I'm not your father.
+I'm calling the police.
+
+1211
+01:39:24,560 --> 01:39:26,039
+Okay, just stay
+right here.
+
+1212
+01:39:26,880 --> 01:39:28,836
+Stop being a dick! Okay.
+
+1213
+01:39:28,920 --> 01:39:29,920
+Look, he risked his life
+
+1214
+01:39:30,040 --> 01:39:32,110
+to leave the one place
+he's ever known, all alone,
+
+1215
+01:39:32,320 --> 01:39:34,595
+didn't know anybody,
+never set foot on this planet.
+
+1216
+01:39:34,680 --> 01:39:36,336
+I mean, how scary is that?
+What do you want from me?
+
+1217
+01:39:36,360 --> 01:39:37,360
+I could never do that.
+
+1218
+01:39:37,520 --> 01:39:39,238
+Look...
+Just to meet you.
+
+1219
+01:39:39,320 --> 01:39:40,833
+And he's dying.
+
+1220
+01:39:41,640 --> 01:39:44,393
+I don't know who you are,
+or why you're doing this.
+
+1221
+01:39:44,560 --> 01:39:45,560
+I am not his father.
+
+1222
+01:39:45,720 --> 01:39:47,960
+Well, then who are you,
+because that is you in the photo,
+
+1223
+01:39:48,080 --> 01:39:50,355
+and that is this house.
+Yes, this is the house.
+
+1224
+01:39:50,520 --> 01:39:52,397
+Our parents left it to us.
+
+1225
+01:39:55,400 --> 01:39:57,550
+Sarah Elliot was my sister.
+
+1226
+01:40:00,920 --> 01:40:03,229
+Oh. You gotta get some help.
+Please, get some help!
+
+1227
+01:40:03,360 --> 01:40:04,360
+Gardner!
+
+1228
+01:40:06,080 --> 01:40:07,080
+Gardner!
+
+1229
+01:40:08,920 --> 01:40:10,069
+Gardner!
+
+1230
+01:40:13,760 --> 01:40:14,760
+Gardner!
+
+1231
+01:40:16,920 --> 01:40:18,399
+No, he's not
+your father.
+
+1232
+01:40:19,440 --> 01:40:21,158
+He's not your father.
+He's your uncle.
+
+1233
+01:40:21,240 --> 01:40:22,958
+It doesn't matter anymore.
+
+1234
+01:40:23,440 --> 01:40:25,078
+There's no time left, Tulsa.
+
+1235
+01:40:25,680 --> 01:40:27,576
+Okay, let's just go back.
+He's gonna call the ambulance.
+
+1236
+01:40:27,600 --> 01:40:29,591
+You'll get better.
+My mother's here.
+
+1237
+01:40:31,400 --> 01:40:33,118
+I can feel her.
+
+1238
+01:40:34,760 --> 01:40:37,797
+I didn't get to choose
+where I was born.
+
+1239
+01:40:39,440 --> 01:40:41,431
+But I get to choose
+where I die.
+
+1240
+01:40:51,120 --> 01:40:52,120
+Tulsa.
+
+1241
+01:40:52,880 --> 01:40:54,108
+Yes, Gardner?
+
+1242
+01:40:56,920 --> 01:40:59,957
+What's your favorite thing
+about Earth?
+
+1243
+01:41:01,040 --> 01:41:03,156
+You are, Gardner.
+
+1244
+01:41:19,560 --> 01:41:21,391
+See you in the funny papers.
+
+1245
+01:41:22,400 --> 01:41:24,550
+Gardner! Gardner!
+
+1246
+01:41:24,760 --> 01:41:27,399
+No, no! Gardner!
+No, Gardner!
+
+1247
+01:41:28,000 --> 01:41:29,433
+No, Gardner, no!
+
+1248
+01:41:35,520 --> 01:41:37,431
+No, Gardner!
+
+1249
+01:41:51,840 --> 01:41:55,037
+I got him!
+
+1250
+01:41:59,440 --> 01:42:02,591
+Kendra! Help me!
+
+1251
+01:42:13,560 --> 01:42:15,312
+Okay.
+Let's move him over.
+
+1252
+01:42:16,000 --> 01:42:17,800
+- There we go.
+- Turn him over.
+
+1253
+01:42:18,800 --> 01:42:19,949
+Come on.
+
+1254
+01:42:20,040 --> 01:42:21,951
+Okay, come on.
+
+1255
+01:42:22,120 --> 01:42:23,376
+Gardner.
+You can do it.
+
+1256
+01:42:23,400 --> 01:42:25,834
+Gardner! Gardner!
+
+1257
+01:42:26,000 --> 01:42:27,513
+Gardner, stay with me.
+
+1258
+01:42:27,800 --> 01:42:28,800
+Don't leave us!
+
+1259
+01:42:29,360 --> 01:42:30,952
+Come on. Come on.
+
+1260
+01:42:36,080 --> 01:42:37,513
+What was she like?
+
+1261
+01:42:41,080 --> 01:42:42,559
+My mother.
+
+1262
+01:42:49,080 --> 01:42:50,593
+She was fearless.
+
+1263
+01:42:51,680 --> 01:42:53,398
+She was kind.
+
+1264
+01:42:54,600 --> 01:42:59,071
+And she just
+seemed so invincible.
+
+1265
+01:43:02,600 --> 01:43:05,831
+And she made me wanna
+give up living when she died.
+
+1266
+01:43:09,440 --> 01:43:10,555
+You loved her.
+
+1267
+01:43:12,280 --> 01:43:13,280
+Yes.
+
+1268
+01:43:16,120 --> 01:43:17,553
+You're my father.
+
+1269
+01:43:19,120 --> 01:43:20,120
+Yes.
+
+1270
+01:43:23,520 --> 01:43:24,560
+There they are!
+
+1271
+01:43:25,120 --> 01:43:27,714
+Hurry! There's no time!
+
+1272
+01:43:29,880 --> 01:43:31,632
+I knew I would find you.
+
+1273
+01:43:31,800 --> 01:43:33,552
+You're gonna be okay.
+
+1274
+01:43:34,120 --> 01:43:35,439
+You're not alone.
+
+1275
+01:43:36,200 --> 01:43:37,599
+Stay with me, Gardner.
+
+1276
+01:43:39,040 --> 01:43:40,109
+Hurry!
+
+1277
+01:44:17,240 --> 01:44:19,276
+It's taking too long.
+
+1278
+01:44:19,480 --> 01:44:20,640
+His blood pressure's
+dropping.
+
+1279
+01:44:20,800 --> 01:44:22,597
+We have to get him
+out of our gravity.
+
+1280
+01:44:26,160 --> 01:44:27,832
+You have to take
+the plane higher.
+
+1281
+01:44:28,760 --> 01:44:30,318
+Do you understand
+what I'm saying?
+
+1282
+01:44:30,480 --> 01:44:31,595
+You know I can't do that.
+
+1283
+01:44:31,680 --> 01:44:33,750
+That's against
+all regulations.
+
+1284
+01:44:37,200 --> 01:44:38,599
+I'm taking control.
+
+1285
+01:44:41,840 --> 01:44:42,955
+What are you doing?
+
+1286
+01:44:43,640 --> 01:44:44,856
+I'm taking us into
+the stratosphere.
+
+1287
+01:44:44,880 --> 01:44:45,880
+Excuse me?
+
+1288
+01:44:47,040 --> 01:44:50,157
+Yeah, don't worry.
+She can handle it.
+
+1289
+01:44:50,880 --> 01:44:54,156
+Although I warn you, one of
+you may need to take over.
+
+1290
+01:44:54,320 --> 01:44:55,320
+One of us may need to...
+
+1291
+01:44:55,360 --> 01:44:57,157
+Yeah, there's a chance
+that I may die.
+
+1292
+01:44:57,800 --> 01:44:59,313
+But you've done this before?
+Yes.
+
+1293
+01:44:59,520 --> 01:45:00,714
+All the time.
+
+1294
+01:45:01,800 --> 01:45:02,800
+Virtually.
+
+1295
+01:45:02,960 --> 01:45:04,188
+Great.
+
+1296
+01:45:04,400 --> 01:45:05,799
+Buckle in.
+
+1297
+01:45:06,560 --> 01:45:08,198
+All right,
+let's buckle you in.
+
+1298
+01:45:08,800 --> 01:45:10,016
+Uh... Yeah, just get ready.
+Come on.
+
+1299
+01:45:10,040 --> 01:45:11,314
+Grab this strap
+right there.
+
+1300
+01:45:11,480 --> 01:45:13,471
+I have the aircraft.
+
+1301
+01:45:39,240 --> 01:45:40,878
+No, we gotta go higher.
+
+1302
+01:46:36,960 --> 01:46:38,632
+Try and wake him up.
+
+1303
+01:46:39,320 --> 01:46:42,551
+Gardner. Gardner,
+wake up! Gardner!
+
+1304
+01:46:45,320 --> 01:46:48,118
+No, no, no, no, no, no!
+
+1305
+01:46:48,280 --> 01:46:49,838
+Stay in. Stay in.
+I've got him.
+
+1306
+01:47:19,160 --> 01:47:20,434
+Are we on my planet?
+
+1307
+01:47:21,480 --> 01:47:22,480
+No.
+
+1308
+01:47:22,920 --> 01:47:24,911
+Are we on yours?
+
+1309
+01:47:26,280 --> 01:47:27,280
+No.
+
+1310
+01:47:30,360 --> 01:47:32,351
+Are you ever gonna
+stop slapping me?
+
+1311
+01:47:45,040 --> 01:47:46,314
+You have to go back.
+
+1312
+01:47:46,520 --> 01:47:49,557
+No, Tulsa, don't...
+I hate it. I hate it.
+
+1313
+01:47:50,840 --> 01:47:52,398
+But, Gardner, we both know
+
+1314
+01:47:54,200 --> 01:47:55,872
+you have to go back.
+
+1315
+01:47:57,960 --> 01:47:59,473
+I love you, Tulsa.
+
+1316
+01:48:00,960 --> 01:48:02,871
+And I love you.
+
+1317
+01:48:23,080 --> 01:48:24,080
+How's he doing?
+
+1318
+01:48:25,200 --> 01:48:26,918
+Stable, for now.
+
+1319
+01:48:27,080 --> 01:48:28,991
+It should buy us
+the time we need.
+
+1320
+01:48:29,160 --> 01:48:31,230
+And you? You okay?
+
+1321
+01:48:33,080 --> 01:48:34,991
+Apparently.
+
+1322
+01:48:36,000 --> 01:48:37,911
+This is good to know.
+Uh-huh.
+
+1323
+01:49:09,200 --> 01:49:10,918
+I'm gonna miss you, Gardner.
+
+1324
+01:49:11,800 --> 01:49:14,030
+More than anything else
+in the world.
+
+1325
+01:49:18,200 --> 01:49:19,235
+Me too.
+
+1326
+01:49:21,040 --> 01:49:22,917
+You're the best mom
+I never had.
+
+1327
+01:49:26,560 --> 01:49:28,710
+Safe travels, okay?
+
+1328
+01:49:36,640 --> 01:49:38,312
+Oh, miss. Hold up, miss.
+Hey!
+
+1329
+01:49:38,480 --> 01:49:40,311
+Miss, you can't
+go up there.
+
+1330
+01:49:45,080 --> 01:49:46,479
+Nice ride.
+
+1331
+01:49:48,920 --> 01:49:50,751
+Are you gonna be okay?
+
+1332
+01:49:55,000 --> 01:49:56,638
+You're amazing.
+
+1333
+01:49:58,080 --> 01:50:00,071
+And I had the time
+of my life with you.
+
+1334
+01:50:02,920 --> 01:50:06,515
+But the last thing I'm
+gonna do is actually tell you that.
+
+1335
+01:50:08,680 --> 01:50:10,511
+You just did.
+
+1336
+01:50:22,120 --> 01:50:26,033
+T-minus ten. Nine. Eight.
+
+1337
+01:50:26,640 --> 01:50:30,713
+Seven. Six. Five.
+
+1338
+01:50:31,120 --> 01:50:34,271
+Four. Three. Two.
+
+1339
+01:50:35,120 --> 01:50:37,634
+One. Zero.
+
+1340
+01:50:38,200 --> 01:50:41,033
+Ignition. Liftoff.
+
+1341
+01:51:12,160 --> 01:51:14,390
+Same time tomorrow?
+
+1342
+01:51:14,600 --> 01:51:16,238
+Works for me.
+
+1343
+01:51:17,440 --> 01:51:18,440
+Tulsa.
+
+1344
+01:51:19,680 --> 01:51:21,432
+You have a visitor.
+
+1345
+01:51:22,960 --> 01:51:23,960
+Um...
+
+1346
+01:51:24,600 --> 01:51:25,600
+Bye.
+
+1347
+01:51:25,760 --> 01:51:26,909
+Gotta go.
+
+1348
+01:51:35,200 --> 01:51:36,872
+Hey.
+Hi.
+
+1349
+01:51:39,680 --> 01:51:41,910
+So, as you probably know,
+I've retired from NASA.
+
+1350
+01:51:42,400 --> 01:51:44,038
+Well, not really.
+
+1351
+01:51:44,120 --> 01:51:46,270
+I'm running
+their training program now.
+
+1352
+01:51:46,600 --> 01:51:48,113
+And it's been great.
+
+1353
+01:51:48,360 --> 01:51:51,909
+I mean, getting re-accustomed to living
+on this planet's been a little trying.
+
+1354
+01:51:53,280 --> 01:51:55,271
+Anyway, um,
+I'm getting off track. Um...
+
+1355
+01:51:56,200 --> 01:51:58,031
+Since I couldn't
+spend any money on Mars,
+
+1356
+01:51:58,120 --> 01:52:00,429
+and I was up there
+for six years,
+
+1357
+01:52:00,600 --> 01:52:02,477
+it turns out
+I actually have a lot of it.
+
+1358
+01:52:02,640 --> 01:52:06,792
+So, I bought a ranch house
+in Boulder, Colorado.
+
+1359
+01:52:07,040 --> 01:52:10,316
+Mmm. I like to ski and the
+people are really nice.
+
+1360
+01:52:11,440 --> 01:52:15,149
+Yeah, it's a pretty big house.
+Gets lonely at times.
+
+1361
+01:52:16,480 --> 01:52:18,596
+Would you like to
+come live with me there?
+
+1362
+01:52:23,720 --> 01:52:25,153
+Are you getting paid?
+
+1363
+01:52:26,280 --> 01:52:27,395
+To take me?
+
+1364
+01:52:28,240 --> 01:52:29,309
+Oh, God, no.
+
+1365
+01:52:30,160 --> 01:52:31,752
+No.
+
+1366
+01:52:31,840 --> 01:52:34,149
+'Cause I age out
+in a month.
+
+1367
+01:52:35,640 --> 01:52:37,915
+Who said anything
+about only a month?
+
+1368
+01:53:00,280 --> 01:53:02,032
+I wanted to go to Earth.
+
+1369
+01:53:03,680 --> 01:53:06,353
+Not just to visit,
+but to live there.
+
+1370
+01:53:07,680 --> 01:53:09,113
+It turns out,
+
+1371
+01:53:09,280 --> 01:53:11,510
+people from Earth
+want exactly the same thing
+
+1372
+01:53:11,680 --> 01:53:12,954
+as people from Mars.
+
+1373
+01:53:14,480 --> 01:53:17,950
+And I should know, because I'm
+pretty sure I'm the only one.
+
+1374
+01:53:18,520 --> 01:53:19,635
+So far.
+
+1375
+01:53:22,160 --> 01:53:25,835
+I don't know which is better,
+but here's what I do know.
+
+1376
+01:53:27,360 --> 01:53:28,952
+It's good to be home.
+
+1376
+01:53:29,305 --> 01:54:29,869
+Please rate this subtitle at www.osdb.link/ujr8
+Help other users to choose the best subtitles
