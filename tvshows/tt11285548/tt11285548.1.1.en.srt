@@ -1,0 +1,3140 @@
+﻿1
+00:00:03,385 --> 00:00:05,183
+<font color="#ffffff">CAR RADIO PLAYS</font>
+
+2
+00:00:05,185 --> 00:00:07,903
+<font color="#ffffff">MAN: Are you happy to be back?</font>
+<font color="#ffffff">WOMAN:</font><font color="#ffff00"> Yes, I am, yup.</font>
+
+3
+00:00:07,905 --> 00:00:10,103
+<font color="#ffffff">Thank God they've done a good job.</font>
+<font color="#ffff00">Thank you, Robert.</font>
+
+4
+00:00:10,105 --> 00:00:12,183
+<font color="#ffffff">And thank Mark.</font><font color="#ffff00"> Thank Mark!</font>
+
+5
+00:00:12,185 --> 00:00:14,903
+<font color="#ffffff">Take care of yourselves,</font>
+<font color="#ffffff">take care of your neighbours</font>
+
+6
+00:00:14,905 --> 00:00:16,543
+<font color="#ffffff">and take extra care on the roads.</font>
+
+7
+00:00:16,545 --> 00:00:19,545
+<font color="#ffffff">MUSIC: It Won't Always Be Like This</font>
+<font color="#ffffff">by Inhaler</font>
+
+8
+00:00:22,265 --> 00:00:24,543
+<font color="#ffffff"># Girl, you know this ain't love</font>
+
+9
+00:00:24,545 --> 00:00:30,823
+<font color="#ffffff"># I'm just a bad old beggar</font>
+<font color="#ffffff">with nothing to do</font>
+
+10
+00:00:30,825 --> 00:00:32,463
+<font color="#ffffff"># It's on you</font>
+
+11
+00:00:32,465 --> 00:00:34,505
+<font color="#ffffff"># And, oh, what else can I do?</font>
+
+12
+00:00:37,305 --> 00:00:39,703
+<font color="#ffffff"># You say that you're not around</font>
+
+13
+00:00:39,705 --> 00:00:42,505
+<font color="#ffffff"># And you don't wanna be found</font>
+
+14
+00:00:44,385 --> 00:00:47,343
+<font color="#ffffff"># Well, I wanna be the best</font>
+<font color="#ffffff">at what I do</font>
+
+15
+00:00:47,345 --> 00:00:51,145
+<font color="#ffffff"># Oh, what about you?</font>
+<font color="#ffffff">What about you?</font>
+
+16
+00:00:52,265 --> 00:00:55,423
+<font color="#ffffff"># Play me like a record, baby</font>
+
+17
+00:00:55,425 --> 00:01:00,063
+<font color="#ffffff"># Spin me around,</font>
+<font color="#ffffff">turn me upside down</font>
+
+18
+00:01:00,065 --> 00:01:03,063
+<font color="#ffffff"># And you don't want me to</font>
+
+19
+00:01:03,065 --> 00:01:08,183
+<font color="#ffffff"># I'll pull the covers</font>
+<font color="#ffffff">right up over your head</font>
+
+20
+00:01:08,185 --> 00:01:09,783
+<font color="#ffffff"># You're in my head</font>
+
+21
+00:01:09,785 --> 00:01:14,463
+<font color="#ffffff"># It won't always be like this,</font>
+<font color="#ffffff">be like this</font>
+
+22
+00:01:14,465 --> 00:01:17,343
+<font color="#ffffff"># I'm dead, honey, I'll be dead</font>
+
+23
+00:01:17,345 --> 00:01:19,423
+<font color="#ffffff"># It won't always be like this</font>
+
+24
+00:01:19,425 --> 00:01:23,063
+<font color="#ffffff"># Always be like this... #</font>
+
+25
+00:01:23,065 --> 00:01:25,103
+<font color="#ffffff">MUSIC CONTAINS IN VENUE</font>
+
+26
+00:01:25,105 --> 00:01:27,425
+<font color="#ffffff">HUBBUB</font>
+
+27
+00:01:31,305 --> 00:01:32,705
+<font color="#ffff00">Daddy!</font>
+
+28
+00:01:34,025 --> 00:01:35,145
+<font color="#ffffff">Oh!</font>
+
+29
+00:01:36,505 --> 00:01:37,583
+<font color="#ffff00">You found it.</font>
+
+30
+00:01:37,585 --> 00:01:39,303
+<font color="#ffffff">There was an element of luck.</font>
+
+31
+00:01:39,305 --> 00:01:41,503
+<font color="#ffff00">Come meet Larry.</font>
+
+32
+00:01:41,505 --> 00:01:42,823
+<font color="#ffff00">Are you ready for this?</font>
+
+33
+00:01:42,825 --> 00:01:44,745
+<font color="#ffffff">Can I kill him if I don't like him?</font>
+
+34
+00:01:47,745 --> 00:01:49,663
+<font color="#ffffff">Larry, this is my dad.</font>
+
+35
+00:01:49,665 --> 00:01:52,183
+<font color="#00ffff">Yes, hi, Mr... Mr Brannick.</font>
+
+36
+00:01:52,185 --> 00:01:55,023
+<font color="#ffffff">For God's sake, Larry, it's Tom.</font>
+<font color="#ffffff">Call me Mr Brannick,</font>
+
+37
+00:01:55,025 --> 00:01:57,385
+<font color="#ffffff">I'll be looking over my</font>
+<font color="#ffffff">shoulder for my old man.</font>
+
+38
+00:01:58,505 --> 00:01:59,865
+<font color="#ffffff">Good to meet you.</font>
+
+39
+00:02:01,585 --> 00:02:04,263
+<font color="#ffffff">He's a nice lad.</font><font color="#ffff00"> Really?</font>
+
+40
+00:02:04,265 --> 00:02:05,945
+<font color="#ffff00">You like him?</font><font color="#ffffff"> I do.</font>
+
+41
+00:02:07,265 --> 00:02:08,465
+<font color="#ffffff">Oh!</font>
+
+42
+00:02:10,105 --> 00:02:11,663
+<font color="#ffffff">A little something.</font>
+
+43
+00:02:11,665 --> 00:02:13,585
+<font color="#ffff00">Can I open it now?</font><font color="#ffffff"> Mm-hm.</font>
+
+44
+00:02:15,000 --> 00:02:21,074
+OpenSubtitles recommends using Nord VPN
+from 3.49 USD/month ----> osdb.link/vpn
+
+45
+00:02:27,305 --> 00:02:29,063
+<font color="#ffff00">Daddy, this is yours.</font>
+
+46
+00:02:29,065 --> 00:02:30,703
+<font color="#ffffff">Your mum and I both had one.</font>
+
+47
+00:02:30,705 --> 00:02:32,303
+<font color="#ffff00">I know.</font>
+
+48
+00:02:32,305 --> 00:02:34,103
+<font color="#ffff00">But you can't give me this.</font>
+
+49
+00:02:34,105 --> 00:02:35,703
+<font color="#ffffff">I want to.</font>
+
+50
+00:02:35,705 --> 00:02:39,305
+<font color="#ffffff">Your mum used to say</font>
+<font color="#ffffff">it helped her see in the dark.</font>
+
+51
+00:02:41,305 --> 00:02:42,545
+<font color="#ffff00">Thank you.</font>
+
+52
+00:02:48,465 --> 00:02:49,865
+<font color="#ffff00">I love it.</font>
+
+53
+00:02:51,105 --> 00:02:53,145
+<font color="#ffffff">Happy birthday, sweetheart.</font>
+
+54
+00:02:57,905 --> 00:03:01,105
+<font color="#ffffff">PHONE VIBRATES</font>
+
+55
+00:03:02,945 --> 00:03:04,745
+<font color="#ffffff">HE GROANS</font>
+
+56
+00:03:06,185 --> 00:03:07,625
+<font color="#ffffff">Hello.</font>
+
+57
+00:03:13,065 --> 00:03:14,465
+<font color="#ffffff">How long ago?</font>
+
+58
+00:03:17,025 --> 00:03:18,625
+<font color="#ffffff">OK. I'll be there in an hour.</font>
+
+59
+00:03:35,265 --> 00:03:36,943
+<font color="#ffffff">I've got to go to work.</font>
+
+60
+00:03:36,945 --> 00:03:37,985
+<font color="#ffff00">OK.</font>
+
+61
+00:03:58,185 --> 00:04:01,385
+<font color="#ffffff">POLICE CHATTER OVER RADIO</font>
+
+62
+00:04:22,585 --> 00:04:25,465
+<font color="#ffffff">POLICE CHATTER OVER RADIO</font>
+
+63
+00:04:40,905 --> 00:04:44,943
+<font color="#ffff00">Make and model of the car</font>
+<font color="#ffff00">match those of Pat Keenan.</font>
+
+64
+00:04:44,945 --> 00:04:46,543
+<font color="#ffff00">Nobody saw it being dumped.</font>
+
+65
+00:04:46,545 --> 00:04:48,623
+<font color="#ffff00">The ferry crew were</font>
+<font color="#ffff00">the first to notice it</font>
+
+66
+00:04:48,625 --> 00:04:50,743
+<font color="#ffff00">on their way to work at around 7am.</font>
+
+67
+00:04:50,745 --> 00:04:54,425
+<font color="#ffff00">Then the call to us to say he'd been</font>
+<font color="#ffff00">kidnapped came in at around 7:30.</font>
+
+68
+00:04:55,785 --> 00:04:58,663
+<font color="#ffff00">Confirming it's his vehicle will</font>
+<font color="#ffff00">take a little longer without</font>
+
+69
+00:04:58,665 --> 00:05:02,223
+<font color="#ffff00">the numberplates.</font><font color="#ffffff"> No bodies,</font>
+<font color="#ffffff">explosives?</font><font color="#ffff00"> Divers found nothing.</font>
+
+70
+00:05:02,225 --> 00:05:04,065
+<font color="#ffffff">Let's listen to the phone call.</font>
+
+71
+00:05:07,305 --> 00:05:08,505
+<font color="#ffffff">WOMAN:</font><font color="#00ffff"> Police emergency.</font>
+
+72
+00:05:09,825 --> 00:05:11,463
+<font color="#ffffff">MAN:</font><font color="#00ff00"> I've taken Pat Keenan.</font>
+
+73
+00:05:11,465 --> 00:05:12,943
+<font color="#00ff00">This is Major White.</font>
+
+74
+00:05:12,945 --> 00:05:14,265
+<font color="#ffffff">HE HANGS UP</font>
+
+75
+00:05:28,745 --> 00:05:30,823
+<font color="#00ffff">Sir! It is his, sir!</font>
+
+76
+00:05:30,825 --> 00:05:32,625
+<font color="#00ffff">Patrick Jarlath Keenan!</font>
+
+77
+00:05:36,465 --> 00:05:38,663
+<font color="#ffffff">Let's issue a missing</font>
+<font color="#ffffff">person's report.</font>
+
+78
+00:05:38,665 --> 00:05:41,065
+<font color="#ffffff">And his address is flagged</font>
+<font color="#ffffff">in the system.</font><font color="#ffff00"> Sure.</font><font color="#00ff00"> Sir.</font>
+
+79
+00:05:49,025 --> 00:05:50,583
+<font color="#ffff00">Sir?</font>
+
+80
+00:05:50,585 --> 00:05:52,823
+<font color="#ffffff">Make sure everyone</font>
+<font color="#ffffff">has a photo of Keenan.</font>
+
+81
+00:05:52,825 --> 00:05:54,545
+<font color="#ffff00">Something wrong?</font>
+
+82
+00:05:57,425 --> 00:05:58,985
+<font color="#ffffff">Bring everyone over.</font>
+
+83
+00:06:00,065 --> 00:06:01,545
+<font color="#ffff00">All right, everybody!</font>
+
+84
+00:06:05,905 --> 00:06:09,383
+<font color="#ffff00">Pat Keenan, 48,</font>
+<font color="#ffff00">married, three children,</font>
+
+85
+00:06:09,385 --> 00:06:11,263
+<font color="#ffff00">runs a successful haulage business.</font>
+
+86
+00:06:11,265 --> 00:06:14,665
+<font color="#ffff00">He also has a past as a senior</font>
+<font color="#ffff00">member of the IRA.</font>
+
+87
+00:06:16,265 --> 00:06:18,743
+<font color="#ffff00">His disappearance</font>
+<font color="#ffff00">could well be political.</font>
+
+88
+00:06:18,745 --> 00:06:20,623
+<font color="#ffff00">It could also be gang-related.</font>
+
+89
+00:06:20,625 --> 00:06:23,305
+<font color="#ffff00">Keenan is known to have</font>
+<font color="#ffff00">connections in organised crime.</font>
+
+90
+00:06:24,425 --> 00:06:27,623
+<font color="#00ffff">Could they not just be joyriders?</font>
+<font color="#00ffff">If the call was wee lads?</font>
+
+91
+00:06:27,625 --> 00:06:30,903
+<font color="#ffff00">They used a paramilitary</font>
+<font color="#ffff00">authenticating code</font>
+
+92
+00:06:30,905 --> 00:06:33,223
+<font color="#ffff00">which makes that unlikely.</font>
+<font color="#ffff00">We're looking into it.</font>
+
+93
+00:06:33,225 --> 00:06:36,743
+<font color="#ffffff">Make no mistake - the people Keenan</font>
+<font color="#ffffff">was associated with in the past</font>
+
+94
+00:06:36,745 --> 00:06:40,263
+<font color="#ffffff">and the ones he's involved</font>
+<font color="#ffffff">with now are an unsavoury bunch.</font>
+
+95
+00:06:40,265 --> 00:06:43,303
+<font color="#ffffff">I shouldn't need to remind you</font>
+<font color="#ffffff">that the lines between gang-related</font>
+
+96
+00:06:43,305 --> 00:06:46,023
+<font color="#ffffff">activities and political</font>
+<font color="#ffffff">paramilitaries are blurred at best,</font>
+
+97
+00:06:46,025 --> 00:06:47,663
+<font color="#ffffff">so tread carefully.</font>
+
+98
+00:06:47,665 --> 00:06:49,663
+<font color="#ffffff">Whoever his associates are,</font>
+<font color="#ffffff">we'd expect them</font>
+
+99
+00:06:49,665 --> 00:06:51,463
+<font color="#ffffff">to be looking for him already.</font>
+
+100
+00:06:51,465 --> 00:06:52,825
+<font color="#ffffff">No. Hold tight on that.</font>
+
+101
+00:06:54,265 --> 00:06:55,663
+<font color="#ffffff">Take his life apart.</font>
+
+102
+00:06:55,665 --> 00:06:57,943
+<font color="#ffffff">See what you can find</font>
+<font color="#ffffff">that might point to this.</font>
+
+103
+00:06:57,945 --> 00:07:02,345
+<font color="#ffffff">Phone, financial records, personal</font>
+<font color="#ffffff">life, work. OK?</font><font color="#ffff00"> All right!</font>
+
+104
+00:07:03,785 --> 00:07:05,543
+<font color="#ffff00">Birdy, go down the shops</font>
+<font color="#ffff00">and houses and see</font>
+
+105
+00:07:05,545 --> 00:07:08,025
+<font color="#ffff00">if there's any CCTV</font>
+<font color="#ffff00">over the road into the village.</font>
+
+106
+00:07:12,825 --> 00:07:14,583
+<font color="#ffff00">Is there something you're not</font>
+<font color="#ffff00">telling me?</font>
+
+107
+00:07:14,585 --> 00:07:16,065
+<font color="#ffffff">Yes. Carry on.</font>
+
+108
+00:07:27,385 --> 00:07:29,585
+<font color="#ffffff">PHONE RINGS</font>
+
+109
+00:07:31,585 --> 00:07:33,025
+<font color="#00ffff">DCS Twomey.</font>
+
+110
+00:07:35,225 --> 00:07:36,585
+<font color="#00ffff">Jesus Christ!</font>
+
+111
+00:07:37,665 --> 00:07:38,705
+<font color="#00ffff">Tom Brannick!</font>
+
+112
+00:07:39,985 --> 00:07:42,745
+<font color="#00ffff">Talk about a blast</font>
+<font color="#00ffff">from the proverbial!</font>
+
+113
+00:07:45,145 --> 00:07:46,385
+<font color="#00ffff">I can indeed.</font>
+
+114
+00:07:48,225 --> 00:07:49,585
+<font color="#00ffff">I'll see you there.</font>
+
+115
+00:08:19,705 --> 00:08:22,505
+<font color="#ffffff">SHIP'S HORN BLASTS IN DISTANCE</font>
+
+116
+00:08:24,705 --> 00:08:25,865
+<font color="#00ffff">Come here!</font>
+
+117
+00:08:30,105 --> 00:08:31,663
+<font color="#00ffff">How's Izzy?</font>
+
+118
+00:08:31,665 --> 00:08:33,943
+<font color="#ffffff">She's third year medicine</font>
+<font color="#ffffff">at Queen's.</font>
+
+119
+00:08:33,945 --> 00:08:35,185
+<font color="#00ffff">You've done a grand job.</font>
+
+120
+00:08:37,865 --> 00:08:41,785
+<font color="#00ffff">I drove past 19 pubs on the way in,</font>
+<font color="#00ffff">why'd you want to meet here?</font>
+
+121
+00:08:50,945 --> 00:08:54,505
+<font color="#ffffff">The postcard was taped inside the</font>
+<font color="#ffffff">wing mirror of Pat Keenan's car.</font>
+
+122
+00:09:00,185 --> 00:09:02,103
+<font color="#ffffff">WOMAN:</font><font color="#ffff00"> Police emergency.</font>
+
+123
+00:09:02,105 --> 00:09:04,143
+<font color="#ffffff">MAN:</font><font color="#00ff00"> I've taken Pat Keenan.</font>
+
+124
+00:09:04,145 --> 00:09:05,863
+<font color="#00ff00">This is Major White.</font>
+
+125
+00:09:05,865 --> 00:09:09,783
+<font color="#00ffff">Major White?</font><font color="#ffffff"> It's in the form</font>
+<font color="#ffffff">of a loyalist Parliamentary code.</font>
+
+126
+00:09:09,785 --> 00:09:11,783
+<font color="#ffffff">We're looking into it.</font>
+
+127
+00:09:11,785 --> 00:09:13,343
+<font color="#00ffff">It was never proved</font>
+
+128
+00:09:13,345 --> 00:09:15,865
+<font color="#00ffff">but God help us if it's Goliath.</font>
+
+129
+00:09:22,465 --> 00:09:24,223
+<font color="#00ffff">Who else has seen the postcard?</font>
+
+130
+00:09:24,225 --> 00:09:26,943
+<font color="#ffffff">Niamh, and the CSIs</font>
+<font color="#ffffff">at the scene.</font><font color="#00ffff"> Niamh?</font>
+
+131
+00:09:26,945 --> 00:09:29,463
+<font color="#ffffff">My DS, Niamh McGovern.</font>
+
+132
+00:09:29,465 --> 00:09:30,985
+<font color="#ffffff">We have to look into it.</font>
+
+133
+00:09:32,905 --> 00:09:35,343
+<font color="#00ffff">It's more complicated than that.</font>
+<font color="#ffffff">Why?</font>
+
+134
+00:09:35,345 --> 00:09:37,543
+<font color="#00ffff">The fact that Pat Keenan</font>
+<font color="#00ffff">is your missing person...</font>
+
+135
+00:09:37,545 --> 00:09:39,183
+<font color="#ffffff">You were on the Goliath case before.</font>
+
+136
+00:09:39,185 --> 00:09:41,943
+<font color="#ffffff">The senior shut you down,</font>
+<font color="#ffffff">now you're one of the seniors.</font>
+
+137
+00:09:41,945 --> 00:09:45,343
+<font color="#ffffff">You can go after it!</font><font color="#00ffff"> Tom, you know</font>
+<font color="#00ffff">yourself, as soon as word gets out</font>
+
+138
+00:09:45,345 --> 00:09:48,505
+<font color="#00ffff">that an ex-IRA man's gone missing,</font>
+<font color="#00ffff">all hell could break loose.</font>
+
+139
+00:09:49,745 --> 00:09:52,345
+<font color="#00ffff">You start adding all this,</font>
+<font color="#00ffff">you'll start a war!</font>
+
+140
+00:09:53,865 --> 00:09:56,103
+<font color="#00ffff">It's in the past.</font>
+
+141
+00:09:56,105 --> 00:09:57,185
+<font color="#00ffff">Best left there.</font>
+
+142
+00:09:58,625 --> 00:09:59,665
+<font color="#ffffff">Not for me.</font>
+
+143
+00:10:01,505 --> 00:10:02,705
+<font color="#00ffff">Life must go on, Tom.</font>
+
+144
+00:10:06,625 --> 00:10:08,145
+<font color="#00ffff">Nothing's going to bring her back.</font>
+
+145
+00:10:09,625 --> 00:10:10,745
+<font color="#00ffff">Think of Izzy.</font>
+
+146
+00:10:11,985 --> 00:10:14,225
+<font color="#00ffff">You've raised her in a world</font>
+<font color="#00ffff">without all this.</font>
+
+147
+00:10:19,025 --> 00:10:20,185
+<font color="#00ffff">Just...</font>
+
+148
+00:10:21,505 --> 00:10:22,545
+<font color="#00ffff">..find Pat Keenan.</font>
+
+149
+00:10:24,185 --> 00:10:26,105
+<font color="#00ffff">Don't go down any other roads.</font>
+
+150
+00:10:28,225 --> 00:10:29,825
+<font color="#00ffff">You don't know where they lead.</font>
+
+151
+00:10:47,705 --> 00:10:51,343
+<font color="#ffff00">Just his car in the water</font>
+<font color="#ffff00">and no sign of him?</font><font color="#ffffff"> No, ma'am.</font>
+
+152
+00:10:51,345 --> 00:10:52,665
+<font color="#ffff00">Nothing else?</font>
+
+153
+00:10:54,265 --> 00:10:57,223
+<font color="#00ffff">There was a postcard</font>
+<font color="#00ffff">taped to the wing mirror.</font>
+
+154
+00:10:57,225 --> 00:10:58,665
+<font color="#00ffff">No message.</font>
+
+155
+00:10:59,945 --> 00:11:01,703
+<font color="#ffff00">Does this postcard have a picture?</font>
+
+156
+00:11:01,705 --> 00:11:03,383
+<font color="#ffffff">The cranes of Harland & Wolff.</font>
+
+157
+00:11:03,385 --> 00:11:05,623
+<font color="#ffffff">I've been there to check it out</font>
+<font color="#ffffff">but nothing.</font>
+
+158
+00:11:05,625 --> 00:11:08,303
+<font color="#00ffff">But the fact that the numberplates</font>
+<font color="#00ffff">are missing as well, ma'am,</font>
+
+159
+00:11:08,305 --> 00:11:10,023
+<font color="#00ffff">we're into something here,</font>
+
+160
+00:11:10,025 --> 00:11:11,745
+<font color="#00ffff">we just don't know what it is yet.</font>
+
+161
+00:11:13,065 --> 00:11:14,703
+<font color="#ffff00">So what do you want to do next?</font>
+
+162
+00:11:14,705 --> 00:11:16,383
+<font color="#ffffff">Go see the wife, Claire Keenan.</font>
+
+163
+00:11:16,385 --> 00:11:17,863
+<font color="#ffff00">Has she reported him missing?</font>
+
+164
+00:11:17,865 --> 00:11:19,345
+<font color="#00ffff">Not yet.</font>
+
+165
+00:11:20,545 --> 00:11:24,063
+<font color="#ffff00">I suppose even if she wanted to,</font>
+<font color="#ffff00">she wouldn't report it to us,</font>
+
+166
+00:11:24,065 --> 00:11:26,623
+<font color="#ffff00">she'd go to her own people.</font>
+<font color="#ffffff">I agree, ma'am,</font>
+
+167
+00:11:26,625 --> 00:11:29,263
+<font color="#ffffff">but we still need to find out</font>
+<font color="#ffffff">what we can from her.</font><font color="#ffff00"> I know.</font>
+
+168
+00:11:29,265 --> 00:11:31,663
+<font color="#ffff00">We need to mind</font>
+<font color="#ffff00">what we're walking into.</font>
+
+169
+00:11:31,665 --> 00:11:35,023
+<font color="#ffff00">We have a side of our community</font>
+<font color="#ffff00">that looks at us as the enemy</font>
+
+170
+00:11:35,025 --> 00:11:38,065
+<font color="#ffff00">and the Keenans are right</font>
+<font color="#ffff00">at the very heart of that.</font>
+
+171
+00:11:53,905 --> 00:11:55,583
+<font color="#ffffff">When did you last see him?</font>
+
+172
+00:11:55,585 --> 00:11:58,465
+<font color="#00ffff">Yesterday. Morning.</font>
+<font color="#ffffff">Are there any witnesses to that?</font>
+
+173
+00:11:59,905 --> 00:12:01,623
+<font color="#00ffff">I'm his wife.</font><font color="#ffff00"> Mrs Keenan...</font>
+
+174
+00:12:01,625 --> 00:12:06,103
+<font color="#00ffff">Sorry, do we need witnesses now</font>
+<font color="#00ffff">to married life?</font><font color="#ffff00"> Mrs Keenan...</font>
+
+175
+00:12:06,105 --> 00:12:09,105
+<font color="#00ffff">Or maybe it's just</font>
+<font color="#00ffff">the Catholics that do.</font>
+
+176
+00:12:11,025 --> 00:12:14,145
+<font color="#ffff00">Has anyone contacted you</font>
+<font color="#ffff00">about your husband?</font><font color="#00ffff"> No.</font>
+
+177
+00:12:15,345 --> 00:12:18,543
+<font color="#00ffff">What was his car doing in the water?</font>
+<font color="#ffff00">We don't know that yet.</font>
+
+178
+00:12:18,545 --> 00:12:19,785
+<font color="#00ffff">Is he dead?</font>
+
+179
+00:12:21,145 --> 00:12:22,543
+<font color="#ffffff">We can't speculate.</font>
+
+180
+00:12:22,545 --> 00:12:24,065
+<font color="#00ffff">Well, what CAN you do?</font>
+
+181
+00:12:26,865 --> 00:12:29,863
+<font color="#00ffff">Right, I am not waiting</font>
+<font color="#00ffff">for you lot to solve this.</font>
+
+182
+00:12:29,865 --> 00:12:32,743
+<font color="#ffffff">You have a much better chance with</font>
+<font color="#ffffff">us than you do with anyone else.</font>
+
+183
+00:12:32,745 --> 00:12:35,583
+<font color="#ffff00">Mrs Keenan, in cases such as these,</font>
+
+184
+00:12:35,585 --> 00:12:37,943
+<font color="#ffff00">it's best not to tell anyone.</font>
+
+185
+00:12:37,945 --> 00:12:40,663
+<font color="#ffff00">People could take the law</font>
+<font color="#ffff00">into their own hands,</font>
+
+186
+00:12:40,665 --> 00:12:43,703
+<font color="#ffff00">we risk a much more</font>
+<font color="#ffff00">volatile situation.</font>
+
+187
+00:12:43,705 --> 00:12:46,425
+<font color="#ffff00">And you could put your husband</font>
+<font color="#ffff00">in more danger.</font>
+
+188
+00:12:58,545 --> 00:12:59,585
+<font color="#ffffff">Um...</font>
+
+189
+00:13:00,665 --> 00:13:01,783
+<font color="#ffffff">..do you have a toilet?</font>
+
+190
+00:13:01,785 --> 00:13:03,465
+<font color="#00ffff">No, we shit in our hands.</font>
+
+191
+00:13:05,785 --> 00:13:07,545
+<font color="#00ffff">Outside, under the block.</font>
+
+192
+00:13:41,705 --> 00:13:43,945
+<font color="#00ffff">He went up yesterday morning.</font>
+
+193
+00:13:46,145 --> 00:13:48,023
+<font color="#00ffff">For a conference.</font>
+
+194
+00:13:48,025 --> 00:13:50,663
+<font color="#00ffff">And he sent me a text in</font>
+<font color="#00ffff">the afternoon to say that</font>
+
+195
+00:13:50,665 --> 00:13:53,425
+<font color="#00ffff">something had come up and he was</font>
+<font color="#00ffff">going to be staying in Belfast.</font>
+
+196
+00:13:54,545 --> 00:13:56,063
+<font color="#ffff00">Did he say where?</font>
+
+197
+00:13:56,065 --> 00:13:57,385
+<font color="#00ffff">The Europa.</font>
+
+198
+00:14:08,385 --> 00:14:11,305
+<font color="#ffff00">Is your husband the type</font>
+<font color="#ffff00">of man to keep secrets?</font>
+
+199
+00:14:12,425 --> 00:14:15,023
+<font color="#00ffff">In what way?</font><font color="#ffff00"> I mean...</font>
+
+200
+00:14:15,025 --> 00:14:17,785
+<font color="#ffff00">..secrets that might</font>
+<font color="#ffff00">be about his past?</font>
+
+201
+00:14:20,505 --> 00:14:22,823
+<font color="#ffff00">Other women...</font><font color="#00ffff"> No.</font>
+
+202
+00:14:22,825 --> 00:14:26,063
+<font color="#ffff00">It could be just the smallest...</font>
+<font color="#00ffff">I said no.</font>
+
+203
+00:14:26,065 --> 00:14:28,505
+<font color="#ffffff">DRAWERS SLAM</font>
+
+204
+00:14:55,665 --> 00:14:56,905
+<font color="#00ff00">What you doing?</font>
+
+205
+00:15:00,945 --> 00:15:02,265
+<font color="#ffffff">Niamh.</font>
+
+206
+00:15:07,265 --> 00:15:09,063
+<font color="#ffffff">HE WHISPERS</font>
+
+207
+00:15:09,065 --> 00:15:10,783
+<font color="#ffffff">WHISPERS:</font><font color="#00ffff"> I fucking knew it.</font>
+
+208
+00:15:10,785 --> 00:15:14,663
+<font color="#00ffff">I couldn't trust youse as far as</font>
+<font color="#00ffff">I could throw youse. Get out. Out!</font>
+
+209
+00:15:14,665 --> 00:15:17,265
+<font color="#ffff00">Mrs Keenan...</font><font color="#00ffff"> Both of you! Now!</font>
+
+210
+00:15:19,225 --> 00:15:21,863
+<font color="#ffff00">She'd never tell if her husband</font>
+<font color="#ffff00">was up to something.</font>
+
+211
+00:15:21,865 --> 00:15:25,225
+<font color="#ffffff">Pat had a hospital appointment</font>
+<font color="#ffffff">at noon yesterday. The Royal.</font>
+
+212
+00:15:29,065 --> 00:15:32,145
+<font color="#ffffff">LINE RINGS</font>
+
+213
+00:15:42,145 --> 00:15:45,303
+<font color="#ffff00">We're making enquiries about</font>
+<font color="#ffff00">a patient called Patrick Keenan.</font>
+
+214
+00:15:45,305 --> 00:15:48,943
+<font color="#ffff00">He was referred by his GP</font>
+<font color="#ffff00">for blurred vision.</font><font color="#00ffff"> Certainly.</font>
+
+215
+00:15:48,945 --> 00:15:50,583
+<font color="#00ffff">Take a seat.</font>
+
+216
+00:15:50,585 --> 00:15:51,625
+<font color="#ffffff">PHONE NOTIFICATION</font>
+
+217
+00:15:55,065 --> 00:15:58,063
+<font color="#ffff00">Got a message from a friend</font>
+<font color="#ffff00">in a local policing team.</font>
+
+218
+00:15:58,065 --> 00:16:01,385
+<font color="#ffff00">Apparently, Keenan has a bit of</font>
+<font color="#ffff00">a reputation in the area.</font><font color="#ffffff"> For?</font>
+
+219
+00:16:02,985 --> 00:16:04,905
+<font color="#ffff00">Word is he's a bit of a ladies' man.</font>
+
+220
+00:16:06,865 --> 00:16:08,823
+<font color="#ffff00">Sometimes he pays for it.</font>
+
+221
+00:16:08,825 --> 00:16:10,903
+<font color="#ffffff">No surprise.</font>
+
+222
+00:16:10,905 --> 00:16:13,225
+<font color="#ffffff">THUNDER RUMBLES</font>
+
+223
+00:16:42,105 --> 00:16:46,303
+<font color="#00ffff">Yes, this is DCS Twomey.</font>
+<font color="#00ffff">Our people down at Dunfolan</font>
+
+224
+00:16:46,305 --> 00:16:49,745
+<font color="#00ffff">have a missing-persons case -</font>
+<font color="#00ffff">a Pat or a Patrick Keenan.</font>
+
+225
+00:16:51,105 --> 00:16:54,385
+<font color="#00ffff">Yeah, could I get everything on</font>
+<font color="#00ffff">that as soon as possible, please?</font>
+
+226
+00:16:55,345 --> 00:16:57,063
+<font color="#00ffff">Thanks.</font>
+
+227
+00:16:57,065 --> 00:17:00,063
+<font color="#ffffff">Well, that was a waste of time.</font>
+<font color="#ffff00">Whoever invented</font>
+
+228
+00:17:00,065 --> 00:17:02,705
+<font color="#ffff00">patient confidentiality</font>
+<font color="#ffff00">wasn't in the police.</font>
+
+229
+00:17:04,745 --> 00:17:10,103
+<font color="#ffff00">"Causes of blurred vision."</font>
+<font color="#ffff00">Astigmatism. Pr...presbyopia?</font>
+
+230
+00:17:10,105 --> 00:17:11,503
+<font color="#ffff00">What's that?</font>
+
+231
+00:17:11,505 --> 00:17:14,023
+<font color="#ffffff">Something to do with Presbyterians?</font>
+<font color="#ffffff">SHE CHUCKLES</font>
+
+232
+00:17:14,025 --> 00:17:18,423
+<font color="#ffff00">It can also be caused by</font>
+<font color="#ffff00">dry eyes, pregnancy, migraines.</font>
+
+233
+00:17:18,425 --> 00:17:20,945
+<font color="#ffffff">How do we get</font>
+<font color="#ffffff">out of this place, then?</font>
+
+234
+00:17:21,905 --> 00:17:23,465
+<font color="#ffffff">Down here?</font>
+
+235
+00:17:30,345 --> 00:17:32,303
+<font color="#ffffff">Will this lift get us out?</font>
+
+236
+00:17:32,305 --> 00:17:34,903
+<font color="#00ffff">Aye, it will.</font>
+
+237
+00:17:34,905 --> 00:17:38,983
+<font color="#00ffff">You visiting?</font><font color="#ffff00"> Er, no, we're police.</font>
+<font color="#ffff00">Just asking a few questions.</font>
+
+238
+00:17:38,985 --> 00:17:42,065
+<font color="#00ffff">Oh, police? I apologise in advance.</font>
+
+239
+00:17:43,025 --> 00:17:46,863
+<font color="#00ffff">Probably come across a few of</font>
+<font color="#00ffff">my students.</font><font color="#ffffff"> Are you at Queen's?</font>
+
+240
+00:17:46,865 --> 00:17:50,703
+<font color="#00ffff">Just starting, God help me.</font>
+<font color="#ffffff">My daughter's third-year medicine.</font>
+
+241
+00:17:50,705 --> 00:17:52,703
+<font color="#00ffff">What's her name?</font>
+<font color="#00ffff">And I'll keep an eye out for her.</font>
+
+242
+00:17:52,705 --> 00:17:56,505
+<font color="#ffffff">Izzy Brannick. She'll be the one</font>
+<font color="#ffffff">chewing your ear off.</font>
+
+243
+00:17:59,385 --> 00:18:02,303
+<font color="#00ffff">Here we are now.</font>
+<font color="#ffffff">Let me ask you something.</font>
+
+244
+00:18:02,305 --> 00:18:06,063
+<font color="#ffffff">Why would somebody - er, a</font>
+<font color="#ffffff">middle-aged man, say -</font>
+
+245
+00:18:06,065 --> 00:18:07,425
+<font color="#ffffff">a ladies' man...</font>
+
+246
+00:18:08,385 --> 00:18:11,185
+<font color="#ffffff">Why would they be suffering</font>
+<font color="#ffffff">from blurred vision?</font>
+
+247
+00:18:12,465 --> 00:18:15,183
+<font color="#00ffff">It's not really</font>
+<font color="#00ffff">my area of expertise.</font>
+
+248
+00:18:15,185 --> 00:18:19,263
+<font color="#00ffff">I mean, I'm a trauma consultant.</font>
+<font color="#00ffff">But a ladies' man?</font>
+
+249
+00:18:19,265 --> 00:18:20,985
+<font color="#00ffff">Sure he doesn't have syphilis?</font>
+
+250
+00:18:22,225 --> 00:18:25,183
+<font color="#00ffff">I mean, he could also be</font>
+<font color="#00ffff">taking too much Viagra.</font>
+
+251
+00:18:25,185 --> 00:18:26,785
+<font color="#ffffff">That affects your eyesight?</font>
+
+252
+00:18:27,745 --> 00:18:29,625
+<font color="#00ffff">Let that be a warning to you.</font>
+
+253
+00:18:33,545 --> 00:18:35,105
+<font color="#ffffff">Thank you.</font>
+
+254
+00:18:38,265 --> 00:18:40,745
+<font color="#ffffff">GATES CREAK</font>
+
+255
+00:18:45,225 --> 00:18:47,705
+<font color="#ffffff">SIREN WAILS</font>
+
+256
+00:18:53,385 --> 00:18:56,423
+<font color="#00ff00">Jambo bastard!</font><font color="#ffffff"> Shit!</font>
+
+257
+00:18:56,425 --> 00:18:58,143
+<font color="#00ff00">Fucking Prod!</font>
+
+258
+00:18:58,145 --> 00:18:59,943
+<font color="#ffff00">Uniform from Sierra Romeo 45.</font>
+
+259
+00:18:59,945 --> 00:19:01,983
+<font color="#ffff00">Sitrep Dunfolan Police Station.</font>
+
+260
+00:19:01,985 --> 00:19:03,983
+<font color="#ffff00">Attack, two petrol bombs,</font>
+<font color="#ffff00">two male...</font>
+
+261
+00:19:03,985 --> 00:19:06,705
+<font color="#ffffff">Some help here!</font>
+<font color="#ffff00">..running towards New Street.</font>
+
+262
+00:19:09,745 --> 00:19:12,183
+<font color="#ffffff">It's going to be OK. I've got you.</font>
+
+263
+00:19:12,185 --> 00:19:14,543
+<font color="#ffffff">SHOUTING</font>
+
+264
+00:19:14,545 --> 00:19:16,385
+<font color="#ffffff">Some help here!</font>
+
+265
+00:19:20,825 --> 00:19:23,743
+<font color="#ffffff">You're all right,</font>
+<font color="#ffffff">you're all right. Up, up, up.</font>
+
+266
+00:19:23,745 --> 00:19:26,143
+<font color="#00ffff">Let's clear that away</font>
+<font color="#00ffff">as quickly as possible.</font>
+
+267
+00:19:26,145 --> 00:19:29,903
+<font color="#00ffff">I want a TST on standby</font>
+<font color="#00ffff">in case of any follow-up.</font>
+
+268
+00:19:29,905 --> 00:19:32,263
+<font color="#ffffff">Get him inside.</font>
+
+269
+00:19:32,265 --> 00:19:34,103
+<font color="#ffffff">Niamh, grab Birdy, set up a room</font>
+
+270
+00:19:34,105 --> 00:19:36,543
+<font color="#ffffff">with some privacy.</font>
+<font color="#ffffff">Let's get to work, OK?</font>
+
+271
+00:19:36,545 --> 00:19:39,743
+<font color="#00ffff">Tom?</font><font color="#ffffff"> Ma'am.</font><font color="#00ffff"> You saw it happen?</font>
+<font color="#ffffff">Yeah. Because of us.</font>
+
+272
+00:19:39,745 --> 00:19:41,943
+<font color="#ffffff">It's because we went to see</font>
+<font color="#ffffff">Mrs Keenan.</font><font color="#00ffff"> How do you know?</font>
+
+273
+00:19:41,945 --> 00:19:44,783
+<font color="#ffffff">She convinced herself that we've</font>
+<font color="#ffffff">no interest in finding her husband.</font>
+
+274
+00:19:44,785 --> 00:19:46,943
+<font color="#ffffff">She's managed to convince</font>
+<font color="#ffffff">the lot that did this, too.</font>
+
+275
+00:19:46,945 --> 00:19:49,743
+<font color="#00ffff">What are you doing about it?</font><font color="#ffffff"> We're</font>
+<font color="#ffffff">pursuing the leads that we do have.</font>
+
+276
+00:19:49,745 --> 00:19:53,425
+<font color="#ffffff">Nothing concrete yet.</font><font color="#00ffff"> All right,</font>
+<font color="#00ffff">Tom. Get on with it.</font><font color="#ffffff"> Ma'am.</font>
+
+277
+00:19:55,825 --> 00:19:57,825
+<font color="#00ffff">I need two more over here now!</font>
+
+278
+00:19:58,785 --> 00:20:02,425
+<font color="#00ffff">That's good. Good.</font>
+<font color="#00ffff">Keep on going, keep on going!</font>
+
+279
+00:20:07,065 --> 00:20:09,343
+<font color="#ffffff">ON PHONE:</font><font color="#ffff00"> Police emergency.</font>
+
+280
+00:20:09,345 --> 00:20:11,183
+<font color="#00ff00">I've taken Pat Keenan.</font>
+
+281
+00:20:11,185 --> 00:20:12,463
+<font color="#00ff00">This is Major White.</font>
+
+282
+00:20:12,465 --> 00:20:14,783
+<font color="#ffffff">Major White was a code used by</font>
+<font color="#ffffff">loyalist paramilitaries</font>
+
+283
+00:20:14,785 --> 00:20:16,183
+<font color="#ffffff">in the early '90s.</font>
+
+284
+00:20:16,185 --> 00:20:18,783
+<font color="#ffffff">The last person to use it</font>
+<font color="#ffffff">is long since dead, and the kid</font>
+
+285
+00:20:18,785 --> 00:20:22,223
+<font color="#ffffff">whose voice we can hear was no doubt</font>
+<font color="#ffffff">slipped a 20 to make the call.</font>
+
+286
+00:20:22,225 --> 00:20:25,823
+<font color="#ffff00">The handset was wiped clean. There's</font>
+<font color="#ffff00">nothing on it that we can use.</font>
+
+287
+00:20:25,825 --> 00:20:29,583
+<font color="#ffff00">Keenan told his wife he was staying</font>
+<font color="#ffff00">in a hotel in Belfast.</font><font color="#ffffff"> And?</font>
+
+288
+00:20:29,585 --> 00:20:32,383
+<font color="#ffff00">He never booked it.</font>
+<font color="#ffff00">We have a copy of his joint account</font>
+
+289
+00:20:32,385 --> 00:20:35,663
+<font color="#ffff00">statement, his personal account.</font>
+<font color="#ffff00">Nothing of note.</font>
+
+290
+00:20:35,665 --> 00:20:38,423
+<font color="#ffff00">We know that he was IRA</font>
+<font color="#ffff00">over 20 years ago,</font>
+
+291
+00:20:38,425 --> 00:20:41,223
+<font color="#ffff00">but there's been</font>
+<font color="#ffff00">no overt activity since.</font>
+
+292
+00:20:41,225 --> 00:20:42,903
+<font color="#ffff00">Most of his contacts from those days</font>
+
+293
+00:20:42,905 --> 00:20:45,743
+<font color="#ffff00">have moved into</font>
+<font color="#ffff00">"legit" businesses, anyway.</font>
+
+294
+00:20:45,745 --> 00:20:48,583
+<font color="#ffff00">Int Hub have confirmed</font>
+<font color="#ffff00">he's not on their radar.</font>
+
+295
+00:20:48,585 --> 00:20:50,463
+<font color="#ffffff">Birdy, any CCTV into the village?</font>
+
+296
+00:20:50,465 --> 00:20:51,783
+<font color="#00ff00">Nothing.</font>
+
+297
+00:20:51,785 --> 00:20:54,423
+<font color="#ffffff">And his hospital appointment raises</font>
+<font color="#ffffff">the possibility that he has</font>
+
+298
+00:20:54,425 --> 00:20:56,103
+<font color="#ffffff">an illicit sex life.</font>
+
+299
+00:20:56,105 --> 00:20:57,743
+<font color="#00ff00">That guy?</font>
+
+300
+00:20:57,745 --> 00:20:59,983
+<font color="#ffff00">He's known to pay for it.</font>
+
+301
+00:20:59,985 --> 00:21:01,465
+<font color="#00ff00">How much?</font>
+
+302
+00:21:03,825 --> 00:21:06,343
+<font color="#ffff00">He gets it half-price</font>
+<font color="#ffff00">with his tenth cup of coffee.</font>
+
+303
+00:21:06,345 --> 00:21:08,103
+<font color="#ffffff">CHUCKLING</font>
+
+304
+00:21:08,105 --> 00:21:13,263
+<font color="#ffff00">I don't know, Birdy!</font><font color="#ffffff"> Right, you lot,</font>
+<font color="#ffffff">you know what you need to do.</font>
+
+305
+00:21:13,265 --> 00:21:15,025
+<font color="#ffffff">Piss off and do it.</font>
+
+306
+00:21:18,745 --> 00:21:21,343
+<font color="#ffff00">Potentially, it could all relate</font>
+<font color="#ffff00">to his personal life.</font>
+
+307
+00:21:21,345 --> 00:21:23,823
+<font color="#ffffff">Going on what we know,</font>
+<font color="#ffffff">it's possible.</font>
+
+308
+00:21:23,825 --> 00:21:25,945
+<font color="#ffffff">But I think it goes</font>
+<font color="#ffffff">much deeper than that.</font>
+
+309
+00:21:26,905 --> 00:21:28,625
+<font color="#ffff00">How does the postcard fit?</font>
+
+310
+00:21:32,825 --> 00:21:36,783
+<font color="#ffff00">I need to know what you're not</font>
+<font color="#ffff00">telling me. If it's anything to do</font>
+
+311
+00:21:36,785 --> 00:21:39,663
+<font color="#ffff00">with that postcard, I want you</font>
+<font color="#ffff00">to bring me up to speed.</font>
+
+312
+00:21:39,665 --> 00:21:42,103
+<font color="#ffffff">It's nothing you need to</font>
+<font color="#ffffff">worry about.</font>
+
+313
+00:21:42,105 --> 00:21:43,463
+<font color="#ffff00">Understood.</font>
+
+314
+00:21:43,465 --> 00:21:45,703
+<font color="#ffffff">Where are you going, DS McGovern?</font>
+
+315
+00:21:45,705 --> 00:21:48,503
+<font color="#ffff00">To ask McCallister to take me</font>
+<font color="#ffff00">off this investigation.</font>
+
+316
+00:21:48,505 --> 00:21:49,945
+<font color="#ffffff">Don't.</font>
+
+317
+00:21:52,145 --> 00:21:53,665
+<font color="#ffffff">Just, er...</font>
+
+318
+00:22:10,745 --> 00:22:13,343
+<font color="#ffffff">In the early part of 1998,</font>
+
+319
+00:22:13,345 --> 00:22:16,225
+<font color="#ffffff">in the months leading up</font>
+<font color="#ffffff">to the Peace Agreement...</font>
+
+320
+00:22:17,185 --> 00:22:19,385
+<font color="#ffffff">..a handful of us</font>
+<font color="#ffffff">were made aware of...</font>
+
+321
+00:22:20,385 --> 00:22:23,663
+<font color="#ffffff">..a possible assassin</font>
+<font color="#ffffff">who, it seemed,</font>
+
+322
+00:22:23,665 --> 00:22:26,263
+<font color="#ffffff">had access to police intelligence.</font>
+
+323
+00:22:26,265 --> 00:22:28,945
+<font color="#ffffff">He was never identified,</font>
+<font color="#ffffff">but the suspicion was...</font>
+
+324
+00:22:29,905 --> 00:22:33,025
+<font color="#ffffff">..that it could only have been</font>
+<font color="#ffffff">an inside man.</font>
+
+325
+00:22:36,025 --> 00:22:39,063
+<font color="#ffffff">We called him Goliath,</font>
+<font color="#ffffff">after the crane.</font>
+
+326
+00:22:39,065 --> 00:22:43,425
+<font color="#ffff00">So you think he's still out there?</font>
+<font color="#ffff00">You think Keenan's dead?</font>
+
+327
+00:22:45,465 --> 00:22:48,863
+<font color="#ffffff">In '98, the thing that linked</font>
+<font color="#ffffff">Goliath's victims was that</font>
+
+328
+00:22:48,865 --> 00:22:51,223
+<font color="#ffffff">each one of them was made to look</font>
+<font color="#ffffff">as if they'd done a runner.</font>
+
+329
+00:22:51,225 --> 00:22:54,505
+<font color="#ffffff">Fear, debt, reputation - they all</font>
+<font color="#ffffff">had a credible reason to leave.</font>
+
+330
+00:22:55,705 --> 00:22:59,145
+<font color="#ffffff">And that's the version of events</font>
+<font color="#ffffff">that everyone chose to accept.</font>
+
+331
+00:23:01,065 --> 00:23:03,303
+<font color="#ffff00">How many targets?</font>
+
+332
+00:23:03,305 --> 00:23:05,103
+<font color="#ffffff">Four.</font>
+
+333
+00:23:05,105 --> 00:23:06,543
+<font color="#ffff00">So Goliath's a serial killer.</font>
+
+334
+00:23:06,545 --> 00:23:11,025
+<font color="#ffffff">That makes it sound indiscriminate.</font>
+<font color="#ffffff">These were targeted assassinations.</font>
+
+335
+00:23:14,425 --> 00:23:19,063
+<font color="#ffffff">Peace was on the table. If word got</font>
+<font color="#ffffff">out that a member of the police was</font>
+
+336
+00:23:19,065 --> 00:23:23,783
+<font color="#ffffff">picking off targets at will, it</font>
+<font color="#ffffff">would destroy that, just like now.</font>
+
+337
+00:23:23,785 --> 00:23:26,665
+<font color="#ffffff">It would risk a return</font>
+<font color="#ffffff">to all-out war.</font>
+
+338
+00:23:28,025 --> 00:23:31,303
+<font color="#ffffff">REPORTER:</font><font color="#00ff00"> Reports are coming in that</font>
+<font color="#00ff00">the petrol bombing of PSNI Dunfolan</font>
+
+339
+00:23:31,305 --> 00:23:33,823
+<font color="#00ff00">is directly linked</font>
+<font color="#00ff00">to the disappearance</font>
+
+340
+00:23:33,825 --> 00:23:35,623
+<font color="#00ff00">of former IRA man Pat Keenan.</font>
+
+341
+00:23:35,625 --> 00:23:38,583
+<font color="#00ff00">Police have faced heavy criticism</font>
+<font color="#00ff00">of their handling of the case.</font>
+
+342
+00:23:38,585 --> 00:23:42,225
+<font color="#00ff00">MLA for Dunfolan Aiden O'Neill</font>
+<font color="#00ff00">had this to say earlier.</font>
+
+343
+00:23:43,185 --> 00:23:47,143
+<font color="#ffff00">Naturally, I condemn the petrol</font>
+<font color="#ffff00">bombing of Dunfolan Police Station.</font>
+
+344
+00:23:47,145 --> 00:23:48,903
+<font color="#ffff00">No-one wants to go back</font>
+<font color="#ffff00">to those days</font>
+
+345
+00:23:48,905 --> 00:23:52,063
+<font color="#ffff00">of running battles in the streets.</font>
+<font color="#ffff00">But a member of my community</font>
+
+346
+00:23:52,065 --> 00:23:55,343
+<font color="#ffff00">is missing, and so far the police</font>
+<font color="#ffff00">appear to have no answers regarding</font>
+
+347
+00:23:55,345 --> 00:23:59,383
+<font color="#ffff00">his whereabouts or a possible</font>
+<font color="#ffff00">motive behind his disappearance.</font>
+
+348
+00:23:59,385 --> 00:24:02,183
+<font color="#ffff00">What am I to say to the poor man's</font>
+<font color="#ffff00">wife when I believe,</font>
+
+349
+00:24:02,185 --> 00:24:06,143
+<font color="#ffff00">as she does, that the police are</font>
+<font color="#ffff00">failing our community once again?</font>
+
+350
+00:24:06,145 --> 00:24:08,063
+<font color="#ffffff">HE DIALS</font>
+
+351
+00:24:08,065 --> 00:24:09,183
+<font color="#ffffff">LINE RINGS</font>
+
+352
+00:24:09,185 --> 00:24:12,023
+<font color="#00ff00">Sir?</font><font color="#00ffff"> Get me the ACC District</font>
+<font color="#00ffff">Policing Command.</font>
+
+353
+00:24:12,025 --> 00:24:14,303
+<font color="#ffffff">These are the original</font>
+<font color="#ffffff">Goliath disappearances,</font>
+
+354
+00:24:14,305 --> 00:24:16,023
+<font color="#ffffff">the ones who preceded Keenan.</font>
+
+355
+00:24:16,025 --> 00:24:17,785
+<font color="#ffffff">David Corry.</font>
+
+356
+00:24:18,745 --> 00:24:20,625
+<font color="#ffffff">Joe Harkin.</font>
+
+357
+00:24:21,585 --> 00:24:24,663
+<font color="#ffffff">And Father Simon Quinlan.</font>
+<font color="#ffff00">A priest?</font>
+
+358
+00:24:24,665 --> 00:24:26,703
+<font color="#ffffff">And an IRA arms dealer.</font>
+
+359
+00:24:26,705 --> 00:24:29,143
+<font color="#ffffff">Joe Harkin was an IRA quartermaster.</font>
+
+360
+00:24:29,145 --> 00:24:31,423
+<font color="#ffffff">And Corry, he was</font>
+<font color="#ffffff">from the other side.</font>
+
+361
+00:24:31,425 --> 00:24:34,703
+<font color="#ffffff">He was a Protestant</font>
+<font color="#ffffff">paramilitary godfather.</font>
+
+362
+00:24:34,705 --> 00:24:38,063
+<font color="#ffffff">That's what made it all the more</font>
+<font color="#ffffff">puzzling - it wasn't one side or</font>
+
+363
+00:24:38,065 --> 00:24:40,703
+<font color="#ffffff">the other. His targets were people</font>
+<font color="#ffffff">who were a threat to</font>
+
+364
+00:24:40,705 --> 00:24:44,065
+<font color="#ffffff">the peace process on both sides.</font>
+<font color="#ffffff">He kept it even-handed.</font>
+
+365
+00:24:46,985 --> 00:24:49,785
+<font color="#ffff00">You said there were four targets.</font>
+
+366
+00:24:50,745 --> 00:24:52,823
+<font color="#ffffff">Mm-hm.</font>
+
+367
+00:24:52,825 --> 00:24:54,705
+<font color="#ffffff">He also murdered my wife.</font>
+
+368
+00:25:05,625 --> 00:25:08,343
+<font color="#ffff00">Why is your wife not in the files?</font>
+
+369
+00:25:08,345 --> 00:25:10,783
+<font color="#ffffff">Cos her disappearance</font>
+<font color="#ffffff">is not official.</font>
+
+370
+00:25:10,785 --> 00:25:12,745
+<font color="#ffff00">Was she a threat to the peace?</font>
+
+371
+00:25:17,345 --> 00:25:20,665
+<font color="#ffffff">She was military intelligence.</font>
+<font color="#ffffff">The nature of her job.</font>
+
+372
+00:25:21,625 --> 00:25:24,463
+<font color="#ffffff">At the time, they said</font>
+<font color="#ffffff">that her cover had been blown,</font>
+
+373
+00:25:24,465 --> 00:25:27,745
+<font color="#ffffff">she went to ground.</font>
+<font color="#ffff00">But that's not what happened.</font>
+
+374
+00:25:29,465 --> 00:25:31,063
+<font color="#ffffff">She was kidnapped.</font>
+
+375
+00:25:31,065 --> 00:25:32,865
+<font color="#ffffff">Same as Keenan.</font>
+
+376
+00:25:37,345 --> 00:25:39,783
+<font color="#ffffff">If we find the files</font>
+<font color="#ffffff">of the original victims,</font>
+
+377
+00:25:39,785 --> 00:25:41,983
+<font color="#ffffff">we can compare them</font>
+<font color="#ffffff">to the Keenan case.</font>
+
+378
+00:25:41,985 --> 00:25:44,423
+<font color="#ffffff">When Joe Harkin went missing,</font>
+<font color="#ffffff">the investigation said it was</font>
+
+379
+00:25:44,425 --> 00:25:46,583
+<font color="#ffffff">because he owed money</font>
+<font color="#ffffff">all around the country.</font>
+
+380
+00:25:46,585 --> 00:25:49,063
+<font color="#ffffff">There was a list of all</font>
+<font color="#ffffff">the people he was thought to have</font>
+
+381
+00:25:49,065 --> 00:25:51,983
+<font color="#ffffff">owed on that file.</font>
+<font color="#ffffff">I remember seeing it.</font>
+
+382
+00:25:51,985 --> 00:25:55,585
+<font color="#ffffff">Keenan's name was on the list and</font>
+<font color="#ffffff">maybe our potential Goliath, too.</font>
+
+383
+00:25:56,545 --> 00:25:59,305
+<font color="#00ffff">When did you say?</font>
+<font color="#ffffff">Last week of February '98.</font>
+
+384
+00:26:05,865 --> 00:26:07,503
+<font color="#00ffff">There's nothing here.</font>
+
+385
+00:26:07,505 --> 00:26:09,065
+<font color="#ffffff">There has to be!</font>
+
+386
+00:26:10,305 --> 00:26:13,063
+<font color="#ffffff">Joe Harkin is the name</font>
+<font color="#ffffff">you're looking for.</font>
+
+387
+00:26:13,065 --> 00:26:14,983
+<font color="#ffffff">He was the first of them</font>
+<font color="#ffffff">to disappear.</font>
+
+388
+00:26:14,985 --> 00:26:17,545
+<font color="#00ffff">I'm telling you, there's nothing,</font>
+<font color="#00ffff">so there's not.</font>
+
+389
+00:26:21,145 --> 00:26:24,903
+<font color="#ffffff">Something's going on. Goliath was a</font>
+<font color="#ffffff">name known only inside the police,</font>
+
+390
+00:26:24,905 --> 00:26:28,065
+<font color="#ffffff">and now these files have upped</font>
+<font color="#ffffff">and vanished. There's someone...</font>
+
+391
+00:26:29,025 --> 00:26:31,303
+<font color="#ffffff">..someone who doesn't want us</font>
+<font color="#ffffff">to get to the truth about</font>
+
+392
+00:26:31,305 --> 00:26:33,943
+<font color="#ffffff">the Goliath disappearances.</font>
+<font color="#ffffff">We can't hold back, ma'am.</font>
+
+393
+00:26:33,945 --> 00:26:38,303
+<font color="#00ffff">So don't. Find Pat Keenan.</font>
+<font color="#00ffff">That way, we can unlock Goliath.</font>
+
+394
+00:26:38,305 --> 00:26:41,583
+<font color="#00ffff">Use whatever resources you need.</font>
+<font color="#00ffff">Pull people from other jobs,</font>
+
+395
+00:26:41,585 --> 00:26:46,503
+<font color="#00ffff">if you have to. You have my backing.</font>
+<font color="#00ffff">Now get this done.</font>
+
+396
+00:26:46,505 --> 00:26:50,505
+<font color="#ffffff">Keenan's disappearance</font>
+<font color="#ffffff">is similar to David Corry.</font>
+
+397
+00:26:51,465 --> 00:26:53,303
+<font color="#ffffff">He was a prominent</font>
+<font color="#ffffff">Loyalist paramilitary</font>
+
+398
+00:26:53,305 --> 00:26:55,663
+<font color="#ffffff">involved in numerous attacks</font>
+<font color="#ffffff">on the Catholic community.</font>
+
+399
+00:26:55,665 --> 00:26:58,383
+<font color="#ffffff">Nasty piece of work.</font>
+<font color="#ffffff">He has a brother, Adam.</font>
+
+400
+00:26:58,385 --> 00:26:59,783
+<font color="#ffffff">Lives out on the Cumber Road.</font>
+
+401
+00:26:59,785 --> 00:27:02,423
+<font color="#ffffff">Adam never bought the official</font>
+<font color="#ffffff">version of what happened.</font>
+
+402
+00:27:02,425 --> 00:27:04,223
+<font color="#ffffff">He's spent years</font>
+<font color="#ffffff">trying to disprove it.</font>
+
+403
+00:27:04,225 --> 00:27:06,343
+<font color="#ffffff">And if we're short of information,</font>
+
+404
+00:27:06,345 --> 00:27:08,903
+<font color="#ffffff">he could be the one</font>
+<font color="#ffffff">to fill in the blanks.</font>
+
+405
+00:27:08,905 --> 00:27:11,065
+<font color="#ffff00">All right, then, let's go.</font>
+
+406
+00:27:12,025 --> 00:27:14,463
+<font color="#ffff00">Jesus, that smells like</font>
+<font color="#ffff00">you're a 50-a-day man.</font>
+
+407
+00:27:14,465 --> 00:27:16,423
+<font color="#ffffff">Aye, well, the lining's</font>
+<font color="#ffffff">burnt to shite,</font>
+
+408
+00:27:16,425 --> 00:27:19,143
+<font color="#ffffff">but the money I paid for it,</font>
+<font color="#ffffff">there's no way I'm not wearing it.</font>
+
+409
+00:27:19,145 --> 00:27:21,225
+<font color="#ffff00">Every pound's a prisoner, eh?</font>
+
+410
+00:27:32,705 --> 00:27:35,663
+<font color="#ffff00">As Pat Keenan and David Corry</font>
+<font color="#ffff00">were paramilitaries,</font>
+
+411
+00:27:35,665 --> 00:27:38,143
+<font color="#ffff00">was Adam a paramilitary, too?</font>
+
+412
+00:27:38,145 --> 00:27:39,225
+<font color="#ffffff">No.</font>
+
+413
+00:27:40,385 --> 00:27:41,903
+<font color="#ffffff">He was never one for violence.</font>
+
+414
+00:27:41,905 --> 00:27:43,863
+<font color="#ffffff">Much happier up here.</font>
+
+415
+00:27:43,865 --> 00:27:47,023
+<font color="#ffffff">He ran a bakery in the local</font>
+<font color="#ffffff">village. But he loved his brother.</font>
+
+416
+00:27:47,025 --> 00:27:50,265
+<font color="#ffffff">He's dedicated the last 22 years</font>
+<font color="#ffffff">of his life trying to find him.</font>
+
+417
+00:28:05,545 --> 00:28:06,863
+<font color="#00ffff">Tom Brannick.</font>
+
+418
+00:28:06,865 --> 00:28:08,943
+<font color="#ffffff">That's right, Mr Corry.</font>
+
+419
+00:28:08,945 --> 00:28:10,983
+<font color="#ffffff">HE BREATHES UNSTEADILY</font>
+
+420
+00:28:10,985 --> 00:28:14,185
+<font color="#00ffff">You've still got a good boot on you?</font>
+<font color="#ffffff">I don't play any more.</font>
+
+421
+00:28:15,545 --> 00:28:17,625
+<font color="#00ffff">Best out-half these parts have seen.</font>
+
+422
+00:28:18,625 --> 00:28:20,105
+<font color="#ffffff">Rugby.</font>
+
+423
+00:28:22,305 --> 00:28:24,225
+<font color="#00ffff">If youse want a cup of tea...</font>
+
+424
+00:28:25,185 --> 00:28:27,783
+<font color="#00ffff">..you should've had it</font>
+<font color="#00ffff">before you came.</font>
+
+425
+00:28:27,785 --> 00:28:30,225
+<font color="#ffff00">We're grand, thanks, Mr Corry.</font>
+
+426
+00:28:31,185 --> 00:28:34,625
+<font color="#ffff00">Do you, er...</font>
+<font color="#ffff00">Do you mind if I record this?</font><font color="#00ffff"> No.</font>
+
+427
+00:28:38,985 --> 00:28:41,983
+<font color="#ffffff">The others that went missing</font>
+<font color="#ffffff">at the same time as your brother...</font>
+
+428
+00:28:41,985 --> 00:28:44,583
+<font color="#00ffff">Joe Harkin. Simon Quinlan.</font>
+
+429
+00:28:44,585 --> 00:28:46,505
+<font color="#00ffff">Your wi...</font><font color="#ffffff"> Aye.</font>
+
+430
+00:28:47,465 --> 00:28:50,263
+<font color="#ffffff">We're following</font>
+<font color="#ffffff">a new line of inquiry.</font>
+
+431
+00:28:50,265 --> 00:28:54,065
+<font color="#ffffff">HE LAUGHS</font>
+<font color="#00ffff">A "new" line of inquiry?</font>
+
+432
+00:28:55,585 --> 00:28:57,225
+<font color="#ffffff">HE COUGHS</font>
+
+433
+00:28:59,145 --> 00:29:02,145
+<font color="#00ffff">My God. After 22 years!</font>
+
+434
+00:29:05,305 --> 00:29:08,463
+<font color="#00ffff">You lot move with some urgency...!</font>
+
+435
+00:29:08,465 --> 00:29:10,743
+<font color="#ffff00">Mr Corry, you don't believe</font>
+<font color="#ffff00">the verdict,</font>
+
+436
+00:29:10,745 --> 00:29:14,665
+<font color="#ffff00">that your brother ran, just like</font>
+<font color="#ffff00">the others.</font><font color="#00ffff"> He ran from nothing.</font>
+
+437
+00:29:15,985 --> 00:29:19,623
+<font color="#00ffff">It was only because of the ceasefire</font>
+<font color="#00ffff">that everyone swallowed that shite.</font>
+
+438
+00:29:19,625 --> 00:29:22,103
+<font color="#00ffff">And youse were all so drunk</font>
+<font color="#00ffff">on the idea of peace,</font>
+
+439
+00:29:22,105 --> 00:29:24,905
+<font color="#00ffff">youse stopped doing your jobs.</font>
+
+440
+00:29:26,145 --> 00:29:28,343
+<font color="#ffff00">Look what the peace has brought us.</font>
+
+441
+00:29:28,345 --> 00:29:30,783
+<font color="#00ffff">Unanswered questions!</font>
+
+442
+00:29:30,785 --> 00:29:33,745
+<font color="#00ffff">Where's my brother? His wife?</font>
+
+443
+00:29:34,705 --> 00:29:36,983
+<font color="#00ffff">What peace do you think</font>
+<font color="#00ffff">he's known all these years, huh?</font>
+
+444
+00:29:36,985 --> 00:29:38,145
+<font color="#ffffff">That's enough.</font>
+
+445
+00:29:39,185 --> 00:29:42,743
+<font color="#ffffff">We think the connection between each</font>
+<font color="#ffffff">of the 1998 missing persons -</font>
+
+446
+00:29:42,745 --> 00:29:45,225
+<font color="#ffffff">including your brother -</font>
+<font color="#ffffff">is credible.</font>
+
+447
+00:29:46,945 --> 00:29:48,985
+<font color="#ffffff">But we're short some information.</font>
+
+448
+00:29:53,425 --> 00:29:55,665
+<font color="#00ffff">All right.</font>
+
+449
+00:30:07,865 --> 00:30:09,305
+<font color="#ffff00">Jesus.</font>
+
+450
+00:30:12,305 --> 00:30:13,745
+<font color="#ffffff">Well!</font>
+
+451
+00:30:17,145 --> 00:30:19,223
+<font color="#ffffff">You have a system?</font>
+
+452
+00:30:19,225 --> 00:30:22,825
+<font color="#00ffff">Of course I've got a bloody system!</font>
+<font color="#00ffff">I'm not daft.</font>
+
+453
+00:30:24,785 --> 00:30:28,863
+<font color="#ffffff">So we're looking for</font>
+<font color="#ffffff">the last week of February 1998,</font>
+
+454
+00:30:28,865 --> 00:30:32,025
+<font color="#ffffff">anything relating to that.</font>
+<font color="#ffffff">Joe Harkin, particularly.</font>
+
+455
+00:30:34,865 --> 00:30:38,783
+<font color="#00ffff">When I called for police help,</font>
+<font color="#00ffff">your lot treated me like I was</font>
+
+456
+00:30:38,785 --> 00:30:41,465
+<font color="#00ffff">sitting in a press</font>
+<font color="#00ffff">with a tinfoil hat...</font>
+
+457
+00:30:43,465 --> 00:30:46,023
+<font color="#00ffff">..telling them all that the...</font>
+
+458
+00:30:46,025 --> 00:30:49,185
+<font color="#00ffff">..little green men</font>
+<font color="#00ffff">were footering up the path.</font>
+
+459
+00:30:52,945 --> 00:30:57,463
+<font color="#00ffff">I-I don't have a great deal</font>
+<font color="#00ffff">on Joe Harkin. That much is true.</font>
+
+460
+00:30:57,465 --> 00:30:58,985
+<font color="#00ffff">But, er...</font>
+
+461
+00:31:01,705 --> 00:31:05,105
+<font color="#00ffff">They don't like a man like me</font>
+<font color="#00ffff">snooping around his neighbourhood.</font>
+
+462
+00:31:06,465 --> 00:31:09,065
+<font color="#ffffff">No, Mr Corry, this is April '98.</font>
+<font color="#00ffff">Huh!</font>
+
+463
+00:31:12,345 --> 00:31:16,783
+<font color="#00ffff">The peace deal was struck</font>
+<font color="#00ffff">on the 10th of April.</font>
+
+464
+00:31:16,785 --> 00:31:18,983
+<font color="#00ffff">Then, the 11th of April...</font>
+
+465
+00:31:18,985 --> 00:31:22,983
+<font color="#00ffff">..a woman reports suspicious</font>
+<font color="#00ffff">activity on an island in the lough.</font>
+
+466
+00:31:22,985 --> 00:31:25,423
+<font color="#00ffff">She says it happened</font>
+<font color="#00ffff">the end of February,</font>
+
+467
+00:31:25,425 --> 00:31:28,305
+<font color="#00ffff">around the time that Joe Harkin</font>
+<font color="#00ffff">went off the map.</font>
+
+468
+00:31:29,265 --> 00:31:32,145
+<font color="#00ffff">The bodies could be out there</font>
+<font color="#00ffff">on that island.</font>
+
+469
+00:31:35,985 --> 00:31:37,745
+<font color="#ffff00">Why so long to report it?</font>
+
+470
+00:31:39,265 --> 00:31:42,063
+<font color="#00ffff">Well, maybe she...</font>
+
+471
+00:31:42,065 --> 00:31:44,863
+<font color="#00ffff">Maybe she was one of the few</font>
+<font color="#00ffff">who believed that this ceasefire</font>
+
+472
+00:31:44,865 --> 00:31:47,585
+<font color="#00ffff">might actually hold.</font>
+<font color="#ffffff">Who did she report it to?</font>
+
+473
+00:31:48,665 --> 00:31:49,865
+<font color="#00ffff">Your lot!</font>
+
+474
+00:31:51,345 --> 00:31:53,063
+<font color="#00ffff">What, you didn't know?</font>
+
+475
+00:31:53,065 --> 00:31:57,063
+<font color="#00ffff">Well, sure all I did was drink</font>
+<font color="#00ffff">what you boys were drinking.</font>
+
+476
+00:31:57,065 --> 00:31:59,225
+<font color="#00ffff">Merely wigged on idle talk.</font>
+
+477
+00:32:01,545 --> 00:32:04,985
+<font color="#00ffff">Well, here, I don't have</font>
+<font color="#00ffff">the actual statement.</font>
+
+478
+00:32:06,145 --> 00:32:08,503
+<font color="#00ffff">I never did.</font>
+
+479
+00:32:08,505 --> 00:32:11,063
+<font color="#00ffff">I just knew of its existence, like.</font>
+
+480
+00:32:11,065 --> 00:32:14,465
+<font color="#00ffff">And I asked for it - many times.</font>
+
+481
+00:32:17,905 --> 00:32:20,543
+<font color="#ffffff">MESSAGE OVER RADIO</font>
+
+482
+00:32:20,545 --> 00:32:22,025
+<font color="#ffffff">SIRENS WAIL</font>
+
+483
+00:32:28,785 --> 00:32:30,585
+<font color="#00ff00">Do you have ID, sir?</font>
+
+484
+00:32:40,225 --> 00:32:41,785
+<font color="#ffffff">It's Jackie's car.</font>
+
+485
+00:32:45,505 --> 00:32:47,025
+<font color="#ffff00">Boss?</font>
+
+486
+00:33:12,705 --> 00:33:15,783
+<font color="#ffffff">You in charge now?</font><font color="#00ffff"> I am.</font>
+
+487
+00:33:15,785 --> 00:33:18,543
+<font color="#ffffff">McCallister was doing a good job.</font>
+
+488
+00:33:18,545 --> 00:33:21,143
+<font color="#00ffff">It's a delicate situation</font>
+<font color="#00ffff">which has been mishandled.</font>
+
+489
+00:33:21,145 --> 00:33:24,943
+<font color="#ffffff">That's not her fault.</font><font color="#00ffff"> Yes, it is.</font>
+<font color="#00ffff">She's allowed you to run amok.</font>
+
+490
+00:33:24,945 --> 00:33:28,143
+<font color="#ffffff">I'm looking for Pat Keenan.</font>
+<font color="#ffffff">You told me to focus on him.</font>
+
+491
+00:33:28,145 --> 00:33:30,743
+<font color="#00ffff">Fuck up! I know perfectly well</font>
+<font color="#00ffff">what you're up to.</font>
+
+492
+00:33:30,745 --> 00:33:33,103
+<font color="#00ffff">McCallister filled me in.</font>
+<font color="#00ffff">You're after Goliath.</font>
+
+493
+00:33:33,105 --> 00:33:37,463
+<font color="#ffffff">It's connected to the Keenan case.</font>
+<font color="#00ffff">I told you to keep the peace.</font>
+
+494
+00:33:37,465 --> 00:33:39,823
+<font color="#00ffff">Every hour that Pat Keenan</font>
+<font color="#00ffff">is missing</font>
+
+495
+00:33:39,825 --> 00:33:44,063
+<font color="#00ffff">is another hour of problems for this</font>
+<font color="#00ffff">service. Have you seen outside?</font>
+
+496
+00:33:44,065 --> 00:33:47,823
+<font color="#00ffff">We don't have time for flights</font>
+<font color="#00ffff">of fancy or going on a hunch.</font>
+
+497
+00:33:47,825 --> 00:33:50,703
+<font color="#ffffff">It all makes sense now,</font>
+<font color="#ffffff">why you're here.</font>
+
+498
+00:33:50,705 --> 00:33:54,743
+<font color="#00ffff">Given my knowledge of the area and</font>
+<font color="#00ffff">the fact that I previously worked...</font>
+
+499
+00:33:54,745 --> 00:33:57,583
+<font color="#ffffff">No, no, no. You could have supported</font>
+<font color="#ffffff">McCallister from Belfast,</font>
+
+500
+00:33:57,585 --> 00:33:59,263
+<font color="#ffffff">given her all the assistance</font>
+<font color="#ffffff">she needed,</font>
+
+501
+00:33:59,265 --> 00:34:01,263
+<font color="#ffffff">but you had to come down here</font>
+<font color="#ffffff">yourself to stop me</font>
+
+502
+00:34:01,265 --> 00:34:02,623
+<font color="#ffffff">investigating Goliath.</font>
+
+503
+00:34:02,625 --> 00:34:04,305
+<font color="#00ffff">Don't talk shite.</font>
+
+504
+00:34:05,305 --> 00:34:10,063
+<font color="#00ffff">I came here to make sure you find</font>
+<font color="#00ffff">Keenan and put a stop to the unrest.</font>
+
+505
+00:34:10,065 --> 00:34:13,183
+<font color="#00ffff">And, obviously, as a senior Catholic</font>
+<font color="#00ffff">officer, they're more likely</font>
+
+506
+00:34:13,185 --> 00:34:16,065
+<font color="#00ffff">to believe that I'll move</font>
+<font color="#00ffff">heaven and earth to find him.</font>
+
+507
+00:34:17,625 --> 00:34:20,703
+<font color="#00ffff">Now, you can start by making peace</font>
+<font color="#00ffff">with his wife,</font>
+
+508
+00:34:20,705 --> 00:34:23,143
+<font color="#00ffff">cos I can guarantee you,</font>
+<font color="#00ffff">all of this is</font>
+
+509
+00:34:23,145 --> 00:34:25,543
+<font color="#00ffff">because she's taken</font>
+<font color="#00ffff">a dislike to you.</font>
+
+510
+00:34:25,545 --> 00:34:28,825
+<font color="#00ffff">That means she'll put the word out</font>
+<font color="#00ffff">against the whole operation.</font>
+
+511
+00:34:30,385 --> 00:34:32,465
+<font color="#00ffff">Can you do that?</font>
+
+512
+00:34:42,505 --> 00:34:45,585
+<font color="#ffffff">I came to you because I needed</font>
+<font color="#ffffff">an old friend's support.</font>
+
+513
+00:34:46,705 --> 00:34:47,985
+<font color="#00ffff">And you have it, Tom.</font>
+
+514
+00:34:49,145 --> 00:34:51,025
+<font color="#00ffff">There's no reason</font>
+<font color="#00ffff">for you to doubt it.</font>
+
+515
+00:35:00,265 --> 00:35:02,983
+<font color="#ffff00">That's it, then?</font>
+<font color="#ffff00">DCS Twomey's in charge?</font>
+
+516
+00:35:02,985 --> 00:35:06,823
+<font color="#ffffff">Aye, come back to his old district</font>
+<font color="#ffffff">to sit on me.</font><font color="#ffff00"> Ah.</font>
+
+517
+00:35:06,825 --> 00:35:08,863
+<font color="#ffff00">I think I'll keep out of that.</font>
+
+518
+00:35:08,865 --> 00:35:13,263
+<font color="#ffffff">What's that?</font><font color="#ffff00"> The missing statement</font>
+<font color="#ffff00">Adam Corry was talking about.</font>
+
+519
+00:35:13,265 --> 00:35:16,385
+<font color="#ffff00">Constable Scott found it</font>
+<font color="#ffff00">in the files for April '98.</font>
+
+520
+00:35:17,425 --> 00:35:20,103
+<font color="#ffff00">The witness was Muriel Busby</font>
+<font color="#ffff00">of Deacon's Farm</font>
+
+521
+00:35:20,105 --> 00:35:21,903
+<font color="#ffff00">on the Bannbracken Road.</font>
+
+522
+00:35:21,905 --> 00:35:25,583
+<font color="#ffff00">She said she was out feeding</font>
+<font color="#ffff00">the cows on a clear night.</font>
+
+523
+00:35:25,585 --> 00:35:27,543
+<font color="#ffff00">She saw activity on an island.</font>
+
+524
+00:35:27,545 --> 00:35:30,183
+<font color="#ffff00">From that distance, she says,</font>
+<font color="#ffff00">it looked like digging.</font>
+
+525
+00:35:30,185 --> 00:35:34,105
+<font color="#ffff00">She identifies the location as</font>
+<font color="#ffff00">being between a bothy and a tree.</font>
+
+526
+00:35:35,065 --> 00:35:37,223
+<font color="#ffffff">Jesus.</font>
+
+527
+00:35:37,225 --> 00:35:39,065
+<font color="#ffff00">Let's go take a look.</font>
+
+528
+00:35:40,705 --> 00:35:44,823
+<font color="#ffffff">I don't think we can.</font><font color="#ffff00"> The record</font>
+<font color="#ffff00">shows that it wasn't actioned.</font>
+
+529
+00:35:44,825 --> 00:35:47,903
+<font color="#ffff00">They put it at the back of a file</font>
+<font color="#ffff00">and forgot about it.</font>
+
+530
+00:35:47,905 --> 00:35:51,505
+<font color="#ffff00">If the Pat Keenan and Goliath cases</font>
+<font color="#ffff00">are linked, we have to go out there.</font>
+
+531
+00:35:52,665 --> 00:35:54,145
+<font color="#ffff00">We have to!</font>
+
+532
+00:36:40,505 --> 00:36:42,943
+<font color="#ffffff">WOMAN:</font><font color="#00ffff"> Who's that, Izzy?</font>
+<font color="#ffffff">BABY CHUCKLES</font>
+
+533
+00:36:42,945 --> 00:36:46,185
+<font color="#00ffff">Daddy? Could it be Daddy?</font>
+
+534
+00:36:50,105 --> 00:36:51,785
+<font color="#00ffff">Where's Daddy?</font>
+
+535
+00:36:57,505 --> 00:37:00,025
+<font color="#00ffff">Good girl!</font>
+<font color="#ffffff">BABY GIGGLES</font>
+
+536
+00:37:41,265 --> 00:37:43,183
+<font color="#ffffff">DOG BARKS</font>
+
+537
+00:37:43,185 --> 00:37:45,425
+<font color="#00ff00">Hello. Can I help you?</font>
+
+538
+00:37:46,385 --> 00:37:49,703
+<font color="#ffffff">Hello, there.</font><font color="#00ff00"> Uh-huh.</font>
+<font color="#ffffff">We're with the Police Service.</font>
+
+539
+00:37:49,705 --> 00:37:51,183
+<font color="#ffffff">Is Mrs Busby here?</font>
+
+540
+00:37:51,185 --> 00:37:54,985
+<font color="#00ff00">Ach, no.</font>
+<font color="#00ff00">She died maybe 12, 13 year ago.</font>
+
+541
+00:37:57,705 --> 00:37:59,623
+<font color="#ffffff">Are you family?</font><font color="#00ff00"> Nah.</font>
+
+542
+00:37:59,625 --> 00:38:02,423
+<font color="#00ff00">This place was empty for</font>
+<font color="#00ff00">a wee while before we bought it.</font>
+
+543
+00:38:02,425 --> 00:38:05,503
+<font color="#ffffff">Do you mind if we look around?</font>
+<font color="#00ff00">No, look away.</font>
+
+544
+00:38:05,505 --> 00:38:07,225
+<font color="#00ff00">Gilder, if you need me, all right?</font>
+
+545
+00:38:16,585 --> 00:38:18,065
+<font color="#ffffff">COWS LOW</font>
+
+546
+00:38:37,025 --> 00:38:40,623
+<font color="#ffff00">There. Between the bothy</font>
+<font color="#ffff00">and the tree.</font>
+
+547
+00:38:40,625 --> 00:38:42,663
+<font color="#ffff00">That's where she saw</font>
+<font color="#ffff00">someone digging.</font>
+
+548
+00:38:42,665 --> 00:38:46,065
+<font color="#ffffff">We'll get a search team ready</font>
+<font color="#ffffff">to go out there on the morning tide.</font>
+
+549
+00:40:41,025 --> 00:40:42,345
+<font color="#ffffff">Here.</font>
+
+550
+00:41:02,825 --> 00:41:05,023
+<font color="#ffffff">KNOCKS ON DOOR</font>
+<font color="#00ffff">Yeah?</font>
+
+551
+00:41:05,025 --> 00:41:07,423
+<font color="#00ff00">Sir, I've got TSG Ops</font>
+<font color="#00ff00">up on the phone.</font>
+
+552
+00:41:07,425 --> 00:41:10,265
+<font color="#00ff00">They said more boats are available</font>
+<font color="#00ff00">if we still want them.</font>
+
+553
+00:41:11,505 --> 00:41:13,025
+<font color="#00ffff">Boats?</font>
+
+554
+00:41:16,505 --> 00:41:17,985
+<font color="#ffffff">HE SIGHS</font>
+
+555
+00:41:30,745 --> 00:41:32,625
+<font color="#ffffff">MOTORBOAT APPROACHES</font>
+
+556
+00:41:46,865 --> 00:41:48,545
+<font color="#ffffff">TWOMEY CRIES OUT</font>
+
+557
+00:41:49,505 --> 00:41:51,545
+<font color="#00ffff">This fucking cunt!</font>
+
+558
+00:41:55,745 --> 00:41:58,665
+<font color="#00ffff">You two! I want a word!</font>
+
+559
+00:41:59,705 --> 00:42:02,183
+<font color="#00ffff">Does Claire Keenan have</font>
+<font color="#00ffff">a holiday home I don't know about?</font>
+
+560
+00:42:02,185 --> 00:42:05,343
+<font color="#ffffff">Jackie...</font><font color="#00ffff"> I told you to make peace</font>
+<font color="#00ffff">with the missing man's wife</font>
+
+561
+00:42:05,345 --> 00:42:07,463
+<font color="#00ffff">so that we could find</font>
+<font color="#00ffff">the missing man.</font>
+
+562
+00:42:07,465 --> 00:42:10,583
+<font color="#00ffff">Yet here we all are,</font>
+<font color="#00ffff">halfway to the Galapagos,</font>
+
+563
+00:42:10,585 --> 00:42:14,023
+<font color="#00ffff">checking out a 20-year-old tip-off.</font>
+<font color="#ffffff">DS McGovern identified this</font>
+
+564
+00:42:14,025 --> 00:42:17,023
+<font color="#ffffff">as an unactioned witness statement</font>
+<font color="#ffffff">and burial site, and I agreed to it.</font>
+
+565
+00:42:17,025 --> 00:42:18,783
+<font color="#ffff00">You know about this place, sir?</font>
+
+566
+00:42:18,785 --> 00:42:21,143
+<font color="#00ffff">Did he not tell you</font>
+<font color="#00ffff">I was stationed here?</font>
+
+567
+00:42:21,145 --> 00:42:23,343
+<font color="#00ffff">I was leading</font>
+<font color="#00ffff">the investigation in '98.</font>
+
+568
+00:42:23,345 --> 00:42:27,185
+<font color="#00ffff">One of my boys took her statement.</font>
+<font color="#00ffff">That farmhouse, over there.</font>
+
+569
+00:42:28,145 --> 00:42:32,343
+<font color="#ffffff">Why didn't you tell me?</font><font color="#00ffff"> Oh, come on,</font>
+<font color="#00ffff">Tom! The peace deal, of course!</font>
+
+570
+00:42:32,345 --> 00:42:35,983
+<font color="#00ffff">And I knew you'd've torn the arse</font>
+<font color="#00ffff">out of the whole thing.</font>
+
+571
+00:42:35,985 --> 00:42:39,103
+<font color="#ffff00">This has implications</font>
+<font color="#ffff00">for the Pat Keenan case, sir.</font>
+
+572
+00:42:39,105 --> 00:42:40,863
+<font color="#ffff00">He could be buried here, too.</font>
+
+573
+00:42:40,865 --> 00:42:43,183
+<font color="#00ffff">Remember the times</font>
+<font color="#00ffff">we were living in.</font>
+
+574
+00:42:43,185 --> 00:42:48,183
+<font color="#00ffff">It wasn't my bloody choice!</font>
+<font color="#00ffff">Off limits then and off limits now.</font>
+
+575
+00:42:48,185 --> 00:42:51,463
+<font color="#ffff00">His wife was taken, sir.</font>
+<font color="#ffff00">She could be here.</font>
+
+576
+00:42:51,465 --> 00:42:53,903
+<font color="#ffff00">You could have been here</font>
+<font color="#ffff00">20 years ago.</font>
+
+577
+00:42:53,905 --> 00:42:55,265
+<font color="#ffffff">Fuck!</font>
+
+578
+00:42:59,345 --> 00:43:00,945
+<font color="#00ffff">Tom!</font>
+
+579
+00:43:03,145 --> 00:43:04,665
+<font color="#ffff00">Boss...</font>
+
+580
+00:43:05,625 --> 00:43:07,383
+<font color="#ffffff">What else did you keep from me?</font>
+
+581
+00:43:07,385 --> 00:43:09,103
+<font color="#00ffff">Nothing.</font>
+
+582
+00:43:09,105 --> 00:43:12,025
+<font color="#ffffff">You know, there was a part of me...</font>
+
+583
+00:43:14,705 --> 00:43:16,983
+<font color="#ffffff">..didn't want to find the bodies.</font>
+
+584
+00:43:16,985 --> 00:43:19,505
+<font color="#ffffff">I didn't want to see my dead...</font>
+
+585
+00:43:20,785 --> 00:43:22,663
+<font color="#ffffff">But Goliath...</font>
+
+586
+00:43:22,665 --> 00:43:24,343
+<font color="#ffffff">Goliath...</font>
+
+587
+00:43:24,345 --> 00:43:26,065
+<font color="#ffffff">No!</font>
+
+588
+00:43:30,625 --> 00:43:32,225
+<font color="#00ffff">I promise you, Tom...</font>
+
+589
+00:43:34,185 --> 00:43:36,385
+<font color="#00ffff">..there's nothing else.</font>
+
+590
+00:43:39,265 --> 00:43:41,305
+<font color="#00ffff">We're alive, man.</font>
+
+591
+00:43:42,785 --> 00:43:46,985
+<font color="#00ffff">Being on this island is a waste</font>
+<font color="#00ffff">of time and resources.</font>
+
+592
+00:43:48,665 --> 00:43:50,545
+<font color="#00ffff">You know that.</font>
+
+593
+00:43:52,505 --> 00:43:53,865
+<font color="#00ffff">You've dug.</font>
+
+594
+00:43:54,985 --> 00:43:57,025
+<font color="#00ffff">There's nothing here.</font>
+
+595
+00:43:58,465 --> 00:44:00,665
+<font color="#00ffff">We need to shut it down.</font>
+
+596
+00:44:15,665 --> 00:44:17,823
+<font color="#00ffff">DS McGovern...</font>
+
+597
+00:44:17,825 --> 00:44:20,503
+<font color="#00ffff">..stay and make sure everyone</font>
+<font color="#00ffff">gets off this island.</font>
+
+598
+00:44:20,505 --> 00:44:21,705
+<font color="#00ffff">You come back with me.</font>
+
+599
+00:44:26,465 --> 00:44:30,025
+<font color="#00ff00">All right, come on,</font>
+<font color="#00ff00">let's get away back on the boats.</font>
+
+600
+00:44:40,225 --> 00:44:42,425
+<font color="#00ff00">You coming?</font>
+
+601
+00:44:46,265 --> 00:44:47,865
+<font color="#00ff00">Sarge?</font>
+
+602
+00:45:11,705 --> 00:45:13,705
+<font color="#ffff00">Between the bothy and the tree.</font>
+
+603
+00:45:15,225 --> 00:45:17,265
+<font color="#ffff00">There's another tree.</font>
+
+604
+00:45:18,705 --> 00:45:21,823
+<font color="#ffff00">Look, Birdy, another tree.</font><font color="#00ff00"> What?</font>
+
+605
+00:45:21,825 --> 00:45:24,063
+<font color="#ffff00">We should have been here.</font>
+
+606
+00:45:24,065 --> 00:45:26,463
+<font color="#00ff00">But I can't see the farmhouse.</font>
+
+607
+00:45:26,465 --> 00:45:28,145
+<font color="#ffff00">What can you see?</font>
+
+608
+00:45:30,265 --> 00:45:33,543
+<font color="#00ff00">Cow shed.</font><font color="#ffff00"> Exactly.</font>
+<font color="#ffff00">She says in her statement</font>
+
+609
+00:45:33,545 --> 00:45:35,665
+<font color="#ffff00">that she was out feeding the cows.</font>
+
+610
+00:45:37,025 --> 00:45:39,545
+<font color="#00ff00">We... We were digging</font>
+<font color="#00ff00">in the wrong place?</font>
+
+611
+00:45:41,145 --> 00:45:44,223
+<font color="#ffff00">Ask them if we can borrow their GPR.</font>
+
+612
+00:45:44,225 --> 00:45:46,223
+<font color="#00ff00">Oh, but...</font><font color="#ffff00"> Ach, come on, Birdy!</font>
+
+613
+00:45:46,225 --> 00:45:49,623
+<font color="#ffff00">We owe it to the boss.</font>
+<font color="#ffff00">To the families!</font>
+
+614
+00:45:49,625 --> 00:45:51,065
+<font color="#00ff00">All right.</font>
+
+615
+00:46:00,305 --> 00:46:02,743
+<font color="#00ffff">Good morning.</font>
+
+616
+00:46:02,745 --> 00:46:05,903
+<font color="#00ffff">I'm Tori Matthews. I'm a trauma</font>
+<font color="#00ffff">consultant over at the Royal,</font>
+
+617
+00:46:05,905 --> 00:46:09,023
+<font color="#00ffff">and for some stupid reason</font>
+<font color="#00ffff">I've agreed to teach you lot</font>
+
+618
+00:46:09,025 --> 00:46:11,103
+<font color="#00ffff">from time to time.</font>
+<font color="#ffffff">CHUCKLING</font>
+
+619
+00:46:11,105 --> 00:46:13,143
+<font color="#00ffff">You won't be laughing</font>
+<font color="#00ffff">when you get to know me.</font>
+
+620
+00:46:13,145 --> 00:46:14,905
+<font color="#ffffff">LAUGHTER</font>
+
+621
+00:46:17,145 --> 00:46:20,185
+<font color="#00ffff">Right, let's get started, shall we?</font>
+
+622
+00:46:32,145 --> 00:46:33,743
+<font color="#ffff00">What's he doing here?</font>
+
+623
+00:46:33,745 --> 00:46:35,265
+<font color="#00ff00">Dunno.</font>
+
+624
+00:46:37,065 --> 00:46:39,225
+<font color="#00ff00">Er, see you at the house?</font><font color="#ffff00"> Yeah.</font>
+
+625
+00:46:57,145 --> 00:47:00,463
+<font color="#ffffff">I was in the area,</font>
+<font color="#ffffff">just thought I'd pop by.</font>
+
+626
+00:47:00,465 --> 00:47:02,143
+<font color="#00ff00">Mm...</font>
+
+627
+00:47:02,145 --> 00:47:03,425
+<font color="#00ff00">You OK?</font>
+
+628
+00:47:04,385 --> 00:47:05,705
+<font color="#ffffff">Fine.</font>
+
+629
+00:47:06,665 --> 00:47:08,185
+<font color="#00ff00">Really?</font>
+
+630
+00:47:10,985 --> 00:47:14,545
+<font color="#ffffff">Things are a bit difficult at work.</font>
+<font color="#ffffff">I just need a break.</font>
+
+631
+00:47:18,225 --> 00:47:21,023
+<font color="#ffffff">Oh!</font><font color="#00ff00"> Mm.</font>
+
+632
+00:47:21,025 --> 00:47:23,425
+<font color="#ffffff">It's nice to see you wear it.</font>
+<font color="#00ff00">Course.</font>
+
+633
+00:47:26,425 --> 00:47:28,623
+<font color="#00ff00">If you want it back...</font><font color="#ffffff"> No!</font>
+
+634
+00:47:28,625 --> 00:47:30,145
+<font color="#ffffff">SHE LAUGHS</font>
+
+635
+00:47:31,985 --> 00:47:34,425
+<font color="#ffffff">I held on to it</font>
+<font color="#ffffff">for all this time because...</font>
+
+636
+00:47:35,465 --> 00:47:40,185
+<font color="#ffffff">..I thought that one day,</font>
+<font color="#ffffff">you know, your mum and me...</font>
+
+637
+00:47:43,265 --> 00:47:45,225
+<font color="#ffffff">..might still be reunited.</font>
+
+638
+00:47:49,665 --> 00:47:51,705
+<font color="#ffffff">But it's not going to happen.</font>
+
+639
+00:47:58,705 --> 00:48:00,665
+<font color="#ffffff">We move on.</font>
+
+640
+00:48:04,385 --> 00:48:06,425
+<font color="#ffffff">It's important to me</font>
+<font color="#ffffff">that you have it.</font>
+
+641
+00:48:18,065 --> 00:48:20,225
+<font color="#ffffff">PHONE RINGS</font>
+
+642
+00:48:22,185 --> 00:48:25,225
+<font color="#ffffff">Hello.</font>
+<font color="#00ff00">Boss, it's Birdy. Keenan's...</font>
+
+643
+00:48:28,985 --> 00:48:31,383
+<font color="#ffffff">OVER RADIO:</font>
+<font color="#ffffff">Suspect vehicle heading south.</font>
+
+644
+00:48:31,385 --> 00:48:34,303
+<font color="#ffffff">All units be advised,</font>
+<font color="#ffffff">I am in pursuit with HMSU,</font>
+
+645
+00:48:34,305 --> 00:48:36,785
+<font color="#ffffff">with Int Hub</font>
+<font color="#ffffff">overwatching UAV support.</font>
+
+646
+00:48:38,545 --> 00:48:40,623
+<font color="#00ffff">Keenan's numberplates</font>
+<font color="#00ffff">were spotted at a petrol</font>
+
+647
+00:48:40,625 --> 00:48:43,063
+<font color="#00ffff">station on the Dundrum Road,</font>
+<font color="#00ffff">just outside of Newcastle.</font>
+
+648
+00:48:43,065 --> 00:48:45,463
+<font color="#ffffff">And we're sure it's them?</font>
+<font color="#00ffff">Absolutely.</font>
+
+649
+00:48:45,465 --> 00:48:48,145
+<font color="#00ffff">Should be getting a visual</font>
+<font color="#00ffff">on them any time now.</font>
+
+650
+00:48:49,105 --> 00:48:51,263
+<font color="#00ffff">And there they are.</font>
+
+651
+00:48:51,265 --> 00:48:54,863
+<font color="#00ffff">The police were screwed on to</font>
+<font color="#00ffff">this red Peugeot 207, male driver.</font>
+
+652
+00:48:54,865 --> 00:48:58,585
+<font color="#00ffff">We pulled a UAV from another job</font>
+<font color="#00ffff">and we're tracking him from the air.</font>
+
+653
+00:49:00,745 --> 00:49:02,425
+<font color="#ffffff">Where's he going?</font>
+
+654
+00:49:16,025 --> 00:49:19,703
+<font color="#ffffff">OVER RADIO:</font><font color="#00ff00"> Vehicle still making</font>
+<font color="#00ff00">its way along Brianford Road.</font>
+
+655
+00:49:19,705 --> 00:49:22,103
+<font color="#ffff00">Roger that.</font>
+
+656
+00:49:22,105 --> 00:49:24,705
+<font color="#ffff00">He's turning off the road.</font>
+
+657
+00:49:26,985 --> 00:49:30,463
+<font color="#ffff00">The sign at the gate</font>
+<font color="#ffff00">is for Mourne View Hotel.</font>
+
+658
+00:49:30,465 --> 00:49:33,545
+<font color="#ffffff">Stand by.</font><font color="#00ffff"> Stand by.</font><font color="#ffff00"> Received.</font>
+
+659
+00:49:36,105 --> 00:49:38,465
+<font color="#ffffff">MESSAGES OVER RADIO</font>
+
+660
+00:49:39,945 --> 00:49:41,823
+<font color="#ffffff">Go.</font><font color="#00ffff"> Go, go, go!</font>
+
+661
+00:49:41,825 --> 00:49:43,985
+<font color="#ffffff">SIREN WAILS</font>
+
+662
+00:49:46,785 --> 00:49:51,183
+<font color="#ffffff">SHOUTING</font>
+<font color="#00ff00">Hands in the air, now!</font>
+
+663
+00:49:51,185 --> 00:49:53,783
+<font color="#00ffff">Keep your hands up!</font>
+<font color="#00ffff">Keep your hands up!</font>
+
+664
+00:49:53,785 --> 00:49:54,865
+<font color="#00ff00">Secured.</font>
+
+665
+00:49:56,465 --> 00:49:59,625
+<font color="#ffff00">Go to the ground floor.</font>
+<font color="#00ff00">Go, go, go!</font>
+
+666
+00:50:04,665 --> 00:50:06,623
+<font color="#ffffff">Who are you? Where's Pat Keenan?</font>
+
+667
+00:50:06,625 --> 00:50:08,943
+<font color="#ffff00">My name is Ben McFarland.</font>
+<font color="#ffff00">I own this hotel.</font>
+
+668
+00:50:08,945 --> 00:50:11,065
+<font color="#ffffff">Why are his numberplates</font>
+<font color="#ffffff">on your car?</font>
+
+669
+00:50:13,225 --> 00:50:15,825
+<font color="#ffff00">I didn't even notice</font>
+<font color="#ffff00">they weren't mine.</font><font color="#ffffff"> Hold him.</font>
+
+670
+00:50:19,825 --> 00:50:22,065
+<font color="#00ffff">All the rooms are clear.</font>
+
+671
+00:50:23,025 --> 00:50:24,625
+<font color="#ffffff">He says he's alone?</font><font color="#00ff00"> Yeah.</font>
+
+672
+00:50:25,585 --> 00:50:27,303
+<font color="#ffffff">KNOCK ON DOOR</font>
+<font color="#ffffff">Pat Keenan?</font>
+
+673
+00:50:27,305 --> 00:50:28,863
+<font color="#ffff00">Don't come in!</font>
+
+674
+00:50:28,865 --> 00:50:33,823
+<font color="#ffff00">I said do not come in! The door's</font>
+<font color="#ffff00">booby-trapped. I can see it.</font>
+
+675
+00:50:33,825 --> 00:50:37,305
+<font color="#ffffff">The numberplates are bait.</font>
+<font color="#ffffff">Stay back.</font><font color="#00ff00"> Fall back!</font>
+
+676
+00:50:54,745 --> 00:50:56,825
+<font color="#ffffff">MACHINE WHINES</font>
+
+677
+00:51:09,985 --> 00:51:12,785
+<font color="#ffffff">WHINING BECOMES LOUDER</font>
+
+678
+00:51:20,985 --> 00:51:23,103
+<font color="#ffffff">MESSAGES OVER RADIO</font>
+
+679
+00:51:23,105 --> 00:51:26,385
+<font color="#00ffff">I am putting a camera</font>
+<font color="#00ffff">under the door...now.</font>
+
+680
+00:51:32,425 --> 00:51:34,505
+<font color="#ffff00">No! Get back!</font>
+
+681
+00:51:42,305 --> 00:51:45,545
+<font color="#00ffff">Coming up under</font>
+<font color="#00ffff">the inside door handle.</font>
+
+682
+00:51:47,665 --> 00:51:50,465
+<font color="#00ffff">I have the device, detonator.</font>
+
+683
+00:51:52,225 --> 00:51:55,785
+<font color="#00ffff">It looks like a mechanical trigger</font>
+<font color="#00ffff">attached to the door handle.</font>
+
+684
+00:52:15,865 --> 00:52:17,225
+<font color="#00ffff">Hang on.</font>
+
+685
+00:52:19,465 --> 00:52:21,263
+<font color="#00ffff">This isn't right.</font>
+
+686
+00:52:21,265 --> 00:52:24,545
+<font color="#00ffff">The trigger and the detonator</font>
+<font color="#00ffff">aren't connected.</font>
+
+687
+00:52:27,025 --> 00:52:28,785
+<font color="#00ffff">I'm going through.</font>
+
+688
+00:52:48,985 --> 00:52:51,343
+<font color="#00ffff">All clear. Device is a hoax.</font>
+
+689
+00:52:51,345 --> 00:52:53,745
+<font color="#ffffff">OVER RADIO:</font><font color="#00ff00"> All clear.</font>
+<font color="#00ff00">Device is a hoax.</font>
+
+690
+00:52:54,985 --> 00:52:56,705
+<font color="#ffffff">Pat?</font>
+
+691
+00:52:59,105 --> 00:53:02,903
+<font color="#ffffff">Pat? You're OK. I'm Detective</font>
+<font color="#ffffff">Chief Inspector Tom Brannick.</font>
+
+692
+00:53:02,905 --> 00:53:04,905
+<font color="#ffffff">You're all right. You're safe now.</font>
+
+693
+00:53:34,825 --> 00:53:39,385
+<font color="#ffffff">KEENAN STRUGGLES</font>
+<font color="#00ff00">Sir? Deep breaths.</font>
+
+694
+00:53:46,985 --> 00:53:48,785
+<font color="#ffffff">LINE RINGS</font>
+
+695
+00:53:50,065 --> 00:53:51,945
+<font color="#ffff00">Boss?</font><font color="#ffffff"> Niamh.</font>
+
+696
+00:53:52,905 --> 00:53:55,585
+<font color="#ffff00">We're still on the island.</font><font color="#ffffff"> What?</font>
+
+697
+00:53:56,585 --> 00:53:58,225
+<font color="#ffff00">We've found something.</font>
+
+698
+00:54:38,665 --> 00:54:40,465
+<font color="#00ff00">This way, sir.</font>
+
+698
+00:54:41,305 --> 00:55:41,546
+OpenSubtitles recommends using Nord VPN
+from 3.49 USD/month ----> osdb.link/vpn
