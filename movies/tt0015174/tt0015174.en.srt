@@ -1,0 +1,1405 @@
+1
+00:00:06,000 --> 00:00:12,074
+-== [ www.OpenSubtitles.com ] ==-
+
+2
+00:00:26,417 --> 00:00:28,709
+Despite having more or less
+always been in circulation,
+
+3
+00:00:28,792 --> 00:00:30,459
+<i>DIE NIBELUNGEN
+has never been presented</i>
+
+4
+00:00:30,584 --> 00:00:32,251
+in any complete German version,
+
+5
+00:00:32,334 --> 00:00:34,084
+whether by way
+of any extant release print,
+
+6
+00:00:34,167 --> 00:00:36,334
+or anything struck
+from an original camera negative.
+
+7
+00:00:36,417 --> 00:00:39,459
+This photochemical restoration is based
+on incomplete camera negatives.
+
+8
+00:00:39,584 --> 00:00:42,251
+Missing sections were supplemented
+by various extant prints of the period
+
+9
+00:00:42,376 --> 00:00:43,792
+along with archival copies.
+
+10
+00:00:44,959 --> 00:00:48,292
+Colouration follows the conventional
+method of then-contemporary prints,
+
+11
+00:00:48,417 --> 00:00:50,334
+and is based upon
+original tinting technique:
+
+12
+00:00:50,417 --> 00:00:51,959
+the production of a B&W print,
+
+13
+00:00:52,084 --> 00:00:54,084
+with subsequent staining
+performed in a dye-bath.
+
+14
+00:00:54,209 --> 00:00:56,917
+The German intertitles were taken
+from extant prints and flash-titles
+
+15
+00:00:57,042 --> 00:00:58,626
+restored digitally from the negatives.
+
+16
+00:00:58,751 --> 00:01:00,542
+Missing titles
+that have been reconstructed
+
+17
+00:01:00,626 --> 00:01:02,292
+are designated
+by the Murnau-Stiftung logo.
+
+18
+00:01:03,417 --> 00:01:07,792
+For this HD mastering,
+the image has been corrected in places,
+
+19
+00:01:07,917 --> 00:01:12,251
+and heavy damage
+to the film has been retouched.
+
+20
+00:01:13,084 --> 00:01:17,417
+<i>THE NIBELUNGEN</i>
+
+21
+00:01:17,584 --> 00:01:20,584
+Director: Fritz Lang
+
+22
+00:01:20,751 --> 00:01:24,459
+Scenario: Thea von Harbou
+
+23
+00:01:24,667 --> 00:01:28,292
+Cinematography:
+Carl Hoffmann and Gnther Rittau
+
+24
+00:01:28,501 --> 00:01:31,959
+Set Design and Construction: Otto Hunte
+
+25
+00:01:32,167 --> 00:01:35,584
+Set Collaborators:
+Erich Kettelhut and Karl Vollbrecht
+
+26
+00:01:35,792 --> 00:01:39,709
+Costume Design: Paul Gerd Guderian
+
+27
+00:01:39,876 --> 00:01:42,876
+Make-Up: Otto Genath
+
+28
+00:01:43,042 --> 00:01:46,501
+Music: Gottfried Huppertz
+
+29
+00:01:46,709 --> 00:01:50,126
+Costumes and Props for the Huns:
+Heinrich Umlauff
+
+30
+00:01:50,334 --> 00:01:52,167
+Cast:
+
+31
+00:01:52,251 --> 00:01:54,084
+Kriemhild: Margarete Schצn
+
+32
+00:01:54,167 --> 00:01:55,959
+Queen Ute: Gertrud Arnold
+
+33
+00:01:56,084 --> 00:01:57,876
+King Gunther: Theodor Loos
+
+34
+00:01:57,959 --> 00:01:59,751
+Gerenot: Hans Carl Mller
+
+35
+00:01:59,876 --> 00:02:01,667
+Giselher: Erwin Biswanger
+
+36
+00:02:01,751 --> 00:02:03,584
+Volker von Alzey: Bernhard Goetzke
+
+37
+00:02:03,667 --> 00:02:05,459
+Hagen Tronje: Hans Adalbert Schlettow
+
+38
+00:02:05,584 --> 00:02:07,376
+Dankwart: Hardy von Franחois
+
+39
+00:02:07,459 --> 00:02:09,251
+The Priest: Georg Jurowski
+
+40
+00:02:09,376 --> 00:02:11,167
+The Noble Boy: Iris Roberts
+
+41
+00:02:11,251 --> 00:02:13,084
+Kצnig Etzel (King Attila):
+Rudolf Klein-Rogge
+
+42
+00:02:13,167 --> 00:02:14,959
+Blaodel, His Brother: Georg John
+
+43
+00:02:15,084 --> 00:02:16,876
+Werbel, the Bard: Hubert Heinrich
+
+44
+00:02:16,959 --> 00:02:18,751
+Margrave Rdiger von Bechlarn:
+Rudolf Rittner
+
+45
+00:02:18,876 --> 00:02:20,667
+Dietlind, His Daughter: Aenne Rצttgen
+
+46
+00:02:20,751 --> 00:02:22,584
+Dietrich von Bern: Fritz Alberti
+
+47
+00:02:22,667 --> 00:02:24,459
+Hildebrand: Georg August Koch
+
+48
+00:02:28,292 --> 00:02:32,042
+<i>Thea von Harbou's script
+for the film Die Nibelungen,</i>
+
+49
+00:02:32,126 --> 00:02:35,876
+with 24 images from the production,
+
+50
+00:02:35,959 --> 00:02:39,709
+is published by
+Drei Masken Verlag, Munich.
+
+51
+00:02:39,876 --> 00:02:43,751
+<i>THE NIBELUNGEN</i>
+
+52
+00:02:43,959 --> 00:02:49,251
+Dedicated to the German People
+
+53
+00:02:49,417 --> 00:02:54,167
+<i>KRIEMHILD'S REVENGE</i>
+
+54
+00:02:54,334 --> 00:02:59,126
+The First Canto:
+
+55
+00:02:59,334 --> 00:03:03,126
+How Kriemhild Mourned Siegfried,
+
+56
+00:03:03,251 --> 00:03:07,042
+and How Kצnig Etzel (King Attila)
+Courted Her
+
+57
+00:03:07,126 --> 00:03:10,959
+Through Rdiger von Bechlarn.
+
+58
+00:03:51,042 --> 00:03:58,584
+King Gunther, Margrave Rdiger
+von Bechlarn asks for an audience!
+
+59
+00:04:33,084 --> 00:04:40,084
+I come as ambassador to King Attila.
+He who is called the Lord of the Earth -
+
+60
+00:04:55,542 --> 00:05:03,084
+He who seeks the hand
+of your sister Kriemhild in marriage.
+
+61
+00:05:27,459 --> 00:05:33,834
+I am afraid King Attila knows not
+whom he woos.
+
+62
+00:06:30,251 --> 00:06:37,834
+In the name of Siegfried, who was
+murdered and whose murderer lives!
+
+63
+00:07:00,001 --> 00:07:05,251
+Keep in mind how Siegfried died!
+
+64
+00:09:15,667 --> 00:09:23,292
+Lord Attila sends me, O Queen,
+to ask for your hand on his behalf!
+
+65
+00:09:33,126 --> 00:09:35,626
+You seem to know quite well, Rdiger,
+
+66
+00:09:35,751 --> 00:09:38,209
+that I have been exposed
+
+67
+00:09:38,292 --> 00:09:40,751
+to grievous wrongs
+
+68
+00:09:40,876 --> 00:09:43,334
+in the house of my clan!
+
+69
+00:10:06,751 --> 00:10:12,001
+Brother! Where is your brother Siegfried?
+
+70
+00:10:20,876 --> 00:10:25,917
+Deliver unto me the murderer
+of my husband, O King!
+
+71
+00:10:34,167 --> 00:10:36,959
+He has remained loyal to me;
+
+72
+00:10:37,084 --> 00:10:39,876
+so shall I remain loyal to him.
+
+73
+00:10:39,959 --> 00:10:42,751
+This, Kriemhild, is my final word!
+
+74
+00:12:12,084 --> 00:12:16,709
+Lady Kriemhild, Margrave Rdiger,
+
+75
+00:12:16,792 --> 00:12:21,417
+wishes to speak with you after evensong!
+
+76
+00:12:50,042 --> 00:12:56,376
+Now, Gerenot, is the time
+to keep close watch over Burgundy!
+
+77
+00:13:52,709 --> 00:13:57,709
+Speak to me of Lord Attila, Rdiger!
+
+78
+00:15:20,167 --> 00:15:23,876
+You court a dead woman, Rdiger!
+
+79
+00:15:23,959 --> 00:15:27,626
+He who murdered my husband
+
+80
+00:15:27,751 --> 00:15:31,417
+flaunts the greensparkling sword
+
+81
+00:15:31,501 --> 00:15:35,167
+that he stole from the dead man.
+
+82
+00:16:26,334 --> 00:16:31,292
+If ever you were done wrong
+at Attila's court, my lady,
+
+83
+00:16:31,417 --> 00:16:36,376
+- Lord Attila would know
+how to avenge you!
+
+84
+00:16:52,209 --> 00:16:59,709
+Lord Margrave, swear this unto me
+in your and in King Attila's names!
+
+85
+00:17:30,251 --> 00:17:38,084
+Not on the cross, Lord Margrave,
+- on the sharp edge of your sword!
+
+86
+00:18:10,251 --> 00:18:15,542
+My lady! Lord Hagen
+has stolen the Treasure!
+
+87
+00:18:35,917 --> 00:18:41,251
+You have my word,
+Lord Margrave Rdiger!
+
+88
+00:19:10,834 --> 00:19:15,917
+Hagen Tronje, where is the Treasure?
+
+89
+00:19:22,709 --> 00:19:25,834
+Thus spake loyal Hagen:
+
+90
+00:19:25,917 --> 00:19:29,042
+Somewhere, my lady, where no-one
+
+91
+00:19:29,126 --> 00:19:32,251
+might use the gold to forge arms
+
+92
+00:19:32,334 --> 00:19:35,417
+against the kings of Burgundy!
+
+93
+00:19:46,126 --> 00:19:50,542
+Thus ends the First Canto.
+
+94
+00:19:54,167 --> 00:19:58,459
+The Second Canto:
+
+95
+00:19:58,667 --> 00:20:02,167
+How Kriemhild Fled Her Homeland,
+
+96
+00:20:02,251 --> 00:20:05,751
+and How She Was Received
+
+97
+00:20:05,876 --> 00:20:09,376
+by Lord Attila.
+
+98
+00:22:02,876 --> 00:22:07,251
+You have drunk Siegfried's blood, O Earth!
+
+99
+00:22:07,376 --> 00:22:11,751
+One day I shall drench you
+with Hagen Tronje's blood!
+
+100
+00:23:41,959 --> 00:23:47,376
+I shall return! Rest assured, I shall return!
+
+101
+00:26:08,376 --> 00:26:18,375
+My daughter, shall you not proffer your
+hand in farewell to your brother Gunther?
+
+102
+00:26:30,917 --> 00:26:33,834
+No, mother.
+
+103
+00:26:56,209 --> 00:27:00,251
+You are heading far away, Lady Kriemhild.
+
+104
+00:27:00,334 --> 00:27:04,376
+Don't you want to make peace
+with your family first?
+
+105
+00:27:10,667 --> 00:27:13,292
+No, my priest.
+
+106
+00:29:15,126 --> 00:29:21,251
+Don't you even once
+want to hail your people, my lady?
+
+107
+00:29:25,667 --> 00:29:28,584
+No, Rdiger.
+
+108
+00:29:45,584 --> 00:29:51,751
+As Kriemhild approached, springtime
+blossomed in the land of the Huns.
+
+109
+00:31:50,834 --> 00:31:57,042
+That sack full of gold is mine!
+The queen is coming!
+
+110
+00:32:12,667 --> 00:32:16,251
+Meet her, brother!
+
+111
+00:32:28,792 --> 00:32:31,667
+Royal jewellery!
+
+112
+00:33:32,751 --> 00:33:39,334
+My lady, King Attila's brother,
+Blaodel, gives thee welcome!
+
+113
+00:37:07,251 --> 00:37:13,376
+Choose for yourself
+
+114
+00:37:13,459 --> 00:37:19,626
+a kingdom from my lands, Rdiger,
+
+115
+00:37:19,751 --> 00:37:25,917
+in gratitude for this woman!
+
+116
+00:37:42,209 --> 00:37:45,417
+Ask King Attila, Margrave Rdiger,
+
+117
+00:37:45,542 --> 00:37:48,751
+whether he is prepared
+
+118
+00:37:48,834 --> 00:37:52,084
+to make your oath his own!
+
+119
+00:38:55,334 --> 00:38:57,959
+Upon my oath, O Queen:
+
+120
+00:38:58,084 --> 00:39:00,709
+any man who insults you
+
+121
+00:39:00,792 --> 00:39:03,417
+or does you wrong
+
+122
+00:39:03,542 --> 00:39:06,167
+shall die a hundredfold death!
+
+123
+00:39:43,334 --> 00:39:47,751
+Thus ends the Second Canto.
+
+124
+00:39:51,417 --> 00:39:55,751
+The Third Canto:
+
+125
+00:39:55,917 --> 00:39:58,542
+How King Attila Besieged Rome
+
+126
+00:39:58,626 --> 00:40:01,251
+and How Kriemhild
+Summoned Her Brothers.
+
+127
+00:40:33,042 --> 00:40:35,542
+Lord Attila swore
+
+128
+00:40:35,626 --> 00:40:38,167
+he wanted to turn Rome's churches
+
+129
+00:40:38,251 --> 00:40:40,792
+into stables for our horses!
+
+130
+00:40:40,917 --> 00:40:43,417
+Why does Lord Attila
+
+131
+00:40:43,542 --> 00:40:46,084
+no longer uphold his oath?
+
+132
+00:40:59,376 --> 00:41:01,709
+We traipsed headlong into war!
+
+133
+00:41:01,792 --> 00:41:04,126
+Why don't we ride further onward?
+
+134
+00:41:04,251 --> 00:41:06,584
+Why is Lord Attila's horse
+
+135
+00:41:06,709 --> 00:41:09,084
+tethered to his tent?
+
+136
+00:42:46,376 --> 00:42:50,459
+A great horseman was King Attila!
+
+137
+00:42:50,584 --> 00:42:54,709
+A mighty mare for him was the world!
+
+138
+00:42:54,792 --> 00:42:58,917
+Lord Attila whipped the world - his mare!
+
+139
+00:42:59,042 --> 00:43:03,167
+What does Lord Attila do now?
+
+140
+00:43:11,917 --> 00:43:18,251
+He sleeps! He sleeps!
+Lord Attila, Attila sleeps!
+
+141
+00:43:31,501 --> 00:43:34,417
+This white woman has stolen Attila
+
+142
+00:43:34,542 --> 00:43:37,417
+from underneath our noses!
+
+143
+00:43:37,542 --> 00:43:40,417
+With her tresses
+
+144
+00:43:40,542 --> 00:43:43,417
+does she bind up the horseman,
+
+145
+00:43:43,542 --> 00:43:46,042
+The great horseman, Lord Attila!
+
+146
+00:43:51,584 --> 00:43:54,501
+This white woman has stolen Attila
+
+147
+00:43:54,584 --> 00:43:57,459
+from underneath our noses!
+
+148
+00:43:57,584 --> 00:44:00,417
+With her tresses
+
+149
+00:44:00,542 --> 00:44:03,417
+does she bind up the horseman,
+
+150
+00:44:03,501 --> 00:44:06,376
+The great horseman, Lord Attila!
+
+151
+00:44:36,417 --> 00:44:39,251
+My lord -! Kriemhild...
+
+152
+00:44:44,001 --> 00:44:49,209
+My lord -! Kriemhild has borne you a son!
+
+153
+00:47:57,251 --> 00:48:01,042
+O Earth... sacred Earth...
+
+154
+00:52:37,667 --> 00:52:47,666
+One wish, O Queen!
+One wish that I might fulfill for you!
+
+155
+00:52:58,167 --> 00:53:00,876
+If you would honour me
+
+156
+00:53:00,959 --> 00:53:03,626
+and make me happy, Lord Attila,
+
+157
+00:53:03,751 --> 00:53:06,417
+then summon my brothers
+
+158
+00:53:06,501 --> 00:53:09,167
+as guests to your court!
+
+159
+00:53:26,917 --> 00:53:30,501
+To Worms, Blaodel,
+
+160
+00:53:30,584 --> 00:53:34,126
+to request as guests to our court
+
+161
+00:53:34,251 --> 00:53:37,751
+the royal brothers of my wife!
+
+162
+00:53:55,751 --> 00:54:00,084
+Thus ends the Third Canto.
+
+163
+00:54:03,751 --> 00:54:08,334
+The Fourth Canto:
+
+164
+00:54:08,542 --> 00:54:17,417
+How Kriemhild Received Her Brothers.
+
+165
+00:54:36,542 --> 00:54:39,542
+For more than one moon's time
+
+166
+00:54:39,626 --> 00:54:42,667
+your brothers stayed as guests of Rdiger
+
+167
+00:54:42,751 --> 00:54:45,792
+in the house of Bechlarn.
+
+168
+00:54:57,584 --> 00:55:00,751
+The minstrels sing a new song of the love
+
+169
+00:55:00,876 --> 00:55:04,042
+between your brother Giselher
+
+170
+00:55:04,126 --> 00:55:07,292
+and Rdiger's only child,
+
+171
+00:55:07,417 --> 00:55:10,584
+the beautiful Dietlind!
+
+172
+00:55:56,292 --> 00:55:58,751
+And so I bind in faith -
+
+173
+00:55:58,876 --> 00:56:01,376
+Bechlarn and Burgundy:
+
+174
+00:56:01,459 --> 00:56:03,959
+one heart, one life, one death!
+
+175
+00:56:18,834 --> 00:56:21,667
+To honour your brothers,
+
+176
+00:56:21,751 --> 00:56:24,584
+Lord Attila has sent
+the noblest of his knights -
+
+177
+00:56:24,709 --> 00:56:27,542
+Dietrich von Bern - to greet them.
+
+178
+00:56:41,917 --> 00:56:45,084
+Once more, Nibelungen,
+
+179
+00:56:45,167 --> 00:56:48,376
+before Lord Attila comes to greet you:
+
+180
+00:56:48,459 --> 00:56:51,626
+Forget not to whom Attila leads thee!
+
+181
+00:56:56,917 --> 00:57:01,209
+How could we forget, my lord,
+
+182
+00:57:01,292 --> 00:57:05,626
+that we come to visit our sister Kriemhild?
+
+183
+00:57:33,584 --> 00:57:39,834
+Whoever wants to win my gratitude
+shall bear my sorrow in mind!
+
+184
+00:57:51,251 --> 00:57:55,751
+It was the day of the summer solstice,
+
+185
+00:57:55,876 --> 00:58:00,417
+and the Nibelungen arrived at Attila's court.
+
+186
+01:00:13,501 --> 01:00:19,584
+King Attila, I now exhort you to your oath!
+
+187
+01:00:37,251 --> 01:00:44,709
+Siegfried's murderer is in your hands!
+Think upon my sorrow!
+
+188
+01:00:56,626 --> 01:01:02,209
+Will you never forget
+Lord Siegfried, my lady?
+
+189
+01:01:23,376 --> 01:01:29,167
+Hagen Tronje shall fight me for his life!
+
+190
+01:01:43,542 --> 01:01:50,959
+You mustn't fight with the murderer, Attila!
+You must have the murderer killed!
+
+191
+01:01:56,501 --> 01:02:01,084
+Have our guest killed?
+
+192
+01:02:20,126 --> 01:02:22,959
+You swore to me, Attila!
+
+193
+01:02:23,084 --> 01:02:25,917
+On the life of your child:
+
+194
+01:02:26,001 --> 01:02:28,834
+Make good upon your oath!
+
+195
+01:02:45,001 --> 01:02:49,292
+I hail from a desert land, O Queen.
+
+196
+01:02:49,417 --> 01:02:53,751
+If only one thing is sacred, it is a guest!
+
+197
+01:03:13,251 --> 01:03:18,126
+So long as Hagen Tronje
+regards the peace of my house,
+
+198
+01:03:18,251 --> 01:03:23,084
+he shall be left in peace!
+
+199
+01:03:55,084 --> 01:04:02,292
+She spoke: Whoever wants to win
+my gratitude shall bear my sorrow in mind!
+
+200
+01:04:58,584 --> 01:05:02,292
+Whoever brings me the head of Tronje,
+
+201
+01:05:02,417 --> 01:05:06,084
+I shall fill his shield with gold!
+
+202
+01:05:43,292 --> 01:05:50,834
+But I beseech you:
+do no harm to the sons of my mother!
+
+203
+01:08:51,792 --> 01:08:56,084
+Play on, bard!
+
+204
+01:09:17,501 --> 01:09:22,626
+Thus ends the Fourth Canto.
+
+205
+01:09:26,251 --> 01:09:30,917
+The Fifth Canto:
+
+206
+01:09:31,084 --> 01:09:40,584
+How the Huns Celebrated
+the Summer Solstice with the Nibelungen.
+
+207
+01:10:32,501 --> 01:10:36,917
+Is it the fashion at Worms upon the Rhine
+
+208
+01:10:37,001 --> 01:10:41,417
+to sit at table armed from head to foot?
+
+209
+01:10:55,917 --> 01:11:03,917
+Lord Hagen Tronje knows
+why he never lays aside his sword!
+
+210
+01:15:44,751 --> 01:15:47,584
+Methinks that at such a feast
+
+211
+01:15:47,709 --> 01:15:50,542
+the heir to all Attila's crowns
+
+212
+01:15:50,626 --> 01:15:53,501
+mustn't be absent!
+
+213
+01:19:36,626 --> 01:19:40,667
+Methinks the boy will not live long.
+
+214
+01:19:40,751 --> 01:19:44,751
+Scarcely shall we as guests
+attend any court of his!
+
+215
+01:22:14,876 --> 01:22:17,667
+Treason!
+
+216
+01:22:43,417 --> 01:22:46,251
+The child!
+
+217
+01:23:17,542 --> 01:23:21,209
+The work of your guest, Lord Attila!
+
+218
+01:23:52,251 --> 01:23:57,209
+Now, Nibelungen, you are fair game!
+
+219
+01:24:24,626 --> 01:24:28,417
+I demand safe conduct from this hall
+
+220
+01:24:28,542 --> 01:24:32,334
+for myself and my men!
+
+221
+01:26:03,417 --> 01:26:08,501
+Thus ends the Fifth Canto.
+
+222
+01:26:12,167 --> 01:26:16,417
+The Sixth Canto:
+
+223
+01:26:16,584 --> 01:26:23,751
+The Nibelungen's Distress.
+
+224
+01:26:32,417 --> 01:26:38,167
+Alert Lady Kriemhild of what it is you see!
+
+225
+01:27:11,542 --> 01:27:15,792
+Open the gate!
+
+226
+01:28:09,376 --> 01:28:14,584
+No Hun survives any longer in Attila's hall!
+
+227
+01:28:23,417 --> 01:28:27,167
+Avenge thy dead, Huns!
+
+228
+01:29:31,584 --> 01:29:34,959
+O Queen, it is impossible!
+
+229
+01:30:13,417 --> 01:30:19,084
+Avenge thy dead, Huns,
+and the royal child!
+
+230
+01:34:07,417 --> 01:34:10,334
+Sister!
+
+231
+01:34:19,667 --> 01:34:23,417
+Sister! Consider your mother!
+
+232
+01:34:29,626 --> 01:34:35,792
+Hand over Siegfried's murderer -
+and you shall be free!
+
+233
+01:35:38,084 --> 01:35:42,376
+The fight is too uneven!
+
+234
+01:35:42,459 --> 01:35:46,709
+Not one of the Nibelungen
+will gaze upon this next dawn.
+
+235
+01:35:54,584 --> 01:35:59,667
+In Giselher does my own child die!
+
+236
+01:36:07,834 --> 01:36:13,084
+Stay out of it, Rdiger!
+
+237
+01:36:22,542 --> 01:36:26,209
+Blood shall follow blood!
+
+238
+01:38:09,001 --> 01:38:12,084
+Get me Rdiger!
+
+239
+01:39:22,792 --> 01:39:28,667
+The time is nigh, Lord Rdiger!
+Make good upon your oath!
+
+240
+01:39:42,626 --> 01:39:49,876
+Lord Margrave Rdiger,
+I demand from you Siegfried's murderer!
+
+241
+01:39:59,876 --> 01:40:02,459
+You do not send me against Hagen Tronje,
+
+242
+01:40:02,584 --> 01:40:05,167
+- you send me
+
+243
+01:40:05,251 --> 01:40:07,917
+against your brothers, my lady,
+
+244
+01:40:08,001 --> 01:40:10,626
+who defend him with their very lives!
+
+245
+01:40:24,167 --> 01:40:28,251
+You've sworn an oath, Rdiger!
+
+246
+01:40:28,334 --> 01:40:32,417
+You've sworn it upon the sharp edge
+of your sword!
+
+247
+01:40:57,417 --> 01:41:02,584
+I engaged my only child to Giselher!
+
+248
+01:41:18,042 --> 01:41:23,251
+Blood shall follow blood, Lord Rdiger!
+
+249
+01:42:08,876 --> 01:42:14,834
+My lord! Do not force me
+to kill my only child!
+
+250
+01:42:59,084 --> 01:43:04,251
+Thus ends the Sixth Canto.
+
+251
+01:43:07,876 --> 01:43:12,334
+The Seventh Canto:
+
+252
+01:43:12,501 --> 01:43:19,626
+The Nibelungen's End.
+
+253
+01:43:39,834 --> 01:43:44,917
+Lord Rdiger stands before the gate!
+
+254
+01:43:48,042 --> 01:43:51,667
+He will bring us peace!
+
+255
+01:44:08,334 --> 01:44:12,209
+What do you bring us, father?
+
+256
+01:44:18,417 --> 01:44:21,251
+Death!
+
+257
+01:44:54,209 --> 01:45:00,459
+My lord, do not allow they
+who love one another to kill one another!
+
+258
+01:45:07,042 --> 01:45:09,126
+Tell them:
+
+259
+01:45:09,251 --> 01:45:11,376
+They must deliver unto me
+
+260
+01:45:11,459 --> 01:45:13,584
+the murderer of my child
+
+261
+01:45:13,709 --> 01:45:15,834
+- and they are free!
+
+262
+01:45:29,626 --> 01:45:34,876
+You know not the German soul, Lord Attila!
+
+263
+01:45:41,459 --> 01:45:50,376
+The oath I made to Kriemhild is older
+than the oath between myself and you!
+
+264
+01:45:58,876 --> 01:46:05,209
+Don't force me to break my oath! Fight!
+
+265
+01:46:17,376 --> 01:46:24,917
+Do you wish me to lose my honour?! -
+Defend yourself, Hagen Tronje!
+
+266
+01:47:32,751 --> 01:47:36,751
+O sister, what you have wrought!
+
+267
+01:48:11,584 --> 01:48:16,709
+Deliver Hagen unto me -
+and you are free!
+
+268
+01:49:23,917 --> 01:49:27,501
+Exalt in your revenge, Kriemhild!
+
+269
+01:49:27,584 --> 01:49:31,209
+Your younger brother is dead!
+
+270
+01:49:31,292 --> 01:49:34,917
+Rdiger and his men are dead!
+
+271
+01:49:47,126 --> 01:49:53,584
+But Hagen Tronje lives on,
+who slew your Siegfried!
+
+272
+01:50:46,417 --> 01:50:50,417
+Hurl fire into the hall!
+
+273
+01:53:23,376 --> 01:53:27,501
+My lord! The Queen bids the hall
+be bombarded with fire arrows!
+
+274
+01:53:27,584 --> 01:53:31,709
+The palace is burning!
+
+275
+01:53:49,001 --> 01:53:52,251
+Lady Kriemhild is right,
+
+276
+01:53:52,334 --> 01:53:55,584
+she is more than right!
+
+277
+01:53:55,667 --> 01:53:58,917
+I myself will stand at her side as the fire
+
+278
+01:53:59,001 --> 01:54:02,251
+flushes the murderer Hagen from his hole!
+
+279
+01:54:30,251 --> 01:54:33,417
+You have my thanks, Kriemhild!
+
+280
+01:54:33,542 --> 01:54:36,751
+Although we were never united in love,
+
+281
+01:54:36,876 --> 01:54:40,084
+we will, in the end, yet be united in hate!
+
+282
+01:54:54,334 --> 01:55:01,584
+Never, King Attila,
+was my heart so filled with love as now!
+
+283
+01:56:09,334 --> 01:56:12,917
+I don't want King Gunther of Burgundy
+
+284
+01:56:13,042 --> 01:56:16,667
+to die a smoky death!
+
+285
+01:56:16,751 --> 01:56:20,417
+I shall offer Lady Kriemhild my head!
+
+286
+01:56:25,292 --> 01:56:32,917
+Speak, ye Nibelungen, will you
+buy your lives with Hagen Tronje's head?!
+
+287
+01:56:40,251 --> 01:56:49,001
+Loyalty, unbroken by iron,
+also will not melt in fire, Hagen Tronje!
+
+288
+01:57:16,751 --> 01:57:21,917
+Look! Volker prepares his fiddle
+for one final song!
+
+289
+01:57:45,084 --> 01:57:48,709
+I call it a shame and a disgrace,
+
+290
+01:57:48,792 --> 01:57:52,376
+Lady Kriemhild, that you let these heroes
+
+291
+01:57:52,459 --> 01:57:56,042
+whom you could not defeat in battle
+
+292
+01:57:56,126 --> 01:57:59,709
+be annihilated in fiery distress!
+
+293
+01:58:19,709 --> 01:58:23,667
+Do you hear? Lord Volker is singing!
+
+294
+01:59:23,751 --> 01:59:32,626
+O, that we were on the cool, green Rhine!
+
+295
+02:01:02,501 --> 02:01:06,542
+Do you hear? Lord Volker is singing!
+
+296
+02:01:10,417 --> 02:01:15,501
+You are no human being,
+Lady Kriemhild -!
+
+297
+02:01:28,542 --> 02:01:33,751
+No! I died when Siegfried died...
+
+298
+02:01:36,209 --> 02:01:40,334
+An end -! An end -!
+
+299
+02:01:53,917 --> 02:01:59,042
+One vassal still lives, Lord Attila!
+
+300
+02:06:57,042 --> 02:07:00,626
+I cannot go home to my dead Siegfried
+
+301
+02:07:00,751 --> 02:07:04,334
+before having atoned for every wrong...
+
+302
+02:07:04,417 --> 02:07:08,042
+Here is the sword, Lord Hagen.
+
+303
+02:07:08,126 --> 02:07:11,751
+Where is the Treasure?
+
+304
+02:07:19,251 --> 02:07:22,917
+I swore never to betray
+the location of the Treasure
+
+305
+02:07:23,042 --> 02:07:26,751
+so long as one of my kings still lives!
+
+306
+02:08:02,751 --> 02:08:05,751
+Now, Kriemhild,
+
+307
+02:08:05,876 --> 02:08:08,876
+no-one knows anything of the Treasure
+
+308
+02:08:08,959 --> 02:08:11,959
+other than God and myself!
+
+309
+02:08:12,084 --> 02:08:15,084
+And God is no more discreet than I!
+
+310
+02:09:08,876 --> 02:09:12,917
+Now, Earth, drink your fill!
+
+311
+02:09:38,251 --> 02:09:41,876
+Deliver her home to Siegfried,
+
+312
+02:09:41,959 --> 02:09:45,584
+her dead husband!
+
+313
+02:09:45,667 --> 02:09:49,292
+She belonged to no other man!
+
+314
+02:09:57,667 --> 02:10:02,084
+Here does the myth have an end.
+
+315
+02:10:03,084 --> 02:10:07,334
+Restoration:
+
+316
+02:10:08,167 --> 02:10:17,626
+With the collaboration of:
+
+317
+02:10:18,167 --> 02:10:25,501
+The following partners
+also contributed to the restoration:
+
+318
+02:10:26,126 --> 02:10:28,834
+Film restoration laboratory:
+
+319
+02:10:28,917 --> 02:10:31,667
+Consultation on image quality and tinting:
+
+320
+02:10:37,084 --> 02:10:38,917
+Original score:
+
+321
+02:10:39,001 --> 02:10:40,792
+Reconstruction and synchronisation:
+
+322
+02:10:40,917 --> 02:10:42,709
+Music in ZDF/Arte Edition:
+
+323
+02:10:43,084 --> 02:10:44,501
+Recorded with:
+
+324
+02:10:44,584 --> 02:10:46,042
+Musical director:
+
+325
+02:10:46,126 --> 02:10:47,584
+Sound mixers:
+
+326
+02:10:47,667 --> 02:10:49,084
+Synch editing:
+
+327
+02:10:49,209 --> 02:10:50,626
+Sound engineer:
+
+328
+02:10:51,126 --> 02:10:52,917
+Musical production of:
+
+329
+02:10:53,042 --> 02:10:54,792
+Editorial:
+
+330
+02:10:54,917 --> 02:10:56,667
+Director of production:
+
+331
+02:10:57,084 --> 02:11:01,709
+A co-production of:
+
+332
+02:11:02,305 --> 02:12:02,941
+Please rate this subtitle at www.osdb.link/3nxts
+Help other users to choose the best subtitles
