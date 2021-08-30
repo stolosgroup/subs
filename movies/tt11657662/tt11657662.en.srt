@@ -1,0 +1,4340 @@
+1
+00:00:06,000 --> 00:00:12,074
+-== [ www.OpenSubtitles.com ] ==-
+
+2
+00:00:12,833 --> 00:00:15,333
+<i>♪ There once was a lord ♪</i>
+
+3
+00:00:15,416 --> 00:00:17,291
+<i>♪ In dark woods ♪</i>
+
+4
+00:00:17,375 --> 00:00:24,250
+<i>♪ Wearing a strange silver band ♪</i>
+
+5
+00:00:24,916 --> 00:00:29,416
+<i>♪ Around his hand ♪</i>
+
+6
+00:00:37,500 --> 00:00:42,125
+<i>♪ The band was charmed
+With ore from stars ♪</i>
+
+7
+00:00:42,208 --> 00:00:49,208
+<i>♪ Bidding all monsters away ♪</i>
+
+8
+00:00:50,083 --> 00:00:53,958
+<i>♪ Away ♪</i>
+
+9
+00:00:54,958 --> 00:00:59,000
+<i>♪ On that quiet eve ♪</i>
+
+10
+00:00:59,583 --> 00:01:03,291
+<i>♪ Among these trees ♪</i>
+
+11
+00:01:03,375 --> 00:01:08,208
+<i>♪ A bandit slew the good lord ♪</i>
+
+12
+00:01:08,291 --> 00:01:11,250
+<i>♪ Stealing that band ♪</i>
+
+13
+00:01:11,333 --> 00:01:15,833
+<i>♪ Off a dead man's hand ♪</i>
+
+14
+00:01:17,250 --> 00:01:23,291
+<i>♪ For the bandit also feared ♪</i>
+
+15
+00:01:23,875 --> 00:01:29,083
+<i>♪ Monsters ♪</i>
+
+16
+00:01:29,166 --> 00:01:32,541
+Sugo, keep your eyes and ears open!
+
+17
+00:01:33,208 --> 00:01:34,875
+It's frightening the girls.
+
+18
+00:01:35,791 --> 00:01:37,791
+They wouldn't even be scared...
+
+19
+00:01:37,875 --> 00:01:39,875
+...if you hadn't gotten lost.
+
+20
+00:01:39,958 --> 00:01:42,625
+Really, Papa, you grew up in Kaedwen.
+
+21
+00:01:42,708 --> 00:01:45,583
+King clearly dug new trails.
+
+22
+00:01:46,666 --> 00:01:48,250
+Is it true, Papa?
+
+23
+00:01:48,333 --> 00:01:50,583
+Are bandits killing innocents
+along these trails?
+
+24
+00:01:50,666 --> 00:01:52,333
+Oh, pumpkin.
+
+25
+00:01:53,541 --> 00:01:55,875
+There are no bandits.
+
+26
+00:02:11,083 --> 00:02:12,083
+No!
+
+27
+00:02:16,708 --> 00:02:18,958
+Sister!
+
+28
+00:02:47,750 --> 00:02:49,041
+A witcher.
+
+29
+00:02:58,125 --> 00:03:00,458
+Fancy look.
+
+30
+00:03:03,500 --> 00:03:05,666
+You must make a killing
+at druid festivals.
+
+31
+00:03:06,208 --> 00:03:08,541
+Don't usually see your sorts
+around these parts.
+
+32
+00:03:14,083 --> 00:03:15,625
+Ha! I see.
+
+33
+00:03:16,458 --> 00:03:19,416
+You're a trailblazer,
+flaunting the new fad.
+
+34
+00:03:19,500 --> 00:03:20,708
+Trendsetter, you.
+
+35
+00:03:20,791 --> 00:03:22,833
+Very bold!
+
+36
+00:03:23,583 --> 00:03:26,333
+Whoa, there.
+People should get acquainted more, really.
+
+37
+00:03:26,416 --> 00:03:29,000
+Converse, a little foreplay.
+
+38
+00:03:29,708 --> 00:03:31,508
+Especially when
+one's about to kill the other.
+
+39
+00:03:32,583 --> 00:03:35,750
+Though you leshens don't speak,
+so there's the rub.
+
+40
+00:04:06,833 --> 00:04:10,333
+Forest hobo
+or deadly, flapping swarm.
+
+41
+00:04:12,750 --> 00:04:14,333
+Let's pick a look...
+
+42
+00:04:15,041 --> 00:04:16,125
+...and stick with it.
+
+43
+00:04:20,291 --> 00:04:22,125
+Deadly, flapping swarm it is.
+
+44
+00:04:37,208 --> 00:04:39,041
+Away. It's not dead.
+
+45
+00:04:39,125 --> 00:04:41,500
+So kill it. You're a witcher.
+
+46
+00:04:41,583 --> 00:04:43,750
+There are several ways to kill a leshen.
+
+47
+00:04:43,833 --> 00:04:46,041
+Behead it,
+sacrifice a few of its furry pets,
+
+48
+00:04:46,750 --> 00:04:48,875
+even a few old dryad spells will do.
+
+49
+00:04:49,750 --> 00:04:51,166
+Which will you...
+
+50
+00:05:07,208 --> 00:05:11,708
+<i>Garean bhaedh aip me vhoelynath.</i>
+
+51
+00:05:12,916 --> 00:05:17,958
+<i>Garean bhaedh aip me vhoelynath.</i>
+
+52
+00:05:20,333 --> 00:05:22,708
+Thought you said they don't speak?
+
+53
+00:05:23,750 --> 00:05:27,416
+<i>Garean bhaedh
+aip me vhoelynath.</i>
+
+54
+00:05:28,916 --> 00:05:29,958
+They don't.
+
+55
+00:05:49,166 --> 00:05:50,000
+Wait!
+
+56
+00:05:50,083 --> 00:05:52,083
+Wait. I'm noble blood.
+
+57
+00:05:52,166 --> 00:05:53,583
+You can't leave me here.
+
+58
+00:05:54,166 --> 00:05:55,208
+What am I to do?
+
+59
+00:05:59,791 --> 00:06:02,375
+He said, "Practice your sad face,
+
+60
+00:06:02,458 --> 00:06:05,375
+and maybe
+a passerby will offer you a ride."
+
+61
+00:06:06,208 --> 00:06:07,875
+And what of your sisters?
+
+62
+00:06:09,208 --> 00:06:12,583
+The witcher said
+to use my sad face on the alderman too.
+
+63
+00:06:13,208 --> 00:06:14,916
+So he'd spare some men to...
+
+64
+00:06:15,625 --> 00:06:16,916
+gather the bodies.
+
+65
+00:06:24,375 --> 00:06:25,541
+Dry eyes, child.
+
+66
+00:06:26,791 --> 00:06:31,083
+I'll see that your father and sisters are
+returned to you and laid to rest properly.
+
+67
+00:06:33,208 --> 00:06:35,833
+Sugo's father was
+a treasured member of the Assembly
+
+68
+00:06:35,916 --> 00:06:37,708
+and a loyal subject to our king.
+
+69
+00:06:37,791 --> 00:06:40,750
+My students and I resubmit our petition.
+
+70
+00:06:41,333 --> 00:06:43,708
+Seize the witcher home of Kaer Morhen
+
+71
+00:06:43,791 --> 00:06:47,291
+and exile its occupants
+for crimes against Kaedwen's people.
+
+72
+00:06:47,791 --> 00:06:50,666
+From what the boy told us, Your Highness,
+
+73
+00:06:50,750 --> 00:06:54,791
+the witcher slew the leshen
+that was terrorizing our forests.
+
+74
+00:06:54,875 --> 00:06:58,666
+Lady Zerbst, since when
+have leshens prowled about Kaedwen,
+
+75
+00:06:58,750 --> 00:07:00,666
+never mind with such hostility?
+
+76
+00:07:01,333 --> 00:07:02,458
+Eh?
+
+77
+00:07:02,541 --> 00:07:07,083
+Oh, you're suggesting the witchers
+have been staging these forest attacks.
+
+78
+00:07:07,166 --> 00:07:10,458
+So scandalous, Madam Gilcrest.
+
+79
+00:07:10,541 --> 00:07:13,666
+Monster species have dwindled
+under their swords.
+
+80
+00:07:13,750 --> 00:07:15,708
+They need coin.
+
+81
+00:07:15,791 --> 00:07:18,750
+Some have turned to mercenary work,
+others criminality.
+
+82
+00:07:18,833 --> 00:07:21,916
+One even took a bounty
+on a cheating husband's head.
+
+83
+00:07:22,000 --> 00:07:24,583
+And you have evidence
+to prove your conspiracy?
+
+84
+00:07:24,666 --> 00:07:29,041
+Or are we to merely bank
+on your magical intuition?
+
+85
+00:07:29,125 --> 00:07:31,083
+It's their natures, my lady.
+
+86
+00:07:32,583 --> 00:07:35,375
+Witchers are the offspring
+of foul sorcery.
+
+87
+00:07:35,875 --> 00:07:37,125
+Roaming our lands,
+
+88
+00:07:37,208 --> 00:07:39,583
+voting themselves the stalkers of evil,
+
+89
+00:07:39,666 --> 00:07:41,625
+extorting coin from the gullible.
+
+90
+00:07:42,125 --> 00:07:46,791
+Honest, simple peasants who ascribe
+all misfortune to spells and monsters.
+
+91
+00:07:46,875 --> 00:07:48,833
+Mages create the witcher.
+
+92
+00:07:48,916 --> 00:07:52,583
+Then presume it's our duty to hold
+the bucket and mop up their brown mess.
+
+93
+00:07:57,333 --> 00:07:59,458
+I'm with Lady Zerbst on this one.
+
+94
+00:07:59,958 --> 00:08:02,041
+The witchers remain at Kaer Morhen.
+
+95
+00:08:02,125 --> 00:08:04,958
+At least until such time
+as evidence is provided
+
+96
+00:08:06,250 --> 00:08:08,000
+that supports your theory.
+
+97
+00:08:26,875 --> 00:08:29,625
+When a witcher inflicts pain,
+
+98
+00:08:29,708 --> 00:08:32,458
+he experiences ecstasy.
+
+99
+00:08:33,250 --> 00:08:35,625
+The creature's words are Ellyon.
+
+100
+00:08:35,708 --> 00:08:38,916
+A dead elven dialect
+linked to darker times.
+
+101
+00:08:39,000 --> 00:08:41,416
+Few remember the ancient tongue.
+Fewer dare speak it.
+
+102
+00:08:42,333 --> 00:08:44,583
+But how a leshen would know it
+
+103
+00:08:44,666 --> 00:08:47,000
+or be afraid of some den...
+
+104
+00:08:47,083 --> 00:08:48,583
+Never said it was afraid.
+
+105
+00:08:49,333 --> 00:08:51,625
+You speak Ellyon, don't you, Filavandrel?
+
+106
+00:08:52,375 --> 00:08:54,625
+You witchers are desperate for coin.
+
+107
+00:08:55,208 --> 00:08:57,666
+Turning to elves for leads on work.
+
+108
+00:08:58,833 --> 00:09:03,041
+These pleasures do not pay for themselves.
+What did the leshen say?
+
+109
+00:09:03,708 --> 00:09:05,541
+"Beware the den of my dead."
+
+110
+00:09:05,625 --> 00:09:08,500
+Hmm. Things you don't wish
+to hear in a bath.
+
+111
+00:09:09,875 --> 00:09:12,750
+Did you notice anything else unusual?
+
+112
+00:09:13,250 --> 00:09:15,000
+There was an energy in the woods.
+
+113
+00:09:15,750 --> 00:09:17,375
+Some sort of magic, maybe.
+
+114
+00:09:17,458 --> 00:09:19,416
+Controlling the leshen, bewitching it.
+
+115
+00:09:20,166 --> 00:09:21,208
+What's your face?
+
+116
+00:09:22,416 --> 00:09:24,041
+Over the last four summers,
+
+117
+00:09:24,833 --> 00:09:26,916
+girls have been disappearing
+from our ranks.
+
+118
+00:09:27,000 --> 00:09:29,041
+Oh, God, no elf drama.
+
+119
+00:09:29,625 --> 00:09:33,250
+The first we feared were
+deserting us after the last cleansing.
+
+120
+00:09:33,750 --> 00:09:38,250
+- But the disappearances haven't stopped.
+- Tragic, really. Very terrible.
+
+121
+00:09:38,333 --> 00:09:41,583
+One of the first to vanish
+was a young mage, Kitsu.
+
+122
+00:09:42,750 --> 00:09:45,875
+She spoke Ellyon.
+We should return to these forests.
+
+123
+00:09:46,708 --> 00:09:48,541
+See, I'm a monster hunter, Fil,
+
+124
+00:09:48,625 --> 00:09:51,958
+not an elf wrangler, not even
+the murderous ones, but good luck.
+
+125
+00:09:52,041 --> 00:09:54,083
+A favor to a friend, then?
+
+126
+00:09:54,750 --> 00:09:57,375
+Favors and friends
+don't pay bills.
+
+127
+00:09:57,458 --> 00:09:58,666
+Quite the opposite.
+
+128
+00:09:59,166 --> 00:10:01,041
+You've really no shame.
+
+129
+00:10:01,125 --> 00:10:04,916
+I have a reputation and
+a healthy estimation of my talent's worth.
+
+130
+00:10:05,875 --> 00:10:10,166
+My apologies for trying to save you
+from a wasted winter at Kaer Morhen.
+
+131
+00:10:10,250 --> 00:10:12,541
+Wasted?
+
+132
+00:10:13,041 --> 00:10:15,791
+Well, there's drinking, eating, sleeping.
+
+133
+00:10:16,291 --> 00:10:17,166
+All free.
+
+134
+00:10:17,250 --> 00:10:21,291
+And the training
+of another greedy gang of young witchers.
+
+135
+00:10:22,000 --> 00:10:23,500
+I leave that to my peers.
+
+136
+00:10:25,083 --> 00:10:30,708
+Imagine if you witchers labored
+for more than just thrill and coin.
+
+137
+00:10:31,458 --> 00:10:33,958
+Imagine if you elves wielded your swords
+
+138
+00:10:34,041 --> 00:10:36,166
+as well as you do guilt.
+
+139
+00:10:46,166 --> 00:10:47,416
+Please! Get them!
+
+140
+00:10:48,416 --> 00:10:50,291
+Vesemir, get over here!
+
+141
+00:10:50,375 --> 00:10:53,291
+Where do...
+Hey! They must go!
+
+142
+00:10:56,166 --> 00:10:57,916
+Now they're nibbling. No!
+
+143
+00:10:58,000 --> 00:10:59,791
+Licking. Ooh! They're licking.
+
+144
+00:11:00,416 --> 00:11:02,500
+Oh! Tongues!
+
+145
+00:11:04,125 --> 00:11:06,291
+- No! Aah!
+- Vesemir!
+
+146
+00:11:06,375 --> 00:11:08,416
+I told you, double knots!
+
+147
+00:11:08,500 --> 00:11:10,625
+I did, Father. Just as you showed.
+
+148
+00:11:10,708 --> 00:11:13,166
+Let's see if the boy can handle
+fetching a wet cloth.
+
+149
+00:11:16,041 --> 00:11:18,750
+A lesser man
+would sell your boy to another family.
+
+150
+00:11:18,833 --> 00:11:19,833
+Yes, sir.
+
+151
+00:11:19,916 --> 00:11:24,000
+At least my son proves a measure
+of your generous character.
+
+152
+00:11:24,083 --> 00:11:27,458
+Head to the market.
+We will need blue gum to sedate our lady.
+
+153
+00:11:27,541 --> 00:11:29,416
+- No!
+- Try not to cock it up.
+
+154
+00:11:31,541 --> 00:11:33,583
+Please stop! Please make it stop!
+
+155
+00:11:33,666 --> 00:11:34,666
+- No.
+- No!
+
+156
+00:11:43,625 --> 00:11:45,666
+Stop fidgeting!
+
+157
+00:11:55,791 --> 00:11:57,458
+Aah! Oh!
+
+158
+00:12:01,166 --> 00:12:02,166
+Oh!
+
+159
+00:12:05,583 --> 00:12:08,708
+Poor Illyana.
+I didn't even have to take a shot.
+
+160
+00:12:08,791 --> 00:12:11,625
+Moron! You could've killed me.
+
+161
+00:12:12,541 --> 00:12:13,625
+Here to bother me?
+
+162
+00:12:13,708 --> 00:12:16,250
+The Lord insisted
+I look after you in the market.
+
+163
+00:12:16,333 --> 00:12:18,291
+Seemed rather pissed.
+
+164
+00:12:19,875 --> 00:12:22,583
+We slave away all day long,
+getting shout at,
+
+165
+00:12:22,666 --> 00:12:26,291
+and the only coin we get
+is when we're sent to fetch them goods.
+
+166
+00:12:26,375 --> 00:12:29,958
+Just be happy you have a roof over
+your head and your belly's not empty.
+
+167
+00:12:30,041 --> 00:12:34,541
+Barely a roof, barely not empty.
+Just enough to keep us here breathing.
+
+168
+00:12:35,708 --> 00:12:37,250
+Fine.
+
+169
+00:12:37,333 --> 00:12:38,625
+There's the world.
+
+170
+00:12:38,708 --> 00:12:41,083
+What would you buy
+if you had all its coin?
+
+171
+00:12:41,166 --> 00:12:44,125
+I would get the hell out of this village
+and travel the continent.
+
+172
+00:12:44,208 --> 00:12:45,958
+- Adventure?
+- Of course.
+
+173
+00:12:46,041 --> 00:12:47,791
+- Glory?
+- Oh, yes!
+
+174
+00:12:47,875 --> 00:12:48,875
+Girls?
+
+175
+00:12:51,500 --> 00:12:53,833
+I'd buy a gorgeous lake house.
+
+176
+00:12:54,333 --> 00:12:58,916
+My handsome husband and I would picnic
+and drink wine by the water
+
+177
+00:12:59,000 --> 00:13:01,333
+as our children played jacks nearby.
+
+178
+00:13:01,416 --> 00:13:03,500
+You know what we should do?
+
+179
+00:13:04,166 --> 00:13:06,500
+We should take this coin
+and buy honey cake.
+
+180
+00:13:06,583 --> 00:13:08,750
+And how will our lady get her herbs?
+
+181
+00:13:10,416 --> 00:13:12,809
+- Yes, three more of those.
+- Fresh mixed grills!
+
+182
+00:13:12,833 --> 00:13:14,333
+There you are, sir.
+
+183
+00:13:14,416 --> 00:13:16,166
+Stop! Thief!
+
+184
+00:13:17,208 --> 00:13:18,791
+Hey!
+
+185
+00:13:19,291 --> 00:13:20,333
+This way!
+
+186
+00:13:24,375 --> 00:13:25,666
+- Oh!
+- Stop him!
+
+187
+00:13:38,500 --> 00:13:39,833
+Nutcase.
+
+188
+00:13:53,041 --> 00:13:54,125
+Mmm!
+
+189
+00:13:55,166 --> 00:13:56,750
+Save some for me!
+
+190
+00:13:58,041 --> 00:14:00,666
+See, it worked.
+
+191
+00:14:00,750 --> 00:14:01,916
+I knew it would.
+
+192
+00:14:08,708 --> 00:14:10,166
+In Nilfgaard,
+
+193
+00:14:10,250 --> 00:14:12,958
+they'd cut your thieving hands right off.
+
+194
+00:14:14,000 --> 00:14:16,625
+Make you wear 'em
+round your neck for weeks.
+
+195
+00:14:17,958 --> 00:14:19,333
+Smart trick.
+
+196
+00:14:20,166 --> 00:14:21,583
+Odd loot.
+
+197
+00:14:21,666 --> 00:14:22,833
+Who you got who's sick?
+
+198
+00:14:26,000 --> 00:14:26,833
+Where...
+
+199
+00:14:26,916 --> 00:14:31,333
+Where'd a girl find balls like that
+in an alley wi' a man like me?
+
+200
+00:14:31,416 --> 00:14:35,500
+I steal them from smelly cowards
+who try to bully young ladies.
+
+201
+00:14:39,333 --> 00:14:40,333
+Who are you?
+
+202
+00:14:40,416 --> 00:14:45,333
+A humanitarian, whose well-meaning ears
+have heard of a local lady
+
+203
+00:14:45,416 --> 00:14:48,291
+lost to madness and fever...
+
+204
+00:14:48,375 --> 00:14:50,708
+...seeing horrors that aren't really there.
+
+205
+00:14:51,208 --> 00:14:55,166
+That blue gum will
+certainly ease the affliction, but, uh...
+
+206
+00:14:55,791 --> 00:14:57,250
+a sword would kill it.
+
+207
+00:14:57,333 --> 00:14:58,375
+Name's Deglan.
+
+208
+00:14:59,083 --> 00:15:01,333
+And you're gonna take me
+to your noblewoman.
+
+209
+00:15:01,833 --> 00:15:04,958
+Or I'm taking you two pests
+back to the market.
+
+210
+00:15:11,916 --> 00:15:14,000
+A demon plagues this woman.
+
+211
+00:15:14,083 --> 00:15:15,083
+A mahr.
+
+212
+00:15:15,500 --> 00:15:19,208
+Puts you down with horrid delusions
+and feeds off your madness.
+
+213
+00:15:19,291 --> 00:15:21,750
+Meteorite ore disrupts the demon's magic,
+
+214
+00:15:21,833 --> 00:15:23,833
+so it can be... removed.
+
+215
+00:15:24,333 --> 00:15:25,958
+Out. Now. All of you.
+
+216
+00:15:28,250 --> 00:15:29,416
+I'd like to remain.
+
+217
+00:15:30,625 --> 00:15:34,041
+Your boy's likely seen
+a monster or two in his time, no?
+
+218
+00:15:37,500 --> 00:15:39,583
+- Oof!
+- I'll be casting the spell.
+
+219
+00:15:39,666 --> 00:15:41,958
+It's on you to catch the critter.
+
+220
+00:15:43,166 --> 00:15:46,583
+But I thought a witcher slays monsters?
+
+221
+00:15:46,666 --> 00:15:48,375
+To slay a beast,
+
+222
+00:15:48,458 --> 00:15:50,416
+you've first got to understand it.
+
+223
+00:15:50,500 --> 00:15:51,958
+Study it.
+
+224
+00:15:52,458 --> 00:15:53,958
+Find its weakness.
+
+225
+00:15:54,500 --> 00:15:56,750
+I want this sucker alive and kicking.
+
+226
+00:15:57,875 --> 00:15:58,875
+If possible.
+
+227
+00:16:09,708 --> 00:16:10,791
+Steady, young fella.
+
+228
+00:16:10,875 --> 00:16:11,958
+Uh...
+
+229
+00:16:35,083 --> 00:16:36,708
+And he asked to stay.
+
+230
+00:16:58,833 --> 00:17:01,083
+Never let 'em get in your head.
+
+231
+00:17:01,666 --> 00:17:03,125
+Better dead than fled.
+
+232
+00:17:06,875 --> 00:17:09,041
+There'll always be another monster.
+
+233
+00:17:14,000 --> 00:17:15,000
+Vesemir.
+
+234
+00:17:15,500 --> 00:17:17,000
+Fetch warm water.
+
+235
+00:17:17,708 --> 00:17:18,791
+My head...
+
+236
+00:17:18,875 --> 00:17:21,291
+Oh, my head hurts wildly.
+
+237
+00:17:34,541 --> 00:17:36,000
+Nice weight, isn't it?
+
+238
+00:17:36,083 --> 00:17:39,291
+How much you suppose
+the job cost that prick master of yours?
+
+239
+00:17:40,875 --> 00:17:43,083
+Fear and ignorance are good business.
+
+240
+00:17:44,416 --> 00:17:46,000
+For your service, young fella.
+
+241
+00:17:54,416 --> 00:17:55,500
+Take me with you.
+
+242
+00:17:56,666 --> 00:17:58,666
+Not many boys seek to be witchers.
+
+243
+00:17:58,750 --> 00:18:02,083
+Even fewer seek a life
+of fetching bedpans and water.
+
+244
+00:18:02,166 --> 00:18:03,166
+And the girl?
+
+245
+00:18:04,000 --> 00:18:05,291
+Your blue-eyed lass?
+
+246
+00:18:06,583 --> 00:18:09,333
+You hesitated back with the mahr too.
+
+247
+00:18:09,416 --> 00:18:13,000
+Witchers do not hesitate.
+
+248
+00:18:40,916 --> 00:18:43,250
+- Stop!
+- Are you going to enjoy the day?
+
+249
+00:18:43,333 --> 00:18:47,083
+Or are you still too shook
+from your daring night of monster-slaying?
+
+250
+00:18:47,166 --> 00:18:49,166
+It was your first time, Vesemir.
+
+251
+00:18:49,750 --> 00:18:53,208
+Excuse me for wanting to be good
+at something other than serving.
+
+252
+00:18:53,291 --> 00:18:55,541
+Oh, I can see it now.
+
+253
+00:18:55,625 --> 00:18:57,875
+You, adorned in battle armor,
+
+254
+00:18:57,958 --> 00:18:59,583
+steel and silver swords,
+
+255
+00:18:59,666 --> 00:19:03,541
+saving the continent from kikamores,
+ghouls, and mad sorcerers.
+
+256
+00:19:03,625 --> 00:19:05,291
+Evil would tremble.
+
+257
+00:19:06,500 --> 00:19:09,916
+- Stylish armor, by the way.
+- Imagine it however you like.
+
+258
+00:19:10,666 --> 00:19:14,416
+Only way people like us survive is
+to dream of ourselves as something else.
+
+259
+00:19:15,000 --> 00:19:19,291
+Who knows? Perhaps someday
+I'll be a princess who commands the snow.
+
+260
+00:19:22,333 --> 00:19:23,333
+Uh!
+
+261
+00:19:25,708 --> 00:19:27,875
+Vesemir, I was only jesting.
+
+262
+00:19:27,958 --> 00:19:29,458
+You find our fates funny?
+
+263
+00:19:30,083 --> 00:19:34,250
+Why should I be meek and penniless
+like my father? Or you like your mother?
+
+264
+00:19:34,875 --> 00:19:37,750
+- What's got you so silly?
+- You wouldn't understand.
+
+265
+00:19:37,833 --> 00:19:40,125
+Vesemir, out there, we're nothing.
+
+266
+00:19:40,791 --> 00:19:41,916
+Less than nothing.
+
+267
+00:19:42,458 --> 00:19:45,000
+At least here,
+at the estate, we have station.
+
+268
+00:19:45,083 --> 00:19:46,750
+And if I could take care of you?
+
+269
+00:19:47,333 --> 00:19:49,791
+The coin that witcher made last night,
+
+270
+00:19:49,875 --> 00:19:51,416
+you should've saw it.
+
+271
+00:19:51,916 --> 00:19:54,791
+I'd get you your lake house,
+all your wine.
+
+272
+00:19:54,875 --> 00:19:57,416
+Anything and everything.
+
+273
+00:19:57,500 --> 00:19:58,500
+Yours.
+
+274
+00:19:59,416 --> 00:20:01,583
+So trade my debt to a master I hate
+
+275
+00:20:02,166 --> 00:20:04,083
+with a debt to one that I love?
+
+276
+00:20:06,666 --> 00:20:08,708
+Wait, Illyana! Stay!
+
+277
+00:20:09,208 --> 00:20:10,333
+You stay.
+
+278
+00:21:42,291 --> 00:21:43,916
+Lord Vesemir,
+
+279
+00:21:44,000 --> 00:21:45,291
+my new best friend.
+
+280
+00:21:45,375 --> 00:21:47,416
+Crossed a leshen on my way here.
+
+281
+00:21:47,500 --> 00:21:48,500
+So we've heard.
+
+282
+00:21:49,000 --> 00:21:51,250
+Meanwhile, I barely made enough this year
+
+283
+00:21:51,333 --> 00:21:53,791
+to score a night
+with a limp-pricked man-whore.
+
+284
+00:21:53,875 --> 00:21:55,541
+Your woes break me, Luka.
+
+285
+00:21:56,041 --> 00:21:59,041
+Then we've got Sven here
+bringing back new recruits.
+
+286
+00:21:59,125 --> 00:22:01,541
+Bad enough
+we're putting ourselves out of business
+
+287
+00:22:01,625 --> 00:22:03,416
+with every monster we kill.
+
+288
+00:22:03,500 --> 00:22:05,708
+Now there'll be even more of us.
+
+289
+00:22:05,791 --> 00:22:09,750
+Not my fault
+people make more kids than coin.
+
+290
+00:22:09,833 --> 00:22:12,166
+Also, short a man-whore?
+
+291
+00:22:12,708 --> 00:22:14,125
+Go fuck yourself.
+
+292
+00:22:14,208 --> 00:22:15,916
+Aren't you "short" everything?
+
+293
+00:22:16,000 --> 00:22:19,291
+Boys,
+monsters will fuck through the winter,
+
+294
+00:22:19,375 --> 00:22:22,208
+then come spring,
+there'll be jobs from here to Nazair.
+
+295
+00:22:22,291 --> 00:22:24,666
+Until then, I say we perk up,
+
+296
+00:22:24,750 --> 00:22:25,750
+drink up,
+
+297
+00:22:26,166 --> 00:22:30,041
+and you two focus on breaking these brats
+into the world of witchering.
+
+298
+00:22:33,875 --> 00:22:36,500
+"Witchers are rogues
+without virtue."
+
+299
+00:22:36,583 --> 00:22:39,666
+"True diabolical creatures,
+fit only for killing."
+
+300
+00:22:41,416 --> 00:22:44,250
+"There is no place
+amidst honest men for them."
+
+301
+00:22:45,250 --> 00:22:47,750
+My, my. How do you find this rubbish?
+
+302
+00:22:47,833 --> 00:22:51,583
+A few of the boys spotted 'em
+posted about towns on their way back.
+
+303
+00:22:51,666 --> 00:22:54,500
+"Tetra Gilcrest." Sounds like a botanist.
+
+304
+00:22:55,208 --> 00:22:56,208
+A purist.
+
+305
+00:22:56,666 --> 00:23:00,583
+Rambles about being a descendant
+of the first human mage.
+
+306
+00:23:00,666 --> 00:23:03,166
+Would it have vexed you
+to bury that lad's sisters?
+
+307
+00:23:04,208 --> 00:23:06,833
+You're feeding fodder
+to arses like Gilcrest.
+
+308
+00:23:08,125 --> 00:23:10,166
+That's a wyvern tooth, not a basilisk.
+
+309
+00:23:10,250 --> 00:23:11,958
+I'll mix and match as I please.
+
+310
+00:23:12,583 --> 00:23:13,583
+Look.
+
+311
+00:23:14,125 --> 00:23:17,125
+- You know me and children.
+- Get over it, young fella.
+
+312
+00:23:17,208 --> 00:23:19,583
+'Cause you're teaching fencing
+to the recruits.
+
+313
+00:23:19,666 --> 00:23:23,333
+- Am I being punished?
+- I'm down two dozen witchers this winter.
+
+314
+00:23:23,958 --> 00:23:28,083
+Wimps found employ
+in other more lucrative nonsense.
+
+315
+00:23:28,583 --> 00:23:30,791
+So we'll all be slogging more weight.
+
+316
+00:23:30,875 --> 00:23:34,125
+A wonderful winter
+of abandoned little tragedies.
+
+317
+00:23:34,208 --> 00:23:35,041
+Lovely.
+
+318
+00:23:35,125 --> 00:23:37,416
+Now, this leshen.
+
+319
+00:23:38,500 --> 00:23:40,875
+Tell me you've considered
+the thing was bewitched.
+
+320
+00:23:40,958 --> 00:23:42,916
+I'm not a dullard.
+
+321
+00:23:43,000 --> 00:23:45,333
+A croon could pull that feat.
+
+322
+00:23:45,416 --> 00:23:47,416
+A higher vampire, definitely.
+
+323
+00:23:48,208 --> 00:23:51,083
+Or it could be a new breed of leshen.
+
+324
+00:23:51,166 --> 00:23:54,875
+Actually, just elves airing
+their usual dirty trousers of victimhood.
+
+325
+00:23:55,375 --> 00:23:56,958
+Shame.
+
+326
+00:23:58,166 --> 00:24:01,250
+A few new beasts would be...
+good for business.
+
+327
+00:24:06,083 --> 00:24:08,208
+Why'd the witcher not handle this?
+
+328
+00:24:08,291 --> 00:24:11,416
+- Lies and conspiracy.
+- Look away from the faces.
+
+329
+00:24:12,416 --> 00:24:14,791
+I'd heard
+the leshen'd been killed.
+
+330
+00:24:18,291 --> 00:24:22,208
+A whiff of basilisk breath
+could snuff out ten strong men.
+
+331
+00:24:23,625 --> 00:24:26,041
+Did you find
+the creature's body?
+
+332
+00:24:27,500 --> 00:24:30,291
+A witcher would need proof
+to collect his coin.
+
+333
+00:24:30,958 --> 00:24:32,458
+And yet...
+
+334
+00:24:32,541 --> 00:24:34,166
+At least help me persuade the king
+
+335
+00:24:34,250 --> 00:24:36,958
+to send an envoy
+to Kaer Morhen to investigate, please.
+
+336
+00:24:37,791 --> 00:24:41,458
+Your acolytes have played
+to people's fears well enough.
+
+337
+00:24:41,541 --> 00:24:44,250
+The mere act of sending an envoy
+would indict the witchers,
+
+338
+00:24:44,333 --> 00:24:45,916
+whatever the truth.
+
+339
+00:24:46,708 --> 00:24:48,875
+Do you know
+what's involved in making a witcher?
+
+340
+00:24:50,041 --> 00:24:52,125
+The horrors done to their recruits?
+
+341
+00:24:52,208 --> 00:24:54,958
+Boys no older than your orphans here.
+
+342
+00:24:55,916 --> 00:24:58,416
+Your late husband
+would've understood this.
+
+343
+00:24:58,916 --> 00:25:01,250
+I was an ardent admirer of Lord Zerbst.
+
+344
+00:25:02,666 --> 00:25:04,000
+He was open-minded.
+
+345
+00:25:04,791 --> 00:25:05,791
+Forward-thinking.
+
+346
+00:25:06,541 --> 00:25:08,291
+Married you, after all.
+
+347
+00:25:08,375 --> 00:25:10,541
+Careful, Tetra.
+
+348
+00:25:11,041 --> 00:25:12,291
+Or be quiet.
+
+349
+00:25:12,875 --> 00:25:16,083
+Kaedwen's laws grant a widow
+her husband's seat at court.
+
+350
+00:25:16,166 --> 00:25:18,791
+The laws say nothing
+about erasing what she once was.
+
+351
+00:25:19,791 --> 00:25:21,750
+Well, how fortunate, my lady,
+
+352
+00:25:21,833 --> 00:25:24,208
+that few have wished to press the issue.
+
+353
+00:25:42,791 --> 00:25:44,458
+You ain't fed us in days!
+
+354
+00:25:44,541 --> 00:25:47,208
+We ain't given sleep, can barely stand up.
+
+355
+00:25:47,708 --> 00:25:49,833
+Now you got us playing with swords?
+
+356
+00:25:51,041 --> 00:25:53,958
+I don't wish to be here
+any more than you do.
+
+357
+00:25:54,833 --> 00:25:56,041
+I'll hazard a guess.
+
+358
+00:25:56,125 --> 00:25:59,583
+You all imagine there are better fates
+for you out there in the world.
+
+359
+00:26:00,541 --> 00:26:02,666
+But out there, you have nothing.
+
+360
+00:26:03,875 --> 00:26:05,916
+But here, we offer strength.
+
+361
+00:26:06,000 --> 00:26:07,750
+Purpose.
+
+362
+00:26:09,750 --> 00:26:10,750
+Respect.
+
+363
+00:26:11,125 --> 00:26:13,958
+A chance at surviving
+the very horrors waiting out there.
+
+364
+00:26:14,458 --> 00:26:17,041
+If you don't want that, then this...
+
+365
+00:26:20,375 --> 00:26:21,541
+is wasted on you.
+
+366
+00:26:25,166 --> 00:26:27,083
+"And if you don't want that,
+
+367
+00:26:27,166 --> 00:26:29,000
+then this is wasted on ya."
+
+368
+00:26:29,083 --> 00:26:31,666
+Ugh. That dorbel's full of shit.
+
+369
+00:26:31,750 --> 00:26:34,000
+Master Deglan's preparing us for the Path.
+
+370
+00:26:34,083 --> 00:26:36,208
+Better hardship here than out there.
+
+371
+00:26:37,625 --> 00:26:39,416
+Oh, there's a freeze tonight.
+
+372
+00:26:42,333 --> 00:26:44,291
+Shut up and steal what sleep you can.
+
+373
+00:26:46,291 --> 00:26:48,583
+Ah, don't mind Tomas.
+
+374
+00:26:48,666 --> 00:26:49,958
+Law of Surprise.
+
+375
+00:26:50,041 --> 00:26:52,875
+Didn't know he belonged to the witchers
+till one came knocking.
+
+376
+00:26:52,958 --> 00:26:54,125
+Law of Surprise?
+
+377
+00:26:54,208 --> 00:26:57,750
+Fancy name for when you can't
+pay a witcher. Give 'em your kid.
+
+378
+00:26:59,166 --> 00:27:01,291
+Were you sold,
+or did you volunteer?
+
+379
+00:27:01,375 --> 00:27:04,000
+Uh, my folks dumped me here.
+Like most.
+
+380
+00:27:04,083 --> 00:27:06,416
+Who chooses to be in this pigsty?
+
+381
+00:27:09,833 --> 00:27:11,791
+- Don't be so scared.
+- They're...
+
+382
+00:27:12,500 --> 00:27:15,000
+- They're going to poison us.
+- Who?
+
+383
+00:27:15,083 --> 00:27:17,250
+There are mages here.
+
+384
+00:27:17,333 --> 00:27:18,333
+Old ones.
+
+385
+00:27:18,833 --> 00:27:20,416
+Making witchers, they...
+
+386
+00:27:20,500 --> 00:27:22,875
+They'll kill us. Then bring us back, but...
+
+387
+00:27:23,458 --> 00:27:24,750
+we won't be normal.
+
+388
+00:27:26,041 --> 00:27:29,000
+- They call it...
+- The Trial of the Grasses. I know.
+
+389
+00:27:29,083 --> 00:27:30,416
+I get scared too.
+
+390
+00:27:31,291 --> 00:27:33,708
+Then I think,
+"Soon, I'll be out on the Path,
+
+391
+00:27:33,791 --> 00:27:36,666
+stronger than most anyone,
+wanting for nothing."
+
+392
+00:27:37,208 --> 00:27:38,541
+I'll never be scared again.
+
+393
+00:27:40,958 --> 00:27:43,833
+You'll come out the Trials
+better than normal, Tomas.
+
+394
+00:27:44,708 --> 00:27:45,708
+On my word.
+
+395
+00:28:04,125 --> 00:28:05,916
+- What the...
+- It's Vesemir!
+
+396
+00:28:08,791 --> 00:28:11,000
+What's happened?
+Where are we?
+
+397
+00:28:11,083 --> 00:28:14,041
+Quiet.
+My pa used to talk about this place.
+
+398
+00:28:14,833 --> 00:28:16,333
+It's the Red Swamp.
+
+399
+00:28:16,416 --> 00:28:17,625
+It's cursed.
+
+400
+00:28:17,708 --> 00:28:20,666
+It's crawling
+with evil spirits and beasts.
+
+401
+00:28:21,250 --> 00:28:22,333
+Griffins.
+
+402
+00:28:22,416 --> 00:28:23,875
+This is a test.
+
+403
+00:28:24,500 --> 00:28:25,708
+Like all the others.
+
+404
+00:28:25,791 --> 00:28:29,500
+On the Path,
+a witcher's first instinct is to survive.
+
+405
+00:28:30,083 --> 00:28:32,083
+It's about wits, not swords.
+
+406
+00:28:32,166 --> 00:28:34,458
+We follow the moon until we're clear.
+
+407
+00:28:34,541 --> 00:28:36,583
+If there's a monster close,
+your medallion will...
+
+408
+00:28:48,583 --> 00:28:50,541
+- Wraiths!
+- Keep calm!
+
+409
+00:28:51,708 --> 00:28:52,708
+Stay together!
+
+410
+00:29:11,166 --> 00:29:13,208
+Huh?
+
+411
+00:29:34,750 --> 00:29:35,750
+This way.
+
+412
+00:30:06,291 --> 00:30:07,291
+Uh...
+
+413
+00:30:19,000 --> 00:30:20,000
+Oh...
+
+414
+00:31:04,208 --> 00:31:05,958
+Oh!
+
+415
+00:31:41,125 --> 00:31:43,916
+The medallions sometimes sense
+the bestiary.
+
+416
+00:31:44,750 --> 00:31:47,666
+- Especially when it's full.
+- You're one of them.
+
+417
+00:31:48,250 --> 00:31:50,625
+The mages Tomas mentioned
+who make witchers.
+
+418
+00:31:51,666 --> 00:31:53,041
+You don't look ancient.
+
+419
+00:31:53,625 --> 00:31:55,708
+Well, mages age quite slowly.
+
+420
+00:31:55,791 --> 00:31:56,916
+Witchers do too.
+
+421
+00:31:57,000 --> 00:32:00,541
+Gives us both decades
+to hone our respective skills.
+
+422
+00:32:00,625 --> 00:32:01,916
+The Trials are only part
+
+423
+00:32:02,000 --> 00:32:03,791
+of my duty, though.
+
+424
+00:32:03,875 --> 00:32:05,500
+Don't fear.
+
+425
+00:32:05,583 --> 00:32:08,916
+It's merely a side effect
+of its hybrid genes.
+
+426
+00:32:09,000 --> 00:32:10,750
+Krallachs.
+
+427
+00:32:10,833 --> 00:32:14,208
+I've identified three different species
+in this specimen's makeup.
+
+428
+00:32:14,291 --> 00:32:16,625
+It's a nasty little crossbreed.
+
+429
+00:32:16,708 --> 00:32:20,458
+Master Deglan said
+monsters can't mate with other species.
+
+430
+00:32:20,958 --> 00:32:24,291
+True. Though they can be engineered.
+
+431
+00:32:24,916 --> 00:32:27,708
+Imagine an army of beasts
+
+432
+00:32:27,791 --> 00:32:30,916
+designed to wipe out
+the elves and the Old Races
+
+433
+00:32:31,000 --> 00:32:33,125
+to secure land and food.
+
+434
+00:32:33,708 --> 00:32:35,208
+The alchemy was...
+
+435
+00:32:35,291 --> 00:32:36,583
+inelegant, though.
+
+436
+00:32:37,250 --> 00:32:39,708
+Most crossbreeds died instantly.
+
+437
+00:32:40,666 --> 00:32:42,458
+Mages made monsters,
+
+438
+00:32:42,541 --> 00:32:44,666
+then made witchers to kill them?
+
+439
+00:32:45,458 --> 00:32:48,458
+Today, my mages and I
+guard the secrets
+
+440
+00:32:48,541 --> 00:32:50,833
+to such mutagenic alchemy,
+
+441
+00:32:50,916 --> 00:32:53,166
+preventing further abuse.
+
+442
+00:32:53,833 --> 00:32:55,375
+I'm Reidrich, by the way.
+
+443
+00:32:55,458 --> 00:32:57,208
+Are you daft, Reidrich?
+
+444
+00:32:57,750 --> 00:33:01,541
+A witcher deserves
+to understand its place in history.
+
+445
+00:33:02,291 --> 00:33:04,500
+A rider came
+while you were licking your wounds.
+
+446
+00:33:04,583 --> 00:33:05,833
+Left a letter for ya.
+
+447
+00:33:05,916 --> 00:33:09,125
+Did you know that Tomas and the others
+would die in the swamp?
+
+448
+00:33:09,208 --> 00:33:11,375
+It's a numbers game, young fella.
+
+449
+00:33:11,458 --> 00:33:14,375
+How many survive these Trials?
+
+450
+00:33:14,458 --> 00:33:17,041
+Depends. How many are witchers?
+
+451
+00:33:18,750 --> 00:33:21,750
+Letter's by your cot.
+Read it now, before I burn it.
+
+452
+00:33:29,208 --> 00:33:30,458
+<i>"Vesemir."</i>
+
+453
+00:33:31,083 --> 00:33:34,166
+<i>"Your thoughts are likely far from here,
+so I will be brief."</i>
+
+454
+00:33:35,083 --> 00:33:36,416
+<i>"Your father is dead."</i>
+
+455
+00:33:37,125 --> 00:33:38,750
+<i>"Kaedwen took our village</i>
+
+456
+00:33:38,833 --> 00:33:41,166
+<i>and he was killed
+while helping the lord and lady escape,</i>
+
+457
+00:33:41,250 --> 00:33:43,333
+<i>both of whom were also slain."</i>
+
+458
+00:33:43,833 --> 00:33:46,000
+<i>"Do not return home, Vesemir,</i>
+
+459
+00:33:46,083 --> 00:33:48,416
+<i>if this were ever that to you."</i>
+
+460
+00:33:49,458 --> 00:33:52,625
+<i>"I hope you have found warmth
+and comfort in this brittle world</i>
+
+461
+00:33:53,125 --> 00:33:56,958
+<i>and that the world is being kind to you,
+and most of all, fair."</i>
+
+462
+00:33:57,875 --> 00:34:02,041
+<i>"For me, a noble family from Kaedwen
+has claimed me theirs."</i>
+
+463
+00:34:03,125 --> 00:34:04,791
+<i>"They are kinder masters."</i>
+
+464
+00:34:05,291 --> 00:34:09,000
+<i>"They let me paint and show me how
+to read words, as well as write a few."</i>
+
+465
+00:34:10,041 --> 00:34:12,000
+<i>"I am well-fed and at peace."</i>
+
+466
+00:34:14,375 --> 00:34:16,875
+<i>"There was little to miss
+in our burnt-out town,</i>
+
+467
+00:34:16,958 --> 00:34:20,000
+<i>and our snowball fights
+and alleyway desserts</i>
+
+468
+00:34:20,083 --> 00:34:23,500
+<i>are heavy memories
+I now happily lay to rest."</i>
+
+469
+00:34:24,541 --> 00:34:26,541
+<i>"Find your rebirth, Vesemir,</i>
+
+470
+00:34:27,291 --> 00:34:29,375
+<i>free of past burdens and hurts."</i>
+
+471
+00:34:30,208 --> 00:34:31,333
+<i>"And yes,</i>
+
+472
+00:34:32,291 --> 00:34:33,500
+<i>free of me."</i>
+
+473
+00:34:34,500 --> 00:34:35,833
+<i>"It is best that way."</i>
+
+474
+00:34:37,333 --> 00:34:38,583
+<i>"Live and love well."</i>
+
+475
+00:34:39,541 --> 00:34:40,541
+<i>"Illyana."</i>
+
+476
+00:35:53,791 --> 00:35:57,916
+Right. So, who wishes to ride
+and get blitzed somewhere nice and quiet?
+
+477
+00:35:58,000 --> 00:36:01,500
+We stay and see who survives.
+
+478
+00:36:01,583 --> 00:36:03,250
+That could take days.
+
+479
+00:36:03,750 --> 00:36:05,250
+It'll be Eskel, Lambert,
+
+480
+00:36:05,791 --> 00:36:06,833
+maybe Remus.
+
+481
+00:36:07,416 --> 00:36:10,708
+Now, can we please go
+get right properly drunk?
+
+482
+00:36:10,791 --> 00:36:12,291
+Oh, let them sulk.
+
+483
+00:36:12,916 --> 00:36:13,916
+We'll drink.
+
+484
+00:36:18,166 --> 00:36:21,458
+The midwife almost fainted
+when I came for my payment.
+
+485
+00:36:21,541 --> 00:36:24,958
+I looked an awful terror, red and sticky,
+
+486
+00:36:25,041 --> 00:36:27,708
+but, you know, that's the job.
+
+487
+00:36:27,791 --> 00:36:30,041
+And the striga? Was she cured?
+
+488
+00:36:30,125 --> 00:36:31,666
+Yes. Yes, of course.
+
+489
+00:36:32,666 --> 00:36:35,041
+We need more before the next tale.
+
+490
+00:36:36,625 --> 00:36:39,833
+You know, that midwife
+should've hired a better savior.
+
+491
+00:36:39,916 --> 00:36:41,458
+A man of virtue and honor.
+
+492
+00:36:42,041 --> 00:36:43,125
+A real man.
+
+493
+00:36:43,208 --> 00:36:44,833
+Not a mutant.
+
+494
+00:36:44,916 --> 00:36:47,583
+Are knights being schooled
+in striga curses now?
+
+495
+00:36:48,208 --> 00:36:51,500
+Where'd that lesson fit?
+Between learning curtsy and joust?
+
+496
+00:36:51,583 --> 00:36:55,041
+We're all here for a little drink
+and non-violent fun.
+
+497
+00:36:56,833 --> 00:36:57,958
+Ugh.
+
+498
+00:36:58,041 --> 00:37:00,916
+Is this the "your kind" bit?
+
+499
+00:37:01,958 --> 00:37:03,583
+You frighten these people.
+
+500
+00:37:04,083 --> 00:37:06,625
+As you frightened
+that midwife you swindled.
+
+501
+00:37:07,208 --> 00:37:08,666
+Best you leave.
+
+502
+00:37:08,750 --> 00:37:11,083
+Right now.
+
+503
+00:37:11,166 --> 00:37:13,541
+I've seen knights try to do our job.
+
+504
+00:37:14,125 --> 00:37:15,833
+Tidy up monsters.
+
+505
+00:37:15,916 --> 00:37:18,083
+Cautionary tales, all of you.
+
+506
+00:37:19,208 --> 00:37:20,708
+Especially the cute ones.
+
+507
+00:37:23,833 --> 00:37:28,000
+The two witchers should be tried
+and executed. No questions asked.
+
+508
+00:37:28,083 --> 00:37:29,625
+Silly me.
+
+509
+00:37:29,708 --> 00:37:33,791
+Here I thought
+trials were all about questions.
+
+510
+00:37:33,875 --> 00:37:37,333
+These two killed two of your guard,
+Your Highness. You'd let that stand?
+
+511
+00:37:37,416 --> 00:37:41,250
+Sire, the barkeep claims
+your knights instigated the altercation.
+
+512
+00:37:41,833 --> 00:37:44,583
+These witchers were defending themselves.
+
+513
+00:37:45,291 --> 00:37:49,375
+The people's faith in the monarchy
+already wavers due to the forest attacks.
+
+514
+00:37:49,458 --> 00:37:53,083
+Now they'll hear the crown waxed idly
+as two monsters shed knighted blood.
+
+515
+00:37:53,166 --> 00:37:55,083
+So we should go to war with the witchers?
+
+516
+00:37:55,166 --> 00:37:57,833
+If only so you can
+make them what you fear?
+
+517
+00:37:58,750 --> 00:38:01,250
+They are deadly. On that, we agree, Tetra.
+
+518
+00:38:01,875 --> 00:38:04,750
+And such a battle would flood Kaedwen red.
+
+519
+00:38:05,291 --> 00:38:08,375
+The Assembly should remember
+the lady's seat here is honorary.
+
+520
+00:38:08,458 --> 00:38:11,666
+Yet it is still my chair.
+
+521
+00:38:11,750 --> 00:38:15,083
+Earned by her body. Not by blood or title.
+
+522
+00:38:15,166 --> 00:38:17,625
+Gods, quiet!
+
+523
+00:38:18,375 --> 00:38:21,500
+I'll have my knights kill you both
+for the sake of my ears.
+
+524
+00:38:21,583 --> 00:38:24,166
+Tetra's right, actually, sire.
+
+525
+00:38:24,916 --> 00:38:27,375
+Your subjects expect action.
+
+526
+00:38:27,458 --> 00:38:30,583
+What if you act
+on two fronts with one move?
+
+527
+00:38:30,666 --> 00:38:34,625
+Clear out our forests
+while also avoiding war with the witchers?
+
+528
+00:38:42,333 --> 00:38:43,958
+Guard?
+
+529
+00:38:44,041 --> 00:38:45,250
+Aye?
+
+530
+00:38:46,166 --> 00:38:47,333
+Do you hear that?
+
+531
+00:38:47,416 --> 00:38:49,666
+- It's like this pinging noise.
+- Hey!
+
+532
+00:38:50,416 --> 00:38:53,333
+Are you eager for a beating, mutant?
+
+533
+00:38:53,416 --> 00:38:56,875
+I'd settle for a pot to piss in
+and some halfway decent bread, please.
+
+534
+00:38:59,000 --> 00:39:00,000
+Oof!
+
+535
+00:39:01,958 --> 00:39:04,333
+Ah. A bit generous, but...
+
+536
+00:39:11,250 --> 00:39:13,166
+No need to split this one.
+
+537
+00:39:13,666 --> 00:39:15,375
+Not like when we were younger.
+
+538
+00:39:16,500 --> 00:39:21,041
+I knew witchers aged differently,
+but, well, look at you!
+
+539
+00:39:22,500 --> 00:39:23,541
+Illyana!
+
+540
+00:39:23,625 --> 00:39:27,333
+No doubt you imagined me
+an old spinster by now, slaving away.
+
+541
+00:39:28,083 --> 00:39:30,333
+That is if you ever imagine me at all.
+
+542
+00:39:30,416 --> 00:39:31,625
+Uh... your letter.
+
+543
+00:39:32,750 --> 00:39:35,125
+- You'd been sold to a new estate.
+- Yes.
+
+544
+00:39:35,791 --> 00:39:37,333
+The Zerbsts of Kaedwen.
+
+545
+00:39:37,416 --> 00:39:39,333
+They were kind enough, but it...
+
+546
+00:39:39,416 --> 00:39:43,000
+it was their son who was
+truly fond of me, despite my station.
+
+547
+00:39:44,333 --> 00:39:47,083
+It's been an age.
+Did you ever get that lake house?
+
+548
+00:39:47,166 --> 00:39:50,583
+Lake house? Oh, my, the lake house!
+
+549
+00:39:50,666 --> 00:39:52,375
+No lake, no.
+
+550
+00:39:53,166 --> 00:39:54,250
+But a nice home.
+
+551
+00:39:54,833 --> 00:39:57,750
+Turned it into an orphanage
+after my husband passed.
+
+552
+00:39:57,833 --> 00:40:00,208
+We had children too. Girls.
+
+553
+00:40:00,291 --> 00:40:02,500
+Horrors, all three of them.
+
+554
+00:40:02,583 --> 00:40:05,041
+One just made me a grandmother.
+I begged her not to.
+
+555
+00:40:05,125 --> 00:40:07,500
+But they're
+stubborn little needlers.
+
+556
+00:40:07,583 --> 00:40:09,458
+They often remind me of you...
+
+557
+00:40:10,041 --> 00:40:11,375
+Oh, gods.
+
+558
+00:40:11,875 --> 00:40:13,750
+I'm... rambling.
+
+559
+00:40:14,250 --> 00:40:15,166
+You're bored.
+
+560
+00:40:15,250 --> 00:40:16,958
+No, no, no. You're fine.
+
+561
+00:40:17,041 --> 00:40:20,291
+You're good. Uh... this is unexpected, yes.
+
+562
+00:40:20,791 --> 00:40:23,708
+Little fresh. But, uh... also lovely.
+
+563
+00:40:24,208 --> 00:40:25,625
+You've had such a full...
+
+564
+00:40:25,708 --> 00:40:30,208
+You wish to kill my already-dead husband
+and burn the orphanage to the ground.
+
+565
+00:40:31,166 --> 00:40:33,333
+Not the precise words I'd use.
+
+566
+00:40:36,583 --> 00:40:38,750
+Lord Zerbst was kind to me.
+
+567
+00:40:39,708 --> 00:40:41,416
+By no means perfect, but...
+
+568
+00:40:42,083 --> 00:40:46,125
+he's someone you miss very much
+when they depart.
+
+569
+00:40:48,416 --> 00:40:50,750
+The tales I've heard of you, though.
+
+570
+00:40:51,250 --> 00:40:54,166
+The swashbuckling witcher for hire.
+
+571
+00:40:54,250 --> 00:40:56,250
+"The slayer Vesemir,
+
+572
+00:40:56,333 --> 00:40:59,333
+priced only for the foulest of creatures."
+
+573
+00:40:59,416 --> 00:41:03,375
+Well, not too long ago, you were stuffing
+my head full of those very notions.
+
+574
+00:41:04,291 --> 00:41:06,750
+Years do work differently for you.
+
+575
+00:41:06,833 --> 00:41:08,666
+What's time, anyway?
+
+576
+00:41:09,833 --> 00:41:11,750
+Everything.
+
+577
+00:41:12,750 --> 00:41:16,791
+The king is willing to grant you
+and your friend amnesty for your crimes.
+
+578
+00:41:16,875 --> 00:41:19,375
+Then you are reminded
+that I carry the duties
+
+579
+00:41:19,458 --> 00:41:23,666
+of my late husband, the noble Lord Zerbst,
+adviser to the throne.
+
+580
+00:41:23,750 --> 00:41:26,000
+Every deal has a price.
+
+581
+00:41:26,083 --> 00:41:29,833
+Kill whatever is murdering our people
+in the woods outside Ard Carraigh.
+
+582
+00:41:29,916 --> 00:41:31,333
+And my colleague, Luka?
+
+583
+00:41:31,416 --> 00:41:33,958
+- He'll have my care.
+- Reasonable terms.
+
+584
+00:41:34,541 --> 00:41:36,333
+You'll take a chaperone too.
+
+585
+00:41:36,416 --> 00:41:38,125
+That, there, well...
+
+586
+00:41:39,000 --> 00:41:40,000
+that's a problem.
+
+587
+00:41:40,541 --> 00:41:42,250
+The Path's quite perilous,
+
+588
+00:41:42,333 --> 00:41:45,500
+and you are a lady, my lady.
+
+589
+00:41:46,333 --> 00:41:48,958
+Also, can't have a noble such as you
+
+590
+00:41:49,041 --> 00:41:51,833
+seen slumming about
+with the mutant likes of me.
+
+591
+00:41:52,416 --> 00:41:56,000
+Then you'll no doubt be pleased
+to hear that I am not your chaperone.
+
+592
+00:42:02,166 --> 00:42:05,291
+I have no intention
+of playing guide or nurse to you, witch.
+
+593
+00:42:05,375 --> 00:42:07,416
+I don't care
+who your great-great-whoever was.
+
+594
+00:42:12,791 --> 00:42:13,791
+On my word,
+
+595
+00:42:14,500 --> 00:42:16,083
+I will slay this beast.
+
+596
+00:42:16,166 --> 00:42:17,416
+For you, Illyana.
+
+597
+00:42:30,583 --> 00:42:32,463
+Might not be a monster
+at all, either.
+
+598
+00:42:32,500 --> 00:42:35,625
+The leshen that killed your man Carlisle
+was bewitched.
+
+599
+00:42:35,708 --> 00:42:36,958
+By an elf.
+
+600
+00:42:37,041 --> 00:42:39,500
+"Why an elf?" Ah! Glad you asked.
+
+601
+00:42:39,583 --> 00:42:42,375
+See, another very old
+but very young-looking elf
+
+602
+00:42:42,458 --> 00:42:46,041
+asked me to help him
+to find a group of misplaced girls.
+
+603
+00:42:47,208 --> 00:42:50,166
+Point is, witchering is a business.
+
+604
+00:42:50,250 --> 00:42:51,583
+You have to keep a brand.
+
+605
+00:42:51,666 --> 00:42:56,166
+Can't score the big jobs if you're known
+for swatting nymphs and helping out elves.
+
+606
+00:42:58,250 --> 00:43:00,708
+Isn't fire magic forbidden
+by upstanding mages?
+
+607
+00:43:01,750 --> 00:43:04,125
+Only insofar as
+there are very few mages blessed
+
+608
+00:43:04,208 --> 00:43:06,208
+with the skill to control the flames.
+
+609
+00:43:08,000 --> 00:43:10,333
+Huh.
+You're very special, clearly.
+
+610
+00:43:13,125 --> 00:43:14,625
+I must seem silly to you.
+
+611
+00:43:15,416 --> 00:43:16,791
+But Chaos, it's...
+
+612
+00:43:17,708 --> 00:43:20,208
+Well, words fail description.
+
+613
+00:43:21,833 --> 00:43:24,125
+Witchers are connected to Chaos too.
+
+614
+00:43:24,208 --> 00:43:27,208
+Only your connection
+is corrupted and corrosive.
+
+615
+00:43:27,291 --> 00:43:28,416
+And far less condemning.
+
+616
+00:43:32,291 --> 00:43:36,166
+There's a story about a witcher
+who helped an ailing priest.
+
+617
+00:43:36,708 --> 00:43:40,000
+The monster-slayer believed
+the sickness was, in fact, a curse,
+
+618
+00:43:41,416 --> 00:43:43,833
+and could be lifted
+by killing whoever placed it.
+
+619
+00:43:44,333 --> 00:43:47,041
+The priest quickly fingered
+a local sorceress,
+
+620
+00:43:47,125 --> 00:43:49,375
+a stupid girl
+who always caused him trouble.
+
+621
+00:43:50,291 --> 00:43:54,166
+The witcher killed her,
+and was rightly paid in gems and jewels.
+
+622
+00:43:55,958 --> 00:43:58,833
+- The priest obviously got better.
+- He did.
+
+623
+00:43:59,416 --> 00:44:01,166
+And then a few days later,
+
+624
+00:44:01,250 --> 00:44:04,958
+he found a beautiful gem
+amid his cook's belongings,
+
+625
+00:44:05,041 --> 00:44:08,166
+identical to the one
+he'd given the clever witcher.
+
+626
+00:44:08,250 --> 00:44:10,666
+Ah. He had the cook poison
+the priest's meals.
+
+627
+00:44:10,750 --> 00:44:12,333
+Cut him in on the take.
+
+628
+00:44:12,416 --> 00:44:15,166
+Smart con.
+Wish I'd thought of it.
+
+629
+00:44:15,875 --> 00:44:16,916
+As I said...
+
+630
+00:44:17,666 --> 00:44:18,666
+corrupted.
+
+631
+00:44:30,000 --> 00:44:31,000
+Ah, lovely.
+
+632
+00:44:31,500 --> 00:44:33,166
+- You've led us in a circle.
+- No.
+
+633
+00:44:33,750 --> 00:44:35,416
+I know these forests.
+
+634
+00:44:35,500 --> 00:44:37,458
+Hmm. So did Lord Carlisle.
+
+635
+00:44:37,541 --> 00:44:41,958
+At Aretuza, we used magic to cast pleasant
+illusions around unpleasant foods.
+
+636
+00:44:42,041 --> 00:44:43,791
+Made food tastier,
+
+637
+00:44:43,875 --> 00:44:46,041
+yet the aftertaste of the illusion?
+
+638
+00:44:48,208 --> 00:44:49,208
+Bitter.
+
+639
+00:44:51,333 --> 00:44:56,458
+Chaos clear our hearts and minds.
+Let our eyes see right and true.
+
+640
+00:44:57,125 --> 00:44:59,166
+Lift the shroud that cloaks our mind.
+
+641
+00:45:00,166 --> 00:45:02,750
+Lift the shroud that cloaks our mind!
+
+642
+00:45:16,125 --> 00:45:18,458
+That illusion was flawless.
+
+643
+00:45:19,166 --> 00:45:21,791
+The power needed to maintain such art...
+
+644
+00:45:22,458 --> 00:45:24,458
+Could also bewitch a leshen.
+
+645
+00:45:34,083 --> 00:45:37,500
+<i>Garean bhaedh aip me vhoelynath.</i>
+
+646
+00:45:37,583 --> 00:45:39,625
+- Kitsu?
+- Friend of yours?
+
+647
+00:45:39,708 --> 00:45:40,958
+Friend of a friend.
+
+648
+00:45:41,041 --> 00:45:44,000
+<i>Garean bhaedh aip me vhoelynath!</i>
+
+649
+00:45:44,083 --> 00:45:48,375
+Yes. I'll need to know what
+and where your den is if I'm to avoid it,
+
+650
+00:45:48,458 --> 00:45:50,375
+especially since you're, you know,
+
+651
+00:45:50,458 --> 00:45:52,166
+- slaughtering people over it.
+- Witcher.
+
+652
+00:45:56,708 --> 00:45:58,916
+I've never seen
+such a species of basilisk.
+
+653
+00:45:59,416 --> 00:46:01,875
+- Another illusion?
+- We'll no doubt find out shortly.
+
+654
+00:46:34,958 --> 00:46:37,750
+I know. She has that effect on everyone.
+
+655
+00:46:37,833 --> 00:46:39,541
+But still, manners.
+
+656
+00:47:50,750 --> 00:47:52,000
+No!
+
+657
+00:47:52,083 --> 00:47:54,416
+No!
+
+658
+00:47:55,083 --> 00:47:57,791
+- It was real.
+- Might have slightly underestimated you.
+
+659
+00:47:58,291 --> 00:47:59,416
+Slightly.
+
+660
+00:48:00,416 --> 00:48:01,916
+Ah.
+
+661
+00:48:02,500 --> 00:48:04,708
+Kitsu, this needn't escalate.
+
+662
+00:48:11,791 --> 00:48:12,958
+Uh...
+
+663
+00:48:18,958 --> 00:48:19,958
+Oh!
+
+664
+00:48:34,375 --> 00:48:35,541
+Witcher!
+
+665
+00:48:59,583 --> 00:49:02,291
+Her powers of illusion are unnatural.
+
+666
+00:49:02,375 --> 00:49:04,750
+First monster
+I ever encountered was a mahr.
+
+667
+00:49:04,833 --> 00:49:08,458
+Made a woman see nightmares
+that weren't really there. Illusions.
+
+668
+00:49:08,541 --> 00:49:11,875
+- Kitsu's an elf.
+- Then why does she smell like a mahr?
+
+669
+00:49:19,708 --> 00:49:20,916
+An elven school.
+
+670
+00:49:21,625 --> 00:49:24,291
+They used to send their young here
+during high summer.
+
+671
+00:49:24,958 --> 00:49:29,041
+Before repurposing it as a garrison
+during your last cleansing spree.
+
+672
+00:49:31,666 --> 00:49:32,916
+No signs of blood.
+
+673
+00:49:34,625 --> 00:49:36,375
+I can still smell her, though.
+
+674
+00:49:37,041 --> 00:49:38,041
+Yes.
+
+675
+00:49:38,375 --> 00:49:39,375
+She was here.
+
+676
+00:49:40,250 --> 00:49:41,583
+Just before our fight.
+
+677
+00:50:19,541 --> 00:50:20,541
+Witcher!
+
+678
+00:50:21,166 --> 00:50:22,666
+I do have a name, you know.
+
+679
+00:50:22,750 --> 00:50:24,500
+Ugh!
+
+680
+00:50:28,416 --> 00:50:29,875
+What was done to them?
+
+681
+00:50:31,833 --> 00:50:33,250
+They're all elves.
+
+682
+00:50:34,000 --> 00:50:35,000
+Girls.
+
+683
+00:50:35,083 --> 00:50:36,500
+Over here.
+
+684
+00:50:36,583 --> 00:50:37,583
+Help.
+
+685
+00:50:48,458 --> 00:50:50,500
+Gods, not another favor.
+
+686
+00:50:52,333 --> 00:50:53,333
+Who's this one?
+
+687
+00:50:54,458 --> 00:50:57,875
+My aforementioned friend.
+He was searching for those girls.
+
+688
+00:50:58,875 --> 00:51:03,041
+And I could've saved some, had you
+set aside your love of coin and helped.
+
+689
+00:51:03,541 --> 00:51:08,083
+- Kitsu's been kidnapping them.
+- Yes. Experimenting on the girls.
+
+690
+00:51:08,166 --> 00:51:10,916
+She's using some strange alchemy
+to try to change them.
+
+691
+00:51:11,916 --> 00:51:13,750
+Change them to what?
+
+692
+00:51:13,833 --> 00:51:15,458
+Into whatever she's become.
+
+693
+00:51:16,333 --> 00:51:20,083
+I tracked her here,
+tried stopping her, but... Kitsu's power...
+
+694
+00:51:20,166 --> 00:51:21,750
+And she just let you live?
+
+695
+00:51:21,833 --> 00:51:25,541
+I understand if that's a concept
+unfamiliar to your kind.
+
+696
+00:51:25,625 --> 00:51:28,541
+If Kitsu was using sorcery
+to try and mutate those girls,
+
+697
+00:51:28,625 --> 00:51:29,791
+who mutated her?
+
+698
+00:51:33,541 --> 00:51:36,458
+Her genes were spliced
+with those of a mahr.
+
+699
+00:51:37,125 --> 00:51:39,041
+It explains her unnatural power.
+
+700
+00:51:39,666 --> 00:51:40,916
+She's a crossbreed.
+
+701
+00:51:41,000 --> 00:51:42,708
+How is such a thing possible?
+
+702
+00:51:42,791 --> 00:51:44,375
+The same way he was made.
+
+703
+00:51:45,166 --> 00:51:46,583
+Mutagenic alchemy.
+
+704
+00:51:46,666 --> 00:51:49,500
+Its secrets known
+only to mages at Kaer Morhen.
+
+705
+00:51:49,583 --> 00:51:51,208
+You're behind all this.
+
+706
+00:51:51,291 --> 00:51:52,375
+That's ridiculous.
+
+707
+00:51:53,833 --> 00:51:56,875
+Hunting monsters for coin wasn't enough?
+
+708
+00:51:57,541 --> 00:51:59,041
+Now you make them?
+
+709
+00:51:59,125 --> 00:52:00,875
+Witchers are struggling, yes, but...
+
+710
+00:52:02,083 --> 00:52:06,458
+Shame. A few new beasts would be...
+good for business.
+
+711
+00:52:07,666 --> 00:52:10,250
+More monsters,
+more jobs, more coin.
+
+712
+00:52:10,333 --> 00:52:11,708
+Another sharp con.
+
+713
+00:52:11,791 --> 00:52:13,708
+I swear, Fil, I didn't...
+
+714
+00:52:21,291 --> 00:52:22,666
+Another monstrosity.
+
+715
+00:52:27,625 --> 00:52:28,791
+She's still an elf.
+
+716
+00:52:33,375 --> 00:52:35,166
+You saw what these creatures can do.
+
+717
+00:52:35,750 --> 00:52:38,375
+Fil, if the girl has
+even half Kitsu's power,
+
+718
+00:52:38,958 --> 00:52:40,250
+she's dangerous.
+
+719
+00:52:40,333 --> 00:52:42,625
+Doesn't this witch say similar of you?
+
+720
+00:52:43,750 --> 00:52:47,416
+I will take her back to my people.
+She will be raised as an elf.
+
+721
+00:52:47,500 --> 00:52:48,333
+Charitable.
+
+722
+00:52:48,416 --> 00:52:52,083
+Though I imagine it won't be too long
+before you sic her on us.
+
+723
+00:52:52,166 --> 00:52:53,375
+You won.
+
+724
+00:52:54,583 --> 00:52:56,083
+You beat us.
+
+725
+00:52:56,166 --> 00:52:57,833
+At least allow us the indignity
+
+726
+00:52:57,916 --> 00:53:01,250
+of scavenging whatever's left of our kind,
+mutant or otherwise.
+
+727
+00:53:02,541 --> 00:53:04,541
+As a favor to a friend.
+
+728
+00:53:07,041 --> 00:53:09,166
+Take the child and go. Now.
+
+729
+00:53:10,708 --> 00:53:13,083
+You have made a serious error.
+
+730
+00:53:13,875 --> 00:53:16,291
+Should that girl ever harm
+a single soul, Fil...
+
+731
+00:53:16,375 --> 00:53:17,750
+Then I will slay her.
+
+732
+00:53:18,375 --> 00:53:21,333
+Quietly welcome you and your sword.
+
+733
+00:53:24,208 --> 00:53:27,416
+I should've offered up some coin.
+Then you would've handled matters.
+
+734
+00:53:27,500 --> 00:53:29,375
+It was not a question of price.
+
+735
+00:53:30,666 --> 00:53:32,875
+Oh, the witcher's found his morals?
+
+736
+00:53:32,958 --> 00:53:36,000
+You think you're so pure, Tetra?
+Not a blemish?
+
+737
+00:53:36,083 --> 00:53:38,625
+Look outside. There's your morality.
+
+738
+00:53:39,291 --> 00:53:41,625
+Rot and ruin all reeking of hate.
+
+739
+00:53:42,125 --> 00:53:44,250
+Tend to that filth, and I'll tend to mine.
+
+740
+00:54:48,666 --> 00:54:50,833
+Nothing good
+can come of this.
+
+741
+00:54:51,458 --> 00:54:53,375
+Fear and ignorance
+are good business.
+
+742
+00:54:53,458 --> 00:54:55,625
+That's what Deglan said
+the first time we met.
+
+743
+00:54:56,166 --> 00:54:57,166
+Now look.
+
+744
+00:54:58,041 --> 00:54:59,458
+I need to know for certain.
+
+745
+00:55:00,666 --> 00:55:03,041
+I'd ask you to flee with me.
+
+746
+00:55:07,166 --> 00:55:08,791
+I know what you have to do.
+
+747
+00:55:09,458 --> 00:55:13,750
+And I won't have you feeling
+as though you've abandoned me again.
+
+748
+00:55:39,833 --> 00:55:42,458
+I tried to stop him.
+
+749
+00:55:42,541 --> 00:55:45,750
+But witchers, they never hesitate.
+
+750
+00:55:49,833 --> 00:55:52,375
+Madam Gilcrest has given proof.
+
+751
+00:55:52,458 --> 00:55:54,625
+This one breeds monstrosities,
+
+752
+00:55:54,708 --> 00:55:56,500
+terrorizes my kingdom,
+
+753
+00:55:57,083 --> 00:55:59,375
+and swindles the people.
+
+754
+00:56:01,708 --> 00:56:03,833
+What the hell are you talking about?
+
+755
+00:56:04,416 --> 00:56:07,791
+Sire, not all witchers were aware
+of these crossbreeds.
+
+756
+00:56:07,875 --> 00:56:10,833
+Lady Zerbst,
+you are testament to the perils
+
+757
+00:56:10,916 --> 00:56:13,958
+of trusting a servant.
+
+758
+00:56:15,208 --> 00:56:16,208
+Your Highness...
+
+759
+00:56:19,416 --> 00:56:21,458
+If it pleases, sire,
+
+760
+00:56:21,541 --> 00:56:24,916
+might I ask where Madam Gilcrest is now?
+
+761
+00:57:22,083 --> 00:57:24,333
+Monsters were going extinct.
+
+762
+00:57:24,416 --> 00:57:26,083
+I had to protect our way of life.
+
+763
+00:57:27,208 --> 00:57:29,666
+Think of all the coin
+you stand to make, young fella.
+
+764
+00:57:29,750 --> 00:57:32,791
+- Do not call me that.
+- Check your gratitude, boy.
+
+765
+00:57:32,875 --> 00:57:34,000
+You came to me.
+
+766
+00:57:34,083 --> 00:57:36,916
+I could've shipped you right back
+to those bedpans.
+
+767
+00:57:37,000 --> 00:57:39,333
+Don't pretend you didn't know
+exactly what you were doing
+
+768
+00:57:39,416 --> 00:57:40,916
+when you threw me those coins.
+
+769
+00:57:41,000 --> 00:57:42,291
+You knew I would come.
+
+770
+00:57:43,000 --> 00:57:45,041
+We were created
+to kill creatures like these,
+
+771
+00:57:45,125 --> 00:57:46,375
+not to make them.
+
+772
+00:57:46,458 --> 00:57:48,708
+I won't weep for doing what needed doing.
+
+773
+00:57:49,333 --> 00:57:50,875
+I told you.
+
+774
+00:57:50,958 --> 00:57:52,791
+A witcher never hesitates.
+
+775
+00:57:52,875 --> 00:57:53,958
+Oh, I know.
+
+776
+00:57:54,041 --> 00:57:57,958
+What about with the elf? Did you give
+Kitsu a choice before you mutated her?
+
+777
+00:57:58,625 --> 00:58:00,333
+No, I thought we'd killed her.
+
+778
+00:58:00,416 --> 00:58:03,375
+That mutation was unstable.
+Too much power.
+
+779
+00:58:04,041 --> 00:58:07,500
+Clearly, her death was one
+of her clever little illusions.
+
+780
+00:58:07,583 --> 00:58:09,500
+All of this to line our pockets.
+
+781
+00:58:11,125 --> 00:58:14,041
+You were always too focused
+on the gold in your hand.
+
+782
+00:58:14,708 --> 00:58:17,833
+You never looked up
+to see who's paying you. See their eyes.
+
+783
+00:58:18,416 --> 00:58:19,416
+We terrify 'em.
+
+784
+00:58:19,916 --> 00:58:23,000
+The only thing keeping men from hunting us
+
+785
+00:58:23,583 --> 00:58:25,666
+are the scarier beasts we keep away.
+
+786
+00:58:26,333 --> 00:58:31,416
+Humans die quick, so they spend
+their lives fearing and hating.
+
+787
+00:58:31,500 --> 00:58:33,916
+Ask the dwarves or your elf friend.
+
+788
+00:58:34,000 --> 00:58:36,375
+Men will always need monsters.
+
+789
+00:58:37,083 --> 00:58:39,625
+- Now, so do we.
+- We're all orphans.
+
+790
+00:58:39,708 --> 00:58:42,166
+We've always looked to you to protect us.
+
+791
+00:58:42,250 --> 00:58:45,791
+You have to burn it to the ground...
+or I will.
+
+792
+00:58:52,833 --> 00:58:54,333
+I don't want to fight you.
+
+793
+00:58:54,416 --> 00:58:56,375
+We've got to protect ourselves, Vesemir.
+
+794
+00:59:00,541 --> 00:59:01,791
+Got to protect you!
+
+795
+00:59:08,666 --> 00:59:13,041
+If you two would like to stop
+trying to kill each other,
+
+796
+00:59:13,750 --> 00:59:15,208
+we have a visitor.
+
+797
+00:59:17,750 --> 00:59:19,166
+She's coming.
+
+798
+00:59:28,333 --> 00:59:31,250
+Away with all witchers!
+
+799
+00:59:31,833 --> 00:59:34,625
+Tetra wasted no time. Word spread quickly.
+
+800
+00:59:35,291 --> 00:59:38,583
+Not only of the crossbreeds,
+but of witchers protecting elves.
+
+801
+00:59:39,083 --> 00:59:40,125
+And Luka?
+
+802
+00:59:42,125 --> 00:59:43,500
+This is your two's doing.
+
+803
+00:59:43,583 --> 00:59:46,250
+They were always gonna come,
+sooner or later.
+
+804
+00:59:46,333 --> 00:59:49,791
+Well, maybe there was a way
+for us to die the better men.
+
+805
+00:59:49,875 --> 00:59:54,333
+My mages and I are the ones
+who know the secrets to mutagenic alchemy.
+
+806
+00:59:54,416 --> 00:59:56,916
+Tetra will want our heads most.
+
+807
+00:59:57,000 --> 00:59:58,583
+If we die,
+
+808
+00:59:59,208 --> 01:00:02,291
+there can be no more witchers.
+
+809
+01:00:03,333 --> 01:00:05,291
+Seal yourselves in your labs.
+
+810
+01:00:05,375 --> 01:00:07,875
+The rest of us will rally
+and end her little cult.
+
+811
+01:00:08,458 --> 01:00:09,708
+Bitch won't see dawn.
+
+812
+01:00:11,750 --> 01:00:15,625
+Underestimate Tetra and you'll be the one
+who's seen their last sunrise.
+
+813
+01:00:20,458 --> 01:00:22,583
+Perhaps she'll listen to reason.
+
+814
+01:00:22,666 --> 01:00:26,291
+He may be a bastard... but Deglan is right.
+
+815
+01:00:27,166 --> 01:00:28,458
+This was inevitable.
+
+816
+01:00:28,541 --> 01:00:29,583
+Why?
+
+817
+01:00:29,666 --> 01:00:31,666
+Because you're different.
+
+818
+01:00:31,750 --> 01:00:34,125
+And killing
+is easier than tolerating.
+
+819
+01:00:36,416 --> 01:00:38,500
+I want you as far away from this place
+as possible.
+
+820
+01:00:38,583 --> 01:00:40,166
+There are children here.
+
+821
+01:00:40,250 --> 01:00:43,416
+- They've been trained.
+- Children, Vesemir.
+
+822
+01:00:43,500 --> 01:00:45,416
+As you were when he took you.
+
+823
+01:00:45,500 --> 01:00:48,583
+I'll guide them to the cellar
+until the battle's won.
+
+824
+01:00:49,166 --> 01:00:52,875
+For once, I will decide my place.
+
+825
+01:00:53,708 --> 01:00:55,333
+You've always had too much fire.
+
+826
+01:00:56,000 --> 01:00:57,166
+And beauty.
+
+827
+01:00:57,250 --> 01:01:00,333
+Please... I'm nearly 70.
+
+828
+01:01:05,041 --> 01:01:06,041
+So am I.
+
+829
+01:01:31,833 --> 01:01:34,916
+Beautiful peaks. Too pure for war.
+
+830
+01:01:35,000 --> 01:01:39,958
+Scurry off and return with the body
+of the man you murdered, witch.
+
+831
+01:01:40,041 --> 01:01:44,000
+He was executed in the name
+of those your homemade beasts butchered.
+
+832
+01:01:44,500 --> 01:01:46,666
+There'll be no more of them, Tetra.
+
+833
+01:01:46,750 --> 01:01:47,750
+Upon my word.
+
+834
+01:01:49,125 --> 01:01:51,541
+Well, witchers are experts in price.
+
+835
+01:01:51,625 --> 01:01:54,166
+What is the worth of your word, Vesemir?
+
+836
+01:01:54,250 --> 01:01:55,250
+Some things...
+
+837
+01:01:56,083 --> 01:01:57,291
+are beyond cost.
+
+838
+01:01:59,333 --> 01:02:00,333
+And you?
+
+839
+01:02:01,083 --> 01:02:02,583
+Do you give me your word?
+
+840
+01:02:03,125 --> 01:02:04,625
+I give you nothing.
+
+841
+01:02:04,708 --> 01:02:09,500
+Save the chance to fill the valleys
+of our pretty peaks with your corpses.
+
+842
+01:02:10,291 --> 01:02:12,250
+We are an army of witchers.
+
+843
+01:02:12,333 --> 01:02:13,541
+You are human.
+
+844
+01:03:02,250 --> 01:03:03,250
+Kitsu.
+
+845
+01:03:03,291 --> 01:03:05,958
+She was gutted
+to hear how you sacked her den,
+
+846
+01:03:06,041 --> 01:03:09,791
+destroyed her work,
+and murdered the girl, her only child.
+
+847
+01:03:11,125 --> 01:03:12,791
+Monsters to fight monsters.
+
+848
+01:03:13,416 --> 01:03:14,875
+How unlike your predecessors.
+
+849
+01:03:24,916 --> 01:03:27,083
+Rally! Rally!
+
+850
+01:03:27,166 --> 01:03:29,666
+Steel your nerves, lads. We charge!
+
+851
+01:03:29,750 --> 01:03:32,875
+- Swords away. Swords away!
+- We haven't time to hesitate.
+
+852
+01:03:32,958 --> 01:03:34,500
+Just bloody trust me for once!
+
+853
+01:03:37,833 --> 01:03:38,833
+Please!
+
+854
+01:03:43,166 --> 01:03:44,958
+Witchers, on me!
+
+855
+01:03:54,125 --> 01:03:56,041
+Now!
+
+856
+01:04:04,166 --> 01:04:06,958
+Be calm. Be calm.
+
+857
+01:04:07,041 --> 01:04:08,041
+You're safe.
+
+858
+01:05:05,750 --> 01:05:08,583
+Witchers must be wiped
+from the surface of this Earth,
+
+859
+01:05:08,666 --> 01:05:11,833
+and all traces strewn
+with salt and saltpeter.
+
+860
+01:05:38,125 --> 01:05:39,500
+She's going for Reidrich!
+
+861
+01:05:40,583 --> 01:05:44,458
+Me and the others will hold the bridge.
+Use the drop to halve their numbers.
+
+862
+01:05:46,000 --> 01:05:48,083
+You two, stop her!
+
+863
+01:05:49,291 --> 01:05:51,458
+Can you forgive me long enough,
+young fella?
+
+864
+01:08:03,625 --> 01:08:06,041
+If she gets Reidrich, it's the end of us.
+
+865
+01:08:08,625 --> 01:08:09,875
+Find her!
+
+866
+01:08:11,583 --> 01:08:13,833
+Stop her!
+
+867
+01:08:24,875 --> 01:08:26,875
+There's a hatch in the grain hold.
+
+868
+01:08:26,958 --> 01:08:29,041
+It lets out on the back pathway.
+
+869
+01:08:29,125 --> 01:08:30,375
+How do you know this?
+
+870
+01:08:30,458 --> 01:08:32,000
+He was trying to run away!
+
+871
+01:08:34,750 --> 01:08:36,666
+Run as far away as possible.
+
+872
+01:08:36,750 --> 01:08:37,583
+All of you.
+
+873
+01:08:37,666 --> 01:08:40,458
+Rub the heel raw,
+to the bone, if you have to.
+
+874
+01:08:40,541 --> 01:08:41,583
+Don't stop.
+
+875
+01:08:55,625 --> 01:08:57,291
+Lower your swords.
+
+876
+01:08:59,541 --> 01:09:01,333
+This is genocide, Tetra.
+
+877
+01:09:01,916 --> 01:09:06,125
+They bred those monsters because of you.
+There is no purity here.
+
+878
+01:09:06,208 --> 01:09:08,000
+Just fear and hatred.
+
+879
+01:09:08,083 --> 01:09:10,541
+Enough, please!
+
+880
+01:09:11,375 --> 01:09:14,041
+This servant betrays Kaedwen
+to the witchers.
+
+881
+01:09:15,000 --> 01:09:16,166
+Let her join them.
+
+882
+01:09:23,000 --> 01:09:25,000
+Tetra!
+
+883
+01:09:25,083 --> 01:09:27,458
+I can drop your men
+before their blades drop an inch.
+
+884
+01:09:27,541 --> 01:09:29,791
+Wishful thinking.
+
+885
+01:09:39,541 --> 01:09:42,916
+Are you going to enjoy the day,
+or are you still too shook
+
+886
+01:09:43,000 --> 01:09:45,208
+from another daring night
+of monster-slaying?
+
+887
+01:09:45,708 --> 01:09:49,666
+Pardon me for wanting to be
+something other than a churlish knave.
+
+888
+01:09:50,166 --> 01:09:51,416
+Look at you, though.
+
+889
+01:09:52,708 --> 01:09:54,041
+You're a witcher.
+
+890
+01:09:54,791 --> 01:09:56,041
+You're rich!
+
+891
+01:09:57,291 --> 01:09:59,000
+We'll lack for nothing,
+
+892
+01:09:59,541 --> 01:10:02,000
+and you'll take care of me, Vesemir.
+
+893
+01:10:02,083 --> 01:10:04,875
+Much like you said. True to your word.
+
+894
+01:10:08,875 --> 01:10:11,083
+- Look at me.
+- A lake house.
+
+895
+01:10:11,875 --> 01:10:14,208
+Wine. Food.
+
+896
+01:10:14,291 --> 01:10:18,083
+Imagine the seas of coin we'd wade in.
+
+897
+01:10:19,625 --> 01:10:22,416
+You never wanted that!
+You were always content.
+
+898
+01:10:23,000 --> 01:10:24,000
+No, no, no!
+
+899
+01:10:26,125 --> 01:10:28,416
+Forty tons of sheep's blood?
+
+900
+01:10:29,166 --> 01:10:30,833
+That poor midwife!
+
+901
+01:10:30,916 --> 01:10:34,875
+Oh, oh, tell 'em about the time
+you swindled the Redanian priest.
+
+902
+01:10:34,958 --> 01:10:37,208
+Had him thinking he was cursed!
+
+903
+01:10:37,791 --> 01:10:41,875
+- How much did you take that fool for?
+- You can't be here. We lost you.
+
+904
+01:10:45,125 --> 01:10:46,833
+What are you prattling about?
+
+905
+01:10:48,041 --> 01:10:52,750
+Wake the barkeep,
+drain the barrels. Everyone drink!
+
+906
+01:10:53,583 --> 01:10:55,583
+Not a coin spared.
+
+907
+01:10:55,666 --> 01:10:58,000
+Yeah!
+
+908
+01:11:02,291 --> 01:11:04,458
+Enough! All of you!
+
+909
+01:11:04,541 --> 01:11:06,166
+Stop... stop cackling!
+
+910
+01:11:06,250 --> 01:11:08,000
+Vesemir, come look.
+
+911
+01:11:10,125 --> 01:11:11,166
+Be honest, now.
+
+912
+01:11:11,250 --> 01:11:14,333
+Well, don't just stand there. Say it.
+
+913
+01:11:16,583 --> 01:11:18,750
+You hate it, don't you?
+
+914
+01:11:18,833 --> 01:11:19,833
+I...
+
+915
+01:11:21,166 --> 01:11:24,333
+I was just weighing whether you'd done
+my dashing looks justice.
+
+916
+01:11:24,416 --> 01:11:27,666
+Oh, gods. You frightened me.
+
+917
+01:11:27,750 --> 01:11:30,583
+Such a look in your eyes.
+So crestfallen and...
+
+918
+01:11:31,166 --> 01:11:32,375
+It's perfect, Illyana.
+
+919
+01:11:33,458 --> 01:11:34,500
+Flawless.
+
+920
+01:11:45,750 --> 01:11:47,666
+Don't dally. I'm thirsty.
+
+921
+01:11:49,666 --> 01:11:51,250
+Mama! Make Bojan stop!
+
+922
+01:11:51,333 --> 01:11:53,250
+He's run away with my jacks!
+
+923
+01:11:54,791 --> 01:11:57,708
+What's wrong, Papa?
+You're making the sad face.
+
+924
+01:11:58,291 --> 01:11:59,541
+No, no...
+
+925
+01:12:00,250 --> 01:12:01,250
+This is wrong.
+
+926
+01:12:01,291 --> 01:12:03,833
+Enough mind games, Kitsu.
+No more fantasies.
+
+927
+01:12:06,541 --> 01:12:09,333
+But you swore
+you'd care for me, didn't you?
+
+928
+01:12:10,333 --> 01:12:11,500
+That you'd protect me.
+
+929
+01:12:12,541 --> 01:12:13,916
+You're not real.
+
+930
+01:12:14,000 --> 01:12:17,208
+Truth is no illusion.
+There's no escaping it.
+
+931
+01:12:17,750 --> 01:12:19,458
+Get away from me!
+
+932
+01:12:20,041 --> 01:12:22,125
+You left me here, darling.
+
+933
+01:12:22,208 --> 01:12:25,041
+Stranded in hopes and dreams abandoned.
+
+934
+01:12:25,125 --> 01:12:27,833
+And now you're trying to leave me again.
+
+935
+01:12:27,916 --> 01:12:30,708
+Only this time, I won't be buried
+
+936
+01:12:30,791 --> 01:12:33,083
+in dresses and courts and titles.
+
+937
+01:12:33,166 --> 01:12:36,666
+I'll be as you are. Lost and alone.
+
+938
+01:12:36,750 --> 01:12:38,791
+Unloved!
+
+939
+01:12:38,875 --> 01:12:40,958
+No, Illyana. I love you.
+
+940
+01:12:41,041 --> 01:12:42,458
+Coin's your real lover.
+
+941
+01:12:43,416 --> 01:12:46,250
+More of her
+to pluck out there, isn't there?
+
+942
+01:12:46,750 --> 01:12:47,750
+Stop it.
+
+943
+01:12:47,791 --> 01:12:50,375
+We can be
+whatever we imagine here, Vesemir.
+
+944
+01:12:50,458 --> 01:12:51,750
+We can be rich.
+
+945
+01:12:51,833 --> 01:12:57,541
+Together. Here, time is nothing.
+
+946
+01:12:58,708 --> 01:13:00,541
+Out there, I can save her.
+
+947
+01:13:01,458 --> 01:13:02,791
+That's worth more.
+
+948
+01:13:02,875 --> 01:13:04,208
+Now, out of my head.
+
+949
+01:13:39,291 --> 01:13:41,541
+I know you never asked for this.
+
+950
+01:13:42,708 --> 01:13:44,041
+You were only a child.
+
+951
+01:13:44,541 --> 01:13:46,083
+How were you to know?
+
+952
+01:13:59,500 --> 01:14:00,791
+Vesemir!
+
+953
+01:14:01,541 --> 01:14:02,625
+Stay back!
+
+954
+01:14:37,333 --> 01:14:39,291
+You come at me with magic tricks?
+
+955
+01:15:18,000 --> 01:15:19,666
+Oh, no...
+
+956
+01:15:21,208 --> 01:15:22,958
+No! No!
+
+957
+01:15:23,625 --> 01:15:24,958
+No, no, no, no!
+
+958
+01:15:27,250 --> 01:15:28,375
+Vesemir.
+
+959
+01:15:30,583 --> 01:15:31,583
+Oh.
+
+960
+01:15:33,500 --> 01:15:34,500
+This...
+
+961
+01:15:35,291 --> 01:15:36,416
+this isn't real.
+
+962
+01:15:39,666 --> 01:15:42,500
+I didn't know much about witchers
+when I was young.
+
+963
+01:15:42,583 --> 01:15:45,625
+I didn't know
+you could smell better, hear better.
+
+964
+01:15:46,333 --> 01:15:49,083
+I didn't know that the witcher
+sensed me in the cupboard,
+
+965
+01:15:49,166 --> 01:15:51,166
+trembling, barely breathing,
+
+966
+01:15:51,250 --> 01:15:54,083
+watching as he drove his sword
+through my mother.
+
+967
+01:15:54,583 --> 01:15:58,250
+The silly sorceress
+who'd crossed a gullible priest.
+
+968
+01:15:59,250 --> 01:16:01,250
+Monsters to kill monsters.
+
+969
+01:16:06,375 --> 01:16:07,375
+Aye...
+
+970
+01:16:13,000 --> 01:16:14,000
+So...
+
+971
+01:16:22,375 --> 01:16:23,791
+Take her and go.
+
+972
+01:16:25,625 --> 01:16:27,916
+Sven? The others?
+
+973
+01:16:29,500 --> 01:16:30,500
+Dead.
+
+974
+01:16:31,583 --> 01:16:33,000
+All my boys.
+
+975
+01:16:33,791 --> 01:16:35,833
+- Save you.
+- The young ones...
+
+976
+01:16:36,708 --> 01:16:38,541
+escaped.
+
+977
+01:16:39,166 --> 01:16:40,291
+Keep your strength.
+
+978
+01:16:42,541 --> 01:16:44,625
+They're your boys now, young fella.
+
+979
+01:16:45,208 --> 01:16:46,375
+Make 'em witchers.
+
+980
+01:16:46,875 --> 01:16:47,958
+Make 'em...
+
+981
+01:16:48,541 --> 01:16:49,791
+somethin' more.
+
+982
+01:16:52,375 --> 01:16:54,125
+To better men.
+
+983
+01:17:12,375 --> 01:17:15,333
+She didn't ask for this.
+
+984
+01:18:05,875 --> 01:18:07,666
+Where are we?
+
+985
+01:18:26,166 --> 01:18:27,666
+Beautiful.
+
+986
+01:18:29,083 --> 01:18:31,666
+It doesn't seem... real.
+
+987
+01:19:02,166 --> 01:19:03,250
+Huh?
+
+988
+01:19:05,458 --> 01:19:07,875
+Do we even know where we're going?
+
+989
+01:19:18,791 --> 01:19:21,666
+This is the last time
+I allow any of you to ever hesitate.
+
+990
+01:19:22,333 --> 01:19:23,416
+Decide.
+
+991
+01:19:24,916 --> 01:19:26,291
+But they hate us.
+
+992
+01:19:27,625 --> 01:19:29,250
+There'll always be another monster...
+
+993
+01:19:29,333 --> 01:19:30,333
+Geralt.
+
+994
+01:20:45,083 --> 01:20:48,541
+<i>♪ There once was a lord ♪</i>
+
+995
+01:20:49,208 --> 01:20:53,458
+<i>♪ In dark woods ♪</i>
+
+996
+01:20:53,958 --> 01:20:57,875
+<i>♪ Wearing a strange ♪</i>
+
+997
+01:20:57,958 --> 01:21:03,041
+<i>♪ Silver band ♪</i>
+
+998
+01:21:03,791 --> 01:21:07,833
+<i>♪ Around ♪</i>
+
+999
+01:21:07,916 --> 01:21:11,666
+<i>♪ His hand ♪</i>
+
+1000
+01:21:13,166 --> 01:21:17,625
+<i>♪ For the bandit also ♪</i>
+
+1001
+01:21:17,708 --> 01:21:24,708
+<i>♪ Feared ♪</i>
+
+1002
+01:21:25,791 --> 01:21:32,416
+<i>♪ Monsters</i> ♪
+
+1003
+01:21:33,541 --> 01:21:40,416
+<i>♪ Monsters</i> ♪
+
+1004
+01:21:41,305 --> 01:22:41,602
+Advertise your product or brand here
+contact www.OpenSubtitles.org today
