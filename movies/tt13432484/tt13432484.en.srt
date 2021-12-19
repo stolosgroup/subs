@@ -1,0 +1,1625 @@
+﻿1
+00:00:06,000 --> 00:00:12,074
+-== [ www.OpenSubtitles.org ] ==-
+
+2
+00:01:07,528 --> 00:01:12,528
+<font color="#ffff00">Provided by explosiveskull</font>
+https://twitter.com/kaboomskull
+
+3
+00:01:13,791 --> 00:01:17,394
+Hello, my name is Ethan Hawke,
+and I just wanted to talk to you briefly
+
+4
+00:01:17,427 --> 00:01:18,763
+about the new film
+I'm working on
+
+5
+00:01:18,796 --> 00:01:21,666
+called <i>Zeros and Ones,</i>
+by Abel Ferrara.
+
+6
+00:01:21,699 --> 00:01:25,603
+I've been a fan of Abel since I
+first fell in love with the movies.
+
+7
+00:01:25,637 --> 00:01:28,773
+He's a completely unique
+and extraordinary filmmaker.
+
+8
+00:01:28,806 --> 00:01:33,243
+He's got voice with the camera.
+He has depth with his actors.
+
+9
+00:01:33,276 --> 00:01:37,749
+The work that he's done most recently with
+Willem Dafoe has been wildly inspiring to me,
+
+10
+00:01:37,782 --> 00:01:40,283
+so I was very grateful
+to get the script.
+
+11
+00:01:40,317 --> 00:01:44,656
+Especially considering that the
+script speaks to this moment.
+
+12
+00:01:44,689 --> 00:01:48,191
+Not in any obvious,
+uh, didactic way,
+
+13
+00:01:48,225 --> 00:01:51,963
+but you can feel
+that this is Abel's hit
+
+14
+00:01:51,996 --> 00:01:55,767
+on what we've all been going
+through for the last year or so.
+
+15
+00:01:55,800 --> 00:01:59,971
+Uh, it's a beautiful script.
+I play a military man.
+
+16
+00:02:00,004 --> 00:02:03,407
+You're not exactly sure whether
+I'm a good guy or a bad guy,
+
+17
+00:02:03,440 --> 00:02:06,476
+and I also play my own brother,
+who's a revolutionary.
+
+18
+00:02:06,510 --> 00:02:09,781
+And so, that's very dynamic
+for me to get to play
+
+19
+00:02:09,814 --> 00:02:13,383
+these two characters that are
+representing contrasting viewpoints.
+
+20
+00:02:13,417 --> 00:02:15,586
+I think we're gonna be able
+to do something really special.
+
+21
+00:02:15,620 --> 00:02:19,289
+Uh, I consider the most
+important aspect of my job,
+
+22
+00:02:19,322 --> 00:02:21,726
+who I choose to work with,
+that's what actors do.
+
+23
+00:02:21,759 --> 00:02:25,897
+You know, we champion filmmakers,
+uh, we champion voices.
+
+24
+00:02:25,930 --> 00:02:29,533
+And I'm excited for the world
+to see Abel's response
+
+25
+00:02:29,567 --> 00:02:32,804
+to-to this wild year
+we've been living through.
+
+26
+00:02:32,837 --> 00:02:34,404
+I hope you enjoy it.
+
+27
+00:09:25,049 --> 00:09:27,318
+<i>Yo, you good?</i>
+
+28
+00:09:28,752 --> 00:09:30,087
+Still here.
+
+29
+00:09:44,935 --> 00:09:46,837
+<i>All right, here,
+let me pull it up.</i>
+
+30
+00:11:16,293 --> 00:11:18,929
+<i>Hey, let me... let me
+work with this some more.</i>
+
+31
+00:12:27,398 --> 00:12:29,266
+What's it say?
+
+32
+00:12:29,300 --> 00:12:30,834
+You're still alive.
+
+33
+00:12:30,868 --> 00:12:32,169
+You trust it?
+
+34
+00:12:32,202 --> 00:12:33,605
+Come on.
+
+35
+00:13:23,387 --> 00:13:25,623
+That's the news to the world.
+
+36
+00:13:33,964 --> 00:13:36,433
+<i>It is
+to religion that we call you.</i>
+
+37
+00:13:37,569 --> 00:13:39,671
+<i>The religion of sincerity.</i>
+
+38
+00:13:39,704 --> 00:13:42,473
+<i>The best manners,
+righteousness,</i>
+
+39
+00:13:42,506 --> 00:13:45,442
+<i>mercy, honor, purity, piety.</i>
+
+40
+00:13:48,245 --> 00:13:52,249
+<i>It is the religion
+of showing kindness to others.</i>
+
+41
+00:13:52,282 --> 00:13:54,518
+<i>Establishing justice
+between them,</i>
+
+42
+00:13:55,620 --> 00:13:58,021
+<i>granting them the rights,</i>
+
+43
+00:13:58,055 --> 00:14:01,291
+<i>and defending the oppressed
+and the persecuted.</i>
+
+44
+00:14:05,563 --> 00:14:10,334
+<i>We call you to be a people of
+principles, honor, and purity.</i>
+
+45
+00:14:10,367 --> 00:14:15,673
+<i>That you may be freed from the deceptive
+lies, that you are a great nation.</i>
+
+46
+00:14:21,178 --> 00:14:25,549
+<i>Do you now know why we fight
+and why we shall be victorious?</i>
+
+47
+00:14:56,246 --> 00:14:59,149
+Hey, shoot it
+so they believe it.
+
+48
+00:15:26,443 --> 00:15:28,479
+<i>Symbol of Christianity...</i>
+
+49
+00:15:33,550 --> 00:15:35,620
+<i>death to the infidels...</i>
+
+50
+00:15:45,329 --> 00:15:47,431
+<i>The 3,000-year war...</i>
+
+51
+00:16:04,348 --> 00:16:06,784
+<i>Jesus was just another soldier,</i>
+
+52
+00:16:07,819 --> 00:16:10,053
+<i>another war casualty...</i>
+
+53
+00:16:16,260 --> 00:16:17,695
+<i>but on whose side?</i>
+
+54
+00:17:11,281 --> 00:17:12,549
+Hey.
+
+55
+00:17:14,652 --> 00:17:16,320
+Come up the back.
+
+56
+00:19:47,939 --> 00:19:49,372
+His father?
+
+57
+00:19:54,612 --> 00:19:56,013
+Your brother...
+
+58
+00:19:57,481 --> 00:19:58,883
+is still in prison.
+
+59
+00:20:02,854 --> 00:20:04,555
+Well, at least he's alive.
+
+60
+00:20:05,422 --> 00:20:06,791
+For now.
+
+61
+00:20:08,358 --> 00:20:09,694
+Are you sure?
+
+62
+00:20:10,995 --> 00:20:12,663
+You tell me.
+
+63
+00:20:26,677 --> 00:20:28,012
+Is that your rabbit?
+
+64
+00:20:30,347 --> 00:20:31,616
+Does he have a name?
+
+65
+00:20:37,755 --> 00:20:39,389
+What are you dreamin' about?
+
+66
+00:20:41,592 --> 00:20:42,760
+Fish?
+
+67
+00:20:46,463 --> 00:20:47,632
+Porcupines?
+
+68
+00:20:55,940 --> 00:20:56,941
+Goodnight.
+
+69
+00:21:13,891 --> 00:21:15,593
+I only have tea.
+
+70
+00:21:15,626 --> 00:21:16,661
+That's fine.
+
+71
+00:21:38,448 --> 00:21:41,052
+Have you figured out
+what you're doing in my country?
+
+72
+00:21:45,890 --> 00:21:47,457
+I'm workin' on it.
+
+73
+00:21:52,797 --> 00:21:53,998
+Lots of honey?
+
+74
+00:21:54,031 --> 00:21:55,733
+- Mm-hm.
+- Right.
+
+75
+00:21:58,035 --> 00:22:00,537
+What's with you
+Americans and honey?
+
+76
+00:22:23,961 --> 00:22:26,797
+You don't care
+if he ever gets out.
+
+77
+00:22:30,968 --> 00:22:33,905
+He won't last
+ten minutes on the street,
+
+78
+00:22:33,938 --> 00:22:35,640
+knowin' what he knows.
+
+79
+00:22:39,644 --> 00:22:41,478
+How do they know what he knows?
+
+80
+00:22:42,613 --> 00:22:43,948
+You told them?
+
+81
+00:23:20,685 --> 00:23:22,086
+<i>I heard you're back.</i>
+
+82
+00:23:27,224 --> 00:23:28,826
+<i>Show him.</i>
+
+83
+00:23:40,237 --> 00:23:42,239
+<i>And they're both negative.</i>
+
+84
+00:27:06,210 --> 00:27:08,245
+He's addicted to the screens.
+
+85
+00:28:13,244 --> 00:28:19,350
+In another time and place,
+it could be castor oil,
+
+86
+00:28:19,383 --> 00:28:22,219
+and I'd call you <i>partigiano.</i>
+
+87
+00:28:27,057 --> 00:28:28,325
+Made in Swiss...
+
+88
+00:28:30,094 --> 00:28:32,463
+made popular in San Francisco,
+
+89
+00:28:32,496 --> 00:28:36,967
+and perfected recently by a chef
+not far from here.
+
+90
+00:28:38,502 --> 00:28:41,438
+It's quicker and more effective.
+
+91
+00:28:42,406 --> 00:28:43,374
+Ah, shit.
+
+92
+00:28:43,407 --> 00:28:45,209
+No... you don't...
+
+93
+00:29:03,027 --> 00:29:05,095
+Shh... Shh...
+
+94
+00:29:07,965 --> 00:29:09,099
+Where?
+
+95
+00:29:12,637 --> 00:29:15,239
+Where... and when?
+
+96
+00:29:15,873 --> 00:29:16,940
+Okay?
+
+97
+00:29:18,909 --> 00:29:21,812
+It takes more than guns
+to kill a man.
+
+98
+00:29:23,047 --> 00:29:25,849
+You think I'm your enemy?
+
+99
+00:29:25,883 --> 00:29:28,252
+Yeah, is that what you think?
+
+100
+00:29:31,556 --> 00:29:36,860
+Your fear made me,
+and now, here I am.
+
+101
+00:29:38,462 --> 00:29:44,001
+I am your enemy, but your enemy
+won't be gone when you kill me.
+
+102
+00:29:45,536 --> 00:29:47,171
+You can't kill me.
+
+103
+00:29:48,906 --> 00:29:53,177
+Try it, watch what happens.
+
+104
+00:29:53,210 --> 00:29:57,414
+I'll be right back after the
+sound and the fury is finished.
+
+105
+00:29:57,448 --> 00:30:00,017
+Where, and when?
+
+106
+00:30:01,251 --> 00:30:02,486
+Come on.
+
+107
+00:30:02,519 --> 00:30:07,324
+This machine kills fascists.
+
+108
+00:30:07,358 --> 00:30:11,161
+This machine is my voice.
+It's the human voice.
+
+109
+00:30:11,195 --> 00:30:14,898
+My heart is the drummer...
+Okay, all right.
+
+110
+00:30:14,932 --> 00:30:18,168
+You wanna know... you wanna know
+where the door is, eh?
+
+111
+00:30:18,202 --> 00:30:19,937
+Where, and when?
+
+112
+00:30:21,405 --> 00:30:23,006
+No, wait, wait.
+
+113
+00:30:23,040 --> 00:30:24,174
+I'll tell you...
+
+114
+00:30:24,208 --> 00:30:25,610
+I'll tell you...
+I'll tell you...
+
+115
+00:30:25,643 --> 00:30:26,977
+I'll tell you where the...
+where the door...
+
+116
+00:30:27,010 --> 00:30:29,213
+I'll meet you...
+I'll meet you there.
+
+117
+00:30:31,048 --> 00:30:33,417
+And I'm not afraid to die.
+
+118
+00:30:33,450 --> 00:30:34,586
+And you?
+
+119
+00:30:36,019 --> 00:30:37,221
+You're dead already.
+
+120
+00:30:38,956 --> 00:30:42,226
+I would light myself on fire!
+
+121
+00:30:42,259 --> 00:30:47,364
+How come no one is lighting
+themselves on fire, eh?!
+
+122
+00:30:47,398 --> 00:30:53,370
+<i>How come no one is lighting
+themselves on fire anymore?!</i>
+
+123
+00:30:53,404 --> 00:30:56,106
+This country
+was conceived in liberty,
+
+124
+00:30:56,140 --> 00:31:01,646
+dedicated to the proposition
+that all men are created equal.
+
+125
+00:31:01,679 --> 00:31:04,682
+This is a battleground.
+
+126
+00:31:04,716 --> 00:31:07,985
+The world is watching
+what happens here,
+
+127
+00:31:08,018 --> 00:31:12,523
+and it is up to us,
+the living...
+
+128
+00:31:12,557 --> 00:31:15,325
+to finish the work of the dead
+
+129
+00:31:15,359 --> 00:31:18,128
+so they will
+not have died in vain
+
+130
+00:31:18,162 --> 00:31:20,964
+and that a government
+of the people, for the people,
+
+131
+00:31:20,998 --> 00:31:24,101
+by the people, shall not perish
+from this earth!
+
+132
+00:31:24,134 --> 00:31:28,338
+Hail Caesar! Hail Augustus Caesar
+'cause he-he got it, he got it.
+
+133
+00:31:28,372 --> 00:31:30,374
+And you-you, are you American?
+You're American, right?
+
+134
+00:31:30,407 --> 00:31:32,509
+I can't see him,
+behind his mask!
+
+135
+00:31:32,543 --> 00:31:33,678
+Are you American?
+
+136
+00:31:33,711 --> 00:31:35,979
+<i>♪ One Sunday morning ♪</i>
+
+137
+00:31:36,013 --> 00:31:38,348
+<i>♪ By the shadow
+of the steeple ♪</i>
+
+138
+00:31:38,382 --> 00:31:40,517
+<i>♪ By the relief office ♪</i>
+
+139
+00:31:40,551 --> 00:31:42,720
+<i>♪ I saw my people ♪</i>
+
+140
+00:31:42,754 --> 00:31:45,022
+<i>♪ They stood there hungry ♪</i>
+
+141
+00:31:45,055 --> 00:31:47,324
+<i>You know the song!</i>
+
+142
+00:31:48,425 --> 00:31:49,661
+<i>Are you American?</i>
+
+143
+00:31:50,795 --> 00:31:54,666
+<i>♪ One Sunday morning ♪</i>
+
+144
+00:31:54,699 --> 00:31:58,368
+<i>♪ By the shadow
+of the steeple ♪</i>
+
+145
+00:31:58,402 --> 00:32:02,574
+<i>♪ By the relief office ♪</i>
+
+146
+00:32:02,607 --> 00:32:07,211
+It's the law of
+nature, nature's God.
+
+147
+00:32:07,244 --> 00:32:09,480
+We hold these truths
+to be self-evident
+
+148
+00:32:09,513 --> 00:32:11,716
+that all men are created equal
+and that they are endowed
+
+149
+00:32:11,749 --> 00:32:14,184
+with certain unalienable rights:
+
+150
+00:32:14,218 --> 00:32:17,087
+Life, liberty,
+and the pursuit of happiness.
+
+151
+00:32:17,120 --> 00:32:18,690
+Do you know who said that?
+
+152
+00:32:18,723 --> 00:32:20,558
+Who knows who said it,
+raise their hand.
+
+153
+00:32:22,560 --> 00:32:29,032
+It wasn't one man,
+yet you wanna kill one man.
+
+154
+00:32:30,133 --> 00:32:31,335
+All right, all right, all right.
+
+155
+00:32:31,368 --> 00:32:33,003
+You wanna know
+where the door is.
+
+156
+00:32:34,438 --> 00:32:36,173
+Didn't you find it?
+
+157
+00:32:36,206 --> 00:32:39,443
+When you were
+rifling through my bag?
+
+158
+00:32:39,476 --> 00:32:42,112
+Writing my suicide note?
+
+159
+00:32:42,145 --> 00:32:46,083
+Where did you
+come up with that idea, huh?
+
+160
+00:32:46,116 --> 00:32:47,819
+You learn that
+from your scoutmaster now?
+
+161
+00:32:47,852 --> 00:32:52,222
+Are you guys Boy Scouts?
+Do you swear to be faithful and true, huh?
+
+162
+00:32:52,256 --> 00:32:57,762
+Huh? Don't you even know
+that your strippers are Marxist?
+
+163
+00:32:59,496 --> 00:33:03,601
+Your shoemakers are my soldiers?
+
+164
+00:33:03,635 --> 00:33:08,405
+That your cameraman
+is my brother, huh?
+
+165
+00:33:08,438 --> 00:33:12,777
+Nobody living's ever going to stop
+me from walking the freedom highway.
+
+166
+00:33:12,810 --> 00:33:16,748
+Nobody living's gonna
+make me turn back
+
+167
+00:33:16,781 --> 00:33:22,352
+'cause this land
+was made for you and me.
+
+168
+00:33:24,488 --> 00:33:26,724
+You don't know
+how to work with wood.
+
+169
+00:33:27,692 --> 00:33:31,729
+You don't love it, huh?
+
+170
+00:33:31,763 --> 00:33:35,667
+- You hate trees, that's why you hate me...
+- Okay.
+
+171
+00:33:35,700 --> 00:33:38,402
+No, no, no, no, no, no.
+Oh, no!
+
+172
+00:33:38,435 --> 00:33:40,772
+Ah, fuck! Oh!
+
+173
+00:33:40,805 --> 00:33:43,307
+Oh, please, Lord,
+grant me the courage
+
+174
+00:33:43,340 --> 00:33:45,710
+to love those who hate me
+so that we may change the world.
+
+175
+00:33:45,743 --> 00:33:48,646
+Oh, please, Lord, grant me the courage...
+
+176
+00:33:48,680 --> 00:33:51,448
+...to love those who hate me
+so that we may change the world.
+
+177
+00:33:51,481 --> 00:33:55,118
+Grant me the courage to love those who
+hate me so that we may change the world.
+
+178
+00:35:36,353 --> 00:35:38,388
+So when is this gonna happen?
+
+179
+00:35:40,825 --> 00:35:43,493
+It has been happening
+for a thousand years.
+
+180
+00:35:45,997 --> 00:35:48,398
+Is he here now?
+
+181
+00:35:51,301 --> 00:35:52,837
+He was born here.
+
+182
+00:36:00,377 --> 00:36:05,549
+Do you remember how you felt when
+you first put on that uniform?
+
+183
+00:36:10,922 --> 00:36:12,489
+I felt useful.
+
+184
+00:36:16,661 --> 00:36:20,430
+Did your brother
+ever wear a uniform?
+
+185
+00:36:25,368 --> 00:36:28,271
+No.
+
+186
+00:37:14,351 --> 00:37:15,753
+We had a deal.
+
+187
+00:37:18,823 --> 00:37:21,025
+Oh, my American friend.
+
+188
+00:37:21,959 --> 00:37:24,494
+Always talking about a deal.
+
+189
+00:37:26,030 --> 00:37:27,565
+Hm.
+
+190
+00:37:31,002 --> 00:37:32,670
+You still wearing your vest?
+
+191
+00:37:34,471 --> 00:37:36,439
+At all times, Captain.
+
+192
+00:37:42,914 --> 00:37:44,782
+So how are things with you?
+
+193
+00:37:46,918 --> 00:37:49,452
+You tell me.
+
+194
+00:37:49,486 --> 00:37:52,957
+Stop playing games,
+imperialist.
+
+195
+00:37:52,990 --> 00:37:55,726
+You worship it.
+
+196
+00:37:55,760 --> 00:37:58,696
+It is time to live it.
+
+197
+00:38:24,956 --> 00:38:26,023
+Oh.
+
+198
+00:38:30,094 --> 00:38:31,528
+Where is he?
+
+199
+00:38:33,664 --> 00:38:35,032
+In training.
+
+200
+00:38:59,090 --> 00:39:02,026
+Don't move!
+
+201
+00:39:02,059 --> 00:39:05,596
+Don't move!
+I said, don't fucking move!
+
+202
+00:39:34,158 --> 00:39:35,626
+Fuck you!
+
+203
+00:40:25,676 --> 00:40:28,045
+You think we're playing
+fucking games?
+
+204
+00:41:08,986 --> 00:41:13,224
+Everything you need to know is on
+this, in five languages.
+
+205
+00:41:13,257 --> 00:41:14,258
+Get it?
+
+206
+00:41:22,833 --> 00:41:26,637
+Study it, destroy it,
+make it happen.
+
+207
+00:42:30,000 --> 00:42:31,268
+Oh!
+
+208
+00:42:40,277 --> 00:42:42,413
+Oh...
+
+209
+00:42:45,983 --> 00:42:48,052
+- It's funnier in Russian.
+- Yeah.
+
+210
+00:42:55,025 --> 00:42:57,027
+<i>It looks like Moscow...</i>
+
+211
+00:42:59,363 --> 00:43:01,966
+That's happenin' here
+in real time.
+
+212
+00:43:03,434 --> 00:43:05,703
+The waiter's filmin' this.
+
+213
+00:43:15,980 --> 00:43:17,882
+The last thing he'll ever do.
+
+214
+00:43:21,485 --> 00:43:23,187
+You recognize the guy?
+
+215
+00:43:24,355 --> 00:43:26,724
+Looks like the boss.
+
+216
+00:43:26,757 --> 00:43:28,292
+And the other guy?
+
+217
+00:43:29,293 --> 00:43:30,861
+His boss.
+
+218
+00:43:36,000 --> 00:43:40,404
+<i>Looks like what he is.
+Russian SVR.</i>
+
+219
+00:43:40,437 --> 00:43:44,875
+I want to drink
+for our future big success.
+
+220
+00:43:44,909 --> 00:43:45,976
+Very good.
+
+221
+00:43:48,512 --> 00:43:50,748
+- To our friendship.
+- Yes.
+
+222
+00:44:02,960 --> 00:44:05,329
+<i>They look like
+they could be sisters.</i>
+
+223
+00:44:14,205 --> 00:44:15,406
+Know them?
+
+224
+00:44:50,107 --> 00:44:51,976
+Your brother's dead.
+
+225
+00:44:58,282 --> 00:45:00,751
+We're negotiatin' for his body.
+
+226
+00:45:18,235 --> 00:45:20,537
+<i>This is really
+how he wants to die?</i>
+
+227
+00:45:24,174 --> 00:45:28,412
+<i>I paid dearly for the words
+you put into my mouth.</i>
+
+228
+00:45:28,445 --> 00:45:31,482
+<i>You fooled me
+that I can see the hereafter.</i>
+
+229
+00:47:18,255 --> 00:47:20,457
+The time has come.
+
+230
+00:47:23,994 --> 00:47:27,531
+It was told to me
+from the Holy Father...
+
+231
+00:47:29,634 --> 00:47:31,603
+in his prayer.
+
+232
+00:47:33,404 --> 00:47:39,042
+He wants you
+to initiate the response.
+
+233
+00:47:40,477 --> 00:47:43,615
+Ask help from no one.
+
+234
+00:48:02,399 --> 00:48:04,401
+They will all betray you.
+
+235
+00:48:05,770 --> 00:48:08,539
+They will deny
+you even existed.
+
+236
+00:48:13,043 --> 00:48:15,078
+Do you know
+what happened to my brother?
+
+237
+00:48:16,213 --> 00:48:18,215
+He has risen.
+
+238
+00:48:18,248 --> 00:48:20,417
+He sits with his father now.
+
+239
+00:52:44,749 --> 00:52:48,552
+<i>Aiuto! Aiutami!</i>
+
+240
+00:52:49,587 --> 00:52:51,254
+<i>Aiutami!</i>
+
+241
+00:52:53,457 --> 00:52:55,425
+<i>Aiutami!</i>
+
+242
+00:53:05,036 --> 00:53:07,972
+Okay, soldier boy,
+hands up!
+
+243
+00:53:17,347 --> 00:53:18,548
+Drop the gun.
+
+244
+00:53:26,691 --> 00:53:28,593
+Nice and easy.
+
+245
+00:53:41,973 --> 00:53:43,473
+Get in the car.
+
+246
+00:54:29,620 --> 00:54:32,389
+Hey, relax!
+
+247
+00:54:32,422 --> 00:54:34,659
+We're all negative here!
+
+248
+00:54:56,647 --> 00:54:59,449
+When was the last time
+you did some giga giga?
+
+249
+00:57:18,089 --> 00:57:19,256
+Here's the deal:
+
+250
+00:57:20,825 --> 00:57:24,695
+You knock her up
+and you walk out of here.
+
+251
+00:57:25,763 --> 00:57:29,900
+How's that gonna work?
+
+252
+00:57:30,668 --> 00:57:31,969
+He's a doctor.
+
+253
+00:57:33,104 --> 00:57:34,504
+We have methods.
+
+254
+00:57:35,806 --> 00:57:37,608
+Call it advanced medicine.
+
+255
+00:57:39,343 --> 00:57:41,912
+Now turn that
+fucking camera on.
+
+256
+00:57:47,184 --> 00:57:51,989
+<i>♪ A clouded dream
+on an earthly night ♪</i>
+
+257
+00:57:52,023 --> 00:57:56,293
+<i>♪ Hangs upon
+the crescent moon ♪</i>
+
+258
+00:57:56,327 --> 00:58:00,631
+<i>♪ A voiceless song
+in an ageless light ♪</i>
+
+259
+00:58:00,664 --> 00:58:05,036
+<i>♪ Sings at the coming dawn ♪</i>
+
+260
+00:58:05,069 --> 00:58:09,140
+<i>♪ Birds in flight
+are calling there ♪</i>
+
+261
+00:58:09,173 --> 00:58:13,811
+<i>♪ Where the heart
+moves the stones ♪</i>
+
+262
+00:58:13,844 --> 00:58:18,015
+<i>♪ It's there that my heart
+is longing for ♪</i>
+
+263
+00:58:18,049 --> 00:58:22,920
+<i>♪ All for the love of you ♪</i>
+
+264
+00:58:39,770 --> 00:58:44,041
+<i>♪ A painting hangs
+on an ivy wall ♪</i>
+
+265
+00:58:44,075 --> 00:58:48,345
+<i>♪ Nestled in the emerald moss ♪</i>
+
+266
+00:58:48,379 --> 00:58:52,683
+<i>♪ The eyes declare
+a truce of trust ♪</i>
+
+267
+00:58:52,716 --> 00:58:56,954
+<i>♪ And then it
+draws me far away ♪</i>
+
+268
+00:58:56,987 --> 00:59:01,092
+<i>♪ Where deep
+in the desert twilight ♪</i>
+
+269
+00:59:01,125 --> 00:59:05,830
+<i>♪ Sand melts in pools
+of the sky ♪</i>
+
+270
+00:59:05,863 --> 00:59:09,733
+<i>♪ When darkness
+lays her crimson cloak ♪</i>
+
+271
+00:59:09,767 --> 00:59:15,606
+<i>♪ Your lamps will call
+call me home ♪</i>
+
+272
+01:02:00,605 --> 01:02:02,473
+<i>Get the fuck out of there, man!</i>
+
+273
+01:02:02,506 --> 01:02:04,141
+<i>Come on, get the fuck
+out of there!</i>
+
+274
+01:02:04,174 --> 01:02:06,110
+<i>Get the fuck out of there!</i>
+
+275
+01:02:06,143 --> 01:02:08,178
+<i>They're coming, man.
+Get the fuck out of there!</i>
+
+276
+01:02:08,212 --> 01:02:10,214
+<i>Go! Go, man, come on!</i>
+
+277
+01:02:10,247 --> 01:02:12,950
+<i>Move! Move! Go! Go! Go!</i>
+
+278
+01:02:12,983 --> 01:02:15,052
+<i>Get the fuck out of there, man!</i>
+
+279
+01:02:15,085 --> 01:02:17,454
+<i>They're coming, man!
+Go! Go! Go!</i>
+
+280
+01:02:18,188 --> 01:02:19,957
+<i>Go! Go!</i>
+
+281
+01:02:19,990 --> 01:02:22,594
+<i>Motherfucking cocksucker!</i>
+
+282
+01:02:22,627 --> 01:02:25,329
+<i>You fucking cocksuckin'
+motherfucker!</i>
+
+283
+01:02:25,362 --> 01:02:26,997
+<i>Fuckin' piece of shit!</i>
+
+284
+01:02:32,036 --> 01:02:33,170
+Hey!
+
+285
+01:05:55,239 --> 01:05:59,142
+<i>The world
+is the hiding place of God.</i>
+
+286
+01:06:01,378 --> 01:06:05,516
+<i>You know who said that?
+Jesus.</i>
+
+287
+01:06:09,553 --> 01:06:12,422
+<i>To understand
+what's outside of you,</i>
+
+288
+01:06:12,456 --> 01:06:14,792
+<i>you must use what's in you.</i>
+
+289
+01:06:20,497 --> 01:06:25,703
+<i>If we hear only what we already
+know, nothing new happens.</i>
+
+290
+01:06:44,822 --> 01:06:48,626
+<i>The hard road
+leads to a real life.</i>
+
+291
+01:06:56,668 --> 01:06:59,436
+<i>"I have done
+what is mine to do.</i>
+
+292
+01:07:01,806 --> 01:07:04,174
+<i>Do what is yours to do,"</i>
+
+293
+01:07:06,376 --> 01:07:08,478
+<i>the dying words
+of Saint Francis.</i>
+
+294
+01:08:08,238 --> 01:08:09,306
+For you.
+
+295
+01:08:12,442 --> 01:08:15,412
+<i>Being out of uniform
+in a war zone</i>
+
+296
+01:08:15,445 --> 01:08:18,382
+<i>is a crime punishable by death.</i>
+
+297
+01:08:36,701 --> 01:08:43,641
+<i>Listen, soldier, convening with
+the enemy is a serious offense.</i>
+
+298
+01:08:44,876 --> 01:08:46,711
+<i>Can you understand that?</i>
+
+299
+01:08:53,651 --> 01:08:55,385
+<i>When?</i>
+
+300
+01:08:55,419 --> 01:08:56,453
+<i>When?</i>
+
+301
+01:09:03,995 --> 01:09:06,798
+<i>Did you plan on
+keeping this to yourself?</i>
+
+302
+01:09:31,689 --> 01:09:33,658
+Have you talked to Steven?
+
+303
+01:09:35,026 --> 01:09:36,894
+<i>You just got him killed.</i>
+
+304
+01:09:44,836 --> 01:09:46,470
+Where's my brother?
+
+305
+01:09:49,907 --> 01:09:51,843
+<i>Your brother was an anarchist.</i>
+
+306
+01:09:53,811 --> 01:09:56,681
+<i>Your brother was a communist.</i>
+
+307
+01:10:05,890 --> 01:10:08,025
+My brother
+was a revolutionary.
+
+308
+01:10:15,867 --> 01:10:18,669
+- We gotta get out of here.
+- Where?
+
+309
+01:10:20,470 --> 01:10:21,906
+New York?
+
+310
+01:10:56,607 --> 01:10:57,909
+Shit.
+
+311
+01:11:22,633 --> 01:11:23,734
+When?
+
+312
+01:11:26,503 --> 01:11:27,805
+Right now.
+
+313
+01:11:30,007 --> 01:11:31,541
+Get the baby.
+
+314
+01:12:10,581 --> 01:12:11,782
+It's on.
+
+315
+01:12:13,483 --> 01:12:15,019
+Thank God.
+
+316
+01:18:26,123 --> 01:18:29,159
+Well, the movie's over.
+
+317
+01:18:30,394 --> 01:18:35,332
+Uh, when I first
+spoke to you, um,
+
+318
+01:18:35,366 --> 01:18:37,401
+I was really
+just recording a video
+
+319
+01:18:37,434 --> 01:18:40,104
+to help raise money
+to make the movie.
+
+320
+01:18:40,137 --> 01:18:44,041
+And now, uh,
+we've made the film!
+
+321
+01:18:44,074 --> 01:18:48,245
+And I just watched it,
+and you just watched it.
+
+322
+01:19:06,598 --> 01:19:09,967
+When Abel gave me the script
+and, uh...
+
+323
+01:19:10,000 --> 01:19:16,340
+script is a really, uh,
+not accurate term for what he sent.
+
+324
+01:19:18,309 --> 01:19:20,377
+I really didn't understand
+a word of it...
+
+325
+01:19:20,411 --> 01:19:22,112
+Yeah.
+
+326
+01:19:22,146 --> 01:19:24,948
+But I really liked it.
+
+327
+01:19:24,982 --> 01:19:29,621
+Uh, I did, but I didn't know
+what was happening.
+
+328
+01:19:29,654 --> 01:19:33,324
+I felt like somebody
+was up to something,
+
+329
+01:19:33,357 --> 01:19:35,392
+and that I wanted to be
+a part of it,
+
+330
+01:19:35,426 --> 01:19:37,995
+but I didn't know
+what he was trying to say.
+
+331
+01:19:42,232 --> 01:19:45,603
+And now,
+after watching the film,
+
+332
+01:19:45,637 --> 01:19:51,609
+I think what I began to feel
+while we're making it is true.
+
+333
+01:19:51,643 --> 01:19:53,477
+Which is that you're...
+
+334
+01:19:53,510 --> 01:20:00,117
+You can have kind of two
+opposing outlooks on the world
+
+335
+01:20:00,150 --> 01:20:02,654
+and that they're both accurate.
+
+336
+01:20:02,687 --> 01:20:05,322
+You kind of can
+align your shoulders one way
+
+337
+01:20:05,356 --> 01:20:08,359
+in which you realize you wake up
+in the morning and you think,
+
+338
+01:20:09,426 --> 01:20:12,496
+"Oh, shit, I'm gonna die.
+
+339
+01:20:12,529 --> 01:20:16,033
+I mean, this is real.
+I'm gonna die."
+
+340
+01:20:16,066 --> 01:20:19,136
+And the world is run
+
+341
+01:20:19,169 --> 01:20:24,908
+by corrupt, greedy individuals
+
+342
+01:20:24,942 --> 01:20:29,246
+and there's great tragedy
+and disease
+
+343
+01:20:29,279 --> 01:20:32,383
+and the planet is eroding.
+
+344
+01:20:32,416 --> 01:20:36,621
+And not only am I gonna die,
+everybody I know is gonna die.
+
+345
+01:20:36,654 --> 01:20:40,391
+And brothers lie to each other,
+and people hurt each other.
+
+346
+01:20:40,424 --> 01:20:46,497
+And you just... you just don't know if you
+can go on, or what the point of it all is.
+
+347
+01:20:46,530 --> 01:20:52,002
+And then almost
+with-with the same ease,
+
+348
+01:20:52,035 --> 01:20:56,173
+you can align your shoulders
+a different direction and go,
+
+349
+01:20:56,206 --> 01:21:02,079
+"I was born! Why was I born?
+I'm so glad I was born.
+
+350
+01:21:02,112 --> 01:21:07,217
+Everybody was born,
+and the sun comes up and there're flowers.
+
+351
+01:21:07,251 --> 01:21:10,588
+And guess what,
+a lot of people are really nice!"
+
+352
+01:21:10,622 --> 01:21:13,725
+And there's a kind of
+pervasive kindness and healing
+
+353
+01:21:13,758 --> 01:21:19,463
+that runs through the world
+as it spins away.
+
+354
+01:21:19,496 --> 01:21:22,667
+And there's all this
+tremendous beauty!
+
+355
+01:21:22,700 --> 01:21:26,470
+Every child is a miracle
+
+356
+01:21:26,503 --> 01:21:30,007
+and I wonder why I was born,
+you know.
+
+357
+01:21:30,040 --> 01:21:31,475
+What I'm doing.
+
+358
+01:21:31,508 --> 01:21:36,346
+Both those outlooks
+are a hundred percent true.
+
+359
+01:21:48,358 --> 01:21:51,495
+This is part of the movie,
+by the way.
+
+360
+01:21:51,528 --> 01:21:53,063
+And now it's over.
+
+361
+01:21:54,286 --> 01:21:59,286
+<font color="#ffff00">Provided by explosiveskull</font>
+https://twitter.com/kaboomskull
+
+361
+01:22:00,305 --> 01:23:00,467
+Please rate this subtitle at www.osdb.link/97nnb
+Help other users to choose the best subtitles
