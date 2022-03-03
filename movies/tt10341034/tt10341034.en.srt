@@ -1,0 +1,5157 @@
+﻿1
+00:00:06,000 --> 00:00:12,074
+Advertise your product or brand here
+contact www.OpenSubtitles.org today
+
+2
+00:00:58,920 --> 00:01:03,920
+<font color="#ffff00">Provided by explosiveskull</font>
+https://twitter.com/kaboomskull
+
+3
+00:01:13,369 --> 00:01:14,993
+We weigh 251 tons.
+
+4
+00:01:15,035 --> 00:01:17,993
+Just over optimal
+with a 1.5g buffet margin.
+
+5
+00:01:18,035 --> 00:01:19,285
+1.6 even.
+
+6
+00:01:27,618 --> 00:01:30,244
+- Jeanne and your meal.
+- I'll let her in.
+
+7
+00:01:34,535 --> 00:01:35,535
+Thanks.
+
+8
+00:01:35,576 --> 00:01:37,119
+We're serving breakfast.
+
+9
+00:01:37,160 --> 00:01:39,410
+It may get rocky. Let them know.
+
+10
+00:01:39,451 --> 00:01:40,993
+Ok, I'll get your meal.
+
+11
+00:02:17,119 --> 00:02:18,660
+Did you rest?
+
+12
+00:02:49,868 --> 00:02:50,868
+Sir!
+
+13
+00:02:52,035 --> 00:02:53,785
+Please sit down, sir.
+
+14
+00:03:14,993 --> 00:03:16,660
+<i>Still Swiss control?</i>
+
+15
+00:03:16,702 --> 00:03:18,827
+<i>They'll soon hand us over to Paris.</i>
+
+16
+00:03:19,119 --> 00:03:20,868
+<i>On turnaround this week?</i>
+
+17
+00:03:20,910 --> 00:03:23,368
+<i>New Delhi, then Bali right after.</i>
+
+18
+00:03:23,410 --> 00:03:25,244
+<i>Any room in your bags?</i>
+
+19
+00:03:27,576 --> 00:03:29,702
+<i>- Jeanne again.
+- I'll let her in.</i>
+
+20
+00:04:15,660 --> 00:04:17,077
+That's the lot.
+
+21
+00:04:17,368 --> 00:04:20,493
+An iPhone video,
+no flight recorder on board.
+
+22
+00:04:20,868 --> 00:04:23,493
+It looks like the tail rotor went.
+
+23
+00:04:24,702 --> 00:04:25,910
+Not just that.
+
+24
+00:04:26,244 --> 00:04:27,202
+Listen.
+
+25
+00:04:35,493 --> 00:04:38,493
+A transmission gear is too slow.
+
+26
+00:04:38,535 --> 00:04:41,743
+On a Dauphin, it should be at 1730.
+I hear it at 1680.
+
+27
+00:04:41,785 --> 00:04:44,160
+You can hear a 50 Hz difference?
+
+28
+00:04:44,702 --> 00:04:45,952
+I see it too.
+
+29
+00:04:48,326 --> 00:04:50,160
+Here, this line at 1680 Hz.
+
+30
+00:04:51,243 --> 00:04:53,493
+Pitch that part 300% to bass.
+
+31
+00:05:04,326 --> 00:05:06,493
+All I hear is the tail rotor.
+
+32
+00:05:07,660 --> 00:05:10,202
+I'm not sure.
+We need a test flight.
+
+33
+00:05:10,618 --> 00:05:13,160
+The same phone, the same distance.
+
+34
+00:05:13,202 --> 00:05:17,035
+Mathieu, I've seen this before.
+The video is clear.
+
+35
+00:05:17,368 --> 00:05:21,077
+Sorry, but I really think
+we should do a test flight.
+
+36
+00:05:21,119 --> 00:05:22,868
+Mathieu, believe me,
+
+37
+00:05:22,910 --> 00:05:25,618
+you'll end up at the same conclusion.
+
+38
+00:05:26,743 --> 00:05:27,869
+If you say so.
+
+39
+00:05:29,618 --> 00:05:30,869
+We'll never know.
+
+40
+00:05:31,869 --> 00:05:33,577
+Want Balsan to take over?
+
+41
+00:05:37,743 --> 00:05:38,743
+Right...
+
+42
+00:05:48,243 --> 00:05:50,035
+We need the 800 FCOM.
+
+43
+00:05:50,368 --> 00:05:51,535
+The updated one.
+
+44
+00:05:52,660 --> 00:05:54,702
+The whole avionic system.
+
+45
+00:05:54,994 --> 00:05:56,660
+The go-team's due at 3 pm.
+
+46
+00:05:59,035 --> 00:05:59,869
+Call the airline.
+
+47
+00:06:00,326 --> 00:06:02,827
+Get the recorder serial numbers.
+
+48
+00:06:02,869 --> 00:06:05,410
+I need to cancel, we have a crash.
+
+49
+00:06:05,451 --> 00:06:06,827
+We'll free the lab.
+
+50
+00:06:07,243 --> 00:06:08,201
+Ok, I'll hold.
+
+51
+00:06:08,743 --> 00:06:10,035
+Yes, I'll hold.
+
+52
+00:06:10,618 --> 00:06:13,660
+An Atrian 800 went down.
+300 passengers.
+
+53
+00:06:13,702 --> 00:06:14,368
+When?
+
+54
+00:06:14,869 --> 00:06:16,743
+Air traffic just informed us.
+
+55
+00:06:17,451 --> 00:06:18,743
+All technical data.
+
+56
+00:06:20,035 --> 00:06:21,702
+Plane, engine, the lot.
+
+57
+00:06:21,952 --> 00:06:23,785
+Pollock's in charge.
+
+58
+00:06:23,827 --> 00:06:24,910
+Who's going?
+
+59
+00:06:25,410 --> 00:06:28,035
+Rénier wants a CVR guy
+and a wreck tech.
+
+60
+00:06:28,285 --> 00:06:29,119
+Yes.
+
+61
+00:06:29,785 --> 00:06:33,243
+We need to work
+with your technical adviser.
+
+62
+00:06:33,285 --> 00:06:35,410
+The go-team flies out ASAP.
+
+63
+00:06:36,451 --> 00:06:38,451
+Balsan, get your things.
+
+64
+00:06:49,452 --> 00:06:51,702
+Sorry, but you usually take me.
+
+65
+00:06:51,743 --> 00:06:53,201
+Balsan is as capable.
+
+66
+00:06:53,243 --> 00:06:55,285
+If it's about earlier...
+
+67
+00:06:55,326 --> 00:06:58,243
+I can't deal with your misgivings now.
+
+68
+00:07:04,743 --> 00:07:05,910
+The case bag.
+
+69
+00:07:06,201 --> 00:07:07,326
+- What?
+- The bag.
+
+70
+00:07:07,577 --> 00:07:08,952
+We need it.
+
+71
+00:07:17,618 --> 00:07:19,118
+<i>Heard anything?</i>
+
+72
+00:07:22,160 --> 00:07:23,743
+<i>I've been side-lined</i>
+
+73
+00:07:26,326 --> 00:07:28,285
+<i>Tonight is off?</i>
+
+74
+00:07:36,577 --> 00:07:38,118
+<i>Don't chicken out.</i>
+
+75
+00:07:38,744 --> 00:07:41,910
+I don't know what time I'll finish.
+
+76
+00:07:41,952 --> 00:07:45,577
+<i>I've got everyone together,
+you have to come.</i>
+
+77
+00:07:45,618 --> 00:07:48,160
+No one will come after the crash.
+
+78
+00:07:48,201 --> 00:07:50,785
+<i>They'll all be after information.</i>
+
+79
+00:07:51,076 --> 00:07:53,160
+<i>Make an effort, for my sake.</i>
+
+80
+00:07:54,618 --> 00:07:55,785
+Shit...
+
+81
+00:07:55,827 --> 00:07:57,618
+- <i>What's up?
+</i>- Hold on.
+
+82
+00:08:09,368 --> 00:08:10,452
+<i>Mathieu?</i>
+
+83
+00:08:14,952 --> 00:08:16,118
+Fuck...
+
+84
+00:08:17,869 --> 00:08:18,827
+<i>Mathieu?</i>
+
+85
+00:08:19,452 --> 00:08:21,534
+- <i>What's wrong?
+</i>- Nothing.
+
+86
+00:08:21,577 --> 00:08:22,910
+<i>Are you coming?</i>
+
+87
+00:08:22,951 --> 00:08:25,952
+If you want,
+but there'll be no one there.
+
+88
+00:09:33,452 --> 00:09:36,951
+They act normal,
+but they're thinking about the crash.
+
+89
+00:09:37,827 --> 00:09:38,910
+I'm not on it.
+
+90
+00:09:39,452 --> 00:09:40,368
+On what?
+
+91
+00:09:40,619 --> 00:09:42,035
+The investigation.
+
+92
+00:09:42,951 --> 00:09:45,619
+A huge case and I'm not on it.
+
+93
+00:09:45,993 --> 00:09:47,368
+I'm no better off.
+
+94
+00:09:47,410 --> 00:09:50,035
+If it's technical, Atrian is doomed,
+
+95
+00:09:50,076 --> 00:09:51,827
+with me and half this room.
+
+96
+00:09:53,993 --> 00:09:55,744
+Welcome to the Titanic.
+
+97
+00:09:56,993 --> 00:09:57,619
+Xavier!
+
+98
+00:09:59,035 --> 00:10:00,368
+- Ok?
+- Fine, and you?
+
+99
+00:10:00,702 --> 00:10:02,869
+Pegase is securing CDG's network?
+
+100
+00:10:03,118 --> 00:10:05,076
+We're pleased, it's a big job.
+
+101
+00:10:05,410 --> 00:10:06,993
+Your single-fibre network
+
+102
+00:10:07,035 --> 00:10:09,493
+is awesome. It should be standard.
+
+103
+00:10:09,535 --> 00:10:12,535
+Lighter aircraft
+means lower fuel consumption.
+
+104
+00:10:12,951 --> 00:10:14,744
+Let's do lunch and talk.
+
+105
+00:10:15,035 --> 00:10:16,869
+Next week, after Montreal.
+
+106
+00:10:17,243 --> 00:10:18,993
+- I'll call you.
+- Ok.
+
+107
+00:10:21,327 --> 00:10:23,452
+He used to hate you.
+
+108
+00:10:23,493 --> 00:10:26,118
+They all want to give me their CVs now.
+
+109
+00:10:26,702 --> 00:10:28,993
+What are you two plotting?
+
+110
+00:10:29,493 --> 00:10:31,744
+I was asking how you got him here.
+
+111
+00:10:33,410 --> 00:10:34,452
+- Ok?
+- Yes.
+
+112
+00:10:35,076 --> 00:10:37,993
+- When d'you start with Varins?
+- Next month.
+
+113
+00:10:38,744 --> 00:10:40,118
+I'm so pleased.
+
+114
+00:10:40,785 --> 00:10:41,827
+Thanks again.
+
+115
+00:10:42,160 --> 00:10:44,577
+Just one call.
+How did the agency react?
+
+116
+00:10:44,619 --> 00:10:47,327
+Upset to see you in the private sector?
+
+117
+00:10:47,368 --> 00:10:48,452
+They'll recover.
+
+118
+00:10:49,118 --> 00:10:51,993
+Don't be modest,
+you're their best element.
+
+119
+00:10:52,035 --> 00:10:53,993
+I'll need to work hard.
+
+120
+00:10:54,327 --> 00:10:55,869
+Varins is demanding.
+
+121
+00:10:56,160 --> 00:10:58,535
+- No, you'll be fine.
+- I hope so.
+
+122
+00:10:58,785 --> 00:11:01,076
+I'm organizing a cocktail party
+
+123
+00:11:01,118 --> 00:11:03,285
+for gender equality.
+
+124
+00:11:03,327 --> 00:11:05,452
+Could the Entrepreneurs help?
+
+125
+00:11:05,493 --> 00:11:07,493
+- Want me to ask?
+- Please.
+
+126
+00:11:07,910 --> 00:11:09,410
+Always after favours...
+
+127
+00:11:10,035 --> 00:11:10,702
+Stop it.
+
+128
+00:11:11,035 --> 00:11:12,744
+I'm kidding. I'll ask.
+
+129
+00:11:13,368 --> 00:11:15,410
+I have to see the Safran guys.
+
+130
+00:11:15,452 --> 00:11:16,951
+I'll call you.
+
+131
+00:11:16,993 --> 00:11:17,744
+Deal.
+
+132
+00:11:22,493 --> 00:11:24,327
+- Finished mingling?
+- Yes.
+
+133
+00:11:28,951 --> 00:11:29,868
+Well?
+
+134
+00:11:30,493 --> 00:11:31,910
+Limited dispersion.
+
+135
+00:11:32,993 --> 00:11:34,202
+So, no explosion.
+
+136
+00:11:34,744 --> 00:11:36,785
+Got the ACARS and trajectory data?
+
+137
+00:11:36,827 --> 00:11:39,076
+Yes, a sudden nose-dive.
+
+138
+00:11:39,118 --> 00:11:40,826
+And traffic control?
+
+139
+00:11:41,118 --> 00:11:44,368
+The pilots tried to climb
+before losing contact.
+
+140
+00:11:44,702 --> 00:11:46,494
+Could it be technical?
+
+141
+00:11:48,035 --> 00:11:51,951
+Not for me. Our certification showed
+the 800 is a Rolls.
+
+142
+00:11:51,993 --> 00:11:54,285
+Not one major breakdown yet.
+
+143
+00:11:54,327 --> 00:11:58,535
+<i>Nothing new on the Atrian 800 crash
+in the Alps this morning.</i>
+
+144
+00:11:59,160 --> 00:12:01,118
+<i>With the gendarmes</i>
+
+145
+00:12:01,160 --> 00:12:03,494
+<i>at work all day in the mountains,</i>
+
+146
+00:12:03,535 --> 00:12:05,035
+<i>BEA experts</i>
+
+147
+00:12:05,076 --> 00:12:08,285
+<i>are on site
+to localize the black boxes. Nothing...</i>
+
+148
+00:12:11,202 --> 00:12:13,910
+Don't brood. You're not on it, ok.
+
+149
+00:12:14,785 --> 00:12:18,951
+I told you before,
+don't get Pollock's back up.
+
+150
+00:12:18,993 --> 00:12:20,619
+So I just shut up?
+
+151
+00:12:29,243 --> 00:12:31,494
+We aren't judged on skills alone.
+
+152
+00:12:31,868 --> 00:12:32,910
+You know that.
+
+153
+00:12:33,826 --> 00:12:35,494
+Just be more diplomatic.
+
+154
+00:12:37,951 --> 00:12:39,035
+It's green.
+
+155
+00:12:44,868 --> 00:12:47,826
+I learned that in a coaching seminar.
+
+156
+00:12:47,868 --> 00:12:49,910
+"Boost a distressed co-worker."
+
+157
+00:12:50,660 --> 00:12:52,035
+You have no mercy.
+
+158
+00:12:52,327 --> 00:12:53,452
+None at all.
+
+159
+00:12:55,494 --> 00:12:59,368
+<i>The European Airlines Atrian 800
+was carrying</i>
+
+160
+00:12:59,410 --> 00:13:01,785
+<i>300 passengers and 16 crew.</i>
+
+161
+00:13:01,826 --> 00:13:03,452
+<i>There are no survivors.</i>
+
+162
+00:13:03,494 --> 00:13:05,702
+<i>Flight EA024 took off</i>
+
+163
+00:13:05,743 --> 00:13:09,243
+<i>at 1:40 am from Dubai
+with a planned arrival in Paris at 8:50.</i>
+
+164
+00:13:10,202 --> 00:13:11,619
+<i>But shortly before 8 am,</i>
+
+165
+00:13:11,660 --> 00:13:15,035
+<i>the plane plummeted and crashed</i>
+
+166
+00:13:15,077 --> 00:13:16,951
+<i>near Bellevaux in the Alps</i>
+
+167
+00:13:16,993 --> 00:13:19,035
+<i>for reasons unknown.</i>
+
+168
+00:13:19,077 --> 00:13:23,494
+<i>A rescue operation was launched
+after the loss of radar echo...</i>
+
+169
+00:13:37,535 --> 00:13:40,327
+<i>European Airlines Atrian
+Manslaughter</i>
+
+170
+00:14:24,160 --> 00:14:27,410
+Victor Pollock, BEA investigator.
+
+171
+00:14:27,452 --> 00:14:31,243
+It's 7:10 pm on October 10, 2020.
+
+172
+00:14:31,494 --> 00:14:34,993
+<i>In the presence of a police officer,
+we'll remove</i>
+
+173
+00:14:35,035 --> 00:14:36,993
+<i>and open the CVR</i>
+
+174
+00:14:37,035 --> 00:14:40,369
+<i>from the October 8 crash
+of the Atrian 800</i>
+
+175
+00:14:40,410 --> 00:14:42,701
+<i>registered FHLBN,</i>
+
+176
+00:14:42,743 --> 00:14:45,285
+<i>operated by European Airlines.
+Begin.</i>
+
+177
+00:16:23,118 --> 00:16:25,118
+It's good, it's exploitable.
+
+178
+00:17:36,118 --> 00:17:37,785
+Land the plane at 800 m
+
+179
+00:17:37,827 --> 00:17:40,701
+with low auto-brake.
+Reverse on my signal.
+
+180
+00:17:51,868 --> 00:17:53,160
+Reverse thrust!
+
+181
+00:18:06,576 --> 00:18:08,077
+On a wet runway,
+
+182
+00:18:08,119 --> 00:18:11,827
+the landing and late reverse
+led to a runway excursion.
+
+183
+00:18:11,868 --> 00:18:16,244
+The crew should have tried extra thrust
+before wheel contact.
+
+184
+00:18:17,285 --> 00:18:20,202
+A quick simulation
+to accuse an absent pilot...
+
+185
+00:18:20,535 --> 00:18:22,077
+It's a bit too easy.
+
+186
+00:18:22,535 --> 00:18:25,160
+We reproduced the whole incident.
+
+187
+00:18:25,535 --> 00:18:28,035
+It's nothing like being in flight.
+
+188
+00:18:28,077 --> 00:18:30,369
+This may be tough, Mr Roussin,
+
+189
+00:18:30,410 --> 00:18:33,535
+but your colleague lied
+when he blamed the plane.
+
+190
+00:18:33,576 --> 00:18:37,119
+Keep accusing the pilots
+and planes will be flown like drones.
+
+191
+00:18:37,868 --> 00:18:39,077
+So you say.
+
+192
+00:18:39,701 --> 00:18:42,077
+We're judged by people like you.
+
+193
+00:18:42,119 --> 00:18:43,451
+Frustrated pilots.
+
+194
+00:18:50,743 --> 00:18:54,244
+Recommendation:
+review landing on short runways.
+
+195
+00:18:59,701 --> 00:19:02,160
+<i>Mathieu, I must see you.
+It's urgent.</i>
+
+196
+00:19:11,576 --> 00:19:13,369
+Sorry, is Balsan alone?
+
+197
+00:19:13,410 --> 00:19:17,035
+Pollock still isn't here.
+No one has heard from him all morning.
+
+198
+00:19:21,576 --> 00:19:22,702
+Yes, come in.
+
+199
+00:19:26,119 --> 00:19:29,702
+I'll send a copy of the CVR,
+but we had to talk first.
+
+200
+00:19:30,368 --> 00:19:32,993
+There were leaks with your predecessor.
+
+201
+00:19:33,285 --> 00:19:37,160
+I need to be sure our information
+will remain confidential.
+
+202
+00:19:37,743 --> 00:19:38,743
+Very good.
+
+203
+00:19:42,576 --> 00:19:44,410
+Mathieu, we have a problem.
+
+204
+00:19:44,993 --> 00:19:48,160
+Pollock can't be found.
+Balsan is stuck on the CVR.
+
+205
+00:19:48,576 --> 00:19:50,702
+The sound is mangled.
+Help him.
+
+206
+00:19:52,244 --> 00:19:54,660
+Ok. What did the FDR show?
+
+207
+00:19:54,702 --> 00:19:56,077
+It's almost useless.
+
+208
+00:19:56,576 --> 00:20:00,326
+We found some incoherent flight orders
+in the final minutes,
+
+209
+00:20:00,910 --> 00:20:02,368
+but we don't know why.
+
+210
+00:20:04,618 --> 00:20:07,077
+- <i>The minister's deputy.
+</i>- Put him on.
+
+211
+00:20:09,660 --> 00:20:12,702
+I know it's urgent, Antoine,
+but I need time.
+
+212
+00:20:12,743 --> 00:20:14,077
+We're analysing the CVR.
+
+213
+00:20:14,910 --> 00:20:16,535
+No, 3 pm is too soon.
+
+214
+00:20:17,035 --> 00:20:18,119
+Ok, 7 pm.
+
+215
+00:20:18,451 --> 00:20:19,660
+I promise.
+
+216
+00:20:19,702 --> 00:20:21,077
+I'll keep you posted.
+
+217
+00:20:22,743 --> 00:20:24,077
+Press point at 7.
+
+218
+00:20:25,077 --> 00:20:26,660
+Make the CVR talk.
+
+219
+00:20:26,702 --> 00:20:28,827
+I need the full chain of events.
+
+220
+00:20:49,618 --> 00:20:52,035
+We've only processed the first hour.
+
+221
+00:20:52,535 --> 00:20:54,326
+The cockpit mic is dirty.
+
+222
+00:21:00,576 --> 00:21:01,451
+Stop.
+
+223
+00:21:02,368 --> 00:21:03,618
+- What?
+- A buzz.
+
+224
+00:21:04,368 --> 00:21:05,576
+Unplug that.
+
+225
+00:21:16,368 --> 00:21:18,077
+<i>We weigh 251 tons.</i>
+
+226
+00:21:18,119 --> 00:21:21,202
+<i>Just over optimal
+with a 1.5g buffet margin.</i>
+
+227
+00:21:21,243 --> 00:21:22,577
+<i>1.6 even.</i>
+
+228
+00:21:32,535 --> 00:21:35,160
+<i>- Jeanne and your meal.
+- I'll let her in.</i>
+
+229
+00:21:39,868 --> 00:21:41,660
+<i>We're serving breakfast.</i>
+
+230
+00:21:41,702 --> 00:21:43,994
+<i>It may get rocky. Let them know.</i>
+
+231
+00:21:44,035 --> 00:21:45,618
+<i>Ok, I'll get your meal.</i>
+
+232
+00:21:51,868 --> 00:21:54,702
+<i>Sooner than I thought. Seatbelt time.</i>
+
+233
+00:21:56,868 --> 00:21:58,994
+<i>See those cbs on the right?</i>
+
+234
+00:21:59,035 --> 00:22:00,743
+<i>We were right to avoid them.</i>
+
+235
+00:22:00,785 --> 00:22:02,451
+<i>It looks clear ahead.</i>
+
+236
+00:22:02,493 --> 00:22:05,577
+<i>The CDG update.
+Westerly landing, visibility 3000 m,</i>
+
+237
+00:22:05,618 --> 00:22:08,243
+<i>rain, clouds at 800 feet, 8° C...</i>
+
+238
+00:22:08,285 --> 00:22:10,702
+Static. They're in a cloud.
+
+239
+00:22:11,785 --> 00:22:14,785
+<i>- Where do you live?
+- Just north of CDG.</i>
+
+240
+00:22:15,119 --> 00:22:17,326
+<i>22° today in Biarritz.</i>
+
+241
+00:22:17,368 --> 00:22:18,451
+<i>You live there?</i>
+
+242
+00:22:18,493 --> 00:22:20,451
+The engine speed has changed.
+
+243
+00:22:20,493 --> 00:22:22,451
+<i>My wife's Basque and I surf.</i>
+
+244
+00:22:29,702 --> 00:22:31,285
+<i>Still with Swiss control?</i>
+
+245
+00:22:31,326 --> 00:22:32,952
+Their earphones are off.
+
+246
+00:22:33,827 --> 00:22:35,535
+<i>On turnaround this week?</i>
+
+247
+00:22:35,577 --> 00:22:38,910
+<i>New Delhi, then Bali right after.</i>
+
+248
+00:22:38,952 --> 00:22:40,451
+<i>Any room in your bags?</i>
+
+249
+00:22:42,577 --> 00:22:44,577
+<i>- Jeanne again.
+- I'll let her in.</i>
+
+250
+00:23:19,493 --> 00:23:21,243
+<i>We're gonna crash!</i>
+
+251
+00:23:26,326 --> 00:23:29,077
+Switch to RX.
+Give me 200 to 1800 Hz.
+
+252
+00:23:35,535 --> 00:23:37,326
+Lower the engine noise.
+
+253
+00:23:37,618 --> 00:23:39,535
+Let's bring the voices out.
+
+254
+00:23:54,869 --> 00:23:56,702
+Let me try something.
+
+255
+00:23:58,493 --> 00:23:59,702
+Can you stop?
+
+256
+00:24:01,410 --> 00:24:02,326
+Your leg.
+
+257
+00:24:05,201 --> 00:24:05,994
+Thanks.
+
+258
+00:24:11,910 --> 00:24:13,160
+<i>...akbar!</i>
+
+259
+00:24:13,785 --> 00:24:15,994
+<i>Allahu akbar!</i>
+
+260
+00:24:21,994 --> 00:24:25,201
+At the end,
+it could be the pilot or the co.
+
+261
+00:24:25,493 --> 00:24:28,118
+We can't determine what they did.
+
+262
+00:24:28,160 --> 00:24:31,243
+All the 800 controls are touch-screen.
+
+263
+00:24:31,285 --> 00:24:32,910
+How did the guy get in?
+
+264
+00:24:33,160 --> 00:24:35,994
+The sound is terrible.
+We need more time.
+
+265
+00:24:36,243 --> 00:24:38,618
+I know,
+but I can't delay the press point.
+
+266
+00:24:39,285 --> 00:24:40,410
+Can you do it?
+
+267
+00:24:41,201 --> 00:24:41,910
+Yes.
+
+268
+00:24:44,285 --> 00:24:46,910
+Switch to iZotope RX at 7'51.
+
+269
+00:24:57,410 --> 00:24:59,660
+The limited spread of debris
+
+270
+00:24:59,702 --> 00:25:02,118
+shows the plane was intact
+
+271
+00:25:02,160 --> 00:25:03,702
+prior to impact.
+
+272
+00:25:04,535 --> 00:25:07,326
+The initial analysis of the fuselage
+
+273
+00:25:07,368 --> 00:25:09,410
+shows no sign of explosives.
+
+274
+00:25:10,201 --> 00:25:13,827
+Moreover, the voice recorder shows
+a passenger
+
+275
+00:25:13,869 --> 00:25:15,410
+entered the cockpit.
+
+276
+00:25:17,952 --> 00:25:20,285
+The pilots then fought with him.
+
+277
+00:25:20,702 --> 00:25:21,994
+Here, please.
+
+278
+00:25:22,827 --> 00:25:23,660
+Yes?
+
+279
+00:25:24,827 --> 00:25:27,035
+Caroline Delmas, Mediapart.
+
+280
+00:25:27,618 --> 00:25:30,535
+How could a passenger enter the cockpit
+
+281
+00:25:30,577 --> 00:25:32,910
+with three cameras over the door?
+
+282
+00:25:33,285 --> 00:25:36,660
+He apparently used a stewardess
+to gain entrance.
+
+283
+00:25:36,702 --> 00:25:38,744
+What allows you to assert that?
+
+284
+00:25:39,285 --> 00:25:40,869
+The CVR analysis.
+
+285
+00:25:41,535 --> 00:25:44,160
+Our investigator, Mathieu Vasseur,
+
+286
+00:25:44,452 --> 00:25:47,493
+will present the initial CVR findings.
+
+287
+00:25:55,869 --> 00:25:56,660
+Hello.
+
+288
+00:26:01,076 --> 00:26:02,618
+On the recording,
+
+289
+00:26:03,118 --> 00:26:06,201
+at 7:48 am Paris time,
+
+290
+00:26:07,243 --> 00:26:11,035
+we hear the voice of the hostess
+entering the cockpit
+
+291
+00:26:11,076 --> 00:26:13,493
+with the first meal tray.
+
+292
+00:26:16,118 --> 00:26:18,785
+She returns one minute 20 seconds later
+
+293
+00:26:19,452 --> 00:26:21,243
+and rings the doorbell.
+
+294
+00:26:22,076 --> 00:26:24,035
+Probably with the second meal.
+
+295
+00:26:24,285 --> 00:26:27,035
+The pilots identify her
+and let her in.
+
+296
+00:26:27,076 --> 00:26:29,201
+The door remains open
+
+297
+00:26:29,243 --> 00:26:31,869
+and, over the central mic,
+
+298
+00:26:31,910 --> 00:26:35,327
+we hear hurried footsteps
+approaching the cockpit.
+
+299
+00:26:35,660 --> 00:26:37,827
+It's clearly not the hostess.
+
+300
+00:26:38,160 --> 00:26:41,619
+That indicates an intrusion
+into the cockpit.
+
+301
+00:26:42,076 --> 00:26:44,660
+Shortly before, we have isolated
+
+302
+00:26:44,702 --> 00:26:47,869
+the sound
+of the pilots' lavatory latch.
+
+303
+00:26:47,910 --> 00:26:49,243
+This lavatory...
+
+304
+00:26:52,160 --> 00:26:53,076
+is here.
+
+305
+00:26:53,493 --> 00:26:55,827
+The man hid in there
+
+306
+00:26:55,869 --> 00:26:58,243
+before entering the cockpit.
+
+307
+00:26:58,493 --> 00:27:02,744
+The hostess should have checked
+before ringing the bell.
+
+308
+00:27:03,660 --> 00:27:07,035
+Those are our deductions
+after the audio analysis.
+
+309
+00:27:07,076 --> 00:27:10,577
+I hope I've answered your questions.
+Thank you.
+
+310
+00:27:12,951 --> 00:27:14,702
+We subsequently hear
+
+311
+00:27:14,744 --> 00:27:17,327
+overspeed and imminent impact alarms.
+
+312
+00:27:21,201 --> 00:27:22,993
+Antoine Istier, Europe 1.
+
+313
+00:27:23,410 --> 00:27:25,118
+Is it a terrorist attack?
+
+314
+00:27:25,493 --> 00:27:26,993
+In all likelihood.
+
+315
+00:27:27,243 --> 00:27:30,535
+But the judicial inquiry
+is still underway.
+
+316
+00:27:30,785 --> 00:27:32,993
+The full transcript of the CVR
+
+317
+00:27:33,035 --> 00:27:36,660
+will be the subject of a report
+in the coming weeks.
+
+318
+00:27:37,577 --> 00:27:38,619
+Thank you.
+
+319
+00:27:40,160 --> 00:27:41,202
+Thanks, Mathieu.
+
+320
+00:27:45,035 --> 00:27:47,410
+Have you identified the terrorist?
+
+321
+00:27:47,910 --> 00:27:49,410
+I can say no more.
+
+322
+00:27:50,619 --> 00:27:54,410
+Mr Vasseur, Caroline Delmas, Mediapart.
+One question.
+
+323
+00:27:54,452 --> 00:27:55,868
+Sorry, no comment.
+
+324
+00:27:56,118 --> 00:27:57,702
+Forgive me...
+
+325
+00:27:57,744 --> 00:28:01,452
+Isn't it a little easy,
+blaming the hostess's negligence?
+
+326
+00:28:02,368 --> 00:28:04,827
+The CVR shows it. I don't theorize,
+
+327
+00:28:04,868 --> 00:28:06,368
+I analyse facts.
+
+328
+00:28:06,410 --> 00:28:07,368
+Excuse me.
+
+329
+00:28:54,993 --> 00:28:59,702
+<i>A lead in the recent Atrian 800 crash
+in the Alps.</i>
+
+330
+00:28:59,744 --> 00:29:01,202
+<i>Reliable sources</i>
+
+331
+00:29:01,243 --> 00:29:04,993
+<i>claim a radical Islamist
+was on the passenger manifest.</i>
+
+332
+00:29:05,035 --> 00:29:08,160
+<i>Moqtada Sualazi, an Egyptian aged 26.</i>
+
+333
+00:29:08,702 --> 00:29:12,785
+<i>After analysing the black boxes,
+the BEA investigators revealed</i>
+
+334
+00:29:13,202 --> 00:29:14,868
+<i>that the plane crashed</i>
+
+335
+00:29:15,160 --> 00:29:17,868
+<i>after a passenger entered the cockpit.</i>
+
+336
+00:29:17,910 --> 00:29:19,285
+<i>It's too early...</i>
+
+337
+00:29:19,327 --> 00:29:20,410
+Mathieu!
+
+338
+00:29:23,993 --> 00:29:25,452
+Fine work yesterday.
+
+339
+00:29:26,327 --> 00:29:27,076
+Thank you.
+
+340
+00:29:27,410 --> 00:29:30,035
+After that excellent job, I want you
+
+341
+00:29:30,076 --> 00:29:31,785
+to head the investigation.
+
+342
+00:29:33,577 --> 00:29:36,118
+Thank you very much, sir.
+
+343
+00:29:37,910 --> 00:29:39,285
+Excuse me...
+
+344
+00:29:39,744 --> 00:29:41,243
+Any news of Pollock?
+
+345
+00:29:41,285 --> 00:29:42,535
+Still nothing.
+
+346
+00:29:43,077 --> 00:29:46,702
+Victor can be hard to reach at times,
+
+347
+00:29:46,743 --> 00:29:48,410
+but absent in this storm...
+
+348
+00:29:48,826 --> 00:29:49,951
+I don't get it.
+
+349
+00:29:52,577 --> 00:29:54,868
+I can't wait for him to show up.
+
+350
+00:29:54,910 --> 00:29:56,868
+Finish the report for me.
+
+351
+00:29:57,660 --> 00:29:58,910
+Of course.
+
+352
+00:29:58,951 --> 00:30:01,118
+Captain:
+<i>What's that noise?</i>
+
+353
+00:30:01,160 --> 00:30:04,285
+Other sounds:
+<i>Change in engine speed / Interference</i>
+
+354
+00:30:08,702 --> 00:30:12,410
+<i>It's Julien. You're replacing Pollock
+on the Dubai-Paris?</i>
+
+355
+00:30:12,452 --> 00:30:13,327
+Yes.
+
+356
+00:30:13,368 --> 00:30:17,368
+<i>A victim's husband contacted us.
+She called him just before the crash.</i>
+
+357
+00:30:17,410 --> 00:30:18,410
+<i>Interested?</i>
+
+358
+00:30:19,035 --> 00:30:21,535
+I'm on the transcript.
+Try Balsan.
+
+359
+00:30:21,577 --> 00:30:24,369
+<i>He's busy with the Atrian engineers.</i>
+
+360
+00:30:25,993 --> 00:30:27,285
+Ok, I'll take it.
+
+361
+00:30:30,285 --> 00:30:32,951
+<i>During a search, the Egyptian police</i>
+
+362
+00:30:33,619 --> 00:30:37,035
+<i>found Jihadi propaganda
+on his computer.</i>
+
+363
+00:30:37,743 --> 00:30:40,202
+<i>Controversy reigns as Paris asks</i>
+
+364
+00:30:40,243 --> 00:30:43,785
+<i>how the Emirate authorities
+allowed him to board.</i>
+
+365
+00:30:47,118 --> 00:30:50,494
+<i>Honey, I'm on the plane,
+I don't know what's going on.</i>
+
+366
+00:30:52,077 --> 00:30:54,202
+<i>It's chaos, everyone's yelling.</i>
+
+367
+00:30:56,577 --> 00:30:57,868
+<i>I can see mountains.</i>
+
+368
+00:30:58,951 --> 00:30:59,951
+<i>I love you.</i>
+
+369
+00:31:00,494 --> 00:31:01,951
+<i>I love you, you hear?</i>
+
+370
+00:31:02,410 --> 00:31:04,202
+<i>Tell the girls I love them.</i>
+
+371
+00:31:04,243 --> 00:31:05,826
+<i>I love you all so much.</i>
+
+372
+00:31:06,327 --> 00:31:07,452
+<i>I love you.</i>
+
+373
+00:31:15,410 --> 00:31:17,202
+She'd gone to Dubai
+
+374
+00:31:17,619 --> 00:31:18,951
+for a job interview.
+
+375
+00:31:24,243 --> 00:31:25,535
+If it worked out,
+
+376
+00:31:26,494 --> 00:31:28,410
+we planned to move there.
+
+377
+00:31:35,118 --> 00:31:36,577
+When she called,
+
+378
+00:31:37,494 --> 00:31:38,951
+I was busy at work.
+
+379
+00:31:42,577 --> 00:31:44,494
+Too busy to speak to her.
+
+380
+00:31:57,077 --> 00:32:01,785
+Forgive me, Mr Reynal,
+but I need the original message.
+
+381
+00:32:02,701 --> 00:32:05,369
+I'll have to borrow your phone,
+
+382
+00:32:05,618 --> 00:32:07,202
+just overnight.
+
+383
+00:32:39,369 --> 00:32:44,077
+<i>One new message.
+October 8, at 7:56 am.</i>
+
+384
+00:32:44,118 --> 00:32:48,494
+<i>Honey, I'm on the plane,
+I don't know what's going on.</i>
+
+385
+00:32:48,952 --> 00:32:51,244
+<i>It's chaos, everyone's yelling.</i>
+
+386
+00:32:54,743 --> 00:32:57,285
+<i>One new message.
+October 8,</i>
+
+387
+00:32:57,618 --> 00:32:59,327
+<i>at 7:56 am.</i>
+
+388
+00:32:59,576 --> 00:33:01,576
+<i>Honey, I'm...</i>
+
+389
+00:33:13,576 --> 00:33:16,369
+<i>Time of crash, CET, 07:53 am.</i>
+
+390
+00:33:16,660 --> 00:33:17,785
+Three minutes?
+
+391
+00:33:18,035 --> 00:33:18,826
+Yes.
+
+392
+00:33:19,077 --> 00:33:20,660
+Remember Germanwings.
+
+393
+00:33:20,701 --> 00:33:25,077
+Between Civil Aviation, the airline,
+Flight Radar and others,
+
+394
+00:33:25,118 --> 00:33:28,826
+no one agreed on the time
+by up to eight minutes.
+
+395
+00:33:28,868 --> 00:33:31,452
+I know, but there's this too.
+
+396
+00:33:32,369 --> 00:33:33,701
+Listen.
+
+397
+00:33:35,660 --> 00:33:36,868
+<i>Honey,</i>
+
+398
+00:33:37,327 --> 00:33:40,369
+<i>I'm on the plane,
+I don't know what's going on.</i>
+
+399
+00:33:40,701 --> 00:33:42,118
+<i>It's chaos...</i>
+
+400
+00:33:43,369 --> 00:33:45,285
+Hear the announcement tone?
+
+401
+00:33:45,785 --> 00:33:47,410
+It's from the cockpit.
+
+402
+00:33:47,452 --> 00:33:50,202
+But the pilot's voice isn't on the CVR.
+
+403
+00:33:50,244 --> 00:33:52,160
+You mean you can't hear it.
+
+404
+00:33:53,285 --> 00:33:55,118
+The audio is bad.
+
+405
+00:33:55,160 --> 00:33:56,493
+Yes...
+
+406
+00:33:56,952 --> 00:33:58,993
+Hold on, one last thing.
+
+407
+00:34:00,493 --> 00:34:01,160
+Here.
+
+408
+00:34:02,452 --> 00:34:03,327
+<i>Emergency d...</i>
+
+409
+00:34:06,118 --> 00:34:07,535
+<i>Emergency d...</i>
+
+410
+00:34:08,785 --> 00:34:10,618
+I hear "emergency descent".
+
+411
+00:34:11,452 --> 00:34:13,576
+Like for a technical problem.
+
+412
+00:34:13,868 --> 00:34:15,327
+Play it again.
+
+413
+00:34:26,827 --> 00:34:28,535
+I hear "Emergency",
+not "descent".
+
+414
+00:34:30,451 --> 00:34:34,159
+Checked European Airlines'
+security protocol?
+
+415
+00:34:34,660 --> 00:34:39,035
+In a cockpit intrusion,
+the code is "Emergency Delta".
+
+416
+00:34:39,660 --> 00:34:42,451
+The "d" you hear could be "Delta".
+
+417
+00:34:52,827 --> 00:34:54,827
+Carry on with the transcript.
+
+418
+00:35:32,952 --> 00:35:34,493
+<i>Last passenger evacuated.</i>
+
+419
+00:35:41,868 --> 00:35:43,035
+58 seconds.
+
+420
+00:35:43,410 --> 00:35:45,952
+Congratulations,
+your plane is certified.
+
+421
+00:35:52,701 --> 00:35:53,451
+Thank you.
+
+422
+00:35:57,119 --> 00:35:58,077
+Thank you all.
+
+423
+00:36:07,660 --> 00:36:09,660
+<i>- Jeanne again.
+- I'll let her in.</i>
+
+424
+00:36:31,785 --> 00:36:33,868
+Are you making a speech?
+
+425
+00:36:33,910 --> 00:36:36,785
+It's informal.
+Dorval will say a few words.
+
+426
+00:36:39,244 --> 00:36:40,202
+Are you ok?
+
+427
+00:36:41,119 --> 00:36:41,952
+Yes.
+
+428
+00:36:42,994 --> 00:36:44,785
+You can relax, you know.
+
+429
+00:36:44,827 --> 00:36:47,618
+Have some champagne,
+chat to people.
+
+430
+00:36:52,160 --> 00:36:53,868
+Come and meet Varins.
+
+431
+00:37:05,535 --> 00:37:06,451
+Claude...
+
+432
+00:37:07,326 --> 00:37:09,077
+Meet Mathieu, my husband.
+
+433
+00:37:09,451 --> 00:37:10,493
+Hello.
+
+434
+00:37:10,827 --> 00:37:14,618
+Your speech yesterday
+was very clear and precise.
+
+435
+00:37:15,119 --> 00:37:16,910
+Thank you.
+
+436
+00:37:16,952 --> 00:37:19,535
+I'm not head-hunting a couple,
+
+437
+00:37:19,576 --> 00:37:23,202
+but if you tire of the BEA,
+join us at Atrian.
+
+438
+00:37:23,743 --> 00:37:25,493
+You'll never persuade him.
+
+439
+00:37:26,576 --> 00:37:28,535
+Was working at the BEA
+
+440
+00:37:28,576 --> 00:37:29,576
+a vocation?
+
+441
+00:37:31,285 --> 00:37:33,119
+He wanted to be a pilot.
+
+442
+00:37:33,451 --> 00:37:34,202
+Yes.
+
+443
+00:37:34,576 --> 00:37:36,202
+But with my eyesight...
+
+444
+00:37:36,952 --> 00:37:39,493
+I specialized in acoustics at the ENAC.
+
+445
+00:37:41,202 --> 00:37:42,785
+Flight recorders
+
+446
+00:37:43,077 --> 00:37:44,994
+fascinated me and...
+
+447
+00:37:45,702 --> 00:37:46,827
+There you go.
+
+448
+00:37:48,702 --> 00:37:51,035
+Fascinating but exacting too,
+
+449
+00:37:51,077 --> 00:37:52,451
+to obtain answers.
+
+450
+00:37:52,493 --> 00:37:53,702
+Which you did.
+
+451
+00:37:53,994 --> 00:37:56,535
+Bravo. At a time like this,
+
+452
+00:37:56,576 --> 00:37:59,119
+the families and everyone need them.
+
+453
+00:38:02,202 --> 00:38:04,451
+Let's meet the Safran managers
+
+454
+00:38:04,493 --> 00:38:06,160
+you'll work with.
+
+455
+00:38:06,202 --> 00:38:07,952
+- Excuse us.
+- Certainly.
+
+456
+00:38:18,285 --> 00:38:19,702
+- Hello?
+-<i> It's Samir.</i>
+
+457
+00:38:20,368 --> 00:38:22,368
+<i>The passenger data's on the server.</i>
+
+458
+00:38:22,410 --> 00:38:23,952
+Anything interesting?
+
+459
+00:38:23,994 --> 00:38:27,326
+<i>A few Facebook photos
+and videos during the flight.</i>
+
+460
+00:38:28,618 --> 00:38:29,577
+Thanks.
+
+461
+00:38:31,451 --> 00:38:32,827
+Hello, everyone.
+
+462
+00:38:36,410 --> 00:38:39,785
+Well done, all of you,
+for this certification.
+
+463
+00:38:40,743 --> 00:38:43,827
+I'd like to salute Noémie Vasseur.
+
+464
+00:38:43,869 --> 00:38:47,577
+This is her final certification as,
+unfortunately for us,
+
+465
+00:38:48,035 --> 00:38:49,910
+she's leaving this month,
+
+466
+00:38:49,952 --> 00:38:51,577
+lured away by Atrian.
+
+467
+00:38:53,285 --> 00:38:55,326
+Thank you for your commitment
+
+468
+00:38:56,201 --> 00:38:57,410
+and passion.
+
+469
+00:38:57,451 --> 00:39:00,618
+I'm speaking for everyone here
+at the agency
+
+470
+00:39:00,869 --> 00:39:02,618
+when I say we'll miss you.
+
+471
+00:39:03,326 --> 00:39:04,243
+Thank you.
+
+472
+00:39:39,451 --> 00:39:40,660
+<i>Where are you?</i>
+
+473
+00:39:45,035 --> 00:39:47,243
+<i>Sorry, emergency at work</i>
+
+474
+00:41:49,118 --> 00:41:50,577
+<i>We weigh 251 tons.</i>
+
+475
+00:41:50,618 --> 00:41:54,035
+<i>Just over optimal
+with a 1.5g buffet margin.</i>
+
+476
+00:41:54,076 --> 00:41:55,660
+<i>1.6 even.</i>
+
+477
+00:42:07,785 --> 00:42:10,160
+<i>- Jeanne and your meal.
+- I'll let her in.</i>
+
+478
+00:42:17,285 --> 00:42:19,076
+<i>We're serving breakfast.</i>
+
+479
+00:42:19,118 --> 00:42:21,744
+<i>It may get rocky. Let them know.</i>
+
+480
+00:42:21,785 --> 00:42:23,285
+<i>Ok. I'll get your meal.</i>
+
+481
+00:42:57,201 --> 00:42:58,327
+Sir!
+
+482
+00:43:00,785 --> 00:43:02,452
+Please sit down, sir.
+
+483
+00:43:24,368 --> 00:43:25,285
+Sir...
+
+484
+00:43:25,619 --> 00:43:26,327
+Sir.
+
+485
+00:43:26,827 --> 00:43:27,993
+Sit down, please.
+
+486
+00:43:29,076 --> 00:43:29,744
+Sir!
+
+487
+00:43:56,660 --> 00:43:59,827
+Don't over-interpret things.
+
+488
+00:44:01,869 --> 00:44:03,285
+You tend to.
+
+489
+00:44:03,535 --> 00:44:07,243
+You're diligent,
+but all the filtering and equalizing
+
+490
+00:44:07,660 --> 00:44:09,702
+makes a recording say anything.
+
+491
+00:44:10,660 --> 00:44:12,368
+After 20 years on CVRs,
+
+492
+00:44:12,619 --> 00:44:15,744
+believe me, the best filter is the ear.
+
+493
+00:44:16,076 --> 00:44:18,160
+And about the meal trolley?
+
+494
+00:44:18,619 --> 00:44:21,368
+Do you really think a trolley
+
+495
+00:44:21,410 --> 00:44:23,785
+can stop a madman hijacking a plane?
+
+496
+00:44:25,243 --> 00:44:26,202
+No, but...
+
+497
+00:44:26,243 --> 00:44:28,368
+Focus on what we really hear.
+
+498
+00:44:30,577 --> 00:44:31,951
+Report by Monday?
+
+499
+00:44:33,035 --> 00:44:33,785
+Yes.
+
+500
+00:44:37,910 --> 00:44:38,993
+Excuse me...
+
+501
+00:44:39,368 --> 00:44:41,202
+I need Pollock's input.
+
+502
+00:44:41,243 --> 00:44:44,452
+I can't complete a report like this.
+
+503
+00:44:45,368 --> 00:44:46,951
+You'll have to.
+
+504
+00:44:47,702 --> 00:44:49,535
+He's officially missing.
+
+505
+00:44:49,577 --> 00:44:51,951
+The police are investigating.
+
+506
+00:44:52,744 --> 00:44:53,993
+Anything's possible.
+
+507
+00:44:57,744 --> 00:44:59,660
+I admit we're worried.
+
+508
+00:45:01,660 --> 00:45:04,118
+<i>A Turkish company applied.</i>
+
+509
+00:45:04,160 --> 00:45:07,118
+<i>Serious but, with the crash,
+the Germans</i>
+
+510
+00:45:07,160 --> 00:45:07,993
+<i>are wary.</i>
+
+511
+00:45:08,035 --> 00:45:09,243
+You've decided?
+
+512
+00:45:09,285 --> 00:45:11,619
+<i>A work group is handling it.</i>
+
+513
+00:45:14,826 --> 00:45:15,910
+<i>What's up?</i>
+
+514
+00:45:19,202 --> 00:45:20,535
+Doubts about the crash.
+
+515
+00:45:22,993 --> 00:45:24,577
+Inconsistencies...
+
+516
+00:45:24,619 --> 00:45:27,368
+<i>- Inconsistencies?
+</i>- It's awkward like this.
+
+517
+00:45:30,577 --> 00:45:32,702
+There's a problem with the CVR.
+
+518
+00:45:34,910 --> 00:45:36,452
+<i>What kind of problem?</i>
+
+519
+00:45:37,868 --> 00:45:38,993
+I'll tell you.
+
+520
+00:45:39,577 --> 00:45:40,660
+I'll tell you.
+
+521
+00:45:41,160 --> 00:45:42,410
+<i>It's a big case.</i>
+
+522
+00:45:42,452 --> 00:45:44,202
+<i>Keep your head this time.</i>
+
+523
+00:45:55,535 --> 00:45:57,577
+<i>Victor Pollock. Leave a message.</i>
+
+524
+00:46:05,243 --> 00:46:07,035
+How did he get the case?
+
+525
+00:46:07,910 --> 00:46:09,744
+He heard phantom sounds again.
+
+526
+00:46:09,993 --> 00:46:11,910
+That you can't hear, huh?
+
+527
+00:46:12,285 --> 00:46:13,243
+You'll see.
+
+528
+00:46:13,535 --> 00:46:15,285
+It's like the Cessna again.
+
+529
+00:46:41,785 --> 00:46:42,826
+What's that?
+
+530
+00:46:43,160 --> 00:46:44,660
+The Bourget Falcon 20.
+
+531
+00:46:45,660 --> 00:46:47,160
+The pilot and the tower.
+
+532
+00:46:47,785 --> 00:46:49,826
+Limited bandwidth is tough.
+
+533
+00:46:51,702 --> 00:46:53,035
+- What is it?
+- Tell me,
+
+534
+00:46:53,368 --> 00:46:56,118
+when you listened to the CVR
+with Pollock,
+
+535
+00:46:56,452 --> 00:46:58,202
+did you notice anything odd?
+
+536
+00:46:58,702 --> 00:47:00,118
+No, nothing special.
+
+537
+00:47:00,743 --> 00:47:02,202
+When did you finish?
+
+538
+00:47:02,993 --> 00:47:04,785
+Midnight. He stayed.
+Why?
+
+539
+00:47:05,243 --> 00:47:07,826
+You finished before he did?
+
+540
+00:47:07,868 --> 00:47:12,452
+Pollock was anxious to carry on.
+Are you done? I need to get on.
+
+541
+00:47:19,410 --> 00:47:21,660
+I hear a thud on the first call.
+
+542
+00:47:21,701 --> 00:47:23,410
+Probably a bird.
+
+543
+00:47:23,452 --> 00:47:25,369
+Then the engine surges fast,
+
+544
+00:47:25,410 --> 00:47:28,327
+beyond its limit, up to 200%,
+before exploding.
+
+545
+00:47:28,369 --> 00:47:32,285
+The engineer will deny it
+but it's happened before with that plane.
+
+546
+00:49:17,868 --> 00:49:19,035
+<i>Continue</i>
+
+547
+00:49:19,410 --> 00:49:20,618
+<i>for 50 metres.</i>
+
+548
+00:49:28,701 --> 00:49:31,202
+<i>You have reached your destination.</i>
+
+549
+00:53:59,868 --> 00:54:01,326
+<i>The file is empty</i>
+
+550
+00:54:14,994 --> 00:54:17,035
+<i>Basement speakers</i>
+
+551
+00:56:03,243 --> 00:56:04,119
+Down, boy.
+
+552
+00:56:05,660 --> 00:56:06,618
+Down.
+
+553
+00:56:10,869 --> 00:56:12,119
+Looking for something?
+
+554
+00:56:13,785 --> 00:56:14,577
+Sorry?
+
+555
+00:56:14,827 --> 00:56:16,451
+Looking for something?
+
+556
+00:56:16,702 --> 00:56:17,743
+Yes.
+
+557
+00:56:17,785 --> 00:56:20,201
+Victor Pollock. He lives here?
+
+558
+00:56:20,243 --> 00:56:21,743
+Yes. And?
+
+559
+00:56:22,201 --> 00:56:25,285
+I work with him.
+I rang, but there's no reply.
+
+560
+00:56:25,660 --> 00:56:27,160
+Have you seen him?
+
+561
+00:56:27,201 --> 00:56:28,535
+Not recently.
+
+562
+00:56:28,577 --> 00:56:30,702
+Your colleagues came yesterday.
+
+563
+00:56:30,743 --> 00:56:31,910
+He wasn't here.
+
+564
+00:56:33,160 --> 00:56:34,119
+Ok.
+
+565
+00:56:34,994 --> 00:56:36,243
+Ok, thank you.
+
+566
+00:57:02,702 --> 00:57:06,660
+<i>CVR Opening and Analysis</i>
+
+567
+00:59:54,827 --> 00:59:56,118
+- Hello?
+-
+
+568
+00:59:56,160 --> 00:59:58,619
+<i>Caroline Delmas, Mediapart.</i>
+
+569
+00:59:58,660 --> 01:00:00,993
+<i>We met at the press point.</i>
+
+570
+01:00:01,035 --> 01:00:02,285
+Who gave you my number?
+
+571
+01:00:02,327 --> 01:00:05,493
+<i>You know the Atrian 800
+has automation issues?</i>
+
+572
+01:00:05,535 --> 01:00:07,577
+I can't talk to the press.
+
+573
+01:00:07,619 --> 01:00:11,118
+<i>With the Bourget salon coming up,
+a fault would look bad.</i>
+
+574
+01:00:12,368 --> 01:00:14,118
+<i>Are you still there?</i>
+
+575
+01:00:15,785 --> 01:00:17,368
+I have to go. Goodbye.
+
+576
+01:00:28,702 --> 01:00:31,744
+<i>A new coup for Pegase Security</i>
+
+577
+01:00:33,951 --> 01:00:37,951
+<i>The CEO, Xavier Renaud,
+is a leader in aeronautics.</i>
+
+578
+01:00:39,951 --> 01:00:43,493
+<i>Pegase is specialized
+in civil aviation security.</i>
+
+579
+01:00:44,785 --> 01:00:46,619
+<i>Renaud signed a lucrative deal</i>
+
+580
+01:00:46,660 --> 01:00:48,201
+<i>with Atrian...</i>
+
+581
+01:00:48,619 --> 01:00:49,577
+Here.
+
+582
+01:00:50,160 --> 01:00:51,535
+The flight reports.
+
+583
+01:00:53,535 --> 01:00:54,744
+What're you after?
+
+584
+01:00:55,202 --> 01:00:56,577
+Look, another.
+
+585
+01:00:56,619 --> 01:00:59,535
+Paris-Washington,
+a control surface problem.
+
+586
+01:00:59,785 --> 01:01:01,285
+Three in six months.
+
+587
+01:01:01,577 --> 01:01:04,410
+Jolts and lagging reported each time.
+
+588
+01:01:07,660 --> 01:01:09,160
+Maintenance reports?
+
+589
+01:01:09,202 --> 01:01:10,535
+I brought them.
+
+590
+01:01:11,035 --> 01:01:11,951
+Here.
+
+591
+01:01:14,577 --> 01:01:16,285
+<i>Nothing to report</i>
+
+592
+01:01:19,327 --> 01:01:21,868
+Could the 800 have a control problem?
+
+593
+01:01:22,410 --> 01:01:23,535
+I don't think so.
+
+594
+01:01:27,577 --> 01:01:30,577
+Is the MHD an anti-stalling system?
+
+595
+01:01:30,619 --> 01:01:33,118
+It lowers the nose if it pitches up.
+
+596
+01:01:33,160 --> 01:01:35,368
+How would a MHD problem look?
+
+597
+01:01:35,410 --> 01:01:38,535
+- Can the pilots override it?
+- In theory, no.
+
+598
+01:01:38,577 --> 01:01:39,868
+No reason to.
+
+599
+01:01:40,826 --> 01:01:42,285
+Tested the crash one?
+
+600
+01:01:42,327 --> 01:01:44,368
+Why? We know what happened.
+
+601
+01:01:44,410 --> 01:01:46,243
+- Received it?
+- Not yet.
+
+602
+01:01:46,285 --> 01:01:48,410
+We need to check it when you do.
+
+603
+01:01:49,993 --> 01:01:50,868
+Samir...
+
+604
+01:01:51,202 --> 01:01:51,993
+Samir.
+
+605
+01:01:53,118 --> 01:01:56,410
+Sorry to ask,
+but don't tell Rénier yet.
+
+606
+01:01:57,202 --> 01:01:58,160
+Don't screw up.
+
+607
+01:02:07,535 --> 01:02:09,368
+<i>Atrian 800 technical incident</i>
+
+608
+01:02:10,494 --> 01:02:13,285
+<i>Captain: Alain Roussin</i>
+
+609
+01:02:16,826 --> 01:02:17,951
+Mr Roussin?
+
+610
+01:02:18,993 --> 01:02:20,160
+Mr Roussin!
+
+611
+01:02:21,243 --> 01:02:23,285
+Hello, Mathieu Vasseur.
+
+612
+01:02:23,826 --> 01:02:27,619
+Remember me?
+The EM315 runway excursion simulation.
+
+613
+01:02:27,660 --> 01:02:28,951
+I have a flight.
+
+614
+01:02:28,993 --> 01:02:32,327
+I have some questions
+about the Dubai-Paris case.
+
+615
+01:02:32,368 --> 01:02:33,744
+I don't have time.
+
+616
+01:02:34,410 --> 01:02:38,993
+I understand you not wanting to answer,
+but I need your help.
+
+617
+01:02:40,160 --> 01:02:43,118
+You had a control surface problem
+on the 800?
+
+618
+01:02:43,368 --> 01:02:45,951
+Could the MHD be faulty?
+
+619
+01:02:46,868 --> 01:02:48,577
+Why ask me that?
+
+620
+01:02:49,910 --> 01:02:52,910
+Ask Atrian.
+The BEA gets on well with them.
+
+621
+01:02:53,285 --> 01:02:56,076
+I have to be in my cockpit
+in five minutes.
+
+622
+01:02:57,785 --> 01:03:01,660
+You talked more to defend a colleague.
+Now 300 people have died.
+
+623
+01:03:02,035 --> 01:03:03,868
+It's a dumb Atrian system.
+
+624
+01:03:03,910 --> 01:03:05,910
+The machine pilots the pilot.
+
+625
+01:03:05,951 --> 01:03:07,410
+I told you that.
+
+626
+01:03:08,494 --> 01:03:10,118
+I'm ready to listen now.
+
+627
+01:03:10,494 --> 01:03:11,951
+Give me five minutes.
+
+628
+01:03:12,243 --> 01:03:16,660
+The plane was marketed too soon,
+to counter the competition.
+
+629
+01:03:17,118 --> 01:03:20,452
+They turned a blind eye
+to the auto-pilot system?
+
+630
+01:03:20,494 --> 01:03:25,993
+Qatar and India had signed.
+The penalties for delay were astronomic.
+
+631
+01:03:26,452 --> 01:03:29,327
+But the certification commission
+ran checks.
+
+632
+01:03:29,826 --> 01:03:30,951
+You're that naive?
+
+633
+01:03:31,577 --> 01:03:35,410
+The pride of European aviation.
+Atrian's influence is huge.
+
+634
+01:03:37,785 --> 01:03:39,702
+Heard of Claude Varins?
+
+635
+01:03:40,035 --> 01:03:41,868
+He has people on the commission.
+
+636
+01:03:53,785 --> 01:03:55,993
+Alain!
+The crew is waiting.
+
+637
+01:03:57,077 --> 01:03:58,077
+I have to go.
+
+638
+01:03:58,118 --> 01:03:59,494
+We need to talk.
+
+639
+01:04:00,243 --> 01:04:01,619
+I'll be in touch.
+
+640
+01:04:32,285 --> 01:04:34,118
+They want me next week.
+
+641
+01:04:34,160 --> 01:04:37,118
+They'll exploit me to the last minute.
+
+642
+01:04:38,243 --> 01:04:39,701
+What is it now?
+
+643
+01:04:39,743 --> 01:04:42,327
+A study group on drone traffic.
+
+644
+01:04:51,077 --> 01:04:53,993
+Heard of control surface problems
+on the 800?
+
+645
+01:04:55,910 --> 01:04:58,327
+We had pilot reports six months ago.
+
+646
+01:04:59,910 --> 01:05:01,619
+Certification saw nothing?
+
+647
+01:05:02,202 --> 01:05:04,077
+Why? For your investigation?
+
+648
+01:05:04,369 --> 01:05:06,118
+I'd just like an answer.
+
+649
+01:05:07,118 --> 01:05:08,743
+It's absurd, Mathieu.
+
+650
+01:05:10,618 --> 01:05:12,868
+You think the plane has a problem?
+
+651
+01:05:17,952 --> 01:05:21,035
+There were latency problems,
+but they were resolved.
+
+652
+01:05:21,327 --> 01:05:24,868
+So why do the pilots say
+the MHD took over the plane?
+
+653
+01:05:24,910 --> 01:05:26,910
+You know that's pure fantasy.
+
+654
+01:05:26,952 --> 01:05:29,118
+It's just an assistance system.
+
+655
+01:05:30,243 --> 01:05:31,993
+But which pilots do you mean?
+
+656
+01:05:32,285 --> 01:05:36,327
+Those opposed to automation
+and cockpit cameras?
+
+657
+01:05:36,369 --> 01:05:39,701
+They'll say anything
+to keep their old habits.
+
+658
+01:05:43,993 --> 01:05:47,452
+You really think the agency
+would approve a faulty plane?
+
+659
+01:05:47,743 --> 01:05:50,202
+We did our job and Atrian complied.
+
+660
+01:05:50,452 --> 01:05:51,410
+C'mon, drive.
+
+661
+01:05:51,452 --> 01:05:53,785
+I forgot how close you are.
+
+662
+01:05:54,660 --> 01:05:55,868
+Meaning what?
+
+663
+01:05:55,910 --> 01:05:57,993
+There's a report on those tests?
+
+664
+01:05:59,410 --> 01:06:02,285
+Forget I mentioned it.
+It's confidential.
+
+665
+01:06:03,160 --> 01:06:04,576
+There was a report.
+
+666
+01:06:04,910 --> 01:06:07,868
+It's confidential, ok.
+You're a drag. Now drive.
+
+667
+01:06:10,202 --> 01:06:11,576
+Drive, I said!
+
+668
+01:06:21,244 --> 01:06:22,826
+You won't give up?
+
+669
+01:06:22,868 --> 01:06:24,743
+I need to test the MHD.
+
+670
+01:06:24,785 --> 01:06:26,952
+The facts are confirmed.
+
+671
+01:06:28,118 --> 01:06:29,993
+They're your conclusions.
+
+672
+01:06:30,452 --> 01:06:31,660
+I know.
+
+673
+01:06:32,244 --> 01:06:35,244
+The MHD
+is in a Defence Ministry warehouse.
+
+674
+01:06:36,202 --> 01:06:37,952
+Why Defence?
+
+675
+01:06:37,993 --> 01:06:39,494
+It's sensitive.
+
+676
+01:06:39,535 --> 01:06:42,826
+They've sealed the plane's avionics.
+
+677
+01:06:44,660 --> 01:06:47,369
+You could order them to return the MHD.
+
+678
+01:06:49,743 --> 01:06:52,826
+I won't do that
+without tangible evidence.
+
+679
+01:06:54,244 --> 01:06:56,160
+Return to your other files.
+
+680
+01:06:58,077 --> 01:06:59,993
+How's the Dauphin crash going?
+
+681
+01:07:01,660 --> 01:07:03,244
+I'm still waiting.
+
+682
+01:07:10,785 --> 01:07:13,868
+<i>This is Alain Roussin.
+Please leave a message.</i>
+
+683
+01:07:15,952 --> 01:07:18,118
+This is Mathieu Vasseur again.
+
+684
+01:07:18,160 --> 01:07:21,327
+You said we could meet.
+I need to talk to you.
+
+685
+01:07:21,952 --> 01:07:23,244
+Please call me.
+
+686
+01:07:26,785 --> 01:07:28,576
+<i>This is Alain Roussin...</i>
+
+687
+01:07:37,244 --> 01:07:38,410
+<i>Stop calling me!</i>
+
+688
+01:07:39,202 --> 01:07:40,785
+<i>I don't want to see you.</i>
+
+689
+01:07:41,452 --> 01:07:43,285
+I don't understand.
+
+690
+01:07:43,327 --> 01:07:45,410
+<i>Stop calling me, ok!</i>
+
+691
+01:07:45,452 --> 01:07:47,993
+I thought we agreed...
+
+692
+01:07:59,910 --> 01:08:01,618
+I keep hearing about you.
+
+693
+01:08:02,576 --> 01:08:06,493
+You harassed a pilot
+and questioned the 800's reliability?
+
+694
+01:08:06,534 --> 01:08:07,409
+Who said that?
+
+695
+01:08:08,160 --> 01:08:09,119
+Noémie?
+
+696
+01:08:09,160 --> 01:08:13,160
+No, European's sales manager.
+You think Noémie and I talk about you?
+
+697
+01:08:13,993 --> 01:08:15,576
+Trying to get fired?
+
+698
+01:08:16,535 --> 01:08:19,326
+Noémie's new job is sensitive.
+
+699
+01:08:19,369 --> 01:08:22,826
+She needs your support,
+not conspiracy theories.
+
+700
+01:08:24,618 --> 01:08:26,202
+I say that as a friend.
+
+701
+01:08:27,743 --> 01:08:29,743
+Don't shoot yourself in the foot.
+
+702
+01:08:36,244 --> 01:08:37,534
+Where's that from?
+
+703
+01:08:38,369 --> 01:08:41,993
+3 years I've worked with Pollock,
+you never said you knew him.
+
+704
+01:08:42,035 --> 01:08:44,118
+We met in a work group.
+
+705
+01:08:44,368 --> 01:08:45,535
+Working on what?
+
+706
+01:08:46,909 --> 01:08:51,077
+A distress beacon to permanently locate
+a plane in flight.
+
+707
+01:08:51,119 --> 01:08:52,660
+Why show me this?
+
+708
+01:08:53,327 --> 01:08:54,618
+I don't know.
+
+709
+01:08:55,909 --> 01:08:59,868
+Pollock vanished
+two days after the crash, it's weird.
+
+710
+01:08:59,910 --> 01:09:01,827
+And I'm a suspect?
+
+711
+01:09:01,867 --> 01:09:04,993
+- I didn't say that.
+- This is absurd.
+
+712
+01:09:06,742 --> 01:09:07,868
+What is this?
+
+713
+01:09:09,284 --> 01:09:11,369
+I get on too well with Noémie?
+
+714
+01:09:12,201 --> 01:09:15,910
+You need to relax.
+You're getting worked up.
+
+715
+01:09:16,244 --> 01:09:18,702
+We know what happened on board.
+Accept it.
+
+716
+01:09:19,660 --> 01:09:20,576
+Are you ok?
+
+717
+01:09:22,743 --> 01:09:23,410
+I have to go.
+
+718
+01:10:09,618 --> 01:10:11,785
+<i>And now yet another day</i>
+
+719
+01:10:11,827 --> 01:10:13,368
+<i>marked by emotion,</i>
+
+720
+01:10:13,785 --> 01:10:16,618
+<i>10 days after the Atrian 800 attack.</i>
+
+721
+01:10:16,660 --> 01:10:18,368
+<i>The victims' families</i>
+
+722
+01:10:18,410 --> 01:10:22,535
+<i>took part in a private ceremony
+near the crash site.</i>
+
+723
+01:10:22,576 --> 01:10:26,410
+<i>They were accompanied to the site
+by gendarmes</i>
+
+724
+01:10:26,868 --> 01:10:29,743
+<i>and spoke to official representatives,</i>
+
+725
+01:10:29,785 --> 01:10:32,868
+<i>as well as the examining magistrate.</i>
+
+726
+01:10:32,910 --> 01:10:36,160
+<i>Reporters were kept to one side</i>
+
+727
+01:10:36,618 --> 01:10:39,368
+<i>and were given no new information.</i>
+
+728
+01:10:39,410 --> 01:10:41,326
+<i>The judicial authorities...</i>
+
+729
+01:10:41,702 --> 01:10:44,868
+<i>XAVIER
+Dinner confirmed with Varins tomorrow.</i>
+
+730
+01:11:14,451 --> 01:11:17,368
+Dinner out would do us good.
+
+731
+01:11:17,952 --> 01:11:20,451
+- We're a bit on edge.
+- Mostly you.
+
+732
+01:11:22,451 --> 01:11:23,326
+True.
+
+733
+01:11:23,785 --> 01:11:24,994
+Dinner where?
+
+734
+01:11:26,326 --> 01:11:27,785
+How about Matsuda?
+
+735
+01:11:28,285 --> 01:11:30,660
+It's been ages and you like it.
+
+736
+01:11:30,952 --> 01:11:32,326
+Yes, why not?
+
+737
+01:11:33,660 --> 01:11:34,827
+Tomorrow evening?
+
+738
+01:11:36,994 --> 01:11:38,577
+I can't tomorrow.
+
+739
+01:11:41,910 --> 01:11:43,285
+I'll finish late.
+
+740
+01:11:45,077 --> 01:11:47,493
+The drone report with Isabelle.
+
+741
+01:11:48,160 --> 01:11:49,535
+Thursday if you want.
+
+742
+01:11:51,535 --> 01:11:53,660
+Thursday then. Great.
+
+743
+01:12:34,285 --> 01:12:35,035
+<i>Test flight</i>
+
+744
+01:12:58,285 --> 01:13:00,577
+<i>Copy file to flash drive?</i>
+
+745
+01:13:23,452 --> 01:13:25,493
+How did you get this?
+
+746
+01:13:26,452 --> 01:13:28,035
+You wanted evidence.
+
+747
+01:13:29,118 --> 01:13:30,368
+You'd better be right.
+
+748
+01:14:00,618 --> 01:14:02,869
+Atrian named Solignac project head.
+
+749
+01:14:04,577 --> 01:14:06,493
+They just announced it.
+
+750
+01:14:18,535 --> 01:14:20,410
+Claude, what's going on?
+
+751
+01:14:20,452 --> 01:14:23,452
+- Why name Solignac?
+- <i>Things have changed.</i>
+
+752
+01:14:23,493 --> 01:14:26,326
+What do you mean? I don't understand.
+
+753
+01:14:26,952 --> 01:14:28,994
+<i>You can only blame yourself.</i>
+
+754
+01:14:29,535 --> 01:14:31,243
+<i>You really disappoint me.</i>
+
+755
+01:14:32,410 --> 01:14:33,785
+<i>I have to go.</i>
+
+756
+01:14:42,618 --> 01:14:44,910
+<i>You're wanted in the Vauban room.</i>
+
+757
+01:14:46,785 --> 01:14:48,368
+We wished to talk
+
+758
+01:14:48,410 --> 01:14:51,660
+about a subject that puts us
+in a tricky position.
+
+759
+01:14:52,243 --> 01:14:56,201
+I had a very unpleasant call
+from Atrian's CEO.
+
+760
+01:14:56,660 --> 01:15:00,744
+He claims we leaked information
+about one of their planes.
+
+761
+01:15:02,660 --> 01:15:04,493
+You know what I mean?
+
+762
+01:15:05,869 --> 01:15:06,702
+No.
+
+763
+01:15:07,201 --> 01:15:10,243
+A warrant has been filed
+on the Dubai-Paris 800.
+
+764
+01:15:11,618 --> 01:15:15,326
+It was issued by the BEA,
+based on the initial report,
+
+765
+01:15:15,368 --> 01:15:17,410
+which has an electronic signature.
+
+766
+01:15:17,785 --> 01:15:19,702
+It's from your laptop.
+
+767
+01:15:20,994 --> 01:15:23,243
+Do you see how serious this is?
+
+768
+01:15:23,285 --> 01:15:25,577
+Those tests were confidential.
+
+769
+01:15:26,410 --> 01:15:29,535
+You broke your non-disclosure agreement.
+
+770
+01:15:29,993 --> 01:15:31,493
+It's gross misconduct.
+
+771
+01:15:32,076 --> 01:15:33,785
+You're suspended.
+
+772
+01:15:34,493 --> 01:15:36,410
+I'm not behind the leak.
+
+773
+01:15:36,452 --> 01:15:38,618
+You can explain that later
+
+774
+01:15:38,993 --> 01:15:40,910
+in a disciplinary hearing.
+
+775
+01:15:41,327 --> 01:15:43,368
+Please hand over your laptop.
+
+776
+01:15:45,118 --> 01:15:46,243
+You can't...
+
+777
+01:15:46,285 --> 01:15:47,952
+That'll be all, Noémie.
+
+778
+01:16:35,285 --> 01:16:39,160
+Dorval suspended me today
+for gross misconduct.
+
+779
+01:16:41,993 --> 01:16:44,118
+How could you do that to me?
+
+780
+01:16:50,869 --> 01:16:52,118
+I'm sorry.
+
+781
+01:16:53,410 --> 01:16:55,951
+- It shouldn't have...
+- You realize
+
+782
+01:16:55,993 --> 01:16:57,493
+you'll get me fired.
+
+783
+01:16:57,910 --> 01:16:59,869
+I didn't know it would leak.
+
+784
+01:17:00,535 --> 01:17:02,410
+I needed the document.
+
+785
+01:17:02,452 --> 01:17:04,243
+Why? It was an attack.
+
+786
+01:17:04,744 --> 01:17:06,827
+- You heard that first.
+- I didn't.
+
+787
+01:17:07,285 --> 01:17:10,619
+I heard a ton of incoherent bullshit.
+
+788
+01:17:10,660 --> 01:17:13,869
+They stuffed the guy's laptop
+with Salafist videos.
+
+789
+01:17:13,910 --> 01:17:15,243
+That's what's going on.
+
+790
+01:17:17,368 --> 01:17:18,619
+- Fuck!
+- You're mad.
+
+791
+01:17:19,368 --> 01:17:20,327
+I'm mad?
+
+792
+01:17:21,744 --> 01:17:23,493
+Your dinner with Varins...
+
+793
+01:17:24,035 --> 01:17:25,118
+Why do you lie?
+
+794
+01:17:25,160 --> 01:17:27,535
+- What?
+- Why didn't you tell me?
+
+795
+01:17:27,577 --> 01:17:30,285
+To avoid a fit of paranoia like this.
+
+796
+01:17:30,619 --> 01:17:31,910
+Don't you realize?
+
+797
+01:17:32,535 --> 01:17:35,702
+I was scared of a scandal,
+scared for me, my job.
+
+798
+01:17:35,993 --> 01:17:37,493
+Just listen to you!
+
+799
+01:17:37,535 --> 01:17:40,327
+Forget the job
+and ask some real questions!
+
+800
+01:17:40,702 --> 01:17:41,744
+I did!
+
+801
+01:17:42,076 --> 01:17:45,619
+Atrian got the plane certified
+before it was ready!
+
+802
+01:17:45,660 --> 01:17:49,076
+Maybe you turned a blind eye,
+maybe you helped...
+
+803
+01:17:49,118 --> 01:17:50,327
+You're sick.
+
+804
+01:17:50,368 --> 01:17:52,619
+We owe the families the truth!
+300 dead!
+
+805
+01:17:52,660 --> 01:17:53,868
+Forget the families!
+
+806
+01:17:54,577 --> 01:17:56,243
+This is about you.
+
+807
+01:17:56,285 --> 01:17:57,868
+Only your mad ideas count!
+
+808
+01:19:29,951 --> 01:19:31,243
+Mathieu, are you ok?
+
+809
+01:19:34,368 --> 01:19:35,494
+Are you ok?
+
+810
+01:19:41,577 --> 01:19:42,743
+Are you ready?
+
+811
+01:19:44,494 --> 01:19:45,368
+What for?
+
+812
+01:19:45,743 --> 01:19:47,368
+The test. Let's go.
+
+813
+01:20:11,785 --> 01:20:13,285
+No counter-order.
+
+814
+01:20:13,826 --> 01:20:15,243
+There must be. Check.
+
+815
+01:20:21,327 --> 01:20:22,660
+Still nothing.
+
+816
+01:20:22,701 --> 01:20:24,701
+Make the plane stall.
+
+817
+01:20:35,285 --> 01:20:36,160
+It's working.
+
+818
+01:20:36,619 --> 01:20:38,494
+- As per normal.
+- Again.
+
+819
+01:20:38,535 --> 01:20:39,951
+Redo the first test.
+
+820
+01:20:42,619 --> 01:20:43,494
+Again.
+
+821
+01:20:43,535 --> 01:20:44,826
+Find the problem.
+
+822
+01:20:44,868 --> 01:20:47,619
+- Mathieu, I think...
+- Let's find it.
+
+823
+01:20:47,660 --> 01:20:49,035
+It's not normal.
+
+824
+01:20:49,494 --> 01:20:50,660
+Try again.
+
+825
+01:20:52,701 --> 01:20:54,494
+Try again, I said.
+
+826
+01:20:54,535 --> 01:20:56,077
+Let me do it.
+
+827
+01:21:14,077 --> 01:21:15,701
+That's enough, Mathieu.
+
+828
+01:21:16,577 --> 01:21:17,202
+Wait.
+
+829
+01:21:20,452 --> 01:21:21,118
+Wait.
+
+830
+01:21:22,327 --> 01:21:22,993
+Impossible.
+
+831
+01:21:25,160 --> 01:21:26,619
+It's the wrong box.
+
+832
+01:21:27,243 --> 01:21:28,535
+The wrong box.
+
+833
+01:21:28,577 --> 01:21:30,160
+Samir, turn it off.
+
+834
+01:21:30,202 --> 01:21:31,619
+Wait!
+
+835
+01:22:15,410 --> 01:22:17,243
+<i>We're gonna crash!</i>
+
+836
+01:22:19,285 --> 01:22:20,660
+<i>Allahu akbar!</i>
+
+837
+01:22:21,993 --> 01:22:23,618
+<i>We're gonna crash!</i>
+
+838
+01:22:26,535 --> 01:22:27,993
+<i>Allahu akbar!</i>
+
+839
+01:23:43,285 --> 01:23:46,827
+<i>Hi, you've reached Noémie Vasseur.
+Leave a message.</i>
+
+840
+01:23:50,452 --> 01:23:52,285
+<i>Four weeks before opening,</i>
+
+841
+01:23:52,327 --> 01:23:55,785
+<i>the Bourget
+aeronautics and space salon</i>
+
+842
+01:23:56,118 --> 01:23:58,369
+<i>looks exceptional. 240 exhibitors,</i>
+
+843
+01:23:58,410 --> 01:24:00,660
+<i>150 civilian and military craft</i>
+
+844
+01:24:00,701 --> 01:24:01,868
+<i>will perform...</i>
+
+845
+01:24:02,285 --> 01:24:04,077
+You should go out a bit.
+
+846
+01:24:05,035 --> 01:24:06,660
+Don't stay in all day.
+
+847
+01:24:08,701 --> 01:24:09,952
+Can you take Théo
+
+848
+01:24:10,618 --> 01:24:11,535
+to the park?
+
+849
+01:24:14,952 --> 01:24:16,160
+Maybe.
+
+850
+01:24:16,576 --> 01:24:18,827
+<i>The order books should be full,</i>
+
+851
+01:24:18,868 --> 01:24:21,077
+<i>making Atrian a market leader.</i>
+
+852
+01:24:21,118 --> 01:24:22,910
+Any news of the BEA?
+
+853
+01:24:25,035 --> 01:24:26,743
+I'm summoned Thursday.
+
+854
+01:24:27,118 --> 01:24:28,493
+Explain things.
+
+855
+01:24:28,535 --> 01:24:30,660
+Say what you went through.
+
+856
+01:24:31,035 --> 01:24:33,369
+- The endless pressure...
+- Stop.
+
+857
+01:24:34,244 --> 01:24:35,493
+I screwed up.
+
+858
+01:24:39,910 --> 01:24:42,202
+I screwed up, it's that simple.
+
+859
+01:24:47,285 --> 01:24:49,410
+Know what? He was right.
+
+860
+01:24:50,576 --> 01:24:51,660
+Who was?
+
+861
+01:24:52,202 --> 01:24:52,952
+Him.
+
+862
+01:24:56,451 --> 01:24:57,785
+A useless pilot.
+
+863
+01:24:59,327 --> 01:25:00,827
+A useless acoustician.
+
+864
+01:25:59,952 --> 01:26:01,285
+<i>Mr Vasseur?</i>
+
+865
+01:26:02,410 --> 01:26:03,535
+Yes.
+
+866
+01:26:03,576 --> 01:26:05,952
+<i>Hello, I'm Laura Saunier.</i>
+
+867
+01:26:06,244 --> 01:26:09,160
+<i>Philippe Reynal gave me your number.</i>
+
+868
+01:26:10,202 --> 01:26:12,618
+<i>My son was on the Dubai-Paris flight.</i>
+
+869
+01:26:13,119 --> 01:26:14,702
+<i>His name was Lucas.</i>
+
+870
+01:26:15,660 --> 01:26:16,618
+<i>I...</i>
+
+871
+01:26:16,660 --> 01:26:19,327
+<i>I need to understand what happened.</i>
+
+872
+01:26:21,035 --> 01:26:24,952
+Sorry, ma'am,
+I'm no longer on the investigation.
+
+873
+01:26:24,993 --> 01:26:28,035
+<i>Mr Reynal told me you're a good man.</i>
+
+874
+01:26:28,451 --> 01:26:30,743
+<i>I'd like to know if he realized...</i>
+
+875
+01:26:31,702 --> 01:26:33,785
+<i>that he was going to die.</i>
+
+876
+01:26:35,702 --> 01:26:38,618
+<i>My son was in seat...</i>
+
+877
+01:26:39,285 --> 01:26:41,451
+I can't hear you, ma'am.
+
+878
+01:26:50,326 --> 01:26:51,785
+Uncle!
+
+879
+01:26:54,285 --> 01:26:56,451
+Why's it flying on its own?
+
+880
+01:27:29,160 --> 01:27:31,410
+<i>- What's that noise?
+- No idea...</i>
+
+881
+01:27:37,368 --> 01:27:39,077
+<i>What's that noise?</i>
+
+882
+01:27:39,119 --> 01:27:40,994
+<i>No idea. Interference.</i>
+
+883
+01:27:43,410 --> 01:27:45,368
+<i>I can't keep my phones on.</i>
+
+884
+01:28:03,326 --> 01:28:05,451
+What made you change your mind?
+
+885
+01:28:31,410 --> 01:28:32,660
+Come in.
+
+886
+01:28:34,535 --> 01:28:35,702
+Come on in.
+
+887
+01:28:36,827 --> 01:28:38,535
+- How are you?
+- Fine.
+
+888
+01:28:38,577 --> 01:28:42,243
+I don't have long,
+an Air China delegation is due.
+
+889
+01:28:42,535 --> 01:28:43,827
+Want a drink?
+
+890
+01:28:44,368 --> 01:28:45,451
+No, thanks.
+
+891
+01:28:45,785 --> 01:28:46,618
+Have a seat.
+
+892
+01:28:50,577 --> 01:28:51,493
+How are you?
+
+893
+01:28:52,577 --> 01:28:53,493
+What is it?
+
+894
+01:28:53,535 --> 01:28:55,077
+I need your advice.
+
+895
+01:28:56,119 --> 01:28:56,994
+What about?
+
+896
+01:28:57,035 --> 01:29:00,660
+Your firm handles computer security
+for Atrian's planes?
+
+897
+01:29:01,618 --> 01:29:02,493
+Yes.
+
+898
+01:29:02,535 --> 01:29:05,535
+How is the 800 better protected
+against hacking?
+
+899
+01:29:06,994 --> 01:29:08,077
+Why?
+
+900
+01:29:08,119 --> 01:29:09,410
+As you know,
+
+901
+01:29:09,451 --> 01:29:13,493
+piloting and communication systems
+are hard to make secure.
+
+902
+01:29:13,743 --> 01:29:18,577
+Could we imagine someone
+hacking into the navigation system?
+
+903
+01:29:19,660 --> 01:29:21,160
+It's unlikely.
+
+904
+01:29:21,201 --> 01:29:23,743
+Data exchange and onboard wifi
+
+905
+01:29:23,785 --> 01:29:25,660
+cause new flaws.
+
+906
+01:29:25,702 --> 01:29:27,952
+Couldn't hackers exploit them?
+
+907
+01:29:29,410 --> 01:29:31,702
+We work to remedy that.
+
+908
+01:29:31,743 --> 01:29:36,869
+Could some geek enter the pilot system
+via the in-flight entertainment?
+
+909
+01:29:37,285 --> 01:29:40,326
+Impossible,
+the two are physically separate.
+
+910
+01:29:40,743 --> 01:29:43,035
+Passenger cabin data on one side,
+
+911
+01:29:43,077 --> 01:29:46,035
+the cockpit on the other.
+Separate networks.
+
+912
+01:29:47,119 --> 01:29:51,577
+At the ENAC reception,
+didn't you vaunt a single-fibre network?
+
+913
+01:29:51,618 --> 01:29:54,743
+Networks can be separate
+on the same cable.
+
+914
+01:29:55,577 --> 01:29:57,660
+Don't you know about computing?
+
+915
+01:29:59,952 --> 01:30:02,535
+You think the flight was hacked?
+
+916
+01:30:02,827 --> 01:30:03,743
+Yes.
+
+917
+01:30:03,785 --> 01:30:07,160
+And that, as network chief,
+you knew in real time.
+
+918
+01:30:11,452 --> 01:30:13,535
+First, an auto-pilot problem,
+
+919
+01:30:13,577 --> 01:30:15,660
+now hacking, what next?
+
+920
+01:30:15,994 --> 01:30:18,368
+A new theory every day?
+
+921
+01:30:18,410 --> 01:30:20,910
+Your job is to analyse recordings,
+
+922
+01:30:20,952 --> 01:30:22,452
+not to make stuff up.
+
+923
+01:30:22,493 --> 01:30:24,952
+I believe Pollock falsified the CVR.
+
+924
+01:30:25,243 --> 01:30:27,368
+He was alone from midnight to 2 am.
+
+925
+01:30:28,743 --> 01:30:30,577
+And you asked him to do it.
+
+926
+01:30:37,702 --> 01:30:39,243
+What can I say?
+
+927
+01:30:41,285 --> 01:30:42,910
+You're pathetic.
+
+928
+01:30:44,160 --> 01:30:46,326
+I have to work now.
+
+929
+01:30:46,368 --> 01:30:47,702
+Xavier Renaud
+
+930
+01:30:47,744 --> 01:30:49,618
+ignored a security flaw?
+
+931
+01:30:49,869 --> 01:30:52,410
+Altering a line of code costs a million
+
+932
+01:30:52,452 --> 01:30:55,326
+and takes a year to be certified,
+so yes.
+
+933
+01:30:55,368 --> 01:30:57,910
+No one could delay the market launch.
+
+934
+01:30:57,952 --> 01:30:59,118
+Maybe,
+
+935
+01:30:59,160 --> 01:31:01,326
+but there's no proof of a fault.
+
+936
+01:31:02,452 --> 01:31:05,285
+We've only seen one case
+of plane hacking.
+
+937
+01:31:05,618 --> 01:31:08,368
+A guy was arrested on landing in Warsaw.
+
+938
+01:31:08,410 --> 01:31:12,326
+He said he altered airspeed
+via the in-flight entertainment.
+
+939
+01:31:12,785 --> 01:31:14,785
+- Got his name?
+- Hold on.
+
+940
+01:31:19,326 --> 01:31:20,660
+Apparently, it's...
+
+941
+01:31:21,160 --> 01:31:22,660
+David Keller.
+
+942
+01:31:23,035 --> 01:31:25,952
+These guys love to use their real names.
+
+943
+01:31:31,785 --> 01:31:33,910
+<i>Flights interrupted in Vienna</i>
+
+944
+01:31:37,285 --> 01:31:39,952
+<i>Computing breakdown at Vienna airport</i>
+
+945
+01:31:44,994 --> 01:31:47,660
+<i>We now know more about the incident.</i>
+
+946
+01:31:47,702 --> 01:31:51,827
+<i>Austrian police arrested
+a French citizen at the airport.</i>
+
+947
+01:31:51,869 --> 01:31:54,994
+<i>David Keller,
+a computer security technician,</i>
+
+948
+01:31:55,035 --> 01:31:57,285
+<i>claimed to have hacked a plane before.</i>
+
+949
+01:32:01,410 --> 01:32:03,076
+<i>This looks huge.</i>
+
+950
+01:32:03,118 --> 01:32:06,285
+<i>Keller was fired
+after three months at Pegase.</i>
+
+951
+01:32:06,327 --> 01:32:08,035
+<i>Now he's vanished.</i>
+
+952
+01:32:08,076 --> 01:32:10,577
+<i>No sign of him since last June.</i>
+
+953
+01:32:11,410 --> 01:32:13,535
+Caroline, I'll call you back.
+
+954
+01:34:01,702 --> 01:34:03,035
+What's that noise?
+
+955
+01:34:04,410 --> 01:34:05,201
+No idea.
+
+956
+01:34:05,243 --> 01:34:06,243
+<i>Interference.</i>
+
+957
+01:34:09,201 --> 01:34:11,535
+<i>I can't keep my phones on.</i>
+
+958
+01:34:15,035 --> 01:34:16,535
+He wanted publicity?
+
+959
+01:34:16,577 --> 01:34:19,118
+To show the fault, not wreck the plane.
+
+960
+01:34:19,535 --> 01:34:21,535
+The MHD wasn't faulty,
+
+961
+01:34:21,577 --> 01:34:24,535
+but it couldn't handle
+contradictory orders
+
+962
+01:34:24,577 --> 01:34:26,327
+from both Keller and the pilots.
+
+963
+01:34:27,368 --> 01:34:29,035
+You can't prove it.
+
+964
+01:34:29,076 --> 01:34:31,702
+We have the photo of Keller onboard.
+
+965
+01:34:31,744 --> 01:34:33,118
+You see Keller.
+
+966
+01:34:33,493 --> 01:34:35,827
+He isn't on the manifest.
+
+967
+01:34:36,243 --> 01:34:38,452
+I know. He must have been erased.
+
+968
+01:34:41,785 --> 01:34:43,868
+Are you on my side?
+
+969
+01:34:43,910 --> 01:34:45,827
+You came looking for me.
+
+970
+01:34:48,160 --> 01:34:49,744
+Will you do the article?
+
+971
+01:34:57,243 --> 01:35:01,243
+<i>CEO's Cessna found
+in the English Channel</i>
+
+972
+01:35:01,744 --> 01:35:02,660
+At the time,
+
+973
+01:35:02,702 --> 01:35:05,285
+a whistle-blower contacted a colleague.
+
+974
+01:35:05,826 --> 01:35:07,577
+The informer claimed,
+
+975
+01:35:07,619 --> 01:35:10,327
+with documents,
+that the engine fractured.
+
+976
+01:35:11,243 --> 01:35:13,868
+But when the wreckage was found,
+
+977
+01:35:13,910 --> 01:35:15,535
+the engine was intact.
+
+978
+01:35:15,577 --> 01:35:19,202
+The investigation showed the pilot
+overdid the trim.
+
+979
+01:35:19,910 --> 01:35:22,494
+My colleague is categorical.
+
+980
+01:35:22,868 --> 01:35:25,619
+The documents
+had to come from the BEA.
+
+981
+01:35:27,160 --> 01:35:28,160
+It was you?
+
+982
+01:35:28,951 --> 01:35:29,951
+Am I wrong?
+
+983
+01:35:29,993 --> 01:35:32,868
+I heard the propeller shaft snap.
+
+984
+01:35:33,243 --> 01:35:36,118
+You thought you did,
+but you were wrong.
+
+985
+01:35:36,410 --> 01:35:39,535
+I couldn't wait
+until they found the wreckage,
+
+986
+01:35:39,826 --> 01:35:41,744
+with other planes flying.
+
+987
+01:35:41,785 --> 01:35:43,327
+But you were wrong.
+
+988
+01:35:44,910 --> 01:35:46,744
+You should have told me.
+
+989
+01:35:46,785 --> 01:35:48,660
+How can I trust you now?
+
+990
+01:35:48,951 --> 01:35:51,285
+Don't drop me. I know I'm right.
+
+991
+01:35:51,327 --> 01:35:52,452
+Sorry, Mathieu.
+
+992
+01:35:52,951 --> 01:35:53,868
+You're a risk.
+
+993
+01:35:54,202 --> 01:35:55,202
+Count me out.
+
+994
+01:35:56,785 --> 01:35:57,785
+Wait.
+
+995
+01:36:15,285 --> 01:36:16,494
+Noémie, please.
+
+996
+01:36:16,535 --> 01:36:18,327
+Just give me five minutes.
+
+997
+01:36:18,785 --> 01:36:21,785
+Blame me. Say I stole the document.
+
+998
+01:36:22,202 --> 01:36:23,619
+Say it was my fault.
+
+999
+01:36:23,660 --> 01:36:26,202
+I'll talk to them.
+They'll reinstate you.
+
+1000
+01:36:26,535 --> 01:36:30,077
+You have to help.
+I have no other solution.
+
+1001
+01:36:30,327 --> 01:36:32,910
+I'll be fired, no one believes me.
+
+1002
+01:36:32,951 --> 01:36:35,202
+But I know the truth about the crash.
+
+1003
+01:36:35,243 --> 01:36:36,826
+It's all I have left.
+
+1004
+01:36:37,868 --> 01:36:39,160
+All I have.
+
+1005
+01:36:39,577 --> 01:36:42,077
+If you go back, they'll believe you.
+
+1006
+01:36:42,118 --> 01:36:43,160
+Wait.
+
+1007
+01:36:43,202 --> 01:36:45,702
+I was wrong. It was on the CVR.
+
+1008
+01:36:45,743 --> 01:36:48,202
+The interference, the pilots' phones...
+
+1009
+01:36:48,243 --> 01:36:50,327
+It was a hacking job, see.
+
+1010
+01:36:51,452 --> 01:36:53,660
+- Listen to me.
+- Let go!
+
+1011
+01:36:53,702 --> 01:36:56,619
+- Listen...
+- Get out of my life!
+
+1012
+01:37:06,910 --> 01:37:09,660
+Mathieu, this is a difficult decision.
+
+1013
+01:37:11,785 --> 01:37:14,243
+You know how I appreciate your work.
+
+1014
+01:37:14,910 --> 01:37:18,410
+You also know a collective approach
+is crucial here.
+
+1015
+01:37:20,826 --> 01:37:23,035
+You ignored that in recent weeks
+
+1016
+01:37:23,077 --> 01:37:26,452
+and followed your instincts,
+not for the first time.
+
+1017
+01:37:28,951 --> 01:37:30,743
+You've gone too far.
+
+1018
+01:37:35,077 --> 01:37:37,785
+I'll have to ask for your transfer.
+
+1019
+01:37:48,118 --> 01:37:51,577
+Excuse me, I need
+the Dauphin crash data.
+
+1020
+01:37:51,868 --> 01:37:53,369
+I can't access it.
+
+1021
+01:37:55,452 --> 01:37:57,785
+Sorry, I need all your files.
+
+1022
+01:38:08,494 --> 01:38:11,701
+<i>Modified: 11/10/2020 5:12 am</i>
+
+1023
+01:38:12,910 --> 01:38:15,118
+- You worked on it?
+- I can't open it.
+
+1024
+01:38:15,535 --> 01:38:17,327
+Only Pollock and you could.
+
+1025
+01:38:20,160 --> 01:38:21,826
+I'm in a hurry.
+
+1026
+01:38:21,868 --> 01:38:24,327
+I'll collect the files and send them.
+
+1027
+01:38:26,160 --> 01:38:28,077
+Ok. Thanks.
+
+1028
+01:40:31,285 --> 01:40:31,910
+<i>Searching...</i>
+
+1029
+01:40:42,868 --> 01:40:44,452
+<i>In 2 km, bear right</i>
+
+1030
+01:40:45,160 --> 01:40:47,576
+<i>to join the A86.</i>
+
+1031
+01:40:52,244 --> 01:40:53,660
+Had any news?
+
+1032
+01:40:54,493 --> 01:40:55,327
+Sorry?
+
+1033
+01:40:55,369 --> 01:40:57,035
+Of the hearing.
+
+1034
+01:40:57,077 --> 01:40:58,827
+It meets in ten days.
+
+1035
+01:41:00,244 --> 01:41:01,868
+My offer still stands.
+
+1036
+01:41:01,910 --> 01:41:03,576
+I'd love you to join us.
+
+1037
+01:41:04,118 --> 01:41:06,035
+Thank you. I'm touched.
+
+1038
+01:41:07,035 --> 01:41:08,618
+I'll think it over.
+
+1039
+01:41:11,743 --> 01:41:12,701
+Seen Mathieu?
+
+1040
+01:41:14,035 --> 01:41:15,327
+How's he doing?
+
+1041
+01:41:16,160 --> 01:41:16,910
+Badly.
+
+1042
+01:41:20,451 --> 01:41:21,952
+It's awful.
+
+1043
+01:41:22,868 --> 01:41:25,701
+He got so wound up
+over the investigation.
+
+1044
+01:41:27,285 --> 01:41:30,660
+He was totally obsessed
+about the black box.
+
+1045
+01:41:31,743 --> 01:41:33,410
+God knows what he heard.
+
+1046
+01:41:33,660 --> 01:41:35,785
+Exactly, it was inaudible.
+
+1047
+01:41:35,827 --> 01:41:37,660
+The pilots took off their phones.
+
+1048
+01:41:42,202 --> 01:41:43,285
+How did you know that?
+
+1049
+01:41:47,202 --> 01:41:48,952
+About the headphones.
+
+1050
+01:41:50,244 --> 01:41:51,785
+It's in the report.
+
+1051
+01:41:53,451 --> 01:41:55,077
+The BEA already published it?
+
+1052
+01:41:55,660 --> 01:41:57,327
+No, Atrian got it early.
+
+1053
+01:42:26,202 --> 01:42:27,244
+Excuse me.
+
+1054
+01:42:27,285 --> 01:42:29,410
+The Dubai-Paris manifest.
+
+1055
+01:42:29,785 --> 01:42:32,244
+Shall I give it to Balsan tomorrow?
+
+1056
+01:42:32,285 --> 01:42:33,285
+Who requested it?
+
+1057
+01:42:33,785 --> 01:42:34,660
+Mathieu.
+
+1058
+01:42:36,827 --> 01:42:37,660
+Give it to me.
+
+1059
+01:42:39,702 --> 01:42:41,493
+We had the manifest.
+
+1060
+01:42:41,535 --> 01:42:43,535
+He wanted the boarding copy.
+
+1061
+01:42:44,868 --> 01:42:46,244
+Did he say why?
+
+1062
+01:42:46,910 --> 01:42:48,368
+Attention to detail.
+
+1063
+01:42:48,952 --> 01:42:50,493
+You know him.
+
+1064
+01:42:52,410 --> 01:42:53,077
+Thank you.
+
+1065
+01:43:01,077 --> 01:43:02,160
+<i>In 50 metres,</i>
+
+1066
+01:43:02,493 --> 01:43:04,119
+<i>turn right.</i>
+
+1067
+01:43:10,827 --> 01:43:12,160
+<i>Continue</i>
+
+1068
+01:43:12,202 --> 01:43:13,618
+<i>for 170 metres.</i>
+
+1069
+01:43:28,451 --> 01:43:30,077
+<i>Turn right.</i>
+
+1070
+01:43:40,244 --> 01:43:41,493
+<i>Continue 110 metres.</i>
+
+1071
+01:43:51,994 --> 01:43:54,535
+<i>Continue 90 metres.</i>
+
+1072
+01:44:13,743 --> 01:44:16,244
+<i>It's me. I have to see you.</i>
+
+1073
+01:44:16,576 --> 01:44:19,827
+Meet me at the apartment.
+It's important.
+
+1074
+01:44:21,160 --> 01:44:22,493
+<i>Can you hear me?</i>
+
+1075
+01:44:23,368 --> 01:44:24,493
+Yes.
+
+1076
+01:44:24,535 --> 01:44:26,994
+<i>Listen, I don't know but...</i>
+
+1077
+01:44:28,119 --> 01:44:29,868
+maybe I was too hasty.
+
+1078
+01:44:29,910 --> 01:44:32,785
+Something's weird.
+I need to talk to you.
+
+1079
+01:44:35,577 --> 01:44:37,285
+<i>Why aren't you speaking?</i>
+
+1080
+01:44:37,743 --> 01:44:38,952
+<i>Where are you?</i>
+
+1081
+01:44:38,994 --> 01:44:40,202
+Don't worry.
+
+1082
+01:44:41,368 --> 01:44:43,577
+I'll see you in an hour, ok?
+
+1083
+01:44:45,660 --> 01:44:46,827
+I love you.
+
+1084
+01:45:14,702 --> 01:45:15,618
+Thank you.
+
+1085
+01:45:16,243 --> 01:45:17,326
+Need a ride?
+
+1086
+01:45:17,952 --> 01:45:19,201
+I'll get a cab.
+
+1087
+01:45:19,493 --> 01:45:20,326
+Sure?
+
+1088
+01:45:20,702 --> 01:45:22,243
+Yes, really.
+
+1089
+01:45:27,952 --> 01:45:30,618
+<i>Continue 90 metres.</i>
+
+1090
+01:46:16,410 --> 01:46:17,785
+<i>Continue 50 metres.</i>
+
+1091
+01:46:34,535 --> 01:46:36,201
+<i>Continue 10 metres.</i>
+
+1092
+01:46:43,827 --> 01:46:46,493
+<i>You have reached your destination.</i>
+
+1093
+01:49:30,118 --> 01:49:31,368
+<i>Work station</i>
+
+1094
+01:49:35,160 --> 01:49:37,619
+<i>- Jeanne and your meal.
+- I'll let her in.</i>
+
+1095
+01:49:44,535 --> 01:49:46,285
+<i>We're serving breakfast.</i>
+
+1096
+01:49:46,327 --> 01:49:48,619
+<i>It may get rocky. Let them know.</i>
+
+1097
+01:49:48,660 --> 01:49:49,951
+<i>Ok, I'll get your meal.</i>
+
+1098
+01:49:54,535 --> 01:49:57,160
+<i>Sooner than I thought. Seatbelt time.</i>
+
+1099
+01:49:59,410 --> 01:50:00,951
+<i>See those cbs on the right?</i>
+
+1100
+01:50:00,993 --> 01:50:03,327
+<i>We were right to avoid them.</i>
+
+1101
+01:50:03,368 --> 01:50:04,993
+<i>It looks clear ahead.</i>
+
+1102
+01:50:05,035 --> 01:50:08,118
+<i>The CDG update.
+Westerly landing, visibility 3000 m,</i>
+
+1103
+01:50:08,160 --> 01:50:11,410
+<i>rain, clouds at 800 feet, 8° C
+and 1014 QNH.</i>
+
+1104
+01:50:11,452 --> 01:50:14,243
+<i>Stuck at home with the kids again.</i>
+
+1105
+01:50:14,285 --> 01:50:17,327
+<i>- Where do you live?
+- Just north of CDG.</i>
+
+1106
+01:50:17,619 --> 01:50:19,869
+<i>22° today in Biarritz.</i>
+
+1107
+01:50:19,910 --> 01:50:22,076
+<i>You live there? Not too far?</i>
+
+1108
+01:50:22,118 --> 01:50:24,535
+<i>My wife's Basque and I surf.</i>
+
+1109
+01:50:24,577 --> 01:50:25,827
+<i>We had no choice.</i>
+
+1110
+01:50:29,160 --> 01:50:30,285
+<i>What's that noise?</i>
+
+1111
+01:50:32,076 --> 01:50:33,910
+No idea. Interference.
+
+1112
+01:50:39,118 --> 01:50:40,993
+I can't keep my phones on.
+
+1113
+01:50:58,035 --> 01:50:59,076
+What was that?
+
+1114
+01:50:59,118 --> 01:51:00,202
+I didn't see.
+
+1115
+01:51:00,493 --> 01:51:01,744
+<i>The route changed.</i>
+
+1116
+01:51:01,785 --> 01:51:03,076
+Is the FMS screwed?
+
+1117
+01:51:04,410 --> 01:51:05,493
+AP off.
+
+1118
+01:51:06,993 --> 01:51:08,327
+Taking the controls.
+
+1119
+01:51:21,493 --> 01:51:22,160
+What is this shit?
+
+1120
+01:51:22,660 --> 01:51:24,452
+<i>The AP is back on alone.</i>
+
+1121
+01:51:57,744 --> 01:51:59,243
+We're descending.
+
+1122
+01:51:59,285 --> 01:52:01,160
+I know. Are you doing it?
+
+1123
+01:52:01,202 --> 01:52:02,535
+No, I'm not.
+
+1124
+01:52:02,577 --> 01:52:03,535
+Let me try.
+
+1125
+01:52:08,660 --> 01:52:10,076
+<i>It's not reacting!</i>
+
+1126
+01:52:12,035 --> 01:52:13,744
+<i>I'll override the FCC.</i>
+
+1127
+01:52:16,535 --> 01:52:18,535
+The system isn't reacting.
+
+1128
+01:52:46,285 --> 01:52:47,785
+Mountains below.
+
+1129
+01:52:47,826 --> 01:52:49,076
+<i>The limit's at 15 000.</i>
+
+1130
+01:52:49,118 --> 01:52:50,118
+Pull with me.
+
+1131
+01:52:50,702 --> 01:52:52,243
+- Pull!
+- I am pulling!
+
+1132
+01:52:52,285 --> 01:52:53,702
+Nothing's reacting!
+
+1133
+01:52:54,951 --> 01:52:56,826
+<i>Cabin crew, emergency descent.</i>
+
+1134
+01:53:12,035 --> 01:53:14,368
+<i>Someone has taken control.</i>
+
+1135
+01:53:15,494 --> 01:53:17,452
+<i>They're piloting, not us.</i>
+
+1136
+01:53:18,077 --> 01:53:19,868
+<i>We're gonna crash!</i>
+
+1137
+01:53:36,327 --> 01:53:37,369
+<i>Mathieu,</i>
+
+1138
+01:53:37,785 --> 01:53:39,494
+<i>I suppose you're watching.</i>
+
+1139
+01:53:40,285 --> 01:53:42,743
+<i>It means I was right about you.</i>
+
+1140
+01:53:43,494 --> 01:53:46,035
+<i>It also means no one will find me.</i>
+
+1141
+01:53:46,701 --> 01:53:48,951
+<i>So go public with what follows.</i>
+
+1142
+01:53:51,035 --> 01:53:52,785
+<i>My name is Victor Pollock.</i>
+
+1143
+01:53:53,369 --> 01:53:56,202
+<i>I spent 20 years as a BEA analyst.</i>
+
+1144
+01:53:56,910 --> 01:54:01,826
+<i>A few years ago, Xavier Renaud,
+CEO of Pegase Security, contacted me.</i>
+
+1145
+01:54:02,619 --> 01:54:07,535
+<i>He wanted advance information
+to fix minor faults on Atrian planes.</i>
+
+1146
+01:54:08,619 --> 01:54:09,743
+<i>He paid well.</i>
+
+1147
+01:54:10,202 --> 01:54:11,660
+<i>I needed money.</i>
+
+1148
+01:54:12,452 --> 01:54:17,077
+<i>I didn't see it as corruption,
+just as a way to avoid bureaucracy.</i>
+
+1149
+01:54:19,327 --> 01:54:23,243
+<i>But once we knew each other better,
+he asked for more.</i>
+
+1150
+01:54:24,410 --> 01:54:26,951
+<i>I had to correct certain conclusions,</i>
+
+1151
+01:54:27,410 --> 01:54:30,535
+<i>focus investigations on human factors.</i>
+
+1152
+01:54:31,785 --> 01:54:33,118
+<i>I was trapped.</i>
+
+1153
+01:54:35,826 --> 01:54:37,826
+<i>Then the 800 crashed.</i>
+
+1154
+01:54:39,535 --> 01:54:42,951
+<i>This time, he asked me
+to alter the black boxes.</i>
+
+1155
+01:54:44,868 --> 01:54:47,993
+<i>I refused,
+but he threatened to destroy me.</i>
+
+1156
+01:54:49,285 --> 01:54:51,118
+<i>I don't seek forgiveness.</i>
+
+1157
+01:54:51,951 --> 01:54:55,160
+<i>I probably deserve what awaits me.</i>
+
+1158
+01:54:56,202 --> 01:54:58,535
+<i>But the man behind it must be exposed.</i>
+
+1159
+01:55:00,160 --> 01:55:01,243
+<i>Mathieu,</i>
+
+1160
+01:55:02,369 --> 01:55:06,993
+<i>I didn't take you to the crash
+as you might have found something.</i>
+
+1161
+01:55:07,535 --> 01:55:09,118
+<i>I know how good you are.</i>
+
+1162
+01:55:10,701 --> 01:55:13,952
+<i>And I'm recording this now
+because I trust you.</i>
+
+1163
+01:55:55,785 --> 01:55:57,160
+<i>Basement - Lab</i>
+
+1164
+01:56:45,160 --> 01:56:46,285
+The basement.
+
+1165
+01:57:13,868 --> 01:57:14,952
+<i>Basement speakers</i>
+
+1166
+01:57:15,535 --> 01:57:16,868
+<i>- Pull!
+- I am pulling!</i>
+
+1167
+01:57:16,910 --> 01:57:18,369
+<i>Nothing's reacting!</i>
+
+1168
+01:57:18,410 --> 01:57:20,785
+<i>Cabin crew, emergency descent.</i>
+
+1169
+01:58:44,202 --> 01:58:45,743
+<i>Turn around.</i>
+
+1170
+01:58:47,035 --> 01:58:48,410
+<i>Turn around.</i>
+
+1171
+01:58:53,493 --> 01:58:54,410
+Jesus!
+
+1172
+01:58:59,202 --> 01:59:00,035
+Fuck!
+
+1173
+02:01:15,285 --> 02:01:16,243
+Noémie!
+
+1174
+02:01:17,702 --> 02:01:18,451
+Are you ok?
+
+1175
+02:01:18,952 --> 02:01:19,868
+I'm good.
+
+1176
+02:01:21,035 --> 02:01:23,535
+- Attending my speech?
+- Too busy.
+
+1177
+02:01:23,577 --> 02:01:26,119
+I have the Thales conference at 6.
+
+1178
+02:01:26,160 --> 02:01:26,994
+Of course.
+
+1179
+02:01:27,577 --> 02:01:28,952
+I'm glad you came.
+
+1180
+02:01:28,994 --> 02:01:31,326
+I was going crazy at home.
+
+1181
+02:01:32,618 --> 02:01:34,368
+If you need anything, ask.
+
+1182
+02:01:39,160 --> 02:01:40,952
+Our generation
+
+1183
+02:01:40,994 --> 02:01:43,577
+is slowly coming to terms with the idea
+
+1184
+02:01:44,160 --> 02:01:46,326
+that pilots will vanish one day.
+
+1185
+02:01:47,077 --> 02:01:50,326
+The challenge is to protect
+and secure planes
+
+1186
+02:01:50,368 --> 02:01:53,618
+in which artificial intelligence
+is predominant.
+
+1187
+02:01:54,410 --> 02:01:57,618
+Some say our ambitions are excessive,
+
+1188
+02:01:57,869 --> 02:02:00,493
+calling us the Icarus of aeronautics.
+
+1189
+02:02:01,535 --> 02:02:05,785
+Icarus flew too close to the sun,
+his wax wings melted,
+
+1190
+02:02:05,827 --> 02:02:07,785
+he fell into the sea and died.
+
+1191
+02:02:09,243 --> 02:02:12,451
+I never really knew
+if the moral of the tale
+
+1192
+02:02:12,493 --> 02:02:14,910
+was do not fly too high,
+
+1193
+02:02:14,952 --> 02:02:16,451
+as people think,
+
+1194
+02:02:16,785 --> 02:02:20,201
+or forget wax and feathers
+to build better wings.
+
+1195
+02:02:22,410 --> 02:02:25,243
+In a perpetual quest for innovation...
+
+1196
+02:02:28,869 --> 02:02:30,869
+Pegase Security is proud to...
+
+1197
+02:02:31,910 --> 02:02:33,535
+<i>My name is Victor Pollock.</i>
+
+1198
+02:02:34,285 --> 02:02:36,869
+<i>I spent 20 years as a BEA analyst.</i>
+
+1199
+02:02:37,618 --> 02:02:40,119
+<i>A few years ago, Xavier Renaud</i>
+
+1200
+02:02:40,535 --> 02:02:42,035
+<i>contacted me.</i>
+
+1201
+02:02:43,952 --> 02:02:48,368
+<i>He wanted advance information
+to fix minor faults on Atrian planes.</i>
+
+1202
+02:02:48,910 --> 02:02:51,577
+<i>He paid well. I needed money.</i>
+
+1203
+02:02:52,077 --> 02:02:55,910
+<i>I didn't see it as corruption,
+just as a way to avoid bureaucracy.</i>
+
+1204
+02:02:57,493 --> 02:03:00,994
+<i>But once we knew each other better,
+he asked for more.</i>
+
+1205
+02:03:01,035 --> 02:03:02,910
+<i>The black boxes doctored</i>
+
+1206
+02:03:02,952 --> 02:03:04,952
+<i>I had to correct conclusions,</i>
+
+1207
+02:03:04,994 --> 02:03:07,077
+<i>focus investigations</i>
+
+1208
+02:03:07,119 --> 02:03:08,577
+<i>on human factors.</i>
+
+1209
+02:03:09,994 --> 02:03:11,160
+<i>I was trapped.</i>
+
+1210
+02:03:13,660 --> 02:03:15,326
+<i>Then the 800 crashed.</i>
+
+1211
+02:03:16,160 --> 02:03:18,910
+<i>This time, he asked me
+to alter the black boxes.</i>
+
+1212
+02:03:19,618 --> 02:03:22,368
+<i>A fresh twist
+in the Dubai-Paris crash.</i>
+
+1213
+02:03:22,410 --> 02:03:26,618
+<i>A BEA investigator's revelations
+have created an upheaval.</i>
+
+1214
+02:03:26,660 --> 02:03:29,452
+<i>It seems hacking led to the tragedy,</i>
+
+1215
+02:03:29,493 --> 02:03:31,618
+<i>with the black boxes altered.</i>
+
+1216
+02:03:31,660 --> 02:03:35,660
+<i>We're now joining the head of the BEA,
+Philippe Rénier.</i>
+
+1217
+02:03:36,285 --> 02:03:39,535
+<i>The BEA has received
+a copy of the recording</i>
+
+1218
+02:03:39,577 --> 02:03:42,410
+<i>of the Dubai-Paris
+cockpit conversations.</i>
+
+1219
+02:03:43,201 --> 02:03:45,243
+<i>If it proves to be authentic,</i>
+
+1220
+02:03:45,285 --> 02:03:48,368
+<i>it will confirm our latest findings...</i>
+
+1221
+02:04:39,243 --> 02:04:43,326
+BLACK BOX
+
+1222
+02:04:45,229 --> 02:04:50,229
+<font color="#ffff00">Provided by explosiveskull</font>
+https://twitter.com/kaboomskull
+
+1222
+02:04:51,305 --> 02:05:51,498
+Please rate this subtitle at www.osdb.link/9jts6
+Help other users to choose the best subtitles
