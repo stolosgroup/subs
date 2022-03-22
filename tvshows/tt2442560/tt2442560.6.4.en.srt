@@ -1,0 +1,2733 @@
+1
+00:00:02,000 --> 00:00:03,600
+{\an8}<font color="#00ff00ff">My brother sends his apologies</font>
+<font color="#00ff00ff">for not being here</font>
+
+2
+00:00:03,640 --> 00:00:05,560
+{\an8}<font color="#00ff00ff">and would like to invite all of you</font>
+<font color="#00ff00ff">to his home for a meeting.</font>
+
+3
+00:00:05,600 --> 00:00:08,480
+<font color="#ffffffff">All you have to do is sit with</font>
+<font color="#ffffffff">Jack Nelson and talk about</font>
+
+4
+00:00:08,520 --> 00:00:10,000
+<font color="#ffffffff">a new golden age.</font>
+
+5
+00:00:10,040 --> 00:00:12,560
+<font color="#00ffffff">If anyone is going to kill</font>
+<font color="#00ffffff">Tommy Shelby...</font><font color="#ffff00ff"> It will be you.</font>
+
+6
+00:00:12,600 --> 00:00:14,800
+<font color="#ffff00ff">The future belongs to us.</font>
+
+7
+00:00:14,840 --> 00:00:17,000
+<font color="#ffffffff">Your daughter has Consumption.</font>
+
+8
+00:00:17,040 --> 00:00:19,000
+<font color="#ffffffff">Consumption is a very</font>
+<font color="#ffffffff">infectious disease.</font>
+
+9
+00:00:19,040 --> 00:00:21,160
+<font color="#00ffffff">While they X-ray Ruby,</font>
+<font color="#00ffffff">they have to X-ray us.</font>
+
+10
+00:00:21,200 --> 00:00:23,200
+<font color="#ffff00ff">It'll be the girl's mother who laid</font>
+<font color="#ffff00ff">the curse.</font>
+
+11
+00:00:23,240 --> 00:00:25,320
+<font color="#ffff00ff">Perhaps she waited until your little</font>
+<font color="#ffff00ff">girl was seven</font>
+
+12
+00:00:25,360 --> 00:00:26,600
+<font color="#ffff00ff">so you'd know how it feels.</font>
+
+13
+00:00:26,640 --> 00:00:29,240
+<font color="#ffffffff">Now that I'm without whisky, I can</font>
+<font color="#ffffffff">hear the spirits clearly</font>
+
+14
+00:00:29,280 --> 00:00:31,560
+<font color="#ffffffff">and they are saying Ruby will be</font>
+<font color="#ffffffff">well if I make amends.</font>
+
+15
+00:00:31,600 --> 00:00:33,160
+<font color="#00ffffff">She's gone, Tommy.</font>
+
+16
+00:00:40,160 --> 00:00:41,200
+<font color="#ffffffff">LATCH CLUNKS</font>
+
+17
+00:00:42,200 --> 00:00:44,600
+<font color="#ffffffff">DOOR CREAKS</font>
+
+18
+00:00:44,640 --> 00:00:47,080
+<font color="#ffffffff">WIND GENTLY WHISTLES</font>
+
+19
+00:00:49,000 --> 00:00:55,074
+Support us and become VIP member 
+to remove all ads from www.OpenSubtitles.org
+
+20
+00:00:56,760 --> 00:01:07,800
+<font color="#ffffffff"># In this heart lies for you</font>
+
+21
+00:01:07,840 --> 00:01:16,640
+<font color="#ffffffff"># A lark born only for you</font>
+
+22
+00:01:16,680 --> 00:01:25,520
+<font color="#ffffffff"># Who sings only to you</font>
+
+23
+00:01:25,560 --> 00:01:29,880
+<font color="#ffffffff"># My love, my love</font>
+
+24
+00:01:29,920 --> 00:01:33,880
+<font color="#ffffffff"># My love</font>
+
+25
+00:01:33,920 --> 00:01:45,800
+<font color="#ffffffff"># I am waiting for you</font>
+
+26
+00:01:45,840 --> 00:01:54,920
+<font color="#ffffffff"># For only to adore you</font>
+
+27
+00:01:54,960 --> 00:01:59,720
+<font color="#ffffffff"># My heart is for you</font>
+
+28
+00:01:59,760 --> 00:02:04,800
+<font color="#ffffffff"># My love, my love</font>
+
+29
+00:02:04,840 --> 00:02:09,120
+<font color="#ffffffff"># My love</font>
+
+30
+00:02:09,160 --> 00:02:20,840
+<font color="#ffffffff"># This is my grief for you</font>
+
+31
+00:02:20,880 --> 00:02:32,640
+<font color="#ffffffff"># I will have you with me</font>
+
+32
+00:02:32,680 --> 00:02:42,480
+<font color="#ffffffff"># In my arms only</font>
+
+33
+00:02:42,520 --> 00:02:49,360
+<font color="#ffffffff"># For you are only</font>
+
+34
+00:02:49,400 --> 00:02:55,520
+<font color="#ffffffff"># My love, my love</font>
+
+35
+00:02:55,560 --> 00:03:01,800
+<font color="#ffffffff"># My love. #</font>
+
+36
+00:03:07,520 --> 00:03:10,320
+<font color="#ffffffff">WIND SOFTLY WHISTLES</font>
+
+37
+00:03:24,000 --> 00:03:25,240
+<font color="#ffffffff">Arthur.</font>
+
+38
+00:03:27,800 --> 00:03:29,400
+<font color="#ffffffff">I've written some words.</font>
+
+39
+00:03:31,200 --> 00:03:32,360
+<font color="#ffffffff">I can't speak 'em.</font>
+
+40
+00:03:34,040 --> 00:03:35,280
+<font color="#ffffffff">ARTHUR EXHALES SHARPLY</font>
+
+41
+00:03:35,320 --> 00:03:36,920
+<font color="#ffffffff">You're the oldest.</font>
+
+42
+00:03:36,960 --> 00:03:38,880
+<font color="#ffffffff">You speak 'em for me.</font>
+<font color="#ffffffff">ARTHUR EXHALES SHARPLY</font>
+
+43
+00:03:47,760 --> 00:03:51,280
+<font color="#ffff00ff">I'm sorry, brother. I can't do it.</font>
+
+44
+00:03:56,760 --> 00:03:58,920
+<font color="#ffffffff">CREAKING</font>
+
+45
+00:04:21,680 --> 00:04:23,920
+<font color="#ffffffff">We could have afforded</font>
+<font color="#ffffffff">a golden carriage.</font>
+
+46
+00:04:28,600 --> 00:04:30,400
+<font color="#ffffffff">She deserved a golden carriage.</font>
+
+47
+00:04:35,240 --> 00:04:37,560
+<font color="#ffffffff">But we didn't afford ourselves</font>
+<font color="#ffffffff">that luxury.</font>
+
+48
+00:04:41,280 --> 00:04:42,800
+<font color="#ffffffff">Because gold doesn't work.</font>
+
+49
+00:04:48,840 --> 00:04:51,280
+<font color="#ffffffff">That was the last lesson</font>
+<font color="#ffffffff">that Ruby taught us.</font>
+
+50
+00:04:57,400 --> 00:04:59,440
+<font color="#ffffffff">LAMP CREAKS</font>
+
+51
+00:05:07,000 --> 00:05:11,640
+<font color="#ffffffff">This place was her favourite place</font>
+<font color="#ffffffff">in the whole world.</font>
+
+52
+00:05:11,680 --> 00:05:13,360
+<font color="#ffffffff">And she used to say...</font>
+
+53
+00:05:14,720 --> 00:05:15,960
+<font color="#ffffffff">.."Dad...</font>
+
+54
+00:05:18,800 --> 00:05:21,280
+<font color="#ffffffff">.."you never know what's going to</font>
+<font color="#ffffffff">come down the river."</font>
+
+55
+00:05:23,360 --> 00:05:24,600
+<font color="#ffffffff">And it's true.</font>
+
+56
+00:05:26,920 --> 00:05:31,000
+<font color="#ffffffff">Little Ruby's fate came</font>
+<font color="#ffffffff">a thousand miles too soon.</font>
+
+57
+00:05:35,720 --> 00:05:39,880
+<font color="#ffffffff">But in her name and in her memory</font>
+<font color="#ffffffff">things will change.</font>
+
+58
+00:05:43,320 --> 00:05:47,800
+<font color="#ffffffff">And whatever comes down the river</font>
+<font color="#ffffffff">from now on we will make good...</font>
+
+59
+00:05:51,560 --> 00:05:53,920
+<font color="#ffffffff">..we will make peaceful and honest</font>
+<font color="#ffffffff">and good</font>
+
+60
+00:05:53,960 --> 00:05:56,240
+<font color="#ffffffff">and send it on down the river</font>
+<font color="#ffffffff">better than it was.</font>
+
+61
+00:05:56,280 --> 00:05:58,000
+<font color="#ffffffff">In her memory we will do this.</font>
+
+62
+00:06:03,920 --> 00:06:05,440
+<font color="#ffffffff">HE SNIFFLES</font>
+
+63
+00:06:06,680 --> 00:06:12,720
+<font color="#ffffffff">But for now, we send her on,</font>
+<font color="#ffffffff">to wherever it is you go...</font>
+
+64
+00:06:15,040 --> 00:06:17,160
+<font color="#ffffffff">..in the hope that if there</font>
+<font color="#ffffffff">is a destination...</font>
+
+65
+00:06:19,840 --> 00:06:22,080
+<font color="#ffffffff">..that it's a yard like this,</font>
+
+66
+00:06:22,120 --> 00:06:25,800
+<font color="#ffffffff">with horses and boats for her</font>
+<font color="#ffffffff">to play on.</font>
+
+67
+00:06:38,680 --> 00:06:41,680
+<font color="#ffff00ff">Tom, I've got the petrol.</font>
+
+68
+00:06:41,720 --> 00:06:43,480
+<font color="#ffffffff">TOM EXHALES SHARPLY</font>
+
+69
+00:06:43,520 --> 00:06:45,120
+<font color="#ffff00ff">Who will light the flame?</font>
+
+70
+00:06:50,520 --> 00:06:51,840
+<font color="#ffffffff">Jeremiah?</font>
+
+71
+00:06:58,040 --> 00:07:01,680
+<font color="#ffffffff">Jeremiah, you made her laugh.</font>
+
+72
+00:07:01,720 --> 00:07:03,280
+<font color="#ffffffff">You light the flame.</font>
+
+73
+00:07:03,320 --> 00:07:06,400
+<font color="#00ffffff">No, no! No!</font><font color="#ffffffff"> Lizzie...</font>
+
+74
+00:07:06,440 --> 00:07:09,840
+<font color="#00ffffff">No, you won't burn her! No!</font>
+
+75
+00:07:09,880 --> 00:07:11,200
+<font color="#ffffffff">Lizzie, shush, shush, shush!</font>
+
+76
+00:07:11,240 --> 00:07:14,320
+<font color="#ffffffff">SHE SOBS</font>
+
+77
+00:07:14,360 --> 00:07:16,600
+<font color="#00ffffff">I just want to see her.</font>
+
+78
+00:07:16,640 --> 00:07:19,640
+<font color="#00ffffff">I just want to see her face.</font><font color="#ffffffff"> We'll</font>
+<font color="#ffffffff">go and see her together. Come on.</font>
+
+79
+00:07:19,680 --> 00:07:21,880
+<font color="#ffffffff">We'll go and see her together.</font><font color="#00ffffff"> Yeah.</font>
+
+80
+00:07:21,920 --> 00:07:25,000
+<font color="#ffffffff">SHE CRIES</font>
+
+81
+00:07:33,560 --> 00:07:34,880
+<font color="#00ffffff">Oh, my baby.</font>
+
+82
+00:07:34,920 --> 00:07:36,400
+<font color="#ffffffff">SHE SNIFFLES</font>
+
+83
+00:07:45,120 --> 00:07:46,720
+<font color="#ffffffff">SHE SNIFFLES</font>
+
+84
+00:07:54,880 --> 00:07:57,120
+<font color="#ffffffff">The devils who did this will pay,</font>
+<font color="#ffffffff">Ruby.</font>
+
+85
+00:08:01,360 --> 00:08:02,720
+<font color="#00ffffff">What do you mean?</font>
+
+86
+00:08:06,120 --> 00:08:07,480
+<font color="#00ffffff">What do you mean?</font>
+
+87
+00:08:09,240 --> 00:08:10,560
+<font color="#00ffffff">Where are you going?</font>
+
+88
+00:08:48,360 --> 00:08:51,360
+<font color="#ffffffff">THEY MOUTH SILENTLY</font>
+
+89
+00:08:52,840 --> 00:08:55,240
+<font color="#ffffffff">SHE MOUTHS SILENTLY</font>
+
+90
+00:09:13,000 --> 00:09:16,040
+<font color="#ffffffff">SHE MOUTHS SILENTLY</font>
+
+91
+00:09:38,040 --> 00:09:40,840
+<font color="#ffffffff">BIRDS SQUAWK</font>
+
+92
+00:09:51,320 --> 00:09:54,280
+<font color="#ffffffff">VEHICLE APPROACHES</font>
+
+93
+00:10:00,080 --> 00:10:02,800
+<font color="#ffffffff">DOOR OPENS, CLOSES</font>
+
+94
+00:10:02,840 --> 00:10:05,920
+<font color="#ffff00ff">Riley, I think the police are here.</font>
+
+95
+00:10:08,360 --> 00:10:09,680
+<font color="#ffffffff">Evadne Barwell?</font>
+
+96
+00:10:11,280 --> 00:10:13,880
+<font color="#ffff00ff">Yeah. Who's asking?</font>
+
+97
+00:10:13,920 --> 00:10:15,160
+<font color="#ffffffff">HE COCKS GUN</font>
+
+98
+00:10:15,200 --> 00:10:17,040
+<font color="#ffffffff">I am here on behalf of</font>
+<font color="#ffffffff">the blue sapphire.</font>
+
+99
+00:10:18,360 --> 00:10:20,880
+<font color="#ffffffff">SCREAMING</font>
+
+100
+00:10:27,400 --> 00:10:29,760
+<font color="#ffff00ff">Don't shoot! There are babies!</font>
+
+101
+00:10:29,800 --> 00:10:32,240
+<font color="#ffffffff">SHRIEKING, BABY CRIES</font>
+
+102
+00:10:35,960 --> 00:10:37,880
+<font color="#ffffffff">HE EXHALES SHARPLY</font>
+
+103
+00:10:50,800 --> 00:10:54,480
+<font color="#ffffffff"># From the silence</font>
+
+104
+00:10:54,520 --> 00:10:58,080
+<font color="#ffffffff"># From the night</font>
+
+105
+00:10:58,120 --> 00:11:04,960
+<font color="#ffffffff"># Comes a distant lullaby</font>
+
+106
+00:11:06,840 --> 00:11:10,760
+<font color="#ffffffff"># Cry, remember that first cry</font>
+
+107
+00:11:10,800 --> 00:11:14,360
+<font color="#ffffffff"># Your brother standing by</font>
+
+108
+00:11:14,400 --> 00:11:21,320
+<font color="#ffffffff"># And lot of loved</font>
+
+109
+00:11:21,360 --> 00:11:29,280
+<font color="#ffffffff"># Beloved sons of mine</font>
+
+110
+00:11:30,640 --> 00:11:36,800
+<font color="#ffffffff"># Sing a lullaby</font>
+
+111
+00:11:38,400 --> 00:11:45,120
+<font color="#ffffffff"># Mother is close by</font>
+
+112
+00:11:45,160 --> 00:11:48,280
+<font color="#ffffffff"># Innocent date</font>
+
+113
+00:11:48,320 --> 00:11:54,560
+<font color="#ffffffff"># Such innocent eyes...</font>
+
+114
+00:11:54,600 --> 00:11:55,920
+<font color="#ffffffff">HE EXHALES SHARPLY</font>
+
+115
+00:11:55,960 --> 00:12:01,800
+<font color="#ffffffff"># Envy stole your brother's life</font>
+
+116
+00:12:01,840 --> 00:12:09,160
+<font color="#ffffffff"># Came home murdered piece of mind</font>
+
+117
+00:12:13,520 --> 00:12:16,320
+<font color="#ffffffff">HE EXHALES AND GRUNTS</font>
+
+118
+00:12:16,360 --> 00:12:24,320
+<font color="#ffffffff"># Left you nightmares</font>
+<font color="#ffffffff">on the pillow. #</font>
+
+119
+00:12:31,720 --> 00:12:34,440
+<font color="#ffffffff">ENGINE RUNS</font>
+
+120
+00:12:40,920 --> 00:12:42,560
+<font color="#ffffffff">ENGINE STOPS</font>
+
+121
+00:12:43,520 --> 00:12:45,160
+<font color="#ffffffff">HE EXHALES SHARPLY</font>
+
+122
+00:12:59,520 --> 00:13:01,280
+<font color="#ffffffff">Gold dust.</font>
+
+123
+00:13:01,320 --> 00:13:04,920
+<font color="#ffffffff">Our business is done, Esme.</font>
+<font color="#ffffffff">Get out of the car.</font>
+
+124
+00:13:04,960 --> 00:13:06,200
+<font color="#ffff00ff">Not quite done, Tommy.</font>
+
+125
+00:13:07,360 --> 00:13:11,120
+<font color="#ffff00ff">I thought this would be a good time.</font>
+<font color="#ffff00ff">In fact, it's the perfect time.</font>
+
+126
+00:13:12,320 --> 00:13:14,160
+<font color="#ffff00ff">Some business is still unfinished.</font>
+
+127
+00:13:16,280 --> 00:13:19,880
+<font color="#ffff00ff">Christians say, "The Lord gives,</font>
+<font color="#ffff00ff">the Lord takes away."</font>
+
+128
+00:13:19,920 --> 00:13:21,920
+<font color="#ffff00ff">Our spirits are the same.</font>
+
+129
+00:13:21,960 --> 00:13:24,160
+<font color="#ffff00ff">Spirits just took away your child.</font>
+
+130
+00:13:24,200 --> 00:13:26,120
+<font color="#ffffffff">Get out of the car, Esme.</font>
+<font color="#ffffffff">ENGINE STARTS</font>
+
+131
+00:13:26,160 --> 00:13:29,120
+<font color="#ffff00ff">But those same spirits want to give</font>
+<font color="#ffff00ff">you a different child, Tommy.</font>
+
+132
+00:13:29,160 --> 00:13:32,200
+<font color="#ffffffff">HE SIGHS</font>
+<font color="#ffffffff">What child?</font>
+
+133
+00:13:32,240 --> 00:13:33,800
+<font color="#ffffffff">ENGINE STOPS</font>
+
+134
+00:13:33,840 --> 00:13:36,080
+<font color="#ffff00ff">A daughter lost.</font>
+
+135
+00:13:36,120 --> 00:13:37,400
+<font color="#ffff00ff">A son found.</font>
+
+136
+00:13:40,400 --> 00:13:42,040
+<font color="#ffff00ff">Before you went to France,</font>
+
+137
+00:13:42,080 --> 00:13:45,400
+<font color="#ffff00ff">a long time ago at Appleby Fair</font>
+<font color="#ffff00ff">you slept with a girl.</font>
+
+138
+00:13:45,440 --> 00:13:47,960
+<font color="#ffff00ff">Her name was Zelda. I met her.</font>
+
+139
+00:13:49,400 --> 00:13:52,920
+<font color="#ffff00ff">She said you slept together under</font>
+<font color="#ffff00ff">a hazel tree, May 1914.</font>
+
+140
+00:13:54,920 --> 00:13:59,360
+<font color="#ffff00ff">When she fell pregnant, her father</font>
+<font color="#ffff00ff">threatened to kill you,</font>
+
+141
+00:13:59,400 --> 00:14:02,400
+<font color="#ffff00ff">but you'd already joined the army</font>
+<font color="#ffff00ff">and gone away to France.</font>
+
+142
+00:14:06,000 --> 00:14:09,120
+<font color="#ffff00ff">You remember the girl and the</font>
+<font color="#ffff00ff">hazel tree, don't you, Tommy.</font>
+
+143
+00:14:13,000 --> 00:14:15,600
+<font color="#ffffffff">Whoever that boy is, Esme...</font>
+
+144
+00:14:17,040 --> 00:14:19,320
+<font color="#ffffffff">..whoever he is, our business is</font>
+<font color="#ffffffff">done here.</font><font color="#ffff00ff"> I brought you</font>
+
+145
+00:14:19,360 --> 00:14:22,840
+<font color="#ffff00ff">to this camp for a reason, and I</font>
+<font color="#ffff00ff">brought him as well.</font>
+
+146
+00:14:22,880 --> 00:14:24,040
+<font color="#ffff00ff">He is yours.</font>
+
+147
+00:14:25,440 --> 00:14:28,120
+<font color="#ffff00ff">A boy born with hazel eyes.</font>
+
+148
+00:14:28,160 --> 00:14:29,640
+<font color="#ffff00ff">He calls himself Duke.</font>
+
+149
+00:14:31,920 --> 00:14:34,960
+<font color="#ffff00ff">His mother is dead. He's a thief.</font>
+
+150
+00:14:35,000 --> 00:14:36,520
+<font color="#ffff00ff">He works the fairgrounds, but he</font>
+
+151
+00:14:36,560 --> 00:14:39,640
+<font color="#ffff00ff">says he wants more to his life than</font>
+<font color="#ffff00ff">big wheels and carousels.</font>
+
+152
+00:14:43,280 --> 00:14:45,760
+<font color="#ffff00ff">If the losing of Ruby has left</font>
+<font color="#ffff00ff">a hole in your heart...</font>
+
+153
+00:14:47,400 --> 00:14:49,280
+<font color="#ffff00ff">..I'll send him to you.</font>
+
+154
+00:14:50,760 --> 00:14:52,440
+<font color="#ffff00ff">If you give me a bit more gold...</font>
+
+155
+00:14:54,360 --> 00:14:57,560
+<font color="#ffff00ff">..I'll tell him Tommy Shelby</font>
+<font color="#ffff00ff">can offer a man far,</font>
+
+156
+00:14:57,600 --> 00:15:00,160
+<font color="#ffff00ff">far more than big wheels</font>
+<font color="#ffff00ff">and carousels.</font>
+
+157
+00:15:00,200 --> 00:15:02,480
+<font color="#ffffffff">HE EXHALES SHARPLY</font>
+
+158
+00:15:02,520 --> 00:15:04,360
+<font color="#ffff00ff">Is our business done or not, Tommy?</font>
+
+159
+00:15:32,320 --> 00:15:33,920
+<font color="#00ffffff">I know where you went.</font>
+
+160
+00:15:47,760 --> 00:15:49,880
+<font color="#ffffffff">I'm going to spend more hours</font>
+<font color="#ffffffff">working in the Commons</font>
+
+161
+00:15:49,920 --> 00:15:51,000
+<font color="#ffffffff">with Mr Churchill.</font>
+
+162
+00:15:51,040 --> 00:15:52,280
+<font color="#ffffffff">His fight is my fight.</font>
+
+163
+00:15:52,320 --> 00:15:55,160
+<font color="#00ffffff">I sat like a stone and thought about</font>
+<font color="#00ffffff">you killing someone in her name.</font>
+
+164
+00:15:55,200 --> 00:15:57,800
+<font color="#ffffffff">And the Shelby institutions</font>
+<font color="#ffffffff">will be expanded.</font>
+
+165
+00:15:59,120 --> 00:16:02,240
+<font color="#ffffffff">I will set up a fund to research the</font>
+<font color="#ffffffff">causes and cures for Consumption.</font>
+
+166
+00:16:02,280 --> 00:16:04,080
+<font color="#00ffffff">Did the woman you kill</font>
+<font color="#00ffffff">have children?</font>
+
+167
+00:16:04,120 --> 00:16:07,440
+<font color="#ffffffff">10,000 children die every year,</font>
+<font color="#ffffffff">Lizzie.</font><font color="#00ffffff"> Go to bed, Tommy.</font>
+
+168
+00:16:07,480 --> 00:16:09,080
+<font color="#ffffffff">I've been reading about new</font>
+<font color="#ffffffff">research.</font>
+
+169
+00:16:09,120 --> 00:16:11,680
+<font color="#00ffffff">Stop and close your fucking eyes.</font>
+<font color="#ffffffff">I will not...</font>
+
+170
+00:16:11,720 --> 00:16:13,320
+<font color="#ffffffff">I will not stop!</font>
+
+171
+00:16:13,360 --> 00:16:15,680
+<font color="#00ffffff">What is this good that you</font>
+<font color="#00ffffff">will become?</font>
+
+172
+00:16:18,680 --> 00:16:20,640
+<font color="#ffffffff">SHE BREATHES DEEPLY</font>
+
+173
+00:16:25,880 --> 00:16:27,600
+<font color="#ffffffff">I killed a woman.</font>
+
+174
+00:16:28,720 --> 00:16:30,680
+<font color="#ffffffff">I killed a woman and three men.</font>
+
+175
+00:16:30,720 --> 00:16:33,200
+<font color="#ffffffff">And their bodies will be thrown</font>
+<font color="#ffffffff">aboard the boat,</font>
+
+176
+00:16:33,240 --> 00:16:34,640
+<font color="#ffffffff">like all the other bodies,</font>
+
+177
+00:16:34,680 --> 00:16:37,400
+<font color="#ffffffff">but I am stepping off that boat</font>
+<font color="#ffffffff">and onto another boat.</font>
+
+178
+00:16:39,240 --> 00:16:40,520
+<font color="#ffffffff">Do you understand?</font>
+
+179
+00:16:43,560 --> 00:16:44,840
+<font color="#00ffffff">Yeah.</font>
+
+180
+00:16:56,200 --> 00:16:58,640
+<font color="#00ffffff">The doctor from the Sanatorium</font>
+<font color="#00ffffff">called and said that he needs</font>
+
+181
+00:16:58,680 --> 00:17:00,640
+<font color="#00ffffff">to speak to you urgently.</font>
+
+182
+00:17:02,800 --> 00:17:05,920
+<font color="#00ffffff">But I think now you are beyond</font>
+<font color="#00ffffff">the help of doctors.</font><font color="#ffffffff"> Lizzie...</font>
+
+183
+00:17:09,480 --> 00:17:11,160
+<font color="#00ffffff">Frances said Arthur's here.</font>
+
+184
+00:17:43,880 --> 00:17:45,000
+<font color="#ffff00ff">Tommy?</font>
+
+185
+00:17:46,920 --> 00:17:48,520
+<font color="#ffff00ff">Tom?</font><font color="#ffffffff"> Yeah, it's me.</font>
+
+186
+00:17:50,040 --> 00:17:51,160
+<font color="#ffff00ff">Ah, fuck.</font>
+
+187
+00:18:10,760 --> 00:18:12,400
+<font color="#ffffffff">Arthur, give me a light, will you?</font>
+
+188
+00:18:13,440 --> 00:18:14,800
+<font color="#ffffffff">I can't find my lighter.</font>
+
+189
+00:18:16,320 --> 00:18:17,920
+<font color="#ffffffff">HE EXHALES SHARPLY</font>
+
+190
+00:18:27,240 --> 00:18:29,640
+<font color="#ffff00ff">I'm sorry I couldn't speak at the</font>
+<font color="#ffff00ff">wagon, Tom.</font>
+
+191
+00:18:40,120 --> 00:18:41,360
+<font color="#ffffffff">Don't be sorry.</font>
+
+192
+00:18:44,520 --> 00:18:45,960
+<font color="#ffffffff">What are you doing here?</font>
+
+193
+00:18:49,320 --> 00:18:52,000
+<font color="#ffff00ff">Waiting for this fucking cup</font>
+<font color="#ffff00ff">to fill up.</font>
+
+194
+00:18:56,080 --> 00:18:57,640
+<font color="#ffff00ff">Nearly empty, this barrel.</font>
+
+195
+00:18:59,360 --> 00:19:00,920
+<font color="#ffffffff">There are plenty of barrels, Arthur.</font>
+
+196
+00:19:02,400 --> 00:19:04,440
+<font color="#ffffffff">Start another barrel.</font>
+
+197
+00:19:04,480 --> 00:19:07,000
+<font color="#ffff00ff">I thought maybe they're all full</font>
+<font color="#ffff00ff">of fucking blood.</font>
+
+198
+00:19:11,000 --> 00:19:12,600
+<font color="#ffff00ff">The junk, Tom...</font>
+
+199
+00:19:14,560 --> 00:19:16,160
+<font color="#ffff00ff">..fucks you up your mind.</font>
+
+200
+00:19:20,560 --> 00:19:21,960
+<font color="#ffffffff">You know, Arthur.</font>
+
+201
+00:19:24,400 --> 00:19:26,200
+<font color="#ffffffff">You was already fucked up.</font>
+
+202
+00:19:28,600 --> 00:19:31,520
+<font color="#ffffffff">You was fucked up since you</font>
+<font color="#ffffffff">were a kid.</font>
+
+203
+00:19:33,520 --> 00:19:34,880
+<font color="#ffffffff">This is my theory.</font>
+
+204
+00:19:38,840 --> 00:19:40,560
+<font color="#ffffffff">It's from that time I gave you</font>
+
+205
+00:19:40,600 --> 00:19:43,080
+<font color="#ffffffff">a beating when you were 12</font>
+<font color="#ffffffff">and I was nine.</font>
+
+206
+00:19:44,520 --> 00:19:46,320
+<font color="#ffffffff">We were fighting over cigarettes.</font>
+
+207
+00:19:48,880 --> 00:19:53,800
+<font color="#ffffffff">Maybe when I had you down</font>
+<font color="#ffffffff">on the ground,</font>
+
+208
+00:19:53,840 --> 00:19:56,920
+<font color="#ffffffff">I gave you one too many to</font>
+<font color="#ffffffff">the head.</font>
+
+209
+00:19:56,960 --> 00:19:59,720
+<font color="#ffff00ff">It was a draw, though, Tom.</font>
+
+210
+00:19:59,760 --> 00:20:02,760
+<font color="#ffffffff">Nah, I beat you.</font>
+
+211
+00:20:04,200 --> 00:20:07,320
+<font color="#ffffffff">I had you pinned.</font>
+<font color="#ffff00ff">You actually didn't.</font>
+
+212
+00:20:09,360 --> 00:20:13,320
+<font color="#ffff00ff">We both agreed.</font><font color="#ffffffff"> You're so fucked,</font>
+<font color="#ffffffff">you can't remember, brother.</font>
+
+213
+00:20:15,280 --> 00:20:18,640
+<font color="#ffff00ff">I do. I do remember little things.</font>
+
+214
+00:20:18,680 --> 00:20:20,240
+<font color="#ffffffff">I know you do.</font>
+
+215
+00:20:21,400 --> 00:20:22,680
+<font color="#ffffffff">So, do I.</font>
+
+216
+00:20:23,880 --> 00:20:25,680
+<font color="#ffffffff">The fog and the gas is clearing, eh?</font>
+
+217
+00:20:37,960 --> 00:20:39,280
+<font color="#ffffffff">TOMMY COUGHS</font>
+
+218
+00:21:17,960 --> 00:21:20,280
+<font color="#ffffffff">Here, that cup's nearly full.</font>
+<font color="#ffffffff">Pass it here.</font>
+
+219
+00:21:24,560 --> 00:21:25,720
+<font color="#ffff00ff">That's...</font>
+
+220
+00:21:28,560 --> 00:21:30,480
+<font color="#ffff00ff">Tommy...stuff any more.</font>
+
+221
+00:21:32,840 --> 00:21:34,920
+<font color="#ffff00ff">You don't drink no more, Tom.</font>
+
+222
+00:21:58,440 --> 00:22:00,880
+<font color="#ffffffff">After Polly was gone, Arthur...</font>
+
+223
+00:22:02,200 --> 00:22:04,160
+<font color="#ffffffff">..I thought I could just march</font>
+<font color="#ffffffff">and march.</font>
+
+224
+00:22:05,560 --> 00:22:07,320
+<font color="#ffffffff">I just kept up that fucking left,</font>
+
+225
+00:22:07,360 --> 00:22:09,960
+<font color="#ffffffff">right, left, right, left, right,</font>
+<font color="#ffffffff">fucking rhythm.</font>
+
+226
+00:22:11,240 --> 00:22:12,720
+<font color="#ffffffff">I'd never have to stop.</font>
+
+227
+00:22:15,440 --> 00:22:16,960
+<font color="#ffffffff">Then Ruby went.</font>
+
+228
+00:22:20,880 --> 00:22:22,360
+<font color="#ffffffff">I stumbled and crashed.</font>
+
+229
+00:22:28,120 --> 00:22:29,720
+<font color="#ffffffff">And now here I am...</font>
+
+230
+00:22:31,440 --> 00:22:36,200
+<font color="#ffffffff">..sat on my arse on the ground</font>
+
+231
+00:22:36,240 --> 00:22:38,440
+<font color="#ffffffff">like a fucking tunneller..</font>
+
+232
+00:22:40,640 --> 00:22:42,800
+<font color="#ffffffff">..with my old comrade Arthur.</font>
+
+233
+00:22:47,640 --> 00:22:49,280
+<font color="#ffffffff">Remember the January, Arthur?</font>
+
+234
+00:22:51,920 --> 00:22:53,160
+<font color="#ffffffff">The family boat?</font>
+
+235
+00:22:54,920 --> 00:22:56,680
+<font color="#ffffffff">The whole family living on something</font>
+
+236
+00:22:56,720 --> 00:22:59,000
+<font color="#ffffffff">the size of ten of these</font>
+<font color="#ffffffff">fucking barrels.</font>
+
+237
+00:23:02,720 --> 00:23:06,960
+<font color="#ffffffff">Remember that night at Tile Cross,</font>
+
+238
+00:23:07,000 --> 00:23:10,440
+<font color="#ffffffff">16 of us sleeping on the boat,</font>
+<font color="#ffffffff">the coppers come.</font>
+
+239
+00:23:11,760 --> 00:23:13,240
+<font color="#ffffffff">We all swam like rats.</font>
+
+240
+00:23:14,240 --> 00:23:16,040
+<font color="#ffffffff">Except for Arthur.</font>
+
+241
+00:23:16,080 --> 00:23:20,840
+<font color="#ffffffff">Arthur holds them off with</font>
+<font color="#ffffffff">a boat hook, all on his own.</font>
+
+242
+00:23:22,800 --> 00:23:24,840
+<font color="#ffffffff">And I remember,</font>
+
+243
+00:23:24,880 --> 00:23:27,440
+<font color="#ffffffff">I climbed back up at the lock</font>
+<font color="#ffffffff">and looked back</font>
+
+244
+00:23:27,480 --> 00:23:30,560
+<font color="#ffffffff">and saw you waving that</font>
+<font color="#ffffffff">fucking boat hook</font>
+
+245
+00:23:30,600 --> 00:23:33,600
+<font color="#ffffffff">in the copper's faces...</font>
+<font color="#ffffffff">ARTHUR CHUCKLES</font>
+
+246
+00:23:33,640 --> 00:23:34,880
+<font color="#ffffffff">..on your own.</font>
+
+247
+00:23:36,240 --> 00:23:37,760
+<font color="#ffffffff">That's when I realised.</font>
+
+248
+00:23:39,640 --> 00:23:44,160
+<font color="#ffffffff">When I had you on the ground,</font>
+<font color="#ffffffff">all them years ago,</font>
+
+249
+00:23:44,200 --> 00:23:46,360
+<font color="#ffffffff">it's because you let me win.</font>
+
+250
+00:23:49,920 --> 00:23:51,720
+<font color="#ffffffff">You wanted me to win.</font>
+
+251
+00:23:55,600 --> 00:23:57,800
+<font color="#ffffffff">you've wanted me to win ever since.</font>
+
+252
+00:24:00,080 --> 00:24:06,720
+<font color="#ffff00ff">What chance do I have...if you start</font>
+<font color="#ffff00ff">doing that again, eh?</font>
+
+253
+00:24:08,680 --> 00:24:10,880
+<font color="#ffffffff">You'll stop.</font>
+
+254
+00:24:10,920 --> 00:24:14,000
+<font color="#ffffffff">You'll stop cos the family</font>
+<font color="#ffffffff">needs you to.</font>
+
+255
+00:24:15,400 --> 00:24:17,760
+<font color="#ffffffff">It's like that long tunnel</font>
+<font color="#ffffffff">on the Dudley stretch.</font>
+
+256
+00:24:18,920 --> 00:24:20,760
+<font color="#ffffffff">You remember Dudley canal,</font>
+<font color="#ffffffff">line number one?</font>
+
+257
+00:24:20,800 --> 00:24:25,720
+<font color="#ffffffff">3,172 yards of fucking</font>
+<font color="#ffffffff">pitch blackness and rats swimming.</font>
+
+258
+00:24:25,760 --> 00:24:28,280
+<font color="#ffff00ff">Yeah.</font><font color="#ffffffff"> Then we'd come round that</font>
+<font color="#ffffffff">corner and there'd be</font>
+
+259
+00:24:28,320 --> 00:24:31,000
+<font color="#ffffffff">a shaft of light.</font>
+<font color="#ffffffff">And then we'd know.</font>
+
+260
+00:24:32,760 --> 00:24:35,720
+<font color="#ffff00ff">Yeah.</font><font color="#ffffffff"> And you and me would both know</font>
+<font color="#ffffffff">it was nearly done.</font>
+
+261
+00:24:39,440 --> 00:24:41,040
+<font color="#ffffffff">That's where we are now, Arthur.</font>
+
+262
+00:24:43,360 --> 00:24:45,040
+<font color="#ffffffff">Just a few more yards to go.</font>
+
+263
+00:24:47,680 --> 00:24:49,280
+<font color="#ffffffff">Then you'll change your ways.</font>
+
+264
+00:24:52,840 --> 00:24:55,080
+<font color="#ffffffff">And I'll change the fucking world.</font>
+
+265
+00:25:08,440 --> 00:25:14,440
+<font color="#ffff00ff"># Like a slumber</font>
+<font color="#ffff00ff">In the moss</font>
+
+266
+00:25:14,480 --> 00:25:21,200
+<font color="#ffff00ff"># Like a display</font>
+<font color="#ffff00ff">In the dark</font>
+
+267
+00:25:21,240 --> 00:25:27,200
+<font color="#ffff00ff"># I have loved you</font>
+<font color="#ffff00ff">From the start</font>
+
+268
+00:25:27,240 --> 00:25:34,080
+<font color="#ffff00ff"># But there's cold veneer</font>
+<font color="#ffff00ff">near the cloud of you</font>
+
+269
+00:25:34,120 --> 00:25:38,120
+<font color="#ffff00ff"># Of you</font>
+
+270
+00:25:38,160 --> 00:25:41,320
+<font color="#ffff00ff"># Of you</font>
+
+271
+00:25:41,360 --> 00:25:44,240
+<font color="#ffff00ff"># Of you</font>
+
+272
+00:25:44,280 --> 00:25:46,440
+<font color="#ffff00ff"># Oh</font>
+
+273
+00:25:49,360 --> 00:25:55,360
+<font color="#ffff00ff"># Sit on back in thrones of blue</font>
+<font color="#ffff00ff">And inlay black, so righteous you</font>
+
+274
+00:25:55,400 --> 00:25:58,840
+<font color="#ffff00ff"># Bear cold decree</font>
+
+275
+00:25:58,880 --> 00:26:02,360
+<font color="#ffff00ff"># It's dead to me</font>
+
+276
+00:26:02,400 --> 00:26:05,840
+<font color="#ffff00ff"># Sit on through</font>
+<font color="#ffff00ff">while your mistakes loom</font>
+
+277
+00:26:05,880 --> 00:26:09,560
+<font color="#ffff00ff"># You're stone dead blind</font>
+<font color="#ffff00ff">and it's drowning all</font>
+
+278
+00:26:09,600 --> 00:26:12,280
+<font color="#ffff00ff"># Your company. #</font>
+
+279
+00:26:12,320 --> 00:26:15,080
+<font color="#00ff00ff">We assumed, at this late hour,</font>
+<font color="#00ff00ff">you would've had dinner.</font>
+
+280
+00:26:15,120 --> 00:26:18,920
+<font color="#00ff00ff">There are drinks and sandwiches, if</font>
+<font color="#00ff00ff">you want.</font><font color="#00ffffff"> We're not here to eat.</font>
+
+281
+00:26:18,960 --> 00:26:21,040
+<font color="#00ff00ff">Mr Shelby will be down shortly.</font>
+
+282
+00:26:21,080 --> 00:26:23,360
+<font color="#00ffffff">Please, tell Mr Shelby on behalf of</font>
+<font color="#00ffffff">us all</font>
+
+283
+00:26:23,400 --> 00:26:25,320
+<font color="#00ffffff">that changing the world can wait.</font>
+
+284
+00:26:25,360 --> 00:26:26,960
+<font color="#00ff00ff">He doesn't want to wait.</font>
+
+285
+00:26:27,000 --> 00:26:28,480
+<font color="#00ff00ff">There is Champagne.</font>
+
+286
+00:26:28,520 --> 00:26:29,840
+<font color="#00ffffff">Oh, goodie.</font>
+
+287
+00:26:40,520 --> 00:26:41,680
+<font color="#00ff00ff">Charles?</font>
+
+288
+00:26:44,240 --> 00:26:45,560
+<font color="#ffff00ff">I heard cars.</font>
+
+289
+00:26:50,160 --> 00:26:51,480
+<font color="#00ff00ff">Mr Shelby, the guests are...</font>
+
+290
+00:26:51,520 --> 00:26:52,720
+<font color="#ffffffff">I know.</font>
+
+291
+00:26:54,320 --> 00:26:57,800
+<font color="#ffff00ff">Dad, there's a Bentley and a</font>
+<font color="#ffff00ff">Rolls-Royce.</font>
+
+292
+00:27:00,760 --> 00:27:01,800
+<font color="#ffffffff">Yeah.</font>
+
+293
+00:27:03,960 --> 00:27:05,320
+<font color="#ffffffff">Go to bed, Charles.</font>
+
+294
+00:27:13,280 --> 00:27:14,800
+<font color="#ffff00ff">I can't sleep.</font>
+
+295
+00:27:18,240 --> 00:27:20,080
+<font color="#ffff00ff">I see her, when I shut my eyes.</font>
+
+296
+00:27:21,840 --> 00:27:23,760
+<font color="#ffffffff">Go to your mum.</font>
+
+297
+00:27:23,800 --> 00:27:25,840
+<font color="#ffffffff">She'll be awake.</font>
+
+298
+00:27:25,880 --> 00:27:27,800
+<font color="#ffff00ff">She holds on to me.</font>
+
+299
+00:27:27,840 --> 00:27:29,360
+<font color="#ffffffff">Let her hold on to you.</font>
+
+300
+00:27:30,800 --> 00:27:32,640
+<font color="#ffffffff">You hear me?</font>
+
+301
+00:27:32,680 --> 00:27:34,160
+<font color="#ffffffff">Always let her hold on to you.</font>
+
+302
+00:27:35,400 --> 00:27:36,640
+<font color="#ffffffff">Go on.</font>
+
+303
+00:27:41,480 --> 00:27:44,160
+<font color="#00ff00ff">Mr Shelby, the guests said they</font>
+<font color="#00ff00ff">would understand if...</font>
+
+304
+00:27:44,200 --> 00:27:46,240
+<font color="#ffffffff">Have you served them drinks?</font><font color="#00ff00ff"> Yes.</font>
+
+305
+00:27:46,280 --> 00:27:47,520
+<font color="#ffffffff">Yeah.</font>
+
+306
+00:28:00,120 --> 00:28:01,560
+<font color="#ffffffff">OK, Frances.</font>
+
+307
+00:28:07,120 --> 00:28:08,640
+<font color="#ffffffff">The agenda is in my head.</font>
+
+308
+00:28:10,000 --> 00:28:11,960
+<font color="#ffffffff">The agenda is in my head.</font>
+
+309
+00:28:12,960 --> 00:28:14,200
+<font color="#ffffffff">I'm OK.</font>
+
+310
+00:28:15,560 --> 00:28:16,880
+<font color="#ffffffff">Do I look OK?</font>
+
+311
+00:28:20,560 --> 00:28:22,800
+<font color="#00ff00ff">If someone touches you, you won't</font>
+<font color="#00ff00ff">shatter.</font>
+
+312
+00:28:25,360 --> 00:28:27,360
+<font color="#00ffffff">Sing it.</font>
+
+313
+00:28:27,400 --> 00:28:29,400
+<font color="#00ffffff">Sing it. I love that song.</font>
+
+314
+00:28:29,440 --> 00:28:30,440
+<font color="#00ff00ff">I...</font>
+
+315
+00:28:30,480 --> 00:28:33,840
+<font color="#00ff00ff">..can't be singing rebel songs in</font>
+<font color="#00ff00ff">a house in grief and mourning.</font>
+
+316
+00:28:33,880 --> 00:28:35,680
+<font color="#00ffffff">Sing it to me softly.</font>
+
+317
+00:28:35,720 --> 00:28:36,960
+<font color="#00ffffff">It breaks my heart.</font>
+
+318
+00:28:38,600 --> 00:28:40,440
+<font color="#00ffffff">Don't look at him. He's English.</font>
+
+319
+00:28:40,480 --> 00:28:41,680
+<font color="#00ffffff">He can block his ears.</font>
+
+320
+00:28:45,560 --> 00:28:50,200
+<font color="#ffff00ff">Darling, should she sing her rebel</font>
+<font color="#ffff00ff">IRA song, while we wait</font>
+
+321
+00:28:50,240 --> 00:28:52,120
+<font color="#ffff00ff">or would that be inappropriate?</font>
+
+322
+00:28:55,640 --> 00:28:59,400
+<font color="#00ffffff">You know I went to a meeting of</font>
+<font color="#00ffffff">similar intent to this in Berlin.</font>
+
+323
+00:28:59,440 --> 00:29:02,160
+<font color="#00ffffff">Attended by the Chancellor</font>
+<font color="#00ffffff">himself...</font>
+
+324
+00:29:02,200 --> 00:29:04,440
+<font color="#00ffffff">..and Goering and Himmler.</font>
+
+325
+00:29:06,120 --> 00:29:08,560
+<font color="#00ffffff">It lasted until the sun came up.</font>
+
+326
+00:29:08,600 --> 00:29:12,160
+<font color="#00ffffff">We spoke about the future of the</font>
+<font color="#00ffffff">world in a serious way.</font>
+
+327
+00:29:14,160 --> 00:29:16,400
+<font color="#00ffffff">When the first rays of light entered</font>
+<font color="#00ffffff">the room,</font>
+
+328
+00:29:16,440 --> 00:29:19,360
+<font color="#00ffffff">we all stood and stared at it, as if</font>
+<font color="#00ffffff">it were the world to come.</font>
+
+329
+00:29:20,960 --> 00:29:23,360
+<font color="#00ffffff">There was no singing, no giggling.</font>
+
+330
+00:29:26,440 --> 00:29:30,200
+<font color="#00ffffff">And when breakfast was served on the</font>
+<font color="#00ffffff">terrace, overlooking the mountains,</font>
+
+331
+00:29:30,240 --> 00:29:31,920
+<font color="#00ffffff">they brought up some Jews.</font>
+
+332
+00:29:33,680 --> 00:29:36,480
+<font color="#00ffffff">And while we ate our eggs, they were</font>
+<font color="#00ffffff">forced to eat grass.</font>
+
+333
+00:29:38,440 --> 00:29:41,480
+<font color="#00ffffff">And we watched as we sipped our</font>
+<font color="#00ffffff">coffee.</font>
+
+334
+00:29:47,400 --> 00:29:49,880
+<font color="#00ffffff">We should all remember this is</font>
+<font color="#00ffffff">serious business.</font>
+
+335
+00:29:59,440 --> 00:30:00,760
+<font color="#ffff00ff">Oh, Diana.</font>
+
+336
+00:30:03,000 --> 00:30:05,680
+<font color="#ffff00ff">Now, look what you've done. You have</font>
+<font color="#ffff00ff">killed the mood.</font>
+
+337
+00:30:10,840 --> 00:30:14,240
+<font color="#ffff00ff">Let her sing her fucking song to</font>
+<font color="#ffff00ff">raise our spirits. Go on, please.</font>
+
+338
+00:30:24,040 --> 00:30:28,640
+<font color="#00ff00ff"># In a neat little town</font>
+<font color="#00ff00ff">they call Belfast</font>
+
+339
+00:30:28,680 --> 00:30:32,360
+<font color="#00ff00ff"># Apprentice to trade I was bound</font>
+
+340
+00:30:32,400 --> 00:30:36,760
+<font color="#00ff00ff"># And many an hour's sweet</font>
+<font color="#00ff00ff">happiness</font>
+
+341
+00:30:36,800 --> 00:30:40,720
+<font color="#00ff00ff"># Have I spent</font>
+<font color="#00ff00ff">in that neat little town</font>
+
+342
+00:30:40,760 --> 00:30:44,560
+<font color="#00ff00ff"># A sad misfortune came over me. #</font>
+
+343
+00:30:59,800 --> 00:31:05,720
+<font color="#ffff00ff"># Blackbird, sit on my shoulder</font>
+<font color="#ffff00ff">and tell me a song. #</font>
+
+344
+00:31:08,000 --> 00:31:09,480
+<font color="#00ffffff">Did it break?</font>
+
+345
+00:31:09,520 --> 00:31:11,120
+<font color="#00ffffff">Mum will fix it for you.</font>
+
+346
+00:31:11,160 --> 00:31:13,080
+<font color="#ffffffff">GLASS SHATTERS</font>
+
+347
+00:31:13,120 --> 00:31:19,080
+<font color="#ffff00ff"># When I cry, do you hear in colour</font>
+<font color="#ffff00ff">or black and white, bird?</font>
+
+348
+00:31:19,120 --> 00:31:20,920
+<font color="#ffffffff">MEN LAUGH</font>
+
+349
+00:31:23,280 --> 00:31:28,520
+<font color="#ffff00ff"># The morning is new</font>
+<font color="#ffff00ff">but the feeling is old</font>
+
+350
+00:31:30,440 --> 00:31:35,120
+<font color="#ffff00ff"># Intervene, blackbird, and</font>
+<font color="#ffff00ff">shorten the road</font>
+
+351
+00:31:39,600 --> 00:31:45,640
+<font color="#ffff00ff"># Blackbird, the way I imagined</font>
+<font color="#ffff00ff">love was wrong</font>
+
+352
+00:31:51,200 --> 00:31:53,520
+<font color="#ffff00ff"># I've come</font>
+
+353
+00:31:53,560 --> 00:31:59,120
+<font color="#ffff00ff"># to love him like I couldn't</font>
+<font color="#ffff00ff">fathom, blackbird</font>
+
+354
+00:32:02,720 --> 00:32:08,160
+<font color="#ffff00ff"># What I tap away at</font>
+<font color="#ffff00ff">I fear and I long</font>
+
+355
+00:32:10,000 --> 00:32:14,880
+<font color="#ffff00ff"># Intervene, blackbird, and</font>
+<font color="#ffff00ff">shorten the road</font>
+
+356
+00:32:31,120 --> 00:32:32,640
+<font color="#ffffffff">GUN FIRES</font>
+
+357
+00:32:38,880 --> 00:32:44,920
+<font color="#ffff00ff"># Blackbird, slip into my slumber</font>
+<font color="#ffff00ff">and show me a song</font>
+
+358
+00:32:50,480 --> 00:32:52,640
+<font color="#ffff00ff"># When I dream</font>
+
+359
+00:32:52,680 --> 00:32:58,240
+<font color="#ffff00ff"># Do you see in colour or at all,</font>
+<font color="#ffff00ff">bird?</font>
+
+360
+00:33:02,600 --> 00:33:08,600
+<font color="#ffff00ff"># The picture is peaceful but I</font>
+<font color="#ffff00ff">dream alone</font>
+
+361
+00:33:08,640 --> 00:33:14,080
+<font color="#ffff00ff"># Intervene, blackbird, and</font>
+<font color="#ffff00ff">shorten the road. #</font>
+
+362
+00:33:26,880 --> 00:33:29,280
+<font color="#ffffffff">SOBS:</font><font color="#00ffffff"> She's not here any more.</font>
+
+363
+00:33:40,640 --> 00:33:44,880
+<font color="#00ff00ff"># Her eyes, they shone like diamonds</font>
+
+364
+00:33:44,920 --> 00:33:47,000
+<font color="#00ff00ff"># I thought her the Queen. #</font>
+
+365
+00:33:47,040 --> 00:33:50,040
+<font color="#ffff00ff">Mr Shelby.</font><font color="#ffffffff"> No, please, no</font>
+<font color="#ffffffff">condolences.</font>
+
+366
+00:33:50,080 --> 00:33:51,480
+<font color="#ffffffff">Thank you all for coming.</font>
+
+367
+00:33:53,040 --> 00:33:54,440
+<font color="#ffffffff">Now, let's try to find out</font>
+
+368
+00:33:54,480 --> 00:33:56,840
+<font color="#ffffffff">how this new world of ours will</font>
+<font color="#ffffffff">look, shall we?</font>
+
+369
+00:34:03,680 --> 00:34:06,200
+<font color="#ffffffff">Perhaps, Mr Mosley, we can turn to</font>
+<font color="#ffffffff">what practical things</font>
+
+370
+00:34:06,240 --> 00:34:10,560
+<font color="#ffffffff">Mr Nelson can do to further our</font>
+<font color="#ffffffff">cause, while he's in the country.</font>
+
+371
+00:34:10,600 --> 00:34:14,080
+<font color="#00ffffff">It's me who has the ear of the</font>
+<font color="#00ffffff">President of the United States.</font>
+
+372
+00:34:14,120 --> 00:34:17,000
+<font color="#00ffffff">Which is kind of why I'm here,</font>
+<font color="#00ffffff">right?</font>
+
+373
+00:34:17,040 --> 00:34:20,880
+<font color="#ffff00ff">We do, indeed, have things for you</font>
+<font color="#ffff00ff">to whisper into the President's ear.</font>
+
+374
+00:34:22,560 --> 00:34:24,520
+<font color="#00ffffff">Tell him we are England.</font>
+
+375
+00:34:24,560 --> 00:34:27,040
+<font color="#00ffffff">We are the mood England is in.</font>
+
+376
+00:34:27,080 --> 00:34:31,520
+<font color="#00ff00ff">And in Ireland, appeasers to the</font>
+<font color="#00ff00ff">English abound</font>
+
+377
+00:34:31,560 --> 00:34:35,720
+<font color="#00ff00ff">but we represent the true liberated</font>
+<font color="#00ff00ff">spirit of the country that...</font>
+
+378
+00:34:35,760 --> 00:34:37,120
+<font color="#00ff00ff">..populated your own.</font>
+
+379
+00:34:39,400 --> 00:34:42,240
+<font color="#00ffffff">I hear about communists in both</font>
+<font color="#00ffffff">places.</font>
+
+380
+00:34:42,280 --> 00:34:44,400
+<font color="#ffff00ff">We are the bulwark against them.</font>
+
+381
+00:34:45,600 --> 00:34:48,440
+<font color="#00ff00ff">When it comes to the working class,</font>
+
+382
+00:34:48,480 --> 00:34:51,800
+<font color="#00ff00ff">we could move our people from</font>
+<font color="#00ff00ff">Republicanism...</font>
+
+383
+00:34:51,840 --> 00:34:53,880
+<font color="#00ff00ff">..to Fascism with just a nudge.</font>
+
+384
+00:34:55,240 --> 00:34:56,320
+<font color="#00ff00ff">They trust us.</font>
+
+385
+00:34:57,720 --> 00:35:00,360
+<font color="#00ffffff">You ride with hounds, Mr Mosley.</font>
+
+386
+00:35:00,400 --> 00:35:02,280
+<font color="#00ffffff">Will you hunt communists?</font>
+
+387
+00:35:02,320 --> 00:35:05,120
+<font color="#ffff00ff">Oh, my hounds are baying.</font>
+
+388
+00:35:05,160 --> 00:35:06,960
+<font color="#00ffffff">Shelby...</font>
+
+389
+00:35:07,000 --> 00:35:08,680
+<font color="#00ffffff">..you run as a socialist.</font>
+
+390
+00:35:16,160 --> 00:35:19,760
+<font color="#ffff00ff">Mr Shelby has one of the largest</font>
+<font color="#ffff00ff">Commons majorities in England.</font>
+
+391
+00:35:21,000 --> 00:35:24,160
+<font color="#ffff00ff">In the heart of England.</font>
+
+392
+00:35:24,200 --> 00:35:26,720
+<font color="#ffff00ff">When the time comes, he'll resign</font>
+<font color="#ffff00ff">his party whip</font>
+
+393
+00:35:26,760 --> 00:35:28,440
+<font color="#ffff00ff">and run as an independent.</font>
+
+394
+00:35:32,520 --> 00:35:35,920
+<font color="#00ffffff">But underneath, do you truly believe</font>
+<font color="#00ffffff">in the cause, Mr Shelby?</font>
+
+395
+00:35:47,120 --> 00:35:48,920
+<font color="#ffffffff">I'm here.</font>
+
+396
+00:35:48,960 --> 00:35:51,160
+<font color="#ffffffff">Mr Nelson, I'm here four nights...</font>
+
+397
+00:35:58,280 --> 00:36:00,000
+<font color="#ffffffff">Four nights after and I am here...</font>
+
+398
+00:36:02,280 --> 00:36:05,360
+<font color="#ffffffff">..in this room, in this meeting,</font>
+<font color="#ffffffff">I am here and I am serious.</font>
+
+399
+00:36:08,040 --> 00:36:09,520
+<font color="#ffff00ff">Prove it to him.</font>
+
+400
+00:36:13,640 --> 00:36:15,520
+<font color="#ffff00ff">Prove it physically.</font>
+
+401
+00:36:27,400 --> 00:36:28,640
+<font color="#ffff00ff">Perish Judah.</font>
+
+402
+00:36:37,200 --> 00:36:38,560
+<font color="#ffffffff">Perish Judah.</font>
+
+403
+00:36:45,400 --> 00:36:47,360
+<font color="#00ffffff">That thing is going to get us</font>
+<font color="#00ffffff">killed.</font>
+
+404
+00:36:50,520 --> 00:36:51,920
+<font color="#ffff00ff">Go to bed.</font>
+
+405
+00:36:53,440 --> 00:36:56,280
+<font color="#00ffffff">At school, they've stopped talking</font>
+<font color="#00ffffff">to me.</font>
+
+406
+00:37:00,480 --> 00:37:02,120
+<font color="#00ffffff">They say the black rubs off.</font>
+
+407
+00:37:05,160 --> 00:37:08,360
+<font color="#00ffffff">When they come to power, they'll</font>
+<font color="#00ffffff">take her off you.</font>
+
+408
+00:37:10,040 --> 00:37:11,880
+<font color="#00ffffff">They're going to separate us all</font>
+<font color="#00ffffff">out.</font>
+
+409
+00:37:13,960 --> 00:37:15,520
+<font color="#00ffffff">They'll send her to Africa.</font>
+
+410
+00:37:17,720 --> 00:37:19,520
+<font color="#ffff00ff">Yeah?</font>
+
+411
+00:37:19,560 --> 00:37:21,360
+<font color="#ffff00ff">And where will they send you?</font>
+
+412
+00:37:22,840 --> 00:37:24,360
+<font color="#ffff00ff">Where will they send you, Karl?</font>
+
+413
+00:37:25,520 --> 00:37:28,280
+<font color="#ffff00ff">You're half Gypsy, so...</font>
+
+414
+00:37:28,320 --> 00:37:29,720
+<font color="#ffff00ff">..to Egypt maybe?</font>
+
+415
+00:37:34,680 --> 00:37:37,480
+<font color="#ffff00ff">Something I never told you before...</font>
+
+416
+00:37:37,520 --> 00:37:39,280
+<font color="#ffff00ff">..because it wasn't important.</font>
+
+417
+00:37:40,880 --> 00:37:42,120
+<font color="#ffff00ff">Maybe now, it is.</font>
+
+418
+00:37:43,800 --> 00:37:45,280
+<font color="#ffff00ff">Your dad was Jewish.</font>
+
+419
+00:37:47,480 --> 00:37:50,600
+<font color="#ffff00ff">He was the son of a tailor in</font>
+<font color="#ffff00ff">Stechford.</font>
+
+420
+00:37:50,640 --> 00:37:52,160
+<font color="#ffff00ff">They changed their name to Thorne</font>
+
+421
+00:37:52,200 --> 00:37:54,520
+<font color="#ffff00ff">to stop the bricks coming through</font>
+<font color="#ffff00ff">the window.</font>
+
+422
+00:37:56,760 --> 00:37:58,600
+<font color="#ffff00ff">So, where will they send you, Karl?</font>
+
+423
+00:38:02,000 --> 00:38:05,080
+<font color="#ffff00ff">Mr Nelson, you can report back</font>
+<font color="#ffff00ff">to your President</font>
+
+424
+00:38:05,120 --> 00:38:08,480
+<font color="#ffff00ff">that the aristocracy and the</font>
+<font color="#ffff00ff">meritocracy are united</font>
+
+425
+00:38:08,520 --> 00:38:11,560
+<font color="#ffff00ff">in their conviction that a new order</font>
+<font color="#ffff00ff">is coming.</font>
+
+426
+00:38:13,600 --> 00:38:18,120
+<font color="#00ff00ff">Also, Mr Nelson, at present our</font>
+<font color="#00ff00ff">weapons are coming from Germany.</font>
+
+427
+00:38:18,160 --> 00:38:20,560
+<font color="#00ff00ff">The British are closing our supply</font>
+<font color="#00ff00ff">lines down.</font>
+
+428
+00:38:20,600 --> 00:38:22,720
+<font color="#00ff00ff">We would value a supply from Boston.</font>
+
+429
+00:38:24,360 --> 00:38:27,800
+<font color="#00ffffff">Weapons, I can give you, if they're</font>
+<font color="#00ffffff">to be used in a good cause.</font>
+
+430
+00:38:27,840 --> 00:38:30,800
+<font color="#00ffffff">And while on the subject of import</font>
+<font color="#00ffffff">and export,</font>
+
+431
+00:38:30,840 --> 00:38:34,440
+<font color="#00ffffff">Mr Shelby, in light of our new</font>
+<font color="#00ffffff">relationship,</font>
+
+432
+00:38:34,480 --> 00:38:36,600
+<font color="#00ffffff">and since you have proven your</font>
+<font color="#00ffffff">commitment</font>
+
+433
+00:38:36,640 --> 00:38:39,040
+<font color="#00ffffff">in a most extraordinary way,</font>
+
+434
+00:38:39,080 --> 00:38:43,200
+<font color="#00ffffff">Boston is now officially open for</font>
+<font color="#00ffffff">the importation of your merchandise.</font>
+
+435
+00:38:49,560 --> 00:38:50,760
+<font color="#ffffffff">Good.</font>
+
+436
+00:39:31,880 --> 00:39:34,680
+<font color="#00ffffff">If we have established what we came</font>
+<font color="#00ffffff">here to establish,</font>
+
+437
+00:39:34,720 --> 00:39:36,480
+<font color="#00ffffff">perhaps we should all say goodnight.</font>
+
+438
+00:39:36,520 --> 00:39:37,760
+<font color="#ffff00ff">Absolutely.</font>
+
+439
+00:39:49,240 --> 00:39:50,800
+<font color="#ffffffff">HE SHOUTS</font>
+
+440
+00:40:25,360 --> 00:40:29,560
+<font color="#00ffffff">That's the same typewriter you</font>
+<font color="#00ffffff">bought me all those years ago...</font>
+
+441
+00:40:29,600 --> 00:40:31,440
+<font color="#00ffffff">..to help me become respectable.</font>
+
+442
+00:40:32,720 --> 00:40:33,960
+<font color="#00ffffff">Do you remember?</font>
+
+443
+00:40:35,680 --> 00:40:36,880
+<font color="#ffffffff">Yeah.</font>
+
+444
+00:40:44,040 --> 00:40:45,520
+<font color="#00ffffff">This arrived.</font>
+
+445
+00:40:46,520 --> 00:40:48,000
+<font color="#00ffffff">It's from the sanatorium.</font>
+
+446
+00:40:49,600 --> 00:40:52,800
+<font color="#ffffffff">I've already paid Ruby's medical</font>
+<font color="#ffffffff">bills.</font>
+
+447
+00:40:52,840 --> 00:40:54,760
+<font color="#00ffffff">I don't think it's a bill.</font>
+
+448
+00:40:54,800 --> 00:40:57,520
+<font color="#00ffffff">It says it's urgent. It's from the</font>
+<font color="#00ffffff">senior consultant.</font>
+
+449
+00:41:16,640 --> 00:41:18,360
+<font color="#00ffffff">Why didn't you come to bed?</font>
+
+450
+00:41:23,800 --> 00:41:25,760
+<font color="#00ffffff">Why didn't you come to bed?</font>
+
+451
+00:41:31,440 --> 00:41:33,760
+<font color="#ffffffff">I'm typing up my recollection of the</font>
+<font color="#ffffffff">meeting.</font>
+
+452
+00:41:35,320 --> 00:41:40,280
+<font color="#ffffffff">If I...if I do it straight away, I</font>
+<font color="#ffffffff">can quote people word for word.</font>
+
+453
+00:41:41,960 --> 00:41:44,000
+<font color="#ffffffff">The information is more...</font>
+
+454
+00:41:44,040 --> 00:41:46,480
+<font color="#ffffffff">..useful to Mr Churchill if it is</font>
+<font color="#ffffffff">word for word.</font>
+
+455
+00:42:14,400 --> 00:42:15,760
+<font color="#ffffffff">I burnt her chair.</font>
+
+456
+00:42:17,960 --> 00:42:21,200
+<font color="#ffffffff">The paint on the wood left a smell</font>
+<font color="#ffffffff">in the air.</font>
+
+457
+00:42:21,240 --> 00:42:23,000
+<font color="#ffffffff">I didn't open the window.</font>
+
+458
+00:42:25,680 --> 00:42:27,280
+<font color="#ffffffff">I quite like the smell.</font>
+
+459
+00:42:53,040 --> 00:42:54,600
+<font color="#ffffffff">Not yet.</font>
+
+460
+00:42:57,240 --> 00:42:58,640
+<font color="#ffffffff">Not yet.</font>
+
+461
+00:43:01,160 --> 00:43:04,200
+<font color="#ffffffff">I have this work to do cos now I</font>
+<font color="#ffffffff">know...</font>
+
+462
+00:43:04,240 --> 00:43:05,360
+<font color="#ffffffff">..that I will change.</font>
+
+463
+00:43:07,880 --> 00:43:09,360
+<font color="#ffffffff">That I have to change.</font>
+
+464
+00:43:11,120 --> 00:43:13,920
+<font color="#ffffffff">And change for good, Lizzie.</font>
+
+465
+00:43:19,400 --> 00:43:20,680
+<font color="#ffffffff">Not just yet.</font>
+
+466
+00:43:40,360 --> 00:43:42,120
+<font color="#ffffffff">PHONE RINGS</font>
+
+467
+00:43:52,400 --> 00:43:53,520
+<font color="#ffffffff">Hello?</font>
+
+468
+00:43:57,880 --> 00:43:59,160
+<font color="#ffffffff">Oh.</font>
+
+469
+00:44:16,120 --> 00:44:19,040
+<font color="#ffff00ff"># She had a heartful of love</font>
+<font color="#ffff00ff">and devotion</font>
+
+470
+00:44:19,080 --> 00:44:22,560
+<font color="#ffff00ff"># She had a mindful of tyranny</font>
+<font color="#ffff00ff">and terror</font>
+
+471
+00:44:22,600 --> 00:44:26,760
+<font color="#ffff00ff"># Well, I try</font>
+<font color="#ffff00ff">I do, I really try</font>
+
+472
+00:44:26,800 --> 00:44:30,920
+<font color="#ffff00ff"># But I just...</font>
+<font color="#ffff00ff">Baby, I do, I error</font>
+
+473
+00:44:30,960 --> 00:44:34,720
+<font color="#ffff00ff"># So, come and find me</font>
+<font color="#ffff00ff">my darling one</font>
+
+474
+00:44:34,760 --> 00:44:38,320
+<font color="#ffff00ff"># I'm down to the grounds</font>
+<font color="#ffff00ff">the very dregs</font>
+
+475
+00:44:38,360 --> 00:44:41,440
+<font color="#ffff00ff"># Here she comes</font>
+<font color="#ffff00ff">blocking the sun</font>
+
+476
+00:44:41,480 --> 00:44:45,520
+<font color="#ffff00ff"># Blood running down</font>
+<font color="#ffff00ff">the inside of her legs</font>
+
+477
+00:44:45,560 --> 00:44:49,400
+<font color="#ffff00ff"># The moon in the sky is battered</font>
+<font color="#ffff00ff">and mangled</font>
+
+478
+00:44:49,440 --> 00:44:53,000
+<font color="#ffff00ff"># And the bells from the chapel</font>
+<font color="#ffff00ff">go jingle-jangle</font>
+
+479
+00:44:53,040 --> 00:44:58,680
+<font color="#ffff00ff"># Jingle-jangle, jingle-jangle</font>
+<font color="#ffff00ff">Jingle-jangle, jingle-jangle</font>
+
+480
+00:44:58,720 --> 00:45:01,560
+<font color="#ffff00ff"># Do you love me?</font>
+
+481
+00:45:01,600 --> 00:45:04,840
+<font color="#ffff00ff"># Do you love me?</font>
+
+482
+00:45:04,880 --> 00:45:07,160
+<font color="#ffff00ff"># Do you love me? #</font>
+
+483
+00:45:07,200 --> 00:45:08,680
+<font color="#ffffffff">KNOCKING</font>
+
+484
+00:45:08,720 --> 00:45:12,120
+<font color="#ffff00ff"># Do you love me? #</font>
+
+485
+00:45:13,760 --> 00:45:15,040
+<font color="#ffffffff">I saw him leave.</font>
+
+486
+00:45:17,080 --> 00:45:20,360
+<font color="#ffffffff">He keeps this apartment expressly</font>
+<font color="#ffffffff">for this purpose, doesn't he?</font>
+
+487
+00:45:22,400 --> 00:45:24,320
+<font color="#ffff00ff">Are you following me, Mr Shelby?</font>
+
+488
+00:45:25,440 --> 00:45:27,320
+<font color="#ffff00ff">I'm flattered...</font>
+
+489
+00:45:27,360 --> 00:45:29,280
+<font color="#ffff00ff">..but why?</font>
+
+490
+00:45:29,320 --> 00:45:30,920
+<font color="#ffffffff">When I do business with someone,</font>
+
+491
+00:45:30,960 --> 00:45:33,720
+<font color="#ffffffff">I make it my business to know their</font>
+<font color="#ffffffff">secrets.</font>
+
+492
+00:45:36,360 --> 00:45:38,400
+<font color="#ffff00ff">Mosley's reputation is no secret.</font>
+
+493
+00:45:39,400 --> 00:45:40,520
+<font color="#ffffffff">Not him, you.</font>
+
+494
+00:45:43,880 --> 00:45:46,240
+<font color="#ffff00ff">How did you know I'd come here?</font>
+
+495
+00:45:46,280 --> 00:45:48,600
+<font color="#ffffffff">I know things.</font>
+
+496
+00:45:48,640 --> 00:45:51,000
+<font color="#ffffffff">I read people's minds, you know.</font>
+
+497
+00:45:53,680 --> 00:45:56,960
+<font color="#ffffffff">Little glances across tables. It's a</font>
+<font color="#ffffffff">gift.</font>
+
+498
+00:45:57,000 --> 00:45:59,160
+<font color="#ffff00ff">The whole family...</font>
+
+499
+00:45:59,200 --> 00:46:01,000
+<font color="#ffff00ff">..witches and sorcerers.</font>
+
+500
+00:46:10,320 --> 00:46:11,840
+<font color="#ffffffff">Your uncle will disown you.</font>
+
+501
+00:46:13,400 --> 00:46:15,760
+<font color="#ffffffff">Fucking his business partner behind</font>
+<font color="#ffffffff">his back.</font>
+
+502
+00:46:17,280 --> 00:46:18,960
+<font color="#ffff00ff">You think he has morals?</font>
+
+503
+00:46:19,000 --> 00:46:20,240
+<font color="#ffffffff">He's a Catholic.</font>
+
+504
+00:46:20,280 --> 00:46:22,760
+<font color="#ffffffff">Men do what they want, women do what</font>
+<font color="#ffffffff">they are told.</font>
+
+505
+00:46:24,880 --> 00:46:26,320
+<font color="#ffff00ff">Will you tell Michael?</font>
+
+506
+00:46:27,600 --> 00:46:28,920
+<font color="#ffffffff">Michael is family.</font>
+
+507
+00:46:30,400 --> 00:46:31,920
+<font color="#ffffffff">We are a family healed.</font>
+
+508
+00:46:33,840 --> 00:46:35,920
+<font color="#ffff00ff">You have no interest in me...</font>
+
+509
+00:46:35,960 --> 00:46:37,200
+<font color="#ffff00ff">..or in Michael.</font>
+
+510
+00:46:39,320 --> 00:46:41,760
+<font color="#ffff00ff">So, why don't you just tell me what</font>
+<font color="#ffff00ff">you actually want?</font>
+
+511
+00:46:53,880 --> 00:46:56,480
+<font color="#ffffffff">You will be with Mosley...</font>
+
+512
+00:46:56,520 --> 00:46:57,920
+<font color="#ffffffff">..when he's in Berlin.</font>
+
+513
+00:46:59,080 --> 00:47:00,200
+<font color="#ffffffff">You'll be in the room,</font>
+
+514
+00:47:00,240 --> 00:47:03,040
+<font color="#ffffffff">when he meets senior members of the</font>
+<font color="#ffffffff">German Government.</font>
+
+515
+00:47:03,080 --> 00:47:06,400
+<font color="#ffffffff">I want to know what is discussed...</font>
+
+516
+00:47:06,440 --> 00:47:08,280
+<font color="#ffffffff">..and I want to know what is</font>
+<font color="#ffffffff">decided.</font>
+
+517
+00:47:10,960 --> 00:47:12,040
+<font color="#ffff00ff">And if I lie?</font>
+
+518
+00:47:14,360 --> 00:47:15,800
+<font color="#ffffffff">I will know.</font>
+
+519
+00:47:24,760 --> 00:47:26,880
+<font color="#ffff00ff">You know Michael thinks you're the</font>
+<font color="#ffff00ff">devil...</font>
+
+520
+00:47:28,520 --> 00:47:30,600
+<font color="#ffff00ff">..and I think he might actually be</font>
+<font color="#ffff00ff">right.</font>
+
+521
+00:47:32,360 --> 00:47:34,920
+<font color="#ffffffff">That was the other reason I came</font>
+<font color="#ffffffff">here.</font>
+
+522
+00:47:34,960 --> 00:47:38,800
+<font color="#ffffffff">What are Michael's real intentions</font>
+<font color="#ffffffff">toward me, Gina?</font>
+
+523
+00:47:38,840 --> 00:47:40,320
+<font color="#ffffffff">And if you lie, I will know.</font>
+
+524
+00:47:46,000 --> 00:47:47,160
+<font color="#ffff00ff">Tommy...</font>
+
+525
+00:47:48,680 --> 00:47:52,040
+<font color="#ffff00ff">..he intends to complete the deal.</font>
+
+526
+00:47:52,080 --> 00:47:53,680
+<font color="#ffff00ff">And then, you both walk away.</font>
+
+527
+00:48:08,120 --> 00:48:09,520
+<font color="#ffffffff">WHISPERS:</font><font color="#ffff00ff"> Fuck.</font>
+
+528
+00:49:16,320 --> 00:49:18,120
+<font color="#ffffffff">BUZZING</font>
+
+529
+00:49:29,640 --> 00:49:31,600
+<font color="#ffffffff">KNOCKING</font>
+
+530
+00:49:31,640 --> 00:49:32,880
+<font color="#ffffffff">Come.</font>
+
+531
+00:49:35,280 --> 00:49:37,120
+<font color="#00ff00ff">Mr Shelby, Doctor Holford.</font>
+
+532
+00:49:40,240 --> 00:49:41,440
+<font color="#ffffffff">Send him in.</font>
+
+533
+00:49:49,000 --> 00:49:51,000
+<font color="#ffffffff">You said it had to be in person.</font>
+
+534
+00:49:51,040 --> 00:49:52,280
+<font color="#ffffffff">Here I am.</font>
+
+535
+00:49:54,160 --> 00:49:55,800
+<font color="#ffff00ff">You might want to sit down.</font>
+
+536
+00:50:03,160 --> 00:50:06,320
+<font color="#ffff00ff">Mr Shelby, I know that you are still</font>
+<font color="#ffff00ff">grieving for your daughter...</font>
+
+537
+00:50:07,920 --> 00:50:09,720
+<font color="#ffff00ff">..but I have news that cannot wait.</font>
+
+538
+00:50:14,840 --> 00:50:20,000
+<font color="#ffff00ff">When you were X-rayed and examined</font>
+<font color="#ffff00ff">at the sanatorium ten days ago...</font>
+
+539
+00:50:22,200 --> 00:50:25,280
+<font color="#ffff00ff">..there was no TB found in your</font>
+<font color="#ffff00ff">lung.</font>
+
+540
+00:50:27,520 --> 00:50:30,600
+<font color="#ffff00ff">But I am afraid they found something</font>
+<font color="#ffff00ff">else.</font>
+
+541
+00:50:30,640 --> 00:50:33,080
+<font color="#ffff00ff">Something related to your daughter's</font>
+<font color="#ffff00ff">illness.</font>
+
+542
+00:50:36,920 --> 00:50:39,920
+<font color="#ffff00ff">They tried to speak to you at the</font>
+<font color="#ffff00ff">hospital</font>
+
+543
+00:50:39,960 --> 00:50:41,600
+<font color="#ffff00ff">but you were not co-operating.</font>
+
+544
+00:50:43,120 --> 00:50:45,880
+<font color="#ffff00ff">After your daughter's death,</font>
+
+545
+00:50:45,920 --> 00:50:49,720
+<font color="#ffff00ff">you could not be found to be</font>
+<font color="#ffff00ff">informed in person.</font>
+
+546
+00:50:49,760 --> 00:50:53,040
+<font color="#ffff00ff">Eventually, as your personal doctor,</font>
+<font color="#ffff00ff">they called me.</font>
+
+547
+00:50:56,400 --> 00:50:59,360
+<font color="#ffffffff">I didn't offer you tea. You look</font>
+<font color="#ffffffff">like death. Do you want tea?</font>
+
+548
+00:51:01,200 --> 00:51:02,360
+<font color="#ffff00ff">No.</font>
+
+549
+00:51:04,080 --> 00:51:06,680
+<font color="#ffff00ff">At the sanatorium, they conducted</font>
+<font color="#ffff00ff">blood tests.</font>
+
+550
+00:51:08,840 --> 00:51:12,520
+<font color="#ffff00ff">The tests suggest that the shadow</font>
+<font color="#ffff00ff">you can see</font>
+
+551
+00:51:12,560 --> 00:51:14,680
+<font color="#ffff00ff">at the base of your skull...</font>
+
+552
+00:51:14,720 --> 00:51:16,160
+<font color="#ffff00ff">..is not cancer.</font>
+
+553
+00:51:17,520 --> 00:51:19,080
+<font color="#ffff00ff">It is tuberculoma.</font>
+
+554
+00:51:21,640 --> 00:51:25,120
+<font color="#ffff00ff">A tubercular growth caused by the</font>
+<font color="#ffff00ff">same bacteria as TB.</font>
+
+555
+00:51:28,720 --> 00:51:30,960
+<font color="#ffff00ff">You may have picked it up from your</font>
+<font color="#ffff00ff">daughter.</font>
+
+556
+00:51:32,760 --> 00:51:36,920
+<font color="#ffff00ff">Once this disease enters a</font>
+<font color="#ffff00ff">household, it can run wild.</font>
+
+557
+00:51:36,960 --> 00:51:39,560
+<font color="#ffff00ff">It can be transmitted with a simple</font>
+<font color="#ffff00ff">kiss.</font>
+
+558
+00:51:43,720 --> 00:51:46,320
+<font color="#ffff00ff">It seems the Shelby household is no</font>
+<font color="#ffff00ff">exception.</font>
+
+559
+00:51:50,400 --> 00:51:54,440
+<font color="#ffff00ff">Mr Shelby, as I say, I am aware that</font>
+<font color="#ffff00ff">you are still grieving...</font>
+
+560
+00:51:55,840 --> 00:51:58,280
+<font color="#ffff00ff">..but you must understand this is</font>
+<font color="#ffff00ff">very serious.</font>
+
+561
+00:52:00,520 --> 00:52:03,760
+<font color="#ffff00ff">From the size of the tumour,</font>
+<font color="#ffff00ff">expansion must've been rapid.</font>
+
+562
+00:52:05,200 --> 00:52:08,960
+<font color="#ffff00ff">I have no doubt that you are already</font>
+<font color="#ffff00ff">experiencing symptoms?</font>
+
+563
+00:52:10,640 --> 00:52:12,640
+<font color="#ffff00ff">Have you recently suffered seizures?</font>
+
+564
+00:52:14,040 --> 00:52:19,600
+<font color="#ffff00ff">Bouts of weakness, dissociation,</font>
+<font color="#ffff00ff">hallucinations?</font>
+
+565
+00:52:27,640 --> 00:52:29,240
+<font color="#ffff00ff">Why didn't you come and see me?</font>
+
+566
+00:52:31,960 --> 00:52:33,160
+<font color="#ffffffff">I have work to do.</font>
+
+567
+00:52:37,120 --> 00:52:38,600
+<font color="#ffffffff">Am I a danger to others?</font>
+
+568
+00:52:40,400 --> 00:52:42,040
+<font color="#ffff00ff">No.</font>
+
+569
+00:52:42,080 --> 00:52:45,680
+<font color="#ffff00ff">Unlike TB, tuberculoma is not</font>
+<font color="#ffff00ff">infectious.</font>
+
+570
+00:52:45,720 --> 00:52:49,840
+<font color="#ffff00ff">Mr Shelby, it is not infectious...</font>
+
+571
+00:52:49,880 --> 00:52:52,200
+<font color="#ffff00ff">..but in your case...</font>
+
+572
+00:52:52,240 --> 00:52:54,360
+<font color="#ffff00ff">..I am afraid it is inoperable.</font>
+
+573
+00:52:56,160 --> 00:52:58,080
+<font color="#ffff00ff">The growth is in your brain stem.</font>
+
+574
+00:52:58,120 --> 00:52:59,480
+<font color="#ffff00ff">Any attempt to remove it</font>
+
+575
+00:52:59,520 --> 00:53:01,960
+<font color="#ffff00ff">would result in trauma and brain</font>
+<font color="#ffff00ff">haemorrhage.</font>
+
+576
+00:53:06,680 --> 00:53:08,480
+<font color="#ffff00ff">Whilst you were refusing my calls,</font>
+
+577
+00:53:08,520 --> 00:53:11,880
+<font color="#ffff00ff">I showed your X-rays to three of</font>
+<font color="#ffff00ff">the best surgeons in the country.</font>
+
+578
+00:53:15,800 --> 00:53:19,000
+<font color="#ffff00ff">They all said they would not</font>
+<font color="#ffff00ff">operate...</font>
+
+579
+00:53:19,040 --> 00:53:20,400
+<font color="#ffff00ff">..as it would be futile.</font>
+
+580
+00:53:22,080 --> 00:53:26,360
+<font color="#ffff00ff">Of course, you will want a second</font>
+<font color="#ffff00ff">opinion for yourself.</font>
+
+581
+00:53:27,560 --> 00:53:30,720
+<font color="#ffff00ff">Doctor Helen Rutherford at St</font>
+<font color="#ffff00ff">Thomas'.</font>
+
+582
+00:53:30,760 --> 00:53:32,080
+<font color="#ffff00ff">She is a friend.</font>
+
+583
+00:53:43,360 --> 00:53:44,800
+<font color="#ffffffff">This...</font>
+
+584
+00:53:46,640 --> 00:53:48,000
+<font color="#ffffffff">How bad will it get?</font>
+
+585
+00:53:54,400 --> 00:53:56,600
+<font color="#ffff00ff">As the tumour grows,</font>
+
+586
+00:53:56,640 --> 00:54:00,480
+<font color="#ffff00ff">the rate of physical and mental</font>
+<font color="#ffff00ff">deterioration will increase.</font>
+
+587
+00:54:05,120 --> 00:54:09,800
+<font color="#ffff00ff">Eventually, you will need people</font>
+<font color="#ffff00ff">around you constantly,</font>
+
+588
+00:54:09,840 --> 00:54:11,560
+<font color="#ffff00ff">who love you very much.</font>
+
+589
+00:54:14,880 --> 00:54:16,120
+<font color="#ffffffff">How long?</font>
+
+590
+00:54:19,760 --> 00:54:22,840
+<font color="#ffff00ff">I understand you have defeated many</font>
+<font color="#ffff00ff">enemies, Mr Shelby.</font>
+
+591
+00:54:24,280 --> 00:54:26,480
+<font color="#ffff00ff">Now, you have a new one...</font>
+
+592
+00:54:26,520 --> 00:54:27,800
+<font color="#ffff00ff">..inside you.</font>
+
+593
+00:54:29,280 --> 00:54:30,720
+<font color="#ffff00ff">You cannot defeat it...</font>
+
+594
+00:54:32,160 --> 00:54:34,840
+<font color="#ffff00ff">..but you can keep it at bay for a</font>
+<font color="#ffff00ff">while.</font>
+
+595
+00:54:34,880 --> 00:54:39,080
+<font color="#ffff00ff">If you live correctly, if you are</font>
+<font color="#ffff00ff">determined and if you fight...</font>
+
+596
+00:54:39,120 --> 00:54:41,040
+<font color="#ffffffff">I asked you a question.</font>
+
+597
+00:54:41,080 --> 00:54:42,680
+<font color="#ffffffff">So, I want an answer.</font>
+
+598
+00:54:42,720 --> 00:54:45,520
+<font color="#ffffffff">I don't want your fucking</font>
+<font color="#ffffffff">platitudes.</font>
+
+599
+00:54:45,560 --> 00:54:50,040
+<font color="#ffffffff">How long before I need people around</font>
+<font color="#ffffffff">me, who love me very much?</font>
+
+600
+00:54:54,960 --> 00:54:56,800
+<font color="#00ffffff">Sorry.</font><font color="#ffffffff"> It's fine, Lizzie.</font>
+
+601
+00:54:56,840 --> 00:54:58,720
+<font color="#ffffffff">My accountant here was just leaving.</font>
+
+602
+00:55:04,400 --> 00:55:06,880
+<font color="#ffff00ff">I will telephone you, when I get</font>
+<font color="#ffff00ff">back to London.</font>
+
+603
+00:55:06,920 --> 00:55:08,360
+<font color="#ffffffff">No, I don't have enough time.</font>
+
+604
+00:55:08,400 --> 00:55:11,080
+<font color="#ffffffff">You're an accountant, give me a</font>
+<font color="#ffffffff">fucking number now.</font>
+
+605
+00:55:12,400 --> 00:55:14,880
+<font color="#ffff00ff">One year.</font>
+
+606
+00:55:14,920 --> 00:55:17,120
+<font color="#ffff00ff">Perhaps 18 months.</font>
+
+607
+00:55:17,160 --> 00:55:19,640
+<font color="#ffffffff">That's fine. That's all I need to</font>
+<font color="#ffffffff">know.</font>
+
+608
+00:55:19,680 --> 00:55:22,960
+<font color="#ffffffff">I will adjust my finances</font>
+<font color="#ffffffff">accordingly. Thank you.</font>
+
+609
+00:55:25,040 --> 00:55:28,680
+<font color="#ffff00ff">I will write to you, explaining the</font>
+<font color="#ffff00ff">full implications.</font><font color="#ffffffff"> Yeah, thank you.</font>
+
+610
+00:55:32,520 --> 00:55:34,200
+<font color="#ffff00ff">Good day.</font>
+
+611
+00:55:42,440 --> 00:55:44,960
+<font color="#00ffffff">Something serious?</font>
+
+612
+00:55:45,000 --> 00:55:47,200
+<font color="#ffffffff">No, no, just a...</font>
+
+613
+00:55:47,240 --> 00:55:51,400
+<font color="#ffffffff">..just a bill I wasn't expecting and</font>
+<font color="#ffffffff">I...</font>
+
+614
+00:55:51,440 --> 00:55:53,040
+<font color="#ffffffff">I'll have to pay it.</font>
+
+615
+00:56:02,920 --> 00:56:05,040
+<font color="#ffffffff">Will you give me a minute on my own,</font>
+<font color="#ffffffff">Lizzie?</font>
+
+616
+00:56:08,880 --> 00:56:10,240
+<font color="#00ffffff">Yeah.</font>
+
+617
+00:56:25,960 --> 00:56:27,280
+<font color="#ffffffff">Not a devil...</font>
+
+618
+00:56:30,360 --> 00:56:32,280
+<font color="#ffffffff">..just an ordinary mortal man.</font>
+
+619
+00:56:38,800 --> 00:56:41,080
+<font color="#ffffffff">POLLY:</font><font color="#ffff00ff"> There will be a war in this</font>
+<font color="#ffff00ff">family...</font>
+
+620
+00:56:43,320 --> 00:56:45,160
+<font color="#ffff00ff">..and one of you will die.</font>
+
+621
+00:56:47,560 --> 00:56:49,080
+<font color="#ffffffff">WHISPERS: Polly.</font>
+
+622
+00:56:50,880 --> 00:56:53,480
+<font color="#ffffffff">Just give me enough time to do what</font>
+<font color="#ffffffff">I have to do.</font>
+
+623
+00:56:55,640 --> 00:56:57,040
+<font color="#ffff00ff">Kill.</font>
+
+624
+00:56:57,080 --> 00:56:58,840
+<font color="#ffff00ff">Kill.</font>
+
+625
+00:56:59,305 --> 00:57:59,459
+Please rate this subtitle at www.osdb.link/9rx8p
+Help other users to choose the best subtitles
