@@ -1,0 +1,5014 @@
+﻿1
+00:00:06,000 --> 00:00:12,074
+-== [ www.OpenSubtitles.com ] ==-
+
+2
+00:01:19,621 --> 00:01:22,832
+MINA SHANDOR, LDA.
+Est. 1927
+
+3
+00:01:22,916 --> 00:01:25,085
+CUIDADO
+GÁS VENENOSO
+
+4
+00:01:46,064 --> 00:01:47,482
+Rodinhas
+
+5
+00:05:00,175 --> 00:05:06,097
+CAÇA-FANTASMAS: O LEGADO
+
+6
+00:05:10,393 --> 00:05:13,188
+- Mãe, estou a comer!
+- Está quase.
+
+7
+00:05:14,731 --> 00:05:17,692
+- Já se nota o teu bigode!
+- Mãe!
+
+8
+00:05:20,862 --> 00:05:21,696
+Phoebe!
+
+9
+00:05:24,365 --> 00:05:26,743
+Estou a sangrar! Cortaste-me!
+
+10
+00:05:26,826 --> 00:05:28,578
+Vais sobreviver. Phoebe!
+
+11
+00:05:29,662 --> 00:05:30,497
+Que fazes?
+
+12
+00:05:30,580 --> 00:05:32,373
+A voltagem do vizinho está subaproveitada.
+
+13
+00:05:32,457 --> 00:05:34,876
+- Liguei-nos e temos 220.
+- Desliga isso.
+
+14
+00:05:34,959 --> 00:05:37,795
+- Já posso usar o torno.
+- Não podias perguntar?
+
+15
+00:05:38,296 --> 00:05:40,924
+Não demonstras
+grande aptitude para ciências.
+
+16
+00:05:41,007 --> 00:05:42,133
+Entendido.
+
+17
+00:05:42,217 --> 00:05:44,385
+- És melhor noutras coisas, tipo...
+- O meu secador.
+
+18
+00:05:44,469 --> 00:05:46,638
+<i>Quesadillas.</i>
+As tuas são excelentes.
+
+19
+00:05:46,721 --> 00:05:47,555
+Obrigada.
+
+20
+00:05:48,056 --> 00:05:48,973
+Que foi agora?
+
+21
+00:05:49,057 --> 00:05:50,099
+Mãe!
+
+22
+00:05:50,517 --> 00:05:53,102
+- A sério? Não tens pernas?
+- Não sou adulto.
+
+23
+00:05:56,356 --> 00:05:58,775
+Ia agora mesmo buscar um cheque.
+
+24
+00:05:59,734 --> 00:06:02,654
+- Ganhou a loteria?
+- Mais ou menos. O meu pai morreu.
+
+25
+00:06:03,071 --> 00:06:05,823
+Deixe, não o conhecia.
+Nem esperava uma herança.
+
+26
+00:06:05,907 --> 00:06:07,325
+- Parece o meu pai.
+- Sim?
+
+27
+00:06:07,408 --> 00:06:10,537
+O seu pai abandonou a família
+e mudou-se para o meio do nada?
+
+28
+00:06:11,204 --> 00:06:12,205
+Não.
+
+29
+00:06:13,081 --> 00:06:14,290
+Ouça...
+
+30
+00:06:14,791 --> 00:06:18,294
+Sei que não tenho sido uma inquilina
+muito credível ou regular,
+
+31
+00:06:18,378 --> 00:06:20,713
+mas dê-me uma semana
+para resolver uns assuntos
+
+32
+00:06:20,797 --> 00:06:22,632
+e voltarei com tudo o que lhe devo.
+
+33
+00:06:24,759 --> 00:06:26,344
+Eu arranjo isto!
+
+34
+00:06:26,928 --> 00:06:27,762
+Ouça...
+
+35
+00:06:28,388 --> 00:06:31,891
+Vou esperar que saia
+e só depois mudo a fechadura.
+
+36
+00:06:34,727 --> 00:06:36,187
+AVISO DE DESPEJO
+
+37
+00:07:17,020 --> 00:07:18,062
+Cá estamos.
+
+38
+00:07:18,479 --> 00:07:21,482
+Summerville.
+Era aqui que o vosso avô vivia.
+
+39
+00:07:21,566 --> 00:07:22,692
+E onde morreu.
+
+40
+00:07:23,276 --> 00:07:26,446
+- Não há nem um tracinho (bar)?!
+- Espero que haja um bar!
+
+41
+00:07:26,904 --> 00:07:28,031
+Essa teve graça!
+
+42
+00:07:42,920 --> 00:07:46,716
+"Então, houve um enorme terramoto.
+
+43
+00:07:47,342 --> 00:07:49,677
+"O sol escureceu como que enlutado,
+
+44
+00:07:49,761 --> 00:07:51,596
+"os mares ferveram,
+
+45
+00:07:51,679 --> 00:07:53,765
+"a lua tornou-se vermelho-sangue,
+
+46
+00:07:54,223 --> 00:07:55,475
+"os céus caíram.
+
+47
+00:07:55,558 --> 00:07:56,976
+"Revelações 6:12."
+
+48
+00:07:57,060 --> 00:07:58,394
+É ASSIM QUE ISTO ACABA
+
+49
+00:07:58,478 --> 00:07:59,771
+<i>Normalíssimo.</i>
+
+50
+00:08:00,104 --> 00:08:02,857
+<i>Talvez seja bom
+não teres conhecido o teu pai.</i>
+
+51
+00:08:13,868 --> 00:08:14,952
+Incrível!
+
+52
+00:08:15,036 --> 00:08:17,121
+Não disseste que herdámos
+um local de crime.
+
+53
+00:08:19,207 --> 00:08:20,041
+TERRA
+
+54
+00:08:20,124 --> 00:08:21,376
+Só de pensar...
+
+55
+00:08:21,459 --> 00:08:23,294
+Isto agora é tudo nosso!
+
+56
+00:08:34,764 --> 00:08:37,684
+Pheebs, sê uma querida
+e arromba a porta do avô.
+
+57
+00:09:00,164 --> 00:09:01,165
+Boa.
+
+58
+00:09:06,003 --> 00:09:07,088
+Fogo...
+
+59
+00:09:12,385 --> 00:09:13,928
+Nem uma única foto.
+
+60
+00:09:30,236 --> 00:09:31,237
+Ratazanas...
+
+61
+00:09:35,324 --> 00:09:37,577
+Encontrei uma mina de ouro em sucata!
+
+62
+00:09:37,660 --> 00:09:38,745
+Porreiro...
+
+63
+00:09:40,079 --> 00:09:43,541
+Meu Deus,
+isto é tão pior do que eu imaginei.
+
+64
+00:09:56,137 --> 00:09:57,972
+Já para debaixo da mesa!
+
+65
+00:10:00,475 --> 00:10:01,559
+Phoebe.
+
+66
+00:10:03,352 --> 00:10:05,938
+Lembram-se do verão
+em que morremos debaixo da mesa?
+
+67
+00:10:06,022 --> 00:10:09,275
+- Tinha de haver uma falha geológica!
+- Deve ser só <i>fracking.</i>
+
+68
+00:10:09,358 --> 00:10:11,235
+É mas é uma seca, é o que é.
+
+69
+00:10:12,570 --> 00:10:14,864
+Aguenta-se, só cá ficamos uma semana.
+
+70
+00:10:17,325 --> 00:10:18,534
+Mais ou menos.
+
+71
+00:10:20,953 --> 00:10:22,163
+Que queres dizer?
+
+72
+00:10:24,624 --> 00:10:26,459
+Quer dizer que vamos ficar.
+
+73
+00:10:26,918 --> 00:10:28,503
+Disseste que era uma semana!
+
+74
+00:10:28,586 --> 00:10:31,172
+Isso foi antes de nos despejarem.
+
+75
+00:10:31,255 --> 00:10:34,759
+- Disseste que tinhas poupanças.
+- Isso foi antes de ter filhos.
+
+76
+00:10:36,177 --> 00:10:39,514
+- Em rigor, nunca soubeste gerir dinheiro.
+- Obrigada.
+
+77
+00:10:44,727 --> 00:10:47,396
+- Que é isso?
+- Como queres que eu saiba?
+
+78
+00:10:51,818 --> 00:10:53,194
+Posso ajudar?
+
+79
+00:10:59,283 --> 00:11:02,245
+Olá, somos os...
+
+80
+00:11:03,120 --> 00:11:04,747
+Esta casa era do meu pai.
+
+81
+00:11:08,376 --> 00:11:09,377
+Olá.
+
+82
+00:11:10,294 --> 00:11:11,337
+Olá.
+
+83
+00:11:13,464 --> 00:11:16,133
+Janine Melnitz. Falámos ao telefone.
+
+84
+00:11:16,217 --> 00:11:19,762
+Eu e o seu pai éramos... enfim.
+Éramos... amigos.
+
+85
+00:11:19,846 --> 00:11:21,597
+- Lamento a sua perda.
+- Deixe.
+
+86
+00:11:21,681 --> 00:11:24,892
+Conhecia-o melhor do que eu,
+eu é que lamento a sua perda.
+
+87
+00:11:24,976 --> 00:11:27,728
+Tentava manter as contas pagas
+e coisas assim.
+
+88
+00:11:27,812 --> 00:11:30,898
+- Era gestora dele?
+- Sem dinheiro para gerir.
+
+89
+00:11:30,982 --> 00:11:33,401
+Ele mal conseguia pagar a eletricidade.
+
+90
+00:11:34,735 --> 00:11:36,863
+- Então não nos deixou nada?
+- Bom...
+
+91
+00:11:37,530 --> 00:11:39,198
+Eu não diria isso.
+
+92
+00:11:40,199 --> 00:11:42,159
+Há bastantes dívidas.
+
+93
+00:11:44,579 --> 00:11:47,248
+Menina Melnitz, vim para assinar papéis,
+
+94
+00:11:47,331 --> 00:11:50,334
+pegar nas pratas
+e arranjar dinheiro para a renda.
+
+95
+00:11:50,418 --> 00:11:52,879
+Está a dizer-me que isto não vale nada?
+
+96
+00:11:53,212 --> 00:11:55,798
+Tirando o valor sentimental?
+
+97
+00:12:09,478 --> 00:12:12,523
+- Vais àquela cena mais logo?
+- Provavelmente.
+
+98
+00:12:12,607 --> 00:12:13,566
+O meu pedido?
+
+99
+00:12:15,234 --> 00:12:17,486
+Incrível ainda existirem sítios assim.
+
+100
+00:12:17,904 --> 00:12:20,406
+Incrível vai ser passar o verão
+neste buraco.
+
+101
+00:12:20,489 --> 00:12:22,617
+- Nós temos vidas, sabes?
+- E eu não?
+
+102
+00:12:22,700 --> 00:12:24,994
+Não, tu és mãe, vives para nós.
+
+103
+00:12:37,965 --> 00:12:39,091
+Volto já.
+
+104
+00:12:48,059 --> 00:12:49,644
+Talvez faças amigos aqui.
+
+105
+00:12:50,519 --> 00:12:52,813
+- E faço-os com quê?
+- A sério.
+
+106
+00:12:53,439 --> 00:12:57,902
+As mudanças são uma oportunidade
+para recomeçar. Mantém-te flexível.
+
+107
+00:13:11,707 --> 00:13:14,794
+Duas batatas, três Rodinhas,
+cebola frita, uma sem queijo.
+
+108
+00:13:14,877 --> 00:13:17,046
+Lucky, a carne não parece estar boa.
+
+109
+00:13:17,129 --> 00:13:18,673
+Não me sinto bem, Lucky.
+
+110
+00:13:18,756 --> 00:13:20,633
+A carne não está boa!
+Ele está a vomitá-la!
+
+111
+00:13:22,134 --> 00:13:23,302
+Que sítio tão fixe.
+
+112
+00:13:26,806 --> 00:13:27,932
+Não é meu.
+
+113
+00:13:28,015 --> 00:13:29,684
+Eu sei que não é teu.
+
+114
+00:13:29,767 --> 00:13:31,769
+Nem terias idade para isso.
+
+115
+00:13:34,188 --> 00:13:37,566
+Vi a tabuleta lá fora.
+"Procura-se ajuda"
+
+116
+00:13:39,276 --> 00:13:40,444
+Posso ajudar.
+
+117
+00:13:42,571 --> 00:13:46,033
+Em "Experiência"
+puseste "Simpático" e um <i>smile?</i>
+
+118
+00:13:46,117 --> 00:13:48,160
+Não sabia o que pôr.
+
+119
+00:13:48,244 --> 00:13:50,454
+Duvido que "simpático"
+possa ser experiência.
+
+120
+00:13:50,538 --> 00:13:51,664
+É uma qualidade.
+
+121
+00:13:55,543 --> 00:13:56,419
+Que idade tens?
+
+122
+00:13:57,545 --> 00:13:58,546
+Tenho 17.
+
+123
+00:13:59,046 --> 00:14:01,007
+Metes uma cunha por mim?
+
+124
+00:14:01,090 --> 00:14:02,883
+Digo-lhes que estás vivo.
+
+125
+00:14:02,967 --> 00:14:04,051
+Chamo-me Trevor.
+
+126
+00:14:04,135 --> 00:14:05,678
+"Chamo-me Trevor."
+
+127
+00:14:07,013 --> 00:14:09,098
+- Essa foi o máximo!
+- Muito querido!
+
+128
+00:14:09,181 --> 00:14:10,766
+Vais engatá-la. A sério!
+
+129
+00:14:15,646 --> 00:14:18,566
+- Para onde vão?
+- Na verdade, vamos ficar.
+
+130
+00:14:18,649 --> 00:14:21,485
+Sabe a quinta grande com o palheiro
+junto à estrada?
+
+131
+00:14:21,569 --> 00:14:23,320
+A Terra? Era do meu pai.
+
+132
+00:14:23,404 --> 00:14:25,281
+O "Cava-Terra" tinha família?
+
+133
+00:14:26,240 --> 00:14:27,450
+Conhecia o meu pai?
+
+134
+00:14:28,325 --> 00:14:29,910
+Ninguém conhecia o seu pai.
+
+135
+00:14:30,828 --> 00:14:32,747
+Bom, hão de sentir-lhe a falta.
+
+136
+00:14:33,330 --> 00:14:34,331
+Népia.
+
+137
+00:14:44,633 --> 00:14:45,926
+Então, "Casanova"?
+
+138
+00:16:27,820 --> 00:16:28,904
+Raios...
+
+139
+00:16:37,788 --> 00:16:38,789
+Como...?
+
+140
+00:16:40,416 --> 00:16:42,418
+Camioneta daqui a 15 minutos!
+
+141
+00:16:56,182 --> 00:16:57,224
+Pheebs?
+
+142
+00:16:57,308 --> 00:16:59,977
+Na escola, não receies meter conversa.
+
+143
+00:17:00,060 --> 00:17:03,939
+A sério? Que conselho terrível!
+É condená-la ao fracasso.
+
+144
+00:17:04,398 --> 00:17:06,609
+Como vão essas piadas?
+
+145
+00:17:07,443 --> 00:17:09,612
+Porque não se deve confiar em átomos?
+
+146
+00:17:11,197 --> 00:17:13,115
+Porque eles inventaram tudo.
+
+147
+00:17:15,409 --> 00:17:16,744
+- Teve piada.
+- Não teve.
+
+148
+00:17:16,827 --> 00:17:19,205
+- Podes deixar-me aqui.
+- Tens vergonha?
+
+149
+00:17:19,288 --> 00:17:20,414
+Sim. Adeus.
+
+150
+00:17:26,170 --> 00:17:27,171
+Adoro-te!
+
+151
+00:17:30,633 --> 00:17:33,093
+- Ia-te matando.
+- Sim, com a tua cara.
+
+152
+00:17:33,177 --> 00:17:34,845
+Que se passa? Adoras a escola.
+
+153
+00:17:34,929 --> 00:17:36,138
+Adoro aprender.
+
+154
+00:17:36,222 --> 00:17:39,016
+Isto é um campo de trabalho estatal
+para delinquentes.
+
+155
+00:17:39,475 --> 00:17:42,686
+Certo, então podes ajudar-me
+atirar o amianto do sótão.
+
+156
+00:17:43,729 --> 00:17:46,357
+Prefiro sujeitar-me à educação pública.
+
+157
+00:17:47,900 --> 00:17:49,276
+Não sejas tu mesma.
+
+158
+00:17:54,114 --> 00:17:57,117
+- Sente-se bem?
+- Sim. Primeiro dia.
+
+159
+00:17:57,201 --> 00:17:59,036
+Imagina quem dará
+aulas de recuperação?
+
+160
+00:17:59,119 --> 00:18:01,205
+Imagino. Dou aulas aqui.
+
+161
+00:18:01,288 --> 00:18:04,416
+- Desculpe.
+- Não faz mal.
+
+162
+00:18:05,209 --> 00:18:08,212
+Ouça, a maioria destes alunos
+não deve muito à inteligência.
+
+163
+00:18:08,295 --> 00:18:09,296
+Olá, Colin.
+
+164
+00:18:11,173 --> 00:18:12,174
+Ele...
+
+165
+00:18:12,841 --> 00:18:14,718
+Eu posso fazer o que quero.
+
+166
+00:18:15,052 --> 00:18:18,389
+- Que sorte!
+- Mesmo! É um emprego de sonho.
+
+167
+00:18:22,476 --> 00:18:25,771
+Bom dia, turma. Como estão hoje?
+
+168
+00:18:25,854 --> 00:18:27,773
+Eu sou o Sr. Grooberson.
+
+169
+00:18:29,817 --> 00:18:33,570
+Eu sei. Não querem estar aqui.
+Eu também não quero.
+
+170
+00:18:33,988 --> 00:18:38,951
+Parece que a vossa escola
+ainda funciona com VHS,
+
+171
+00:18:39,410 --> 00:18:42,705
+mas encontrei este pérola
+na sala dos professores.
+
+172
+00:18:42,788 --> 00:18:44,206
+É fantástico. Chama-se "Cujo".
+
+173
+00:18:44,331 --> 00:18:47,001
+É sobre um são-bernardo raivoso que...
+
+174
+00:18:47,084 --> 00:18:49,378
+Bom, não quero revelar tudo.
+
+175
+00:18:49,461 --> 00:18:52,298
+Mas imaginem
+que o Beethoven apanhava raiva
+
+176
+00:18:52,381 --> 00:18:55,676
+e desatava a desfazer crianças.
+Já ficam com uma ideia.
+
+177
+00:18:56,635 --> 00:18:57,636
+Divirtam-se.
+
+178
+00:19:03,350 --> 00:19:06,645
+A gravar. Três, dois, um.
+
+179
+00:19:08,272 --> 00:19:12,776
+Ela senta-se sozinha, proscrita,
+rejeitada pelos pares.
+
+180
+00:19:13,694 --> 00:19:15,112
+Mas qual é o seu segredo?
+
+181
+00:19:15,612 --> 00:19:17,656
+Talvez ande fugida.
+
+182
+00:19:19,116 --> 00:19:20,284
+Fugida...
+
+183
+00:19:21,118 --> 00:19:22,828
+de si mesma.
+
+184
+00:19:22,911 --> 00:19:24,330
+E, arranca!
+
+185
+00:19:26,165 --> 00:19:28,208
+Na verdade, o meu avô morreu.
+
+186
+00:19:28,292 --> 00:19:30,878
+A minha mãe diz
+que viemos ver o que ele deixou.
+
+187
+00:19:30,961 --> 00:19:34,465
+Vieste desvendar o mistério da morte dele?
+
+188
+00:19:35,424 --> 00:19:37,968
+Não, morreu de causas naturais.
+
+189
+00:19:38,594 --> 00:19:42,181
+Tens a certeza
+de que foram mesmo <i>naturais?</i>
+
+190
+00:19:42,598 --> 00:19:43,599
+Sim.
+
+191
+00:19:43,974 --> 00:19:46,101
+Foi mesmo um ataque cardíaco.
+
+192
+00:19:47,478 --> 00:19:48,979
+O assassino silencioso.
+
+193
+00:19:51,440 --> 00:19:52,775
+Sou e Phoebe.
+
+194
+00:19:52,858 --> 00:19:54,401
+Fixe. Eu sou o Podcast.
+
+195
+00:19:54,485 --> 00:19:56,403
+Porque te chamam Podcast?
+
+196
+00:19:56,487 --> 00:19:59,531
+Eu é que me chamo Podcast.
+Por causa do meu <i>podcast.</i>
+
+197
+00:20:02,826 --> 00:20:05,621
+- Vai pintar?
+- Sim.
+
+198
+00:20:06,705 --> 00:20:08,123
+Onde vive?
+
+199
+00:20:08,707 --> 00:20:12,961
+No rancho apocalíptico junto à estrada 99.
+Era a quinta do meu pai.
+
+200
+00:20:13,045 --> 00:20:14,713
+O "Cava-Terra" tinha família?
+
+201
+00:20:15,297 --> 00:20:18,801
+- Chamam-lhe todos "Cava-Terra"?
+- Não é por mal.
+
+202
+00:20:18,884 --> 00:20:21,970
+O homem passava a semana
+a cultivar a terra, mas...
+
+203
+00:20:23,055 --> 00:20:27,476
+nunca plantava, nunca regava,
+e nunca crescia nadinha...
+
+204
+00:20:27,559 --> 00:20:29,019
+Não deixa de ser curioso.
+
+205
+00:20:29,812 --> 00:20:34,149
+Mas era um excelente cliente.
+Comprava coisas bem estranhas.
+
+206
+00:20:35,109 --> 00:20:36,777
+Era mesmo dele, sim.
+
+207
+00:21:00,884 --> 00:21:01,760
+Que é isto?
+
+208
+00:21:03,512 --> 00:21:04,513
+Olá.
+
+209
+00:21:06,348 --> 00:21:10,102
+Eles estão a ver um filme muito
+interessante sobre um cão assassino.
+
+210
+00:21:10,185 --> 00:21:11,854
+Isto é um mapa sísmico?
+
+211
+00:21:12,312 --> 00:21:13,313
+Sim.
+
+212
+00:21:13,605 --> 00:21:16,483
+- Como sabes?
+- Porque mostra a atividade sísmica.
+
+213
+00:21:16,567 --> 00:21:18,694
+- Sim, mas...
+- É sismólogo?
+
+214
+00:21:19,862 --> 00:21:22,614
+Custa assim tanto a crer?
+
+215
+00:21:23,157 --> 00:21:24,908
+Pensei que treinasse futebol.
+
+216
+00:21:29,121 --> 00:21:29,955
+Obrigado.
+
+217
+00:21:30,539 --> 00:21:32,749
+Isto não parece tectónico nem vulcânico.
+
+218
+00:21:34,418 --> 00:21:36,044
+Está bem, espertinha...
+
+219
+00:21:36,128 --> 00:21:37,796
+Vê lá isto.
+
+220
+00:21:38,213 --> 00:21:40,382
+Isto é um vulcão, certo?
+
+221
+00:21:40,466 --> 00:21:44,386
+Cresce e forma cristas.
+
+222
+00:21:44,803 --> 00:21:47,139
+Mas isto é um terremoto tectónico.
+
+223
+00:21:47,222 --> 00:21:51,018
+Repara na curta onda P,
+seguida por uma longa onde 8.
+
+224
+00:21:53,395 --> 00:21:55,063
+Sim, não sou idiota.
+
+225
+00:21:56,315 --> 00:21:57,232
+Claramente.
+
+226
+00:21:57,316 --> 00:22:00,486
+Este é o padrão de Summerville.
+
+227
+00:22:01,028 --> 00:22:05,157
+Uma grande onda P, uma curta onda 8.
+Como uma explosão.
+
+228
+00:22:05,240 --> 00:22:06,408
+De onde vem?
+
+229
+00:22:06,492 --> 00:22:07,993
+Não sei. Não sei.
+
+230
+00:22:08,076 --> 00:22:10,621
+Instalei geofones,
+mas não consigo triangular.
+
+231
+00:22:10,704 --> 00:22:11,955
+Está a usar três?
+
+232
+00:22:12,039 --> 00:22:15,250
+Sim, eu sei quantos lados
+tem um triângulo.
+
+233
+00:22:15,334 --> 00:22:17,628
+Pensei que estava a ser obtuso.
+
+234
+00:22:21,965 --> 00:22:24,718
+- Foi uma piada geométrica?
+- Sim, daí ter piscado o olho.
+
+235
+00:22:26,803 --> 00:22:27,888
+Terrível!
+
+236
+00:22:28,180 --> 00:22:29,056
+Não, adorei.
+
+237
+00:22:29,681 --> 00:22:32,267
+Mas de alguma forma,
+
+238
+00:22:32,351 --> 00:22:34,686
+não estamos perto de placas tectónicas,
+
+239
+00:22:34,770 --> 00:22:38,899
+não há atividade vulcânica subterrânea,
+linhas de fratura ou <i>fracking,</i>
+
+240
+00:22:38,982 --> 00:22:42,110
+nem sequer há música aos berros,
+mas trememos diariamente.
+
+241
+00:22:44,363 --> 00:22:46,198
+Talvez seja o Apocalipse.
+
+242
+00:22:51,787 --> 00:22:55,707
+23, 24, 25...
+
+243
+00:22:56,875 --> 00:23:00,295
+- Então, indiferenciado, esse inventário?
+- Olá, tudo bem?
+
+244
+00:23:00,379 --> 00:23:02,714
+Não vai bem, não vai nada bem.
+
+245
+00:23:02,798 --> 00:23:05,092
+- Fazem todos isto?
+- Sim, é superimportante.
+
+246
+00:23:05,634 --> 00:23:08,554
+Estás bem? Tens os lábios roxos.
+
+247
+00:23:08,637 --> 00:23:09,846
+Sim, estou bem.
+
+248
+00:23:10,347 --> 00:23:12,975
+- Empresto-te o meu casaco.
+- Deixa, a sério.
+
+249
+00:23:13,058 --> 00:23:16,353
+É muito masculino, tem um lobo. Acredita.
+
+250
+00:23:16,937 --> 00:23:17,938
+Está bem.
+
+251
+00:23:22,859 --> 00:23:25,112
+É incrível servir-me.
+
+252
+00:23:25,195 --> 00:23:26,488
+É do meu namorado.
+
+253
+00:23:27,948 --> 00:23:29,408
+Continua o inventário.
+
+254
+00:23:31,159 --> 00:23:34,037
+A gravar. Três, dois, um.
+
+255
+00:23:34,121 --> 00:23:38,000
+Apresenta-te e diz o que comeste
+ao pequeno-almoço.
+
+256
+00:23:38,959 --> 00:23:39,960
+Phoebe.
+
+257
+00:23:40,377 --> 00:23:41,378
+Torrada.
+
+258
+00:23:42,170 --> 00:23:45,674
+Diz mais alguma coisita. Talvez uma piada.
+
+259
+00:23:46,383 --> 00:23:47,384
+Uma piada?
+
+260
+00:23:50,596 --> 00:23:53,015
+Que chamas a um urso polar morto?
+
+261
+00:23:54,975 --> 00:23:56,393
+O que quiseres.
+
+262
+00:23:57,144 --> 00:23:58,645
+Ele já não te ouve.
+
+263
+00:24:04,776 --> 00:24:05,736
+Teve piada.
+
+264
+00:24:06,486 --> 00:24:09,114
+- Tens piada.
+- É uma piada hilariante.
+
+265
+00:24:09,197 --> 00:24:10,240
+Um facto curioso:
+
+266
+00:24:10,324 --> 00:24:13,327
+sabias que há mais mortos
+do que vivos em Summerville?
+
+267
+00:24:13,410 --> 00:24:15,621
+Os cemitérios são assim.
+
+268
+00:24:15,704 --> 00:24:18,373
+Ferragens Wertheimers,
+o dono é Illuminati.
+
+269
+00:24:18,457 --> 00:24:20,208
+- Reptilianos.
+- Reptilianos?
+
+270
+00:24:20,292 --> 00:24:23,587
+Jefferson, Einstein, Beyoncé?
+Quem fez as pirâmides?
+
+271
+00:24:23,670 --> 00:24:24,796
+Escravos?
+
+272
+00:24:24,880 --> 00:24:26,256
+Cinema.
+
+273
+00:24:26,340 --> 00:24:29,384
+- Está assombrado.
+- Não acredito em fantasmas.
+
+274
+00:24:31,094 --> 00:24:33,388
+O quê? Como podes...?
+
+275
+00:24:33,472 --> 00:24:36,099
+Há tantas provas!
+Nem acreditas em espíritos?
+
+276
+00:24:36,975 --> 00:24:38,101
+Não.
+
+277
+00:24:38,769 --> 00:24:41,855
+Acho que só somos todos nacos de carne.
+
+278
+00:24:43,482 --> 00:24:46,443
+Tens de ver uma coisa.
+Vou buscar o meu transporte.
+
+279
+00:24:50,530 --> 00:24:52,282
+MINA SHANDOR, LDA.
+
+280
+00:24:52,366 --> 00:24:54,660
+ESTRADA FECHADA
+NÃO ENTRAR
+
+281
+00:24:54,743 --> 00:24:57,287
+- É permitido estar aqui?
+- Sim.
+
+282
+00:24:57,371 --> 00:25:00,290
+Sem dúvida.
+A mina fechou nos anos 40.
+
+283
+00:25:00,374 --> 00:25:02,668
+Puseram estes sinais todos
+
+284
+00:25:02,751 --> 00:25:06,421
+porque há fuga de gases tóxicos
+e também há dinamite.
+
+285
+00:25:06,505 --> 00:25:07,923
+Eu faço assim.
+
+286
+00:25:15,639 --> 00:25:18,517
+A vila estava toda ligada à mina.
+
+287
+00:25:18,600 --> 00:25:20,435
+Escavaram a montanha toda,
+
+288
+00:25:20,519 --> 00:25:23,605
+fundiram tudo em vigas de selênio
+rebitadas a frio.
+
+289
+00:25:24,189 --> 00:25:27,651
+Porquê fazer vigas de aço
+com um condutor elétrico como o selênio?
+
+290
+00:25:30,028 --> 00:25:32,489
+Pois. É estranho, não?
+
+291
+00:25:33,156 --> 00:25:37,369
+Até que, um dia,
+foram obrigados a fechar a cena toda.
+
+292
+00:25:37,452 --> 00:25:38,829
+Porquê?
+
+293
+00:25:40,205 --> 00:25:43,500
+Um a um, os mineiros
+que já cá estavam há anos
+
+294
+00:25:43,583 --> 00:25:46,044
+começaram a saltar para o poço da mina...
+
+295
+00:25:46,128 --> 00:25:47,546
+matando-se.
+
+296
+00:25:47,629 --> 00:25:49,214
+Chamaram-lhe:
+
+297
+00:25:49,297 --> 00:25:52,050
+"A Maldição de Shandor."
+
+298
+00:26:14,489 --> 00:26:15,866
+Quem construiu isto?
+
+299
+00:26:15,949 --> 00:26:20,162
+Depende de quem responder.
+Um dia, apareceram aqui inexplicavelmente.
+
+300
+00:26:23,165 --> 00:26:24,374
+Fixe.
+
+301
+00:26:52,611 --> 00:26:54,529
+Mas que chego!
+
+302
+00:26:57,115 --> 00:26:58,992
+De que falas no <i>podcast?</i>
+
+303
+00:26:59,075 --> 00:27:01,870
+Sobretudo mistérios, o desconhecido,
+
+304
+00:27:01,953 --> 00:27:05,373
+teorias da conspiração,
+às vezes, crítica de restaurantes.
+
+305
+00:27:06,082 --> 00:27:07,709
+Talvez possa ouvir.
+
+306
+00:27:08,460 --> 00:27:10,295
+- A sério?
+- Sim.
+
+307
+00:27:16,760 --> 00:27:19,471
+O programa revela-se mesmo no episódio 46.
+
+308
+00:27:19,971 --> 00:27:20,972
+Está bem.
+
+309
+00:27:22,766 --> 00:27:26,269
+Olha, é na boa, se disseres que não.
+Sem stress.
+
+310
+00:27:27,437 --> 00:27:28,438
+<i>Mas...</i>
+
+311
+00:27:29,815 --> 00:27:31,650
+Queres ser minha parceira no laboratório?
+
+312
+00:27:33,527 --> 00:27:37,572
+Duvido que nos ponham
+a fazer experiências, mas sim.
+
+313
+00:27:38,865 --> 00:27:41,993
+- Sim, com muito gosto.
+- Fixe, fixe! Boa!
+
+314
+00:27:43,495 --> 00:27:44,496
+Sim.
+
+315
+00:27:46,289 --> 00:27:47,833
+Vivo aqui.
+
+316
+00:27:48,625 --> 00:27:51,920
+- Na casa do "Cava-Terra"?
+- Sim, era o meu avô.
+
+317
+00:27:52,003 --> 00:27:52,838
+Não posso, minha!
+
+318
+00:27:54,005 --> 00:27:55,841
+Vais entrar simplesmente?
+
+319
+00:27:58,635 --> 00:27:59,970
+Vais filmar-me?
+
+320
+00:28:00,053 --> 00:28:02,764
+Sim, não vá dar-se o caso
+de te desintegrares
+
+321
+00:28:02,848 --> 00:28:04,558
+por ação de uma força oculta.
+
+322
+00:28:07,727 --> 00:28:10,146
+Está bem. Adeus!
+
+323
+00:28:43,889 --> 00:28:46,057
+Certo, então é assim...
+
+324
+00:29:10,916 --> 00:29:11,917
+Está aí alguém?
+
+325
+00:31:26,593 --> 00:31:27,927
+<i>Não!</i>
+
+326
+00:31:30,930 --> 00:31:33,183
+<i>Olá, sou o Chucky. Queres brincar?</i>
+
+327
+00:31:38,855 --> 00:31:41,441
+Preciso de saber o que se esconde aqui.
+
+328
+00:31:41,524 --> 00:31:42,525
+Não acredito!
+
+329
+00:31:42,817 --> 00:31:44,986
+- Que réplica do caraças.
+- Mesmo!
+
+330
+00:31:45,070 --> 00:31:46,279
+Réplica de quê?
+
+331
+00:31:46,821 --> 00:31:47,947
+Uma armadilha.
+
+332
+00:31:49,407 --> 00:31:50,408
+Para fantasmas.
+
+333
+00:31:53,495 --> 00:31:56,331
+A sério? Como é que tu não sabes?
+
+334
+00:31:56,414 --> 00:31:57,999
+Estou envergonhado.
+
+335
+00:31:58,083 --> 00:32:02,295
+Estava obcecado! Nova Iorque, nos anos 80,
+parecia o "The Walking Dead".
+
+336
+00:32:03,046 --> 00:32:04,672
+E depois parou?
+
+337
+00:32:04,756 --> 00:32:07,550
+Não se avista um fantasma há 30 anos.
+
+338
+00:32:19,270 --> 00:32:20,271
+Esperem lá.
+
+339
+00:32:22,023 --> 00:32:23,525
+Isto é verdadeiro?
+
+340
+00:32:23,608 --> 00:32:24,943
+- Não duvide!
+- Talvez.
+
+341
+00:32:26,319 --> 00:32:27,987
+Encontrei-o na minha sala.
+
+342
+00:32:28,071 --> 00:32:29,739
+Ela vive na quinta Terra.
+
+343
+00:32:29,823 --> 00:32:33,159
+- Aquela supersinistra?
+- Sim, a que diz "Terra".
+
+344
+00:32:34,953 --> 00:32:36,871
+Que aconteceu em Nova Iorque?
+
+345
+00:32:37,413 --> 00:32:39,916
+Andava tudo a passar-se.
+
+346
+00:32:39,999 --> 00:32:42,836
+Depois uns físicos
+armados de aceleradores de protões
+
+347
+00:32:42,919 --> 00:32:45,630
+rebentaram o telhado
+num arranha-céus de Manhattan.
+
+348
+00:32:49,759 --> 00:32:51,094
+Não vos diz nada?
+
+349
+00:32:51,886 --> 00:32:54,055
+Aconteceu 20 anos antes de nascermos.
+
+350
+00:32:54,139 --> 00:32:55,181
+Eu acredito.
+
+351
+00:32:55,265 --> 00:32:57,642
+<i>Caça-Fantasmas! Caça-Fantasmas!</i>
+
+352
+00:33:00,770 --> 00:33:01,896
+Quero dizer...
+
+353
+00:33:01,980 --> 00:33:04,774
+O teu pai nunca te contou?
+
+354
+00:33:04,858 --> 00:33:08,027
+- Só existe a minha mãe.
+- Só a tua mãe...
+
+355
+00:33:09,779 --> 00:33:10,780
+Fixe.
+
+356
+00:33:11,322 --> 00:33:12,323
+"Fixe"?
+
+357
+00:33:13,283 --> 00:33:15,076
+Será que isto ainda funciona?
+
+358
+00:33:16,661 --> 00:33:18,121
+Abrimo-lo?
+
+359
+00:33:28,548 --> 00:33:29,757
+Óculos.
+
+360
+00:33:29,841 --> 00:33:33,761
+Dois milímetros de proteção ocular?
+De certeza que é seguro?
+
+361
+00:33:33,845 --> 00:33:34,929
+Seguro?
+
+362
+00:33:35,513 --> 00:33:36,514
+Não.
+
+363
+00:33:37,098 --> 00:33:38,224
+Não.
+
+364
+00:33:38,308 --> 00:33:41,769
+A História é segura, 3 Geometria é segura.
+
+365
+00:33:42,937 --> 00:33:47,984
+A ciência são aceleradores de partículas
+e bombas de hidrogénio.
+
+366
+00:33:48,067 --> 00:33:51,738
+A ciência dá-nos pragas
+e aposta nas suas curas.
+
+367
+00:33:51,821 --> 00:33:53,198
+A ciência é imprudente.
+
+368
+00:33:53,281 --> 00:33:55,825
+Absolutamente! Sim! É <i>punk rock!</i>
+
+369
+00:33:55,909 --> 00:33:58,161
+É um alfinete-de-ama
+no mamilo da Academia.
+
+370
+00:33:59,787 --> 00:34:00,914
+Liga lá.
+
+371
+00:34:09,339 --> 00:34:11,174
+Sempre quis fazer isto.
+
+372
+00:35:05,228 --> 00:35:06,437
+Sim!
+
+373
+00:35:09,232 --> 00:35:11,317
+É melhor sairmos daqui.
+
+374
+00:35:11,401 --> 00:35:12,986
+Você é adulto.
+
+375
+00:35:13,069 --> 00:35:14,070
+Pois.
+
+376
+00:35:14,988 --> 00:35:16,155
+E responsabilizável.
+
+377
+00:35:17,699 --> 00:35:19,617
+Sabes o que isto significa, certo?
+
+378
+00:35:20,493 --> 00:35:22,620
+O teu avô era um Caça-Fantasmas.
+
+379
+00:35:23,329 --> 00:35:24,747
+Sim, eu sei.
+
+380
+00:35:49,480 --> 00:35:53,151
+Tem uma porta e janelas
+como qualquer casa normal.
+
+381
+00:35:53,234 --> 00:35:55,194
+Mas o claro cheiro a mal...
+
+382
+00:35:56,904 --> 00:35:58,114
+é proeminente.
+
+383
+00:35:58,906 --> 00:36:00,116
+Que estás a fazer?
+
+384
+00:36:00,199 --> 00:36:03,661
+Estou a dar alguma cor,
+a criar ambiente.
+
+385
+00:36:04,370 --> 00:36:06,164
+É sinistro. Entendo.
+
+386
+00:36:12,211 --> 00:36:13,212
+Fixe.
+
+387
+00:36:16,424 --> 00:36:17,675
+Apito de morte asteca.
+
+388
+00:36:18,426 --> 00:36:20,470
+Afugenta espíritos malévolos.
+
+389
+00:36:20,553 --> 00:36:23,056
+Tem um som absolutamente horrendo...
+
+390
+00:36:26,392 --> 00:36:27,477
+O que...?
+
+391
+00:36:30,188 --> 00:36:31,230
+Que raio é isto?
+
+392
+00:36:31,314 --> 00:36:34,817
+- Apito de morte asteca. Dá-mo?
+- Sim, por favor. Não voltes a soprar.
+
+393
+00:36:38,071 --> 00:36:38,905
+Olá.
+
+394
+00:36:39,697 --> 00:36:40,823
+Olá outra vez.
+
+395
+00:36:42,658 --> 00:36:44,410
+Trouxe-os a casa.
+
+396
+00:36:45,620 --> 00:36:47,413
+É um serviço que presto.
+
+397
+00:36:48,081 --> 00:36:49,832
+Eu também sou acompanhante.
+
+398
+00:36:50,792 --> 00:36:52,210
+- Esta saiu mal.
+- Pois.
+
+399
+00:36:52,877 --> 00:36:57,632
+Na verdade, sempre me perguntei o que
+se escondia neste... caixote sinistro.
+
+400
+00:36:57,715 --> 00:37:01,969
+Pois. A única coisa que se esconde aqui
+é a minha alma em morte lenta.
+
+401
+00:37:02,053 --> 00:37:03,638
+O cheiro é disso?
+
+402
+00:37:04,222 --> 00:37:06,349
+Bom, não é jantar, portanto...
+
+403
+00:37:06,432 --> 00:37:07,308
+Bom...
+
+404
+00:37:10,645 --> 00:37:12,397
+- Quer...?
+- Claro.
+
+405
+00:37:13,272 --> 00:37:15,149
+- Tipo...
+- Sim.
+
+406
+00:37:15,233 --> 00:37:16,776
+Não tenho comida.
+
+407
+00:37:16,859 --> 00:37:18,152
+- Tudo bem.
+- Visita.
+
+408
+00:37:18,236 --> 00:37:19,404
+- Boa!
+- Boa.
+
+409
+00:37:20,780 --> 00:37:22,240
+Isto é a sala de jantar.
+
+410
+00:37:26,786 --> 00:37:29,414
+Acho que o Grooberson
+quer comer a tua mãe.
+
+411
+00:37:34,544 --> 00:37:38,131
+- Não te incomoda?
+- Claro que sim.
+
+412
+00:37:38,214 --> 00:37:41,801
+Mas não demonstro as emoções
+como as outras pessoas.
+
+413
+00:37:41,884 --> 00:37:43,928
+Cá dentro, estou a vomitar.
+
+414
+00:37:49,016 --> 00:37:50,059
+Espera.
+
+415
+00:37:50,935 --> 00:37:52,520
+Isto não é aquilo que vimos?
+
+416
+00:37:58,568 --> 00:38:01,946
+"Os Sumários acreditavam
+numa terra dos mortos,
+
+417
+00:38:02,029 --> 00:38:05,700
+"um reino escuro e sombrio
+nas entranhas da Terra.
+
+418
+00:38:07,368 --> 00:38:12,039
+<i>"As almas dos mortos são governadas
+por um deus imponente, Gozer,</i>
+
+419
+00:38:12,415 --> 00:38:14,792
+"e protegidas
+por uma poderosa Guardiã da Porta
+
+420
+00:38:15,543 --> 00:38:17,170
+<i>"e por um Guardião de Chave,</i>
+
+421
+00:38:17,253 --> 00:38:20,798
+"para que Gozer possa regressar
+e caminhar entre os humanos.
+
+422
+00:38:21,215 --> 00:38:25,761
+"A Guardiã da Porta e o Guardião da Chave
+têm de assumir forma de monstros."
+
+423
+00:38:28,473 --> 00:38:30,057
+Que libertámos nós?
+
+424
+00:38:35,438 --> 00:38:38,649
+- Isto já tinha sido limpo?
+- Por mim, nunca.
+
+425
+00:38:38,733 --> 00:38:40,067
+Vamos subir a montanha.
+
+426
+00:38:42,612 --> 00:38:43,696
+Queres vir?
+
+427
+00:39:24,946 --> 00:39:27,198
+Os rios são as mães dos desfiladeiros.
+
+428
+00:39:28,658 --> 00:39:30,576
+Basicamente, se pensares nisso.
+
+429
+00:39:51,264 --> 00:39:53,015
+Porque me trouxeste aqui?
+
+430
+00:39:55,101 --> 00:39:56,310
+Porque é divertido.
+
+431
+00:39:56,936 --> 00:39:58,062
+Sabes fazer malabarismos?
+
+432
+00:40:04,151 --> 00:40:06,988
+Que fazes aqui em Summerville?
+
+433
+00:40:09,574 --> 00:40:12,994
+Sinceramente, a minha mãe não admite,
+mas estamos falidos.
+
+434
+00:40:13,077 --> 00:40:16,289
+Fomos despejados
+e só nos resta uma quinta velha e sinistra
+
+435
+00:40:16,372 --> 00:40:18,916
+que o nosso avô nos deixou
+aqui no fim do mundo.
+
+436
+00:40:20,042 --> 00:40:20,876
+Não leves a mal.
+
+437
+00:40:22,128 --> 00:40:23,462
+Não levei.
+
+438
+00:40:24,255 --> 00:40:26,132
+Este sítio é um buraco.
+
+439
+00:40:28,384 --> 00:40:29,760
+Então porque vives aqui?
+
+440
+00:40:30,177 --> 00:40:32,805
+Vivemos no buraco há quatro gerações.
+
+441
+00:40:36,601 --> 00:40:38,227
+Achas que algum dia partirás?
+
+442
+00:40:40,521 --> 00:40:43,941
+Se não partir, o que diz isso de mim?
+
+443
+00:40:44,400 --> 00:40:45,651
+Que não tens carro.
+
+444
+00:40:48,988 --> 00:40:50,072
+Sai daí!
+
+445
+00:40:55,411 --> 00:40:56,787
+Que é aquilo?
+
+446
+00:40:57,496 --> 00:40:58,414
+Não sei.
+
+447
+00:40:58,497 --> 00:41:03,044
+<i>Gozer.</i>
+
+448
+00:41:20,728 --> 00:41:21,979
+Não tem piada.
+
+449
+00:41:24,190 --> 00:41:25,524
+Que é isto?
+
+450
+00:41:26,317 --> 00:41:27,485
+É um mapa.
+
+451
+00:41:27,568 --> 00:41:31,072
+Eu sei que é um mapa, mas isto...
+
+452
+00:41:32,281 --> 00:41:35,201
+Isto é antigo,
+parece escrita cuneiforme.
+
+453
+00:41:35,284 --> 00:41:36,535
+Sim?
+
+454
+00:41:37,578 --> 00:41:38,788
+Isto é Summerville.
+
+455
+00:41:39,413 --> 00:41:41,749
+- Isso não faz sentido.
+- Nenhum!
+
+456
+00:41:41,832 --> 00:41:46,170
+Summerville nem existe há 100 anos
+e esta linguagem tem milhares de anos.
+
+457
+00:41:46,253 --> 00:41:48,756
+Tanto quanto sei,
+era a língua que ele falava.
+
+458
+00:41:49,840 --> 00:41:50,841
+E pronto?
+
+459
+00:41:51,801 --> 00:41:56,013
+Não acha isto incrível,
+bizarro e fascinante?
+
+460
+00:41:57,848 --> 00:42:00,601
+- Posso ficar com isto?
+- Claro... tarado.
+
+461
+00:42:00,685 --> 00:42:03,187
+É assim que começa.
+Primeiro, há um mapa.
+
+462
+00:42:03,270 --> 00:42:06,649
+Depois a pessoa muda-se para uma casa
+assombrada e chamam-lhe "Cava-Terra"...
+
+463
+00:42:08,359 --> 00:42:12,988
+- E e Phoebe? Ela não quererá isto?
+- Ele há de encontrar qualquer coisa.
+
+464
+00:43:03,247 --> 00:43:04,331
+Está aí alguém?
+
+465
+00:43:19,388 --> 00:43:21,515
+MICROCONIDÍOS
+CLADOSPORIUM
+
+466
+00:45:00,656 --> 00:45:02,992
+Faltam aqui dois emissores CRT.
+
+467
+00:45:10,291 --> 00:45:11,542
+Obrigada.
+
+468
+00:45:27,933 --> 00:45:30,936
+Como raio construíste
+um ciclotrão tão minúsculo?
+
+469
+00:45:32,855 --> 00:45:34,982
+Já percebi. És um génio.
+
+470
+00:45:39,653 --> 00:45:41,196
+Alicate de pontas?
+
+471
+00:45:50,122 --> 00:45:52,958
+<i>É incomodado por ruídos estranhos
+e meio da noite?</i>
+
+472
+00:45:53,042 --> 00:45:55,920
+<i>Sente medo na sua cave ou no seu sótão?</i>
+
+473
+00:45:56,003 --> 00:45:57,713
+<i>Já lhe aconteceu, a si ou à sua família,</i>
+
+474
+00:45:57,796 --> 00:45:59,757
+<i>ter visto assombrações,
+fantasmas ou espectros?</i>
+
+475
+00:45:59,840 --> 00:46:01,717
+<i>Se sim, não espere mais.</i>
+
+476
+00:46:01,800 --> 00:46:03,344
+<i>Chame já os profissionais.</i>
+
+477
+00:46:03,844 --> 00:46:05,262
+<i>Caça-Fantasmas.</i>
+
+478
+00:46:05,346 --> 00:46:07,806
+<i>Temos uma equipa cordial e eficiente
+disponível dia e noite</i>
+
+479
+00:46:07,890 --> 00:46:10,309
+<i>para eliminar qualquer sobrenaturalidade.</i>
+
+480
+00:46:10,392 --> 00:46:12,478
+<i>Nós acreditamos em si.</i>
+
+481
+00:46:12,561 --> 00:46:13,520
+Estás acordada.
+
+482
+00:46:14,021 --> 00:46:15,230
+Que estás a fazer?
+
+483
+00:46:16,315 --> 00:46:17,608
+Experiências.
+
+484
+00:46:17,691 --> 00:46:18,734
+Que seca!
+
+485
+00:46:19,818 --> 00:46:22,071
+Encontraste pipocas.
+
+486
+00:46:23,656 --> 00:46:25,532
+Que tipo de cientista era o avô?
+
+487
+00:46:25,616 --> 00:46:27,910
+Daqueles que rejeitam entes queridos.
+
+488
+00:46:29,161 --> 00:46:31,789
+- Talvez fosse físico?
+- Talvez.
+
+489
+00:46:31,872 --> 00:46:35,668
+Amanhã, pensei ir jantar com o Gary.
+
+490
+00:46:37,211 --> 00:46:38,212
+Quem é 0 Gary?
+
+491
+00:46:38,629 --> 00:46:39,964
+O Sr. Grooberson.
+
+492
+00:46:41,006 --> 00:46:42,925
+Ele chama-se Gary Grooberson?
+
+493
+00:46:43,884 --> 00:46:47,262
+- Tens um encontro com 0 Gary Grooberson.
+- É só jantar.
+
+494
+00:46:47,346 --> 00:46:49,014
+Boa noite, Phoebe.
+
+495
+00:46:50,557 --> 00:46:51,809
+Não sejas tu mesma.
+
+496
+00:47:01,652 --> 00:47:03,237
+CAÇA-FANTASMAS
+
+497
+00:47:20,087 --> 00:47:21,797
+Bem-vinda a Rust City.
+
+498
+00:47:21,880 --> 00:47:24,717
+Era aqui que processavam o selênio?
+
+499
+00:47:24,800 --> 00:47:25,926
+Acho que sim.
+
+500
+00:47:32,224 --> 00:47:33,726
+Fixe.
+
+501
+00:47:34,768 --> 00:47:38,355
+Como soubeste arranjá-lo?
+Não leves a mal, mas tens 12 anos.
+
+502
+00:47:38,439 --> 00:47:40,858
+Ontem conheci o meu avô.
+
+503
+00:47:41,567 --> 00:47:42,860
+Ele ensinou-me.
+
+504
+00:47:43,777 --> 00:47:44,862
+Não acredito!
+
+505
+00:47:44,945 --> 00:47:47,156
+Estava a uivar e a abanar as grilhetas?
+
+506
+00:47:47,239 --> 00:47:49,742
+Não, isso teria sido estranho.
+
+507
+00:47:50,492 --> 00:47:51,493
+Liga-me lá.
+
+508
+00:48:40,709 --> 00:48:42,086
+Tirei a patilha de segurança.
+
+509
+00:48:43,962 --> 00:48:47,007
+Tem os pés plantados no chão,
+o rosto bem decidido.
+
+510
+00:48:47,091 --> 00:48:49,384
+Será o momento da sua morte?
+
+511
+00:48:49,468 --> 00:48:51,303
+Ninguém sabe.
+
+512
+00:48:58,769 --> 00:49:00,062
+Sim!
+
+513
+00:49:07,486 --> 00:49:09,905
+Meu Deus!
+
+514
+00:49:10,656 --> 00:49:12,825
+Foi a melhor coisa que já vi!
+
+515
+00:49:18,831 --> 00:49:20,124
+Acertei-lhe?
+
+516
+00:49:21,875 --> 00:49:24,253
+Não acertaste. Pulverizaste-o!
+
+517
+00:49:24,837 --> 00:49:26,755
+Já nem sequer existe!
+
+518
+00:49:27,798 --> 00:49:28,882
+É a minha vez.
+
+519
+00:49:33,887 --> 00:49:35,013
+Que foi aquilo?
+
+520
+00:49:35,889 --> 00:49:37,432
+Talvez um pombo ou assim.
+
+521
+00:49:37,516 --> 00:49:38,517
+Dá-me a arma.
+
+522
+00:49:42,187 --> 00:49:43,939
+Que <i>é</i> aquilo?
+
+523
+00:49:45,899 --> 00:49:46,900
+Anda.
+
+524
+00:49:49,111 --> 00:49:50,112
+Espera.
+
+525
+00:49:52,322 --> 00:49:54,575
+- Vens?
+- Estou a ir.
+
+526
+00:50:18,307 --> 00:50:21,185
+Tenho de voltar aqui
+para o programa do Halloween!
+
+527
+00:51:16,323 --> 00:51:17,783
+É um fantasma.
+
+528
+00:51:19,201 --> 00:51:22,287
+Não estás nem sequer um bocadinho passada?
+
+529
+00:51:22,371 --> 00:51:24,539
+O excesso de estímulos acalma-me.
+
+530
+00:51:41,473 --> 00:51:42,474
+Certo...
+
+531
+00:51:50,857 --> 00:51:53,277
+- Pronto, pronto!
+- Para que é isso?
+
+532
+00:51:54,027 --> 00:51:55,070
+Tenho um plano.
+
+533
+00:51:55,529 --> 00:51:56,363
+Espera!
+
+534
+00:52:21,972 --> 00:52:23,765
+- Traz a armadilha!
+- Está bem.
+
+535
+00:52:37,112 --> 00:52:38,071
+Apanhei-o!
+
+536
+00:52:39,072 --> 00:52:40,282
+Rápido!
+
+537
+00:52:41,658 --> 00:52:42,659
+Bolas!
+
+538
+00:52:43,368 --> 00:52:44,745
+Apanha-o!
+
+539
+00:53:10,270 --> 00:53:11,271
+Certo.
+
+540
+00:53:15,567 --> 00:53:16,777
+Vá lá!
+
+541
+00:53:20,572 --> 00:53:21,865
+Vá lá, tu consegues!
+
+542
+00:53:26,411 --> 00:53:27,662
+Vá lá, querida.
+
+543
+00:53:34,503 --> 00:53:35,379
+Sim!
+
+544
+00:53:48,725 --> 00:53:49,726
+Sim!
+
+545
+00:54:09,287 --> 00:54:10,122
+Merda!
+
+546
+00:54:32,310 --> 00:54:33,812
+Este é 0 Podcast.
+
+547
+00:54:34,479 --> 00:54:36,022
+É meu amigo.
+
+548
+00:54:36,106 --> 00:54:38,316
+- Tens um amigo?
+- Tens um carro?
+
+549
+00:54:39,317 --> 00:54:40,402
+Sim, é um Cadillac.
+
+550
+00:54:40,485 --> 00:54:43,572
+Olha, meu, precisamos de boleia.
+Sabes conduzir?
+
+551
+00:54:43,655 --> 00:54:46,700
+Não sabe.
+Chumbou na condução três vezes.
+
+552
+00:54:47,451 --> 00:54:48,452
+Para trás.
+
+553
+00:54:53,582 --> 00:54:54,583
+Obrigada.
+
+554
+00:54:54,666 --> 00:54:58,378
+Pode parecer louco, durante séculos,
+não houve terremotos no Oklahoma.
+
+555
+00:54:58,462 --> 00:55:01,923
+Mas entre 2010 e 2016, houve uns mil.
+
+556
+00:55:02,007 --> 00:55:03,300
+Que aconteceu?
+
+557
+00:55:03,383 --> 00:55:05,844
+Petróleo e gás,
+foi o que aconteceu.
+
+558
+00:55:05,927 --> 00:55:09,389
+Começaram a injetar
+milhões de litros de água salinizada
+
+559
+00:55:09,473 --> 00:55:13,185
+nas profundezas da formação Arbuckle
+e depois o calcário poroso...
+
+560
+00:55:16,104 --> 00:55:20,317
+Estás bêbeda ou só muito entediada?
+Acho que estou a ver-te adormecer.
+
+561
+00:55:20,400 --> 00:55:23,445
+Tenho... alergia a ciência.
+
+562
+00:55:23,987 --> 00:55:26,990
+- Já tentaste Benadryl?
+- Tentei uísque.
+
+563
+00:55:27,073 --> 00:55:28,408
+Bate o Benadryl.
+
+564
+00:55:28,492 --> 00:55:31,453
+Mas a ciência é espantosa,
+a ciência é pura!
+
+565
+00:55:31,536 --> 00:55:33,538
+É um absoluto.
+
+566
+00:55:33,622 --> 00:55:35,749
+É a resposta a toda a loucura.
+
+567
+00:55:36,958 --> 00:55:41,671
+Porque não gostas de ciência?
+O pai da Phoebe era cientista ou...?
+
+568
+00:55:42,088 --> 00:55:43,882
+- Que horror! Não.
+- Não?
+
+569
+00:55:44,341 --> 00:55:46,051
+Estava a depreender.
+
+570
+00:55:47,427 --> 00:55:48,887
+Qual é a cena dele?
+
+571
+00:55:49,638 --> 00:55:51,598
+Sinceramente, não interessa.
+
+572
+00:55:51,681 --> 00:55:55,143
+Ele, com o Trevor, entendeu-se,
+mas com a Phoebe...
+
+573
+00:55:55,227 --> 00:55:57,312
+Não conseguiu ligar-se a ela...
+
+574
+00:55:57,395 --> 00:56:00,649
+Pois. Parece um belo estafermo.
+
+575
+00:56:00,732 --> 00:56:03,443
+Por acaso, era só um estafermo.
+
+576
+00:56:03,527 --> 00:56:06,863
+Pelo menos,
+e Phoebe é uma miúda impecável.
+
+577
+00:56:07,531 --> 00:56:10,492
+Espero que sim. Não sei.
+
+578
+00:56:10,575 --> 00:56:12,786
+Ela não me dá muitas hipóteses.
+
+579
+00:56:13,203 --> 00:56:16,331
+É uma miúda estranha e meio totó,
+mas é fabulosa.
+
+580
+00:56:17,123 --> 00:56:18,625
+Eu acho que ela é incrível.
+
+581
+00:56:19,501 --> 00:56:23,213
+E tu és incrível. És uma mãe incrível.
+Estás presente. Ganhaste.
+
+582
+00:56:24,422 --> 00:56:27,092
+Só queria que se descontraísse
+e se aventurasse mais.
+
+583
+00:56:27,175 --> 00:56:28,760
+Tem muito tempo para isso.
+
+584
+00:56:29,219 --> 00:56:31,096
+Talvez se inscreve na dança do varão.
+
+585
+00:56:31,179 --> 00:56:34,391
+- Ela não é muito coordenada.
+- Acho que isso não interessa.
+
+586
+00:56:41,022 --> 00:56:42,816
+Que raio se passa?
+
+587
+00:56:42,899 --> 00:56:45,235
+Nos anos 80, Nova Iorque foi atacada.
+
+588
+00:56:45,318 --> 00:56:48,655
+- A cena dos fantasmas de Manhattan.
+- Isso aconteceu mesmo.
+
+589
+00:56:48,738 --> 00:56:51,408
+E uns tipos subiram a um prédio
+e salvaram o mundo
+
+590
+00:56:51,491 --> 00:56:53,910
+e impediram a invasão dos mortos-vivos.
+
+591
+00:56:53,994 --> 00:56:56,371
+Para não falar
+do <i>homem-marshmallow</i> de 30 metros.
+
+592
+00:57:00,125 --> 00:57:03,962
+O nosso avô era o Egon Spengler.
+Era um Caça-Fantasmas.
+
+593
+00:57:04,379 --> 00:57:07,382
+<i>Atenção, recebemos alertas de...</i>
+
+594
+00:57:07,465 --> 00:57:11,511
+<i>um animal que está a comer
+a carrinha do Steve Fletcher.</i>
+
+595
+00:57:11,595 --> 00:57:13,555
+<i>Já despachou o porta-bagagens.</i>
+
+596
+00:57:13,638 --> 00:57:15,682
+- O Comilão.
+- O Comilão.
+
+597
+00:57:37,537 --> 00:57:38,997
+Que devo procurar?
+
+598
+00:57:39,080 --> 00:57:40,290
+Provas.
+
+599
+00:57:55,972 --> 00:57:58,725
+- Deixas de me respirar em cima?
+- Não.
+
+600
+00:57:59,309 --> 00:58:00,810
+Isto é estúpido.
+
+601
+00:58:00,894 --> 00:58:03,521
+De certeza que o que viram
+não era um guaxinim
+
+602
+00:58:03,605 --> 00:58:06,107
+ou uma doninha?
+
+603
+00:58:06,191 --> 00:58:07,150
+Ali!
+
+604
+00:58:11,655 --> 00:58:12,489
+Aquilo é um...
+
+605
+00:58:13,031 --> 00:58:15,950
+Um comilão de metal flutuante.
+É mesmo um Classe 5.
+
+606
+00:58:16,034 --> 00:58:19,537
+- Que fazemos?
+- Vamos apanhá-lo.
+
+607
+00:58:20,080 --> 00:58:20,914
+O quê?
+
+608
+00:58:21,539 --> 00:58:22,832
+Deixa fotografar primeiro.
+
+609
+00:58:26,294 --> 00:58:27,337
+Malta?
+
+610
+00:58:30,882 --> 00:58:32,384
+Tem um banco de atirador?
+
+611
+00:58:43,978 --> 00:58:45,397
+Vai, vai, vai!
+
+612
+00:59:23,935 --> 00:59:24,769
+Mas que...?
+
+613
+00:59:40,744 --> 00:59:42,162
+Sim!
+
+614
+00:59:42,245 --> 00:59:43,246
+Apanha-o!
+
+615
+00:59:58,720 --> 01:00:01,389
+Pronto, pronto! Vamos lá!
+
+616
+01:00:10,023 --> 01:00:12,942
+- Mantém-no direito.
+- Tenta lá guiar isto!
+
+617
+01:00:16,571 --> 01:00:17,530
+Esquerda, esquerda!
+
+618
+01:00:35,381 --> 01:00:36,382
+Pronto!
+
+619
+01:00:36,466 --> 01:00:37,634
+Prende-o!
+
+620
+01:00:38,218 --> 01:00:39,761
+Três, dois...
+
+621
+01:00:39,844 --> 01:00:40,887
+Um!
+
+622
+01:01:02,575 --> 01:01:04,410
+Meu Deus, que acabou de acontecer?
+
+623
+01:01:06,830 --> 01:01:08,456
+Vai para a montanha.
+
+624
+01:01:08,540 --> 01:01:15,004
+PONTE FECHADA
+A 8 QUILÓMETROS
+
+625
+01:01:21,803 --> 01:01:23,555
+- Mais perto.
+- Está bem.
+
+626
+01:01:23,638 --> 01:01:25,056
+Estou dentro do alcance.
+
+627
+01:01:55,670 --> 01:01:56,588
+Ela apanhou-o!
+
+628
+01:02:08,558 --> 01:02:10,852
+O que quer que seja,
+tem de ser agora.
+
+629
+01:02:11,895 --> 01:02:12,854
+Vá lá!
+
+630
+01:02:25,825 --> 01:02:27,035
+- Sim!
+- Boa!
+
+631
+01:02:27,118 --> 01:02:28,494
+Ponte!
+
+632
+01:02:54,145 --> 01:02:57,231
+- Que foi aquilo?
+- Acho que apanhámos um fantasma.
+
+633
+01:03:00,526 --> 01:03:01,569
+O quê?
+
+634
+01:03:03,321 --> 01:03:04,447
+Desculpa.
+
+635
+01:03:06,074 --> 01:03:07,617
+Estive aqui ontem à noite.
+
+636
+01:03:20,088 --> 01:03:21,756
+<i>Isto não vos incomoda?</i>
+
+637
+01:03:22,674 --> 01:03:23,758
+Que queres dizer?
+
+638
+01:03:23,841 --> 01:03:28,429
+Meu, o teu avô era uma lenda.
+Podes ser o que quiseres!
+
+639
+01:03:28,513 --> 01:03:31,432
+<i>Um influencer</i> ou um DJ.
+
+640
+01:03:31,516 --> 01:03:33,726
+Era mais fácil pensar que se passou.
+
+641
+01:03:33,810 --> 01:03:36,479
+- Ele não se passou.
+- Pois. Então porque deixou a mãe?
+
+642
+01:03:41,317 --> 01:03:43,444
+Não, não, não!
+
+643
+01:03:43,528 --> 01:03:45,363
+<i>Estamos tão tramados...</i>
+
+644
+01:03:45,446 --> 01:03:46,322
+<i>Que fazemos?</i>
+
+645
+01:03:46,406 --> 01:03:47,615
+Lutamos.
+
+646
+01:03:47,699 --> 01:03:50,159
+O quê? Não. Vê no porta-luvas.
+
+647
+01:03:53,871 --> 01:03:55,665
+Os seus documentos.
+
+648
+01:03:56,708 --> 01:04:01,546
+Estava na montanha a conversar com
+uma miúda numa gaiola velha da mina.
+
+649
+01:04:01,629 --> 01:04:04,507
+De repente, começou tudo a tremer,
+tipo terramoto.
+
+650
+01:04:04,590 --> 01:04:08,386
+Havia luzes e olhei lá para baixo,
+para o buracão
+
+651
+01:04:08,469 --> 01:04:10,471
+e lá dentro dele, mesmo no meio,
+
+652
+01:04:10,555 --> 01:04:13,933
+havia uma pessoa ou um réptil...
+
+653
+01:04:14,017 --> 01:04:15,768
+Estás a prestar atenção?
+
+654
+01:04:16,227 --> 01:04:18,479
+Sim, acho o máximo estarmos presos.
+
+655
+01:04:19,605 --> 01:04:23,860
+Pareceu-me ouvi-lo dizer "Gozer".
+
+656
+01:04:24,235 --> 01:04:25,445
+Ele diz a verdade.
+
+657
+01:04:26,696 --> 01:04:27,530
+Eu estava lá.
+
+658
+01:04:28,948 --> 01:04:31,034
+Olá! Como...?
+
+659
+01:04:31,117 --> 01:04:32,452
+Que te traz aqui?
+
+660
+01:04:32,535 --> 01:04:35,621
+- Podias esconder-me uma coisa.
+- Sim, sim.
+
+661
+01:04:35,705 --> 01:04:39,709
+Tens antecedentes? Acusam-te como
+menor. Apanhas dois anos, no máximo.
+
+662
+01:04:39,792 --> 01:04:41,461
+- Dois?
+- Irei visitar-te.
+
+663
+01:04:41,544 --> 01:04:42,378
+Lucky.
+
+664
+01:04:42,879 --> 01:04:44,630
+Larga os meus reclusos.
+
+665
+01:04:45,673 --> 01:04:46,799
+Desculpa, pai.
+
+666
+01:04:47,884 --> 01:04:49,510
+"Pai"? Então estavas só...
+
+667
+01:04:50,762 --> 01:04:53,973
+A espera de boleia. Sim.
+
+668
+01:04:54,057 --> 01:04:56,350
+Mas as grades ficam-te bem.
+
+669
+01:04:58,561 --> 01:05:00,146
+Não temos direito a telefonar?
+
+670
+01:05:00,730 --> 01:05:01,939
+Claro que sim.
+
+671
+01:05:04,484 --> 01:05:05,943
+A quem vais ligar?
+
+672
+01:05:08,404 --> 01:05:09,781
+Depressinha.
+
+673
+01:05:17,747 --> 01:05:20,208
+<i>Sente medo na sua cave ou no seu sótão?</i>
+
+674
+01:05:23,920 --> 01:05:25,630
+<i>Já lhe aconteceu, a si ou à sua família,</i>
+
+675
+01:05:25,713 --> 01:05:27,673
+<i>ter visto assombrações,
+fantasmas ou espectros?</i>
+
+676
+01:05:30,093 --> 01:05:33,721
+<i>Se sim, não espere mais.
+Chame já os profissionais.</i>
+
+677
+01:05:37,350 --> 01:05:39,352
+LIVROS DO OCULTO
+
+678
+01:05:40,144 --> 01:05:43,064
+Revelações 6:12
+"Vi, quando Ele abriu o sexto selo"
+
+679
+01:05:53,366 --> 01:05:54,826
+Oculto do Ray, estamos fechados.
+
+680
+01:05:54,909 --> 01:05:57,411
+<i>Espere! Só tenho direito a um telefonema!</i>
+
+681
+01:05:57,912 --> 01:05:58,913
+Estou...
+
+682
+01:06:00,081 --> 01:06:01,374
+na prisão.
+
+683
+01:06:02,041 --> 01:06:04,710
+Na Choça, é? Também já estive.
+
+684
+01:06:05,378 --> 01:06:07,296
+<i>Não sou advogado, mas diz lá.</i>
+
+685
+01:06:08,714 --> 01:06:10,883
+É o Ray Stantz, o Caça-Fantasmas?
+
+686
+01:06:10,967 --> 01:06:13,427
+- Agora vou desligar.
+<i>- Espere,</i> por <i>favor.</i>
+
+687
+01:06:16,139 --> 01:06:18,057
+É por causa do Egon Spengler.
+
+688
+01:06:22,937 --> 01:06:25,231
+O Egon Spengler que apodreça no inferno.
+
+689
+01:06:30,069 --> 01:06:32,071
+Ele morreu a semana passada.
+
+690
+01:06:37,160 --> 01:06:38,411
+Fogo...
+
+691
+01:06:40,746 --> 01:06:42,123
+Não me digas...
+
+692
+01:06:44,792 --> 01:06:46,627
+Vocês não eram amigos?
+
+693
+01:06:46,711 --> 01:06:48,671
+<i>Isso foi há muito tempo.</i>
+
+694
+01:06:49,338 --> 01:06:51,174
+Que vos aconteceu?
+
+695
+01:06:53,217 --> 01:06:56,596
+Quando começámos a apanhar fantasmas
+foi o máximo.
+
+696
+01:06:57,096 --> 01:07:00,641
+A economia estava em alta,
+os anos do Reagan.
+
+697
+01:07:00,725 --> 01:07:02,351
+Tínhamos credibilidade.
+
+698
+01:07:02,435 --> 01:07:05,438
+Depois a coisa abrandou,
+começámos a apanhar menos.
+
+699
+01:07:05,521 --> 01:07:08,566
+O Venkman achou que trabalhámos
+demasiado bem.
+
+700
+01:07:09,650 --> 01:07:11,944
+Mal conseguíamos pagar a hipoteca.
+
+701
+01:07:12,570 --> 01:07:16,032
+Um ator qualquer comprou grande parte
+de Tribeca e perdemos o quartel.
+
+702
+01:07:16,115 --> 01:07:17,700
+Agora é um Starbucks.
+
+703
+01:07:18,868 --> 01:07:21,162
+E então afastaram-se?
+
+704
+01:07:21,245 --> 01:07:22,997
+O Peter voltou a dar aulas.
+
+705
+01:07:23,080 --> 01:07:25,541
+É professor <i>emeritus</i> na SUNY Cortland.
+
+706
+01:07:25,625 --> 01:07:28,461
+Leciona publicidade e promoção.
+
+707
+01:07:28,544 --> 01:07:31,839
+O Winston foi para a área financeira.
+Trabalhou muito, fez fortuna e...
+
+708
+01:07:31,923 --> 01:07:33,090
+e eu estou aqui.
+
+709
+01:07:34,717 --> 01:07:36,552
+E o Egon?
+
+710
+01:07:36,636 --> 01:07:37,887
+<i>Não ajudou.</i>
+
+711
+01:07:37,970 --> 01:07:41,557
+Passámos de dez chamadas
+por semana para uma, com sorte.
+
+712
+01:07:41,641 --> 01:07:44,685
+O Egon começou a responder
+que os fantasmazinhos não importavam,
+
+713
+01:07:44,769 --> 01:07:46,229
+porque o mundo ia acabar.
+
+714
+01:07:46,312 --> 01:07:48,272
+<i>Tomou-se sinistro, assustava-me.</i>
+
+715
+01:07:48,356 --> 01:07:51,692
+Um dia, cheguei ao trabalho,
+o Cadillac tinha desaparecido,
+
+716
+01:07:51,776 --> 01:07:54,695
+o lança-neutrões dele,
+o acelerador, as armadilhas!
+
+717
+01:07:54,779 --> 01:07:58,824
+Meio litro de isótopos!
+Sumira tudo! Ele levara tudo.
+
+718
+01:07:59,617 --> 01:08:02,870
+- Aquilo foi o nosso fim.
+- Ele não terá tido um motivo?
+
+719
+01:08:02,954 --> 01:08:07,375
+Ligou-me uns dez anos depois,
+de uma vilazinha no Oklahoma.
+
+720
+01:08:07,458 --> 01:08:10,044
+A pregar sobre
+a "tempestade que aí vinha",
+
+721
+01:08:10,127 --> 01:08:11,712
+o grande "tornado psíquico"
+
+722
+01:08:11,796 --> 01:08:14,966
+que "consumiria a humanidade
+na escuridão para sempre".
+
+723
+01:08:15,800 --> 01:08:18,761
+- Miúda, eu queria acreditar.
+- Não está a perceber.
+
+724
+01:08:18,844 --> 01:08:21,555
+Há uma montanha
+com uns entalhes antigos...
+
+725
+01:08:21,639 --> 01:08:24,976
+<i>Miúda, o que não falta aí
+são montanhas com entalhes antigos.</i>
+
+726
+01:08:26,060 --> 01:08:29,855
+Segue o meu conselho,
+não vás atrás de fantasmas.
+
+727
+01:08:32,066 --> 01:08:34,610
+O Egon Spengler era meu avô.
+
+728
+01:08:35,945 --> 01:08:36,988
+Acabou o tempo.
+
+729
+01:08:38,447 --> 01:08:39,949
+Está lá?
+
+730
+01:08:45,871 --> 01:08:47,873
+- Os meus filhos?
+- Estão na cela.
+
+731
+01:08:47,957 --> 01:08:49,875
+Os meus filhos não são criminosos.
+
+732
+01:08:49,959 --> 01:08:52,753
+- Claro que não.
+- Conduzir sem carta.
+
+733
+01:08:52,837 --> 01:08:56,132
+Livrete caducado. Excesso de velocidade.
+
+734
+01:08:56,215 --> 01:08:58,467
+Não são os únicos
+que pegam num carro e aí vão!
+
+735
+01:08:58,551 --> 01:08:59,635
+Pois não.
+
+736
+01:08:59,719 --> 01:09:04,307
+Mas são os primeiros a destruir meia rua
+principal com o que quer que este raio é.
+
+737
+01:09:09,145 --> 01:09:11,439
+- Desculpa.
+- Qual foi a ideia?
+
+738
+01:09:11,522 --> 01:09:15,401
+Podiam ter-se magoado.
+
+739
+01:09:17,069 --> 01:09:18,112
+Sou o Gary.
+
+740
+01:09:18,779 --> 01:09:20,364
+Já processaste a saída?
+
+741
+01:09:24,952 --> 01:09:27,830
+- Apanharam algum?
+- Está dentro da armadilha.
+
+742
+01:09:27,913 --> 01:09:29,206
+- Agora?
+- Sim.
+
+743
+01:09:29,290 --> 01:09:31,751
+Vamos. las cuidar dela este verão.
+
+744
+01:09:31,834 --> 01:09:33,669
+- Ia?
+- Não tu, ele.
+
+745
+01:09:33,753 --> 01:09:36,088
+- A ideia foi dela.
+- E as nossas coisas?
+
+746
+01:09:36,172 --> 01:09:37,173
+O Ecto-1?
+
+747
+01:09:37,256 --> 01:09:40,343
+Fica tudo bem guardadinho
+no armazém dos confiscados.
+
+748
+01:09:40,426 --> 01:09:43,262
+- Não! Nós precisamos dele!
+- Phoebe, vamos.
+
+749
+01:09:43,346 --> 01:09:45,348
+Apanhámos um fantasma esta noite.
+
+750
+01:09:45,431 --> 01:09:48,434
+- A família do "Cava-Terra".
+- É verdade.
+
+751
+01:09:49,643 --> 01:09:50,895
+E haverá mais.
+
+752
+01:09:50,978 --> 01:09:53,814
+Miúda, já pareces o lunático do teu avô.
+
+753
+01:09:55,483 --> 01:09:56,650
+Phoebe!
+
+754
+01:09:56,734 --> 01:09:57,943
+Ela não fez por mal.
+
+755
+01:09:58,903 --> 01:10:00,488
+Queres dormir na minha prisão?
+
+756
+01:10:05,910 --> 01:10:07,703
+Pode guardá-lo.
+
+757
+01:10:12,249 --> 01:10:14,251
+Vai. Agora.
+
+758
+01:10:16,962 --> 01:10:18,130
+Trevor.
+
+759
+01:10:18,672 --> 01:10:21,550
+- Vemo-nos no trabalho.
+- Sim, até depois.
+
+760
+01:10:42,780 --> 01:10:44,990
+Pronto, malta, lembrem-se que...
+
+761
+01:10:45,658 --> 01:10:46,951
+Sim, está bem.
+
+762
+01:10:53,541 --> 01:10:57,878
+- Lamento este desfecho.
+- Ora! Diverti-me imenso!
+
+763
+01:10:57,962 --> 01:11:00,297
+E se retomássemos amanhã à mesma hora?
+
+764
+01:11:00,381 --> 01:11:03,008
+- Queres mesmo repetir?
+- Estás a brincar?
+
+765
+01:11:03,092 --> 01:11:06,095
+Comemos gambas <i>kung pao,</i>
+fomos à prisão.
+
+766
+01:11:06,178 --> 01:11:08,347
+Será difícil bater isto.
+
+767
+01:11:08,431 --> 01:11:09,682
+Foi espetacular!
+
+768
+01:11:14,353 --> 01:11:16,313
+A minha vida é como uma calamidade.
+
+769
+01:11:16,397 --> 01:11:18,649
+Adoro calamidades.
+Devias ver a minha casa.
+
+770
+01:11:19,859 --> 01:11:22,820
+Não digo agora. Um dia destes.
+
+771
+01:11:22,903 --> 01:11:25,448
+Não vais querer... Tenho de limpar...
+
+772
+01:11:26,282 --> 01:11:29,535
+Isto está a ir depressa demais,
+tens de ter calma.
+
+773
+01:11:30,786 --> 01:11:35,166
+Os miúdos terão fome? Não quererão
+gambas que não estiveram no frigorífico?
+
+774
+01:11:48,137 --> 01:11:50,681
+- Mal nos aguentamos.
+- Não estás a perceber.
+
+775
+01:11:50,764 --> 01:11:53,559
+Percebo que se fartaram
+de destruir coisas na vila.
+
+776
+01:11:55,895 --> 01:11:58,314
+Não achas que o teu pai
+teve razões para vir para aqui?
+
+777
+01:11:58,397 --> 01:11:59,315
+Não.
+
+778
+01:12:00,024 --> 01:12:01,233
+Não.
+
+779
+01:12:01,317 --> 01:12:06,071
+Acho que era um velho patético que
+abandonou a família e os sócios. Pelo quê?
+
+780
+01:12:06,155 --> 01:12:08,741
+Por uma quinta inútil
+numa vila a que ninguém liga.
+
+781
+01:12:08,824 --> 01:12:11,202
+Onde, a propósito,
+todos o achavam doido.
+
+782
+01:12:11,285 --> 01:12:13,412
+Sim, grande decisão, pai.
+
+783
+01:12:14,663 --> 01:12:17,541
+Ele era especial.
+Adorava ciência. Como eu.
+
+784
+01:12:17,625 --> 01:12:20,711
+Porque não me disseste
+que o meu avô era o Egon Spengler?
+
+785
+01:12:24,840 --> 01:12:27,551
+Ainda bem que te encontraste aqui.
+A sério.
+
+786
+01:12:29,845 --> 01:12:33,098
+Mas tudo aqui me mostra
+que eu não era nada para ele.
+
+787
+01:12:33,974 --> 01:12:35,684
+Ele nunca quis saber de mim.
+
+788
+01:12:42,358 --> 01:12:44,109
+Ele não era doido.
+
+789
+01:12:44,193 --> 01:12:45,402
+Bom...
+
+790
+01:12:45,486 --> 01:12:46,904
+Então era um cretino.
+
+791
+01:12:48,155 --> 01:12:49,740
+Bem-vinda à família.
+
+792
+01:13:30,155 --> 01:13:31,156
+Sim!
+
+793
+01:13:46,714 --> 01:13:47,881
+Jamoca.
+
+794
+01:13:49,133 --> 01:13:50,259
+Cá está.
+
+795
+01:13:50,884 --> 01:13:53,137
+Morango, veludo vermelho...
+
+796
+01:13:54,471 --> 01:13:55,723
+Veludo azul.
+
+797
+01:15:17,096 --> 01:15:18,180
+Meu Deus...
+
+798
+01:17:21,678 --> 01:17:24,890
+Afinal o que mostra o mapa?
+
+799
+01:17:25,349 --> 01:17:27,518
+Vês os círculos concêntricos
+à volta da montanha?
+
+800
+01:17:27,601 --> 01:17:28,727
+Não.
+
+801
+01:17:29,937 --> 01:17:31,396
+Vês os círculos?
+
+802
+01:17:31,897 --> 01:17:32,731
+Sim.
+
+803
+01:17:33,649 --> 01:17:35,818
+Há qualquer coisa dentro da mina.
+
+804
+01:17:35,901 --> 01:17:38,195
+Eu sei, é bastante óbvio.
+
+805
+01:17:38,278 --> 01:17:41,406
+Desenterrei umas cenas
+sobre o "Gozer" que ouviste.
+
+806
+01:17:41,490 --> 01:17:42,533
+Desenterraste?
+
+807
+01:17:42,616 --> 01:17:45,744
+Gozer foi um deus sumério
+que caminhou entre os vivos.
+
+808
+01:17:45,828 --> 01:17:49,665
+Uma entidade maléfica que devorava almas
+e pingava fogo. Acho que ele quer voltar.
+
+809
+01:17:49,748 --> 01:17:50,582
+Aqui?
+
+810
+01:17:51,083 --> 01:17:53,293
+Pois é, eu teria escolhido Orlando.
+
+811
+01:17:53,377 --> 01:17:55,546
+Ivo Shandor diz-vos alguma coisa?
+
+812
+01:17:55,629 --> 01:17:58,674
+Ivo Shandor? Construiu a vila toda.
+
+813
+01:17:58,757 --> 01:18:02,177
+Construiu a mina, a fundição,
+a escola, a biblioteca.
+
+814
+01:18:02,261 --> 01:18:04,555
+- Tem o nome em todo o lado.
+- Que piroso!
+
+815
+01:18:04,638 --> 01:18:09,309
+Em Nova Iorque, construiu um prédio com
+vigas de selénio provenientes desta mina.
+
+816
+01:18:09,393 --> 01:18:11,687
+O nosso avô lutou no telhado desse prédio
+
+817
+01:18:11,770 --> 01:18:14,565
+para impedir que uma horda de fantasmas
+entrasse na nossa dimensão.
+
+818
+01:18:14,648 --> 01:18:17,860
+Afinal que se passa aqui?
+
+819
+01:18:18,277 --> 01:18:20,779
+Só vejo uma forma de descobrirmos.
+
+820
+01:18:33,375 --> 01:18:36,795
+Que têm em comum
+um cigarro e um hámster?
+
+821
+01:18:38,922 --> 01:18:39,756
+O que é?
+
+822
+01:18:40,173 --> 01:18:43,927
+São ambos inofensivos,
+até os meteres na boca e os acenderes.
+
+823
+01:18:46,972 --> 01:18:48,223
+É mesmo oportuno.
+
+824
+01:19:12,581 --> 01:19:13,832
+Malta, vejam!
+
+825
+01:19:39,733 --> 01:19:40,776
+É ela?
+
+826
+01:19:42,444 --> 01:19:43,862
+É a Gozer?
+
+827
+01:19:43,946 --> 01:19:45,822
+Gozer não é ele nem ela.
+
+828
+01:19:46,406 --> 01:19:48,492
+Muito à frente, para 3000 a.C.
+
+829
+01:19:49,201 --> 01:19:51,119
+Cuidado com os pés.
+
+830
+01:19:52,537 --> 01:19:53,664
+Mais um buraco?
+
+831
+01:19:57,000 --> 01:19:58,627
+Aonde irá isto dar?
+
+832
+01:19:58,710 --> 01:20:00,337
+O poço sacrificial da morte.
+
+833
+01:20:01,296 --> 01:20:02,881
+Que sacrificavam eles?
+
+834
+01:20:02,965 --> 01:20:04,633
+Provavelmente, virgens.
+
+835
+01:20:04,716 --> 01:20:07,844
+Azar para ti, meu. Lamento.
+
+836
+01:20:07,928 --> 01:20:10,847
+Estatisticamente, aos 15 anos,
+são quase todos virgens.
+
+837
+01:20:11,974 --> 01:20:14,476
+Quinze? Tu tens 15?
+
+838
+01:20:15,978 --> 01:20:17,562
+Faço 16 em fevereiro.
+
+839
+01:20:17,896 --> 01:20:19,272
+Estamos em junho.
+
+840
+01:20:20,774 --> 01:20:22,484
+Que buracos são aqueles?
+
+841
+01:20:26,446 --> 01:20:27,823
+São espaços vazios.
+
+842
+01:20:29,408 --> 01:20:32,119
+Se isto é um túmulo,
+onde estão todos os corpos?
+
+843
+01:20:33,286 --> 01:20:34,496
+Encontrei um.
+
+844
+01:20:44,506 --> 01:20:46,800
+- O quê?
+- Meu Deus!
+
+845
+01:20:47,300 --> 01:20:49,011
+Está a dormir?
+
+846
+01:20:49,094 --> 01:20:50,804
+Meu, está num caixão.
+
+847
+01:20:51,221 --> 01:20:55,475
+É o Ivo Shandor.
+Está aqui há 75 anos?
+
+848
+01:20:56,309 --> 01:20:58,061
+Parece fantástico!
+
+849
+01:20:58,145 --> 01:21:01,940
+- Ao morrer, as unhas continuam a crescer.
+- Não é verdade, a pele é que recua.
+
+850
+01:21:02,524 --> 01:21:04,943
+Ele sabia que ia acontecer qualquer coisa.
+
+851
+01:21:07,779 --> 01:21:09,281
+Acho que isto são anos.
+
+852
+01:21:11,324 --> 01:21:12,451
+1883.
+
+853
+01:21:14,286 --> 01:21:18,498
+A erupção do Krakatoa. A atividade
+vulcânica mais violenta de história.
+
+854
+01:21:18,874 --> 01:21:20,792
+Que aconteceu em 1908?
+
+855
+01:21:20,876 --> 01:21:23,420
+Provavelmente o evento de Tunguska,
+na Sibéria.
+
+856
+01:21:23,879 --> 01:21:25,088
+1945.
+
+857
+01:21:26,381 --> 01:21:27,632
+O que não aconteceu?
+
+858
+01:21:28,925 --> 01:21:30,093
+1984.
+
+859
+01:21:30,969 --> 01:21:32,763
+Os fantasmas atacaram Nova Iorque.
+
+860
+01:21:32,846 --> 01:21:34,681
+O Rasgão de Manhattan.
+
+861
+01:21:42,439 --> 01:21:45,567
+- É uma contagem decrescente.
+- Como uma profecia?
+
+862
+01:21:45,650 --> 01:21:46,943
+Estão a ouvir?
+
+863
+01:21:58,830 --> 01:21:59,915
+Sim, eu estou.
+
+864
+01:22:06,838 --> 01:22:09,049
+Acho que vem do poço da morte.
+
+865
+01:22:28,985 --> 01:22:30,112
+Phoebe.
+
+866
+01:22:45,669 --> 01:22:46,670
+Phoebe!
+
+867
+01:22:51,925 --> 01:22:53,260
+Os terremotos!
+
+868
+01:22:56,888 --> 01:22:59,724
+- Meu Deus!
+- Phoebe!
+
+869
+01:22:59,808 --> 01:23:02,310
+<i>Phoebe.</i>
+
+870
+01:23:06,356 --> 01:23:09,526
+<i>Phoebe.</i>
+
+871
+01:23:30,839 --> 01:23:32,424
+Acho que ele está vivo.
+
+872
+01:23:33,175 --> 01:23:35,677
+- Estás bem?
+- Sim, sim.
+
+873
+01:23:35,760 --> 01:23:37,137
+- E tu?
+- Sim.
+
+874
+01:23:41,850 --> 01:23:43,185
+Pheebs, que se passa?
+
+875
+01:23:43,727 --> 01:23:45,353
+Ele afinal tinha razão.
+
+876
+01:23:46,354 --> 01:23:47,689
+Que queres dizer?
+
+877
+01:23:47,772 --> 01:23:49,399
+O nosso avô.
+
+878
+01:23:49,482 --> 01:23:51,943
+Ele esteve aqui. Construiu isto.
+
+879
+01:23:52,027 --> 01:23:54,821
+Estava de guarda,
+mesmo sem acreditarem nele.
+
+880
+01:23:57,115 --> 01:23:59,201
+Sacrificou tudo.
+
+881
+01:23:59,618 --> 01:24:00,785
+A vida.
+
+882
+01:24:01,953 --> 01:24:03,413
+Os amigos.
+
+883
+01:24:06,583 --> 01:24:07,584
+Nós.
+
+884
+01:24:12,505 --> 01:24:13,506
+Chato.
+
+885
+01:24:16,051 --> 01:24:16,885
+Meu.
+
+886
+01:24:19,512 --> 01:24:21,264
+Temos de contar à mãe.
+
+887
+01:24:21,348 --> 01:24:22,349
+Phoebe?
+
+888
+01:24:24,392 --> 01:24:25,393
+Pheebs?
+
+889
+01:26:12,751 --> 01:26:14,044
+Menina Bate Recorde
+
+890
+01:26:14,127 --> 01:26:15,670
+AS SARDAS DUPLICARAM
+
+891
+01:26:18,340 --> 01:26:21,259
+DIA DE MUDANÇA - QUARTO MOSTRA
+DESGASTE NOS PONTOS DE CARGA
+
+892
+01:26:32,979 --> 01:26:36,399
+PRIMEIRA NEVE
+IMAGEM ACELERA-ME A PULSAÇÃO
+
+893
+01:26:56,419 --> 01:26:59,839
+os CÉUS CAÍRAM
+REVELAÇÓES 6:12
+
+894
+01:27:00,673 --> 01:27:01,674
+Mãe?
+
+895
+01:27:06,930 --> 01:27:07,931
+Mãe?
+
+896
+01:27:10,266 --> 01:27:14,562
+A mãe não existe. Só existe a Zqu.
+
+897
+01:27:19,234 --> 01:27:21,236
+Mãe, estás bem?
+
+898
+01:27:25,490 --> 01:27:30,370
+A mãe não existe. Só existe a Zqu.
+
+899
+01:27:33,581 --> 01:27:34,916
+Que se passa?
+
+900
+01:27:36,793 --> 01:27:37,669
+Mãe?
+
+901
+01:27:38,420 --> 01:27:39,754
+Ela está bem?
+
+902
+01:27:39,838 --> 01:27:40,880
+Mãe?
+
+903
+01:27:53,309 --> 01:27:55,478
+És o Guardião de Chave?
+
+904
+01:27:56,312 --> 01:27:58,064
+- Não sei.
+- Mãe!
+
+905
+01:27:58,148 --> 01:27:59,441
+- Que faço?
+- Mãe, para!
+
+906
+01:29:01,127 --> 01:29:02,170
+Mãe!
+
+907
+01:29:06,174 --> 01:29:08,218
+Que raio se passa?
+
+908
+01:29:23,650 --> 01:29:24,901
+TERRA
+
+909
+01:29:35,328 --> 01:29:36,579
+Que é isso?
+
+910
+01:29:38,081 --> 01:29:39,541
+Isto não é uma quinta.
+
+911
+01:29:41,793 --> 01:29:43,336
+É uma armadilha.
+
+912
+01:30:12,949 --> 01:30:13,950
+O que é?
+
+913
+01:30:14,951 --> 01:30:15,952
+Nada.
+
+914
+01:30:18,371 --> 01:30:20,415
+Ele esteve anos a trabalhar nisto.
+
+915
+01:30:20,498 --> 01:30:22,375
+- Neste modelo?
+- É pormenorizadíssimo.
+
+916
+01:30:22,458 --> 01:30:25,295
+Não, ele veio acabar
+o que os Caça-Fantasmas começaram.
+
+917
+01:30:25,712 --> 01:30:27,797
+- Aprisionar a Gozer...
+- No terreno.
+
+918
+01:30:27,880 --> 01:30:30,633
+Exato. Estes grandes silos
+são como capacitadores.
+
+919
+01:30:32,385 --> 01:30:33,386
+O que é um capacitador?
+
+920
+01:30:33,469 --> 01:30:36,139
+- Matava-te leres?
+- Matava-te dizeres-me?
+
+921
+01:30:36,222 --> 01:30:39,058
+<i>Uma vez Gravadas, as torres
+aguentam a carga um momento.</i>
+
+922
+01:30:39,142 --> 01:30:41,686
+E nesse momento energizam
+centenas de armadilhas.
+
+923
+01:30:41,769 --> 01:30:44,063
+Como atraímos a Gozer ao terreno?
+
+924
+01:30:44,147 --> 01:30:47,483
+- Ela é protegida por dois espíritos maus.
+- Os Guardiões da Chave e da Porta.
+
+925
+01:30:47,567 --> 01:30:50,695
+Ela precisa dos dois.
+Sem Guardiã da Porta, não há Gozer.
+
+926
+01:30:50,778 --> 01:30:53,656
+Mas primeiro, esses espíritos
+têm de possuir duas almas humanas.
+
+927
+01:30:53,740 --> 01:30:54,574
+Como a mãe.
+
+928
+01:30:54,907 --> 01:30:56,367
+Para se poderem unir...
+
+929
+01:30:57,118 --> 01:30:58,119
+formalmente.
+
+930
+01:31:00,580 --> 01:31:03,499
+- De que falam?
+- No mínimo, uma "cambalhota".
+
+931
+01:31:04,000 --> 01:31:05,043
+Força, mãe.
+
+932
+01:31:28,107 --> 01:31:29,609
+Gosto dos teus olhos.
+
+933
+01:31:32,654 --> 01:31:33,655
+Obrigado.
+
+934
+01:31:55,051 --> 01:31:56,260
+Eles estiveram aqui.
+
+935
+01:31:58,846 --> 01:31:59,972
+Lá está ele.
+
+936
+01:32:04,560 --> 01:32:07,355
+- Encontraste alguma coisa?
+- Só armas inúteis.
+
+937
+01:32:10,358 --> 01:32:12,860
+Uma gaiola dentro da cadeia.
+
+938
+01:32:13,653 --> 01:32:15,279
+De que falas?
+
+939
+01:32:16,280 --> 01:32:17,949
+Não, não, não!
+
+940
+01:32:20,201 --> 01:32:23,329
+É uma tranca eletromagnética
+ANSI Classe 1.
+
+941
+01:32:24,372 --> 01:32:25,623
+Acredito em ti.
+
+942
+01:32:27,125 --> 01:32:28,251
+Impossível de abrir.
+
+943
+01:32:40,596 --> 01:32:41,556
+Que fazes?
+
+944
+01:32:41,639 --> 01:32:43,850
+Tenho um plano.
+
+945
+01:32:45,977 --> 01:32:46,811
+Espera!
+
+946
+01:33:10,626 --> 01:33:11,836
+Anda, vamos.
+
+947
+01:33:12,712 --> 01:33:13,796
+Está bem.
+
+948
+01:33:18,926 --> 01:33:20,344
+- Pronta?
+- Fico à espera.
+
+949
+01:34:06,724 --> 01:34:08,392
+É a minha mãe.
+
+950
+01:34:27,119 --> 01:34:28,204
+O quê?
+
+951
+01:35:01,571 --> 01:35:02,822
+Vossa Eminência...
+
+952
+01:35:04,073 --> 01:35:06,242
+Deusa dos Deuses.
+
+953
+01:35:06,617 --> 01:35:09,161
+Construí-te este templo...
+
+954
+01:35:09,704 --> 01:35:11,706
+para regressares à Terra...
+
+955
+01:35:13,666 --> 01:35:15,001
+...e juntos...
+
+956
+01:35:17,169 --> 01:35:18,254
+<i>nós...</i>
+
+957
+01:35:19,797 --> 01:35:21,257
+governaremos o mundo.
+
+958
+01:35:51,078 --> 01:35:52,371
+Com licença.
+
+959
+01:35:54,957 --> 01:35:56,125
+Desculpa.
+
+960
+01:35:57,376 --> 01:35:58,586
+Olá.
+
+961
+01:36:07,428 --> 01:36:10,181
+Que chamas a um peixe sem P?
+
+962
+01:36:14,060 --> 01:36:16,270
+Um eixe.
+
+963
+01:36:22,318 --> 01:36:23,402
+Uma baleia...
+
+964
+01:36:23,778 --> 01:36:26,072
+Estão duas baleias num bar e uma faz...
+
+965
+01:36:31,243 --> 01:36:34,664
+E a outra diz:
+"Vai para casa, estás bêbeda."
+
+966
+01:36:42,046 --> 01:36:43,130
+Está bem.
+
+967
+01:36:44,256 --> 01:36:46,759
+Um gafanhoto entra num bar
+
+968
+01:36:47,677 --> 01:36:51,639
+e o empregado diz:
+"Temos uma bebida com o teu nome."
+
+969
+01:36:52,056 --> 01:36:53,516
+E o gafanhoto responde:
+
+970
+01:36:54,433 --> 01:36:57,728
+"Tens uma bebida chamada Steve?"
+
+971
+01:37:01,399 --> 01:37:05,444
+Vieste oferecer-te em sacrifício?
+
+972
+01:37:06,529 --> 01:37:07,405
+O quê?
+
+973
+01:37:08,823 --> 01:37:11,784
+Estás preparada para morrer?
+
+974
+01:37:13,369 --> 01:37:15,037
+Não, tenho 12 anos.
+
+975
+01:37:18,374 --> 01:37:19,583
+E tu?
+
+976
+01:37:30,636 --> 01:37:31,846
+Mãe!
+
+977
+01:37:52,867 --> 01:37:55,494
+Esperem, esperem, que se passa?
+
+978
+01:37:55,578 --> 01:37:57,371
+- Que se passa? Onde estou?
+- Já passou.
+
+979
+01:37:57,455 --> 01:37:58,831
+- Estava possuída.
+- Possuída?
+
+980
+01:37:58,914 --> 01:38:01,667
+- E transformaste-te num cão.
+- Cheio de cio.
+
+981
+01:38:01,751 --> 01:38:02,710
+- Cio?
+- Esperem!
+
+982
+01:38:08,382 --> 01:38:10,885
+Pecadores
+
+983
+01:38:16,640 --> 01:38:17,975
+Phoebe, Phoebe...
+
+984
+01:38:18,059 --> 01:38:20,352
+Há uma cave secreta debaixo da quinta.
+
+985
+01:38:20,436 --> 01:38:22,813
+- Nós sabemos.
+- Cheia de material.
+
+986
+01:38:22,897 --> 01:38:24,356
+- Não é louquíssimo?
+- Sim!
+
+987
+01:38:24,440 --> 01:38:27,943
+- E ele parecia ter um plano.
+- Nós sabemos.
+
+988
+01:38:28,778 --> 01:38:33,657
+E havia imensas fotos minhas.
+Ele acompanhou-me sempre.
+
+989
+01:38:33,741 --> 01:38:35,117
+- Que gratificante.
+- Boa!
+
+990
+01:38:35,201 --> 01:38:38,037
+- Queremos saber tudo!
+- Mas agora estamos a salvar o mundo.
+
+991
+01:38:38,120 --> 01:38:40,498
+Está bem, fixe. Alinho. Como posso ajudar?
+
+992
+01:38:42,291 --> 01:38:43,417
+Que raio é aquilo?
+
+993
+01:38:43,501 --> 01:38:46,045
+- Era o teu namorado Gary.
+- Namorado?
+
+994
+01:38:54,011 --> 01:38:56,305
+- A Guardiã da Porta está na armadilha.
+- Guardiã?
+
+995
+01:38:56,388 --> 01:38:58,182
+Se ela e o Guardião de Chave
+se juntarem...
+
+996
+01:38:58,265 --> 01:39:00,434
+- Guardião de Chave?
+- Um segundo.
+
+997
+01:39:10,027 --> 01:39:11,237
+Phoebe.
+
+998
+01:39:11,320 --> 01:39:13,906
+Tu és... tu és...
+
+999
+01:39:15,241 --> 01:39:16,534
+Sou uma cientista.
+
+1000
+01:39:20,579 --> 01:39:22,164
+- Apanhámo-la!
+- Sim!
+
+1001
+01:39:22,248 --> 01:39:23,624
+Era o plano do avô.
+
+1002
+01:39:25,334 --> 01:39:26,585
+Vou acelerar!
+
+1003
+01:39:47,857 --> 01:39:49,400
+Vá lá, vá lá!
+
+1004
+01:39:49,483 --> 01:39:50,651
+Meu Deus!
+
+1005
+01:40:03,497 --> 01:40:05,374
+- Para trás, para trás!
+- Mãe!
+
+1006
+01:40:08,460 --> 01:40:09,461
+Então?
+
+1007
+01:40:14,592 --> 01:40:15,843
+Não, não, não!
+
+1008
+01:40:51,712 --> 01:40:53,881
+- Puxa a alavanca.
+- O que...?
+
+1009
+01:41:19,865 --> 01:41:21,575
+Vá lá! Porque esperas?
+
+1010
+01:41:21,659 --> 01:41:24,119
+Espero que isto funcione!
+Não está a funcionar!
+
+1011
+01:41:40,427 --> 01:41:42,179
+- Mãe, carrega no pedal.
+- Pedal?
+
+1012
+01:41:59,238 --> 01:42:00,656
+Lucky!
+
+1013
+01:42:00,739 --> 01:42:03,826
+- Podcast, que fazes?
+- Tenho os meus problemas!
+
+1014
+01:42:53,500 --> 01:42:54,626
+Não!
+
+1015
+01:42:56,378 --> 01:42:57,379
+Não!
+
+1016
+01:43:02,134 --> 01:43:03,427
+Ó Pente-Zero!
+
+1017
+01:43:06,513 --> 01:43:07,931
+Tiveste saudades nossas?
+
+1018
+01:43:12,269 --> 01:43:13,729
+Gozer, a gozeriana...
+
+1019
+01:43:14,688 --> 01:43:17,191
+Em nome do município de Summerville,
+estado do Oklahoma,
+
+1020
+01:43:17,274 --> 01:43:20,569
+do Serviço de Pescas e Vida Animal,
+dos membros dos Patos Ilimitados
+
+1021
+01:43:21,153 --> 01:43:23,947
+e da Associação
+para e Melhoria dos Reformados,
+
+1022
+01:43:24,323 --> 01:43:27,242
+exijo-te, à luz da lei
+das Espécies Invasivas
+
+1023
+01:43:27,326 --> 01:43:30,120
+que abandones de imediato este mundo.
+
+1024
+01:43:30,704 --> 01:43:31,747
+Bravo!
+
+1025
+01:43:35,584 --> 01:43:37,378
+Acho que ela se lembra de nós.
+
+1026
+01:43:40,464 --> 01:43:44,176
+És um deus?
+
+1027
+01:43:47,304 --> 01:43:49,223
+- Ray?
+- Vá lá, Ray.
+
+1028
+01:43:50,516 --> 01:43:51,683
+Sim.
+
+1029
+01:43:51,767 --> 01:43:53,811
+Sim, somos todos deuses.
+
+1030
+01:43:53,894 --> 01:43:56,647
+A verdade é que somos todos bem especiais!
+
+1031
+01:43:56,730 --> 01:44:00,609
+Uma nota pessoal:
+pensei que te tínhamos caçado de vez.
+
+1032
+01:44:00,692 --> 01:44:04,738
+Não estava a dar para mim nem para os meus
+amigos, os teus também acharam que não.
+
+1033
+01:44:05,572 --> 01:44:07,783
+Acabou-se a brincadeira.
+Vamos lá às torradinhas.
+
+1034
+01:44:11,412 --> 01:44:12,287
+Acende aí.
+
+1035
+01:44:14,415 --> 01:44:15,958
+Fogo, adoro este som.
+
+1036
+01:44:18,252 --> 01:44:21,922
+Vou contar até três.
+Quando eu disser dois. Um, dois.
+
+1037
+01:44:24,758 --> 01:44:27,469
+Sim, nada morde
+como um milhar de milhões de <i>volts!</i>
+
+1038
+01:44:37,354 --> 01:44:38,605
+Sim!
+
+1039
+01:44:40,107 --> 01:44:41,650
+- Sentiste?
+- Sim.
+
+1040
+01:44:46,447 --> 01:44:48,323
+Está a descruzar os fluxos!
+
+1041
+01:44:53,704 --> 01:44:54,872
+Não!
+
+1042
+01:44:56,957 --> 01:44:57,958
+Estão mortos?
+
+1043
+01:45:01,587 --> 01:45:04,131
+Não me lembro de isto ser tão doloroso.
+
+1044
+01:45:04,965 --> 01:45:06,008
+Eu sim.
+
+1045
+01:45:06,091 --> 01:45:07,926
+Tens muita lata.
+
+1046
+01:45:09,887 --> 01:45:12,764
+Voltares aqui, a rastejar até mim...
+
+1047
+01:45:13,640 --> 01:45:16,810
+Podíamos ter sido o casal elétrico
+mais espetacular.
+
+1048
+01:45:16,894 --> 01:45:20,481
+O meu sentido de humor
+e a tua personalidade.
+
+1049
+01:45:21,273 --> 01:45:24,401
+Mas não, tens sempre
+de vencer e conquistar.
+
+1050
+01:45:24,485 --> 01:45:28,989
+Tens sempre de mutilar alguém.
+E foi sobretudo por isso que...
+
+1051
+01:45:29,573 --> 01:45:31,283
+Bela tentativa.
+
+1052
+01:45:31,658 --> 01:45:33,535
+Agora acabou-se, amor.
+
+1053
+01:45:33,619 --> 01:45:35,162
+Estamos acabados.
+
+1054
+01:45:43,545 --> 01:45:44,379
+Não!
+
+1055
+01:45:57,059 --> 01:45:58,227
+Vá lá, Phoebe!
+
+1056
+01:46:25,045 --> 01:46:25,921
+Caraças!
+
+1057
+01:47:09,381 --> 01:47:10,632
+Estamos ligados!
+
+1058
+01:48:12,903 --> 01:48:14,321
+Calculei que aparecesses.
+
+1059
+01:48:20,035 --> 01:48:21,078
+Lamento.
+
+1060
+01:48:22,037 --> 01:48:23,705
+Não acreditei em ti.
+
+1061
+01:48:25,916 --> 01:48:29,586
+Devia ter-te ligado.
+Tive saudades, amigo.
+
+1062
+01:48:35,926 --> 01:48:36,968
+Estás bem?
+
+1063
+01:48:37,052 --> 01:48:39,012
+Pregaste-me um susto de morte!
+
+1064
+01:48:39,096 --> 01:48:40,514
+Não consigo respirar.
+
+1065
+01:48:40,806 --> 01:48:41,807
+Está bem.
+
+1066
+01:48:43,100 --> 01:48:44,142
+Olá.
+
+1067
+01:48:44,851 --> 01:48:48,105
+Pete Venkman, da Central.
+Obrigado pela ajuda.
+
+1068
+01:48:48,188 --> 01:48:50,649
+- Não tem de quê.
+- Gosto do teu estilo.
+
+1069
+01:48:50,732 --> 01:48:53,318
+- Quem é essa?
+- A Callie.
+
+1070
+01:48:55,362 --> 01:48:56,947
+Callie Spengler.
+
+1071
+01:48:57,030 --> 01:48:58,448
+Spengler?
+
+1072
+01:48:58,532 --> 01:49:01,535
+É um nome estranho,
+tente aproveitá-lo ao máximo.
+
+1073
+01:49:01,618 --> 01:49:06,206
+Bom, vamos beber chocolate quente.
+E alguns de nós vão pôr-lhe rum.
+
+1074
+01:49:07,624 --> 01:49:08,792
+Lucky!
+
+1075
+01:49:14,798 --> 01:49:17,008
+Meu Deus! Meu!
+
+1076
+01:49:17,092 --> 01:49:20,053
+- Estás bem?
+- Sim, sim.
+
+1077
+01:49:20,679 --> 01:49:22,431
+Doem-me as mãos de galopar.
+
+1078
+01:49:30,272 --> 01:49:33,567
+Meu Deus! Pensei mesmo
+que te tinha perdido.
+
+1079
+01:49:33,650 --> 01:49:35,193
+Desculpa lá.
+
+1080
+01:49:36,194 --> 01:49:37,237
+Isto foi estranho.
+
+1081
+01:49:37,821 --> 01:49:38,655
+Sim.
+
+1082
+01:49:39,531 --> 01:49:42,325
+- Estou a sangrar. Porquê?
+- Marraste contra um banco.
+
+1083
+01:49:42,409 --> 01:49:44,035
+- Pois foi.
+- Sim.
+
+1084
+01:49:46,663 --> 01:49:48,498
+- Olá.
+- Olá.
+
+1085
+01:49:50,041 --> 01:49:52,127
+- Há bocado...
+- Sim.
+
+1086
+01:49:52,210 --> 01:49:55,839
+Antes de nos tornarmos cães
+e abrirmos os portões do Inferno,
+
+1087
+01:49:55,922 --> 01:49:57,883
+acho que talvez nós...
+
+1088
+01:49:57,966 --> 01:50:00,218
+Sim, sim, também acho.
+
+1089
+01:50:01,678 --> 01:50:04,848
+- Mas depois salvámos o mundo e...
+- É verdade.
+
+1090
+01:50:08,977 --> 01:50:10,562
+Estás bem, filho?
+
+1091
+01:50:11,605 --> 01:50:15,108
+Conseguiste derrotar sozinho
+uma manifestação de Gozer.
+
+1092
+01:50:15,192 --> 01:50:18,487
+- Tem de entrar no meu <i>podcast.</i>
+- Claro, como se chama?
+
+1093
+01:50:18,570 --> 01:50:20,489
+"Contos Místicos
+do Universo Desconhecido."
+
+1094
+01:50:20,572 --> 01:50:22,532
+O CMUD é teu?
+
+1095
+01:50:22,616 --> 01:50:24,993
+Espere. É o meu subscritor?
+
+1096
+01:50:25,076 --> 01:50:28,413
+Revelou-se mesmo no episódio 46.
+
+1097
+01:50:29,915 --> 01:50:31,583
+Que te fizeram?
+
+1098
+01:50:34,294 --> 01:50:35,462
+Não te preocupes.
+
+1099
+01:50:36,755 --> 01:50:39,257
+Eu levo-te para casa e limpo-te.
+
+1100
+01:50:45,096 --> 01:50:46,097
+Vai.
+
+1101
+01:52:24,863 --> 01:52:30,368
+Para o HAROLD
+
+1102
+01:52:52,057 --> 01:52:55,518
+CAÇA-FANTASMAS
+
+1103
+01:52:57,187 --> 01:53:00,607
+Realização
+
+1104
+01:53:01,191 --> 01:53:04,444
+Argumento
+
+1105
+01:53:04,986 --> 01:53:08,323
+Baseado no filme de 1984
+
+1106
+01:53:08,740 --> 01:53:12,035
+Produção
+
+1107
+01:53:23,755 --> 01:53:27,008
+Fotografia
+
+1108
+01:53:27,550 --> 01:53:30,887
+Direção de Arte
+
+1109
+01:53:31,304 --> 01:53:34,391
+Montagem
+
+1110
+01:53:38,812 --> 01:53:42,023
+Música
+
+1111
+01:54:38,079 --> 01:54:39,539
+Diz-me o que isto é.
+
+1112
+01:54:44,294 --> 01:54:45,295
+Linhas.
+
+1113
+01:54:47,255 --> 01:54:48,256
+Duas.
+
+1114
+01:54:48,673 --> 01:54:50,508
+Não, três...
+
+1115
+01:54:51,718 --> 01:54:53,428
+linhas onduladas.
+
+1116
+01:54:57,265 --> 01:54:58,892
+- É espantoso!
+- Tu é que és.
+
+1117
+01:54:58,975 --> 01:55:03,188
+Com essa capacidade para me invadir
+os poderes psíquicos.
+
+1118
+01:55:03,271 --> 01:55:05,565
+Acho incrível dares choques
+aos teus alunos.
+
+1119
+01:55:05,648 --> 01:55:08,234
+Entre nós, só dava esticões aos rapazes.
+
+1120
+01:55:09,944 --> 01:55:12,906
+Era uma ciência com falhas.
+Hoje sei-o. Admito-o.
+
+1121
+01:55:12,989 --> 01:55:13,990
+Pronto?
+
+1122
+01:55:14,574 --> 01:55:15,909
+Tenta lá esta.
+
+1123
+01:55:18,703 --> 01:55:19,871
+Demora o que for preciso.
+
+1124
+01:55:24,626 --> 01:55:26,336
+É uma estrela de cinco pontas.
+
+1125
+01:55:27,170 --> 01:55:28,046
+Sim?
+
+1126
+01:55:28,129 --> 01:55:29,631
+Como fazes isso?
+
+1127
+01:55:29,714 --> 01:55:34,094
+Há quem acredite que o verdadeiro amor
+impregna o sujeito da capacidade para...
+
+1128
+01:55:35,512 --> 01:55:37,639
+- Marcaste as cartas?
+- Não.
+
+1129
+01:55:37,722 --> 01:55:38,807
+Marcaste, não marcaste?
+
+1130
+01:55:40,433 --> 01:55:41,267
+Sim.
+
+1131
+01:55:44,979 --> 01:55:46,523
+Funciona bem.
+
+1132
+02:01:47,592 --> 02:01:52,597
+Tradução: SARA DAVID LOPES
+
+1133
+02:01:53,556 --> 02:01:55,349
+Quero que fiques com isto.
+
+1134
+02:01:55,433 --> 02:01:56,642
+O que é?
+
+1135
+02:01:56,726 --> 02:02:02,064
+É uma recordação da Feira Mundial,
+em Flushing Meadow, em 1964.
+
+1136
+02:02:02,148 --> 02:02:04,108
+É a minha moeda da sorte.
+
+1137
+02:02:04,192 --> 02:02:07,278
+Não devia aceitá-la.
+Talvez não voltemos.
+
+1138
+02:02:07,361 --> 02:02:10,823
+Fica com ela na mesma,
+tenho outra em casa.
+
+1139
+02:02:17,330 --> 02:02:19,332
+<i>O Egon tinha as ideias.</i>
+
+1140
+02:02:19,415 --> 02:02:21,125
+<i>O Ray tinha coração.</i>
+
+1141
+02:02:22,043 --> 02:02:23,961
+<i>O Peter era só fixe.</i>
+
+1142
+02:02:25,129 --> 02:02:27,965
+- E tu quem eras?
+- O sex <i>appeal.</i>
+
+1143
+02:02:31,636 --> 02:02:35,932
+Safaste-te muito bem,
+tens imensa visibilidade.
+
+1144
+02:02:36,682 --> 02:02:37,808
+Aí é que está.
+
+1145
+02:02:39,101 --> 02:02:41,145
+<i>Não o faço por mim.</i>
+
+1146
+02:02:41,896 --> 02:02:43,856
+<i>Faço-o pelos meus filhos</i> e...
+
+1147
+02:02:44,357 --> 02:02:46,859
+Quero dar um exemplo
+de possibilidade.
+
+1148
+02:02:46,943 --> 02:02:50,029
+Ainda pagas a renda da livraria do Ray?
+
+1149
+02:02:51,239 --> 02:02:53,616
+Um dia destes, o Ray há de ter lucro.
+
+1150
+02:02:54,200 --> 02:02:56,577
+<i>Lembro-me do dia em que chegaste.</i>
+
+1151
+02:02:57,245 --> 02:02:59,914
+<i>Eu vinha à procura dum contrato.</i>
+
+1152
+02:02:59,997 --> 02:03:04,544
+Mas caçar fantasmas com os rapazes
+ensinou-me a não ter medo.
+
+1153
+02:03:04,627 --> 02:03:07,421
+Mostrou-me que eu tinha
+as ferramentas e o talento.
+
+1154
+02:03:07,797 --> 02:03:10,424
+Comecei esta empresa com um funcionário.
+
+1155
+02:03:11,092 --> 02:03:14,637
+E entretanto
+é uma próspera empresa global.
+
+1156
+02:03:15,346 --> 02:03:20,851
+Posso ser um empresário,
+mas serei sempre um Caça-Fantasmas.
+
+1157
+02:03:41,080 --> 02:03:43,082
+PERIGO
+
+1158
+02:03:49,463 --> 02:03:50,881
+FIM
+
+1159
+02:03:51,007 --> 02:03:53,009
+Tradução das legendas:
+SARA DAVID LOPES
+
+1159
+02:03:54,305 --> 02:04:54,827
+Por favor classifique esta legenda em www.osdb.link/9jddt
+Ajude os outros utilizadores a escolher as melhores legendas.
