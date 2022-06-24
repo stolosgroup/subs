@@ -1,0 +1,3850 @@
+﻿1
+00:00:06,000 --> 00:00:12,074
+-== [ www.OpenSubtitles.com ] ==-
+
+2
+00:00:18,060 --> 00:00:20,938
+- I was born in a time of dreams.
+
+3
+00:00:21,522 --> 00:00:25,376
+We were pure of spirit
+and devout in our beliefs.
+
+4
+00:00:25,400 --> 00:00:28,838
+The blessings of Avis
+were showered upon us
+
+5
+00:00:28,862 --> 00:00:31,883
+and brought our greatest hopes to life.
+
+6
+00:00:31,907 --> 00:00:36,495
+But now we face a looming nightmare.
+
+7
+00:00:38,038 --> 00:00:40,808
+We brought this nightmare
+upon ourselves
+
+8
+00:00:40,832 --> 00:00:45,146
+when we placed our fate
+into the hands of a false prophet.
+
+9
+00:00:49,091 --> 00:00:51,694
+Supreme Chancellor Korin
+
+10
+00:00:51,718 --> 00:00:55,323
+has turned his back
+on everything we hold sacred.
+
+11
+00:00:58,809 --> 00:01:00,703
+At this very moment,
+
+12
+00:01:00,727 --> 00:01:04,082
+he consorts with our enemies
+a thousand light-years away,
+
+13
+00:01:04,106 --> 00:01:08,670
+negotiating a treaty
+with the Planetary Union,
+
+14
+00:01:08,694 --> 00:01:13,282
+a treaty
+that will imperil our civilization.
+
+15
+00:01:17,661 --> 00:01:22,207
+The Chancellor would have you believe
+that this treaty protects us.
+
+16
+00:01:22,791 --> 00:01:26,753
+But in truth, it weakens us.
+
+17
+00:01:27,337 --> 00:01:32,009
+It demands we surrender
+our divine right to expand our territory.
+
+18
+00:01:35,220 --> 00:01:39,391
+It forces us to protect other worlds
+at the risk of our own...
+
+19
+00:01:42,603 --> 00:01:44,730
+to spill our blood,
+
+20
+00:01:45,314 --> 00:01:49,443
+to expend our resources
+for their benefit!
+
+21
+00:01:53,697 --> 00:01:58,911
+If this treaty is ratified,
+what will they demand next?
+
+22
+00:02:00,037 --> 00:02:02,998
+More of their ships in our space?
+
+23
+00:02:05,083 --> 00:02:08,420
+Their politicians
+interfering in our affairs?
+
+24
+00:02:10,214 --> 00:02:14,676
+The inevitable erosion
+of our ideals and our identity?
+
+25
+00:02:16,512 --> 00:02:19,890
+Where will it end?
+
+26
+00:02:26,396 --> 00:02:28,374
+When you go home to your children,
+
+27
+00:02:28,398 --> 00:02:31,735
+will you tell them you chose
+to destroy our future?
+
+28
+00:02:33,612 --> 00:02:39,302
+Or will you tell them
+you have reclaimed our dreams
+
+29
+00:02:39,326 --> 00:02:43,205
+and placed your trust
+in the word of Avis?
+
+30
+00:02:45,123 --> 00:02:47,018
+A word which declares...
+
+31
+00:02:47,042 --> 00:02:49,336
+that Krill comes first!
+
+32
+00:02:58,303 --> 00:03:02,575
+Place your faith in me
+as your Supreme Chancellor,
+
+33
+00:03:02,599 --> 00:03:06,019
+and I will end this madness!
+
+34
+00:03:07,271 --> 00:03:12,836
+And those responsible
+will pay for their treason!
+
+35
+00:03:23,036 --> 00:03:25,122
+♪
+
+36
+00:03:30,961 --> 00:03:32,963
+♪
+
+37
+00:05:04,763 --> 00:05:06,723
+♪
+
+38
+00:05:11,144 --> 00:05:14,791
+- ♪ The sun will come out tomorrow ♪
+
+39
+00:05:14,815 --> 00:05:19,462
+♪ So you gotta hang on till tomorrow ♪
+
+40
+00:05:19,486 --> 00:05:22,841
+♪ Come what may ♪
+
+41
+00:05:22,865 --> 00:05:25,885
+♪ Tomorrow, tomorrow ♪
+
+42
+00:05:25,909 --> 00:05:28,763
+♪ I love ya tomorrow ♪
+
+43
+00:05:28,787 --> 00:05:33,434
+♪ You're only a day away ♪
+
+44
+00:05:33,458 --> 00:05:37,605
+♪ Tomorrow, tomorrow ♪
+
+45
+00:05:37,629 --> 00:05:40,400
+♪ I love ya tomorrow ♪
+
+46
+00:05:40,424 --> 00:05:45,321
+♪ You're only a day ♪
+
+47
+00:05:45,345 --> 00:05:48,324
+♪ A... ♪
+
+48
+00:05:48,348 --> 00:05:54,188
+♪ Way... ♪
+
+49
+00:06:18,045 --> 00:06:21,065
+- Did you enjoy your evening
+on Broadway, Chancellor?
+
+50
+00:06:21,089 --> 00:06:22,525
+- Indeed.
+
+51
+00:06:22,549 --> 00:06:27,596
+However, the repeated prophecy
+of the orphan child was quite haunting.
+
+52
+00:06:28,388 --> 00:06:32,243
+"The sun will come out... tomorrow."
+
+53
+00:06:32,267 --> 00:06:36,289
+- In our culture, the sun
+is a symbol of suffering and death.
+
+54
+00:06:36,313 --> 00:06:40,084
+- Yes, in retrospect, "Oklahoma!"
+might've been a better choice.
+
+55
+00:06:40,108 --> 00:06:43,588
+- The performance depicted a time
+of tremendous hardship in your history.
+
+56
+00:06:43,612 --> 00:06:46,841
+For how long did
+your world endure this catastrophe?
+
+57
+00:06:46,865 --> 00:06:49,886
+- The Great Depression.
+It lasted over a decade.
+
+58
+00:06:49,910 --> 00:06:53,681
+- Sadly, those kinds of societal collapses
+used to be pretty common.
+
+59
+00:06:53,705 --> 00:06:57,519
+- It wasn't until we advanced beyond
+the need to buy and sell things
+
+60
+00:06:57,543 --> 00:06:59,813
+that our world became
+a more stable place.
+
+61
+00:06:59,837 --> 00:07:03,024
+- The Merchant Class is the backbone
+of our civilization.
+
+62
+00:07:03,048 --> 00:07:07,320
+And our society has been stable
+for tens of thousands of years.
+
+63
+00:07:07,344 --> 00:07:10,698
+What you lack is divine guidance.
+
+64
+00:07:10,722 --> 00:07:14,118
+- All things considered, I'd say
+we're doing pretty well these days.
+
+65
+00:07:14,142 --> 00:07:16,246
+- And yet, in the face
+of the Kaylon threat,
+
+66
+00:07:16,270 --> 00:07:18,581
+you come to us begging for salvation.
+
+67
+00:07:18,605 --> 00:07:19,749
+- Pakor!
+
+68
+00:07:19,773 --> 00:07:23,044
+- Well, with all due respect,
+I wouldn't exactly call it begging.
+
+69
+00:07:23,068 --> 00:07:26,422
+There's a clear
+and obvious mutual advantage here.
+
+70
+00:07:26,446 --> 00:07:28,800
+- The treaty is not just
+for our advantage,
+
+71
+00:07:28,824 --> 00:07:30,426
+but for yours as well.
+
+72
+00:07:30,450 --> 00:07:31,511
+The Kaylon threat...
+
+73
+00:07:31,535 --> 00:07:33,346
+- The Kaylon will be defeated.
+
+74
+00:07:33,370 --> 00:07:35,807
+Our fighting forces are unequaled.
+
+75
+00:07:35,831 --> 00:07:40,294
+- But... our combined forces
+will ensure success.
+
+76
+00:07:40,878 --> 00:07:46,526
+When the threat is existential,
+one cannot afford a margin for error.
+
+77
+00:07:46,550 --> 00:07:47,759
+- A toast.
+
+78
+00:07:49,261 --> 00:07:54,183
+To our combined forces
+and the salvation of all our worlds.
+
+79
+00:07:58,812 --> 00:08:00,665
+- It's been a pleasure hosting you,
+Chancellor.
+
+80
+00:08:00,689 --> 00:08:04,460
+Perhaps one day
+a Union delegation can visit Krill.
+
+81
+00:08:04,484 --> 00:08:08,339
+- We would be most pleased
+to return your generosity.
+
+82
+00:08:08,363 --> 00:08:10,675
+Once the details are finalized,
+
+83
+00:08:10,699 --> 00:08:16,514
+I propose we sign the treaty
+in our glorious capital city of Dalakos.
+
+84
+00:08:16,538 --> 00:08:21,895
+And we will celebrate my re-instatement
+as Supreme Chancellor.
+
+85
+00:08:21,919 --> 00:08:23,938
+- It would be our great honor.
+
+86
+00:08:23,962 --> 00:08:27,400
+I've... been meaning
+to ask about that, if I may.
+
+87
+00:08:27,424 --> 00:08:30,469
+You seem very certain of your victory.
+
+88
+00:08:31,053 --> 00:08:34,157
+- My opponent is a divisive figure
+
+89
+00:08:34,181 --> 00:08:36,350
+who exploits fear and ignorance.
+
+90
+00:08:37,059 --> 00:08:41,372
+She has a devout following,
+but it is insignificant.
+
+91
+00:08:41,396 --> 00:08:45,543
+- Our projections show
+that Chancellor Korin will prevail.
+
+92
+00:08:45,567 --> 00:08:49,589
+- Once the people of Krill
+see you for themselves, as I have,
+
+93
+00:08:49,613 --> 00:08:55,094
+they will understand you are not
+the soulless monsters
+
+94
+00:08:55,118 --> 00:08:57,764
+my opponent would have them believe.
+
+95
+00:08:57,788 --> 00:09:01,226
+- Well, at the risk of getting us
+all drunk on toasts,
+
+96
+00:09:01,250 --> 00:09:04,521
+here's to your victory, Chancellor.
+
+97
+00:09:04,545 --> 00:09:07,357
+And to a new era of long-lasting peace.
+
+98
+00:09:07,381 --> 00:09:08,298
+- Hear, hear!
+
+99
+00:09:09,800 --> 00:09:13,512
+♪  ♪
+
+100
+00:09:18,976 --> 00:09:21,746
+- Aww, man, y'know,
+that makes me miss your moustache.
+
+101
+00:09:21,770 --> 00:09:23,915
+Oh, my God,
+you had a moustache?
+
+102
+00:09:23,939 --> 00:09:25,500
+- Oh, yeah, it was amazing.
+
+103
+00:09:25,524 --> 00:09:27,752
+- I thought Moclans
+didn't grow facial hair.
+
+104
+00:09:27,776 --> 00:09:30,922
+- Doctor Finn was able
+to stimulate growth.
+
+105
+00:09:30,946 --> 00:09:33,633
+- What about the Hippocratic Oath,
+"First do no harm"?
+
+106
+00:09:33,657 --> 00:09:35,134
+- Wait a minute, how is that harm?
+
+107
+00:09:35,158 --> 00:09:36,427
+- It's a moustache.
+
+108
+00:09:36,451 --> 00:09:39,162
+She's got us there.
+
+109
+00:09:39,705 --> 00:09:43,560
+- Whoa! Commander, you might wanna
+pace yourself, we're only in the 1800s.
+
+110
+00:09:43,584 --> 00:09:45,311
+- Eh, don't worry about me, I'll make it.
+
+111
+00:09:45,335 --> 00:09:47,355
+- Have you been through
+the whole simulation?
+
+112
+00:09:47,379 --> 00:09:50,525
+- Almost. The pub crawl through history
+is a classic in my family.
+
+113
+00:09:50,549 --> 00:09:54,612
+My dad once made it from ancient Greece
+all the way to the Water Wars.
+
+114
+00:09:54,636 --> 00:09:57,282
+- I've gotta say, I've never
+understood the "pub crawl."
+
+115
+00:09:57,306 --> 00:09:58,491
+We're here, we're drinking.
+
+116
+00:09:58,515 --> 00:10:01,202
+The booze is gonna be
+exactly the same at the next place.
+
+117
+00:10:01,226 --> 00:10:03,830
+Let's just stay here,
+we're enjoying ourselves.
+
+118
+00:10:03,854 --> 00:10:07,608
+- Hey. Here's to your promotion.
+Lieutenant Commander Keyali.
+
+119
+00:10:08,317 --> 00:10:10,211
+It's got a nice ring to it.
+- Thanks, John.
+
+120
+00:10:10,235 --> 00:10:12,630
+Best part is, I don't have
+to call you "sir" anymore.
+
+121
+00:10:12,654 --> 00:10:15,300
+- That's fine by me.
+Kinda like hearing you use my name.
+
+122
+00:10:15,324 --> 00:10:17,260
+- Oh, yeah?
+- Yeah.
+
+123
+00:10:17,284 --> 00:10:19,077
+Wouldn't mind hearing it
+more often, actually.
+
+124
+00:10:19,745 --> 00:10:21,246
+- Are you trying to tell me something?
+
+125
+00:10:22,831 --> 00:10:24,082
+- Oh, my God.
+
+126
+00:10:27,085 --> 00:10:28,813
+This town will not accommodate
+
+127
+00:10:28,837 --> 00:10:32,275
+the numerical totality
+of our combined mass.
+
+128
+00:10:32,299 --> 00:10:34,652
+- Well, it was fun while it lasted.
+
+129
+00:10:34,676 --> 00:10:36,529
+Bridge to Captain.
+
+130
+00:10:36,553 --> 00:10:37,655
+- Go ahead.
+
+131
+00:10:37,679 --> 00:10:40,033
+I have Admiral Halsey
+on a priority-one channel
+
+132
+00:10:40,057 --> 00:10:41,743
+for you and Commander Grayson.
+
+133
+00:10:41,767 --> 00:10:42,976
+- We're on our way.
+
+134
+00:10:48,774 --> 00:10:51,503
+- So this is actually happening?
+Like it's a done deal?
+
+135
+00:10:51,527 --> 00:10:53,046
+- Everything but the ink.
+
+136
+00:10:53,070 --> 00:10:56,299
+The last few outstanding points
+were finalized about an hour ago.
+
+137
+00:10:56,323 --> 00:10:59,302
+- Admiral, I gotta say,
+congratulations to all of you.
+
+138
+00:10:59,326 --> 00:11:01,387
+This... This is huge.
+
+139
+00:11:01,411 --> 00:11:04,057
+- Well, you and your crew should
+congratulate yourselves as well.
+
+140
+00:11:04,081 --> 00:11:07,227
+The Orville played a critical role
+leading up to this achievement.
+
+141
+00:11:07,251 --> 00:11:08,561
+I'm proud of you.
+
+142
+00:11:08,585 --> 00:11:09,896
+- Thank you, sir.
+
+143
+00:11:09,920 --> 00:11:13,525
+- The treaty signing will take place
+in Dalakos in one week.
+
+144
+00:11:13,549 --> 00:11:14,984
+- Dalakos?
+
+145
+00:11:15,008 --> 00:11:16,110
+On Krill?
+
+146
+00:11:16,134 --> 00:11:21,074
+- President Alcuzan has been invited,
+along with Senator Balask and myself.
+
+147
+00:11:21,098 --> 00:11:24,685
+And I've requested The Orville
+for transport duty.
+
+148
+00:11:25,561 --> 00:11:28,289
+- Really?
+- You'll be among the first Union officers
+
+149
+00:11:28,313 --> 00:11:30,166
+ever to set foot on Krill.
+
+150
+00:11:30,190 --> 00:11:33,503
+- Sir, this is... this is amazing.
+
+151
+00:11:33,527 --> 00:11:34,921
+We're so grateful.
+
+152
+00:11:34,945 --> 00:11:36,714
+- Don't be, you've earned it.
+
+153
+00:11:36,738 --> 00:11:39,968
+You'll head back to Earth immediately
+to pick up the delegation.
+
+154
+00:11:39,992 --> 00:11:42,428
+Saddle up, you've got a long ride.
+
+155
+00:11:42,452 --> 00:11:44,288
+Halsey out.
+
+156
+00:11:44,872 --> 00:11:47,499
+- Oh, my God.
+- This is unbelievable.
+
+157
+00:11:48,500 --> 00:11:50,520
+- You know what the best part is?
+- What?
+
+158
+00:11:50,544 --> 00:11:52,313
+- He had no idea we'd been drinking.
+
+159
+00:11:52,337 --> 00:11:55,066
+- This is a good day.
+- It is a good day.
+
+160
+00:11:56,508 --> 00:11:58,385
+♪
+
+161
+00:12:27,039 --> 00:12:30,268
+- Ah! Captain Mercer.
+It's so good to finally meet you.
+
+162
+00:12:30,292 --> 00:12:32,836
+- The privilege
+is all mine, Mr. President.
+
+163
+00:12:34,087 --> 00:12:36,524
+- And you must be Commander Grayson.
+
+164
+00:12:36,548 --> 00:12:39,194
+I've heard great things
+from Admiral Halsey.
+
+165
+00:12:39,218 --> 00:12:41,362
+We both admired your father very much.
+
+166
+00:12:41,386 --> 00:12:43,680
+- Thank you, Mr. President.
+I know he felt the same.
+
+167
+00:12:44,640 --> 00:12:46,784
+- Well, I appreciate the honor guard,
+
+168
+00:12:46,808 --> 00:12:48,578
+but, uh, you didn't have to go
+to the trouble.
+
+169
+00:12:48,602 --> 00:12:50,246
+- It's no trouble, sir.
+
+170
+00:12:50,270 --> 00:12:53,041
+This is my Chief of Security,
+Commander Talla Keyali.
+
+171
+00:12:53,065 --> 00:12:54,792
+- Your team is impressive, Commander.
+
+172
+00:12:54,816 --> 00:12:56,044
+- Thank you, sir.
+
+173
+00:12:56,068 --> 00:12:58,755
+It's not every day I get to show them off
+for a group like this.
+
+174
+00:12:58,779 --> 00:13:00,965
+- If you're ready to get settled,
+we'll show you to your quarters.
+
+175
+00:13:00,989 --> 00:13:02,241
+- Ah, wonderful.
+
+176
+00:13:03,951 --> 00:13:05,261
+- Ed.
+
+177
+00:13:05,285 --> 00:13:07,913
+Before we get underway,
+there's something you should know.
+
+178
+00:13:08,622 --> 00:13:09,516
+About the election.
+
+179
+00:13:09,540 --> 00:13:11,476
+- What is it?
+
+180
+00:13:11,500 --> 00:13:17,148
+- What they call a treaty,
+I call a capitulation of cowards!
+
+181
+00:13:22,052 --> 00:13:26,699
+Their Union is a patchwork alliance
+of hundreds of species
+
+182
+00:13:26,723 --> 00:13:30,870
+that long ago surrendered
+their identities to this...
+
+183
+00:13:30,894 --> 00:13:34,874
+this social collective
+that rapes them of their purity.
+
+184
+00:13:37,651 --> 00:13:39,963
+Would you let them do the same to us?
+
+185
+00:13:39,987 --> 00:13:42,257
+No!
+
+186
+00:13:42,281 --> 00:13:44,491
+- Make no mistake.
+
+187
+00:13:45,075 --> 00:13:47,679
+The outstretched hand of welcome
+
+188
+00:13:47,703 --> 00:13:50,890
+will quickly become
+the fist of oppression.
+
+189
+00:13:51,915 --> 00:13:57,105
+We must kill this treaty
+and reclaim our rightful place
+
+190
+00:13:57,129 --> 00:14:00,567
+as the dominant force in this galaxy.
+
+191
+00:14:08,515 --> 00:14:12,120
+- After you released Teleya to the Krill,
+she quit the military.
+
+192
+00:14:12,144 --> 00:14:13,913
+Several months later, she reemerged
+
+193
+00:14:13,937 --> 00:14:17,441
+as part of a small but vocal opposition
+to the Krill establishment.
+
+194
+00:14:17,900 --> 00:14:20,670
+It didn't really gain traction
+until the Krill started talking
+
+195
+00:14:20,694 --> 00:14:22,005
+about a treaty with the Union.
+
+196
+00:14:22,029 --> 00:14:24,549
+That's when Teleya's rhetoric
+started to resonate.
+
+197
+00:14:24,573 --> 00:14:27,051
+More and more people
+began to take her seriously.
+
+198
+00:14:27,075 --> 00:14:28,720
+Her personal story,
+
+199
+00:14:28,744 --> 00:14:31,556
+the so-called massacre
+of her brother and crew,
+
+200
+00:14:31,580 --> 00:14:34,809
+helped her reinvent herself
+as a sort of folk hero.
+
+201
+00:14:34,833 --> 00:14:36,561
+She's been gaining popularity ever since.
+
+202
+00:14:36,585 --> 00:14:38,396
+- Does she have a chance in the election?
+
+203
+00:14:38,420 --> 00:14:40,565
+- It's our understanding
+that Chancellor Korin
+
+204
+00:14:40,589 --> 00:14:41,774
+maintains a wide lead.
+
+205
+00:14:41,798 --> 00:14:44,652
+But for some, his embrace
+of the treaty makes him look soft.
+
+206
+00:14:44,676 --> 00:14:46,404
+To the more radical demographics,
+
+207
+00:14:46,428 --> 00:14:50,200
+his comparatively moderate administration
+seems out of touch.
+
+208
+00:14:50,224 --> 00:14:53,328
+So what you've got
+is a political vacuum.
+
+209
+00:14:53,352 --> 00:14:56,706
+- A political vacuum is a dangerous thing.
+- Always.
+
+210
+00:14:56,730 --> 00:14:59,501
+If no one fills it with hope,
+someone will fill it with fear.
+
+211
+00:14:59,525 --> 00:15:02,128
+Regardless of the outcome,
+we have to assume Teleya
+
+212
+00:15:02,152 --> 00:15:05,131
+will do everything in her power
+to undermine the alliance.
+
+213
+00:15:05,155 --> 00:15:07,342
+- I thought we'd made progress...
+
+214
+00:15:07,366 --> 00:15:09,868
+- Ed, you know her better than any of us.
+
+215
+00:15:10,619 --> 00:15:13,556
+If there are any insights
+you could provide as far as her thinking,
+
+216
+00:15:13,580 --> 00:15:17,167
+her vulnerabilities,
+it would be very helpful.
+
+217
+00:15:26,385 --> 00:15:31,241
+- I promise you, you will achieve
+nothing by this demonstration.
+
+218
+00:15:33,725 --> 00:15:37,914
+There will be no additional funding
+for the Uvok Province!
+
+219
+00:15:41,024 --> 00:15:42,192
+- Come in.
+
+220
+00:15:45,654 --> 00:15:47,656
+Hey.
+- Hey.
+
+221
+00:15:48,949 --> 00:15:51,410
+I was just checking to see
+how you're holding up.
+
+222
+00:15:52,578 --> 00:15:54,830
+- I owe you an apology.
+
+223
+00:15:55,414 --> 00:15:56,498
+- For what?
+
+224
+00:15:57,040 --> 00:16:02,546
+- You objected to my releasing Teleya,
+and I ignored you.
+
+225
+00:16:05,883 --> 00:16:07,134
+I just...
+
+226
+00:16:07,843 --> 00:16:11,573
+wanted to believe that I had
+reached her on some level.
+
+227
+00:16:11,597 --> 00:16:14,183
+- You can't blame yourself
+for what Teleya believes.
+
+228
+00:16:17,561 --> 00:16:18,520
+- Look at this.
+
+229
+00:16:21,857 --> 00:16:26,379
+Chancellor Korin gave us limited access
+to the Krill informational network.
+
+230
+00:16:26,403 --> 00:16:29,465
+The people of the Uvok Province
+
+231
+00:16:29,489 --> 00:16:31,342
+have repeatedly shown themselves
+
+232
+00:16:31,366 --> 00:16:35,972
+to be blasphemous degenerates,
+unworthy of our aid!
+
+233
+00:16:35,996 --> 00:16:38,433
+By assembling in this place,
+
+234
+00:16:38,457 --> 00:16:43,354
+you show yourselves
+to be as disloyal as they are!
+
+235
+00:16:43,378 --> 00:16:47,692
+You will regret what you do here today!
+
+236
+00:16:49,009 --> 00:16:53,031
+- A few minutes after this,
+the protestors were gassed with helocine.
+
+237
+00:16:53,055 --> 00:16:54,616
+Eleven people died.
+
+238
+00:16:54,640 --> 00:16:56,159
+- My God.
+
+239
+00:16:56,183 --> 00:16:57,869
+This is the guy
+we want to sign a treaty with?
+
+240
+00:16:57,893 --> 00:17:00,747
+- You know what the real problem
+with this event is?
+
+241
+00:17:00,771 --> 00:17:02,189
+It never happened.
+
+242
+00:17:03,440 --> 00:17:05,442
+It's completely fictitious.
+
+243
+00:17:06,276 --> 00:17:09,589
+And there are countless other files
+that show all kinds of scenarios
+
+244
+00:17:09,613 --> 00:17:12,133
+where Chancellor Korin
+oppresses his people.
+
+245
+00:17:12,157 --> 00:17:15,220
+There are even some from the other side
+designed to discredit Teleya,
+
+246
+00:17:15,244 --> 00:17:17,764
+although they're not that different
+from her actual speeches.
+
+247
+00:17:17,788 --> 00:17:19,265
+- How can you tell the difference?
+
+248
+00:17:19,289 --> 00:17:20,874
+- Sometimes I can't.
+
+249
+00:17:21,458 --> 00:17:25,146
+I asked the Chancellor, and he said
+they call it "influence operations."
+
+250
+00:17:25,170 --> 00:17:26,773
+They have computers
+
+251
+00:17:26,797 --> 00:17:31,069
+generating thousands of these things
+every second, trying to stoke outrage.
+
+252
+00:17:31,093 --> 00:17:32,987
+Even the angry crowds are phony.
+
+253
+00:17:33,011 --> 00:17:35,740
+- What do you make of it?
+As far as the election goes?
+
+254
+00:17:35,764 --> 00:17:37,182
+- I don't know.
+
+255
+00:17:38,392 --> 00:17:41,079
+Teleya is inexperienced.
+
+256
+00:17:41,103 --> 00:17:43,814
+She's a populist, not a politician.
+
+257
+00:17:44,481 --> 00:17:46,292
+She's running on rhetoric and fire.
+
+258
+00:17:46,316 --> 00:17:49,462
+So the Chancellor
+thinks that he's still a lock.
+
+259
+00:17:49,486 --> 00:17:52,489
+He says he trusts
+his people to follow the will of Avis.
+
+260
+00:17:54,408 --> 00:17:56,952
+- You never want to underestimate
+a populist movement.
+
+261
+00:17:57,870 --> 00:18:00,289
+Emotions can be
+more persuasive than thoughts.
+
+262
+00:18:02,499 --> 00:18:04,501
+You think any of this will
+affect the treaty?
+
+263
+00:18:05,127 --> 00:18:08,380
+- Battle plans are only perfect
+until the fighting starts.
+
+264
+00:18:09,214 --> 00:18:14,178
+I gotta believe that some version of that
+holds true for peace treaties.
+
+265
+00:18:24,688 --> 00:18:26,690
+♪
+
+266
+00:18:30,652 --> 00:18:32,213
+- We're approaching Krill space, Captain.
+
+267
+00:18:32,237 --> 00:18:33,590
+- Drop to sublight.
+
+268
+00:18:33,614 --> 00:18:34,865
+- Aye, sir.
+
+269
+00:18:41,997 --> 00:18:44,625
+- Three Krill battlecruisers
+are closing on our position.
+
+270
+00:18:57,471 --> 00:18:59,282
+- They're signaling us to follow them.
+
+271
+00:18:59,306 --> 00:19:00,366
+- Gordon.
+
+272
+00:19:00,390 --> 00:19:02,142
+- Matching speed and heading.
+
+273
+00:19:13,820 --> 00:19:15,048
+The planet is enveloped
+
+274
+00:19:15,072 --> 00:19:17,842
+by cirrostratus
+and cumulonimbus cloud layers.
+
+275
+00:19:17,866 --> 00:19:21,054
+Average surface temperature
+is five degrees above freezing.
+
+276
+00:19:21,078 --> 00:19:23,348
+That's going to be a bumpy entry.
+
+277
+00:19:23,372 --> 00:19:25,350
+Your navigator will have to be alert.
+
+278
+00:19:25,374 --> 00:19:29,103
+- I think you'll find Ensign Burke
+is pretty quick on the draw.
+
+279
+00:19:29,127 --> 00:19:31,606
+- I promise I'll get you there
+in one piece, Senator.
+
+280
+00:19:31,630 --> 00:19:33,882
+- Captain, the shuttle has been
+cleared for departure.
+
+281
+00:19:35,926 --> 00:19:37,362
+- We'll see you soon.
+
+282
+00:19:37,386 --> 00:19:38,929
+- Go make some history.
+
+283
+00:20:08,083 --> 00:20:10,061
+- Approaching ionosphere.
+
+284
+00:20:10,085 --> 00:20:12,605
+- Sir, I'm gonna be feeding you
+the course corrections pretty quickly.
+
+285
+00:20:12,629 --> 00:20:14,524
+This atmosphere is gonna kick
+our butts a little,
+
+286
+00:20:14,548 --> 00:20:16,317
+but I'll try to keep us
+out of the roughest air.
+
+287
+00:20:16,341 --> 00:20:17,777
+- Very good, Ensign.
+
+288
+00:20:17,801 --> 00:20:20,363
+- Sir, I'm happy to take the helm
+if you want.
+
+289
+00:20:20,387 --> 00:20:23,032
+- You're asking if I'm
+as sharp as I used to be?
+
+290
+00:20:23,056 --> 00:20:25,267
+- No, sir, not at all.
+
+291
+00:20:25,893 --> 00:20:29,688
+- When I called you from Earth,
+I knew you and Kelly were drunk.
+
+292
+00:20:31,899 --> 00:20:33,418
+- Point made, sir.
+
+293
+00:20:33,442 --> 00:20:34,878
+Shuttle's yours.
+
+294
+00:20:34,902 --> 00:20:36,403
+- Brace for entry.
+
+295
+00:20:44,369 --> 00:20:48,207
+- "Night falls fast,
+today is in the past."
+
+296
+00:20:48,832 --> 00:20:50,125
+- What is that, sir?
+
+297
+00:20:50,626 --> 00:20:52,145
+- It's from a poem.
+
+298
+00:20:52,169 --> 00:20:54,898
+- Okay, here we go.
+It's about to get bumpy, folks.
+
+299
+00:20:54,922 --> 00:20:56,858
+- How dense is the full cloud cover?
+
+300
+00:20:56,882 --> 00:20:58,383
+- About 80 kilometers.
+
+301
+00:21:05,641 --> 00:21:07,410
+We've lost sight of our escorts.
+
+302
+00:21:07,434 --> 00:21:10,145
+- I have 'em on lateral scans.
+They're on us like glue.
+
+303
+00:21:14,942 --> 00:21:15,943
+- Look...
+
+304
+00:21:17,069 --> 00:21:19,947
+♪
+
+305
+00:22:19,214 --> 00:22:20,733
+- All right, this is it.
+
+306
+00:22:20,757 --> 00:22:21,818
+- We'll see you soon.
+
+307
+00:22:21,842 --> 00:22:23,594
+- Yes, sir. I'll be here.
+
+308
+00:22:24,303 --> 00:22:27,866
+- You know, Ensign...
+this is history in the making.
+
+309
+00:22:27,890 --> 00:22:30,410
+Perhaps you'd like to join us
+as an observer.
+
+310
+00:22:30,434 --> 00:22:32,662
+If your Captain has no objections.
+
+311
+00:22:32,686 --> 00:22:33,997
+- None, Admiral.
+
+312
+00:22:34,021 --> 00:22:36,190
+- Very well. Come on.
+
+313
+00:23:04,843 --> 00:23:06,279
+- Who's this guy?
+
+314
+00:23:06,303 --> 00:23:09,348
+- That's Avis, the Krill deity.
+
+315
+00:23:10,390 --> 00:23:12,518
+- Looks like a lotta laughs.
+
+316
+00:23:30,536 --> 00:23:33,097
+- President Alcuzan. Welcome.
+
+317
+00:23:33,121 --> 00:23:36,017
+This is truly an historic occasion.
+
+318
+00:23:36,041 --> 00:23:38,561
+- Your gracious invitation honors us,
+Chancellor.
+
+319
+00:23:38,585 --> 00:23:42,398
+- Please, join us for some Kahspid cider.
+
+320
+00:23:42,422 --> 00:23:43,733
+A Krill delicacy.
+
+321
+00:23:43,757 --> 00:23:45,151
+- Alien delicacies.
+
+322
+00:23:45,175 --> 00:23:46,718
+- Always a crap shoot.
+
+323
+00:23:49,888 --> 00:23:52,158
+- Wow!
+- Mm. That's fantastic.
+
+324
+00:23:52,182 --> 00:23:53,993
+- My God, could we get a case of this?
+
+325
+00:23:54,017 --> 00:23:57,664
+- We take great pride
+in our Kahspid crops.
+
+326
+00:23:57,688 --> 00:23:59,749
+I will have some sent to your ship.
+
+327
+00:23:59,773 --> 00:24:01,251
+Your timing is excellent.
+
+328
+00:24:01,275 --> 00:24:05,713
+Several districts have yet to be counted,
+but we remain confident.
+
+329
+00:24:05,737 --> 00:24:09,342
+Tonight, we will all have reason
+to celebrate.
+
+330
+00:24:09,366 --> 00:24:10,701
+Come, please.
+
+331
+00:24:15,122 --> 00:24:17,517
+- What is your opinion
+of our city, Ensign?
+
+332
+00:24:17,541 --> 00:24:19,018
+- It's amazing.
+
+333
+00:24:19,042 --> 00:24:21,104
+The view was incredible from the shuttle.
+
+334
+00:24:21,128 --> 00:24:23,213
+I hope we get to see more of it.
+
+335
+00:24:30,971 --> 00:24:33,908
+- If I may propose a toast,
+Chancellor...
+
+336
+00:24:33,932 --> 00:24:35,076
+To the treaty.
+
+337
+00:24:35,100 --> 00:24:36,619
+- And to the future.
+
+338
+00:24:42,482 --> 00:24:44,294
+- What's that cluster of lights?
+
+339
+00:24:44,318 --> 00:24:48,006
+- The Grand Marketplace,
+our center of commerce.
+
+340
+00:24:48,030 --> 00:24:51,408
+Merchants from every corner of the planet
+can be found there.
+
+341
+00:24:52,534 --> 00:24:54,804
+- Chancellor, I am sorry to interrupt,
+
+342
+00:24:54,828 --> 00:24:57,640
+but the final districts
+are reporting their outcomes.
+
+343
+00:24:57,664 --> 00:24:58,933
+- And?
+
+344
+00:24:58,957 --> 00:25:01,460
+- The situation has changed.
+
+345
+00:25:09,426 --> 00:25:10,820
+- What's going on?
+
+346
+00:25:10,844 --> 00:25:14,139
+- Teleya. She has prevailed
+in the last seven districts.
+
+347
+00:25:14,681 --> 00:25:15,974
+- But you're still ahead, right?
+
+348
+00:25:21,563 --> 00:25:22,832
+- What's happening?
+
+349
+00:25:22,856 --> 00:25:25,418
+- The final districts
+are being counted now.
+
+350
+00:25:25,442 --> 00:25:28,820
+The Chancellor is winning,
+but only by a small margin.
+
+351
+00:25:32,783 --> 00:25:34,385
+- No.
+
+352
+00:25:34,409 --> 00:25:36,095
+This is...
+
+353
+00:25:36,119 --> 00:25:37,222
+not possible.
+
+354
+00:25:37,246 --> 00:25:39,474
+- We have lost the Katal District.
+
+355
+00:25:39,498 --> 00:25:41,518
+And the Garathon is turning as well.
+
+356
+00:25:41,542 --> 00:25:43,561
+Chancellor,
+we cannot win without them!
+
+357
+00:25:44,670 --> 00:25:46,731
+- Several districts have yet to report,
+
+358
+00:25:46,755 --> 00:25:49,400
+but they will have no bearing
+on the final outcome.
+
+359
+00:25:49,424 --> 00:25:52,278
+The Circle of Clerics have conferred,
+
+360
+00:25:52,302 --> 00:25:58,016
+and they are prepared to sanctify Teleya
+as the Supreme Chancellor of Krill.
+
+361
+00:25:59,810 --> 00:26:02,330
+When sanctification is ratified,
+
+362
+00:26:02,354 --> 00:26:06,042
+the anointing ceremony will commence,
+and all citizens...
+
+363
+00:26:06,066 --> 00:26:08,294
+- Notify the Circle of Clerics
+
+364
+00:26:08,318 --> 00:26:11,464
+that they must suspend
+their judgment immediately.
+
+365
+00:26:11,488 --> 00:26:13,550
+We intend to challenge this result.
+
+366
+00:26:13,574 --> 00:26:15,385
+- They are unlikely to reconsider.
+
+367
+00:26:15,409 --> 00:26:21,373
+- They will do as I say
+as long as I am still Supreme Chancellor.
+
+368
+00:26:23,375 --> 00:26:25,854
+Clearly, our projections were flawed.
+
+369
+00:26:25,878 --> 00:26:28,523
+But close elections
+are not unprecedented.
+
+370
+00:26:28,547 --> 00:26:33,153
+When the margin of victory is this narrow,
+a challenge is always honored.
+
+371
+00:26:33,177 --> 00:26:34,803
+And I am certain that once...
+
+372
+00:26:36,972 --> 00:26:37,973
+- Korin!
+
+373
+00:26:39,016 --> 00:26:40,660
+You will come with us.
+
+374
+00:26:40,684 --> 00:26:42,704
+- What is the meaning of this?!
+
+375
+00:26:42,728 --> 00:26:44,622
+- We have orders for your arrest.
+
+376
+00:26:44,646 --> 00:26:47,000
+- Arrest? For what?
+
+377
+00:26:47,024 --> 00:26:48,251
+- Treason.
+
+378
+00:26:48,275 --> 00:26:50,044
+- Whose orders?
+
+379
+00:26:50,068 --> 00:26:52,112
+- Supreme Chancellor Teleya.
+
+380
+00:26:52,821 --> 00:26:55,449
+You will come with us. Now.
+
+381
+00:26:56,325 --> 00:26:58,845
+- This is heresy!
+Teleya has not sworn her oath!
+
+382
+00:26:58,869 --> 00:27:02,348
+She has no authority!
+I am Supreme Chancellor!
+
+383
+00:27:02,372 --> 00:27:04,893
+This is not an election, it is a coup!
+
+384
+00:27:04,917 --> 00:27:06,936
+Pakor, contact the Circle of Clerics!
+
+385
+00:27:06,960 --> 00:27:09,814
+- Our fate belongs to Avis now.
+
+386
+00:27:09,838 --> 00:27:12,942
+- Let me go, you fools!
+- The people have...
+
+387
+00:27:12,966 --> 00:27:16,637
+- We are observers here.
+You have no right to detain us.
+
+388
+00:27:17,179 --> 00:27:19,032
+- Mr. President!
+- Are you all right?
+
+389
+00:27:19,056 --> 00:27:20,116
+- Help him!
+
+390
+00:27:20,140 --> 00:27:21,266
+- Take them.
+
+391
+00:27:34,696 --> 00:27:39,034
+- Commander. One of the Krill vessels
+is locking onto us with a tractor beam.
+
+392
+00:27:42,913 --> 00:27:45,099
+- Hail them.
+- They're already hailing us.
+
+393
+00:27:45,123 --> 00:27:46,124
+- Put them through.
+
+394
+00:27:47,167 --> 00:27:49,771
+This is Commander Kelly Grayson.
+What the hell are you doing?
+
+395
+00:27:49,795 --> 00:27:51,940
+- The treaty has been nullified.
+
+396
+00:27:51,964 --> 00:27:54,943
+Supreme Chancellor Teleya
+has called for your imprisonment.
+
+397
+00:27:54,967 --> 00:27:56,277
+- I'm sorry, what?
+
+398
+00:27:56,301 --> 00:27:58,822
+- Surrender your vessel
+and prepare to be boarded.
+
+399
+00:27:58,846 --> 00:28:00,615
+- Contact the landing party.
+
+400
+00:28:00,639 --> 00:28:02,116
+- I'm trying. No response.
+
+401
+00:28:02,140 --> 00:28:04,118
+- I demand to speak with Captain Mercer.
+
+402
+00:28:04,142 --> 00:28:07,312
+- Surrender now.
+You will not be warned again.
+
+403
+00:28:08,230 --> 00:28:10,232
+- Any word?
+- Nothing.
+
+404
+00:28:11,191 --> 00:28:13,586
+- Bortus, I want you
+to lock onto their tractor emitters.
+
+405
+00:28:13,610 --> 00:28:16,405
+Stand by to fire on my command.
+- Aye, sir.
+
+406
+00:28:16,905 --> 00:28:19,175
+- Bridge to Engineering.
+- Lamarr here.
+
+407
+00:28:19,199 --> 00:28:22,220
+John, execute Directive 21.
+
+408
+00:28:22,244 --> 00:28:24,848
+- Sir, please confirm. Did you say 21?
+
+409
+00:28:24,872 --> 00:28:26,391
+Yes. Have Dr. Finn assist you.
+
+410
+00:28:26,415 --> 00:28:27,475
+Do it now.
+
+411
+00:28:27,499 --> 00:28:28,917
+- Understood.
+
+412
+00:28:30,752 --> 00:28:31,837
+- Go to red alert.
+
+413
+00:28:33,046 --> 00:28:35,775
+- Targeting scanners are locked.
+Weapons standing by.
+
+414
+00:28:35,799 --> 00:28:37,527
+- Gordon, get ready to haul ass.
+
+415
+00:28:37,551 --> 00:28:38,486
+- You got it.
+
+416
+00:28:38,510 --> 00:28:40,613
+They have activated their docking clamps.
+
+417
+00:28:40,637 --> 00:28:42,031
+- Fire.
+
+418
+00:28:44,516 --> 00:28:46,286
+- We're clear!
+- Evasive maneuvers!
+
+419
+00:28:46,310 --> 00:28:47,561
+Full power to the deflectors!
+
+420
+00:28:52,316 --> 00:28:53,775
+Hard about, return fire!
+
+421
+00:29:06,997 --> 00:29:09,934
+- Port deflectors are failing!
+Torpedo launchers are off-line!
+
+422
+00:29:09,958 --> 00:29:11,394
+- John, what's your status?
+
+423
+00:29:11,418 --> 00:29:13,045
+Almost ready, Commander!
+
+424
+00:29:14,129 --> 00:29:16,024
+- How close is "almost"?
+- Two minutes!
+
+425
+00:29:16,048 --> 00:29:17,674
+- I can't shake 'em!
+
+426
+00:29:21,386 --> 00:29:23,948
+Sir, what if we tried
+an expanding helix maneuver?
+
+427
+00:29:23,972 --> 00:29:26,242
+- Never heard of it.
+- That's because I just made it up.
+
+428
+00:29:26,266 --> 00:29:28,769
+Do it.
+
+429
+00:29:40,948 --> 00:29:42,407
+- Krill fighters in pursuit.
+
+430
+00:29:50,165 --> 00:29:52,435
+- John, we're about to lose deflectors.
+It's now or never.
+
+431
+00:29:52,459 --> 00:29:55,629
+- Directive 21 clear, Commander.
+- Gordon, take us to quantum.
+
+432
+00:30:15,899 --> 00:30:18,711
+- Hail Avis!
+- Hail Teleya!
+
+433
+00:30:31,331 --> 00:30:35,228
+- The Anhkana teaches us
+that a battle is not won
+
+434
+00:30:35,252 --> 00:30:38,231
+until the last enemy is vanquished.
+
+435
+00:30:38,255 --> 00:30:41,550
+We have achieved a great victory today,
+
+436
+00:30:42,593 --> 00:30:45,446
+but an enemy remains in our midst.
+
+437
+00:30:55,731 --> 00:30:58,775
+Look into the eyes
+of the people you have betrayed!
+
+438
+00:31:03,030 --> 00:31:07,534
+You are a traitor to your world
+and a heretic in the eyes of Avis.
+
+439
+00:31:09,077 --> 00:31:11,705
+Do you wish to beg for mercy?
+
+440
+00:31:22,341 --> 00:31:25,361
+- Then it is my duty as Supreme Chancellor
+
+441
+00:31:25,385 --> 00:31:28,490
+to see that justice is done.
+
+442
+00:31:53,872 --> 00:31:56,542
+- He is not the last of our enemies.
+
+443
+00:31:57,167 --> 00:32:00,230
+I have learned that
+the President of the Planetary Union
+
+444
+00:32:00,254 --> 00:32:02,941
+and his delegation have been apprehended.
+
+445
+00:32:02,965 --> 00:32:06,736
+They too shall face justice!
+
+446
+00:32:18,522 --> 00:32:21,251
+- We need to speak
+with Chancellor Teleya.
+
+447
+00:32:21,275 --> 00:32:23,169
+Or whoever the hell is in charge.
+
+448
+00:32:23,193 --> 00:32:26,047
+You can't just hold us here indefinitely.
+
+449
+00:32:26,071 --> 00:32:28,699
+At least let us contact The Orville.
+
+450
+00:32:29,575 --> 00:32:32,720
+You've got the President
+of the Planetary Union in here.
+
+451
+00:32:32,744 --> 00:32:35,664
+Do you want to be held responsible
+for starting a war?
+
+452
+00:32:36,290 --> 00:32:37,833
+- How about a cup of coffee?
+
+453
+00:32:38,542 --> 00:32:41,646
+- Commander Grayson must be aware
+of our situation by now.
+
+454
+00:32:41,670 --> 00:32:42,981
+She'll contact the Union.
+
+455
+00:32:43,005 --> 00:32:45,174
+- Assuming The Orville
+hasn't been captured.
+
+456
+00:32:46,258 --> 00:32:48,903
+- I'm sorry, Ensign,
+we never should've brought you along.
+
+457
+00:32:48,927 --> 00:32:51,990
+- Captain, there's no way this doesn't
+mean a declaration of war with the Krill.
+
+458
+00:32:52,014 --> 00:32:53,158
+Right?
+
+459
+00:32:53,182 --> 00:32:55,702
+- They've abducted the President.
+There's your answer.
+
+460
+00:32:55,726 --> 00:32:57,996
+- If there's a drawn-out conflict,
+it'll weaken our resources.
+
+461
+00:32:58,020 --> 00:33:00,647
+We can bet the Kaylon will seize
+the opportunity to attack.
+
+462
+00:33:01,148 --> 00:33:02,584
+What then?
+
+463
+00:33:02,608 --> 00:33:05,110
+- We'll find ourselves fighting
+a two-front war.
+
+464
+00:33:06,195 --> 00:33:07,380
+Of course, so will the Krill.
+
+465
+00:33:07,404 --> 00:33:10,675
+- We need each other,
+whether they understand it or not.
+
+466
+00:33:10,699 --> 00:33:12,117
+We have to get them to see that.
+
+467
+00:33:12,868 --> 00:33:14,161
+- It's too late.
+
+468
+00:33:18,457 --> 00:33:19,541
+- Captain Mercer.
+
+469
+00:33:22,085 --> 00:33:23,396
+You will come with us.
+
+470
+00:33:23,420 --> 00:33:24,772
+- What about them?
+
+471
+00:33:24,796 --> 00:33:26,048
+- Just you.
+
+472
+00:33:27,633 --> 00:33:30,093
+- Go with them.
+We can't do anything from in here.
+
+473
+00:34:07,548 --> 00:34:08,632
+- You may go.
+
+474
+00:34:18,475 --> 00:34:19,893
+So silent.
+
+475
+00:34:20,853 --> 00:34:22,914
+Nothing to say, Captain?
+
+476
+00:34:22,938 --> 00:34:25,524
+- Looks like you're an uptown girl now.
+
+477
+00:34:27,192 --> 00:34:28,527
+Billy Joel.
+
+478
+00:34:34,366 --> 00:34:35,718
+I guess...
+
+479
+00:34:35,742 --> 00:34:37,744
+congratulations are in order.
+
+480
+00:34:38,328 --> 00:34:39,454
+- Thank you.
+
+481
+00:34:40,998 --> 00:34:43,476
+- Captivity notwithstanding...
+
+482
+00:34:43,500 --> 00:34:45,979
+it's nice to see your face.
+
+483
+00:34:46,003 --> 00:34:48,106
+- You should feel validated.
+
+484
+00:34:48,130 --> 00:34:51,025
+Your faith in me
+has made this victory possible.
+
+485
+00:34:51,049 --> 00:34:52,443
+- How so?
+
+486
+00:34:52,467 --> 00:34:56,698
+- If you had not released me,
+I would still be in Union custody.
+
+487
+00:34:56,722 --> 00:35:01,286
+- I let you go because I believed
+we'd found some common ground,
+
+488
+00:35:01,310 --> 00:35:04,122
+not so you could drive a deeper wedge
+between our two peoples.
+
+489
+00:35:04,146 --> 00:35:06,315
+- There was never a common ground.
+
+490
+00:35:06,940 --> 00:35:10,295
+You were merely too stupid
+to resist a false seduction.
+
+491
+00:35:10,319 --> 00:35:13,780
+- Well, movie night was fun,
+but that's not what I'm talking about.
+
+492
+00:35:14,531 --> 00:35:18,219
+Teleya, we share a common enemy.
+
+493
+00:35:18,243 --> 00:35:20,013
+And my ensign is right:
+
+494
+00:35:20,037 --> 00:35:22,599
+if the Kaylon attack us again,
+we're gonna need each other.
+
+495
+00:35:22,623 --> 00:35:26,936
+- Our military has developed
+new and more powerful weapons.
+
+496
+00:35:26,960 --> 00:35:29,254
+Our fleet is stronger than ever before.
+
+497
+00:35:30,589 --> 00:35:33,568
+An alliance with outsiders
+is no longer necessary.
+
+498
+00:35:33,592 --> 00:35:37,113
+- About half your population disagrees.
+Korin had a lot of support.
+
+499
+00:35:37,137 --> 00:35:39,848
+- Korin's influence
+has diminished considerably.
+
+500
+00:35:40,432 --> 00:35:42,202
+Ask him yourself if you would like.
+
+501
+00:35:42,226 --> 00:35:45,330
+You will find him
+in the center of the Capitol Square.
+
+502
+00:35:45,354 --> 00:35:47,397
+Or at least his head.
+
+503
+00:35:48,524 --> 00:35:49,751
+- You killed him.
+
+504
+00:35:49,775 --> 00:35:53,087
+- Most men who lose their heads
+tend to die, yes.
+
+505
+00:35:53,111 --> 00:35:54,780
+- How could you do that?
+
+506
+00:35:55,781 --> 00:35:57,258
+Teleya, that's not who you are.
+
+507
+00:35:57,282 --> 00:36:00,762
+- A year later, you still cling
+to an illusion I created.
+
+508
+00:36:00,786 --> 00:36:03,330
+Captain, you really must
+find yourself a...
+
+509
+00:36:04,206 --> 00:36:06,017
+what is your word for it?
+
+510
+00:36:06,041 --> 00:36:07,101
+A girlfriend.
+
+511
+00:36:07,125 --> 00:36:10,688
+- You murdered a man.
+- I purified the soul of our world.
+
+512
+00:36:10,712 --> 00:36:12,923
+- Well, if that's the way you see it...
+
+513
+00:36:14,299 --> 00:36:15,801
+then I guess you're right.
+
+514
+00:36:16,468 --> 00:36:17,779
+I was too stupid.
+
+515
+00:36:17,803 --> 00:36:21,032
+- Praise Avis,
+his eyes are finally open.
+
+516
+00:36:21,056 --> 00:36:22,724
+- So, is that why you brought me here?
+
+517
+00:36:24,059 --> 00:36:26,812
+To remind me what an idiot I was?
+
+518
+00:36:27,396 --> 00:36:29,857
+- I brought you here to see for myself.
+
+519
+00:36:31,024 --> 00:36:32,502
+To be sure it was really you.
+
+520
+00:36:32,526 --> 00:36:33,569
+- Why?
+
+521
+00:36:34,736 --> 00:36:37,990
+- I promised my people
+the blood of the Union contingent.
+
+522
+00:36:40,367 --> 00:36:41,678
+- What are you saying?
+
+523
+00:36:41,702 --> 00:36:44,746
+- You and your colleagues
+are to be executed in the morning.
+
+524
+00:36:46,081 --> 00:36:47,958
+- So you want me dead too?
+
+525
+00:36:48,917 --> 00:36:51,170
+- I did not know you were part
+of the delegation.
+
+526
+00:36:52,004 --> 00:36:55,358
+- Teleya. I let you go.
+
+527
+00:36:55,382 --> 00:36:58,278
+I'm asking you to do the same for us.
+
+528
+00:36:58,302 --> 00:36:59,404
+Now, you may not want a treaty,
+
+529
+00:36:59,428 --> 00:37:01,513
+but do you really want to start
+a war with the Union?
+
+530
+00:37:04,433 --> 00:37:07,245
+- Take a look around you, Captain.
+
+531
+00:37:07,269 --> 00:37:09,521
+I now command the full might of Krill.
+
+532
+00:37:10,147 --> 00:37:13,376
+It is you who should be asking yourself,
+
+533
+00:37:13,400 --> 00:37:15,986
+is the Union prepared for war with us?
+
+534
+00:37:18,822 --> 00:37:23,928
+- There's an old Earth verse
+that describes a traveler
+
+535
+00:37:23,952 --> 00:37:27,390
+who comes upon the ancient ruined statue
+of an Emperor,
+
+536
+00:37:27,414 --> 00:37:32,312
+inscribed with the words,
+"My name is Ozymandias, king of kings.
+
+537
+00:37:32,336 --> 00:37:35,714
+Look upon my works, ye mighty,
+and despair!"
+
+538
+00:37:37,508 --> 00:37:41,678
+Only there's nothing left beside it
+except empty desert.
+
+539
+00:37:43,388 --> 00:37:46,308
+Hubris has a way of coming back
+to bite you in the ass.
+
+540
+00:37:46,892 --> 00:37:51,855
+- Our time in this realm is finite,
+Captain, as you will soon learn.
+
+541
+00:37:52,564 --> 00:37:57,778
+One can live it in the light of command
+or in the darkness of servitude.
+
+542
+00:37:59,071 --> 00:38:01,740
+I choose the way of Ozymandias.
+
+543
+00:38:03,492 --> 00:38:04,535
+Cha-FAJ!
+
+544
+00:38:06,537 --> 00:38:08,389
+Take him back to his cell.
+
+545
+00:38:08,413 --> 00:38:10,975
+The execution will proceed as planned.
+
+546
+00:38:10,999 --> 00:38:12,793
+- Teleya, listen to me! You can't...
+- Goodbye, Ed.
+
+547
+00:38:13,585 --> 00:38:16,380
+I am glad we had
+the chance to talk one last time.
+
+548
+00:38:17,172 --> 00:38:20,092
+What do you call it... "closure"?
+
+549
+00:38:41,238 --> 00:38:42,781
+- Put this on.
+
+550
+00:38:43,657 --> 00:38:47,870
+- What for?
+- Do as you are told.
+
+551
+00:38:55,878 --> 00:38:56,795
+Move.
+
+552
+00:39:00,507 --> 00:39:02,384
+♪
+
+553
+00:39:05,179 --> 00:39:07,240
+- Commander, I'm getting
+a response to our hails.
+
+554
+00:39:07,264 --> 00:39:09,224
+- About time. Put it through.
+
+555
+00:39:10,392 --> 00:39:12,186
+- Hello, Commander Grayson.
+
+556
+00:39:13,353 --> 00:39:14,455
+- Teleya...
+
+557
+00:39:14,479 --> 00:39:17,584
+- I apologize for the delay
+in contacting you.
+
+558
+00:39:17,608 --> 00:39:20,211
+As you can imagine,
+I have been quite busy.
+
+559
+00:39:20,235 --> 00:39:21,504
+- Where are my people?
+
+560
+00:39:21,528 --> 00:39:22,881
+- Your people?
+
+561
+00:39:22,905 --> 00:39:25,758
+They are my people now, Commander,
+
+562
+00:39:25,782 --> 00:39:29,762
+prisoners charged with conspiracy
+to subvert the government of Krill.
+
+563
+00:39:29,786 --> 00:39:31,514
+- We both know that's a lie.
+
+564
+00:39:31,538 --> 00:39:34,058
+Let them go before you make
+a bad situation worse.
+
+565
+00:39:34,082 --> 00:39:37,145
+- Or what?
+You will take them by force?
+
+566
+00:39:37,169 --> 00:39:38,938
+That would end badly for you.
+
+567
+00:39:38,962 --> 00:39:41,483
+Return to Earth while you still can.
+
+568
+00:39:41,507 --> 00:39:44,152
+- You know goddamn well
+I'm not leaving without that delegation!
+
+569
+00:39:44,176 --> 00:39:46,905
+- You are becoming emotional,
+Commander.
+
+570
+00:39:46,929 --> 00:39:49,365
+But then that was always the concern,
+was it not?
+
+571
+00:39:49,389 --> 00:39:51,576
+That your feelings for Ed
+
+572
+00:39:51,600 --> 00:39:54,329
+would impair your ability to make
+the proper command decisions?
+
+573
+00:39:54,353 --> 00:39:56,331
+- And what would you know about that?
+
+574
+00:39:56,355 --> 00:39:58,124
+More than you realize.
+
+575
+00:39:58,148 --> 00:40:00,502
+He told me many things about you.
+
+576
+00:40:00,526 --> 00:40:02,795
+- Then you also know
+I don't back down from a fight.
+
+577
+00:40:02,819 --> 00:40:05,590
+Ed is gone, Commander.
+
+578
+00:40:05,614 --> 00:40:08,843
+Perhaps you should do what you've
+done before when this happens:
+
+579
+00:40:08,867 --> 00:40:11,036
+run to the arms of another.
+
+580
+00:40:11,912 --> 00:40:13,389
+Leave. Now.
+
+581
+00:40:13,413 --> 00:40:19,378
+And if you re-enter our space,
+I promise you will never see home again.
+
+582
+00:40:21,046 --> 00:40:23,090
+- Gordon.
+Back us off toward the border.
+
+583
+00:40:23,799 --> 00:40:25,425
+- But, Commander...
+- Do it.
+
+584
+00:40:26,802 --> 00:40:28,029
+- Aye, sir.
+
+585
+00:40:28,053 --> 00:40:30,264
+- Talla. Get me Union Central.
+
+586
+00:40:35,519 --> 00:40:37,372
+- We've got the fleet on high alert,
+
+587
+00:40:37,396 --> 00:40:39,165
+and we're sending every available ship.
+
+588
+00:40:39,189 --> 00:40:42,752
+- Sir, has the Union acknowledged
+a formal state of war?
+
+589
+00:40:42,776 --> 00:40:44,337
+- Yes, it has.
+
+590
+00:40:44,361 --> 00:40:47,173
+Commander,
+what's the status of Directive 21?
+
+591
+00:40:47,197 --> 00:40:49,717
+- Still in progress, sir.
+It's gonna need more time.
+
+592
+00:40:49,741 --> 00:40:51,302
+I wouldn't put all our chips on it.
+
+593
+00:40:51,326 --> 00:40:54,681
+- Then our best option right now
+is to mount a military rescue,
+
+594
+00:40:54,705 --> 00:40:57,934
+extract the delegation,
+and withdraw as quickly as possible.
+
+595
+00:40:57,958 --> 00:40:59,644
+- How soon can help get here?
+
+596
+00:40:59,668 --> 00:41:02,522
+- The first contingent of ships
+should arrive at the Krill border
+
+597
+00:41:02,546 --> 00:41:03,857
+in under two hours.
+
+598
+00:41:03,881 --> 00:41:06,776
+I know we were all counting
+on this treaty.
+
+599
+00:41:06,800 --> 00:41:10,113
+But for now, let's just stay focused
+on getting our people home.
+
+600
+00:41:10,137 --> 00:41:11,555
+Perry out.
+
+601
+00:41:25,569 --> 00:41:27,571
+♪
+
+602
+00:41:34,328 --> 00:41:35,662
+- Where are we going?
+
+603
+00:41:46,215 --> 00:41:48,217
+♪
+
+604
+00:42:12,241 --> 00:42:15,118
+♪
+
+605
+00:42:20,874 --> 00:42:23,812
+Move.
+
+606
+00:42:23,836 --> 00:42:26,171
+Do'maflach! Do'maflach!
+
+607
+00:42:27,130 --> 00:42:28,507
+Do'maflach!
+
+608
+00:42:30,259 --> 00:42:32,570
+Do'maflach!
+
+609
+00:42:32,594 --> 00:42:34,113
+Do'maflach!
+
+610
+00:42:34,137 --> 00:42:35,973
+- What does he want?
+- Keep moving.
+
+611
+00:42:36,807 --> 00:42:37,808
+- Do'maflach!
+
+612
+00:42:38,267 --> 00:42:39,619
+- Maybe you should just buy some meat.
+
+613
+00:42:39,643 --> 00:42:41,895
+- Do not speak!
+- Ehh!
+
+614
+00:42:44,982 --> 00:42:46,775
+♪
+
+615
+00:42:49,820 --> 00:42:50,779
+- Uggh!
+
+616
+00:42:57,035 --> 00:43:00,014
+- You will come with us.
+- Who are you?
+
+617
+00:43:00,038 --> 00:43:01,933
+- All will be explained.
+
+618
+00:43:01,957 --> 00:43:03,166
+Now move!
+
+619
+00:43:07,671 --> 00:43:09,464
+♪
+
+620
+00:43:49,379 --> 00:43:50,380
+- Where is she?
+
+621
+00:44:06,188 --> 00:44:09,316
+What's going on?
+What is this all about?
+
+622
+00:44:09,983 --> 00:44:11,443
+- She is yours.
+
+623
+00:44:11,944 --> 00:44:15,197
+- What do you mean?
+- She is your daughter.
+
+624
+00:44:20,661 --> 00:44:23,163
+- What?
+- You had...
+
+625
+00:44:23,956 --> 00:44:26,500
+an intimate relationship with Teleya.
+
+626
+00:44:27,543 --> 00:44:29,145
+- Yes, I did, but...
+
+627
+00:44:29,169 --> 00:44:31,338
+- You are her father.
+
+628
+00:44:40,389 --> 00:44:43,642
+- That's... Teleya's daughter?
+
+629
+00:44:48,063 --> 00:44:49,332
+Why is she here?
+
+630
+00:44:49,356 --> 00:44:52,585
+- Teleya feared that if anyone
+learned of the child's existence,
+
+631
+00:44:52,609 --> 00:44:56,464
+it would lead to scandal
+and destroy her political ambitions.
+
+632
+00:44:56,488 --> 00:45:00,510
+- She provides for the girl's needs
+but has no contact with her.
+
+633
+00:45:00,534 --> 00:45:04,556
+I have been the child's caretaker
+since the day she was born.
+
+634
+00:45:04,580 --> 00:45:07,916
+- You can see... she is half human.
+
+635
+00:45:10,294 --> 00:45:11,813
+- Does she know about me?
+
+636
+00:45:11,837 --> 00:45:13,565
+- She does not.
+
+637
+00:45:13,589 --> 00:45:15,340
+It is best that way.
+
+638
+00:45:18,802 --> 00:45:20,012
+- Can I talk to her?
+
+639
+00:45:30,480 --> 00:45:31,648
+Hi there.
+
+640
+00:45:32,274 --> 00:45:33,567
+- Hello.
+
+641
+00:45:34,735 --> 00:45:35,920
+- What's your name?
+
+642
+00:45:35,944 --> 00:45:37,505
+- Anaya.
+
+643
+00:45:37,529 --> 00:45:39,007
+- That's a pretty name.
+
+644
+00:45:39,031 --> 00:45:40,258
+- What's yours?
+
+645
+00:45:40,282 --> 00:45:41,843
+- I'm Ed.
+
+646
+00:45:41,867 --> 00:45:43,720
+- That's a funny name.
+
+647
+00:45:43,744 --> 00:45:45,162
+You look funny.
+
+648
+00:45:46,079 --> 00:45:47,831
+- Thanks. I get that a lot.
+
+649
+00:45:50,834 --> 00:45:52,395
+You have a nice house.
+
+650
+00:45:52,419 --> 00:45:54,171
+- Thank you.
+
+651
+00:45:55,214 --> 00:45:57,382
+- Do you like it here?
+- Yes.
+
+652
+00:45:58,133 --> 00:45:59,777
+- Do they take good care of you?
+
+653
+00:45:59,801 --> 00:46:01,404
+- I have my own room.
+
+654
+00:46:01,428 --> 00:46:05,158
+I have lots of toys
+and I get to eat whatever I want.
+
+655
+00:46:05,182 --> 00:46:06,767
+- Sounds pretty good.
+
+656
+00:46:10,854 --> 00:46:12,248
+I don't know how.
+
+657
+00:46:12,272 --> 00:46:14,316
+- It's easy. I'll show you.
+
+658
+00:46:20,864 --> 00:46:22,091
+- Wow.
+
+659
+00:46:22,115 --> 00:46:23,885
+You know, you're really smart.
+
+660
+00:46:23,909 --> 00:46:25,869
+- She is quite extraordinary.
+
+661
+00:46:27,412 --> 00:46:28,872
+- Yeah.
+
+662
+00:46:29,581 --> 00:46:30,725
+Yeah, she is.
+
+663
+00:46:30,749 --> 00:46:32,209
+- Do you feel shame?
+
+664
+00:46:33,377 --> 00:46:37,607
+- No. No, why would I?
+
+665
+00:46:37,631 --> 00:46:40,568
+- Some would look at Anaya
+and see an abomination.
+
+666
+00:46:40,592 --> 00:46:43,321
+I see a beautiful child.
+
+667
+00:46:43,345 --> 00:46:46,682
+And something much more: hope.
+
+668
+00:46:47,307 --> 00:46:49,786
+- We are part of a coalition that believes
+
+669
+00:46:49,810 --> 00:46:52,580
+that a treaty with the Union
+is still possible.
+
+670
+00:46:52,604 --> 00:46:53,957
+Given the outcome of the election,
+
+671
+00:46:53,981 --> 00:46:56,376
+it would take a miracle
+to make it happen now.
+
+672
+00:46:56,400 --> 00:46:58,235
+- Anaya could be that miracle.
+
+673
+00:46:59,194 --> 00:47:00,213
+- What do you mean?
+
+674
+00:47:00,237 --> 00:47:03,633
+- You must show the child to all of Krill.
+
+675
+00:47:03,657 --> 00:47:07,369
+Her mother will no longer
+be able to deny her existence.
+
+676
+00:47:08,829 --> 00:47:10,557
+- You want me to...
+
+677
+00:47:10,581 --> 00:47:14,310
+embarrass Teleya in order to bring down
+her government, is that it?
+
+678
+00:47:14,334 --> 00:47:16,771
+- No. That would accomplish nothing.
+
+679
+00:47:16,795 --> 00:47:19,315
+Someone else like her
+would eventually take her place.
+
+680
+00:47:19,339 --> 00:47:22,402
+There is always another Teleya.
+
+681
+00:47:22,426 --> 00:47:27,973
+- You must persuade her to stand up
+with you and acknowledge the child.
+
+682
+00:47:28,682 --> 00:47:31,411
+Some of her supporters
+will feel betrayed,
+
+683
+00:47:31,435 --> 00:47:36,040
+but others may reconsider
+their hostility toward the Union.
+
+684
+00:47:36,064 --> 00:47:40,837
+Anaya could become
+a powerful symbol of coexistence.
+
+685
+00:47:40,861 --> 00:47:43,822
+She might turn the tide toward peace.
+
+686
+00:47:46,742 --> 00:47:51,181
+- First off, Teleya and I are not exactly
+on the best of terms right now.
+
+687
+00:47:51,205 --> 00:47:53,790
+- Did you know she decided
+to let you live?
+
+688
+00:47:55,042 --> 00:47:57,562
+- What?
+- That is why she released you.
+
+689
+00:47:57,586 --> 00:48:00,607
+We have an informant
+in her security detail.
+
+690
+00:48:00,631 --> 00:48:03,776
+The guards had orders
+to take you back to your ship.
+
+691
+00:48:03,800 --> 00:48:07,262
+- Evidently, Captain,
+she still cares about you.
+
+692
+00:48:12,935 --> 00:48:15,229
+- I'm gonna need a ride back
+to the capital.
+
+693
+00:48:27,199 --> 00:48:28,867
+Goodbye, Anaya.
+
+694
+00:48:29,743 --> 00:48:31,870
+It was very nice to meet you.
+
+695
+00:48:41,421 --> 00:48:43,423
+♪
+
+696
+00:48:52,516 --> 00:48:54,202
+- Admiral Ozawa is hailing.
+
+697
+00:48:54,226 --> 00:48:55,477
+- Put her through.
+
+698
+00:48:56,061 --> 00:48:58,581
+- Status report, Commander.
+- No change, sir.
+
+699
+00:48:58,605 --> 00:49:00,124
+- Then we prepare to go in.
+
+700
+00:49:00,148 --> 00:49:02,335
+We'll avoid a firefight if we can,
+
+701
+00:49:02,359 --> 00:49:04,754
+but if the Krill refuse
+to release our people...
+
+702
+00:49:04,778 --> 00:49:06,130
+- Understood.
+
+703
+00:49:06,154 --> 00:49:08,466
+- Set a course for Krill, maximum speed.
+
+704
+00:49:08,490 --> 00:49:10,325
+- With pleasure.
+
+705
+00:49:29,469 --> 00:49:30,512
+- Leave us.
+
+706
+00:49:37,060 --> 00:49:39,062
+Explain yourself!
+
+707
+00:49:39,730 --> 00:49:40,981
+- You were gonna let me go.
+
+708
+00:49:41,690 --> 00:49:45,962
+- You stupid fool!
+Why did you come back here?
+
+709
+00:49:45,986 --> 00:49:48,047
+- Why did you set me free?
+
+710
+00:49:48,071 --> 00:49:49,799
+- You freed me once.
+
+711
+00:49:49,823 --> 00:49:51,909
+I was simply repaying the debt.
+
+712
+00:49:53,368 --> 00:49:55,829
+I do not wish to kill you.
+
+713
+00:49:56,455 --> 00:49:57,915
+- I've seen Anaya.
+
+714
+00:49:59,583 --> 00:50:00,792
+- What?
+
+715
+00:50:01,543 --> 00:50:02,920
+- Our daughter.
+
+716
+00:50:04,296 --> 00:50:05,797
+I've seen her.
+
+717
+00:50:06,465 --> 00:50:08,651
+I've talked to her.
+- You have been deceived.
+
+718
+00:50:08,675 --> 00:50:10,385
+- Oh, I don't think so.
+
+719
+00:50:12,095 --> 00:50:13,388
+She's...
+
+720
+00:50:13,972 --> 00:50:15,432
+she's amazing.
+
+721
+00:50:17,392 --> 00:50:18,685
+She even looks like you.
+
+722
+00:50:21,104 --> 00:50:24,042
+I can't even imagine how difficult
+it must've been to give her up.
+
+723
+00:50:24,066 --> 00:50:26,961
+- The child is not of pure blood.
+
+724
+00:50:26,985 --> 00:50:30,656
+She will have a better life away
+from the scornful eyes of the public.
+
+725
+00:50:33,075 --> 00:50:35,220
+- What is it the Anhkana teaches?
+
+726
+00:50:35,244 --> 00:50:38,413
+"With every child, a new world is born."
+
+727
+00:50:40,165 --> 00:50:42,352
+- "Gently Falling Rain."
+
+728
+00:50:42,376 --> 00:50:43,853
+- What?
+
+729
+00:50:43,877 --> 00:50:48,090
+- That is what it means... "Anaya."
+
+730
+00:50:49,508 --> 00:50:51,402
+The name I gave to her.
+
+731
+00:50:51,426 --> 00:50:52,845
+- It's beautiful.
+
+732
+00:50:57,766 --> 00:50:59,828
+We should be celebrating her.
+
+733
+00:50:59,852 --> 00:51:01,996
+We should be standing with her,
+side by side...
+
+734
+00:51:02,020 --> 00:51:04,207
+- No.
+- ...showing the entire galaxy
+
+735
+00:51:04,231 --> 00:51:05,750
+that we can all coexist.
+- No.
+
+736
+00:51:05,774 --> 00:51:07,168
+- She is living proof of that.
+- No.
+
+737
+00:51:07,192 --> 00:51:09,504
+- We created a life together, Teleya!
+- No, no, no!
+
+738
+00:51:09,528 --> 00:51:11,154
+- Then what did you have her for?
+
+739
+00:51:11,738 --> 00:51:12,966
+What did you have her for,
+
+740
+00:51:12,990 --> 00:51:15,301
+if you were just gonna keep her
+locked away like some kind of criminal?
+
+741
+00:51:15,325 --> 00:51:16,386
+- Oh!
+
+742
+00:51:16,410 --> 00:51:19,597
+How human of you to ask that question.
+
+743
+00:51:19,621 --> 00:51:22,934
+But then you terminate life with abandon,
+do you not?
+
+744
+00:51:22,958 --> 00:51:24,519
+Would you like to see what happens
+
+745
+00:51:24,543 --> 00:51:27,504
+to those who commit
+such murderous acts on Krill?
+
+746
+00:51:35,637 --> 00:51:38,825
+- Supreme Chancellor!
+- No, please. Continue with your work.
+
+747
+00:51:38,849 --> 00:51:40,893
+- With gratitude, Chancellor.
+
+748
+00:52:01,121 --> 00:52:02,473
+- Who are they?
+
+749
+00:52:02,497 --> 00:52:05,167
+- Parents to a child who will never be.
+
+750
+00:52:05,751 --> 00:52:08,771
+They were caught after
+terminating a life in the womb.
+
+751
+00:52:08,795 --> 00:52:11,941
+Those who do so are brought
+to a facility like this one.
+
+752
+00:52:11,965 --> 00:52:15,653
+Their DNA is extracted,
+and a genetic profile is used
+
+753
+00:52:15,677 --> 00:52:18,388
+to create a simulation
+of the child that could have been.
+
+754
+00:52:19,306 --> 00:52:22,035
+So they may see the life
+they have destroyed.
+
+755
+00:52:26,980 --> 00:52:28,232
+- Are you my mother?
+
+756
+00:52:30,484 --> 00:52:33,129
+I would have loved
+so much to be with you.
+
+757
+00:52:33,153 --> 00:52:35,173
+I wish you had not sent me away.
+
+758
+00:52:43,205 --> 00:52:45,350
+- Jesus Christ, Teleya.
+
+759
+00:52:45,374 --> 00:52:48,544
+Is this the kind of world you want
+your daughter to grow up in?
+
+760
+00:52:49,378 --> 00:52:50,379
+Our daughter?
+
+761
+00:52:51,672 --> 00:52:53,632
+- Take Captain Mercer
+back to his cell.
+
+762
+00:53:23,245 --> 00:53:25,497
+♪
+
+763
+00:53:42,389 --> 00:53:46,286
+- I have promised you the blood
+of our enemies,
+
+764
+00:53:46,310 --> 00:53:48,246
+and you shall have it!
+
+765
+00:53:54,568 --> 00:53:58,298
+These are the co-conspirators
+to whom Korin the traitor
+
+766
+00:53:58,322 --> 00:54:01,658
+was prepared
+to relinquish our sovereignty!
+
+767
+00:54:06,163 --> 00:54:08,975
+Liars and demons all.
+
+768
+00:54:08,999 --> 00:54:10,834
+Enemies of Avis.
+
+769
+00:54:12,127 --> 00:54:16,089
+Today, they will know justice!
+
+770
+00:54:23,764 --> 00:54:25,724
+♪
+
+771
+00:54:29,353 --> 00:54:31,355
+♪
+
+772
+00:54:39,404 --> 00:54:41,674
+- Talla, open a channel to Krill.
+
+773
+00:54:41,698 --> 00:54:44,219
+- Anyone in particular?
+- General frequency.
+
+774
+00:54:44,243 --> 00:54:45,887
+See if anyone answers the phone.
+
+775
+00:54:45,911 --> 00:54:47,597
+You're on, sir.
+
+776
+00:54:47,621 --> 00:54:50,683
+- This is Commander Kelly Grayson
+of the starship Orville.
+
+777
+00:54:50,707 --> 00:54:53,686
+As you can see, I'm back,
+and I've brought a few friends.
+
+778
+00:54:53,710 --> 00:54:55,647
+So I'm only going to tell you once:
+
+779
+00:54:55,671 --> 00:54:58,215
+release our people,
+and we will leave peacefully.
+
+780
+00:54:59,216 --> 00:55:01,093
+What is your response?
+
+781
+00:55:01,593 --> 00:55:03,863
+- Which of these creatures
+
+782
+00:55:03,887 --> 00:55:07,575
+shall be the first to taste the blade?
+
+783
+00:55:12,312 --> 00:55:15,524
+- Launch all forces to intercept.
+Obliterate them.
+
+784
+00:55:17,109 --> 00:55:19,587
+- Their planetary defense system
+has been activated.
+
+785
+00:55:19,611 --> 00:55:21,923
+Multiple Krill vessels
+are closing on our position.
+
+786
+00:55:21,947 --> 00:55:24,950
+- That's our answer. Go to red alert.
+Battle stations.
+
+787
+00:55:36,086 --> 00:55:39,089
+- Teleya. It's not too late to stop this.
+
+788
+00:55:41,842 --> 00:55:43,427
+- My dear Captain...
+
+789
+00:55:43,969 --> 00:55:46,531
+I am just getting started.
+
+790
+00:55:53,353 --> 00:55:54,747
+- This one!
+
+791
+00:56:01,945 --> 00:56:03,655
+Ugggh!
+
+792
+00:56:31,642 --> 00:56:33,203
+- What's going on? Who are you?
+
+793
+00:56:33,227 --> 00:56:34,871
+- Reporting for duty, sir.
+
+794
+00:56:34,895 --> 00:56:36,498
+- Commander Lamarr?
+- At your service.
+
+795
+00:56:36,522 --> 00:56:38,583
+- Directive 21.
+- You know it.
+
+796
+00:56:38,607 --> 00:56:40,502
+- You've lost some blood,
+but you're gonna be okay.
+
+797
+00:56:40,526 --> 00:56:41,860
+Claire!
+
+798
+00:56:42,444 --> 00:56:43,922
+- Microdermal makeover.
+
+799
+00:56:43,946 --> 00:56:46,591
+Trust me, Mr. President,
+I'm much better-looking in person.
+
+800
+00:56:46,615 --> 00:56:48,593
+- You're a welcome sight to me, Doctor.
+
+801
+00:56:48,617 --> 00:56:50,720
+- Everybody hang on,
+we're not out of this yet.
+
+802
+00:56:50,744 --> 00:56:52,829
+♪
+
+803
+00:57:16,019 --> 00:57:17,163
+- Isaac, anything?
+
+804
+00:57:17,187 --> 00:57:19,707
+Commander Lamarr
+has activated his transponder.
+
+805
+00:57:19,731 --> 00:57:21,567
+They are moving away from the capital.
+
+806
+00:57:40,627 --> 00:57:43,672
+- Where's your shuttle?
+- Bearing 3-7-5 mark one.
+
+807
+00:57:48,218 --> 00:57:50,113
+Uh-oh.
+
+808
+00:57:50,137 --> 00:57:52,514
+- What's wrong?
+- The nav system just went out.
+
+809
+00:58:02,065 --> 00:58:04,294
+- You do know where you're going, right?
+
+810
+00:58:04,318 --> 00:58:06,796
+- I mean, this kind of looks familiar.
+- Oh, boy.
+
+811
+00:58:06,820 --> 00:58:08,381
+- It's okay,
+we got a navigator right here.
+
+812
+00:58:08,405 --> 00:58:09,382
+Help me out, Charly.
+
+813
+00:58:09,406 --> 00:58:11,134
+- There! Make a right!
+- You sure?
+
+814
+00:58:11,158 --> 00:58:12,201
+- Nope.
+
+815
+00:58:20,792 --> 00:58:22,353
+- Ow!
+- Easy, John!
+
+816
+00:58:22,377 --> 00:58:23,253
+- Sorry!
+
+817
+00:58:47,736 --> 00:58:49,571
+Okay. Okay, yeah, that's it.
+
+818
+00:59:19,935 --> 00:59:23,021
+- Commander, I am tracking the shuttle,
+400 kilometers and closing.
+
+819
+00:59:31,029 --> 00:59:32,364
+- Well, that doesn't look good.
+
+820
+00:59:44,168 --> 00:59:46,312
+The shuttle
+has sustained heavy damage.
+
+821
+00:59:46,336 --> 00:59:49,464
+- What's their position?
+- Bearing 121 mark six.
+
+822
+00:59:51,258 --> 00:59:53,427
+- Lay down fire
+and get us into docking range.
+
+823
+01:00:04,438 --> 01:00:06,148
+Open the bay doors.
+
+824
+01:00:17,159 --> 01:00:18,452
+- They're secure!
+
+825
+01:00:20,078 --> 01:00:22,056
+- Grayson to Ozawa.
+We have the delegation.
+
+826
+01:00:22,080 --> 01:00:23,516
+I suggest we get the hell outta here.
+
+827
+01:00:23,540 --> 01:00:24,642
+Acknowledged.
+
+828
+01:00:24,666 --> 01:00:27,103
+Ozawa to all ships: disengage and retreat.
+
+829
+01:00:27,127 --> 01:00:29,338
+- Set a course for Earth.
+- Aye, sir!
+
+830
+01:00:56,490 --> 01:00:58,801
+- I'm pleased to report
+that President Alcuzan
+
+831
+01:00:58,825 --> 01:01:00,136
+is going to make a full recovery.
+
+832
+01:01:00,160 --> 01:01:02,931
+He plans to address
+the Union Council later today.
+
+833
+01:01:02,955 --> 01:01:05,642
+- It was all looking
+so hopeful just a few days ago.
+
+834
+01:01:05,666 --> 01:01:09,336
+- There is... one card left to play.
+If we want to.
+
+835
+01:01:11,880 --> 01:01:12,982
+- Anaya.
+
+836
+01:01:13,006 --> 01:01:15,985
+- Revealing her could force Teleya's hand.
+
+837
+01:01:16,009 --> 01:01:17,195
+- Admiral...
+
+838
+01:01:17,219 --> 01:01:20,764
+she didn't ask to be
+born into the eye of a storm.
+
+839
+01:01:21,348 --> 01:01:24,953
+And I gotta be honest, I'm not so sure
+Teleya wouldn't make her disappear
+
+840
+01:01:24,977 --> 01:01:26,412
+just to protect the regime.
+
+841
+01:01:26,436 --> 01:01:28,832
+- You really think
+she'd be capable of that?
+
+842
+01:01:28,856 --> 01:01:30,065
+- I thought I knew her.
+
+843
+01:01:30,899 --> 01:01:31,859
+I don't.
+
+844
+01:01:32,526 --> 01:01:33,735
+- She's your daughter.
+
+845
+01:01:34,361 --> 01:01:36,446
+The President is leaving it up to you.
+
+846
+01:01:37,656 --> 01:01:38,991
+- Tell him thank you.
+
+847
+01:01:52,504 --> 01:01:56,675
+It's very possible
+that I'll never see her again.
+
+848
+01:01:58,135 --> 01:02:00,095
+- Well, that'd be a shame.
+
+849
+01:02:01,180 --> 01:02:03,265
+I always thought you'd make
+a terrific father.
+
+850
+01:02:03,974 --> 01:02:05,058
+I'm...
+
+851
+01:02:05,934 --> 01:02:07,895
+sad we never got that far.
+
+852
+01:02:09,479 --> 01:02:10,689
+- Me too.
+
+853
+01:02:13,108 --> 01:02:15,420
+- It's almost like yesterday was one life
+
+854
+01:02:15,444 --> 01:02:16,904
+and today is another.
+
+855
+01:02:18,197 --> 01:02:20,824
+And everything's different
+on this side of time.
+
+856
+01:02:21,408 --> 01:02:23,285
+- Yeah, it is.
+
+857
+01:02:25,370 --> 01:02:29,041
+- At least you know she's in a safe place
+and well cared for.
+
+858
+01:02:31,043 --> 01:02:32,419
+- I miss her.
+
+859
+01:02:33,795 --> 01:02:35,464
+Is that weird to say?
+
+860
+01:02:36,840 --> 01:02:39,110
+I only met her once.
+
+861
+01:02:39,134 --> 01:02:40,677
+I don't even know her.
+
+862
+01:02:41,595 --> 01:02:42,638
+And I miss her.
+
+863
+01:02:46,558 --> 01:02:48,018
+The treaty is dead.
+
+864
+01:02:49,269 --> 01:02:53,190
+But we have to find a way
+to preserve some kind of peace.
+
+865
+01:02:55,150 --> 01:02:56,318
+For Anaya.
+
+866
+01:03:03,992 --> 01:03:05,327
+- You wanna have breakfast with me?
+
+867
+01:03:26,849 --> 01:03:29,476
+♪
+
+868
+01:04:06,722 --> 01:04:08,640
+♪
+
+869
+01:05:11,286 --> 01:05:13,121
+♪
+
+869
+01:05:14,305 --> 01:06:14,929
+Please rate this subtitle at www.osdb.link/a8s89
+Help other users to choose the best subtitles
