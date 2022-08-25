@@ -1,0 +1,1070 @@
+{1}{1}23.976
+{90}{125}your ankle at all times.
+{125}{174}You're confined to the|apartment 24 hours a day.
+{174}{231}It must not cross this line.
+{231}{261}Your condition is your...
+{261}{307}There is no condition!
+{307}{343}I'll be damned|if I'm going to have
+{343}{415}people think that Jonas Stern|is losing his mind.
+{415}{442}You've done wrong.
+{442}{470}I know I have.
+{470}{499}Your marriage is in trouble
+{499}{564}because you don't acknowledge|true repentance.
+{564}{598}Tell me what I have to do.
+{598}{649}I'm going to take a|third of your business,
+{649}{721}and then I'm coming|back for the rest.
+{804}{916}{Y:i}"At 5:16 p.m.|on September 5, the explosion hit.
+{916}{962}{Y:i}"It was felt|over four blocks away.
+{962}{1019}{Y:i}"Federal investigators|determined it was a pipe bomb
+{1019}{1051}"consisting of ammonium nitrate
+{1051}{1090}{Y:i}"and anhydrous|hydrazine nitrate,
+{1090}{1128}{Y:i}"which had been thrown|through the window
+{1128}{1180}"of the newsroom layout office.
+{1180}{1217}{Y:i}"No culprits|were ever apprehended,
+{1217}{1293}{Y:i}"and the federal government|continues to investigate.
+{1293}{1326}{Y:i}"The explosion killed|the plaintiff
+{1326}{1375}{Y:i}"Mr. Jeffrey Sanborn, 42,
+{1375}{1431}{Y:i}managing editor|of the Cook County Vindicator""
+{1431}{1461}{Y:i}Exception.
+{1461}{1519}"Resulted in his death."
+{1519}{1598}Uh, noted and accepted.
+{1598}{1666}Replacing "killed."
+{1666}{1695}"Mr. Sanborn is married
+{1695}{1744}"and has two teenaged|dependents who will suffer
+{1744}{1791}"from loss of wages|and affection.
+{1791}{1851}{Y:i}"Mr. Clay and the Cook|County Vindicator, jointly
+{1851}{1921}and severally, agree to pay..."|Uh, Julius?
+{1921}{2028}"$250,000 from capped|business insurance
+{2028}{2115}and $100,000 from capped|renter's insurance""
+{2115}{2181}But only if we agree now.
+{2181}{2206}We agree.
+{2207}{2276}Mrs. Sanborn?
+{2276}{2332}Mrs. Sanborn?
+{2352}{2438}The man|you're discussing--
+{2438}{2464}my husband--
+{2464}{2513}he was working on a novel.
+{2513}{2547}I just started reading it.
+{2547}{2645}It's... beautiful.
+{2666}{2722}And you're telling me
+{2722}{2851}that he's worth $350,000?
+{2895}{3014}Mrs. Sanborn, no money could|ever replace your husband,
+{3014}{3075}but the only way|we can talk here
+{3075}{3121}is about money.
+{3121}{3154}I'm sorry.
+{3154}{3248}I've been reading a lot|of books about grief,
+{3248}{3298}and they all suggest|waiting six months
+{3298}{3364}before you make|any big changes in your life.
+{3364}{3447}Well, Jeffrey died exactly
+{3447}{3525}six months ago this week, so...
+{3525}{3572}you're fired...
+{3572}{3636}and you are, too.
+{3636}{3735}Mrs. Sanborn, if you do this,|we have to start over,
+{3735}{3795}and you may not get a better|settlement from our client.
+{3796}{3831}I think I will.
+{3831}{3876}Why?
+{3876}{3902}Why do you think that?
+{3902}{3956}Because I just hired|a new lawyer.
+{3980}{4038}Jeanette!|Oh!
+{4038}{4109}Oh, how I missed you, baby doll.
+{4109}{4155}Ah, good to see you.
+{4155}{4254}Hey, get out of this hellhole,|come work for a real law firm.
+{4254}{4283}I have arrived.
+{4283}{4354}Mr. Stern,|thank you for joining us.
+{4354}{4460}Mrs. Sanborn, it is an extreme|and unconditional pleasure.
+{4510}{4549}Hello, Julius.
+{4549}{4620}I see you haven't|taken down the "S" yet.
+{4620}{4656}We're looking for a new Stern.
+{4656}{4686}Coffee, two sugars.
+{4686}{4711}Thanks.
+{4711}{4747}How about you three?|Anybody want coffee?
+{4776}{4820}Ah, it'll just be one coffee.
+{4820}{4884}How are you feeling, Mr. Stern?
+{4906}{4961}How am I feeling, huh?
+{4961}{5055}Well, I'm feeling|like amending a complaint.
+{5055}{5100}How does that sound?|Jonas,
+{5100}{5161}the insurance has been|capped at $350,000.
+{5161}{5203}The newspaper can't|pay anymore.
+{5203}{5263}Unless it was|an intentional act.
+{5263}{5300}Intentional act opens you up
+{5300}{5343}to punitive damages.
+{5343}{5399}I love when she|talks like that.
+{5399}{5445}It sounds so good coming|from a young person.
+{5445}{5496}How is it an intentional act?
+{5536}{5593}Your client published
+{5593}{5655}an editorial cartoon|which depicts
+{5655}{5696}the Prophet Muhammad|being humiliated.
+{5696}{5765}Being body scanned|at an airport metal detector.
+{5765}{5836}And while all the other white|passengers are waved through.
+{5836}{5897}It was intended to criticize|racial profiling.
+{5897}{5945}All the while, your client knew
+{5945}{5980}that Islam prohibits
+{5980}{6038}any pictorial depiction|of the Prophet,
+{6038}{6098}and he cut back on security
+{6098}{6136}at the exact moment|he should have increased it.
+{6136}{6169}A cost-cutting measure.
+{6169}{6201}Read the settlement, Jonas.
+{6201}{6260}{Y:i}You know what happened in|Denmark when the Morning Post
+{6260}{6322}published cartoons|just like this.
+{6322}{6351}Riots,
+{6351}{6377}death threats.
+{6377}{6433}This isn't|about Mrs. Sanborn, Jonas.
+{6433}{6464}This is about us.
+{6464}{6547}Of course it's about us.
+{6547}{6600}I'm going to destroy your firm.
+{6624}{6661}And Mrs. Sanborn
+{6661}{6724}understands that,|don't you, dear?
+{6725}{6755}I do.
+{6791}{6835}How much are you suing for?
+{6835}{6884}Didn't I ask for coffee?
+{6884}{6916}How much in punitive?
+{6936}{6993}$25 million.
+{6993}{7051}Here's the amended suit.
+{7051}{7104}Mrs. Florrick.
+{7121}{7177}May I have a moment?
+{7245}{7279}How am I feeling?
+{7279}{7360}It was an innocent question.
+{7360}{7405}Attorney-client privilege.
+{7405}{7506}What you know about me, what|you know about my condition
+{7506}{7567}is for us to know|and no one else.
+{7567}{7605}You do understand that?
+{7637}{7707}Oh, there it is again.
+{7732}{7762}That poker face.
+{7762}{7832}You know, I always thought|the CIA could learn something
+{7832}{7866}from the suburban housewife.
+{7866}{7904}Do you understand?
+{7905}{7928}I understand
+{7928}{7978}the obligations of my job.
+{7978}{8035}Good.
+{8091}{8147}Oh, has your friend Will Gardner
+{8147}{8177}stabbed you in the back yet?
+{8177}{8207}Would you like me to get him
+{8207}{8244}on the phone for you?|You can ask.
+{8244}{8313}Ask him who he's|meeting with right now.
+{8313}{8364}Or does the name Gerald Kozko
+{8364}{8417}mean anything to you?
+{8417}{8448}He's a real estate developer.
+{8448}{8477}Underwater,
+{8477}{8561}and unless I'm mistaken,|his name keeps coming up
+{8561}{8615}in connection|with your husband's case.
+{8669}{8745}Always a pleasure,|Mrs. Florrick.
+{8770}{8920}Someone needs to stop Clearway Law.|Public shouldn't leave reviews for lawyers.
+{9009}{9060}Well, it's never|about the money.
+{9061}{9111}It's always about|something else.
+{9111}{9145}Well, I'm sorry we can't help.
+{9145}{9198}Take care.
+{9233}{9281}Mrs. Florrick.
+{9281}{9325}Mister...?
+{9325}{9353}Kozko, Gerald.
+{9353}{9413}We've never met.
+{9413}{9453}How's Peter?
+{9453}{9482}Fine.
+{9482}{9509}I didn't know you knew Will.
+{9509}{9537}I don't; I|was shopping
+{9537}{9597}for more lawyers to|join my defense team,
+{9597}{9664}but it appears we have|a conflict of interest--
+{9664}{9703}you.
+{9703}{9765}Anyway, glad to meet you.
+{9765}{9823}Peter always said|he was a lucky guy.
+{9823}{9888}Now I see why.
+{9908}{9973}Would you tell Peter|something for me?
+{9973}{10026}Tell him I'm sorry.
+{10026}{10073}For?
+{10073}{10141}He'll know what I mean.
+{10273}{10362}<font color="#ffff00">Sync by kuniva</font>|<font color="#ffff00">www.Addic7ed.com</font>
+{10547}{10581}{Y:i}My greater|Lucius Clay
+{10581}{10630}{Y:i}founded the Vindicator.
+{10630}{10683}In his first editorial|he endorsed Abraham Lincoln.
+{10683}{10760}In his last he railed|against Prohibition.
+{10760}{10797}{Y:i}The Trib and the Sun-Times
+{10797}{10834}may be bigger,
+{10834}{10882}but they have to answer|to corporate ownership.
+{10882}{10927}Dumbwaiters.
+{10927}{10975}Lucius set them up
+{10975}{11013}to shuttle in the booze.
+{11013}{11056}And so we gladly admit that
+{11056}{11088}we have committed this attack
+{11088}{11112}upon the blasphemous,
+{11112}{11141}who published this cartoon,
+{11141}{11165}to defend the honor
+{11165}{11190}of all Muslims
+{11190}{11226}and of Allah's beloved prophet.
+{11226}{11257}Peace be upon him.
+{11257}{11297}Yes, I've seen this.
+{11297}{11323}How does it hurt us?
+{11323}{11353}The plaintiff says|it's no secret
+{11354}{11394}this group's been active|in Chicago.
+{11394}{11421}Six months earlier,|they committed
+{11421}{11473}an identical bombing|at a synagogue.
+{11473}{11538}And you had to know that|cartoon might provoke them.
+{11538}{11571}My job is to provoke.
+{11571}{11598}Because it sells papers?
+{11598}{11625}Because freedom of the press
+{11625}{11707}is meaningless unless|somebody actually uses it.
+{11750}{11817}I'm not trying|to be insensitive.
+{11817}{11861}Jeff Sanborn was|a very good friend.
+{11861}{11893}We came up together.
+{11893}{11937}The problem, Mr. Clay,|is their argument is,
+{11937}{11977}you did it|to increase circulation.
+{11977}{12033}It's not like I commissioned|this cartoon,
+{12034}{12087}hoping it was going|to anger Muslims.
+{12087}{12168}We had an online contest-- best|political cartoon, any subject.
+{12168}{12209}And you picked the cartoon?
+{12209}{12253}In consultation with my editors.
+{12254}{12323}Jeffrey Sanborn, too?
+{12323}{12352}Sure,
+{12352}{12384}of course.
+{12384}{12433}{Y:i}So, even if Stern can show
+{12433}{12472}he intended this to happen,
+{12472}{12512}Sanborn was|contributorily negligent.
+{12512}{12541}Might not be a total win,
+{12541}{12577}but it's enough to get us|back to the table.
+{12577}{12627}We'll need something more|than Mr. Clay's testimony
+{12627}{12650}to establish it.
+{12650}{12688}What about the cartoonist?
+{12688}{12717}It was an anonymous submission.
+{12717}{12758}I sent the money|to a Paypal account.
+{12758}{12789}Routed through a proxy.
+{12789}{12817}There's no way to trace it.
+{12817}{12864}We'll see.|I'll get Kalinda on it.
+{12864}{12913}♪ ♪
+{13115}{13174}Returning to the|scene of the crime?
+{13174}{13218}You're not going|to pout, are you?
+{13218}{13295}I hate when men pout.
+{13295}{13352}Go away.
+{13418}{13482}Okay, let's inspect the|level of coincidence here.
+{13482}{13523}I haven't seen you|since college.
+{13523}{13557}We bump into each other here.
+{13557}{13583}You ask me what I'm doing.
+{13583}{13626}I talk about the|Muhammad cartoon case,
+{13626}{13660}and then the next|day-- lo and behold--
+{13660}{13708}you and your firm|are suing my client.
+{13708}{13759}Cary, think about it.
+{13759}{13818}If I let slip a piece|of information like that to you,
+{13818}{13901}you'd be on the phone to your|boss before our second drink.
+{13901}{13958}Okay.
+{14041}{14065}Then your turn.
+{14065}{14090}What's going on at work?
+{14121}{14203}Okay, I'll play.
+{14203}{14227}Stern wants you.
+{14227}{14272}Stern wants me?
+{14272}{14318}Last night you wanted|me, now he wants me.
+{14318}{14366}Lockhart, Gardner|is going under.
+{14366}{14417}It's a hollowed-out shell.
+{14417}{14458}Because Stern keeps|taking our clients.
+{14458}{14494}In one year, your firm
+{14494}{14575}will be nothing but an empty|floor in an office building.
+{14575}{14646}Stern's got equity,|plenty of business,
+{14646}{14767}no contest.
+{14799}{14909}That's right, your little|contest with Mrs. Florrick.
+{14909}{14943}You're losing.
+{14943}{14977}I got more billable hours.
+{14977}{15033}And Florrick's got a name.
+{15033}{15071}Stern is new.
+{15071}{15139}There's a better path|to partnership.
+{15139}{15203}Think about it.
+{15203}{15236}You won't be alone.
+{15236}{15287}Oh, I won't be alone?
+{15287}{15336}In leaving Lockhart, Gardner.
+{15336}{15367}You're raiding us?
+{15367}{15403}Mm-hmm.
+{15442}{15507}{Y:i}So where are we on|getting me to church?
+{15507}{15534}I'm filing a|religious exception
+{15534}{15569}to electronic monitoring.
+{15569}{15642}It doesn't always work,|but we'll hope for the best.
+{15642}{15673}Maybe next Sunday.
+{15673}{15711}And I am getting a|photographer at the church.
+{15711}{15762}I don't care|what the good pastor has to say.
+{15762}{15814}Eli, we're not doing that.
+{15861}{15886}What is it?
+{15886}{15924}What's the mater?|Well, it's...
+{15924}{15956}probably nothing.
+{15956}{16034}Um, Childs is changing the|direction with the retrial.
+{16034}{16086}He's giving up the sex angle.|What?
+{16086}{16120}That's all he's got.
+{16120}{16169}Is he changing the trial date?|No.
+{16169}{16225}Two months away.|I don't understand, then.
+{16225}{16309}I am hearing chatter|about a surprise witness.
+{16309}{16365}So who can hurt you?
+{16365}{16409}Well, if they're going to lie,
+{16409}{16453}anybody can hurt me.
+{16453}{16535}Maybe Childs is trying to|quietly make this disappear.
+{16535}{16561}I doubt it.
+{16561}{16613}Hey, hon.
+{16640}{16705}Gerald Kozko was|at my office today.
+{16754}{16825}He wanted me to tell you|something.
+{16825}{16893}He said, "Tell Peter I'm sorry""
+{16913}{16963}Damn.
+{16963}{17014}No. Kozko and Childs|hate each other.
+{17014}{17061}There's no way he's going|to grant him immunity.
+{17061}{17117}Well, he would if it's|the only way to get Peter.
+{17117}{17154}We need...
+{17206}{17283}You're standing in my kitchen.
+{17283}{17344}Whatever you have to say,|you can say it in front of me.
+{17412}{17465}You heard her.
+{17843}{17890}Mrs. Sanborn,
+{17890}{17984}did your husband have a close|relationship with his employer?
+{17984}{18031}Mr. Clay?
+{18031}{18078}Yes. Until recently.
+{18078}{18149}It had become strained--|their friendship.
+{18149}{18182}And why was that?
+{18182}{18218}Objection.|Beyond the scope.
+{18218}{18297}Well, I really think|we're safe here.
+{18297}{18345}Don't you?
+{18345}{18378}You may answer, Mrs. Sanborn.
+{18378}{18445}The paper was|in financial trouble.
+{18445}{18495}They had to lay off|a lot of staff.
+{18495}{18536}The stress took its toll.
+{18536}{18608}Jeff was also frustrated|by Mr. Clay's pursuit
+{18608}{18647}{Y:i}of a New Yorker cover.
+{18647}{18691}Something controversial.
+{18691}{18764}{Y:i}Like the Obama fist-bump cartoon|on the New Yorker.
+{18764}{18809}Something that would|increase readership.
+{18809}{18879}Well, Mrs. Sanborn,|did your husband help
+{18879}{18955}Mr. Clay choose the cartoon|for publication in the paper?
+{18955}{18985}Yes.
+{18985}{19041}It was a contest, and he helped|Mr. Clay judge it.
+{19041}{19092}But the cartoon that appeared|was different,
+{19092}{19120}wasn't it?|Yes.
+{19120}{19146}I saw the original.
+{19146}{19193}It didn't depict Muhammad.
+{19193}{19240}It was just|a Middle-Eastern man.
+{19240}{19284}Jeffrey told me
+{19284}{19376}that the decision to change it|to Muhammad was Mr. Clay's.
+{19403}{19468}To generate more controversy.
+{19468}{19495}Is it just me,
+{19495}{19580}or do we really need|to find that cartoonist?
+{19580}{19622}So, here's your cartoon.
+{19622}{19661}Now, you see this|cross-hatching?
+{19661}{19695}How it almost looks like bars?
+{19695}{19751}That can indicate a|sense of suffocation.
+{19751}{19785}Like they can't say|what they mean.
+{19786}{19816}In this case, it might indicate
+{19816}{19887}someone who's a|Muslim themselves.
+{19887}{19938}Fascinating.|Yeah.
+{19938}{19970}Does this really work?
+{19970}{20012}Graphology?
+{20012}{20040}Applied to drawing.
+{20040}{20111}It does if you know|what you're looking for.
+{20111}{20175}You don't respect|my job, do you?
+{20175}{20222}I am... incredulous.
+{20222}{20258}It's best with comparison.
+{20258}{20306}You run an image search,|cross-referenced
+{20306}{20367}with the unique elements|of the sample drawing.
+{20367}{20430}Still too much.
+{20430}{20478}Narrow it by location.
+{20478}{20509}Chicago.
+{20509}{20562}Better.
+{20610}{20656}Mm.
+{20742}{20783}Wow.
+{20783}{20817}Looks like I am a believer.
+{20817}{20889}The thing is,|when you hired me,
+{20889}{20938}I was told the|firm had a program
+{20938}{20987}for lending associates money|against our salaries--
+{20987}{21038}for down payments, cars.
+{21038}{21064}Accounting turned you down?|Yeah.
+{21064}{21114}And I got my eye on a|condo in Lincoln Park.
+{21114}{21147}Interest rates are still low.
+{21147}{21219}Look, money's a little tight|these days, that's all.
+{21219}{21247}Yeah, I just want to know
+{21247}{21281}if there's anything|I should be aware of.
+{21281}{21328}About my future.|About your...?
+{21328}{21355}No.
+{21355}{21401}Nobody's trying|to tell you anything.
+{21401}{21430}It's just money's tight.
+{21430}{21476}So I'm still in the running?
+{21476}{21506}You are.
+{21506}{21548}Nobody's made any decisions yet.
+{21591}{21620}Is that it?
+{21640}{21679}Yes.
+{21837}{21886}So how's Peter doing?
+{21886}{21937}He's good.|I mean, he'd be a lot better
+{21937}{22009}if he had a clearer sense|of what Childs was planning.
+{22009}{22064}So, he got the message?
+{22064}{22098}My apology?|Yeah.
+{22098}{22152}Look, you and Peter|go back a long way.
+{22152}{22187}If Childs is threatening you,
+{22187}{22248}Peter wants to help his friends|in any way he can.
+{22248}{22290}Well, I don't want|to hurt Peter.
+{22290}{22321}But it's not just me.
+{22321}{22377}I have a legacy to protect.
+{22377}{22419}My son.
+{22419}{22474}Peter has a family, too.
+{22474}{22500}We all have families.
+{22500}{22537}Okay, let's cut|the pleasantries.
+{22537}{22612}Whatever you have, or think|you can devise, to hurt Peter--
+{22612}{22660}he has twice as much|to hurt you.
+{22660}{22738}I know your reputation,|Mr. Gold.
+{22738}{22778}Then you know|I don't screw around.
+{22778}{22814}I know Peter has religion.
+{22835}{22883}Meaning?
+{22904}{22947}He's off his game.
+{23024}{23106}You have a pastor giving him|spiritual instruction.
+{23106}{23154}Now he's going to church.
+{23154}{23212}Hey, I'm in risk|assessment, Mr. Gold.
+{23212}{23264}At the moment, Childs|is the bigger risk.
+{23264}{23310}Did he give you immunity?
+{23420}{23467}Oh, that's not good.
+{23467}{23526}Not at all.
+{23653}{23685}{Y:i}We don't threaten
+{23685}{23743}with a subpoena unless|he refuses to testify.
+{23743}{23814}How about we don't|threaten at all?
+{23814}{23860}Yes?
+{23860}{23883}Mrs. Bassir?
+{23883}{23909}Dr. Bassir.
+{23909}{23930}May I help you?
+{23930}{23961}Oh, so sorry.|Yes, of course.
+{23961}{23995}Um, is your husband home?
+{23995}{24045}My husband?
+{24045}{24079}My husband doesn't live|in this country.
+{24079}{24125}Is there a Tarik Bassir here?
+{24125}{24153}A cartoonist?
+{24153}{24202}Yeah, that's me.
+{24202}{24237}What's up?
+{24237}{24272}Yeah, it was my idea.
+{24272}{24322}Some jerk at the airport|gave me a hard time,
+{24322}{24351}so I drew about it.
+{24351}{24389}First I made it just a picture|of a random Muslim.
+{24389}{24438}Then I thought--|what the hell?
+{24438}{24472}Language.
+{24472}{24519}I mean, if I'm going|to make a statement,
+{24519}{24566}why not really make|a statement, you know?
+{24566}{24637}{Y:i}So it was your idea to depict...|The Prophet.
+{24637}{24703}Yeah. Somebody has to do|something or the Fundies win.
+{24703}{24727}The...
+{24727}{24767}Fundamentalists.|I e-mailed Clay,
+{24767}{24808}told him I wanted|to change the cartoon.
+{24808}{24857}Put it out in the open,|get other Muslims
+{24857}{24900}to reexamine|their preconceptions.
+{24900}{24941}Then why do it anonymously?
+{24941}{24984}Hey, I'm 15 years old.
+{24984}{25016}Why do I do anything?
+{25016}{25045}You have to understand--
+{25046}{25101}I knew nothing|about any of this.
+{25101}{25130}Not until after.
+{25130}{25160}And would you be willing
+{25160}{25196}to testify about|all of this, Tarik?
+{25196}{25231}That's not up to Tarik.
+{25231}{25289}Well, he could testify|in camera--
+{25289}{25313}in the judge's chambers.
+{25313}{25341}There would only be the judge,
+{25341}{25379}the lawyers, the|court reporters.
+{25379}{25426}We would use a pseudonym.
+{25426}{25486}Mrs. Florrick, Miss Sharma,
+{25486}{25558}I know the name|of only one cartoonist.
+{25558}{25606}Kurt Westergaard,
+{25606}{25654}the man who drew one
+{25654}{25679}of the cartoons of Muhammad
+{25679}{25719}in the Danish paper|five years ago.
+{25719}{25757}And he has been living
+{25757}{25813}under 24-hour security|since then.
+{25813}{25889}I will not do that to my son.
+{25917}{25979}You explained|he could testify in camera?
+{25979}{26024}Yes. She doesn't|want to take a chance.
+{26024}{26064}Well, if she|doesn't produce him,
+{26064}{26094}she'll be held in contempt.
+{26094}{26119}No.
+{26119}{26174}Uh, we need him.
+{26174}{26215}He is the only one|who can corroborate
+{26215}{26299}the cartoon was|his idea, not yours.
+{26299}{26375}I already have Jeff Sanborn's|blood on my hands.
+{26375}{26422}I won't have this kid's.
+{26422}{26483}This kid is all|we have, Charles.
+{26596}{26673}If we don't use him, we need|an alternate story for the jury.
+{26673}{26719}Counterterrorism|unit just finished
+{26719}{26759}its preliminary bombing report.
+{26759}{26809}Maybe there's something|we overlooked.
+{26809}{26858}Can you get your hands on it?
+{26858}{26909}I can try.
+{26961}{27012}{Y:i}If I leave Lockhart/Gardner,
+{27012}{27076}I don't want it to be a dozen|junior associates and me.
+{27076}{27110}It won't be.
+{27110}{27160}We've got an equity partner.
+{27160}{27210}Ten associates.
+{27240}{27277}You got an equity partner?
+{27278}{27369}There's a lot of unhappiness|at Lockhart/Gardner.
+{27369}{27422}Which one?
+{27454}{27495}I like your hair messy.
+{27495}{27523}Don't comb it, okay?
+{27523}{27607}Ten litigators,|an unhappy equity partner.
+{27607}{27678}It's Julius, isn't it?
+{27678}{27764}He was always close to Stern.
+{27764}{27846}You are a smart boy.
+{28098}{28150}He tried to poach you?
+{28150}{28179}Stern did?
+{28179}{28214}Yes.
+{28214}{28270}And 11 others.
+{28270}{28318}Who?
+{28318}{28379}The only name I know|is Julius Cain.
+{28435}{28477}I don't want you to think|for one moment
+{28477}{28514}I was considering taking it.
+{28514}{28560}Of course not.
+{28560}{28590}I'm a team player.
+{28590}{28658}I just want to do what's|right for the firm.
+{28703}{28749}Thanks, Cary.
+{28749}{28791}Yeah.
+{28861}{28902}Oh.
+{28902}{28957}I'm working on your loan.
+{28958}{29009}I think we can make it work.
+{29009}{29054}Thanks.
+{29054}{29101}I really appreciate that.
+{29101}{29138}{Y:i}Yes, I was at the Vindicator
+{29138}{29189}when Mr. Clay made the decision|to publish the cartoon.
+{29189}{29245}And did you argue against it?|I did.
+{29246}{29318}I felt it was insensitive|to Muslim believers,
+{29318}{29368}especially when the same point|could be made
+{29368}{29394}without depicting Muhammad.
+{29394}{29474}You also argued|that it was reckless.
+{29474}{29533}I was the reporter|on the synagogue bombing.
+{29533}{29602}I saw the devastation|that caused.
+{29602}{29650}Mr. Thiessen,|were you present
+{29650}{29680}when Mr. Clay met
+{29680}{29725}{Y:i}with the Vindicator lawyer|prior to the publication
+{29725}{29764}of the cartoon?
+{29764}{29801}Objection, Your Honor!|Attorney-client privilege.
+{29801}{29878}Mr. Thiessen observed|the conversation, Your Honor,
+{29878}{29953}and is not covered|by the privilege.
+{29953}{30014}That makes sense to me.
+{30014}{30045}Doesn't it, Ms. Lockhart?
+{30045}{30073}I'll allow.
+{30073}{30132}What was said at this meeting?
+{30132}{30181}{Y:i}The lawyer referenced|the New York Times
+{30181}{30209}and Yale University Press
+{30209}{30251}decision not to reprint|the Danish cartoon.
+{30251}{30307}He believed, in both cases,
+{30307}{30353}the fear of inciting violence
+{30353}{30392}trumped the public's|need to know.
+{30392}{30426}Thank you, sir.
+{30514}{30557}Mr. Thiessen, you were worried
+{30557}{30610}that the paper would|be insensitive
+{30610}{30673}to religious believers|by printing the cartoon?
+{30673}{30697}Yes.
+{30697}{30754}I'm not a Muslim myself,|but I can sympathize.
+{30754}{30807}And what is this?
+{30897}{30953}"Piss Christ."
+{30977}{31013}I'm sorry, I couldn't hear you.
+{31013}{31061}"Piss... Christ."
+{31061}{31132}Yes, an artwork|depicting a crucifix
+{31132}{31209}placed in a cup of urine.
+{31209}{31277}This photo illustrated|an article of yours
+{31277}{31322}on controversial art?
+{31322}{31352}My goodness.
+{31352}{31417}Why not the same sensitivity|to religious believers?
+{31417}{31506}{Y:i}Because that|is unlikely to incite violence.
+{31506}{31590}So, it's not about sensitivity,|it's about fear?
+{31590}{31617}It's about both.
+{31617}{31665}Mm-hmm. You were fired
+{31665}{31713}{Y:i}from the Vindicator,|weren't you, Mr. Thiessen,
+{31713}{31763}as part of Mr. Clay's|cost-cutting?
+{31763}{31849}Yes. But that has nothing|to do with my testimony.
+{32017}{32049}Who are you?
+{32049}{32109}The plumber. Who are you?
+{32109}{32173}I'm Jackie.
+{32193}{32238}That means nothing to me.
+{32238}{32277}Peter's mother.
+{32277}{32321}Oh, yes, of course.
+{32321}{32377}Mrs. Florrick.|I'm... I'm Eli Gold.
+{32377}{32432}Please, come on in.
+{32585}{32642}You're not the plumber.
+{32642}{32682}No.
+{32682}{32756}I'm Peter's, uh,|image consultant.
+{32756}{32806}Call me Eli.
+{32874}{32909}I like that brooch.
+{32909}{32959}Thank you. Where's my son?
+{32959}{33007}He's just...
+{33051}{33129}He's meeting with his pastor.
+{33150}{33177}His...
+{33177}{33229}Pastor.
+{33258}{33305}But please go in.
+{33305}{33361}I'm sure they'd|love to say hello.
+{33645}{33702}Yeah,|it was good.
+{33702}{33774}We had a guide and a porter.
+{33774}{33856}And his sister was there.
+{33900}{33971}They've been meeting|once a week for prayer,
+{33971}{34025}spiritual guidance...
+{34025}{34096}and the sharing|of Jesus Christ.
+{34096}{34143}Who is that man?
+{34143}{34181}Isaiah Easton,
+{34181}{34244}pastor at Lord|in Christ Church.
+{34244}{34284}On 95th?
+{34284}{34332}Yes.
+{34332}{34377}Southside.
+{34451}{34515}There is something|in the FBI report.
+{34515}{34615}The theory is that the bomb was|tossed in through the window.
+{34615}{34670}Just like the synagogue.|Yeah.
+{34670}{34728}But all the windows|were blown out by the force
+{34728}{34757}of the blast.
+{34757}{34802}So?|So there's no way to tell
+{34802}{34854}if the bomb was|tossed in or not.
+{34854}{34896}That's the blast site.
+{34896}{34959}You remember what Clay said?
+{34959}{35052}Those dumbwaiters they used during|Prohibition to haul the liquor up--
+{35052}{35087}they're all over the place.
+{35087}{35138}{Y:i}So, this is the access
+{35138}{35166}to the office dumbwaiter.
+{35166}{35210}Well, the blast blew it apart.
+{35210}{35287}It doesn't mean it|went up this way.
+{35425}{35471}What?
+{35471}{35525}What is it?
+{35548}{35610}Kalinda, words.
+{35654}{35702}The bomb was hydrogen nitrate,
+{35702}{35735}a liquid explosive,
+{35735}{35797}and it stains|concrete, not tile.
+{35797}{35867}How do you know that?|Looked it up.
+{35892}{35928}Look.
+{35928}{36003}The stain splattered here...
+{36003}{36040}not here.
+{36040}{36076}Concrete, not tile.
+{36076}{36132}Well, it could have|come down the shaft
+{36132}{36165}from the blast.
+{36165}{36194}Not in liquid form.
+{36194}{36242}So, what are you saying,
+{36242}{36273}someone mixed the bomb here
+{36273}{36330}and raised it...|on the dumbwaiter?
+{36330}{36379}I'm not saying anything;|I'm just staring
+{36379}{36414}at a stain.
+{36414}{36476}But if the bomb|was mixed here...
+{36476}{36530}we're talking|about an inside job.
+{36707}{36752}The waiter,
+{36752}{36803}so there was no evidence|that it was even there.
+{36803}{36838}Should I bring|Julius in on this?
+{36838}{36878}No, not yet.|We'll update him later.
+{36878}{36960}I still don't understand|how the Feds missed this.
+{36960}{37010}Well, my guess is, they didn't.
+{37010}{37042}Their investigation|is still open.
+{37042}{37075}They just didn't issue|any of their findings.
+{37075}{37110}And they won't until they catch
+{37110}{37139}whoever's responsible.
+{37139}{37173}Cary.
+{37174}{37204}Come on in.
+{37204}{37249}The question is,|what does it mean?
+{37249}{37332}Well, Stern's theory is that|Clay wanted a violent backlash.
+{37332}{37403}That rests on the fact that|he cut back security.
+{37403}{37442}Yeah, but if the bomb|came from inside,
+{37442}{37489}no security would've been|able to prevent it. Right.
+{37489}{37540}Stern will still argue|that the bomb was planted
+{37540}{37569}by a radical Islamic group.
+{37569}{37610}They just had help from inside.
+{37610}{37645}So talk to the employees.
+{37645}{37676}That could help.
+{37676}{37723}A lone bomber in the office.
+{37723}{37772}How many Muslim|employees does he have?
+{37772}{37810}Can't be many.
+{37810}{37860}So we're going to|racially profile?
+{37860}{37913}The exact thing|the cartoon was against.
+{37913}{37955}No. We're gonna|step nicely
+{37955}{38034}past the ironies|and defend our client.
+{38034}{38100}Go over the employees|for the last five years.
+{38100}{38132}Okay.
+{38213}{38254}Shall we?
+{38354}{38423}Julius, can we talk|to you for a second?
+{38423}{38461}What's that about?
+{38551}{38600}It's a betrayal.
+{38600}{38645}It's a business decision.
+{38645}{38670}What happened to loyalty?
+{38670}{38738}It exited the building|the day you fired
+{38738}{38802}half of tax litigation.
+{38802}{38844}Look...
+{38844}{38915}I really didn't want it|to get back to you this way,
+{38915}{38962}but, uh, it's no secret|this place is
+{38962}{38988}going through|financial troubles.
+{38988}{39045}Half of which is|Stern's fault, Julius.
+{39045}{39096}There was trouble before Stern
+{39096}{39138}started to take clients.
+{39138}{39203}Right now his firm|seems more stable,
+{39203}{39262}and I consider him a mentor.|- So do I.
+{39262}{39331}But at the end of the day,|I bet on myself, not him.
+{39331}{39369}With Stern,|it's all about Stern.
+{39501}{39557}I'm sorry.
+{39557}{39595}Julius.
+{39595}{39662}You're one of the best|lawyers we have.
+{39662}{39701}You have a great client list.
+{39734}{39786}So what's it gonna take?
+{39866}{39937}Here's my offer from Stern.
+{40098}{40146}We can match it.
+{40245}{40308}What about, uh, gearing up
+{40308}{40354}that diversity program|we keep talking about?
+{40354}{40413}That'll cost us money|we don't have.
+{40413}{40476}We lag behind virtually|every other major Chicago firm
+{40476}{40508}in diversity hiring.
+{40508}{40555}I'm tired of being|the poster boy
+{40555}{40593}for affirmative|action around here.
+{40593}{40635}Okay, fine.
+{40635}{40690}We'll find the money.
+{40723}{40762}All right.
+{40900}{40951}Now, it's your turn
+{40951}{40992}to do something for us.
+{40992}{41059}Ten other lawyers|who were gonna go with you--...
+{41081}{41124}...their names.
+{41162}{41230}What, you want me to...
+{41230}{41278}But now they'll stay.
+{41278}{41328}Stern wanted me, not them.
+{41328}{41355}We don't want turncoats
+{41355}{41406}with access|to proprietary information.
+{41406}{41464}You're gonna fire them.
+{41464}{41527}It's more money|for diversity hiring.
+{41613}{41659}Write down the names.
+{41815}{41866}What is that?|The results
+{41866}{41903}of my questioning|the employees.
+{41903}{41927}One received that
+{41927}{41960}the week before the attack.
+{41960}{42001}Tell they didn't|take this to Clay.
+{42001}{42057}They took it to Clay.|And he ignored it?
+{42057}{42103}Yes.|Which makes it even worse
+{42103}{42146}that it was an inside job.
+{42146}{42242}Clay isn't liable for unforeseeable|acts of his employees.
+{42242}{42295}But now? If he|had prior notice?
+{42295}{42349}If we know this,|Stern knows this.
+{42349}{42391}Oh, well, that's|a happy thought.
+{42391}{42429}That's me, Mr. Cheer.
+{42429}{42463}Well, it makes Clay's|questioning tomorrow
+{42463}{42505}that much more important.
+{42505}{42558}Oh. Which brings up|another problem.
+{42558}{42587}Julius was
+{42587}{42615}handling questioning.
+{42615}{42660}Why is that a problem?
+{42660}{42706}Maybe Cary should take it.
+{42706}{42766}No. Alicia.
+{42766}{42831}She can get in Stern's|face more effectively.
+{42916}{42994}The fact is, you know something|about Stern no one else knows.
+{42994}{43030}I can't use it, Kalinda.
+{43030}{43064}You can't not use it.
+{43064}{43118}It violates attorney-client|privilege.
+{43118}{43216}Only if you tell someone,|so don't tell someone.
+{43250}{43280}All right, see you, then.
+{43344}{43423}I want you to meet|Bishop Grayson.
+{43423}{43460}Mom.
+{43460}{43500}He's a nice Episcopalian priest.
+{43500}{43581}He will help you put this|religion stuff into perspective.
+{43581}{43649}It is in perspective.|That's not perspective.
+{43671}{43722}This is about Alicia, isn't it?
+{43723}{43749}No.
+{43749}{43801}No, it's not.|It's about me.
+{43801}{43840}And I need a change.
+{43840}{43890}No, you don't, Peter.
+{43891}{43937}You are a good man.
+{43937}{43985}You want to blame yourself.
+{43985}{44032}But you apologized.
+{44032}{44089}You apologized again, and again.
+{44089}{44159}Anybody who wants another|apology from you
+{44159}{44208}only wants you to be weak.
+{44208}{44234}So stop this.
+{44234}{44294}Stop this now.
+{44295}{44365}My son will not be made weak.
+{44528}{44580}You are one scary mom.
+{44603}{44686}Yes. And you are|a good son.
+{44756}{44806}{Y:i}Mrs. Sanborn stated
+{44806}{44854}under oath that|it was your decision
+{44855}{44918}to have the cartoon depict|the Prophet Muhammad.
+{44918}{44962}That's untrue.
+{44962}{45007}The cartoonist contacted me
+{45007}{45043}with that idea.
+{45043}{45072}Still,
+{45072}{45133}it was your decision|to run the cartoon, Mr. Clay.
+{45133}{45158}Why did you?
+{45158}{45209}'Cause it was newsworthy.
+{45209}{45251}It wasn't sensational.
+{45251}{45294}And this is America--
+{45294}{45335}we can handle it.
+{45335}{45383}Thank you.
+{45383}{45418}Mr. Clay,
+{45418}{45496}what is The Naked Columnist?
+{45541}{45600}An advice columnist in my paper
+{45600}{45693}who supposedly answers|questions in the nude.
+{45693}{45725}And that is newsworthy.
+{45725}{45759}That's not sensational.
+{45759}{45791}It is not on the front page.
+{45791}{45819}And this is America.
+{45819}{45849}We can handle it.
+{45849}{45907}The Naked... Columnist.
+{45907}{45953}There's room for entertainment
+{45953}{45983}in every paper.
+{45983}{46020}A lot of room, apparently.
+{46020}{46091}You devoted 10,000|column inches
+{46091}{46147}to The Naked|Columnist last year.
+{46147}{46198}Do you know how many|you devoted to Iraq?
+{46198}{46265}I'm battling Internet|competitors, sir.
+{46265}{46344}Competitors who are willing to|give away their product for free.
+{46344}{46457}Mr. Clay, are you aware|that the police now believe
+{46457}{46493}that this bombing was
+{46493}{46517}an inside job?
+{46517}{46578}Objection!|Not in evidence. Yes.
+{46578}{46666}Your Honor, this is|plaintiff's exhibit N--
+{46666}{46722}the police report...
+{46722}{46757}filed...
+{46757}{46817}yesterday morning.
+{46894}{46934}Mr. Clay, you don't know
+{46934}{46960}anything about this, do you?
+{46960}{46993}Objection!|Argumentative.
+{46993}{47053}Uh, Your Honor, it's a|simple leading question.
+{47053}{47082}Overruled.
+{47082}{47119}Um, you may answer.
+{47119}{47179}I'm sorry,|wh-what was the question?
+{47179}{47245}The question was, uh...
+{47245}{47292}The police
+{47292}{47387}now believe that the bombing|was an inside job, that the bomb
+{47387}{47463}was hoisted up through a dumbwaiter.|Objection! Again,
+{47463}{47511}{Y:i}not in evidence.|It is in
+{47511}{47543}the investigative report.
+{47543}{47587}The investigative report|merely states
+{47587}{47649}that it appears|a bomb was planted from inside.
+{47649}{47686}It doesn't say|anything specifically
+{47686}{47712}about dumbwaiters.
+{47712}{47739}We ask that statement
+{47739}{47768}be stricken from the record.
+{47768}{47799}Is that really necessary,
+{47799}{47823}Mrs. Florrick?
+{47823}{47856}Overruled.
+{47876}{47912}Thank you, Your Honor.
+{47912}{47971}Uh...
+{47971}{48012}Ugh.
+{48012}{48058}Where was I?
+{48058}{48100}Uh, right, right.
+{48100}{48128}Dumbwaiter, employees.
+{48128}{48160}So, Mr. Clay,
+{48160}{48202}have any of the employees
+{48202}{48255}approached you about threats|they might have been receiv...?
+{48255}{48283}Objection.|Overly vague.
+{48283}{48308}Mrs. Florrick.
+{48308}{48335}You're right.
+{48335}{48364}Withdrawn, Your Honor.
+{48364}{48427}You may proceed, Mr. Stern.
+{48427}{48495}Yes. Thank you, Your Honor.
+{48520}{48607}Um... One moment.
+{48656}{48681}Mr. Stern?
+{48681}{48710}Yes. Just-just
+{48710}{48738}one moment, please. Thank you.
+{48739}{48765}Inside job.
+{48765}{48806}The threat.|A threat.
+{48807}{48838}Mr. Stern.|The documents. No, no.
+{48839}{48886}Do you have any further|questions for this witness?
+{48886}{48921}Damn it, give me a minute!
+{49029}{49089}Oh.
+{49089}{49137}I am sorry, Your Honor.
+{49137}{49195}I... I just, uh...
+{49222}{49296}I, um...
+{49395}{49445}I have nothing further.
+{49550}{49612}Thank you, Mr. Clay.
+{49612}{49650}You are dismissed.
+{49650}{49702}Please refrain from|speaking with the jury
+{49702}{49778}and make yourself available|for further questions.
+{49778}{49822}At this time,
+{49822}{49894}I suggest a, uh,|a ten-minute recess.
+{50067}{50095}{Y:i}We're still|treating this
+{50095}{50149}like jihad even though|it's an inside job.
+{50149}{50194}Because of the|threat. The bomb?
+{50194}{50233}Look.
+{50262}{50326}You were talking about|racial profiling, right?
+{50326}{50371}What if someone|was using our bias
+{50371}{50413}to make us think it was jihad
+{50413}{50482}when it was really|something else?
+{50482}{50519}Okay.
+{50519}{50554}I'm listening.
+{50554}{50618}And...
+{50668}{50709}That's all I got.
+{50709}{50774}I didn't say I was|solving something.
+{50774}{50820}I just said I|didn't understand.
+{50894}{50936}I want credit for it.
+{50936}{50994}Whatever you get,|I want credit.
+{50994}{51050}Hmm. Whatever.
+{51050}{51122}Mr.|Thiessen, you covered the bombing
+{51122}{51150}at the Oak Lawn synagogue?
+{51150}{51182}That's right.|And it's
+{51182}{51214}your opinion that this bomb
+{51214}{51249}was very similar to that one?
+{51249}{51281}Identical.
+{51281}{51308}In both cases,
+{51308}{51340}the device was fashioned|from a metal canister,
+{51340}{51390}densely packed with hydrazine
+{51390}{51434}nitrate explosive and a
+{51434}{51470}simple,|remote-triggered circuit.
+{51470}{51522}But this utilized a different|triggering mechanism
+{51522}{51552}than the synagogue bombing?
+{51552}{51583}No, no.
+{51583}{51623}It was identical.
+{51623}{51672}A modified flashbulb?
+{51672}{51702}Yes, from a camera.
+{51702}{51733}It's quite clever.
+{51733}{51773}It produces just enough flame|to trigger the fuse.
+{51773}{51826}Oh, that's interesting.
+{51826}{51871}But when you reported|on the synagogue bombing,
+{51871}{51904}you never mentioned that fact.
+{51904}{51954}It's kind of|a technical detail.
+{51954}{52014}A little beyond the scope|of a basic news article.
+{52014}{52048}Of course.
+{52048}{52080}It's just that
+{52080}{52124}whoever planted the|bomb at the Vindicator
+{52124}{52173}had to know the layout|of the building,
+{52173}{52246}the dumbwaiters,|Mr. Sanborn's schedule,
+{52246}{52274}and how to build a bomb
+{52274}{52332}exactly like|the Defenders of Allah's.
+{52332}{52360}Objection, Your Honor!
+{52360}{52388}Objection?
+{52388}{52422}There hasn't been|a question yet.
+{52422}{52470}Overruled.
+{52470}{52531}And if you never reported|on the triggering mechanism,
+{52531}{52599}Mr. Thiessen,|the only person I can think of
+{52599}{52654}who possesses all|of that knowledge would be you.
+{52654}{52698}Objection, Your Honor.
+{52698}{52743}This is completely|without basis.
+{52743}{52788}Yes, I'm afraid you're right.
+{52788}{52837}I have to sustain|that objection.
+{52837}{52869}Well, that's okay,
+{52869}{52896}Your Honor.
+{52896}{52930}I have nothing further.
+{53116}{53232}♪ I've got a home in glory land|that outshines the sun ♪
+{53232}{53351}♪ I've got a home in glory|land that outshines the sun ♪
+{53351}{53406}♪ I've got a home in glory land|that... ♪
+{53406}{53438}Mrs. Florrick,
+{53438}{53466}thank you for visiting.
+{53466}{53501}Peter.|Pastor.
+{53501}{53530}Pastor,
+{53530}{53562}this is Zach and Grace.
+{53562}{53589}Welcome.
+{53589}{53671}♪ Do Lord, oh, do Lord,|oh, do remember me... ♪
+{53671}{53734}Mrs. Florrick, would you|ever like to talk sometime,
+{53734}{53781}just the two of us?
+{53781}{53818}No.
+{53818}{53935}I have respected the way|you've stood by your husband.
+{53935}{53994}It's a lesson in forbearance.
+{53994}{54066}Well, it's a lesson|in something.
+{54066}{54120}♪ I took Jesus as my savior ♪
+{54120}{54174}♪ You can take Him, too... ♪
+{54217}{54268}You told your boss.
+{54268}{54305}About being poached? Sure.
+{54305}{54340}And Julius?
+{54340}{54386}I told you that in confidence.
+{54421}{54472}Stern found out I leaked.
+{54472}{54518}He fired me.
+{54518}{54586}I know. That's|why the coffee.
+{54586}{54618}Why'd you tell them?
+{54618}{54660}Why didn't you just
+{54660}{54726}come over to Stern's?
+{54726}{54784}You don't seem like|the loyal type.
+{54784}{54809}I know.
+{54809}{54839}It's crazy, huh?
+{54839}{54874}What about Lockhart/Gardner?
+{54874}{54935}Is there a job there?
+{54935}{54978}For who?
+{54978}{55006}Me.
+{55006}{55037}No.
+{55201}{55240}What are you doing?
+{55240}{55333}The coffee was too hot|to throw in your face.
+{55506}{55578}{Y:i}I'm talking about|the very essence of our faith.
+{55578}{55606}Take care.
+{55606}{55661}What does|Christian forbearance mean?
+{55661}{55703}When the Apostle Paul wrote
+{55703}{55758}in Philippians,|chapter four, verse five,
+{55758}{55797}"Let your forbearing
+{55797}{55857}spirit be evident to all,"|what did he mean by that?
+{55857}{55908}Did he mean that we should|tell our neighbor...
+{55908}{55937}I'll be right back.
+{55937}{55984}...I'll put up with you|until you improve?
+{55984}{56075}No. Christian forbearance|has no time limits...
+{56147}{56202}Gerry.
+{56240}{56290}Okay, it's just us.
+{56290}{56324}What's up?|Well...
+{56324}{56381}...|bears all things and believes all things...
+{56381}{56446}He's got me in a|corner. Childs.
+{56446}{56518}He's got stuff on me|even you don't know about,
+{56518}{56553}and he'll use it.
+{56553}{56631}Unless you testify against me?
+{56631}{56690}♪ I'm gonna lay down... ♪|Peter, I have no choice.
+{56690}{56750}♪ Down by the riverside ♪
+{56750}{56799}♪ Down by the riverside ♪
+{56799}{56845}♪ Down by the riverside ♪
+{56845}{56880}♪ I'm gonna lay down... ♪
+{56880}{56962}You know Childs is going to|make you lie on the stand.
+{56962}{57012}It's not all lies.
+{57012}{57054}Not the videotape of us.
+{57054}{57117}♪ Study war no more... ♪
+{57117}{57154}You know the meeting|in the hotel room.
+{57154}{57189}♪ Study war no more ♪
+{57189}{57292}♪ Study war no mor-or-ore ♪
+{57292}{57345}♪ I ain't gonna study war|no more ♪
+{57345}{57393}Do you believe in hell?
+{57393}{57449}♪ Study war no more... ♪
+{57449}{57511}Do I believe in hell?
+{57511}{57559}Sure. Why?
+{57559}{57629}Do you believe you have|to answer for your sins?
+{57629}{57668}Peter, we don't have time.
+{57668}{57700}Do you believe it?
+{57700}{57743}♪ Down by the riverside... ♪
+{57743}{57782}Actually, I do, yes.
+{57839}{57886}♪ Study war no more... ♪
+{57886}{57943}Peter, I'm sorry.
+{57943}{57987}He threatened me.
+{57987}{58017}Childs threatened me.
+{58017}{58052}He threatened everything.
+{58052}{58108}Let's not even talk about|the stuff I have on you,
+{58108}{58166}because you're beyond|caring about that.
+{58166}{58230}Let's, let's talk about the stuff|I have on your son Anthony.
+{58230}{58295}Your married son.
+{58295}{58330}That's right.
+{58330}{58384}Your beautiful legacy.
+{58384}{58440}Peter.
+{58440}{58494}Peter, don't.
+{58494}{58535}Don't. You're a Christian.
+{58535}{58585}You're damn right I am.
+{58585}{58616}♪ Down by the riverside... ♪
+{58616}{58693}Haven't you read|the Old Testament?
+{58693}{58734}♪ Down by the riverside ♪
+{58734}{58814}♪ Study war no more ♪
+{58814}{58880}♪ I ain't gonna|study war no more ♪
+{58880}{58939}{Y:i}♪ I ain't gonna ♪|♪ Study war no more ♪
+{58939}{59057}♪ Study war no mo-or-ore ♪
+{59057}{59085}♪ Study war no more ♪
+{59085}{59114}{Y:i}♪ I ain't gonna ♪
+{59114}{59144}♪ Study war no more ♪
+{59144}{59191}{Y:i}♪ No more ♪
+{59191}{59258}♪ Study war no more ♪
+{59258}{59313}♪ I ain't gonna|study war no more ♪
+{59313}{59343}{Y:i}♪ No more ♪
+{59343}{59369}♪ Study war no more ♪
+{59369}{59394}{Y:i}♪ No more ♪
+{59394}{59494}♪ Study war no mor-or-ore ♪
+{59494}{59529}♪ Study war no more... ♪
+{59529}{59583}Tonight's good.
+{59583}{59638}Yeah.
+{59638}{59671}No.
+{59671}{59712}Oh, I can make the reservation.
+{59712}{59752}No, it's fine.
+{59752}{59786}Will, really, it's fine.
+{59786}{59820}Hey, I phoned you.
+{59840}{59898}Good. We'll have fun.
+{59925}{59991}Okay, I'll see you soon.
+{59991}{60047}You're going out?
+{60047}{60075}Yup.
+{60075}{60107}Where?
+{60107}{60135}I don't know.
+{60135}{60178}Preheat the oven|for ten minutes.
+{60178}{60208}Ignore the box.
+{60208}{60272}It says it cooks in 12 minutes,|but it's really 15.
+{60272}{60334}Oh, come on. Am I not supposed|to be jealous?
+{60334}{60398}I don't think|I care what you are.
+{60398}{60452}Tell Zach only one|hour on the computer.
+{60452}{60538}I... I feel like|you're punishing me
+{60538}{60586}for something I didn't do.
+{60586}{60621}I'm not punishing you, Peter.
+{60621}{60674}I'm going out to dinner|with an old friend.
+{60674}{60742}What you saw at church|was me protecting our family.
+{60742}{60781}The guy was wearing a wire.
+{60781}{60834}It's over.
+{60834}{60867}What is?
+{60867}{60902}Us. Me caring.
+{60902}{60958}Me actually thinking|that you're changing.
+{60958}{60991}I am changing.
+{60991}{61018}No, you're not.
+{61018}{61046}You want to think you are
+{61046}{61099}so you can go back|to what you did before.
+{61147}{61198}Then help me.
+{61291}{61319}Help me.
+{61319}{61372}If you're right, help me.
+{61394}{61463}No.
+{61463}{61510}You once said
+{61510}{61572}that everything would be fine|if we just kept talking.
+{61572}{61640}We can...|We can argue,
+{61640}{61694}we can fight,|but we have to keep talking.
+{61748}{61806}So, there's nothing I can say?
+{61806}{61858}That's right.
+{62497}{62641}<font color="#ffff00">Sync by kuniva</font>|<font color="#ffff00">www.Addic7ed.com</font>
+{62666}{64166}Enjoy Movies, TV Series and Live Sports|Signup Here -> WWW.ADMITME.APP
