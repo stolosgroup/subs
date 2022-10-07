@@ -1,0 +1,5169 @@
+﻿1
+00:00:05,964 --> 00:00:10,834
+<i>Los sueños son mensajes
+de las profundidades.</i>
+
+2
+00:00:12,000 --> 00:00:18,074
+-== [ www.OpenSubtitles.com ] ==-
+
+3
+00:00:56,347 --> 00:01:00,011
+<i>Mi planeta, Arrakis,
+es precioso cuando el sol está bajo.</i>
+
+4
+00:01:03,521 --> 00:01:05,979
+<i>Sobre la arena...</i>
+
+5
+00:01:06,316 --> 00:01:08,978
+<i>se puede ver la especia flotar.</i>
+
+6
+00:01:21,581 --> 00:01:25,290
+<i>Al caer la noche,
+aterrizan las cosechadoras de especia.</i>
+
+7
+00:01:26,795 --> 00:01:31,505
+<i>Los extranjeros trabajan contra reloj
+para evitar el calor del día.</i>
+
+8
+00:01:40,475 --> 00:01:43,718
+<i>Esquilman nuestras tierras
+ante nuestros ojos.</i>
+
+9
+00:01:44,437 --> 00:01:48,146
+<i>Su crueldad con nuestro pueblo
+es cuanto conozco.</i>
+
+10
+00:01:52,987 --> 00:01:57,447
+<i>Esos extranjeros, los Harkonnen,
+llegaron mucho antes de que yo naciera.</i>
+
+11
+00:01:57,617 --> 00:02:01,360
+<i>Al controlar la producción de especia,
+se hicieron obscenamente ricos.</i>
+
+12
+00:02:01,704 --> 00:02:04,071
+<i>Más ricos que el mismísimo emperador.</i>
+
+13
+00:02:46,082 --> 00:02:49,541
+<i>Nuestros guerreros eran incapaces
+de liberar a Arrakis de los Harkonnen.</i>
+
+14
+00:02:49,669 --> 00:02:53,879
+<i>Pero un día, por decreto imperial,
+se marcharon.</i>
+
+15
+00:03:00,889 --> 00:03:03,256
+<i>¿Por qué el emperador tomó ese camino?</i>
+
+16
+00:03:04,726 --> 00:03:07,058
+<i>¿Y quiénes serán
+nuestros próximos opresores?</i>
+
+17
+00:03:11,232 --> 00:03:12,939
+PRIMERA PARTE
+
+18
+00:03:42,388 --> 00:03:44,800
+AÑO 10191
+
+19
+00:03:48,269 --> 00:03:53,105
+PLANETA NATAL DE LA CASA DE LOS ATREIDES
+
+20
+00:03:58,655 --> 00:04:00,612
+Me alegro de que hayas madrugado.
+
+21
+00:04:01,699 --> 00:04:04,657
+Tu padre te quiere con el uniforme
+de gala antes de que llegue el heraldo.
+
+22
+00:04:05,370 --> 00:04:06,826
+¿El uniforme de gala?
+
+23
+00:04:07,747 --> 00:04:08,908
+¿El militar?
+
+24
+00:04:09,624 --> 00:04:10,830
+El ceremonial.
+
+25
+00:04:12,293 --> 00:04:14,751
+¿Por qué pasar por todo esto
+si está todo decidido?
+
+26
+00:04:16,047 --> 00:04:17,412
+Es una ceremonia.
+
+27
+00:04:19,968 --> 00:04:20,968
+Gracias.
+
+28
+00:04:22,720 --> 00:04:24,882
+Si lo quieres, oblígame a dártelo.
+
+29
+00:04:26,099 --> 00:04:27,099
+Usa la Voz.
+
+30
+00:04:27,642 --> 00:04:28,882
+Mamá, me acabo de levantar.
+
+31
+00:04:37,110 --> 00:04:38,475
+Dame el vaso.
+
+32
+00:04:39,320 --> 00:04:41,778
+El vaso no te oye. Ordénamelo.
+
+33
+00:05:09,475 --> 00:05:10,965
+Dame el vaso.
+
+34
+00:05:23,406 --> 00:05:24,521
+Casi.
+
+35
+00:05:25,116 --> 00:05:26,116
+¿Casi?
+
+36
+00:05:26,284 --> 00:05:29,618
+Lleva años aprender las habilidades
+de las Bene Gesserit.
+
+37
+00:05:29,996 --> 00:05:31,657
+Pareces cansado.
+
+38
+00:05:32,498 --> 00:05:33,533
+¿Has vuelto a soñar?
+
+39
+00:05:43,509 --> 00:05:47,047
+<i>Las temperaturas extremas
+y las inclemencias meteorológicas</i>
+
+40
+00:05:47,221 --> 00:05:51,135
+<i>hacen que la vida fuera de las ciudades
+de Arrakis sea realmente hostil,</i>
+
+41
+00:05:51,267 --> 00:05:54,100
+<i>con tormentas de arena
+capaces de atravesar el metal.</i>
+
+42
+00:05:54,687 --> 00:05:57,270
+<i>Solo las tribus nativas,
+conocidas como los Fremen,</i>
+
+43
+00:05:57,440 --> 00:05:59,898
+<i>se han adaptado para poder sobrevivir.</i>
+
+44
+00:06:01,235 --> 00:06:04,478
+<i>Prefiriendo habitar
+las regiones más remotas de Arrakis,</i>
+
+45
+00:06:05,698 --> 00:06:09,191
+<i>los Fremen comparten el vasto desierto
+con los gusanos de arena,</i>
+
+46
+00:06:09,369 --> 00:06:11,986
+<i>conocidos por los Fremen como Shai-Hulud.</i>
+
+47
+00:06:12,538 --> 00:06:15,656
+<i>La prolongada exposición a la especia
+le ha conferido a la tribu</i>
+
+48
+00:06:15,792 --> 00:06:18,033
+<i>sus característicos ojos azules,</i>
+
+49
+00:06:18,211 --> 00:06:20,168
+<i>los ojos del ibad.</i>
+
+50
+00:06:20,338 --> 00:06:22,875
+<i>Poco más se sabe de los Fremen,</i>
+
+51
+00:06:23,007 --> 00:06:26,295
+<i>salvo que son peligrosos y no son de fiar.</i>
+
+52
+00:06:27,553 --> 00:06:32,218
+<i>Sus ataques hacen que la recolección
+de especia sea sumamente arriesgada.</i>
+
+53
+00:06:32,475 --> 00:06:35,809
+<i>Para los Fremen,
+la especia es un alucinógeno sagrado,</i>
+
+54
+00:06:35,978 --> 00:06:39,846
+<i>que preserva la vida y proporciona
+enormes beneficios para la salud.</i>
+
+55
+00:06:40,691 --> 00:06:43,274
+<i>Para el Imperio,
+la especía es lo que emplean</i>
+
+56
+00:06:43,403 --> 00:06:45,986
+<i>los navegantes de la Cofradía Espacial</i>
+
+57
+00:06:46,155 --> 00:06:48,772
+<i>para encontrar
+caminos seguros entre las estrellas.</i>
+
+58
+00:06:48,950 --> 00:06:53,194
+<i>Sin especia, los viajes interestelares
+no son posibles,</i>
+
+59
+00:06:53,371 --> 00:06:57,786
+<i>lo cual la convierte, con diferencia,
+en la sustancia más valiosa del universo.</i>
+
+60
+00:07:47,008 --> 00:07:48,123
+Sonríe, Gurney.
+
+61
+00:07:49,260 --> 00:07:51,217
+Estoy sonriendo.
+
+62
+00:07:52,305 --> 00:07:56,424
+¿Cuánto les costará viajar hasta aquí
+para este formalismo?
+
+63
+00:07:56,601 --> 00:08:00,640
+Tres navegantes de la Cofradía.
+Un total de 1460062 solaris,
+
+64
+00:08:00,855 --> 00:08:02,471
+ida y vuelta.
+
+65
+00:08:17,580 --> 00:08:20,698
+Por la gracia de Shaddam IV
+de la Casa de los Corrino,
+
+66
+00:08:20,875 --> 00:08:22,786
+que ostenta el trono del León de Oro
+
+67
+00:08:22,960 --> 00:08:25,668
+del emperador Padishah
+del universo conocido,
+
+68
+00:08:25,838 --> 00:08:29,126
+me presento ante vos
+como Heraldo del Cambio,
+
+69
+00:08:30,176 --> 00:08:32,964
+en presencia
+de miembros de la Corte Imperial,
+
+70
+00:08:33,137 --> 00:08:38,849
+representantes de la Cofradía Espacial
+y una hermana Bene Gesserit.
+
+71
+00:08:40,394 --> 00:08:42,601
+El emperador ha hablado.
+
+72
+00:08:44,190 --> 00:08:48,730
+"La Casa de los Atreides tomará
+inmediatamente el control de Arrakis
+
+73
+00:08:48,903 --> 00:08:51,986
+y dirigirá su administración".
+
+74
+00:08:53,741 --> 00:08:55,607
+¿Aceptáis?
+
+75
+00:09:04,919 --> 00:09:06,956
+Somos la Casa de los Atreides.
+
+76
+00:09:07,880 --> 00:09:11,794
+No hay llamada que no contestemos
+ni fe que traicionemos.
+
+77
+00:09:12,385 --> 00:09:16,800
+El emperador nos pide
+que llevemos la paz a Arrakis.
+
+78
+00:09:17,348 --> 00:09:19,840
+¡La Casa de los Atreides acepta!
+
+79
+00:09:20,017 --> 00:09:28,682
+¡Atreides!
+
+80
+00:09:35,825 --> 00:09:37,361
+Vuestro sello.
+
+81
+00:10:13,195 --> 00:10:14,435
+¿Ya está hecho?
+
+82
+00:10:16,115 --> 00:10:17,526
+Ya está hecho.
+
+83
+00:10:44,268 --> 00:10:47,135
+- ¿Qué tal?
+- Hay que ajustar los estabilizadores.
+
+84
+00:10:47,313 --> 00:10:49,224
+- Enseguida.
+- Gracias, amigo.
+
+85
+00:10:49,398 --> 00:10:50,433
+No hay de qué.
+
+86
+00:10:51,233 --> 00:10:52,233
+Duncan.
+
+87
+00:10:52,318 --> 00:10:53,318
+Muchacho.
+
+88
+00:10:55,488 --> 00:10:57,070
+Paul, muchacho.
+
+89
+00:10:58,366 --> 00:10:59,856
+Así que te vas a Arrakis mañana.
+
+90
+00:11:00,826 --> 00:11:02,237
+Con la avanzada.
+
+91
+00:11:02,411 --> 00:11:05,073
+Sí, me voy a Arrakis mañana
+con la avanzada.
+
+92
+00:11:06,374 --> 00:11:08,035
+Me gustaría que me llevaras contigo.
+
+93
+00:11:08,751 --> 00:11:09,751
+Ah, ¿sí?
+
+94
+00:11:11,045 --> 00:11:12,456
+Pues qué pena. No.
+
+95
+00:11:15,132 --> 00:11:17,419
+¿Quieres que me enfrente
+a un consejo de guerra?
+
+96
+00:11:18,552 --> 00:11:19,633
+¿Qué pasa?
+
+97
+00:11:19,804 --> 00:11:21,090
+¿Puedo confiarte algo?
+
+98
+00:11:21,263 --> 00:11:22,298
+Claro. Ya lo sabes.
+
+99
+00:11:29,146 --> 00:11:30,807
+He estado soñando.
+
+100
+00:11:33,234 --> 00:11:35,396
+Con Arrakis y los Fremen.
+
+101
+00:11:46,038 --> 00:11:47,244
+¿Y?
+
+102
+00:11:48,708 --> 00:11:49,869
+Te he visto.
+
+103
+00:11:53,295 --> 00:11:54,785
+<i>Con los Fremen.</i>
+
+104
+00:11:57,299 --> 00:11:58,505
+Entonces los encuentro.
+
+105
+00:11:58,676 --> 00:12:01,213
+Muy bien. Eso es un buen presagio, ¿no?
+
+106
+00:12:03,597 --> 00:12:04,597
+¡Lanville!
+
+107
+00:12:11,147 --> 00:12:12,763
+Te he visto morir.
+
+108
+00:12:13,524 --> 00:12:15,640
+Caído en combate.
+
+109
+00:12:17,153 --> 00:12:19,110
+<i>Sentí que si hubiera estado allí,</i>
+
+110
+00:12:19,447 --> 00:12:21,188
+<i>no habrías muerto.</i>
+
+111
+00:12:25,870 --> 00:12:27,577
+Lo primero, no voy a morir.
+
+112
+00:12:27,913 --> 00:12:28,994
+No me tomas en serio.
+
+113
+00:12:29,165 --> 00:12:30,747
+Por eso quieres venir conmigo.
+
+114
+00:12:30,916 --> 00:12:31,951
+Mira.
+
+115
+00:12:32,626 --> 00:12:34,287
+Los sueños cuentan buenas historias.
+
+116
+00:12:34,462 --> 00:12:36,829
+Pero lo que importa nos pasa despiertos.
+
+117
+00:12:37,006 --> 00:12:38,371
+Es cuando hacemos que pasen cosas.
+
+118
+00:12:39,091 --> 00:12:41,082
+Mirate. ¿Estás más fuerte?
+
+119
+00:12:41,469 --> 00:12:42,469
+¿Si?
+
+120
+00:12:46,223 --> 00:12:47,384
+Oye,
+
+121
+00:12:48,309 --> 00:12:49,970
+te veo en Arrakis, muchacho.
+
+122
+00:13:25,513 --> 00:13:30,383
+Padre, quería pediros permiso para unirme
+a Duncan Idaho en su misión a Arrakis.
+
+123
+00:13:30,518 --> 00:13:32,329
+He estudiado la lengua de los Fremen.
+Sería útil.
+
+124
+00:13:32,353 --> 00:13:33,468
+De ninguna manera.
+
+125
+00:13:33,646 --> 00:13:36,104
+Viajarás a Arrakis dentro de unas semanas,
+como nosotros.
+
+126
+00:13:36,273 --> 00:13:37,479
+Toda la vida preparándome.
+
+127
+00:13:37,650 --> 00:13:38,650
+¿De qué sirve
+
+128
+00:13:38,818 --> 00:13:41,651
+- si no se me permite asumir riesgos?
+- Ya lo sabes.
+
+129
+00:13:41,904 --> 00:13:43,861
+Eres el futuro de la Casa de los Atreides.
+
+130
+00:13:44,031 --> 00:13:46,193
+¡Y el abuelo se enfrentaba a toros
+por diversión!
+
+131
+00:13:46,367 --> 00:13:47,448
+Si.
+
+132
+00:13:48,244 --> 00:13:49,780
+Y mira cómo acabó.
+
+133
+00:13:54,166 --> 00:13:56,157
+Te necesito a mi lado.
+
+134
+00:13:56,794 --> 00:13:59,536
+Cuando lleguemos a Arrakis,
+nos enfrentaremos a un gran peligro.
+
+135
+00:13:59,713 --> 00:14:01,203
+¿Qué peligro?
+
+136
+00:14:01,507 --> 00:14:03,123
+¿Los Fremen? ¿El desierto?
+
+137
+00:14:03,300 --> 00:14:05,211
+Un peligro político.
+
+138
+00:14:07,429 --> 00:14:10,547
+Las Grandes Casas
+esperan de nosotros el liderazgo
+
+139
+00:14:10,683 --> 00:14:12,640
+y eso es una amenaza para el emperador.
+
+140
+00:14:12,810 --> 00:14:15,802
+Al quitarles a los Harkonnen Arrakis
+y dárnoslo a nosotros,
+
+141
+00:14:15,980 --> 00:14:18,017
+ha sembrado el germen de una guerra
+
+142
+00:14:18,190 --> 00:14:20,181
+que podría debilitar a ambas casas.
+
+143
+00:14:21,861 --> 00:14:23,727
+Pero si nos mantenemos firmes
+
+144
+00:14:23,863 --> 00:14:25,820
+y explotamos
+el verdadero poder de Arrakis,
+
+145
+00:14:25,948 --> 00:14:28,110
+podríamos ser más fuertes que nunca.
+
+146
+00:14:28,242 --> 00:14:29,824
+¿Qué queréis decir,
+
+147
+00:14:29,994 --> 00:14:32,611
+extrayendo la especia
+y manteniendo a raya a los Fremen?
+
+148
+00:14:32,788 --> 00:14:34,324
+No seríamos mejores que los Harkonnen.
+
+149
+00:14:35,624 --> 00:14:38,161
+Formando una alianza con los Fremen.
+
+150
+00:14:38,878 --> 00:14:41,370
+Para eso he enviado a Duncan Idaho.
+
+151
+00:14:42,882 --> 00:14:46,671
+Aquí, en Caladan, nos hemos regido
+por la energía del aire y del mar.
+
+152
+00:14:46,844 --> 00:14:50,883
+En Arrakis tenemos que cultivar
+la energía del desierto.
+
+153
+00:14:53,893 --> 00:14:55,475
+Te quiero a mi lado en el Consejo.
+
+154
+00:14:55,644 --> 00:14:56,975
+Quiero que aprendas lo que hago.
+
+155
+00:14:57,146 --> 00:14:58,887
+¿Y si no lo soy, papá?
+
+156
+00:15:00,774 --> 00:15:02,390
+¿Si no eres qué?
+
+157
+00:15:03,444 --> 00:15:05,936
+El futuro de la Casa de los Atreides.
+
+158
+00:15:18,375 --> 00:15:20,742
+Yo también le dije a mi padre
+que no quería esto.
+
+159
+00:15:24,632 --> 00:15:26,543
+Quería ser piloto.
+
+160
+00:15:27,968 --> 00:15:29,174
+No lo sabía.
+
+161
+00:15:32,306 --> 00:15:34,092
+Tu abuelo decía:
+
+162
+00:15:34,558 --> 00:15:36,720
+"Un gran hombre no busca ser un líder.
+
+163
+00:15:37,394 --> 00:15:39,351
+Está llamado a serlo
+
+164
+00:15:39,480 --> 00:15:41,471
+y responde a esa llamada".
+
+165
+00:15:42,608 --> 00:15:44,474
+Y si tu respuesta es no,
+
+166
+00:15:47,821 --> 00:15:51,439
+seguirás siendo la única cosa
+que siempre he necesitado que seas,
+
+167
+00:15:52,618 --> 00:15:53,858
+mi hijo.
+
+168
+00:16:04,213 --> 00:16:08,582
+Yo encontré mi propio camino.
+Puede que tú también encuentres el tuyo.
+
+169
+00:16:11,512 --> 00:16:13,128
+En su memoria...,
+
+170
+00:16:15,891 --> 00:16:17,632
+inténtalo.
+
+171
+00:16:26,568 --> 00:16:28,935
+No os pongáis de espaldas a una puerta.
+
+172
+00:16:29,947 --> 00:16:32,234
+¿Cuántas veces tenemos que repetíroslo?
+
+173
+00:16:32,408 --> 00:16:34,740
+Sabía que eras tú por tus pisadas,
+Gurney Halleck.
+
+174
+00:16:34,910 --> 00:16:37,527
+Alguien podría imitar
+mi manera de caminar.
+
+175
+00:16:37,705 --> 00:16:38,991
+Notaría la diferencia.
+
+176
+00:16:39,164 --> 00:16:40,654
+¿Eres el nuevo maestro de armas?
+
+177
+00:16:40,833 --> 00:16:44,667
+En la ausencia de Duncan,
+tengo que hacer lo que pueda.
+
+178
+00:16:45,546 --> 00:16:46,546
+Elegid vuestra tu arma.
+
+179
+00:16:47,006 --> 00:16:48,667
+No he tenido un buen día, Gurney.
+
+180
+00:16:48,841 --> 00:16:50,798
+Cántame una canción mejor.
+
+181
+00:16:55,681 --> 00:16:56,681
+Vaya modales.
+
+182
+00:17:14,074 --> 00:17:15,235
+Vamos.
+
+183
+00:17:15,659 --> 00:17:16,740
+Venga.
+
+184
+00:17:16,910 --> 00:17:17,910
+Carcamal.
+
+185
+00:17:30,090 --> 00:17:32,172
+La hoja lenta atraviesa el escudo.
+
+186
+00:17:39,475 --> 00:17:40,715
+Creo que hoy no estoy de humor.
+
+187
+00:17:41,310 --> 00:17:42,425
+- ¿De humor?
+- Si.
+
+188
+00:17:42,603 --> 00:17:43,723
+¿Qué tiene que ver el humor?
+
+189
+00:17:43,771 --> 00:17:46,513
+Uno combate cuando es necesario,
+no cuando está de humor.
+
+190
+00:17:46,690 --> 00:17:47,725
+¡Ahora luchad!
+
+191
+00:17:53,363 --> 00:17:54,363
+¡Vamos!
+
+192
+00:18:07,002 --> 00:18:08,002
+Ya te tengo.
+
+193
+00:18:08,378 --> 00:18:09,493
+Si.
+
+194
+00:18:10,255 --> 00:18:11,837
+Pero mirad hacia abajo, mi señor.
+
+195
+00:18:12,007 --> 00:18:13,998
+Me habríais acompañado en la muerte.
+
+196
+00:18:14,676 --> 00:18:16,462
+Veo que ya estáis de humor.
+
+197
+00:18:28,816 --> 00:18:30,306
+¿Tan terrible es?
+
+198
+00:18:30,484 --> 00:18:32,395
+No lo entendéis, ¿verdad?
+
+199
+00:18:33,070 --> 00:18:36,984
+No sois consciente de la gravedad
+de nuestra situación.
+
+200
+00:18:39,451 --> 00:18:43,194
+Durante ochenta años Arrakis
+ha pertenecido a la Casa de los Harkonnen.
+
+201
+00:18:43,372 --> 00:18:45,830
+Ochenta años siendo dueños
+de los yacimientos de especia.
+
+202
+00:18:45,958 --> 00:18:47,665
+¿Os hacéis una idea de la riqueza?
+
+203
+00:18:48,168 --> 00:18:50,146
+En vuestros ojos,
+tengo que verlo en vuestros ojos.
+
+204
+00:18:50,170 --> 00:18:52,582
+No conocéis a los Harkonnen, yo sí.
+
+205
+00:18:52,756 --> 00:18:55,088
+No son humanos, ¡son bestias!
+
+206
+00:18:55,801 --> 00:18:57,633
+Debéis estar preparado.
+
+207
+00:19:12,317 --> 00:19:14,854
+PLANETA NATAL DE LA CASA DE LOS HARKONNEN
+
+208
+00:19:39,636 --> 00:19:40,797
+Mi señor barón.
+
+209
+00:19:42,890 --> 00:19:44,551
+Rabban.
+
+210
+00:19:45,309 --> 00:19:48,142
+La última de nuestras naves
+ha salido de Arrakis.
+
+211
+00:19:48,896 --> 00:19:49,896
+Ya está.
+
+212
+00:19:50,355 --> 00:19:51,766
+Muy bien.
+
+213
+00:19:54,902 --> 00:19:56,813
+Tío, ¿cómo podemos permitirlo?
+
+214
+00:19:56,987 --> 00:19:58,148
+¿Cómo puede el emperador
+
+215
+00:19:59,239 --> 00:20:01,856
+quitarnos todo lo que hemos construido
+
+216
+00:20:01,992 --> 00:20:04,029
+y dárselo a ese duque?
+
+217
+00:20:04,203 --> 00:20:05,203
+¿Cómo?
+
+218
+00:20:05,621 --> 00:20:07,862
+No des por hecho que es un gesto de amor.
+
+219
+00:20:10,626 --> 00:20:12,242
+¿Qué quiere decir?
+
+220
+00:20:17,966 --> 00:20:20,674
+¿Cuándo un regalo no es un regalo?
+
+221
+00:20:22,554 --> 00:20:25,512
+La voz de los Atreides está creciendo.
+
+222
+00:20:26,433 --> 00:20:29,391
+Y el emperador es un hombre celoso.
+
+223
+00:20:31,647 --> 00:20:34,639
+Un peligroso hombre celoso.
+
+224
+00:21:48,765 --> 00:21:50,381
+Paul, despierta.
+
+225
+00:21:56,481 --> 00:21:57,481
+¿Qué pasa?
+
+226
+00:21:57,524 --> 00:21:59,606
+Vístete y ven.
+
+227
+00:22:20,088 --> 00:22:21,249
+¿Qué sucede?
+
+228
+00:22:21,423 --> 00:22:24,256
+La Reverenda Madre Gaius Helen Mohiam
+está aquí.
+
+229
+00:22:24,718 --> 00:22:26,959
+Fue mi preceptora
+en la escuela Bene Gesserit.
+
+230
+00:22:27,095 --> 00:22:29,928
+Hoy es la Decidora de Verdad
+del mismísimo emperador.
+
+231
+00:22:30,474 --> 00:22:32,260
+Le gustaría conocerte.
+
+232
+00:22:33,018 --> 00:22:34,099
+¿Por qué?
+
+233
+00:22:34,728 --> 00:22:36,890
+Quiere saber más acerca de tus sueños.
+
+234
+00:22:38,398 --> 00:22:40,105
+¿Cómo sabe lo de mis sueños?
+
+235
+00:22:42,861 --> 00:22:44,317
+¿Y qué hace aquí el doctor Yueh?
+
+236
+00:22:44,488 --> 00:22:46,650
+Será un momento.
+
+237
+00:22:46,990 --> 00:22:48,480
+Hola, joven maestro.
+
+238
+00:22:49,242 --> 00:22:52,451
+Vuestra madre me ha pedido
+que compruebe vuestras constantes.
+
+239
+00:22:57,793 --> 00:22:58,954
+¿Qué es todo esto?
+
+240
+00:23:03,048 --> 00:23:06,962
+Las Bene Gesserit
+dicen servir al bien común.
+
+241
+00:23:07,344 --> 00:23:09,585
+Pero, sin ánimo de ofender
+a vuestra madre,
+
+242
+00:23:11,014 --> 00:23:14,928
+también sirven a sus propios intereses.
+
+243
+00:23:16,186 --> 00:23:17,642
+¿Qué insinuáis?
+
+244
+00:23:18,271 --> 00:23:19,807
+Ld con cuidado.
+
+245
+00:23:20,732 --> 00:23:23,599
+Su corazón está tan fuerte
+como siempre, mi dama.
+
+246
+00:23:25,362 --> 00:23:27,444
+Ni una palabra a nadie.
+
+247
+00:23:43,213 --> 00:23:46,171
+Recuerda tu adiestramiento.
+
+248
+00:24:06,486 --> 00:24:11,856
+<i>¿Quién eres?</i>
+
+249
+00:24:16,329 --> 00:24:18,445
+Desafío en la mirada,
+
+250
+00:24:18,790 --> 00:24:20,326
+como su padre.
+
+251
+00:24:20,459 --> 00:24:21,459
+Déjanos.
+
+252
+00:24:22,127 --> 00:24:24,619
+Haz todo
+lo que la Reverenda Madre te diga.
+
+253
+00:24:28,258 --> 00:24:29,777
+Habéis echado a mi madre
+en su propia casa.
+
+254
+00:24:29,801 --> 00:24:30,801
+¡Acércate!
+
+255
+00:24:31,428 --> 00:24:32,428
+Arrodíllate.
+
+256
+00:24:36,641 --> 00:24:38,427
+¿Cómo os atrevéis a usar la Voz conmigo?
+
+257
+00:24:46,151 --> 00:24:47,937
+Mete la mano derecha en esta caja.
+
+258
+00:24:49,404 --> 00:24:51,771
+Tu madre te ha ordenado que me obedezcas.
+
+259
+00:25:00,415 --> 00:25:02,702
+Tengo el gom jabbar junto a tu cuello.
+
+260
+00:25:03,293 --> 00:25:04,875
+Una aguja envenenada.
+
+261
+00:25:05,045 --> 00:25:06,285
+Muerte instantánea.
+
+262
+00:25:07,422 --> 00:25:08,708
+La prueba es sencilla.
+
+263
+00:25:09,090 --> 00:25:11,001
+Retira la mano de la caja
+
+264
+00:25:11,635 --> 00:25:13,171
+y morirás.
+
+265
+00:25:14,262 --> 00:25:15,878
+¿Qué hay en la caja?
+
+266
+00:25:17,224 --> 00:25:18,259
+Dolor.
+
+267
+00:25:20,769 --> 00:25:22,369
+No te molestes en llamar a los guardias.
+
+268
+00:25:23,355 --> 00:25:26,723
+Tu madre está custodiando la puerta.
+No permitirá que nadie pase.
+
+269
+00:25:33,698 --> 00:25:35,029
+¿Por qué me hacéis esto?
+
+270
+00:25:36,868 --> 00:25:40,987
+Un animal se arrancaría a bocados una pata
+para escapar de una trampa.
+
+271
+00:25:41,873 --> 00:25:42,988
+¿Qué harás tú?
+
+272
+00:26:15,490 --> 00:26:16,490
+Silencio.
+
+273
+00:26:26,084 --> 00:26:27,745
+No conoceréis el miedo.
+
+274
+00:26:29,671 --> 00:26:31,082
+No conoceréis el miedo.
+
+275
+00:26:37,762 --> 00:26:39,378
+El miedo mata la mente.
+
+276
+00:26:41,516 --> 00:26:45,134
+El miedo es la pequeña muerte
+que conduce a la destrucción total.
+
+277
+00:26:48,690 --> 00:26:52,058
+Atrontaré mi miedo. Permitiré que pase
+sobre mí y a través de mí.
+
+278
+00:27:06,458 --> 00:27:07,698
+Y cuando haya pasado...,
+
+279
+00:27:16,593 --> 00:27:19,255
+giraré mi ojo interior
+para escrutar su camino.
+
+280
+00:27:23,266 --> 00:27:25,052
+Allá donde haya pasado el miedo...
+
+281
+00:27:25,935 --> 00:27:26,935
+ya no habrá nada.
+
+282
+00:27:31,983 --> 00:27:33,439
+Solo estaré yo.
+
+283
+00:27:37,781 --> 00:27:38,781
+Basta.
+
+284
+00:27:55,715 --> 00:27:57,752
+Igual que se tamiza la arena,
+
+285
+00:27:58,510 --> 00:28:00,296
+nosotras tamizamos a la gente.
+
+286
+00:28:01,179 --> 00:28:05,264
+Si no hubieras sido capaz
+de controlar tus impulsos, como un animal,
+
+287
+00:28:05,725 --> 00:28:07,136
+no te habríamos permitido vivir.
+
+288
+00:28:08,019 --> 00:28:09,885
+Has heredado demasiado poder.
+
+289
+00:28:10,814 --> 00:28:14,057
+- ¿Por ser el hijo de un duque?
+- Por ser hijo de Jessica.
+
+290
+00:28:14,943 --> 00:28:17,401
+Tienes más de un derecho natural,
+muchacho.
+
+291
+00:28:27,288 --> 00:28:29,450
+Lo has adiestrado a la Manera.
+
+292
+00:28:34,003 --> 00:28:35,994
+Háblame de esos sueños.
+
+293
+00:28:36,798 --> 00:28:38,755
+- Anoche tuve uno.
+- ¿Qué viste?
+
+294
+00:28:41,678 --> 00:28:42,678
+A una chica.
+
+295
+00:28:43,179 --> 00:28:44,465
+En Arrakis.
+
+296
+00:28:44,973 --> 00:28:46,304
+¿Habías soñado con ella antes?
+
+297
+00:28:50,478 --> 00:28:51,718
+Muchas veces.
+
+298
+00:28:54,607 --> 00:28:57,725
+¿Sueles soñar cosas que ocurren
+tal y como las has soñado?
+
+299
+00:29:01,197 --> 00:29:02,437
+No exactamente.
+
+300
+00:29:06,161 --> 00:29:07,697
+Adiós, joven humano.
+
+301
+00:29:08,538 --> 00:29:10,120
+Espero que sobrevivas.
+
+302
+00:29:18,173 --> 00:29:20,130
+¿Teníais que llegar tan lejos?
+
+303
+00:29:20,300 --> 00:29:21,665
+Decidiste adiestrarlo a la Manera,
+
+304
+00:29:22,051 --> 00:29:23,883
+contraviniendo nuestras reglas.
+
+305
+00:29:24,053 --> 00:29:25,589
+Él hace uso de nuestro poder.
+
+306
+00:29:25,764 --> 00:29:27,721
+Había que llevarlo al límite.
+
+307
+00:29:28,683 --> 00:29:31,266
+Tanto potencial desperdiciado en un varón.
+
+308
+00:29:32,020 --> 00:29:33,977
+Se te había ordenado
+que engendrases hijas.
+
+309
+00:29:34,105 --> 00:29:37,439
+Y, en tu orgullo, pensaste
+que podías engendrar al <i>Kwisatz Haderach.</i>
+
+310
+00:29:37,567 --> 00:29:38,728
+¿Me equivoqué?
+
+311
+00:29:39,027 --> 00:29:41,689
+Has tenido suerte
+de que no haya muerto en esa sala.
+
+312
+00:29:41,863 --> 00:29:44,104
+Si es el Elegido,
+tiene un largo camino por delante.
+
+313
+00:29:44,282 --> 00:29:47,991
+Su Mirada apenas ha despertado
+y va a meterse en la boca del lobo.
+
+314
+00:29:48,536 --> 00:29:50,868
+Pero nuestros planes se miden en siglos.
+
+315
+00:29:51,039 --> 00:29:52,621
+Tenemos otras opciones...
+
+316
+00:29:52,791 --> 00:29:55,078
+si falta a su promesa.
+
+317
+00:29:57,629 --> 00:29:59,085
+¿No veis ninguna esperanza?
+
+318
+00:30:00,298 --> 00:30:03,211
+En Arrakis hemos hecho
+todo lo posible por vosotros.
+
+319
+00:30:03,551 --> 00:30:05,212
+Se ha trazado un camino.
+
+320
+00:30:05,512 --> 00:30:07,469
+Esperemos que no lo desaproveche.
+
+321
+00:30:57,105 --> 00:30:58,595
+¿Qué significa
+
+322
+00:31:00,066 --> 00:31:01,648
+¿que puedo ser el Elegido?
+
+323
+00:31:01,818 --> 00:31:03,058
+Lo has oído.
+
+324
+00:31:06,531 --> 00:31:10,274
+Las Bene Gesserit son un poderoso aliado
+para las Grandes Casas,
+
+325
+00:31:11,536 --> 00:31:12,536
+pero hay más.
+
+326
+00:31:12,704 --> 00:31:16,698
+Tú diriges la política del Imperio
+desde las sombras.
+
+327
+00:31:17,500 --> 00:31:18,500
+Lo sé.
+
+328
+00:31:18,585 --> 00:31:20,952
+No lo sabes todo.
+
+329
+00:31:21,421 --> 00:31:23,458
+Durante miles de años
+
+330
+00:31:23,631 --> 00:31:25,668
+hemos cruzado cuidadosamente
+líneas genéticas
+
+331
+00:31:26,259 --> 00:31:28,250
+- para engendrar...
+- ¿Al Elegido?
+
+332
+00:31:29,429 --> 00:31:30,885
+Una mente...
+
+333
+00:31:32,849 --> 00:31:37,013
+lo bastante poderosa
+como para abarcar espacio y tiempo.
+
+334
+00:31:37,854 --> 00:31:39,640
+Pasado y futuro.
+
+335
+00:31:41,858 --> 00:31:43,940
+Capaz de proporcionarnos un futuro mejor.
+
+336
+00:31:45,278 --> 00:31:47,815
+Creemos que está muy cerca.
+
+337
+00:31:49,866 --> 00:31:51,948
+Algunos creen que está aquí.
+
+338
+00:31:55,997 --> 00:31:57,954
+Todo forma parte de un plan.
+
+339
+00:34:16,054 --> 00:34:17,054
+Escudos.
+
+340
+00:34:59,514 --> 00:35:03,883
+"Mis pulmones respiran el aire del Tiempo
+que sopla entre las flotantes arenas...".
+
+341
+00:35:48,229 --> 00:35:49,229
+Thufir Hawat.
+
+342
+00:35:53,901 --> 00:35:55,232
+¡Joven maestro!
+
+343
+00:35:55,403 --> 00:35:57,519
+¿Cómo sienta pasear por un nuevo mundo?
+
+344
+00:35:57,697 --> 00:35:59,529
+Es emocionante, cuando menos.
+
+345
+00:36:00,324 --> 00:36:01,610
+Mi señor.
+
+346
+00:36:02,243 --> 00:36:03,243
+¿Cómo estás, viejo amigo?
+
+347
+00:36:04,162 --> 00:36:06,278
+Mi avanzadilla ha asegurado la ciudad.
+
+348
+00:36:06,455 --> 00:36:09,288
+Aún tenemos resistencias
+en algunos puntos.
+
+349
+00:36:11,085 --> 00:36:12,246
+Mi dama.
+
+350
+00:36:16,841 --> 00:36:18,707
+<i>¡Lisan al-Gaib!</i>
+
+351
+00:36:34,650 --> 00:36:37,483
+<i>¡Lisan al-Gaib!</i>
+
+352
+00:36:53,920 --> 00:36:55,831
+No os dejéis engañar por el recibimiento.
+
+353
+00:36:55,963 --> 00:36:58,955
+Cumplen las normas de sus antiguos amos.
+Asistencia obligatoria.
+
+354
+00:36:59,091 --> 00:37:01,423
+Así mostraban devoción a los Harkonnen.
+
+355
+00:37:07,767 --> 00:37:08,767
+¡Atreides!
+
+356
+00:37:09,018 --> 00:37:12,852
+¡Atreides!
+
+357
+00:37:21,447 --> 00:37:23,654
+Vamos a protegeros del sol.
+
+358
+00:37:24,242 --> 00:37:26,609
+Aquí el calor puede matar.
+
+359
+00:37:42,969 --> 00:37:44,630
+Nos señalaban.
+
+360
+00:37:45,721 --> 00:37:46,721
+¿Qué gritaban?
+
+361
+00:37:47,139 --> 00:37:48,925
+<i>Lisan al-Gaib.</i>
+
+362
+00:37:49,350 --> 00:37:50,966
+"La Voz del Otro Mundo".
+
+363
+00:37:51,310 --> 00:37:52,926
+Es como llaman al mesías.
+
+364
+00:37:54,063 --> 00:37:56,680
+La Bene Gesserit ha hecho su trabajo aquí.
+
+365
+00:37:57,525 --> 00:37:59,516
+Dando pábulo a supersticiones.
+
+366
+00:38:00,027 --> 00:38:02,109
+Allanando el camino, Paul.
+
+367
+00:38:02,822 --> 00:38:06,816
+Esta gente lleva siglos
+esperando al <i>Lisan al-Gaib.</i>
+
+368
+00:38:07,702 --> 00:38:08,702
+Teven
+
+369
+00:38:09,537 --> 00:38:11,369
+y ven las señales.
+
+370
+00:38:14,333 --> 00:38:16,415
+Ven lo que les han dicho que vean.
+
+371
+00:38:21,716 --> 00:38:22,716
+Nos vamos.
+
+372
+00:39:06,093 --> 00:39:09,461
+La Muralla Escudo.
+Protege a la ciudad de la meteorología
+
+373
+00:39:09,597 --> 00:39:10,712
+y de los gusanos.
+
+374
+00:39:57,978 --> 00:40:00,595
+Aquí llaman al grande "La Mano de Dios".
+
+375
+00:40:02,566 --> 00:40:05,058
+Pues "La Mano de Dios"
+está causando estragos
+
+376
+00:40:05,236 --> 00:40:07,193
+en nuestro sistema de comunicaciones.
+
+377
+00:40:09,865 --> 00:40:11,276
+Está todo tan tranquilo.
+
+378
+00:40:12,535 --> 00:40:13,650
+Si.
+
+379
+00:40:14,578 --> 00:40:16,319
+Eso también me preocupa.
+
+380
+00:40:23,254 --> 00:40:25,040
+Ahí está el puerto espacial
+
+381
+00:40:25,214 --> 00:40:27,672
+y esa columna de polvo de ahí
+es la refinería de especia.
+
+382
+00:40:27,842 --> 00:40:29,753
+Nuestros dos puntos más vulnerables.
+
+383
+00:40:30,010 --> 00:40:31,171
+Quiero que los protejas.
+
+384
+00:40:31,345 --> 00:40:34,178
+Si no podemos refinar especia
+y enviarla a otro mundo,
+
+385
+00:40:34,306 --> 00:40:35,467
+- estamos muertos.
+- Mi señor.
+
+386
+00:40:36,308 --> 00:40:37,924
+El sol está demasiado alto.
+
+387
+00:40:38,102 --> 00:40:40,013
+Debemos cerrar las puertas.
+
+388
+00:40:42,815 --> 00:40:45,056
+¿Qué decían de este agujero infernal?
+
+389
+00:40:45,901 --> 00:40:48,108
+“Aquí uno se lava el culo con arena",
+mi señor.
+
+390
+00:40:48,446 --> 00:40:49,732
+Eso es lo que dicen.
+
+391
+00:40:50,030 --> 00:40:51,441
+Eso es lo que dicen.
+
+392
+00:40:56,203 --> 00:40:58,695
+Las candidatas a ama de llaves, mi dama.
+
+393
+00:41:14,722 --> 00:41:16,008
+¿Cómo te llamas?
+
+394
+00:41:16,348 --> 00:41:18,259
+Shadout Mapes, mi dama.
+
+395
+00:41:20,186 --> 00:41:21,676
+El resto podéis iros.
+
+396
+00:41:22,229 --> 00:41:23,310
+Gracias.
+
+397
+00:41:25,691 --> 00:41:26,806
+Shadout.
+
+398
+00:41:27,735 --> 00:41:29,442
+Una antigua palabra chakobsa.
+
+399
+00:41:30,237 --> 00:41:31,648
+"Excavapozos".
+
+400
+00:41:33,324 --> 00:41:34,324
+Eres Fremen.
+
+401
+00:41:34,492 --> 00:41:35,823
+¿Conocéis las antiguas lenguas?
+
+402
+00:41:35,993 --> 00:41:37,358
+Conozco muchas cosas.
+
+403
+00:41:37,703 --> 00:41:40,946
+Como que escondes un arma.
+
+404
+00:41:41,707 --> 00:41:42,707
+Ahora no.
+
+405
+00:41:42,750 --> 00:41:43,911
+Si quieres hacerme daño,
+
+406
+00:41:44,710 --> 00:41:46,997
+debo advertirte
+de que lo que quiera que escondas
+
+407
+00:41:48,005 --> 00:41:49,587
+no va a ser suficiente.
+
+408
+00:41:51,467 --> 00:41:53,834
+Esta arma es un regalo para vos
+
+409
+00:41:54,845 --> 00:41:56,961
+si sois realmente la Elegida.
+
+410
+00:42:12,821 --> 00:42:14,403
+¿Conocéis esto?
+
+411
+00:42:15,866 --> 00:42:17,356
+Es un cuchillo crys.
+
+412
+00:42:21,247 --> 00:42:22,453
+¿Conocéis su significado?
+
+413
+00:42:23,249 --> 00:42:25,331
+Preparadas para el ataque.
+
+414
+00:42:26,961 --> 00:42:28,292
+Es un hacedor...
+
+415
+00:42:33,634 --> 00:42:36,001
+Un hacedor del desierto profundo.
+
+416
+00:42:38,764 --> 00:42:41,222
+Cuando se ha vivido
+tanto tiempo con la profecía,
+
+417
+00:42:41,392 --> 00:42:43,508
+el momento de la revelación es un shock.
+
+418
+00:42:45,563 --> 00:42:47,600
+La madre y el hijo.
+
+419
+00:42:53,654 --> 00:42:55,270
+Es vuestro.
+
+420
+00:42:56,949 --> 00:43:00,487
+Un diente de Shai-Hulud.
+
+421
+00:43:47,750 --> 00:43:48,911
+Hola.
+
+422
+00:43:51,629 --> 00:43:54,121
+No deberíais estar fuera a estas horas.
+
+423
+00:43:56,342 --> 00:43:57,582
+¿Y ellos?
+
+424
+00:43:59,261 --> 00:44:00,843
+Peregrinos Fremen.
+
+425
+00:44:01,430 --> 00:44:03,216
+No les preocupan las insolaciones.
+
+426
+00:44:05,267 --> 00:44:07,850
+Ignoraba que hubiera palmeras datileras.
+
+427
+00:44:09,563 --> 00:44:11,429
+No son autóctonas.
+
+428
+00:44:11,857 --> 00:44:13,564
+No sobrevivirían sin mí.
+
+429
+00:44:14,068 --> 00:44:18,027
+Cada una de ellas absorbe diariamente
+lo que beberían cinco hombres.
+
+430
+00:44:20,157 --> 00:44:21,693
+Veinte palmeras.
+
+431
+00:44:23,202 --> 00:44:24,488
+Cien vidas.
+
+432
+00:44:25,829 --> 00:44:28,036
+¿Deberíamos talarlas y ahorrar agua?
+
+433
+00:44:29,291 --> 00:44:30,827
+Son sagradas.
+
+434
+00:44:35,297 --> 00:44:36,708
+Un antiguo sueño.
+
+435
+00:44:44,807 --> 00:44:49,973
+El mayor y más peligroso organismo
+que hay en Arrakis es el gusano de arena,
+
+436
+00:44:50,145 --> 00:44:53,854
+que puede alcanzar 400 metros de longitud.
+
+437
+00:44:54,274 --> 00:44:58,108
+Para evitar hacer ruidos rítmicos,
+que atraerían a los gusanos de arena,
+
+438
+00:44:58,278 --> 00:45:02,237
+los Fremen cruzan las zonas desérticas
+con el caminar de las arenas,
+
+439
+00:45:02,408 --> 00:45:05,366
+un movimiento parecido a un baile
+con un ritmo irregular,
+
+440
+00:45:05,536 --> 00:45:08,278
+que emula
+los sonidos naturales del desierto.
+
+441
+00:45:09,623 --> 00:45:13,742
+La escasa vegetación que existe en Arrakis
+es gracias a los Fremen,
+
+442
+00:45:13,919 --> 00:45:16,752
+que han cultivado plantas terránicas
+de raíz profunda,
+
+443
+00:45:16,922 --> 00:45:19,880
+como el saguaro, el arbusto burro,
+
+444
+00:45:20,300 --> 00:45:23,668
+la verbena de arena
+y el arbusto de incienso.
+
+445
+00:45:24,346 --> 00:45:27,464
+El árbol del pastor tiene
+las raíces más profundas documentadas,
+
+446
+00:45:27,641 --> 00:45:31,134
+pudiendo superar
+los 135 metros de profundidad.
+
+447
+00:45:32,271 --> 00:45:37,266
+Estas plantas se aferran a la vida
+en un entorno árido y pobre en nutrientes.
+
+448
+00:46:47,596 --> 00:46:49,178
+Es un cazador-buscador.
+
+449
+00:46:49,598 --> 00:46:51,464
+El operador debe de estar cerca.
+
+450
+00:46:56,605 --> 00:47:00,143
+Un agente Harkonnen fue sepultado
+en esa cavidad hace seis semanas.
+
+451
+00:47:00,275 --> 00:47:02,767
+Introdujo el cazador-buscador
+por una tubería de agua.
+
+452
+00:47:04,238 --> 00:47:06,570
+Señor, hoy os he fallado. No tengo excusa.
+
+453
+00:47:07,282 --> 00:47:08,282
+Presento mi dimisión.
+
+454
+00:47:08,450 --> 00:47:09,986
+¿Ahora nos vas a privar de tu talento?
+
+455
+00:47:10,160 --> 00:47:13,118
+- Señor, mi honor...
+- ¡Querían arrebatarle la vida a mi hijo!
+
+456
+00:47:14,414 --> 00:47:15,870
+¡Me trae sin cuidado tu honor!
+
+457
+00:47:16,041 --> 00:47:18,248
+¿Quieres la absolución?
+Captura alos espías.
+
+458
+00:47:18,710 --> 00:47:19,710
+Majestad.
+
+459
+00:47:27,344 --> 00:47:28,926
+Esa cosa debe irse.
+
+460
+00:47:29,555 --> 00:47:31,091
+Podéis hablar sin miedo.
+
+461
+00:47:32,140 --> 00:47:34,472
+Nuestra mascota
+no entiende vuestra lengua.
+
+462
+00:47:34,601 --> 00:47:35,807
+Fuera.
+
+463
+00:47:40,274 --> 00:47:41,605
+La entiende.
+
+464
+00:47:42,109 --> 00:47:43,599
+Activad el cono de silencio.
+
+465
+00:47:48,365 --> 00:47:51,153
+¿Cuál es el mensaje del emperador?
+
+466
+00:47:51,535 --> 00:47:54,323
+Fortalecerá vuestra posición.
+
+467
+00:47:56,623 --> 00:47:58,864
+Con sus legiones de Sardaukar.
+
+468
+00:47:59,042 --> 00:48:00,783
+Jamás debe saberse.
+
+469
+00:48:01,545 --> 00:48:04,333
+No hay satélites sobre Arrakis.
+
+470
+00:48:04,631 --> 00:48:07,373
+Los Atreides morirán en la oscuridad.
+
+471
+00:48:08,135 --> 00:48:09,842
+A ese respecto,
+
+472
+00:48:10,012 --> 00:48:13,175
+el duque Leto Atreides
+no significa nada para nuestra orden.
+
+473
+00:48:13,473 --> 00:48:15,153
+Pero su mujer está bajo nuestra protección
+
+474
+00:48:15,267 --> 00:48:17,429
+y, por extensión, su hijo.
+
+475
+00:48:17,978 --> 00:48:20,345
+Concededles la dignidad del exilio.
+
+476
+00:48:24,651 --> 00:48:29,441
+La Casa de los Harkonnen jamás soñaría
+con violar la santidad de vuestra orden.
+
+477
+00:48:30,574 --> 00:48:32,156
+Os doy mi palabra.
+
+478
+00:48:32,409 --> 00:48:33,899
+No les haremos daño.
+
+479
+00:48:54,264 --> 00:48:55,720
+Si el hijo del duque sobrevive...
+
+480
+00:48:55,891 --> 00:48:58,428
+Ningún Atreides sobrevivirá.
+
+481
+00:48:58,602 --> 00:49:01,014
+Mi señor, habéis dado vuestra palabra
+ala bruja.
+
+482
+00:49:01,146 --> 00:49:02,146
+Ella ve demasiado.
+
+483
+00:49:02,189 --> 00:49:04,021
+He dicho que no les haré daño,
+
+484
+00:49:04,149 --> 00:49:05,149
+y no se lo haré.
+
+485
+00:49:05,442 --> 00:49:07,524
+Pero Arrakis es Arrakis.
+
+486
+00:49:08,904 --> 00:49:11,316
+Y el desierto se lleva a los débiles.
+
+487
+00:49:13,492 --> 00:49:14,732
+Mi desierto.
+
+488
+00:49:17,537 --> 00:49:19,448
+Mi Arrakis.
+
+489
+00:49:21,458 --> 00:49:23,040
+Mi Dune.
+
+490
+00:49:26,421 --> 00:49:28,662
+Vuestra primera reunión estratégica.
+
+491
+00:49:28,840 --> 00:49:31,923
+Paul Atreides, el que atrapa
+cazadores-buscadores con las manos
+
+492
+00:49:32,094 --> 00:49:33,214
+tal que un héroe del pasado.
+
+493
+00:49:35,764 --> 00:49:37,721
+Gracias por humillarme, carcamal.
+
+494
+00:49:38,100 --> 00:49:39,100
+Debo cuidaros.
+
+495
+00:49:40,018 --> 00:49:41,258
+¡En pie!
+
+496
+00:49:49,486 --> 00:49:50,647
+Empecemos.
+
+497
+00:49:53,156 --> 00:49:54,897
+Thufir. Operaciones.
+
+498
+00:49:55,242 --> 00:49:58,451
+He conseguido una copia
+del libro de cuentas de los Harkonnen.
+
+499
+00:50:00,205 --> 00:50:05,075
+Los Harkonnen sacaban de aquí
+diez mil millones de solaris al año.
+
+500
+00:50:05,252 --> 00:50:09,462
+“Absorberán la abundancia de los mares
+y los tesoros escondidos en la arena".
+
+501
+00:50:09,631 --> 00:50:11,872
+No veremos esos beneficios
+durante mucho tiempo.
+
+502
+00:50:12,175 --> 00:50:14,041
+No con los equipos que nos han dejado.
+
+503
+00:50:15,053 --> 00:50:16,635
+¿Cómo es de grave?
+
+504
+00:50:22,477 --> 00:50:24,343
+Estos son silos de especia.
+
+505
+00:50:25,856 --> 00:50:28,473
+Tenemos que llenar todos los contenedores.
+
+506
+00:50:29,276 --> 00:50:30,276
+¿Todos?
+
+507
+00:50:30,986 --> 00:50:33,398
+Cada veinticinco días estándar.
+
+508
+00:50:33,989 --> 00:50:36,356
+El sabotaje de los Harkonnen
+nos ralentiza.
+
+509
+00:50:36,491 --> 00:50:38,027
+¿Y quién arbitra?
+
+510
+00:50:38,201 --> 00:50:40,613
+¿No hay un Árbitro del Cambio
+que supervise la transición?
+
+511
+00:50:40,787 --> 00:50:42,187
+¿A quién ha designado el emperador?
+
+512
+00:50:42,372 --> 00:50:44,955
+A la doctora Liet Kynes. Ecóloga imperial.
+
+513
+00:50:45,250 --> 00:50:46,615
+Lleva aquí veinte años.
+
+514
+00:50:46,793 --> 00:50:48,409
+Algo excéntrica, dicen.
+
+515
+00:50:48,795 --> 00:50:51,002
+Quiero ver esos campos de recolección
+personalmente.
+
+516
+00:50:51,882 --> 00:50:55,671
+- No se lo aconsejo, mi señor.
+- Que ese Arbitro del Cambio nos acompañe.
+
+517
+00:50:55,844 --> 00:50:57,676
+Ese encuentro
+ya debería haberse producido.
+
+518
+00:50:57,804 --> 00:50:59,715
+Así tendremos protección imperial.
+
+519
+00:50:59,848 --> 00:51:00,848
+Una rehén.
+
+520
+00:51:01,349 --> 00:51:02,349
+Me encanta.
+
+521
+00:51:04,561 --> 00:51:05,972
+Está aquí, mi señor.
+
+522
+00:51:30,170 --> 00:51:31,877
+Cuida de ellos. Son amigos.
+
+523
+00:51:33,298 --> 00:51:34,413
+¡Muchacho!
+
+524
+00:51:40,305 --> 00:51:41,466
+Te juro que estás más alto.
+
+525
+00:51:41,598 --> 00:51:43,134
+Y tú hueles peor.
+
+526
+00:51:47,020 --> 00:51:48,886
+Cuatro semanas viviendo con los Fremen.
+
+527
+00:51:49,064 --> 00:51:51,601
+Escondido en el desierto,
+en una comunidad llamada sietch.
+
+528
+00:51:52,025 --> 00:51:54,767
+Stilgar, el líder,
+ha venido conmigo para conoceros.
+
+529
+00:51:55,445 --> 00:51:57,402
+Ese sietch, ¿cómo se oculta?
+
+530
+00:51:57,656 --> 00:51:58,656
+Bajo tierra.
+
+531
+00:51:58,824 --> 00:52:00,440
+Arrakis está lleno de cavernas.
+
+532
+00:52:00,617 --> 00:52:01,857
+¿Cómo era de grande?
+
+533
+00:52:02,619 --> 00:52:04,155
+Unas diez mil personas.
+
+534
+00:52:05,038 --> 00:52:06,403
+Y hay cientos de sietch.
+
+535
+00:52:07,707 --> 00:52:09,038
+Millones de Fremen.
+
+536
+00:52:10,043 --> 00:52:10,874
+Tenías razón.
+
+537
+00:52:11,044 --> 00:52:14,878
+La estimación de los Harkonnen
+era de 50000 en todo el planeta.
+
+538
+00:52:15,048 --> 00:52:17,130
+Los Fremen me observaron durante días.
+
+539
+00:52:17,300 --> 00:52:18,506
+Yo nunca los vi a ellos.
+
+540
+00:52:18,885 --> 00:52:21,377
+Al final enviaron a un guerrero a matarme.
+
+541
+00:52:21,638 --> 00:52:22,878
+Y tengo que deciros...
+
+542
+00:52:23,306 --> 00:52:25,263
+que nunca he estado
+tan cerca de la muerte.
+
+543
+00:52:25,809 --> 00:52:28,016
+No hay mejores guerreros en el Imperio.
+
+544
+00:52:28,603 --> 00:52:30,059
+Luchan como leones.
+
+545
+00:52:30,355 --> 00:52:32,062
+El poder del desierto.
+
+546
+00:52:36,444 --> 00:52:37,900
+- Buen trabajo.
+- Gracias, mi señor.
+
+547
+00:52:38,029 --> 00:52:39,029
+Señor.
+
+548
+00:52:39,531 --> 00:52:41,989
+El líder tiene un cuchillo
+que no quiere entregamos.
+
+549
+00:52:42,159 --> 00:52:44,867
+Es un crys. Es sagrado para su pueblo.
+
+550
+00:52:45,203 --> 00:52:46,364
+Dejadie entrar.
+
+551
+00:53:02,846 --> 00:53:03,846
+Alto ahí.
+
+552
+00:53:11,563 --> 00:53:12,678
+Stilgar.
+
+553
+00:53:13,648 --> 00:53:14,809
+Bienvenido.
+
+554
+00:53:16,193 --> 00:53:20,278
+Señor, respeto la dignidad
+de cualquiera que respete la mía.
+
+555
+00:53:28,455 --> 00:53:29,455
+Quietos.
+
+556
+00:53:31,082 --> 00:53:32,368
+Te agradecemos, Stilgar,
+
+557
+00:53:32,751 --> 00:53:35,368
+el presente de la humedad de tu cuerpo.
+
+558
+00:53:36,338 --> 00:53:38,454
+Y lo aceptamos con el mismo espíritu.
+
+559
+00:53:46,556 --> 00:53:47,676
+Me alegra que hayáis venido.
+
+560
+00:53:48,600 --> 00:53:52,013
+Creo que vuestro pueblo y el mío
+tienen mucho que ofrecerse.
+
+561
+00:53:52,103 --> 00:53:53,309
+No, venís de otro mundo.
+
+562
+00:53:53,480 --> 00:53:57,565
+Venís a por la especia
+y os la lleváis sin dar nada a cambio.
+
+563
+00:53:59,361 --> 00:54:00,361
+Eso es cierto.
+
+564
+00:54:02,530 --> 00:54:05,238
+Sé que habéis sufrido
+a manos de los Harkonnen.
+
+565
+00:54:06,493 --> 00:54:07,779
+Pedid lo que queráis.
+
+566
+00:54:08,078 --> 00:54:10,866
+Si está en mi mano,
+os lo daré sin pediros nada.
+
+567
+00:54:11,331 --> 00:54:13,789
+Esto es lo que pido:
+No busquéis nuestros sietch,
+
+568
+00:54:13,917 --> 00:54:16,249
+no entréis en nuestras tierras.
+
+569
+00:54:16,878 --> 00:54:20,121
+El desierto era nuestro
+mucho antes de vuestra llegada.
+
+570
+00:54:20,298 --> 00:54:21,959
+Así que extraed vuestra especia,
+
+571
+00:54:22,133 --> 00:54:25,592
+pero, cuando la tengáis,
+volved a este lado de la Muralla Escudo
+
+572
+00:54:25,762 --> 00:54:27,503
+y dejadnos el desierto a los Fremen.
+
+573
+00:54:27,681 --> 00:54:30,298
+Dirigíos al duque
+como "mi señor" o "señor".
+
+574
+00:54:30,475 --> 00:54:32,557
+Gurney, espera un momento.
+
+575
+00:54:33,019 --> 00:54:34,350
+El emperador
+
+576
+00:54:34,521 --> 00:54:37,229
+me ha entregado Arrakis
+para que sea mi feudo,
+
+577
+00:54:37,399 --> 00:54:38,889
+lo gobierne y lo proteja.
+
+578
+00:54:39,276 --> 00:54:41,563
+No puedo prometeros
+no entrar en el desierto
+
+579
+00:54:41,736 --> 00:54:43,727
+si me veo obligado.
+
+580
+00:54:44,739 --> 00:54:47,276
+Pero los sietch
+serán vuestros para siempre.
+
+581
+00:54:47,826 --> 00:54:51,160
+Y no se os volverá a perseguir
+mientras yo gobierne.
+
+582
+00:54:54,791 --> 00:54:56,407
+Muy honorable.
+
+583
+00:54:56,835 --> 00:54:59,293
+Debo irme. No tengo nada más que deciros.
+
+584
+00:54:59,462 --> 00:55:00,873
+¿No queréis quedaros?
+
+585
+00:55:01,673 --> 00:55:02,708
+Sería un honor.
+
+586
+00:55:03,258 --> 00:55:06,171
+El honor me exige estar en otro lugar.
+
+587
+00:55:08,179 --> 00:55:10,591
+Te reconozco.
+
+588
+00:55:17,897 --> 00:55:19,103
+No me gusta.
+
+589
+00:55:19,274 --> 00:55:21,436
+Nuestro plan está dando sus frutos.
+
+590
+00:55:21,609 --> 00:55:22,849
+¿Pero llevará tiempo?
+
+591
+00:55:23,028 --> 00:55:24,268
+Si.
+
+592
+00:55:25,280 --> 00:55:27,521
+Llevará tiempo.
+
+593
+00:55:30,410 --> 00:55:31,696
+Ten, es para ti.
+
+594
+00:55:35,707 --> 00:55:36,868
+Es un paracompás.
+
+595
+00:55:37,709 --> 00:55:40,167
+Aquí las lunas tienen un campo magnético.
+
+596
+00:55:40,337 --> 00:55:42,203
+Una brújula normal no señalaría el norte.
+
+597
+00:55:43,048 --> 00:55:45,210
+Hace falta un mecanismo sofisticado.
+
+598
+00:55:45,383 --> 00:55:46,748
+¿Los Fremen hacen esto?
+
+599
+00:55:47,218 --> 00:55:50,586
+Y destiltrajes, compresores de arena
+y muchas cosas ingeniosas.
+
+600
+00:55:50,722 --> 00:55:52,804
+¿Qué demonios es un compresor de arena?
+
+601
+00:55:54,726 --> 00:55:55,886
+Eso es un compresor de arena.
+
+602
+00:55:57,145 --> 00:55:59,307
+Dios mío, estás hecho todo un nativo.
+
+603
+00:55:59,856 --> 00:56:01,096
+Los admiras.
+
+604
+00:56:02,400 --> 00:56:03,686
+Si.
+
+605
+00:56:04,277 --> 00:56:06,439
+Son violentos, pero leales.
+
+606
+00:56:06,863 --> 00:56:08,479
+Se han aclimatado al desierto.
+
+607
+00:56:08,656 --> 00:56:09,817
+Son una parte de él.
+
+608
+00:56:09,991 --> 00:56:11,447
+O él de ellos.
+
+609
+00:56:12,285 --> 00:56:13,366
+Ya lo verás.
+
+610
+00:56:14,245 --> 00:56:15,610
+Es precioso.
+
+611
+00:56:19,084 --> 00:56:21,041
+Atención, va a amanecer.
+
+612
+00:56:21,211 --> 00:56:23,999
+Hoy la temperatura alcanzará los 60%.
+
+613
+00:56:24,172 --> 00:56:25,958
+Ahora estamos a 32%
+
+614
+00:56:26,091 --> 00:56:29,254
+y dentro de diez minutos
+alcanzaremos los 49".
+
+615
+00:56:30,428 --> 00:56:31,668
+Último aviso.
+
+616
+00:57:05,088 --> 00:57:07,079
+El Árbitro del Cambio, señor.
+
+617
+00:57:07,257 --> 00:57:08,747
+La doctora Liet Kynes.
+
+618
+00:57:09,300 --> 00:57:10,665
+Mi señor duque.
+
+619
+00:57:11,553 --> 00:57:12,918
+Bienvenido a Arrakis.
+
+620
+00:57:13,304 --> 00:57:15,136
+¿Sois la ecóloga imperial?
+
+621
+00:57:15,390 --> 00:57:17,176
+Gracias por los destiltrajes.
+
+622
+00:57:17,350 --> 00:57:19,057
+Confección Fremen.
+
+623
+00:57:19,644 --> 00:57:20,644
+Los mejores.
+
+624
+00:57:20,728 --> 00:57:23,470
+Con vuestro permiso, señor,
+debo comprobar que el traje...
+
+625
+00:57:25,358 --> 00:57:26,519
+No pasa nada.
+
+626
+00:57:28,236 --> 00:57:29,772
+No pasa nada.
+
+627
+00:57:31,114 --> 00:57:34,072
+Doctora Kynes, estamos en vuestras manos.
+
+628
+00:57:38,538 --> 00:57:43,157
+Un destiltraje es un sistema de filtración
+de alta eficacia.
+
+629
+00:57:43,960 --> 00:57:48,249
+Incluso a estas horas de la mañana
+no sobreviviríais ni dos horas sin él.
+
+630
+00:57:49,215 --> 00:57:50,671
+Enfrían el cuerpo
+
+631
+00:57:51,676 --> 00:57:54,338
+y reciclan el agua perdida por el sudor.
+
+632
+00:57:55,638 --> 00:57:58,801
+Los movimientos del cuerpo
+proporcionan la energía.
+
+633
+00:57:58,975 --> 00:58:03,014
+Dentro de la máscara hay un tubo
+que permite beber el agua reciclada.
+
+634
+00:58:03,771 --> 00:58:05,762
+Con un traje en buenas condiciones
+no perderéis
+
+635
+00:58:05,899 --> 00:58:07,640
+más de un dedal de humedad al día.
+
+636
+00:58:07,984 --> 00:58:09,224
+Impresionante.
+
+637
+00:58:11,070 --> 00:58:12,276
+Ahora vamos con vos, joven.
+
+638
+00:58:14,657 --> 00:58:15,738
+¿Ya...
+
+639
+00:58:16,242 --> 00:58:17,511
+OS habíais puesto un destiltraje?
+
+640
+00:58:17,535 --> 00:58:19,071
+No, es la primera vez.
+
+641
+00:58:21,539 --> 00:58:25,248
+Os habéis atado las botas correctamente.
+¿Quién os lo ha enseñado?
+
+642
+00:58:26,002 --> 00:58:27,959
+Me ha parecido lo normal.
+
+643
+00:58:30,924 --> 00:58:34,007
+"Conocerá vuestras costumbres
+como si hubiera nacido entre vosotros".
+
+644
+00:58:35,762 --> 00:58:36,762
+¿Sois Fremen?
+
+645
+00:58:38,723 --> 00:58:42,057
+Me aceptan tanto en los sietch
+como en los poblados.
+
+646
+00:58:43,686 --> 00:58:48,305
+Vayamos a ver las arenas de especia,
+de ella depende vuestro sustento.
+
+647
+00:59:26,437 --> 00:59:29,145
+¿Qué haríais
+si vuestro ornitóptero cayera ahí abajo?
+
+648
+00:59:29,315 --> 00:59:31,306
+Nadie querría caer ahí abajo.
+
+649
+00:59:31,568 --> 00:59:33,024
+Es territorio de gusanos.
+
+650
+00:59:35,697 --> 00:59:36,697
+Una nube de polvo.
+
+651
+00:59:37,949 --> 00:59:39,314
+La veo.
+
+652
+00:59:40,702 --> 00:59:43,069
+Esa es una de vuestras cosechadoras.
+
+653
+01:00:08,396 --> 01:00:11,354
+Podéis ver la especia
+por toda la superficie.
+
+654
+01:00:12,900 --> 01:00:14,811
+Un terreno rico en especia,
+
+655
+01:00:14,986 --> 01:00:16,226
+a juzgar por el color.
+
+656
+01:00:16,404 --> 01:00:18,987
+Si ascendéis un poco,
+tendréis mejores vistas.
+
+657
+01:00:33,963 --> 01:00:36,250
+Eso es un rastreador
+buscando señales de gusanos.
+
+658
+01:00:38,301 --> 01:00:39,632
+¿Señales de gusano?
+
+659
+01:00:39,844 --> 01:00:42,006
+Una ondulación en la arena
+en dirección al tractor.
+
+660
+01:00:42,096 --> 01:00:43,928
+Los gusanos
+se desplazan a gran profundidad,
+
+661
+01:00:44,098 --> 01:00:46,590
+pero se acercan
+a la superficie para atacar.
+
+662
+01:00:46,726 --> 01:00:48,012
+Si sois paciente,
+
+663
+01:00:48,936 --> 01:00:50,472
+seguro que vemos uno.
+
+664
+01:00:51,105 --> 01:00:52,545
+¿El gusano siempre termina llegando?
+
+665
+01:00:52,815 --> 01:00:55,227
+Siempre. Los atraen los ruidos rítmicos.
+
+666
+01:00:55,652 --> 01:00:57,689
+¿Por qué no les ponemos escudos?
+
+667
+01:00:58,029 --> 01:01:00,145
+Un escudo es una sentencia de muerte.
+
+668
+01:01:00,323 --> 01:01:04,282
+Atrae a los gusanos,
+y les provoca una furia homicida.
+
+669
+01:01:06,913 --> 01:01:07,913
+¿Eso es un gusano?
+
+670
+01:01:20,218 --> 01:01:21,424
+Y grande.
+
+671
+01:01:22,095 --> 01:01:23,381
+Tenéis buena vista.
+
+672
+01:01:24,639 --> 01:01:26,676
+Llamando a tractor Delta Ajax 9.
+
+673
+01:01:26,849 --> 01:01:29,341
+Señales de gusano. Responded.
+
+674
+01:01:29,602 --> 01:01:31,684
+¿Quién llama a Delta Ajax 9?
+
+675
+01:01:32,271 --> 01:01:33,102
+Cambio.
+
+676
+01:01:33,272 --> 01:01:34,728
+Se lo toman con calma.
+
+677
+01:01:34,899 --> 01:01:37,311
+Vuelo no registrado. Asuntos del Imperio.
+
+678
+01:01:37,485 --> 01:01:39,476
+Señales de gusano a vuestro nordeste.
+
+679
+01:01:39,654 --> 01:01:41,736
+A 3,7 kilómetros.
+
+680
+01:01:41,906 --> 01:01:45,149
+<i>Delta Ajax 9, aquí Rastreador 1.
+Señales de gusano confirmadas.</i>
+
+681
+01:01:46,911 --> 01:01:49,243
+<i>Permaneced en línea
+para confirmar contacto.</i>
+
+682
+01:01:52,625 --> 01:01:54,957
+<i>Gusano en ruta de intersección
+con vuestra posición.</i>
+
+683
+01:01:55,128 --> 01:01:56,618
+<i>Contacto en cinco minutos.</i>
+
+684
+01:01:56,963 --> 01:01:58,624
+¿Y ahora qué?
+
+685
+01:01:58,798 --> 01:02:01,210
+Llamarán a un ala de acarreo
+para que se lleve el tractor.
+
+686
+01:02:01,384 --> 01:02:03,466
+Seguirán recolectando
+hasta el último momento.
+
+687
+01:02:03,636 --> 01:02:07,470
+<i>Llamando a ala de acarreo Alfa 0.
+Preparados para secuencia de acoplamiento.</i>
+
+688
+01:02:07,598 --> 01:02:09,509
+<i>Contacto en cinco minutos. Cambio.</i>
+
+689
+01:02:14,147 --> 01:02:16,013
+<i>¿Tenéis visual del ala de acarreo?</i>
+
+690
+01:02:20,403 --> 01:02:21,609
+Ahí está.
+
+691
+01:02:21,779 --> 01:02:25,238
+<i>Aquí ala de acarreo Alfa 0 a Delta Ajax 9.</i>
+
+692
+01:02:25,825 --> 01:02:27,736
+<i>Aproximándonos por vuestro este.</i>
+
+693
+01:02:28,077 --> 01:02:30,910
+<i>Corrigiendo altitud
+y preparando equipo de acoplamiento.</i>
+
+694
+01:02:31,080 --> 01:02:34,289
+<i>Recibido, Alfa 0.
+Iniciando secuencia de acoplamiento.</i>
+
+695
+01:02:36,419 --> 01:02:37,784
+<i>T-5.</i>
+
+696
+01:02:37,962 --> 01:02:38,962
+<i>Recibido.</i>
+
+697
+01:02:39,130 --> 01:02:40,586
+<i>Aerotransporte en 30 segundos.</i>
+
+698
+01:02:40,757 --> 01:02:43,590
+<i>Secuencia de acoplamiento iniciada.
+Preparaos.</i>
+
+699
+01:02:46,679 --> 01:02:49,046
+<i>Alfa 0, nos falta un punto de contacto.</i>
+
+700
+01:02:49,223 --> 01:02:50,463
+<i>¿Qué ocurre?</i>
+
+701
+01:02:50,641 --> 01:02:52,632
+Es uno de los anclajes. No funciona.
+
+702
+01:02:53,686 --> 01:02:54,892
+Mierda.
+
+703
+01:02:55,313 --> 01:02:59,147
+<i>Ala de acarreo no puede continuar.
+Imposible el izado sin ese anclaje.</i>
+
+704
+01:02:59,317 --> 01:03:01,024
+<i>¡Atención!</i>
+
+705
+01:03:01,194 --> 01:03:04,061
+<i>¡A todas las alas del sector,
+por favor, responded!</i>
+
+706
+01:03:04,238 --> 01:03:06,104
+<i>Rastreador 1, infórmanos. Cambio.</i>
+
+707
+01:03:06,282 --> 01:03:08,523
+<i>El sistema hidráulico no funciona.
+Hay que evacuar.</i>
+
+708
+01:03:08,659 --> 01:03:10,304
+<i>- Contacto en cuatro minutos.
+- Inténtalo otra vez.</i>
+
+709
+01:03:10,328 --> 01:03:13,070
+- ¿Cuántos hombres hay en ese tractor?
+- 21 personas.
+
+710
+01:03:13,247 --> 01:03:15,739
+- Cada nave puede llevar a seis.
+- Quedarían tres.
+
+711
+01:03:16,876 --> 01:03:18,332
+Ya se nos ocurrirá algo.
+
+712
+01:03:30,014 --> 01:03:31,846
+<i>Aquí el duque Leto Atreides.</i>
+
+713
+01:03:32,433 --> 01:03:36,097
+<i>Vamos a descender para rescatar
+al equipo de extracción Delta Ajax 9.</i>
+
+714
+01:03:36,229 --> 01:03:37,936
+<i>Descenderemos por el oeste.</i>
+
+715
+01:03:48,199 --> 01:03:50,065
+Cada generador de escudo pesa 100 kilos.
+
+716
+01:03:50,868 --> 01:03:53,576
+Gurney,
+que se desprendan de los generadores.
+
+717
+01:03:53,913 --> 01:03:54,744
+Sí, señor.
+
+718
+01:03:54,831 --> 01:03:56,822
+Y, Paul, sal y quédate detrás.
+
+719
+01:03:56,999 --> 01:03:57,999
+Indícales.
+
+720
+01:03:58,167 --> 01:04:02,081
+Delta Ajax 9, siete hombres
+a cada una de mis naves ahora.
+
+721
+01:05:00,479 --> 01:05:02,390
+<i>Contacto en dos minutos.</i>
+
+722
+01:05:04,692 --> 01:05:07,309
+<i>Se acerca.
+Hay que "abandonar el barco".</i>
+
+723
+01:05:09,780 --> 01:05:10,780
+¿Dónde están?
+
+724
+01:05:10,823 --> 01:05:13,190
+<i>Señor, es el protocolo.</i>
+
+725
+01:05:13,367 --> 01:05:15,574
+<i>Si ponemos un pie ahí fuera,
+estamos muertos.</i>
+
+726
+01:05:16,162 --> 01:05:18,028
+<i>Y tenemos un cargamento de especia.</i>
+
+727
+01:05:18,164 --> 01:05:19,933
+<i>- No podemos dejarlo.</i>
+- ¡Al diablo la especia!
+
+728
+01:05:19,957 --> 01:05:22,415
+¡Quiero todos los hombres
+fuera de ese tractor ya!
+
+729
+01:05:38,851 --> 01:05:41,138
+Siete aquí, siete allí.
+
+730
+01:05:43,105 --> 01:05:45,563
+¡Rápido!
+
+731
+01:06:00,623 --> 01:06:03,411
+Kwisatz Haderach.
+
+732
+01:06:16,681 --> 01:06:20,174
+<i>El</i> Kwisatz Haderach <i>despierta.</i>
+
+733
+01:06:29,610 --> 01:06:30,975
+¡Deprisa! ¡Sube!
+
+734
+01:06:39,870 --> 01:06:40,870
+¡Está aquí!
+
+735
+01:06:52,466 --> 01:06:55,675
+Reconozco tus pisadas, carcamal.
+
+736
+01:06:56,345 --> 01:06:57,551
+¡Arriba!
+
+737
+01:06:58,014 --> 01:06:59,379
+¡Vamos!
+
+738
+01:07:00,850 --> 01:07:03,091
+¿Pero qué te pasa? ¡Vamos!
+
+739
+01:07:03,352 --> 01:07:04,592
+¡Corre!
+
+740
+01:07:50,024 --> 01:07:51,504
+"Bienaventurado el Hacedor y Su agua.
+
+741
+01:07:52,526 --> 01:07:54,688
+Bienaventurada Su llegada y Su partida.
+
+742
+01:07:54,862 --> 01:07:57,695
+Pueda Su paso purificar el mundo.
+
+743
+01:07:57,865 --> 01:08:00,232
+Pueda Él
+conservar el mundo para Su pueblo".
+
+744
+01:08:25,309 --> 01:08:27,300
+- No puedes correr tales riesgos.
+- Sí, señor.
+
+745
+01:08:27,478 --> 01:08:29,810
+- Tienes responsabilidades.
+- No volverá a pasar.
+
+746
+01:08:29,980 --> 01:08:31,095
+Vete.
+
+747
+01:08:31,857 --> 01:08:33,097
+Doctora Kynes.
+
+748
+01:08:34,985 --> 01:08:36,475
+Lo habéis visto.
+
+749
+01:08:37,029 --> 01:08:38,986
+Con vuestros propios ojos. Es evidente.
+
+750
+01:08:39,156 --> 01:08:41,272
+Todo lo que nos han dejado
+es una chatarra.
+
+751
+01:08:41,450 --> 01:08:42,610
+Nos han condenado al fracaso.
+
+752
+01:08:43,410 --> 01:08:45,822
+Esa ala de acarreo era vieja.
+
+753
+01:08:46,247 --> 01:08:48,284
+El desierto no es amable con los equipos.
+
+754
+01:08:50,126 --> 01:08:51,708
+Ya sabéis lo que pasará
+
+755
+01:08:51,877 --> 01:08:53,959
+si no reanudo la producción de especia.
+
+756
+01:08:56,257 --> 01:08:59,750
+No estoy aquí para apoyar vuestra causa.
+
+757
+01:09:00,261 --> 01:09:04,380
+Arrakis ha visto ir y venir
+a hombres como vos.
+
+758
+01:09:06,851 --> 01:09:10,435
+Cuidad bien a vuestra familia.
+
+759
+01:09:13,858 --> 01:09:16,816
+El desierto tampoco es amable
+con los humanos.
+
+760
+01:09:33,419 --> 01:09:36,332
+La especia es una sustancia psicoactiva.
+
+761
+01:09:37,590 --> 01:09:39,456
+Parece una reacción.
+
+762
+01:09:43,888 --> 01:09:44,888
+No es nada.
+
+763
+01:09:46,640 --> 01:09:48,631
+Gracias, doctor Yueh.
+
+764
+01:09:58,194 --> 01:10:00,526
+No ha sido una reacción alérgica.
+
+765
+01:10:02,531 --> 01:10:04,113
+He tenido una visión.
+
+766
+01:10:06,744 --> 01:10:08,405
+Tenía los ojos abiertos.
+
+767
+01:10:10,414 --> 01:10:11,414
+¿Qué has visto?
+
+768
+01:10:49,036 --> 01:10:52,620
+Kwisatz Haderach.
+
+769
+01:10:52,790 --> 01:10:55,782
+<i>Puedes ver.</i>
+
+770
+01:11:37,334 --> 01:11:38,916
+<i>Es confuso.</i>
+
+771
+01:11:39,086 --> 01:11:40,497
+<i>Creía haber visto mi muerte.</i>
+
+772
+01:11:40,671 --> 01:11:42,207
+<i>Solo que no lo era.</i>
+
+773
+01:11:43,090 --> 01:11:46,754
+<i>Sé que un cuchillo es importante
+por alguna razón.</i>
+
+774
+01:11:48,804 --> 01:11:51,171
+<i>Alguien me dará un cuchillo.</i>
+
+775
+01:11:51,557 --> 01:11:54,845
+<i>Pero no sé quién ni cuándo ni dónde.</i>
+
+776
+01:11:57,146 --> 01:12:01,356
+<i>Algunas cosas, sin embargo,
+son muy nítidas. Las siento.</i>
+
+777
+01:12:06,155 --> 01:12:07,611
+<i>Sé que estás embarazada.</i>
+
+778
+01:12:13,787 --> 01:12:15,528
+¿Cómo puedes saberlo?
+
+779
+01:12:17,166 --> 01:12:20,375
+Me he enterado hace nada.
+Solo estoy de unas semanas.
+
+780
+01:12:27,092 --> 01:12:30,551
+PLANETA DEL EJÉRCITO IMPERIAL
+
+781
+01:13:04,546 --> 01:13:06,583
+¿Para qué nos necesita el barón?
+
+782
+01:13:07,007 --> 01:13:09,999
+Los Harkonnen superan en número
+alos Atreides.
+
+783
+01:13:11,387 --> 01:13:14,630
+Las legiones de los Atreides
+son las mejores del Imperio.
+
+784
+01:13:15,140 --> 01:13:17,552
+Adiestradas por Gurney Halleck
+y Duncan Idaho.
+
+785
+01:13:18,602 --> 01:13:20,388
+Nosotros somos los Sardaukar.
+
+786
+01:13:20,771 --> 01:13:22,136
+Los espadachines del emperador.
+
+787
+01:13:22,689 --> 01:13:25,021
+Quienes se enfrentan a nosotros mueren.
+
+788
+01:13:25,943 --> 01:13:27,308
+Exacto.
+
+789
+01:13:28,320 --> 01:13:29,902
+Tres batallones.
+
+790
+01:13:30,072 --> 01:13:31,187
+Como acordamos.
+
+791
+01:13:36,662 --> 01:13:39,495
+El emperador lo ordena. Así sea.
+
+792
+01:14:11,780 --> 01:14:13,737
+Hay algo que debéis saber de Paul.
+
+793
+01:14:15,993 --> 01:14:17,950
+Prefiero no saberlo.
+
+794
+01:14:18,662 --> 01:14:22,576
+Desde que lo llevaste
+ante tu Reverenda Madre, no es el mismo.
+
+795
+01:14:24,042 --> 01:14:25,282
+Está distraído.
+
+796
+01:14:27,296 --> 01:14:28,502
+Jessica.
+
+797
+01:14:28,881 --> 01:14:30,371
+Me diste un hijo.
+
+798
+01:14:30,549 --> 01:14:33,758
+Y desde que nació jamás te he cuestionado.
+
+799
+01:14:33,927 --> 01:14:36,043
+He confiado en ti completamente.
+
+800
+01:14:36,513 --> 01:14:38,971
+Incluso cuando caminabas en las tinieblas.
+
+801
+01:14:39,850 --> 01:14:41,682
+Ahora voy a hacerte una pregunta.
+
+802
+01:14:44,396 --> 01:14:46,512
+Si me ocurriera algo,
+
+803
+01:14:47,691 --> 01:14:48,977
+¿protegerías a nuestro hijo?
+
+804
+01:14:50,777 --> 01:14:52,063
+Con mi vida.
+
+805
+01:14:52,237 --> 01:14:55,525
+No te lo pregunto como madre,
+sino como Bene Gesserit.
+
+806
+01:14:59,036 --> 01:15:00,993
+¿Protegerías a Paul?
+
+807
+01:15:06,752 --> 01:15:08,584
+¿A qué vienen esos pensamientos?
+
+808
+01:15:15,135 --> 01:15:17,593
+Leto, no eres tú.
+
+809
+01:15:23,310 --> 01:15:25,597
+Creía que tendríamos más tiempo.
+
+810
+01:15:44,748 --> 01:15:46,830
+Buenas noches, amo Paul.
+
+811
+01:15:47,417 --> 01:15:49,203
+Buenas noches, doctor Yueh.
+
+812
+01:15:58,679 --> 01:15:59,919
+<i>Necesitas dormir.</i>
+
+813
+01:16:03,267 --> 01:16:04,507
+Así no.
+
+814
+01:16:19,950 --> 01:16:22,066
+Debería haberme casado contigo.
+
+815
+01:17:40,489 --> 01:17:41,489
+Hawat.
+
+816
+01:17:41,615 --> 01:17:43,231
+Seguridad.
+
+817
+01:17:44,576 --> 01:17:45,907
+Seguridad.
+
+818
+01:18:48,932 --> 01:18:50,514
+Señor.
+
+819
+01:18:51,476 --> 01:18:53,387
+Han desactivado el escudo.
+
+820
+01:19:02,195 --> 01:19:03,651
+Cielo santo.
+
+821
+01:19:04,322 --> 01:19:06,529
+¡Que despegue todo lo que tenga armas!
+¡Vamos!
+
+822
+01:19:51,203 --> 01:19:52,944
+¡Vamos!
+
+823
+01:20:54,933 --> 01:20:56,890
+¡Seguidme!
+
+824
+01:21:25,964 --> 01:21:28,247
+¡Atreides!
+
+825
+01:21:57,412 --> 01:21:59,528
+¡Sardaukar!
+
+826
+01:22:22,604 --> 01:22:24,220
+Lo siento, mi señor.
+
+827
+01:22:27,233 --> 01:22:30,100
+Pero he hecho un pacto con el barón.
+
+828
+01:22:32,572 --> 01:22:33,572
+¿Por qué?
+
+829
+01:22:34,491 --> 01:22:36,198
+No tenía elección.
+
+830
+01:22:36,826 --> 01:22:39,409
+Los Harkonnen tienen a mi mujer, Wanna.
+
+831
+01:22:40,664 --> 01:22:43,031
+La desmembrarán como a una muñeca.
+
+832
+01:22:44,125 --> 01:22:46,116
+Voy a comprar su libertad.
+
+833
+01:22:46,294 --> 01:22:47,830
+Y vos sois el precio.
+
+834
+01:22:51,299 --> 01:22:52,299
+Para Paul.
+
+835
+01:22:52,884 --> 01:22:54,215
+Haré lo que esté en mi mano.
+
+836
+01:22:54,928 --> 01:22:56,293
+Y vos...
+
+837
+01:22:56,805 --> 01:22:58,591
+mataréis a un hombre por mí.
+
+838
+01:23:03,144 --> 01:23:06,682
+Voy a sustituir el diente que os implanté.
+
+839
+01:23:06,856 --> 01:23:10,895
+Si mordéis con fuerza,
+este diente se romperá.
+
+840
+01:23:11,861 --> 01:23:15,900
+Exhalad y llenaréis el aire de veneno.
+
+841
+01:23:16,408 --> 01:23:18,069
+Será vuestro último aliento.
+
+842
+01:23:18,910 --> 01:23:21,117
+Pero si elegís bien el momento,
+
+843
+01:23:22,497 --> 01:23:24,704
+también será el del barón.
+
+844
+01:25:13,566 --> 01:25:15,648
+Los arrojaremos al desierto.
+
+845
+01:25:16,694 --> 01:25:19,561
+Serán pasto de los gusanos.
+
+846
+01:25:21,116 --> 01:25:23,403
+¿Y por qué no les cortamos el cuello?
+
+847
+01:25:24,452 --> 01:25:27,786
+Podríamos enfrentarnos
+a una Decidora de Verdad.
+
+848
+01:25:28,915 --> 01:25:31,577
+Podemos decir que nosotros no los matamos.
+
+849
+01:25:38,716 --> 01:25:41,378
+El de la cicatriz es sordo.
+
+850
+01:26:22,552 --> 01:26:23,883
+¡Al infierno, perros!
+
+851
+01:27:59,649 --> 01:28:02,232
+Nunca lo he hecho con una noble.
+
+852
+01:28:04,779 --> 01:28:05,779
+¿TÚ?
+
+853
+01:28:06,197 --> 01:28:08,029
+Las Bene Gesserit no siempre son nobles.
+
+854
+01:28:08,408 --> 01:28:11,241
+Ella es lo bastante noble para mí.
+
+855
+01:28:12,620 --> 01:28:14,361
+Echemos al chico a los gusanos.
+
+856
+01:28:14,539 --> 01:28:16,655
+Y despidámonos de ella por todo lo alto.
+
+857
+01:28:16,833 --> 01:28:18,494
+Ni se os ocurra tocar a mi madre.
+
+858
+01:28:19,919 --> 01:28:20,919
+No hables.
+
+859
+01:28:27,302 --> 01:28:29,669
+No estás preparado.
+
+860
+01:28:32,432 --> 01:28:33,843
+Quitale la mordaza.
+
+861
+01:28:43,067 --> 01:28:44,478
+Cállate.
+
+862
+01:28:45,945 --> 01:28:48,061
+Encuentra el tono adecuado.
+
+863
+01:28:55,163 --> 01:28:56,619
+Estamos lo suficientemente lejos.
+
+864
+01:28:57,123 --> 01:28:59,114
+Tiremos al chico.
+
+865
+01:29:13,598 --> 01:29:14,929
+Quitale la mordaza.
+
+866
+01:29:21,397 --> 01:29:22,397
+¡Mátalo!
+
+867
+01:29:31,240 --> 01:29:32,355
+¡Libéranos!
+
+868
+01:29:46,130 --> 01:29:47,130
+¡Quieto!
+
+869
+01:29:47,382 --> 01:29:48,872
+¡Corta la cuerda!
+
+870
+01:29:51,677 --> 01:29:53,042
+¡Dame el cuchillo!
+
+871
+01:30:01,979 --> 01:30:02,979
+Tu tono
+
+872
+01:30:03,481 --> 01:30:04,892
+era demasiado forzado.
+
+873
+01:30:12,865 --> 01:30:14,355
+Es una fremochila.
+
+874
+01:30:27,422 --> 01:30:28,457
+Han inutilizado la nave.
+
+875
+01:32:04,018 --> 01:32:06,931
+Maravillosa cocina, primo.
+
+876
+01:32:25,206 --> 01:32:27,698
+Es la letra del doctor Yueh.
+
+877
+01:32:28,209 --> 01:32:30,667
+“Si alguien lograra
+salir de Arrakeen con vida,
+
+878
+01:32:30,836 --> 01:32:32,918
+hay una baliza Atreides en la fremochila.
+
+879
+01:32:33,089 --> 01:32:35,626
+Dios quiera que os encuentren".
+
+880
+01:32:43,057 --> 01:32:44,057
+Mi señor barón,
+
+881
+01:32:45,476 --> 01:32:46,637
+el doctor Yueh.
+
+882
+01:32:46,811 --> 01:32:48,393
+El traidor.
+
+883
+01:32:49,730 --> 01:32:50,730
+¿Qué quieres?
+
+884
+01:32:51,983 --> 01:32:53,940
+Les he dejado sin comunicaciones
+
+885
+01:32:54,360 --> 01:32:55,850
+y he desactivado los escudos.
+
+886
+01:32:57,488 --> 01:33:00,105
+He entregado al duque y a su familia.
+
+887
+01:33:00,283 --> 01:33:02,069
+Lo has cumplido al pie de la letra.
+
+888
+01:33:02,702 --> 01:33:04,659
+¿Y qué debía hacer yo a cambio?
+
+889
+01:33:05,329 --> 01:33:07,320
+Librar a mi mujer de su agonía.
+
+890
+01:33:09,500 --> 01:33:10,500
+Si.
+
+891
+01:33:43,868 --> 01:33:45,905
+Te dije que la liberaría
+
+892
+01:33:46,621 --> 01:33:48,362
+y que te reunirías con ella.
+
+893
+01:33:52,543 --> 01:33:53,954
+Reúnete con ella.
+
+894
+01:34:03,429 --> 01:34:05,591
+¿Qué creéis que viene ahora?
+
+895
+01:34:09,352 --> 01:34:10,968
+Es un martilleador.
+
+896
+01:34:11,687 --> 01:34:13,052
+Ningún destiltraje,
+
+897
+01:34:13,439 --> 01:34:15,225
+lo único que realmente necesitamos.
+
+898
+01:34:20,196 --> 01:34:23,530
+Durante cientos de años
+hemos aplicado el ojo por ojo.
+
+899
+01:34:24,909 --> 01:34:26,399
+Pero se acabó.
+
+900
+01:34:28,037 --> 01:34:31,530
+Vuestro hijo ha muerto.
+Vuestra concubina ha muerto.
+
+901
+01:34:32,375 --> 01:34:35,083
+Esta noche la Casa de los Atreides caerá.
+
+902
+01:34:38,047 --> 01:34:40,960
+Y vuestra estirpe
+desaparecerá para siempre.
+
+903
+01:34:54,230 --> 01:34:55,230
+¿Qué habéis dicho?
+
+904
+01:35:05,366 --> 01:35:06,731
+¡Aquí estoy
+
+905
+01:35:08,077 --> 01:35:10,068
+<i>¡y aquí permaneceré!</i>
+
+906
+01:36:53,599 --> 01:36:54,760
+¡Kynes!
+
+907
+01:36:55,726 --> 01:36:57,592
+¡Aquí no estás a salvo!
+
+908
+01:36:57,770 --> 01:37:00,478
+¿Contaréis a las Grandes Casas
+cómo nos han traicionado?
+
+909
+01:37:00,773 --> 01:37:03,231
+¿Cómo han masacrado
+a la más noble de todas?
+
+910
+01:37:03,400 --> 01:37:05,812
+Se me ha ordenado no decir nada.
+
+911
+01:37:06,904 --> 01:37:08,486
+No ver nada.
+
+912
+01:37:10,491 --> 01:37:12,858
+El emperador nos ha mandado aquí a morir.
+
+913
+01:38:01,125 --> 01:38:03,332
+Hay especia en la tienda.
+
+914
+01:39:29,254 --> 01:39:31,962
+Es el futuro. Se acerca.
+
+915
+01:39:46,480 --> 01:39:48,812
+Una guerra santa
+que se extiende por el universo
+
+916
+01:39:48,983 --> 01:39:50,103
+como un fuego inextinguible.
+
+917
+01:40:03,122 --> 01:40:05,329
+Paul, tienes miedo. Puedo verlo.
+
+918
+01:40:06,083 --> 01:40:08,575
+Dime, por favor, ¿qué temes?
+
+919
+01:40:18,137 --> 01:40:20,549
+Que alguien me ayude, por favor.
+
+920
+01:40:24,935 --> 01:40:25,935
+Se acerca.
+
+921
+01:40:26,603 --> 01:40:28,890
+<i>Veo una guerra santa
+que se extiende por el universo</i>
+
+922
+01:40:29,023 --> 01:40:30,309
+como un fuego inextinguible.
+
+923
+01:40:30,441 --> 01:40:31,931
+Una religión guerrera que ondea
+
+924
+01:40:32,067 --> 01:40:34,855
+el estandarte de los Atreides
+en nombre de mi padre.
+
+925
+01:40:35,237 --> 01:40:39,276
+Fanáticas legiones adorando
+el santuario del cráneo de mi padre.
+
+926
+01:40:40,200 --> 01:40:42,567
+<i>¡Una guerra en mi nombre!</i>
+
+927
+01:40:42,745 --> 01:40:44,531
+Todos gritan mi nombre.
+
+928
+01:40:49,293 --> 01:40:51,455
+Paul Atreides.
+
+929
+01:40:51,628 --> 01:40:54,461
+Eres el hijo de tu padre. Eres mí hijo.
+
+930
+01:40:54,631 --> 01:40:57,623
+Eres el duque Paul Atreides.
+
+931
+01:40:58,302 --> 01:41:01,135
+Tú sabes quién eres.
+
+932
+01:41:01,305 --> 01:41:02,305
+¡Déjame en paz!
+
+933
+01:41:04,224 --> 01:41:05,760
+¡TÚ me has hecho esto!
+
+934
+01:41:05,934 --> 01:41:09,268
+¡Las Bene Gesserit
+me habéis convertido en un bicho raro!
+
+935
+01:41:33,670 --> 01:41:35,957
+Mi padre ha muerto.
+
+936
+01:42:12,584 --> 01:42:13,949
+Alguien se acerca.
+
+937
+01:42:14,962 --> 01:42:16,373
+Tienes que beber.
+
+938
+01:42:18,132 --> 01:42:20,248
+Es agua reciclada de la tienda.
+
+939
+01:42:28,142 --> 01:42:29,883
+Sudor y lágrimas.
+
+940
+01:42:33,689 --> 01:42:35,271
+Vale, hay que irse.
+
+941
+01:43:48,805 --> 01:43:50,341
+Es Duncan.
+
+942
+01:44:00,317 --> 01:44:01,478
+Mi dama.
+
+943
+01:44:03,195 --> 01:44:05,402
+Lo siento mucho. Tu padre...
+
+944
+01:44:05,572 --> 01:44:06,778
+Lo sabemos.
+
+945
+01:44:08,825 --> 01:44:10,031
+Mi señor duque.
+
+946
+01:44:23,632 --> 01:44:24,632
+Tomad.
+
+947
+01:44:26,677 --> 01:44:28,133
+Bebed.
+
+948
+01:44:35,644 --> 01:44:39,012
+Los Harkonnen han atacado todos
+los núcleos de población del planeta.
+
+949
+01:44:39,189 --> 01:44:41,601
+Habría más de diez legiones,
+cientos de naves.
+
+950
+01:44:41,775 --> 01:44:43,482
+Iban con bastantes Sardaukar.
+
+951
+01:44:43,902 --> 01:44:45,813
+- Al menos dos batallones.
+- ¿Estás seguro?
+
+952
+01:44:46,488 --> 01:44:48,650
+Cuando te bates con un Sardaukar,
+
+953
+01:44:49,324 --> 01:44:50,324
+lo sabes.
+
+954
+01:44:51,451 --> 01:44:54,614
+Así que el emperador ha tomado partido.
+
+955
+01:44:55,539 --> 01:44:57,200
+¿Qué dice el Árbitro del Cambio?
+
+956
+01:44:58,875 --> 01:45:00,786
+El emperador me prohíbe hablar.
+
+957
+01:45:00,961 --> 01:45:03,703
+Y aun así habéis arriesgado la vida
+para ayudamos.
+
+958
+01:45:23,317 --> 01:45:24,933
+Se avecina tormenta.
+
+959
+01:45:39,249 --> 01:45:41,035
+Llegará aquí dentro de unas horas.
+
+960
+01:45:41,209 --> 01:45:42,290
+Aquí estaremos a salvo.
+
+961
+01:45:44,004 --> 01:45:45,586
+¿Sabéis lo que es esto?
+
+962
+01:45:46,340 --> 01:45:48,581
+Una antigua
+estación ecológica experimental.
+
+963
+01:45:52,346 --> 01:45:53,928
+Se crearon para controlar el planeta.
+
+964
+01:45:54,097 --> 01:45:56,338
+Para liberar
+el agua retenida bajo la arena.
+
+965
+01:45:59,644 --> 01:46:01,931
+Arrakis podría haber sido un paraíso.
+
+966
+01:46:02,272 --> 01:46:05,355
+Los trabajos habían empezado,
+pero descubrieron la especia.
+
+967
+01:46:05,484 --> 01:46:07,942
+Y ya nadie quiso
+que el desierto desapareciera.
+
+968
+01:46:08,111 --> 01:46:10,944
+Tanat, procura destiltrajes
+a nuestros visitantes.
+
+969
+01:46:11,114 --> 01:46:12,229
+Sí, Liet.
+
+970
+01:46:12,407 --> 01:46:13,772
+Shamir, café, por favor.
+
+971
+01:46:13,950 --> 01:46:15,361
+De inmediato, Liet.
+
+972
+01:46:17,788 --> 01:46:19,620
+¿Quién sois para los Fremen?
+
+973
+01:47:09,756 --> 01:47:12,965
+¿Sabéis qué es lo que más temen
+las Grandes Casas, Dra. Kynes?
+
+974
+01:47:14,428 --> 01:47:16,510
+Justo lo que nos ha ocurrido.
+
+975
+01:47:17,597 --> 01:47:20,464
+Que los Sardaukar las destruyan una a una.
+
+976
+01:47:23,645 --> 01:47:26,888
+Solo unidas pueden enfrentarse
+alas fuerzas imperiales.
+
+977
+01:47:28,775 --> 01:47:30,482
+¿Lo atestiguaríais?
+
+978
+01:47:31,153 --> 01:47:34,066
+¿Testificaríais que el emperador
+ha obrado en nuestra contra?
+
+979
+01:47:34,239 --> 01:47:36,480
+Si me creyeran,
+
+980
+01:47:37,284 --> 01:47:41,073
+estallaría un conflicto
+entre el Imperio y las Grandes Casas.
+
+981
+01:47:41,246 --> 01:47:42,782
+El caos
+
+982
+01:47:42,956 --> 01:47:44,287
+en el Imperio.
+
+983
+01:47:44,583 --> 01:47:47,826
+Supongamos que le ofrezco al emperador
+una altemativa al caos.
+
+984
+01:47:48,587 --> 01:47:50,123
+El emperador no tiene hijos.
+
+985
+01:47:50,672 --> 01:47:52,333
+Y sus hijas aún no se han casado.
+
+986
+01:47:52,716 --> 01:47:55,208
+¿Haceros con el trono?
+
+987
+01:47:55,677 --> 01:47:59,011
+El emperador teme a los Atreides.
+Os ha traído aquí para mataros.
+
+988
+01:47:59,181 --> 01:48:01,172
+¿Qué es lo que no entendéis?
+
+989
+01:48:01,766 --> 01:48:04,758
+Sois un niño perdido
+escondido en un agujero bajo tierra.
+
+990
+01:48:09,149 --> 01:48:11,732
+Los Fremen hablan del <i>Lisan al-Gaib.</i>
+
+991
+01:48:12,736 --> 01:48:14,318
+Cuidado.
+
+992
+01:48:14,779 --> 01:48:18,067
+La Voz del Otro Mundo
+que les conducirá al paraíso.
+
+993
+01:48:19,451 --> 01:48:20,612
+Supersticiones.
+
+994
+01:48:25,540 --> 01:48:28,532
+Sé que amabais a un guerrero Fremen
+y que cayó en combate.
+
+995
+01:48:32,005 --> 01:48:35,464
+Sé que os movéis entre dos mundos
+conocidos por muchos nombres.
+
+996
+01:48:40,847 --> 01:48:42,633
+He visto vuestro sueño.
+
+997
+01:48:46,853 --> 01:48:48,218
+Si fuera emperador, Dra. Kynes,
+
+998
+01:48:48,355 --> 01:48:52,019
+podría convertir Arrakis en un paraíso
+con un gesto de mi mano.
+
+999
+01:48:54,236 --> 01:48:57,103
+¿De verdad crees que es el Mahdi?
+
+1000
+01:48:58,156 --> 01:48:59,988
+Yo lo veo muy joven.
+
+1001
+01:50:47,515 --> 01:50:48,515
+¡Sardaukar!
+
+1002
+01:51:00,820 --> 01:51:02,402
+Ha bloqueado la puerta.
+
+1003
+01:51:52,330 --> 01:51:53,445
+Ha muerto.
+
+1004
+01:51:55,166 --> 01:51:56,907
+Debemos irnos. No tenemos elección.
+
+1005
+01:52:04,509 --> 01:52:05,509
+¡Paul! ¡Corre!
+
+1006
+01:52:25,822 --> 01:52:27,312
+¡Vamos!
+
+1007
+01:52:59,397 --> 01:53:00,478
+Seguid la luz.
+
+1008
+01:53:00,648 --> 01:53:02,764
+Encontraréis
+un tóptero listo para despegar.
+
+1009
+01:53:02,942 --> 01:53:04,728
+Esa tormenta es vuestra mejor baza.
+
+1010
+01:53:04,903 --> 01:53:07,736
+Por encima de los 5000 metros,
+es básicamente polvo.
+
+1011
+01:53:07,906 --> 01:53:10,568
+Manteneos por encima. Dirigíos al sur.
+
+1012
+01:53:10,700 --> 01:53:11,700
+Encontrad a los Fremen.
+
+1013
+01:53:11,743 --> 01:53:12,858
+¿No venís con nosotros?
+
+1014
+01:53:13,036 --> 01:53:14,151
+Solo hay sitio para dos.
+
+1015
+01:53:14,329 --> 01:53:17,788
+Iré ala siguiente estación
+e informaré de este ataque al Landsraad.
+
+1016
+01:53:17,957 --> 01:53:18,957
+¿Cómo?
+
+1017
+01:53:19,959 --> 01:53:21,324
+Soy Fremen.
+
+1018
+01:53:22,003 --> 01:53:23,664
+El desierto es mi hogar.
+
+1019
+01:53:24,255 --> 01:53:26,584
+Buena suerte.
+
+1020
+01:56:04,791 --> 01:56:07,704
+Kynes, has traicionado al emperador.
+
+1021
+01:56:07,877 --> 01:56:10,118
+Yo solo sirvo a un amo.
+
+1022
+01:56:10,296 --> 01:56:11,502
+Se llama...
+
+1023
+01:56:11,965 --> 01:56:13,547
+<i>Shai-Hulud.</i>
+
+1024
+01:56:58,720 --> 01:57:00,085
+Los tenemos detrás.
+
+1025
+01:57:34,088 --> 01:57:35,874
+¡Paul! ¡No estamos a suficiente altura!
+
+1026
+01:58:08,581 --> 01:58:09,912
+No conoceréis el miedo.
+
+1027
+01:58:10,083 --> 01:58:11,790
+El miedo mata la mente.
+
+1028
+01:58:11,959 --> 01:58:15,623
+El miedo es la pequeña muerte
+que conduce a la destrucción total.
+
+1029
+01:58:21,260 --> 01:58:24,048
+<i>Busca a la amiga.</i>
+
+1030
+01:58:27,892 --> 01:58:30,725
+<i>Busca a la amiga.</i>
+
+1031
+01:58:33,731 --> 01:58:37,099
+<i>El misterio de la vida
+no es un problema que hay que resolver,</i>
+
+1032
+01:58:39,570 --> 01:58:41,811
+<i>sino una realidad
+que hay que experimentar.</i>
+
+1033
+01:58:45,284 --> 01:58:48,697
+<i>Un proceso que no puede ser comprendido
+si se detiene.</i>
+
+1034
+01:58:49,956 --> 01:58:52,243
+<i>Debemos fluir al mismo tiempo
+que el proceso,</i>
+
+1035
+01:58:53,292 --> 01:58:55,158
+<i>unimos a él.</i>
+
+1036
+01:58:56,045 --> 01:58:57,206
+<i>Y caminar con él.</i>
+
+1037
+01:58:57,547 --> 01:59:01,297
+<i>Déjate llevar.</i>
+
+1038
+01:59:35,251 --> 01:59:37,743
+Su curación no se ha completado.
+
+1039
+01:59:48,389 --> 01:59:49,879
+Los hemos perseguido
+
+1040
+01:59:50,224 --> 01:59:52,261
+hasta una tormenta Coriolis.
+
+1041
+01:59:53,895 --> 01:59:56,353
+Vientos de 800 kilómetros por hora.
+
+1042
+02:00:01,152 --> 02:00:03,268
+Nada sobrevive a una tormenta así.
+
+1043
+02:00:03,446 --> 02:00:04,811
+Están muertos.
+
+1044
+02:00:06,365 --> 02:00:08,072
+Es una certeza.
+
+1045
+02:00:15,208 --> 02:00:17,415
+Así que se acabó. Por in.
+
+1046
+02:00:19,587 --> 02:00:21,453
+Manda un mensaje a Giedi Prime.
+
+1047
+02:00:21,631 --> 02:00:24,589
+Que empiecen a vender
+nuestras reservas de especia.
+
+1048
+02:00:25,176 --> 02:00:26,712
+Pero poco a poco.
+
+1049
+02:00:27,470 --> 02:00:29,086
+No queremos que se devalúe.
+
+1050
+02:00:30,223 --> 02:00:34,182
+¿Tienes idea de lo que he gastado
+para desplegar semejante fuerza militar?
+
+1051
+02:00:34,352 --> 02:00:36,639
+Ahora solo tengo una exigencia.
+
+1052
+02:00:37,188 --> 02:00:38,303
+Beneficios.
+
+1053
+02:00:39,232 --> 02:00:40,939
+Así que exprímelos.
+
+1054
+02:00:41,734 --> 02:00:43,099
+Todo lo que puedas.
+
+1055
+02:00:43,277 --> 02:00:44,608
+Sí, tío.
+
+1056
+02:00:46,239 --> 02:00:47,320
+¿Y los Fremen?
+
+1057
+02:00:48,491 --> 02:00:49,856
+Mátalos a todos.
+
+1058
+02:01:13,099 --> 02:01:14,931
+Estamos por encima de los 5000 metros.
+
+1059
+02:02:52,990 --> 02:02:55,573
+En cuanto aterricemos,
+corre hacia las rocas.
+
+1060
+02:04:47,813 --> 02:04:49,554
+Respira a través de esto.
+
+1061
+02:05:20,054 --> 02:05:22,466
+Ahora tenemos que encontrar a los Fremen.
+
+1062
+02:05:23,682 --> 02:05:24,968
+¿Estás bien?
+
+1063
+02:05:25,142 --> 02:05:26,257
+Si.
+
+1064
+02:06:41,760 --> 02:06:44,718
+<i>No tengas miedo.</i>
+
+1065
+02:06:45,848 --> 02:06:48,931
+<i>Hasta un pequeño ratón del desierto
+puede sobrevivir.</i>
+
+1066
+02:06:49,935 --> 02:06:53,144
+<i>No tengas miedo.</i>
+
+1067
+02:06:53,314 --> 02:06:55,055
+<i>Tienes que afrontar tus miedos.</i>
+
+1068
+02:06:55,190 --> 02:06:56,521
+<i>Una amiga...</i>
+
+1069
+02:06:56,775 --> 02:06:59,813
+<i>Una amiga te ayudará.</i>
+
+1070
+02:07:01,238 --> 02:07:03,024
+<i>Sigue a la amiga.</i>
+
+1071
+02:07:06,035 --> 02:07:07,116
+<i>Tienes mucho que aprender.</i>
+
+1072
+02:07:09,455 --> 02:07:12,072
+Y yo te enseñaré los caminos del desierto.
+
+1073
+02:07:15,461 --> 02:07:16,701
+Ven conmigo.
+
+1074
+02:07:44,782 --> 02:07:45,988
+El <i>sietch</i>
+
+1075
+02:07:46,533 --> 02:07:48,023
+en el que vivió Duncan
+
+1076
+02:07:48,535 --> 02:07:50,617
+está en esa dirección.
+
+1077
+02:07:53,040 --> 02:07:55,452
+Veo vegetación por allí.
+
+1078
+02:07:55,918 --> 02:07:56,953
+AI.
+
+1079
+02:07:57,127 --> 02:07:59,164
+Eso significa que ahí viven Fremen.
+
+1080
+02:08:03,592 --> 02:08:05,674
+Cruzaremos cuando anochezca.
+
+1081
+02:08:05,844 --> 02:08:07,710
+Es lo que hacen los Fremen.
+
+1082
+02:08:10,891 --> 02:08:12,848
+Vamos a entrar en territorio de gusanos.
+
+1083
+02:08:13,477 --> 02:08:15,138
+No podemos caminar como solemos hacerlo.
+
+1084
+02:08:15,312 --> 02:08:16,473
+O estamos muertos.
+
+1085
+02:08:16,647 --> 02:08:18,684
+Hay que caminar como los Fremen.
+
+1086
+02:08:18,857 --> 02:08:20,222
+Se llama el caminar de las arenas.
+
+1087
+02:08:20,651 --> 02:08:22,517
+Al menos según los <i>librofilms</i>
+que teníamos.
+
+1088
+02:08:23,362 --> 02:08:24,602
+Sí, de acuerdo.
+
+1089
+02:08:24,780 --> 02:08:26,236
+Vale. Sígueme.
+
+1090
+02:08:26,407 --> 02:08:28,068
+Imita mis movimientos.
+
+1091
+02:08:41,422 --> 02:08:42,878
+Creo que es la dirección correcta.
+
+1092
+02:10:05,798 --> 02:10:06,798
+Está cerca.
+
+1093
+02:10:07,591 --> 02:10:09,423
+Salgamos de aquí.
+
+1094
+02:10:11,386 --> 02:10:12,386
+Espera.
+
+1095
+02:10:14,181 --> 02:10:15,181
+Es un tambor de arena.
+
+1096
+02:10:20,437 --> 02:10:21,472
+¡Corre!
+
+1097
+02:10:27,694 --> 02:10:29,355
+¡Vamos!
+
+1098
+02:11:41,351 --> 02:11:42,386
+Es un martilleador.
+
+1099
+02:11:47,774 --> 02:11:49,685
+Han activado un martilleador.
+
+1100
+02:12:04,374 --> 02:12:06,536
+¡Paul! ¡Corre!
+
+1101
+02:12:21,266 --> 02:12:22,506
+¡Son enormes!
+
+1102
+02:12:22,684 --> 02:12:23,845
+Qué barbaridad.
+
+1103
+02:12:28,607 --> 02:12:30,097
+Alguien lo ha llamado.
+
+1104
+02:12:40,202 --> 02:12:42,409
+No estamos solos.
+
+1105
+02:13:02,808 --> 02:13:03,889
+No corráis.
+
+1106
+02:13:04,935 --> 02:13:07,347
+Solo malgastaréis
+el agua de vuestros cuerpos.
+
+1107
+02:13:08,522 --> 02:13:09,522
+Quieto.
+
+1108
+02:13:17,197 --> 02:13:18,197
+Stilgar.
+
+1109
+02:13:19,825 --> 02:13:20,860
+Me conoces.
+
+1110
+02:13:20,951 --> 02:13:23,283
+Yo estaba cuando viniste
+al Consejo de mi padre.
+
+1111
+02:13:23,996 --> 02:13:26,033
+El hijo del duque.
+
+1112
+02:13:26,206 --> 02:13:27,412
+¿A qué esperas?
+
+1113
+02:13:27,874 --> 02:13:28,955
+Necesitamos su agua.
+
+1114
+02:13:29,918 --> 02:13:32,000
+Es el muchacho del que os he hablado.
+
+1115
+02:13:32,170 --> 02:13:33,501
+No podemos tocarlo.
+
+1116
+02:13:34,506 --> 02:13:36,417
+¿Cómo va a ser el Lisan al-Gaib?
+
+1117
+02:13:36,675 --> 02:13:37,710
+No ha demostrado serlo.
+
+1118
+02:13:37,884 --> 02:13:39,045
+Son débiles.
+
+1119
+02:13:39,219 --> 02:13:40,425
+Jamis,
+
+1120
+02:13:41,138 --> 02:13:45,177
+han sido valientes
+al atravesar la senda del <i>Shai-Hulud.</i>
+
+1121
+02:13:46,101 --> 02:13:49,059
+No habla ni actúa como los débiles.
+
+1122
+02:13:50,188 --> 02:13:51,895
+Tampoco lo hacía su padre.
+
+1123
+02:13:52,065 --> 02:13:54,022
+Mi martilleador le ha salvado la vida.
+
+1124
+02:13:54,735 --> 02:13:56,851
+Entra en razón, Stilgar.
+
+1125
+02:13:57,237 --> 02:13:58,898
+No es el Elegido.
+
+1126
+02:14:01,700 --> 02:14:03,407
+Tenemos amigos poderosos.
+
+1127
+02:14:03,577 --> 02:14:06,615
+Si nos ayudáis a llegar a Caladan,
+
+1128
+02:14:06,788 --> 02:14:07,994
+se os compensará debidamente.
+
+1129
+02:14:08,165 --> 02:14:10,748
+¿Qué riqueza podéis ofrecer
+más allá del agua
+
+1130
+02:14:11,001 --> 02:14:12,412
+de vuestro cuerpo?
+
+1131
+02:14:17,382 --> 02:14:18,964
+El muchacho es joven.
+
+1132
+02:14:19,134 --> 02:14:21,250
+Puede aprender nuestras costumbres.
+
+1133
+02:14:21,428 --> 02:14:23,510
+Podría tener refugio entre nosotros.
+
+1134
+02:14:24,181 --> 02:14:26,388
+Pero la mujer no está adiestrada.
+
+1135
+02:14:29,144 --> 02:14:30,555
+Y es demasiado mayor para aprender.
+
+1136
+02:15:02,969 --> 02:15:03,969
+Atrás, perros.
+
+1137
+02:15:05,597 --> 02:15:07,713
+Me cortará el cuello.
+
+1138
+02:15:12,896 --> 02:15:14,011
+¿Por qué no has dicho
+
+1139
+02:15:14,106 --> 02:15:16,939
+que poseías el Extraño Arte
+y que eras una guerrera?
+
+1140
+02:15:17,109 --> 02:15:19,191
+La conversación ha sido escasa.
+
+1141
+02:15:19,361 --> 02:15:21,443
+Paz, mujer.
+
+1142
+02:15:21,613 --> 02:15:22,944
+Paz.
+
+1143
+02:15:23,782 --> 02:15:25,272
+Te he juzgado precipitadamente.
+
+1144
+02:15:34,417 --> 02:15:36,078
+Está saliendo el sol.
+
+1145
+02:15:37,003 --> 02:15:38,835
+Debemos llegar al sietch Tabr.
+
+1146
+02:15:40,757 --> 02:15:42,919
+La suerte de estos extranjeros
+se decidirá allí.
+
+1147
+02:15:48,723 --> 02:15:50,339
+Hasta entonces...
+
+1148
+02:15:50,725 --> 02:15:52,932
+estarán bajo mi protección.
+
+1149
+02:15:54,771 --> 02:15:56,728
+Tienen mi palabra.
+
+1150
+02:16:04,823 --> 02:16:06,939
+No habría permitido que les hicieras nada.
+
+1151
+02:16:32,350 --> 02:16:34,216
+Dicen que eres el <i>Mahdi.</i>
+
+1152
+02:16:35,020 --> 02:16:36,727
+Pero pareces un niño.
+
+1153
+02:16:38,356 --> 02:16:41,098
+Has subido por el camino más difícil.
+Sígueme.
+
+1154
+02:16:44,821 --> 02:16:46,437
+¡Debemos irnos!
+
+1155
+02:16:48,700 --> 02:16:50,190
+Dámela.
+
+1156
+02:16:57,292 --> 02:17:00,580
+Tendrás tu propia pistola maula
+cuando te la ganes.
+
+1157
+02:17:00,962 --> 02:17:01,962
+Dámela.
+
+1158
+02:17:07,886 --> 02:17:09,923
+Chani, ocúpate de los recién llegados.
+
+1159
+02:17:10,138 --> 02:17:12,846
+Asegúrate de que lleguen sanos y salvos.
+Vamos.
+
+1160
+02:17:13,099 --> 02:17:14,099
+No quiero que vengan.
+
+1161
+02:17:21,024 --> 02:17:22,185
+Jamis.
+
+1162
+02:17:22,525 --> 02:17:24,892
+He hablado. Calma.
+
+1163
+02:17:25,070 --> 02:17:26,526
+Hablas como un líder.
+
+1164
+02:17:27,614 --> 02:17:29,400
+Pero el líder es el más fuerte.
+
+1165
+02:17:30,742 --> 02:17:32,483
+Ella te ha vencido.
+
+1166
+02:17:33,995 --> 02:17:35,326
+Invoco la regla del amtal.
+
+1167
+02:17:36,498 --> 02:17:40,036
+- No puedes desafiar a una <i>sayyadina.</i>
+- ¿Y quién va a luchar en su nombre?
+
+1168
+02:17:40,543 --> 02:17:42,784
+Jamis, no lo hagas.
+
+1169
+02:17:43,296 --> 02:17:45,378
+No. La noche se desvanece.
+
+1170
+02:17:45,548 --> 02:17:46,548
+Entonces el sol
+
+1171
+02:17:46,800 --> 02:17:48,290
+será testigo de esta muerte.
+
+1172
+02:17:48,468 --> 02:17:50,425
+¿Dónde está su paladín?
+
+1173
+02:18:01,356 --> 02:18:03,267
+Acepto a su paladín.
+
+1174
+02:18:35,640 --> 02:18:39,383
+<i>Paul Atreides morirá...</i>
+
+1175
+02:18:41,313 --> 02:18:45,853
+<i>para que se alce el</i> Kwisatz Haderach.
+
+1176
+02:18:48,653 --> 02:18:51,691
+<i>No tengas miedo.</i>
+
+1177
+02:18:52,407 --> 02:18:53,943
+<i>No te resistas.</i>
+
+1178
+02:19:00,081 --> 02:19:01,947
+<i>Cuando acabas con una vida,</i>
+
+1179
+02:19:02,959 --> 02:19:04,996
+<i>acabas con la tuya propia.</i>
+
+1180
+02:19:36,659 --> 02:19:38,900
+No creo que seas el <i>Lisan al-Gaib.</i>
+
+1181
+02:19:40,580 --> 02:19:42,571
+Pero quiero que mueras con honor.
+
+1182
+02:19:54,177 --> 02:19:56,794
+Este crys me lo dio mi tía abuela.
+
+1183
+02:20:00,225 --> 02:20:02,557
+Está hecho con un diente de <i>Shai-Hulud.</i>
+
+1184
+02:20:02,685 --> 02:20:04,221
+El gran gusano de arena.
+
+1185
+02:20:06,106 --> 02:20:08,643
+Será un gran honor que mueras empuñándolo.
+
+1186
+02:20:13,154 --> 02:20:15,361
+¿Dónde está el de otro mundo?
+
+1187
+02:20:19,744 --> 02:20:21,610
+Jamis es un buen guerrero.
+
+1188
+02:20:22,664 --> 02:20:24,246
+No dejará que sufras.
+
+1189
+02:20:25,708 --> 02:20:27,324
+Chani...
+
+1190
+02:20:39,597 --> 02:20:40,758
+Nada.
+
+1191
+02:21:36,321 --> 02:21:38,358
+Que tu cuchillo se astille y se rompa.
+
+1192
+02:21:46,247 --> 02:21:48,113
+Da la bienvenida a mi hoja.
+
+1193
+02:21:51,711 --> 02:21:53,372
+Este mundo te matará.
+
+1194
+02:21:56,799 --> 02:21:58,415
+Será más rápido así.
+
+1195
+02:22:38,132 --> 02:22:39,338
+¿Te rindes?
+
+1196
+02:22:42,011 --> 02:22:43,922
+El muchacho desconoce nuestras reglas.
+
+1197
+02:22:44,472 --> 02:22:46,634
+Nadie puede rendirse,
+según la regla del amtal.
+
+1198
+02:22:46,808 --> 02:22:48,424
+La muerte es la única salida.
+
+1199
+02:22:56,901 --> 02:22:58,062
+¿Está jugando con él?
+
+1200
+02:23:00,280 --> 02:23:01,736
+Paul nunca ha matado a un hombre.
+
+1201
+02:23:12,584 --> 02:23:16,703
+Kwisatz Haderach.
+
+1202
+02:23:20,008 --> 02:23:22,796
+Kwisatz Haderach.
+
+1203
+02:23:23,177 --> 02:23:26,966
+<i>Asciende. Álzate.</i>
+
+1204
+02:25:19,669 --> 02:25:21,285
+Ahora eres uno de los nuestros.
+
+1205
+02:25:21,546 --> 02:25:23,378
+Una vida por otra.
+
+1206
+02:25:23,548 --> 02:25:25,414
+Ven con nosotros al <i>sietch Tabr.</i>
+
+1207
+02:25:26,634 --> 02:25:28,124
+Paul tiene que salir de este mundo.
+
+1208
+02:25:28,302 --> 02:25:30,168
+Tendréis medios. Tenéis contrabandistas.
+
+1209
+02:25:30,346 --> 02:25:31,381
+Tenéis naves.
+
+1210
+02:25:32,014 --> 02:25:33,014
+Tenéis...
+
+1211
+02:25:33,975 --> 02:25:35,932
+El emperador nos ha enviado a este lugar.
+
+1212
+02:25:37,437 --> 02:25:39,098
+Mi padre no vino...
+
+1213
+02:25:40,064 --> 02:25:41,771
+ni por la especia...
+
+1214
+02:25:42,483 --> 02:25:44,019
+ni por la riqueza,
+
+1215
+02:25:44,944 --> 02:25:47,151
+sino por la fuerza de vuestro pueblo.
+
+1216
+02:25:50,074 --> 02:25:52,031
+Mi destino está en el desierto.
+
+1217
+02:25:54,746 --> 02:25:56,077
+Puedo verlo.
+
+1218
+02:25:58,666 --> 02:26:00,202
+Si nos aceptáis,
+
+1219
+02:26:01,169 --> 02:26:02,705
+os seguiremos.
+
+1220
+02:26:51,427 --> 02:26:52,883
+El poder del desierto.
+
+1221
+02:26:54,305 --> 02:26:55,887
+Esto es solo el principio.
+
+1222
+02:27:33,010 --> 02:27:35,217
+BASADA EN LA NOVELA <i>DUNE,</i>
+DE FRANK HERBERT
+
+1223
+02:35:16,890 --> 02:35:18,881
+Subtítulos: Eva Garcés
+
+1223
+02:35:19,305 --> 02:36:19,841
+Apóyanos y conviértete en miembro VIP Para
+eliminar todos los anuncios www.OpenSubtitles.org
