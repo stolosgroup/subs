@@ -1,0 +1,3 @@
+@haifauniversity:registry=https://npm.pkg.github.com/
+//npm.pkg.github.com/:_authToken=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
+//registry.npmjs.org/:_authToken=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 
