@@ -1,0 +1,2 @@
+@utt:registry=https://registry.npmjs.org/
+//registry.npmjs.org/:_authToken=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
