@@ -1,70 +1,3643 @@
-       ÜÛÛÛÛßÛÜ             ÜÛÛÛÛßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßÛ
-     ÜÛßÛÛß   ßÛÜ         ÜÛÛÛÛß                                               Û
-   ÜÛÛÛÛß       ßÛÜ     ÜÛÛÜÛß                                                 Û
- ÜÛÛÛÛß           ßÛÜ ÜÛÛÛÛß                                                   Û
-ÛÛÜÛß               ÛÛÛÛÛß                                                     Û
-ÛÛßÛÜ             ÜÛÛÜÛß                                                       Û
-ß   ßÛÜ         ÜÛÛÛÛß                                                         Û
-      ßÛÜ     ÜÛßÛÛß                                                           Û
-        ßÛÜ ÜÛÛÛÛß                                                             Û
-          ÛÛÛÛÛß                             Û     Û     Û  Û                  Û
-        ÜÛÛÜÛß  ÜÜ  ÜÜÜ   ÜÜ  ÜÜÜ   ÜÜÜ Ü  Ü ÛÜÜ  ÜÛÜ ß ÜÛÜ Û  ÜÜ   ÜÜÜ        Û
-      ÜÛÛÛÛß   Û  Û Û  Û Û  Û Û  Û ÛÜÜÜ Û  Û Û  Û  Û  Û  Û  Û Û  Û ÛÜÜÜ        Û
-    ÜÛßÛÛß     Û  Û Û  Û Ûßß  Û  Û    Û Û  Û Û  Û  Û  Û  Û  Û Ûßß     Û        Û
-  ÜÛÛÛÛß        ßß  Ûßß   ßß  ß  ß ßßß   ßßß ßßß   ß  ß  ß  ß  ßß  ßßß .org    Û
-ÜÛÛÛÛß              Û            [www.opensubtiles.org]                        Û
-ÛÛÛß                                                                           Û
-Ûß                                                                             Û
-Û               "FBI" Double Blind (2022) HEBREW 1CD subtitles                 Û
-Û                                                                             Û
-Û                                                                             Û
-Û  MOVIE INFORMATION                                                          Û
-Û  -=-=-=-=-=-=-=-=-                                                          Û
-Û  IMDB Link      : http://www.imdb.com/title/tt22505886/                     Û
-Û  IMDB Score     : 8.0 / 10 (0 votes)                                        Û
-Û                                                                             Û
-Û                                                                             Û
-Û  SUBTITLE INFORMATION                                                       Û
-Û  -=-=-=-=-=-=-=-=-=-=                                                       Û
-Û  Author/Uploader: SuperOne                                                  Û
-Û  Link           : http://www.opensubtitles.org/subtitles/9325454            Û
-Û  Download       : http://www.opensubtitles.org/download/sub/9325454         Û
-Û  Filename       : fbi.s05.e06.double.blind.(2022).heb.1cd.(9325454).zip     Û
-Û  Downloads      : 19 times                                                  Û
-Û  Language       : Hebrew                                                    Û
-Û  Format         : srt                                                       Û
-Û  Total          : 1 subtitle file                                           Û
-Û  Uploaded       : 2022-11-24 08:56:26                                       Û
-Û  nfo created    : 2022-11-28 20:36:53                                       Û
-Û  Release Name   :  FBI.S05E06.Double.Blind.720p.AMZN.WEB-DL.DDP5.1.H.264-NT Û
-Û  FPS            : 0.000                                                     Û
-Û                                                                             Û
-Û                                                                             Û
-Û  1.CD INFORMATION                                                           Û
-Û  ====================                                                       Û
-Û  Filename       : FBI.S05E06.Double.Blind.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb Û
-Û  Size           : 0 bytes                                                   Û
-Û  MD5            : d41d8cd98f00b204e9800998ecf8427e                          Û
-Û                                                                             Û
-Û                                                                             Û
-ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-Û                                                                              Û
-Û  Greetings fly to:                                                          ÜÛ
-Û  artsubs.wz.cz davidbillemont5.free.fr divxsubtitles.net                  ÜÛÛÛ
-Û  gabest.dyndns.org kloofy.net ontertitel.com podnapisi.net              ÜÛÛÛÛÛ
-Û  subtitles.cz subtitles.ro subtitles.shadowork.net titles.to          ÜÛßÛÛß
-Û  titulky.com v2.frigorifix.com mongoland.site.cz cesketitulky.com   ÜÛÛÛÛß
-Û                                                                   ÜÛÛÛÛß
-Û  ...and to all we forgot                                        ÜÛÛÜÛß
-Û                                                               ÜÛÛÛÛßÛÜ
-Û                                                             ÜÛßÛÛß   ßÛÜ
-Û                                                           ÜÛÛÛÛß       ßÛÜ
-Û                                                         ÜÛÛÛÛß           ßÛÜ Ü
-Û                                                       ÜÛÛÜÛß               ÛÛÛ
-Û   We set the standards...                           ÜÛÛÛÛßÛÜ             ÜÛÛÛÛ
-Û          ...we are the benchmark                  ÜÛßÛÛß   ßÛÜ         ÜÛÛÛÛß
-Û                                                 ÜÛÛÛÛß       ßÛÜ     ÜÛÛÛÛß
-Û                                               ÜÛÛÛÛß           ßÛÜ ÜÛÛÛÛß
-Û                                             ÜÛÛÜÛß               ÛÛÛÛÛß
-Û                                           ÜÛÛÛÛßÛÜ             ÜÛÛÛÛß
-ÛÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÛÛÛÛß   ßÛÜ         ÜÛÛÛÛß nf0 by FcR
+1
+00:00:01,738 --> 00:00:03,609
+- Cheers.
+- [LAUGHS]
+
+2
+00:00:04,270 --> 00:00:05,708
+Can we get another round of martinis
+
+3
+00:00:05,732 --> 00:00:08,096
+- when you get a second?
+- No, no more for me.
+
+4
+00:00:08,119 --> 00:00:11,236
+Oh, come on.
+It took me six months to get you here.
+
+5
+00:00:11,259 --> 00:00:13,144
+Stay for one more.
+
+6
+00:00:13,167 --> 00:00:15,189
+You're right. It's been too long.
+
+7
+00:00:15,214 --> 00:00:18,304
+It's just work's been crazy, and Luke's
+
+8
+00:00:18,329 --> 00:00:21,065
+- starting school this year.
+- Already?
+
+9
+00:00:21,088 --> 00:00:24,088
+I swear, the last time I saw him,
+he was still a baby.
+
+10
+00:00:24,112 --> 00:00:26,612
+Oh, he is a full little person now.
+
+11
+00:00:26,637 --> 00:00:28,179
+I had to put the camera
+back in his room.
+
+12
+00:00:28,204 --> 00:00:29,746
+He's been getting up
+in the middle of the night
+
+13
+00:00:29,771 --> 00:00:31,051
+and getting out all his books or toys.
+
+14
+00:00:31,076 --> 00:00:32,445
+Oh.
+
+15
+00:00:32,469 --> 00:00:34,012
+Of course, the one night I go out,
+
+16
+00:00:34,036 --> 00:00:36,057
+he is out like a light.
+
+17
+00:00:37,231 --> 00:00:38,712
+He is getting so big.
+
+18
+00:00:38,735 --> 00:00:40,670
+I know.
+
+19
+00:00:41,128 --> 00:00:42,478
+Who is that?
+
+20
+00:00:45,917 --> 00:00:47,807
+I... uh...
+
+21
+00:00:47,832 --> 00:00:50,201
+I... I don't know.
+
+22
+00:00:50,225 --> 00:00:52,465
+Quick, give me your phone.
+
+23
+00:00:52,488 --> 00:00:55,816
+[TENSE MUSIC]
+
+24
+00:00:55,840 --> 00:00:58,819
+[PHONE RINGING]
+
+25
+00:00:58,843 --> 00:01:03,128
+♪ ♪
+
+26
+00:01:03,386 --> 00:01:04,929
+Hello?
+
+27
+00:01:04,953 --> 00:01:06,799
+Carmen, there's a man in Luke's room.
+
+28
+00:01:06,823 --> 00:01:08,186
+- What?
+- There's a man.
+
+29
+00:01:08,210 --> 00:01:09,715
+I can see him on the camera.
+
+30
+00:01:09,739 --> 00:01:16,375
+♪ ♪
+
+31
+00:01:16,399 --> 00:01:18,551
+Can you see him?
+
+32
+00:01:18,575 --> 00:01:20,161
+[GUNSHOT]
+
+33
+00:01:20,185 --> 00:01:21,206
+- [GASPS]
+- [SCREAMS]
+
+34
+00:01:21,230 --> 00:01:22,771
+Carmen.
+
+35
+00:01:22,795 --> 00:01:29,673
+♪ ♪
+
+36
+00:01:34,534 --> 00:01:38,756
+Synced & corrected by -robtor-
+www.addic7ed.com
+
+37
+00:01:40,292 --> 00:01:42,313
+- Hey.
+- Hey.
+
+38
+00:01:42,337 --> 00:01:44,837
+- You with me tonight?
+- I guess so.
+
+39
+00:01:44,860 --> 00:01:46,317
+You doing OK?
+
+40
+00:01:46,341 --> 00:01:47,927
+OA said that you went to the doctor.
+
+41
+00:01:47,951 --> 00:01:50,543
+- You weren't feeling well?
+- I'm fine.
+
+42
+00:01:51,347 --> 00:01:53,847
+The intruder broke in around 10:10 p.m.,
+
+43
+00:01:53,871 --> 00:01:55,979
+broke that glass, and came
+through that back door.
+
+44
+00:01:56,003 --> 00:01:57,938
+OK, are there any
+external cameras out there?
+
+45
+00:01:57,962 --> 00:02:00,027
+No, the house has an alarm system,
+
+46
+00:02:00,051 --> 00:02:01,593
+but the kid's mother,
+Liza Peters, she was out,
+
+47
+00:02:01,617 --> 00:02:02,855
+So it hadn't been activated yet.
+
+48
+00:02:02,879 --> 00:02:04,216
+OK.
+
+49
+00:02:04,240 --> 00:02:05,641
+The abductor comes through the kitchen
+
+50
+00:02:05,665 --> 00:02:08,514
+and goes up these stairs,
+kills the nanny,
+
+51
+00:02:08,538 --> 00:02:11,081
+and takes five-year-old
+Luke Peters from his bed.
+
+52
+00:02:12,127 --> 00:02:14,085
+OK, what do we know about the victim?
+
+53
+00:02:14,109 --> 00:02:17,044
+Not much. Carmen Hernandez, 34.
+
+54
+00:02:17,068 --> 00:02:20,307
+Lived in Queens,
+worked full-time as the family's nanny.
+
+55
+00:02:20,331 --> 00:02:22,919
+Crazy thing is Mom knew
+the guy was in the house
+
+56
+00:02:22,943 --> 00:02:25,182
+before she did,
+saw it on the baby monitor.
+
+57
+00:02:25,206 --> 00:02:27,663
+- This thing recording?
+- No.
+
+58
+00:02:27,687 --> 00:02:30,230
+Apparently, it just has
+a live feed, no playback.
+
+59
+00:02:30,254 --> 00:02:32,043
+OK, where's the mom?
+
+60
+00:02:33,668 --> 00:02:37,629
+I couldn't see much.
+The man was across the room.
+
+61
+00:02:37,653 --> 00:02:39,936
+OK, do you remember how tall he was
+
+62
+00:02:39,960 --> 00:02:41,634
+or what color hair he had?
+
+63
+00:02:41,658 --> 00:02:45,550
+He was wearing a black tracksuit jacket.
+
+64
+00:02:45,574 --> 00:02:47,421
+I'm sorry. That's all I could see.
+
+65
+00:02:47,445 --> 00:02:48,858
+That's OK.
+
+66
+00:02:48,882 --> 00:02:50,752
+Just you and Luke living here?
+
+67
+00:02:51,319 --> 00:02:53,733
+What about his father?
+He in the picture?
+
+68
+00:02:53,757 --> 00:02:54,950
+When he can be. We're not together.
+
+69
+00:02:54,974 --> 00:02:56,257
+He lives in London.
+
+70
+00:02:56,281 --> 00:02:57,911
+So you two have a cordial relationship?
+
+71
+00:02:57,935 --> 00:02:59,478
+Yes, we're good friends.
+
+72
+00:02:59,502 --> 00:03:01,914
+So there is no chance that he...?
+
+73
+00:03:01,938 --> 00:03:03,294
+No.
+
+74
+00:03:03,984 --> 00:03:08,877
+We had our differences,
+but, no, John's a good person.
+
+75
+00:03:08,901 --> 00:03:11,359
+He'd never do anything like this.
+
+76
+00:03:11,383 --> 00:03:13,579
+Can you think of anybody that might?
+
+77
+00:03:13,603 --> 00:03:15,537
+Anyone who'd shoot my nanny
+and kidnap my son?
+
+78
+00:03:15,561 --> 00:03:16,919
+No.
+
+79
+00:03:18,042 --> 00:03:20,193
+I can't believe this
+is really happening.
+
+80
+00:03:20,216 --> 00:03:23,718
+I know. I'm... I'm really sorry.
+
+81
+00:03:24,461 --> 00:03:26,418
+OK, so the first thing we're gonna need
+
+82
+00:03:26,442 --> 00:03:28,158
+is a sample of Luke's DNA,
+
+83
+00:03:28,182 --> 00:03:29,377
+so if you have a toothbrush, a comb...
+
+84
+00:03:29,401 --> 00:03:31,117
+Yeah, sure.
+
+85
+00:03:31,141 --> 00:03:32,814
+And we're also going to need
+to monitor your phone lines.
+
+86
+00:03:32,838 --> 00:03:34,425
+Is that OK?
+
+87
+00:03:34,449 --> 00:03:36,253
+Yeah, of course, whatever you need.
+
+88
+00:03:37,336 --> 00:03:39,377
+I just want my son back.
+
+89
+00:03:39,759 --> 00:03:42,259
+All right, morning, folks.
+On the docket today,
+
+90
+00:03:42,283 --> 00:03:43,913
+we've got a regular horror story,
+
+91
+00:03:43,937 --> 00:03:45,740
+every parent's worst nightmare.
+
+92
+00:03:45,764 --> 00:03:48,048
+Five-year-old Luke Peters
+was taken from his house
+
+93
+00:03:48,072 --> 00:03:49,876
+a little after 10:00 p.m. last night,
+
+94
+00:03:49,900 --> 00:03:51,442
+which means he's been missing
+for eight hours.
+
+95
+00:03:51,466 --> 00:03:53,139
+We have no footage, no witnesses,
+
+96
+00:03:53,163 --> 00:03:55,533
+except the mother,
+who got a glimpse of the perp
+
+97
+00:03:55,557 --> 00:03:57,055
+on the nanny cam.
+
+98
+00:03:57,079 --> 00:03:59,319
+Not a lot of detail
+'cause he was in the dark,
+
+99
+00:03:59,343 --> 00:04:01,235
+which is precisely where we are,
+
+100
+00:04:01,258 --> 00:04:04,122
+so let's get to work and start
+shedding some light on this, yeah?
+
+101
+00:04:04,146 --> 00:04:05,760
+Thank you very much.
+
+102
+00:04:05,784 --> 00:04:07,894
+- Kelly, light me up.
+- Ballistics report.
+
+103
+00:04:07,918 --> 00:04:09,591
+Bullets that killed the nanny, Carmen,
+
+104
+00:04:09,615 --> 00:04:11,550
+were from a 9-millimeter,
+but there's no match
+
+105
+00:04:11,574 --> 00:04:13,028
+- in the system.
+- Right, OK.
+
+106
+00:04:13,052 --> 00:04:14,074
+So we need agents going door-to-door
+
+107
+00:04:14,098 --> 00:04:15,509
+in the Peters' neighborhood.
+
+108
+00:04:15,533 --> 00:04:17,120
+Ethan, you want to take care of that?
+
+109
+00:04:17,144 --> 00:04:18,338
+Make sure you dig into
+
+110
+00:04:18,362 --> 00:04:20,036
+the local sex offender registry, yeah?
+
+111
+00:04:20,060 --> 00:04:22,038
+So what do we know about the family?
+
+112
+00:04:22,062 --> 00:04:25,476
+Luke lives with the mother,
+Liza Peters, in Ditmas Park.
+
+113
+00:04:25,500 --> 00:04:27,043
+She's a partner at a consulting firm
+
+114
+00:04:27,067 --> 00:04:29,088
+in Midtown, JBD Management.
+
+115
+00:04:29,112 --> 00:04:31,786
+- And what about the father?
+- John Bryant, 43.
+
+116
+00:04:31,810 --> 00:04:34,225
+He works for a private
+equity firm in London.
+
+117
+00:04:34,249 --> 00:04:36,879
+So he lives in London,
+and the wife lives in New York?
+
+118
+00:04:36,903 --> 00:04:39,490
+That is because they're divorced,
+but on good terms.
+
+119
+00:04:39,514 --> 00:04:41,622
+He seems happily remarried
+to a woman named Andrea.
+
+120
+00:04:41,646 --> 00:04:43,189
+Yeah, he's actually
+on his way to New York.
+
+121
+00:04:43,213 --> 00:04:44,757
+He should be here
+in about seven hours or so.
+
+122
+00:04:44,781 --> 00:04:46,497
+All right, so let's assume
+Luke's abduction
+
+123
+00:04:46,521 --> 00:04:48,761
+is not connected to the father.
+What do we know about Liza?
+
+124
+00:04:48,784 --> 00:04:51,952
+Does she have any skeletons
+in the closet, any enemies?
+
+125
+00:04:51,976 --> 00:04:53,244
+Doesn't appear that way.
+
+126
+00:04:53,268 --> 00:04:55,245
+We've been through
+her phone records, financials.
+
+127
+00:04:55,269 --> 00:04:56,463
+No red flags popping anywhere.
+
+128
+00:04:56,487 --> 00:04:58,161
+I mean, if it's a pure money grab,
+
+129
+00:04:58,185 --> 00:04:59,641
+there are much better targets out there.
+
+130
+00:04:59,665 --> 00:05:00,903
+Plus, we haven't seen
+anything in the way
+
+131
+00:05:00,927 --> 00:05:02,904
+of a ransom demand... not yet, anyway.
+
+132
+00:05:02,928 --> 00:05:05,038
+So why take this little boy?
+What's the endgame?
+
+133
+00:05:05,062 --> 00:05:06,778
+Thanks.
+
+134
+00:05:06,802 --> 00:05:08,475
+ERT just pulled three clean prints
+
+135
+00:05:08,500 --> 00:05:10,608
+from the back door of Liza's house.
+
+136
+00:05:10,632 --> 00:05:12,293
+Let there be light.
+
+137
+00:05:12,851 --> 00:05:16,615
+Thanks. Hey, Liza?
+
+138
+00:05:16,639 --> 00:05:19,879
+Hi, do you mind if we ask you
+a few questions?
+
+139
+00:05:19,903 --> 00:05:22,533
+Yeah, I was just...
+
+140
+00:05:22,557 --> 00:05:25,362
+[SOFT DRAMATIC MUSIC]
+
+141
+00:05:25,387 --> 00:05:28,843
+♪ ♪
+
+142
+00:05:28,867 --> 00:05:30,976
+So we found three fingerprints
+
+143
+00:05:31,000 --> 00:05:34,894
+from the abductor's entrance...
+yours, Carmen's, and this guy,
+
+144
+00:05:34,918 --> 00:05:36,634
+Thomas Mitchum.
+
+145
+00:05:36,658 --> 00:05:40,682
+♪ ♪
+
+146
+00:05:40,706 --> 00:05:42,293
+I take it you know who he is.
+
+147
+00:05:42,317 --> 00:05:44,338
+Yeah, that's Carmen's ex-boyfriend.
+
+148
+00:05:45,252 --> 00:05:47,297
+He's a drug addict and a thief.
+
+149
+00:05:47,321 --> 00:05:49,691
+He stole my watch three months ago,
+
+150
+00:05:49,715 --> 00:05:51,170
+which I tried to overlook
+because of Carmen.
+
+151
+00:05:51,194 --> 00:05:53,042
+OK, are him and Carmen still in touch?
+
+152
+00:05:53,066 --> 00:05:54,538
+I don't think so.
+
+153
+00:05:54,562 --> 00:05:56,220
+So there would be no legitimate reason
+
+154
+00:05:56,244 --> 00:05:57,437
+- for him to be here last night?
+- No.
+
+155
+00:05:57,461 --> 00:05:59,134
+I made it clear to Carmen
+
+156
+00:05:59,158 --> 00:06:00,615
+I never wanted to see him again,
+
+157
+00:06:00,639 --> 00:06:02,790
+and I sure as hell
+didn't want him near my son.
+
+158
+00:06:03,086 --> 00:06:05,620
+Oh, my God. Thomas took Luke
+
+159
+00:06:05,644 --> 00:06:08,187
+It's OK. It's OK.
+
+160
+00:06:08,211 --> 00:06:11,322
+Any idea where Thomas Mitchum
+might be staying?
+
+161
+00:06:11,346 --> 00:06:14,541
+Yes, I dropped Carmen off there once.
+
+162
+00:06:14,565 --> 00:06:17,110
+He was living at his aunt's house.
+
+163
+00:06:17,134 --> 00:06:20,112
+It was right near
+the cemetery in Maspeth.
+
+164
+00:06:20,137 --> 00:06:23,115
+[TENSE MUSIC]
+
+165
+00:06:23,139 --> 00:06:27,946
+♪ ♪
+
+166
+00:06:27,970 --> 00:06:29,774
+In position.
+
+167
+00:06:29,798 --> 00:06:30,949
+Copy that, stand by.
+
+168
+00:06:30,973 --> 00:06:36,302
+♪ ♪
+
+169
+00:06:36,326 --> 00:06:38,870
+We're gonna enter
+as quietly as possible.
+
+170
+00:06:38,894 --> 00:06:40,915
+We have no way of confirming
+that Mitchum is working alone,
+
+171
+00:06:40,939 --> 00:06:43,310
+and we do not want to alert
+anyone to our presence.
+
+172
+00:06:43,334 --> 00:06:46,095
+We make a sound,
+it could get this kid killed.
+
+173
+00:06:46,877 --> 00:06:48,576
+I've got eyes on Mitchum.
+
+174
+00:06:49,627 --> 00:06:51,752
+He's moving around
+the front of the house.
+
+175
+00:06:51,776 --> 00:06:53,146
+Southeast corner.
+
+176
+00:06:53,170 --> 00:07:00,045
+♪ ♪
+
+177
+00:07:13,755 --> 00:07:15,951
+All right, Mitchum is
+headed to the back room.
+
+178
+00:07:15,975 --> 00:07:23,156
+♪ ♪
+
+179
+00:07:35,473 --> 00:07:37,387
+[FLOOR CREAKS]
+
+180
+00:07:38,911 --> 00:07:40,715
+I think he heard you.
+
+181
+00:07:40,738 --> 00:07:42,648
+Mitchum is headed your way.
+
+182
+00:07:42,672 --> 00:07:44,937
+♪ ♪
+
+183
+00:07:44,961 --> 00:07:49,375
+Mitchum, don't move! Hands up.
+
+184
+00:07:49,399 --> 00:07:50,788
+We got Mitchum in the living room.
+
+185
+00:07:50,812 --> 00:07:53,379
+♪ ♪
+
+186
+00:07:53,403 --> 00:07:55,120
+Hey!
+
+187
+00:07:55,144 --> 00:07:58,036
+♪ ♪
+
+188
+00:07:58,060 --> 00:08:00,387
+- Hey.
+- Luke?
+
+189
+00:08:00,411 --> 00:08:02,867
+Freeze! I said drop it.
+
+190
+00:08:02,891 --> 00:08:04,391
+Hands up. On your feet now.
+
+191
+00:08:04,415 --> 00:08:05,913
+Back up towards me.
+
+192
+00:08:05,937 --> 00:08:08,439
+Luke? Hey, buddy?
+
+193
+00:08:08,463 --> 00:08:10,615
+- Luke?
+- Back up.
+
+194
+00:08:10,639 --> 00:08:12,920
+♪ ♪
+
+195
+00:08:12,944 --> 00:08:16,533
+Luke? Hey, buddy?
+
+196
+00:08:16,557 --> 00:08:18,449
+It's okay. You can come out.
+
+197
+00:08:18,473 --> 00:08:20,319
+♪ ♪
+
+198
+00:08:20,343 --> 00:08:21,755
+Glock 19, 9-millimeter.
+
+199
+00:08:21,779 --> 00:08:24,105
+- I can explain.
+- Anyone else in the house?
+
+200
+00:08:24,129 --> 00:08:25,456
+No. What the hell is this?
+
+201
+00:08:25,480 --> 00:08:27,805
+- Come on.
+- Luke?
+
+202
+00:08:27,829 --> 00:08:29,937
+♪ ♪
+
+203
+00:08:29,961 --> 00:08:31,766
+Hey! He's not here.
+
+204
+00:08:31,790 --> 00:08:34,072
+The kid's not here.
+Mitchum, where is he?
+
+205
+00:08:34,096 --> 00:08:36,205
+Where the hell is Luke Peters?
+
+206
+00:08:36,229 --> 00:08:38,361
+♪ ♪
+
+207
+00:08:41,250 --> 00:08:43,379
+I don't know where Luke is.
+I didn't take him.
+
+208
+00:08:43,403 --> 00:08:45,423
+Seriously, what would I do with a kid?
+
+209
+00:08:45,447 --> 00:08:47,991
+We know that you were there last night.
+
+210
+00:08:48,015 --> 00:08:49,732
+[SIGHS]
+
+211
+00:08:49,756 --> 00:08:52,735
+[SOFT DRAMATIC MUSIC]
+
+212
+00:08:52,759 --> 00:08:55,652
+- Is that Carmen?
+- Yes.
+
+213
+00:08:55,676 --> 00:08:58,263
+- What happened?
+- Why don't you tell us?
+
+214
+00:08:58,287 --> 00:08:59,743
+What do you mean?
+
+215
+00:08:59,767 --> 00:09:01,352
+We found your prints at the scene.
+
+216
+00:09:01,777 --> 00:09:03,399
+Then today,
+we find you with a gun, so...
+
+217
+00:09:03,423 --> 00:09:05,836
+No, I didn't kill Carmen. I loved her.
+
+218
+00:09:05,860 --> 00:09:08,644
+I have three domestic violence
+reports that say otherwise.
+
+219
+00:09:09,019 --> 00:09:10,477
+That was a long time ago.
+
+220
+00:09:12,924 --> 00:09:16,014
+Look, I'm not perfect,
+but I didn't kill her.
+
+221
+00:09:18,307 --> 00:09:20,946
+So what happened?
+Why were you there last night?
+
+222
+00:09:21,484 --> 00:09:24,071
+We was just hanging out,
+like Carmen and I always do.
+
+223
+00:09:24,095 --> 00:09:26,779
+- We...
+- Like you always do?
+
+224
+00:09:28,029 --> 00:09:30,817
+I wait till she puts
+Luke to bed, then I go over,
+
+225
+00:09:30,841 --> 00:09:32,297
+then I leave before Liza gets back.
+
+226
+00:09:32,321 --> 00:09:33,864
+I thought you and Carmen
+weren't dating anymore.
+
+227
+00:09:33,888 --> 00:09:35,344
+- Says who?
+- Liza.
+
+228
+00:09:35,368 --> 00:09:36,543
+Well, she's wrong.
+
+229
+00:09:38,988 --> 00:09:42,046
+Carmen probably
+just didn't want her to know.
+
+230
+00:09:42,571 --> 00:09:44,264
+So how late were you there last night?
+
+231
+00:09:44,288 --> 00:09:47,051
+I don't know. A little after 10:00.
+
+232
+00:09:47,075 --> 00:09:49,438
+OK, did you notice anyone else
+in the neighborhood when you left?
+
+233
+00:09:49,462 --> 00:09:50,904
+No.
+
+234
+00:09:52,446 --> 00:09:54,711
+There was a car.
+
+235
+00:09:54,735 --> 00:09:57,238
+It was parked out at the curb
+about a block from the house.
+
+236
+00:09:58,477 --> 00:09:59,697
+Guys were just sitting in it.
+
+237
+00:09:59,721 --> 00:10:01,020
+What kind of car?
+
+238
+00:10:01,044 --> 00:10:05,111
+I don't know, um, it was a black sedan,
+
+239
+00:10:05,135 --> 00:10:09,115
+but I remember that
+their left tail light was out.
+
+240
+00:10:09,139 --> 00:10:10,726
+I thought about going and telling them,
+
+241
+00:10:10,750 --> 00:10:12,293
+but it was already so late.
+
+242
+00:10:12,317 --> 00:10:18,951
+♪ ♪
+
+243
+00:10:18,975 --> 00:10:22,086
+- How are we doing, Elise?
+- Still looking.
+
+244
+00:10:22,110 --> 00:10:23,740
+There's no cameras
+near where the car was parked.
+
+245
+00:10:23,764 --> 00:10:25,306
+Ballistics from Mitchum's gun
+
+246
+00:10:25,330 --> 00:10:27,004
+weren't a match for the bullets
+that killed Carmen.
+
+247
+00:10:27,028 --> 00:10:28,352
+It looks like we're back to square one.
+
+248
+00:10:28,376 --> 00:10:30,181
+Hey, I got video of the black sedan.
+
+249
+00:10:30,205 --> 00:10:31,486
+Yeah.
+
+250
+00:10:31,510 --> 00:10:33,226
+This is at 9:58 p.m.,
+
+251
+00:10:33,250 --> 00:10:35,523
+12 minutes before Liza's 911 call.
+
+252
+00:10:35,547 --> 00:10:37,779
+Yeah, can we run those plates?
+
+253
+00:10:38,654 --> 00:10:40,365
+They're bogus, come back
+to a Toyota Highlander.
+
+254
+00:10:40,389 --> 00:10:41,496
+- OK.
+- So what?
+
+255
+00:10:41,520 --> 00:10:43,154
+Rewind it.
+
+256
+00:10:44,437 --> 00:10:47,415
+All right, so it looks like
+there's four, maybe five guys.
+
+257
+00:10:47,440 --> 00:10:50,225
+Can you see if you can get
+a shot of the driver or no?
+
+258
+00:10:52,279 --> 00:10:54,161
+OK, black hat, track suit.
+
+259
+00:10:54,184 --> 00:10:55,379
+It's got to be the guy
+Liza saw on the nanny cam.
+
+260
+00:10:55,403 --> 00:10:57,250
+I want IDs on everybody in that car.
+
+261
+00:10:57,274 --> 00:10:59,210
+OK, I'll try, but most
+of them are in the shadow.
+
+262
+00:10:59,234 --> 00:11:00,732
+Can you track them back any further,
+
+263
+00:11:00,756 --> 00:11:03,504
+- try to get a better angle?
+- Yeah, we're looking. We're looking.
+
+264
+00:11:04,195 --> 00:11:05,346
+All right, come on,
+come on, come on, let's go.
+
+265
+00:11:05,370 --> 00:11:06,946
+What are we seeing?
+
+266
+00:11:08,321 --> 00:11:10,003
+- I got 'em.
+- Yeah?
+
+267
+00:11:10,027 --> 00:11:12,135
+They stopped at a food cart
+half a mile back.
+
+268
+00:11:12,159 --> 00:11:13,745
+Still not a great look into the vehicle,
+
+269
+00:11:13,769 --> 00:11:15,530
+but I think I can get the driver.
+
+270
+00:11:15,554 --> 00:11:17,889
+Yeah, hey, better an egg
+today than a hen tomorrow.
+
+271
+00:11:17,913 --> 00:11:19,601
+Come on. Let's see, come on.
+
+272
+00:11:21,342 --> 00:11:24,888
+- Boom.
+- OK.
+
+273
+00:11:24,912 --> 00:11:27,238
+OK, eyes up, people.
+
+274
+00:11:27,261 --> 00:11:30,067
+Akhmad Petrov,
+43-year-old Chechen national.
+
+275
+00:11:30,091 --> 00:11:31,937
+He's on Interpol's most wanted list,
+
+276
+00:11:31,961 --> 00:11:34,592
+runs some group called the
+Chechen Revolutionary Regiment.
+
+277
+00:11:34,616 --> 00:11:36,246
+Yeah, that's a fancy name
+
+278
+00:11:36,270 --> 00:11:38,379
+for a terrorist organization.
+These guys are legit.
+
+279
+00:11:38,403 --> 00:11:41,426
+They're responsible for
+several high-profile bombings
+
+280
+00:11:41,450 --> 00:11:43,688
+and political assassinations
+throughout Eastern Europe.
+
+281
+00:11:43,712 --> 00:11:45,298
+So what the hell do
+a bunch of Chechen terrorists
+
+282
+00:11:45,322 --> 00:11:48,712
+want with a five-year-old kid
+named Luke from Brooklyn?
+
+283
+00:11:49,240 --> 00:11:51,174
+♪ ♪
+
+284
+00:11:51,198 --> 00:11:53,767
+Chechen terrorists?
+That's who took Luke?
+
+285
+00:11:54,768 --> 00:11:56,113
+Yeah.
+
+286
+00:11:56,856 --> 00:12:00,009
+That doesn't make any sense.
+I mean, he's just a little boy.
+
+287
+00:12:00,033 --> 00:12:01,837
+Why the hell would they...
+
+288
+00:12:01,861 --> 00:12:03,534
+We were hoping you could tell us.
+
+289
+00:12:03,558 --> 00:12:06,407
+- I...
+- OK.
+
+290
+00:12:06,431 --> 00:12:09,975
+This is Akhmad Petrov.
+
+291
+00:12:10,000 --> 00:12:12,065
+He's the man from the video.
+
+292
+00:12:12,089 --> 00:12:16,504
+And these are some
+of his known associates.
+
+293
+00:12:16,528 --> 00:12:20,099
+Here. Can you look through this?
+
+294
+00:12:20,123 --> 00:12:23,666
+Take your time and let us know
+if you recognize any of them.
+
+295
+00:12:38,631 --> 00:12:40,241
+No.
+
+296
+00:12:41,249 --> 00:12:43,793
+No, this has to be a mistake, right?
+
+297
+00:12:43,817 --> 00:12:44,967
+I mean, it doesn't make any sense.
+
+298
+00:12:44,991 --> 00:12:46,230
+No. No, it doesn't.
+
+299
+00:12:46,254 --> 00:12:48,754
+These men are professional terrorists.
+
+300
+00:12:48,778 --> 00:12:50,190
+They wouldn't expose themself
+
+301
+00:12:50,213 --> 00:12:52,628
+if they didn't think
+it was worth the risk.
+
+302
+00:12:52,652 --> 00:12:54,280
+So what are you saying?
+
+303
+00:12:54,585 --> 00:12:57,197
+I'm saying it just
+doesn't exactly feel random.
+
+304
+00:12:59,441 --> 00:13:01,724
+You've never had any contact
+with any of those men?
+
+305
+00:13:01,748 --> 00:13:03,072
+No.
+
+306
+00:13:03,096 --> 00:13:04,465
+What about your professional life?
+
+307
+00:13:04,489 --> 00:13:06,710
+You ever worked for any
+companies based in Eastern Europe?
+
+308
+00:13:06,734 --> 00:13:08,817
+Maybe, but nothing that interesting.
+
+309
+00:13:08,841 --> 00:13:10,210
+I mean, certainly nothing
+that would cause
+
+310
+00:13:10,234 --> 00:13:12,604
+a terror group to kidnap my son.
+
+311
+00:13:12,628 --> 00:13:16,613
+Can you elaborate on that,
+"nothing that interesting?"
+
+312
+00:13:18,938 --> 00:13:20,655
+Am I under investigation here?
+
+313
+00:13:20,679 --> 00:13:22,745
+No, OK? Not at all.
+
+314
+00:13:23,238 --> 00:13:25,269
+Then what is this?
+
+315
+00:13:25,293 --> 00:13:27,836
+I don't know who these men are
+or why they took my son.
+
+316
+00:13:27,860 --> 00:13:30,621
+That's why I called you.
+
+317
+00:13:30,645 --> 00:13:33,232
+You should be out there looking for him
+
+318
+00:13:33,256 --> 00:13:36,585
+instead of accusing me of...
+what exactly?
+
+319
+00:13:36,609 --> 00:13:39,109
+OK, we're just...
+we're just trying to understand
+
+320
+00:13:39,133 --> 00:13:43,155
+how they're connected. That's all.
+
+321
+00:13:43,179 --> 00:13:47,639
+Um, if you think of anything,
+please call us.
+
+322
+00:13:47,663 --> 00:13:54,801
+♪ ♪
+
+323
+00:13:58,543 --> 00:14:00,956
+- What the hell was that?
+- Oh, come on.
+
+324
+00:14:00,980 --> 00:14:02,740
+She recognized the men in the photos.
+
+325
+00:14:02,764 --> 00:14:04,437
+You saw that.
+That's why she got defensive.
+
+326
+00:14:04,461 --> 00:14:06,962
+No, she's in shock, OK?
+
+327
+00:14:06,986 --> 00:14:09,008
+We just told her that her son
+is being held by terrorists.
+
+328
+00:14:09,032 --> 00:14:10,966
+Can you imagine what that must
+feel like for a parent?
+
+329
+00:14:10,990 --> 00:14:12,533
+That must be awful. I get it.
+
+330
+00:14:12,557 --> 00:14:15,667
+But there's something off with her.
+
+331
+00:14:15,691 --> 00:14:17,904
+I can feel it.
+
+332
+00:14:19,113 --> 00:14:22,369
+- What?
+- There's nothing off, OK?
+
+333
+00:14:22,393 --> 00:14:24,197
+She's a mother, and she's scared.
+
+334
+00:14:24,221 --> 00:14:26,111
+I'm surprised you can't
+really relate to that.
+
+335
+00:14:26,135 --> 00:14:28,158
+Of course I can relate to it,
+but that's not my job
+
+336
+00:14:28,182 --> 00:14:29,725
+to relate to a mother going through
+
+337
+00:14:29,749 --> 00:14:32,552
+a horrible situation.
+I'm trying to find her son.
+
+338
+00:14:32,576 --> 00:14:33,903
+♪ ♪
+
+339
+00:14:34,571 --> 00:14:35,644
+It's Jubal.
+
+340
+00:14:35,668 --> 00:14:37,950
+NYPD helicopter just spotted
+Petrov's car heading west
+
+341
+00:14:37,974 --> 00:14:39,429
+on the Long Island Expressway.
+
+342
+00:14:39,453 --> 00:14:42,432
+[TENSE MUSIC]
+
+343
+00:14:42,456 --> 00:14:44,653
+♪ ♪
+
+344
+00:14:44,677 --> 00:14:46,213
+Whoa, whoa, whoa. There's his car.
+
+345
+00:14:46,238 --> 00:14:47,567
+I see him.
+
+346
+00:14:47,591 --> 00:14:49,352
+We've got eyes on the suspect's vehicle
+
+347
+00:14:49,376 --> 00:14:51,620
+on 43rd Avenue
+turning south on 9th Street.
+
+348
+00:14:51,644 --> 00:14:54,488
+Copy that. We're on our way.
+
+349
+00:14:54,511 --> 00:15:00,538
+♪ ♪
+
+350
+00:15:00,562 --> 00:15:01,844
+Ah, damn it. We're burned.
+
+351
+00:15:01,868 --> 00:15:03,149
+Be advised. The suspect is fleeing.
+
+352
+00:15:03,173 --> 00:15:04,585
+- We're in pursuit.
+- Copy that.
+
+353
+00:15:04,609 --> 00:15:11,791
+♪ ♪
+
+354
+00:15:38,251 --> 00:15:40,196
+We were right behind him.
+He couldn't have gotten far.
+
+355
+00:15:45,432 --> 00:15:47,956
+[SIGHS]
+
+356
+00:15:51,004 --> 00:15:53,851
+Tiff, I think I got something.
+
+357
+00:15:53,875 --> 00:15:55,288
+- Hey!
+- Whoa, oh...
+
+358
+00:15:55,312 --> 00:15:56,942
+[GUNSHOT]
+
+359
+00:15:56,966 --> 00:15:57,942
+Shots fired. FBI! Don't move!
+
+360
+00:15:57,966 --> 00:16:00,379
+[GUNSHOTS]
+
+361
+00:16:00,403 --> 00:16:01,903
+Let's go.
+
+362
+00:16:01,927 --> 00:16:03,427
+Suspect is headed down 9th Street,
+
+363
+00:16:03,451 --> 00:16:05,864
+- stolen motorbike, black jacket.
+- Copy that.
+
+364
+00:16:05,888 --> 00:16:12,764
+♪ ♪
+
+365
+00:16:21,730 --> 00:16:24,167
+[GUNSHOTS]
+
+366
+00:16:47,404 --> 00:16:48,995
+It's not Petrov.
+
+367
+00:16:49,019 --> 00:16:53,259
+♪ ♪
+
+368
+00:16:53,283 --> 00:16:55,304
+All right, thank you.
+
+369
+00:16:55,328 --> 00:16:57,046
+Thank you. Hey.
+
+370
+00:16:57,070 --> 00:16:58,481
+Anything?
+
+371
+00:16:58,505 --> 00:17:00,048
+I found some brown hairs
+in the back seat.
+
+372
+00:17:00,072 --> 00:17:01,785
+Let's get the lab to run it
+against Luke's DNA.
+
+373
+00:17:01,809 --> 00:17:03,181
+Maybe we'll get a match.
+
+374
+00:17:03,571 --> 00:17:06,055
+Were we able to identify our suspect?
+
+375
+00:17:06,078 --> 00:17:08,143
+Anzor Taramov, Chechen national
+
+376
+00:17:08,166 --> 00:17:09,863
+and suspected member of the CRR.
+
+377
+00:17:17,741 --> 00:17:20,416
+I got a bodega receipt.
+
+378
+00:17:20,441 --> 00:17:23,238
+Two days ago.
+West 14th Street and 7th Ave.
+
+379
+00:17:25,750 --> 00:17:28,032
+Hey, receipt OA found
+was from the purchase
+
+380
+00:17:28,057 --> 00:17:29,382
+of two burner phones.
+
+381
+00:17:29,405 --> 00:17:30,922
+Storage just sent the serial numbers.
+
+382
+00:17:30,945 --> 00:17:33,095
+- Can we get a location on them?
+- Ian's working on it.
+
+383
+00:17:33,118 --> 00:17:35,345
+Hairs in the Impala
+are a match to Luke Peters,
+
+384
+00:17:35,368 --> 00:17:37,259
+so our victim
+was definitely in that car.
+
+385
+00:17:37,284 --> 00:17:39,566
+All right, it means we're
+fishing in the right pond.
+
+386
+00:17:39,589 --> 00:17:42,192
+- Talk to me, Ian.
+- Location services have been shut off.
+
+387
+00:17:42,217 --> 00:17:44,701
+What about the carrier services
+call logs, text messages?
+
+388
+00:17:44,726 --> 00:17:46,137
+There's not a lot of activity.
+
+389
+00:17:46,162 --> 00:17:47,617
+The messaging is going
+through an encrypted app.
+
+390
+00:17:47,642 --> 00:17:49,141
+The only calls that they've
+made have been to each other.
+
+391
+00:17:49,164 --> 00:17:51,361
+So we have no way of tracking them.
+
+392
+00:17:51,384 --> 00:17:52,710
+Well, let's do it the old-fashioned way.
+
+393
+00:17:52,733 --> 00:17:54,278
+Let's call them and see where they ping.
+
+394
+00:17:54,302 --> 00:17:55,712
+I'm on it.
+
+395
+00:17:55,737 --> 00:18:02,613
+♪ ♪
+
+396
+00:18:08,448 --> 00:18:11,113
+First phone is shut off.
+Trying second number now.
+
+397
+00:18:17,432 --> 00:18:18,954
+Hello?
+
+398
+00:18:23,503 --> 00:18:26,090
+I know you're there.
+No need to be concerned.
+
+399
+00:18:26,115 --> 00:18:28,310
+I'll be there on time, but you
+need to deliver proof of life.
+
+400
+00:18:28,335 --> 00:18:30,226
+I need to know that my son is OK.
+
+401
+00:18:30,250 --> 00:18:34,570
+You hear me? Do you hear me?
+
+402
+00:18:36,059 --> 00:18:37,624
+That was definitely the boy's mother.
+
+403
+00:18:37,647 --> 00:18:39,670
+She's asking about her son.
+
+404
+00:18:39,693 --> 00:18:41,890
+Which means this case
+makes even less sense
+
+405
+00:18:41,913 --> 00:18:44,220
+than it did five minutes ago.
+
+406
+00:18:46,557 --> 00:18:48,551
+All right, so we now
+have evidence Liza Peters
+
+407
+00:18:48,576 --> 00:18:50,747
+is in direct contact
+with her son's abductors,
+
+408
+00:18:50,770 --> 00:18:53,121
+which means that she's
+been lying to us from the jump,
+
+409
+00:18:53,144 --> 00:18:55,272
+but we're gonna
+talk to her, and see what's going on.
+
+410
+00:18:55,297 --> 00:18:56,491
+I assume she's still
+in her house, right?
+
+411
+00:18:56,516 --> 00:18:57,627
+Well, she just shut off her burner,
+
+412
+00:18:57,652 --> 00:18:59,277
+but yeah, that call we
+just made pinged to her house.
+
+413
+00:18:59,300 --> 00:19:01,061
+Yeah.
+OK. I just spoke to the agents on site.
+
+414
+00:19:01,086 --> 00:19:02,185
+She's not there.
+
+415
+00:19:02,210 --> 00:19:03,412
+Well, they didn't just let her leave.
+
+416
+00:19:03,435 --> 00:19:04,586
+Do we know her location?
+
+417
+00:19:04,611 --> 00:19:06,951
+Well, she said she was gonna take a nap,
+and climbed out the window,
+
+418
+00:19:06,974 --> 00:19:08,503
+and they were holding on
+to her personal cell
+
+419
+00:19:08,528 --> 00:19:09,809
+in case a ransom call came in.
+
+420
+00:19:09,834 --> 00:19:11,288
+They didn't know she was a flight risk.
+
+421
+00:19:11,313 --> 00:19:13,901
+OK, we need to put out
+a BOLO right away.
+
+422
+00:19:13,924 --> 00:19:15,816
+In the meantime,
+let's get a search warrant.
+
+423
+00:19:15,839 --> 00:19:17,762
+ERT already searched her house.
+
+424
+00:19:17,787 --> 00:19:20,559
+Yeah, they did a forensic
+sweep after the abduction,
+
+425
+00:19:20,584 --> 00:19:22,608
+but they weren't focused on Liza.
+
+426
+00:19:23,194 --> 00:19:26,130
+[TENSE MUSIC]
+
+427
+00:19:26,153 --> 00:19:28,219
+Encryption is tight.
+
+428
+00:19:28,242 --> 00:19:30,134
+The thing is harder
+to get into than Fort Knox.
+
+429
+00:19:30,775 --> 00:19:32,006
+Keep trying, OK?
+
+430
+00:19:32,029 --> 00:19:34,025
+We know that she used it earlier today.
+
+431
+00:19:36,483 --> 00:19:38,447
+- Any luck?
+- No, nothing.
+
+432
+00:19:38,471 --> 00:19:40,884
+Just a bunch of boring documents
+
+433
+00:19:40,907 --> 00:19:43,886
+and paperwork
+like old pediatrician records
+
+434
+00:19:43,911 --> 00:19:47,455
+and bank statements, loan statements.
+
+435
+00:19:47,480 --> 00:19:49,936
+OK, and yet this boring woman
+
+436
+00:19:49,961 --> 00:19:53,854
+lied to the FBI and climbs out
+of her window to meet up
+
+437
+00:19:53,877 --> 00:19:56,294
+with the Chechen terrorists.
+It just doesn't make any sense.
+
+438
+00:19:56,317 --> 00:19:58,771
+Well, of course it does.
+She wants to save her son.
+
+439
+00:19:58,796 --> 00:20:02,036
+Yeah, I get that, but why lie to us?
+
+440
+00:20:02,059 --> 00:20:03,762
+And why sneak out?
+
+441
+00:20:05,134 --> 00:20:07,084
+Oh.
+
+442
+00:20:07,107 --> 00:20:08,955
+[SIGHS]
+
+443
+00:20:09,650 --> 00:20:11,174
+Whew, sorry. I'm...
+
+444
+00:20:11,199 --> 00:20:14,527
+- Hey, hey, are you OK?
+- Yeah, yeah, yeah, I'm fine.
+
+445
+00:20:14,550 --> 00:20:19,009
+I'm just... I'm so dizzy.
+
+446
+00:20:19,275 --> 00:20:22,647
+Yeah, I just...
+I just need some space, OK?
+
+447
+00:20:22,672 --> 00:20:23,708
+Please just...
+
+448
+00:20:23,731 --> 00:20:25,420
+OK, OK.
+
+449
+00:20:25,443 --> 00:20:27,147
+[SIGHS]
+
+450
+00:20:27,172 --> 00:20:30,106
+[SOFT DRAMATIC MUSIC]
+
+451
+00:20:30,131 --> 00:20:32,282
+♪ ♪
+
+452
+00:20:32,733 --> 00:20:34,547
+What is that?
+
+453
+00:20:34,570 --> 00:20:37,244
+- What?
+- Do you see that?
+
+454
+00:20:37,269 --> 00:20:44,077
+♪ ♪
+
+455
+00:20:44,102 --> 00:20:46,079
+It's a safe.
+
+456
+00:20:46,104 --> 00:20:52,719
+♪ ♪
+
+457
+00:21:06,516 --> 00:21:08,580
+Oh, sweet. OK, thanks.
+
+458
+00:21:08,605 --> 00:21:10,451
+- Yeah.
+- OK.
+
+459
+00:21:10,476 --> 00:21:14,412
+- Let's see what we got.
+- Yeah.
+
+460
+00:21:14,435 --> 00:21:17,589
+OK. Cash, credit cards.
+
+461
+00:21:17,614 --> 00:21:20,114
+- What, passports?
+- Mm-hmm.
+
+462
+00:21:20,137 --> 00:21:22,028
+Six of them?
+
+463
+00:21:22,053 --> 00:21:24,727
+All belonging to Liza.
+
+464
+00:21:24,750 --> 00:21:27,337
+Or Maria or Diana or Larissa.
+
+465
+00:21:27,362 --> 00:21:29,863
+[TENSE MUSIC]
+
+466
+00:21:29,886 --> 00:21:31,820
+Who is this woman?
+
+467
+00:21:31,845 --> 00:21:34,258
+♪ ♪
+
+468
+00:21:34,281 --> 00:21:36,391
+Liza Peters has six passports,
+
+469
+00:21:36,414 --> 00:21:38,827
+from four separate countries,
+all under different names.
+
+470
+00:21:38,852 --> 00:21:41,048
+And based on early analysis,
+they're not forgeries.
+
+471
+00:21:41,072 --> 00:21:42,788
+They're genuine,
+government-issued documents.
+
+472
+00:21:42,813 --> 00:21:44,790
+The first question is,
+which one is real?
+
+473
+00:21:44,815 --> 00:21:47,750
+Well, it seems like Liza
+Peters is her real identity.
+
+474
+00:21:47,773 --> 00:21:49,098
+We've got a birth certificate,
+yearbook photos
+
+475
+00:21:49,123 --> 00:21:50,536
+dating back 30 years.
+
+476
+00:21:50,559 --> 00:21:52,171
+So how did the others come into play?
+Where'd she get them?
+
+477
+00:21:52,194 --> 00:21:54,191
+Don't know, but the Russian passport
+
+478
+00:21:54,214 --> 00:21:57,253
+under the name Maria Laskin could
+explain her connection to Petrov.
+
+479
+00:21:57,278 --> 00:22:00,657
+She logged 13 trips from New
+York to Chechnya under that identity.
+
+480
+00:22:00,682 --> 00:22:02,895
+And we don't have any idea
+of what she was doing there?
+
+481
+00:22:02,920 --> 00:22:04,984
+No, customs marked the trip as personal.
+
+482
+00:22:05,009 --> 00:22:07,377
+All the other passports show
+similar patterns of travel,
+
+483
+00:22:07,402 --> 00:22:08,971
+all marked personal as well.
+
+484
+00:22:08,996 --> 00:22:10,907
+Over the past 10 years,
+she's spent months at a time
+
+485
+00:22:10,932 --> 00:22:13,166
+in Moscow, Bucharest, Warsaw.
+
+486
+00:22:13,191 --> 00:22:14,994
+Yeah, those are all intelligence hubs.
+
+487
+00:22:15,019 --> 00:22:16,692
+- She's a spy, no doubt.
+- Yeah.
+
+488
+00:22:16,715 --> 00:22:18,564
+Tony, Ann, how we doing?
+We need answers.
+
+489
+00:22:18,587 --> 00:22:20,173
+Does Liza Peters work
+for one of your agencies?
+
+490
+00:22:20,198 --> 00:22:22,045
+If she's a covert agent,
+I don't have access
+
+491
+00:22:22,068 --> 00:22:23,699
+- to that information.
+- She's with us.
+
+492
+00:22:23,722 --> 00:22:26,267
+- Yeah?
+- She's CIA.
+
+493
+00:22:26,290 --> 00:22:29,051
+High-level covert operative,
+top secret and SEI clearances.
+
+494
+00:22:29,076 --> 00:22:31,184
+She's been with the agency since 2004.
+
+495
+00:22:31,209 --> 00:22:32,291
+[SIGHS]
+
+496
+00:22:32,316 --> 00:22:34,522
+We're gonna need to speak
+with your supervisor ASAP.
+
+497
+00:22:34,547 --> 00:22:35,865
+I'll set it up.
+
+498
+00:22:41,108 --> 00:22:42,413
+How you feeling?
+
+499
+00:22:42,436 --> 00:22:43,615
+I'm fine.
+
+500
+00:22:43,640 --> 00:22:45,396
+Yeah, but you almost
+passed out back at the house.
+
+501
+00:22:45,421 --> 00:22:47,027
+It looked like you
+were in some real pain.
+
+502
+00:22:47,050 --> 00:22:49,413
+I'm just feeling off.
+
+503
+00:22:49,436 --> 00:22:52,801
+Yeah. No, I noticed. So what's up?
+
+504
+00:22:52,826 --> 00:22:54,686
+What did the doctor say?
+
+505
+00:22:54,711 --> 00:22:56,644
+I don't really want to talk about it.
+
+506
+00:22:56,669 --> 00:22:59,082
+Nina, you're making me nervous here.
+
+507
+00:22:59,105 --> 00:23:01,233
+Look, if there's something going on...
+
+508
+00:23:03,548 --> 00:23:04,681
+I'm pregnant.
+
+509
+00:23:07,058 --> 00:23:08,192
+You...
+
+510
+00:23:10,817 --> 00:23:12,051
+You sure?
+
+511
+00:23:12,076 --> 00:23:16,098
+Yeah, I'm sure.
+Uh, found out last night.
+
+512
+00:23:16,123 --> 00:23:17,926
+That's why you went to the doctor?
+
+513
+00:23:17,951 --> 00:23:20,799
+Yeah, I thought I had the flu.
+
+514
+00:23:20,824 --> 00:23:22,983
+I just didn't consider that I was...
+
+515
+00:23:24,483 --> 00:23:26,817
+- Am I...?
+- Yeah.
+
+516
+00:23:31,483 --> 00:23:34,692
+And do you...
+do you know if you're gonna...
+
+517
+00:23:35,289 --> 00:23:40,141
+I don't know. I don't know.
+
+518
+00:23:40,278 --> 00:23:42,125
+Can we talk about this?
+
+519
+00:23:42,148 --> 00:23:43,560
+Not right now, OK?
+
+520
+00:23:43,585 --> 00:23:47,653
+[SOFT DRAMATIC MUSIC]
+
+521
+00:23:47,676 --> 00:23:49,808
+Liza's supervisor is here, so...
+
+522
+00:23:54,483 --> 00:23:57,357
+Liza Peters was our best case officer
+
+523
+00:23:57,382 --> 00:23:59,185
+in Eastern Europe.
+
+524
+00:23:59,210 --> 00:24:01,404
+Was quick on her feet, tough as nails.
+
+525
+00:24:01,429 --> 00:24:03,711
+We were sorry to lose her in
+the field when her son was born.
+
+526
+00:24:03,736 --> 00:24:05,234
+She's not active anymore?
+
+527
+00:24:05,259 --> 00:24:08,151
+No, she works primarily
+in a supervisory role now.
+
+528
+00:24:08,174 --> 00:24:10,022
+But she was working in Chechnya?
+
+529
+00:24:10,047 --> 00:24:11,372
+For two years.
+
+530
+00:24:11,395 --> 00:24:12,589
+She was working a terrorist group
+
+531
+00:24:12,614 --> 00:24:15,619
+called the CRR, gathering intel.
+
+532
+00:24:15,644 --> 00:24:16,942
+Why?
+
+533
+00:24:16,967 --> 00:24:19,162
+Well, we think that members of the CRR,
+
+534
+00:24:19,185 --> 00:24:20,685
+including Akhmad Petrov,
+
+535
+00:24:20,710 --> 00:24:23,582
+are responsible for
+the abduction of Liza's son.
+
+536
+00:24:26,672 --> 00:24:30,695
+[TENSE MUSIC]
+
+537
+00:24:30,720 --> 00:24:33,480
+What, you think
+that Petrov abducted Luke?
+
+538
+00:24:33,505 --> 00:24:34,916
+Yeah.
+
+539
+00:24:34,941 --> 00:24:38,137
+Do you have any idea
+why he would target her?
+
+540
+00:24:38,400 --> 00:24:40,269
+No.
+
+541
+00:24:40,294 --> 00:24:42,403
+As far as I know, Liza never
+met Petrov personally.
+
+542
+00:24:42,426 --> 00:24:44,057
+♪ ♪
+
+543
+00:24:44,080 --> 00:24:46,319
+Unless he's looking for Milena Kerimova.
+
+544
+00:24:46,344 --> 00:24:47,799
+Who's that?
+
+545
+00:24:47,824 --> 00:24:50,585
+A Chechen activist, propagandist.
+
+546
+00:24:50,608 --> 00:24:53,282
+She's been rallying against
+Petrov and the CRR for years.
+
+547
+00:24:53,307 --> 00:24:55,817
+And what does she have to do with Liza?
+
+548
+00:24:56,222 --> 00:24:58,723
+Liza recruited her to work for the CIA,
+
+549
+00:24:58,748 --> 00:25:01,551
+but about six months ago,
+things got hot.
+
+550
+00:25:01,576 --> 00:25:03,118
+Her life was in danger,
+
+551
+00:25:03,143 --> 00:25:04,946
+so we smuggled her out of Chechnya
+
+552
+00:25:04,971 --> 00:25:06,644
+and got her set up here in New York.
+
+553
+00:25:06,667 --> 00:25:08,167
+So if Petrov wants to kill Kerimova,
+
+554
+00:25:08,192 --> 00:25:09,646
+Liza is the one that knows where she is.
+
+555
+00:25:09,671 --> 00:25:10,865
+Is that what you're saying?
+
+556
+00:25:10,890 --> 00:25:12,476
+Liza is in charge of the safe house
+
+557
+00:25:12,500 --> 00:25:14,913
+- where Kerimova is secured.
+- Which is where exactly?
+
+558
+00:25:14,938 --> 00:25:16,349
+Long Island.
+
+559
+00:25:16,374 --> 00:25:19,150
+OK, I assume you have agents
+with Kerimova?
+
+560
+00:25:19,637 --> 00:25:21,268
+I think you should call them,
+tell them what's going on.
+
+561
+00:25:21,291 --> 00:25:24,140
+Are you suggesting
+that Liza would compromise
+
+562
+00:25:24,163 --> 00:25:25,315
+her own asset's safety?
+
+563
+00:25:25,338 --> 00:25:27,358
+To save her son, yeah.
+
+564
+00:25:28,385 --> 00:25:35,107
+♪ ♪
+
+565
+00:25:35,132 --> 00:25:36,805
+Can I help you?
+
+566
+00:25:36,828 --> 00:25:39,328
+He's one of ours.
+
+567
+00:25:39,353 --> 00:25:41,854
+Milena Kerimova, we need to see her.
+
+568
+00:25:41,877 --> 00:25:43,724
+What the hell is going on?
+
+569
+00:25:43,749 --> 00:25:45,335
+Why are your phones off?
+
+570
+00:25:45,358 --> 00:25:47,859
+Liza said there was a security breach,
+
+571
+00:25:47,884 --> 00:25:50,228
+told us to shut down communication
+until the transfer was complete.
+
+572
+00:25:50,252 --> 00:25:51,567
+What? What transfer?
+
+573
+00:25:52,976 --> 00:25:55,476
+- Milena Kerimova.
+- Are you saying she's gone?
+
+574
+00:25:55,500 --> 00:25:57,957
+Liza wanted to move her
+to a more secure location.
+
+575
+00:25:57,980 --> 00:26:01,047
+- When was this?
+- About 15 minutes ago.
+
+576
+00:26:01,070 --> 00:26:05,553
+♪ ♪
+
+577
+00:26:08,030 --> 00:26:09,696
+Yeah, we got a bit of a situation.
+
+578
+00:26:09,721 --> 00:26:11,800
+Liza lied to her fellow agents,
+told them
+
+579
+00:26:11,825 --> 00:26:14,151
+there was a security breach
+and she had to relocate
+
+580
+00:26:14,174 --> 00:26:15,455
+the asset she was protecting.
+
+581
+00:26:15,480 --> 00:26:17,327
+So we need answers. Where is she?
+
+582
+00:26:17,352 --> 00:26:18,807
+And more importantly,
+where is she going?
+
+583
+00:26:18,832 --> 00:26:20,026
+Elise, how are we doing on the video?
+
+584
+00:26:20,583 --> 00:26:21,636
+Here we go.
+
+585
+00:26:21,661 --> 00:26:24,640
+This is from outside
+the safe house 24 minutes ago.
+
+586
+00:26:24,663 --> 00:26:26,423
+- Can we go tighter?
+- Here's Liza.
+
+587
+00:26:26,448 --> 00:26:29,426
+[TENSE MUSIC]
+
+588
+00:26:29,451 --> 00:26:36,128
+♪ ♪
+
+589
+00:26:36,153 --> 00:26:38,218
+Doesn't she seem kind of calm
+
+590
+00:26:38,241 --> 00:26:39,741
+for someone who's about
+to hand over her asset
+
+591
+00:26:39,766 --> 00:26:41,278
+to a terrorist organization?
+
+592
+00:26:41,302 --> 00:26:43,222
+Well, we don't know if that's her plan.
+
+593
+00:26:43,247 --> 00:26:45,311
+Right now, we need to find her.
+What car is she driving?
+
+594
+00:26:45,336 --> 00:26:48,470
+886LSMB. OK, I'm running it.
+
+595
+00:26:52,605 --> 00:26:55,018
+It's a rental, picked up from a company
+
+596
+00:26:55,041 --> 00:26:58,542
+two blocks from Liza's house
+at 2:54 p.m.,
+
+597
+00:26:58,567 --> 00:27:01,980
+paid for with a credit card
+belonging to Nancy Lawson.
+
+598
+00:27:02,005 --> 00:27:04,461
+Yeah, that's... I think that's
+one of the aliases, right?
+
+599
+00:27:04,486 --> 00:27:07,943
+Yeah, let's get a BOLO
+out on that car, thanks.
+
+600
+00:27:07,968 --> 00:27:09,467
+What about the car's GPS?
+
+601
+00:27:09,490 --> 00:27:10,859
+Can the rental company track it?
+
+602
+00:27:10,884 --> 00:27:12,390
+Yeah, I'm on with them now.
+
+603
+00:27:13,582 --> 00:27:15,255
+- Yes, they think they can do it.
+- Great.
+
+604
+00:27:15,278 --> 00:27:16,758
+Get their location
+over to Scola and Nina.
+
+605
+00:27:16,781 --> 00:27:23,480
+♪ ♪
+
+606
+00:27:23,505 --> 00:27:24,961
+There's movement in the front seat.
+
+607
+00:27:24,984 --> 00:27:27,180
+Liza Peters, out of the car now!
+
+608
+00:27:27,203 --> 00:27:34,037
+♪ ♪
+
+609
+00:27:35,615 --> 00:27:37,451
+Where's Kerimova?
+
+610
+00:27:37,474 --> 00:27:38,478
+[SIGHS]
+
+611
+00:27:38,501 --> 00:27:39,845
+In the back seat.
+
+612
+00:27:39,868 --> 00:27:42,107
+♪ ♪
+
+613
+00:27:42,132 --> 00:27:43,544
+She's fine.
+
+614
+00:27:43,567 --> 00:27:45,372
+I just gave her a mild sedative.
+
+615
+00:27:45,395 --> 00:27:50,900
+♪ ♪
+
+616
+00:27:50,923 --> 00:27:53,163
+You need to tell us
+what the hell is going on.
+
+617
+00:27:53,765 --> 00:27:55,469
+They gave me a choice,
+
+618
+00:27:55,492 --> 00:28:00,280
+deliver Kerimova or watch
+my son die a very painful death.
+
+619
+00:28:02,805 --> 00:28:05,218
+These people... these animals,
+they mean what they say.
+
+620
+00:28:05,241 --> 00:28:07,394
+OK, so what?
+You were just gonna deliver Kerimova
+
+621
+00:28:07,417 --> 00:28:09,134
+and let them execute her?
+
+622
+00:28:09,159 --> 00:28:12,661
+What the hell would you do,
+watch your son get murdered?
+
+623
+00:28:12,684 --> 00:28:16,534
+OK, but what, you couldn't,
+so that's why you're here?
+
+624
+00:28:16,557 --> 00:28:17,709
+OK, all right.
+
+625
+00:28:17,732 --> 00:28:19,015
+So this is good, OK?
+
+626
+00:28:19,038 --> 00:28:21,598
+We just... we need a plan.
+
+627
+00:28:22,259 --> 00:28:24,280
+What is it
+that Petrov's asking you to do?
+
+628
+00:28:24,305 --> 00:28:27,980
+He wants Kerimova, told me to
+meet him by 5:00, or he'll kill Luke.
+
+629
+00:28:28,003 --> 00:28:29,286
+OK, where are you supposed to meet him?
+
+630
+00:28:29,309 --> 00:28:30,940
+What's... what's the exact location?
+
+631
+00:28:30,963 --> 00:28:33,855
+Some old building
+by the beach in Queens,
+
+632
+00:28:33,880 --> 00:28:36,426
+but the meeting's less
+than an hour from now, so...
+
+633
+00:28:36,451 --> 00:28:38,817
+No, that's OK.
+Actually, that's enough time.
+
+634
+00:28:38,840 --> 00:28:40,210
+Well, we can't just show up,
+hit the location,
+
+635
+00:28:40,233 --> 00:28:42,778
+- and hope that...
+- I have a plan, OK?
+
+636
+00:28:42,801 --> 00:28:45,605
+Look at her, right?
+We look enough alike.
+
+637
+00:28:45,630 --> 00:28:47,520
+I'll just go in her place.
+
+638
+00:28:47,545 --> 00:28:50,088
+No, no, that is not a plan.
+That is a death wish.
+
+639
+00:28:50,113 --> 00:28:51,176
+You don't even speak the language.
+
+640
+00:28:51,201 --> 00:28:52,482
+Look, all we need to do
+
+641
+00:28:52,507 --> 00:28:54,006
+is keep the ruse alive for long enough
+
+642
+00:28:54,029 --> 00:28:56,051
+to get eyes on Luke, right?
+
+643
+00:28:56,076 --> 00:28:58,141
+I mean, you know these guys.
+
+644
+00:28:58,164 --> 00:28:59,810
+Do you think we can do it?
+
+645
+00:29:01,029 --> 00:29:02,144
+It could work.
+
+646
+00:29:02,169 --> 00:29:03,755
+OK, then I'll run it up the flagpole.
+
+647
+00:29:03,778 --> 00:29:05,147
+OK, hey, hey, hey.
+
+648
+00:29:05,172 --> 00:29:07,237
+You understand this is crazy, right?
+
+649
+00:29:07,260 --> 00:29:09,020
+- It's our only play.
+- No, Nina.
+
+650
+00:29:09,045 --> 00:29:10,631
+I read this guy's file, OK?
+
+651
+00:29:10,654 --> 00:29:12,851
+Petrov decapitated his own brother.
+
+652
+00:29:12,875 --> 00:29:15,461
+You cannot go into
+a meeting with a person
+
+653
+00:29:15,486 --> 00:29:17,682
+- with less than an hour of prep.
+- Well, it's our only move, OK?
+
+654
+00:29:17,705 --> 00:29:19,683
+So back off.
+
+655
+00:29:19,708 --> 00:29:26,627
+♪ ♪
+
+656
+00:29:38,640 --> 00:29:40,138
+OK, we're too far away.
+
+657
+00:29:40,163 --> 00:29:42,663
+I mean, if anything goes sideways,
+we can't even get to them.
+
+658
+00:29:42,686 --> 00:29:44,709
+We get any closer, they'll see us.
+
+659
+00:29:44,732 --> 00:29:49,278
+♪ ♪
+
+660
+00:29:49,302 --> 00:29:51,280
+OK, we have a black, blue Dodge Durango,
+
+661
+00:29:51,305 --> 00:29:54,980
+license plate number 437HDVX.
+
+662
+00:29:55,003 --> 00:29:57,416
+♪ ♪
+
+663
+00:29:57,441 --> 00:29:58,896
+We're running it.
+
+664
+00:29:58,921 --> 00:30:00,769
+It's cold plated.
+Looks like an older model.
+
+665
+00:30:00,792 --> 00:30:01,900
+We can't track that.
+
+666
+00:30:01,923 --> 00:30:04,436
+Can we get eyes on the inside?
+How many guys we dealing with here?
+
+667
+00:30:04,461 --> 00:30:05,961
+I've got eyes inside of the vehicle,
+
+668
+00:30:05,984 --> 00:30:08,079
+but I only see one guy, and
+it doesn't look like Petrov.
+
+669
+00:30:08,104 --> 00:30:09,559
+What about the little boy?
+
+670
+00:30:09,584 --> 00:30:11,344
+No, I don't see him.
+
+671
+00:30:11,367 --> 00:30:18,244
+♪ ♪
+
+672
+00:30:29,432 --> 00:30:31,781
+It's not Petrov.
+
+673
+00:30:37,807 --> 00:30:39,720
+Out of the car.
+
+674
+00:30:39,743 --> 00:30:46,663
+♪ ♪
+
+675
+00:31:17,652 --> 00:31:19,306
+Get in.
+
+676
+00:31:30,573 --> 00:31:32,444
+Start the car.
+
+677
+00:31:34,538 --> 00:31:36,038
+Where is my son?
+
+678
+00:31:36,061 --> 00:31:38,126
+I'll take you to him.
+Just do what I say.
+
+679
+00:31:38,151 --> 00:31:40,215
+No, no, they changed
+the plan, let's call it.
+
+680
+00:31:40,240 --> 00:31:41,694
+If we arrest this guy now,
+
+681
+00:31:41,719 --> 00:31:43,219
+Petrov's gonna know
+that something went wrong,
+
+682
+00:31:43,242 --> 00:31:44,307
+and he's gonna kill the kid
+and cut his losses.
+
+683
+00:31:44,330 --> 00:31:45,742
+Our best bet is to follow them.
+
+684
+00:31:45,767 --> 00:31:48,009
+If they even come back. For all we know,
+he could have them pull over
+
+685
+00:31:48,034 --> 00:31:49,615
+at the side of the road
+and shoot them both.
+
+686
+00:31:49,640 --> 00:31:51,401
+Isobel.
+
+687
+00:31:51,424 --> 00:31:52,968
+You know this guy better than we do.
+
+688
+00:31:52,991 --> 00:31:54,970
+Are we walking into a trap here?
+
+689
+00:31:54,993 --> 00:31:56,492
+I don't think so.
+
+690
+00:31:56,517 --> 00:31:58,190
+Petrov will want to deal
+with Kerimova himself,
+
+691
+00:31:58,213 --> 00:31:59,799
+so I think they're safe...
+
+692
+00:31:59,824 --> 00:32:01,627
+until they actually meet up
+with him, anyway.
+
+693
+00:32:01,652 --> 00:32:03,567
+Then, it's a toss-up.
+
+694
+00:32:05,742 --> 00:32:08,417
+All right, we're gonna let
+Liza and Nina make the call.
+
+695
+00:32:08,442 --> 00:32:10,028
+It's their lives on the line.
+
+696
+00:32:10,051 --> 00:32:13,117
+We're talking about handing
+Nina over to an executioner here.
+
+697
+00:32:13,142 --> 00:32:15,032
+If Nina wanted out,
+
+698
+00:32:15,057 --> 00:32:16,991
+she would have given us a signal.
+
+699
+00:32:17,016 --> 00:32:19,777
+♪ ♪
+
+700
+00:32:19,800 --> 00:32:21,977
+She's got this.
+
+701
+00:32:23,239 --> 00:32:24,875
+I'm not going anywhere.
+
+702
+00:32:24,898 --> 00:32:26,784
+I need to know my son's alive.
+
+703
+00:32:26,807 --> 00:32:33,728
+♪ ♪
+
+704
+00:32:37,426 --> 00:32:38,951
+[SPEAKING RUSSIAN] _
+
+705
+00:32:42,262 --> 00:32:43,240
+[WHISPERING] Luke.
+
+706
+00:32:43,265 --> 00:32:45,503
+Mommy, I want to go home.
+
+707
+00:32:45,680 --> 00:32:47,701
+I know, honey, I know. It's oK.
+
+708
+00:32:47,726 --> 00:32:49,878
+I'm coming. I'm on my way.
+
+709
+00:32:50,365 --> 00:32:51,677
+Drive.
+
+710
+00:32:51,701 --> 00:32:58,622
+♪ ♪
+
+711
+00:33:05,667 --> 00:33:08,559
+[TENSE MUSIC]
+
+712
+00:33:08,585 --> 00:33:13,435
+♪ ♪
+
+713
+00:33:14,185 --> 00:33:16,598
+Do we know where they're headed yet?
+
+714
+00:33:16,623 --> 00:33:18,451
+Somewhere in Long Island.
+
+715
+00:33:20,234 --> 00:33:21,829
+We have a problem.
+
+716
+00:33:21,854 --> 00:33:23,300
+The licensed car just
+turn down a private road.
+
+717
+00:33:23,325 --> 00:33:25,303
+If we follow it now,
+our cover's gonna be blown.
+
+718
+00:33:25,326 --> 00:33:26,553
+No, no, no. We don't know that.
+
+719
+00:33:26,576 --> 00:33:28,175
+If we pull them over
+right now, we can spook them.
+
+720
+00:33:28,200 --> 00:33:30,307
+It could get Nina and Liza killed.
+
+721
+00:33:30,332 --> 00:33:36,948
+♪ ♪
+
+722
+00:33:46,173 --> 00:33:47,606
+Take it easy.
+
+723
+00:33:51,309 --> 00:33:52,637
+Don't move.
+
+724
+00:33:52,662 --> 00:33:59,535
+♪ ♪
+
+725
+00:34:07,710 --> 00:34:09,476
+_
+
+726
+00:34:09,501 --> 00:34:11,851
+[SPEAKING RUSSIAN] _
+
+727
+00:34:12,222 --> 00:34:15,623
+_
+
+728
+00:34:16,081 --> 00:34:18,873
+_
+
+729
+00:34:19,110 --> 00:34:21,110
+_
+
+730
+00:34:21,492 --> 00:34:23,065
+_
+
+731
+00:34:24,213 --> 00:34:25,797
+_
+
+732
+00:34:28,389 --> 00:34:31,586
+[GRUNTING]
+
+733
+00:34:31,610 --> 00:34:38,487
+♪ ♪
+
+734
+00:34:58,594 --> 00:34:59,746
+- You OK?
+- Yeah, I'm good.
+
+735
+00:34:59,769 --> 00:35:01,398
+Tiff, how far out are y'all?
+
+736
+00:35:01,422 --> 00:35:02,704
+We're about six minutes away.
+
+737
+00:35:02,728 --> 00:35:04,228
+- We have your location.
+- OK.
+
+738
+00:35:04,251 --> 00:35:05,949
+Here.
+
+739
+00:35:06,710 --> 00:35:07,884
+OK, wait for backup to make entry.
+
+740
+00:35:07,907 --> 00:35:10,016
+We will be there in five minutes.
+
+741
+00:35:10,041 --> 00:35:11,192
+OK.
+
+742
+00:35:11,215 --> 00:35:13,193
+Liza, hey. Where are you going?
+
+743
+00:35:13,217 --> 00:35:14,516
+I'm not waiting.
+
+744
+00:35:14,541 --> 00:35:15,849
+Come on. They're close.
+
+745
+00:35:15,873 --> 00:35:17,047
+We don't know how many
+guys are in there, Liza.
+
+746
+00:35:17,070 --> 00:35:18,646
+My son is in there.
+
+747
+00:35:18,670 --> 00:35:20,461
+You do what you want. I'm going in.
+
+748
+00:35:20,485 --> 00:35:21,855
+Liza... Liza!
+
+749
+00:35:21,878 --> 00:35:23,378
+No, Nina, wait for backup.
+
+750
+00:35:23,998 --> 00:35:25,422
+Nina!
+
+751
+00:35:25,447 --> 00:35:32,585
+♪ ♪
+
+752
+00:35:40,331 --> 00:35:41,942
+Ah!
+
+753
+00:35:48,840 --> 00:35:50,469
+[GRUNTS]
+
+754
+00:35:50,586 --> 00:35:52,101
+Hey, hey, hey, hey, hey. He's down.
+
+755
+00:35:52,126 --> 00:35:53,800
+- Are you OK?
+- I don't think I can stand on it.
+
+756
+00:35:53,824 --> 00:35:55,322
+OK. Put pressure on it, OK?
+
+757
+00:35:55,347 --> 00:35:56,672
+I'm gonna stay with you.
+
+758
+00:35:56,695 --> 00:35:58,356
+- Mom!
+- Luke?
+
+759
+00:35:58,871 --> 00:36:00,085
+Stay where you are.
+
+760
+00:36:00,110 --> 00:36:01,329
+Please, you have to go find him.
+
+761
+00:36:01,353 --> 00:36:02,981
+OK.
+
+762
+00:36:03,442 --> 00:36:04,679
+Stay covered.
+
+763
+00:36:04,704 --> 00:36:06,420
+I'll be back.
+
+764
+00:36:06,445 --> 00:36:08,510
+Luke?
+
+765
+00:36:08,534 --> 00:36:15,148
+♪ ♪
+
+766
+00:36:30,141 --> 00:36:32,710
+Hey, hi.
+
+767
+00:36:34,255 --> 00:36:36,364
+Hi. My name is Nina, OK?
+
+768
+00:36:36,387 --> 00:36:38,192
+- I'm gonna take you...
+- Step away from the child.
+
+769
+00:36:38,215 --> 00:36:39,940
+Stay here.
+
+770
+00:36:40,608 --> 00:36:42,282
+Step away from the child.
+
+771
+00:36:42,306 --> 00:36:44,545
+OK, OK!
+
+772
+00:36:44,570 --> 00:36:51,184
+♪ ♪
+
+773
+00:36:55,755 --> 00:36:57,036
+Come here. Come on.
+
+774
+00:36:57,061 --> 00:36:58,690
+I'm gonna take you to your mom, OK?
+
+775
+00:36:58,713 --> 00:37:00,561
+Come here, buddy.
+
+776
+00:37:00,585 --> 00:37:07,201
+♪ ♪
+
+777
+00:37:15,340 --> 00:37:16,838
+OK.
+
+778
+00:37:16,862 --> 00:37:19,909
+Give Mommy one last big hug,
+then we have to go.
+
+779
+00:37:20,954 --> 00:37:23,043
+Bye-bye, sweet boy.
+
+780
+00:37:26,742 --> 00:37:28,719
+Be good for Daddy.
+
+781
+00:37:28,744 --> 00:37:35,925
+♪ ♪
+
+782
+00:37:45,891 --> 00:37:48,764
+- Hey.
+- Hey.
+
+783
+00:37:50,027 --> 00:37:51,742
+I don't know how to thank you
+for what you did in there.
+
+784
+00:37:51,766 --> 00:37:53,440
+I know I put you at risk.
+
+785
+00:37:54,148 --> 00:37:55,565
+It's all right.
+
+786
+00:37:56,336 --> 00:37:57,967
+They're gonna take you to the hospital,
+
+787
+00:37:57,990 --> 00:37:59,644
+get your leg all fixed up, OK?
+
+788
+00:38:01,023 --> 00:38:02,690
+And then what?
+
+789
+00:38:03,648 --> 00:38:06,018
+They are gonna charge you
+with the abduction of Kerimova
+
+790
+00:38:06,043 --> 00:38:07,498
+and violation of the Espionage Act,
+
+791
+00:38:07,521 --> 00:38:09,195
+but we're gonna talk
+to the U.S. Attorney
+
+792
+00:38:09,219 --> 00:38:11,153
+let him know the situation you were in.
+
+793
+00:38:11,177 --> 00:38:12,590
+I appreciate that. I do.
+
+794
+00:38:12,898 --> 00:38:14,375
+But I'm good.
+
+795
+00:38:14,398 --> 00:38:20,971
+♪ ♪
+
+796
+00:38:22,233 --> 00:38:23,992
+I did what I had to do.
+
+797
+00:38:24,016 --> 00:38:25,815
+They were gonna kill my son.
+
+798
+00:38:26,606 --> 00:38:29,231
+And at the end of the day, he's safe.
+
+799
+00:38:29,588 --> 00:38:31,391
+That's enough.
+
+800
+00:38:31,416 --> 00:38:37,987
+♪ ♪
+
+801
+00:38:43,644 --> 00:38:46,865
+[INDISTINCT]
+
+802
+00:38:48,083 --> 00:38:49,885
+Hey, what's that about?
+
+803
+00:38:49,911 --> 00:38:51,565
+I don't know.
+
+804
+00:39:00,581 --> 00:39:02,255
+Are you good?
+
+805
+00:39:02,360 --> 00:39:04,315
+Yeah, I'm good.
+
+806
+00:39:05,101 --> 00:39:07,981
+This is gonna be my last case
+with you guys for a while.
+
+807
+00:39:08,784 --> 00:39:10,197
+What are you talking about?
+
+808
+00:39:10,280 --> 00:39:12,273
+We were just getting started.
+
+809
+00:39:12,847 --> 00:39:15,277
+Yeah, I know. I just...
+
+810
+00:39:15,606 --> 00:39:18,985
+I need to take
+some time and clear my head.
+
+811
+00:39:21,856 --> 00:39:24,706
+But I'm just gonna go down
+to white collar, you know?
+
+812
+00:39:24,730 --> 00:39:26,882
+I'm gonna take on all
+the dangerous dudes
+
+813
+00:39:26,905 --> 00:39:30,494
+on Wall Street there who are
+doing insider trading, so...
+
+814
+00:39:30,518 --> 00:39:32,278
+[SIGHS] OK.
+
+815
+00:39:32,302 --> 00:39:34,367
+I'll be honest, though.
+
+816
+00:39:34,391 --> 00:39:37,152
+I don't think I'm completely OK
+with this, but if it's for the best...
+
+817
+00:39:37,177 --> 00:39:38,936
+I'll be two floors down.
+
+818
+00:39:38,960 --> 00:39:40,833
+Don't get emotional.
+
+819
+00:39:42,438 --> 00:39:44,184
+Bye-bye.
+
+820
+00:39:46,056 --> 00:39:47,728
+Can I walk you out?
+
+821
+00:39:47,753 --> 00:39:49,077
+Of course.
+
+822
+00:39:49,101 --> 00:39:52,038
+[SOFT MUSIC]
+
+823
+00:39:52,061 --> 00:39:54,344
+♪ ♪
+
+824
+00:39:54,367 --> 00:39:56,867
+So will you talk to me, Nina?
+
+825
+00:39:56,891 --> 00:39:58,695
+What's going on?
+
+826
+00:39:58,719 --> 00:40:00,373
+Why are you really leaving?
+
+827
+00:40:03,494 --> 00:40:05,833
+I just need some time,
+like I said, you know,
+
+828
+00:40:05,858 --> 00:40:08,750
+to figure things out,
+
+829
+00:40:08,773 --> 00:40:12,994
+what I'm gonna do with my life and you.
+
+830
+00:40:16,260 --> 00:40:20,393
+So what about the baby?
+
+831
+00:40:23,190 --> 00:40:24,523
+I don't know.
+
+832
+00:40:25,393 --> 00:40:27,719
+Like I said, I just need some time.
+
+833
+00:40:27,744 --> 00:40:34,621
+♪ ♪
+
+834
+00:40:49,114 --> 00:40:51,246
+I'll call you, OK?
+
+835
+00:40:53,514 --> 00:40:54,856
+Yeah.
+
+836
+00:40:54,882 --> 00:41:01,454
+♪ ♪
+
+837
+00:41:01,588 --> 00:41:03,938
+Bye.
+
+838
+00:41:26,036 --> 00:41:28,972
+[DRAMATIC MUSIC]
+
+839
+00:41:29,942 --> 00:41:36,862
+♪ ♪
+
+840
+00:41:45,958 --> 00:41:47,525
+[WOLF HOWLS]
