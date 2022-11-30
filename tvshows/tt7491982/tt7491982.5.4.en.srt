@@ -1,70 +1,3887 @@
-       ÜÛÛÛÛßÛÜ             ÜÛÛÛÛßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßÛ
-     ÜÛßÛÛß   ßÛÜ         ÜÛÛÛÛß                                               Û
-   ÜÛÛÛÛß       ßÛÜ     ÜÛÛÜÛß                                                 Û
- ÜÛÛÛÛß           ßÛÜ ÜÛÛÛÛß                                                   Û
-ÛÛÜÛß               ÛÛÛÛÛß                                                     Û
-ÛÛßÛÜ             ÜÛÛÜÛß                                                       Û
-ß   ßÛÜ         ÜÛÛÛÛß                                                         Û
-      ßÛÜ     ÜÛßÛÛß                                                           Û
-        ßÛÜ ÜÛÛÛÛß                                                             Û
-          ÛÛÛÛÛß                             Û     Û     Û  Û                  Û
-        ÜÛÛÜÛß  ÜÜ  ÜÜÜ   ÜÜ  ÜÜÜ   ÜÜÜ Ü  Ü ÛÜÜ  ÜÛÜ ß ÜÛÜ Û  ÜÜ   ÜÜÜ        Û
-      ÜÛÛÛÛß   Û  Û Û  Û Û  Û Û  Û ÛÜÜÜ Û  Û Û  Û  Û  Û  Û  Û Û  Û ÛÜÜÜ        Û
-    ÜÛßÛÛß     Û  Û Û  Û Ûßß  Û  Û    Û Û  Û Û  Û  Û  Û  Û  Û Ûßß     Û        Û
-  ÜÛÛÛÛß        ßß  Ûßß   ßß  ß  ß ßßß   ßßß ßßß   ß  ß  ß  ß  ßß  ßßß .org    Û
-ÜÛÛÛÛß              Û            [www.opensubtiles.org]                        Û
-ÛÛÛß                                                                           Û
-Ûß                                                                             Û
-Û               "FBI" Double Blind (2022) HEBREW 1CD subtitles                 Û
-Û                                                                             Û
-Û                                                                             Û
-Û  MOVIE INFORMATION                                                          Û
-Û  -=-=-=-=-=-=-=-=-                                                          Û
-Û  IMDB Link      : http://www.imdb.com/title/tt22505886/                     Û
-Û  IMDB Score     : 8.0 / 10 (0 votes)                                        Û
-Û                                                                             Û
-Û                                                                             Û
-Û  SUBTITLE INFORMATION                                                       Û
-Û  -=-=-=-=-=-=-=-=-=-=                                                       Û
-Û  Author/Uploader: SuperOne                                                  Û
-Û  Link           : http://www.opensubtitles.org/subtitles/9325454            Û
-Û  Download       : http://www.opensubtitles.org/download/sub/9325454         Û
-Û  Filename       : fbi.s05.e06.double.blind.(2022).heb.1cd.(9325454).zip     Û
-Û  Downloads      : 19 times                                                  Û
-Û  Language       : Hebrew                                                    Û
-Û  Format         : srt                                                       Û
-Û  Total          : 1 subtitle file                                           Û
-Û  Uploaded       : 2022-11-24 08:56:26                                       Û
-Û  nfo created    : 2022-11-28 20:36:53                                       Û
-Û  Release Name   :  FBI.S05E06.Double.Blind.720p.AMZN.WEB-DL.DDP5.1.H.264-NT Û
-Û  FPS            : 0.000                                                     Û
-Û                                                                             Û
-Û                                                                             Û
-Û  1.CD INFORMATION                                                           Û
-Û  ====================                                                       Û
-Û  Filename       : FBI.S05E06.Double.Blind.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb Û
-Û  Size           : 0 bytes                                                   Û
-Û  MD5            : d41d8cd98f00b204e9800998ecf8427e                          Û
-Û                                                                             Û
-Û                                                                             Û
-ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-Û                                                                              Û
-Û  Greetings fly to:                                                          ÜÛ
-Û  artsubs.wz.cz davidbillemont5.free.fr divxsubtitles.net                  ÜÛÛÛ
-Û  gabest.dyndns.org kloofy.net ontertitel.com podnapisi.net              ÜÛÛÛÛÛ
-Û  subtitles.cz subtitles.ro subtitles.shadowork.net titles.to          ÜÛßÛÛß
-Û  titulky.com v2.frigorifix.com mongoland.site.cz cesketitulky.com   ÜÛÛÛÛß
-Û                                                                   ÜÛÛÛÛß
-Û  ...and to all we forgot                                        ÜÛÛÜÛß
-Û                                                               ÜÛÛÛÛßÛÜ
-Û                                                             ÜÛßÛÛß   ßÛÜ
-Û                                                           ÜÛÛÛÛß       ßÛÜ
-Û                                                         ÜÛÛÛÛß           ßÛÜ Ü
-Û                                                       ÜÛÛÜÛß               ÛÛÛ
-Û   We set the standards...                           ÜÛÛÛÛßÛÜ             ÜÛÛÛÛ
-Û          ...we are the benchmark                  ÜÛßÛÛß   ßÛÜ         ÜÛÛÛÛß
-Û                                                 ÜÛÛÛÛß       ßÛÜ     ÜÛÛÛÛß
-Û                                               ÜÛÛÛÛß           ßÛÜ ÜÛÛÛÛß
-Û                                             ÜÛÛÜÛß               ÛÛÛÛÛß
-Û                                           ÜÛÛÛÛßÛÜ             ÜÛÛÛÛß
-ÛÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÛÛÛÛß   ßÛÜ         ÜÛÛÛÛß nf0 by FcR
+1
+00:00:01,156 --> 00:00:03,841
+- I am not saying that your
+coworker is right or wrong.
+
+2
+00:00:03,866 --> 00:00:06,533
+Amira, I am just saying that
+he is entitled to his opinion.
+
+3
+00:00:06,558 --> 00:00:09,648
+Whether or not you agree
+with that is up to...
+
+4
+00:00:09,673 --> 00:00:11,336
+How is that sexist?
+
+5
+00:00:12,141 --> 00:00:13,528
+It is too early for this, okay?
+
+6
+00:00:13,553 --> 00:00:15,303
+Please save the
+postmodern Muslim
+
+7
+00:00:15,328 --> 00:00:16,776
+progressive grad student
+speech for someone else.
+
+8
+00:00:16,800 --> 00:00:19,177
+- Excuse me. Excuse
+me. Excuse me, sir.
+
+9
+00:00:19,202 --> 00:00:20,885
+- Call you back.
+
+10
+00:00:20,910 --> 00:00:22,302
+Can I help you?
+
+11
+00:00:22,327 --> 00:00:23,953
+- Some man just... He
+tried to attack me.
+
+12
+00:00:23,978 --> 00:00:24,867
+- How? When?
+
+13
+00:00:24,892 --> 00:00:26,352
+- Like, five minutes
+ago. He had a knife.
+
+14
+00:00:26,377 --> 00:00:27,776
+- Okay, are you all right? Do
+you need medical attention?
+
+15
+00:00:27,800 --> 00:00:29,721
+- No, no, no, he
+grabbed my arm, and I...
+
+16
+00:00:29,746 --> 00:00:32,097
+- Wallet and watch now.
+
+17
+00:00:33,844 --> 00:00:34,797
+Now.
+
+18
+00:00:34,822 --> 00:00:35,997
+- Okay, okay, okay, okay.
+
+19
+00:00:36,138 --> 00:00:37,446
+Just relax, all
+right? Put the gun...
+
+20
+00:00:37,471 --> 00:00:39,342
+- Wallet and watch
+or you're a dead man.
+
+21
+00:00:39,526 --> 00:00:40,984
+- Do what he says, bitch.
+
+22
+00:00:44,187 --> 00:00:45,449
+- Okay. All right.
+
+23
+00:00:45,709 --> 00:00:48,189
+Okay. Okay.
+- Come on!
+
+24
+00:00:48,244 --> 00:00:52,335
+- All right. There you go.
+
+25
+00:00:52,360 --> 00:00:53,720
+- Let's go.
+- All right, all right.
+
+26
+00:00:53,745 --> 00:00:55,312
+Just take it.
+
+27
+00:01:09,255 --> 00:01:13,085
+- Next time a girl waves at
+you, keep walking, dumbass.
+
+28
+00:01:26,486 --> 00:01:28,923
+- You okay? I called 911.
+
+29
+00:01:29,058 --> 00:01:30,669
+Cops will be here any second.
+
+30
+00:01:32,994 --> 00:01:35,445
+- Nina? Hey.
+
+31
+00:01:36,008 --> 00:01:37,575
+Okay, I'll be there
+in 30 minutes.
+
+32
+00:01:37,772 --> 00:01:39,372
+I'm just dealing with
+something personal.
+
+33
+00:01:44,153 --> 00:01:48,292
+<font color="#ff268c"><i>Resync By M_I_S
+www.opensubtitles.org</i></font>
+
+34
+00:01:50,611 --> 00:01:52,221
+- So what do we got?
+
+35
+00:01:52,246 --> 00:01:58,295
+- Female, Hispanic, about 25,
+no purse, no ID, no phone.
+
+36
+00:01:58,483 --> 00:01:59,920
+- So we're thinking robbery?
+
+37
+00:02:00,366 --> 00:02:01,367
+- Looks that way.
+
+38
+00:02:12,505 --> 00:02:14,062
+Hey, everything good?
+
+39
+00:02:14,087 --> 00:02:15,087
+- All good.
+
+40
+00:02:17,301 --> 00:02:19,085
+- Whoa, what happened?
+
+41
+00:02:19,110 --> 00:02:21,635
+- I, uh, took a spill
+while I was jogging.
+
+42
+00:02:22,128 --> 00:02:23,825
+- But you're okay?
+
+43
+00:02:23,850 --> 00:02:26,505
+- Yeah. I'll have ERT
+start to process the scene.
+
+44
+00:02:30,099 --> 00:02:31,578
+- Morning, folks.
+
+45
+00:02:31,603 --> 00:02:33,170
+So victim was killed
+in a federal park,
+
+46
+00:02:33,195 --> 00:02:34,501
+which means this one's all ours.
+
+47
+00:02:34,688 --> 00:02:36,533
+Preliminary report
+suggests she's Hispanic,
+
+48
+00:02:36,558 --> 00:02:38,125
+approximately 25 years old.
+
+49
+00:02:38,150 --> 00:02:40,359
+Other than that, we are
+starting at the beginning.
+
+50
+00:02:40,384 --> 00:02:42,516
+So we get an ID yet?
+
+51
+00:02:42,675 --> 00:02:43,815
+- Got a hit on facial rec.
+
+52
+00:02:43,840 --> 00:02:46,756
+Her name is Marta Muñoz.
+
+53
+00:02:46,781 --> 00:02:47,807
+- Uh-huh.
+
+54
+00:02:47,832 --> 00:02:49,299
+All right, start
+preaching to us.
+
+55
+00:02:49,324 --> 00:02:51,174
+Elise, tell us
+about Marta Muñoz.
+
+56
+00:02:51,199 --> 00:02:53,592
+- No priors, single,
+and appears to have
+
+57
+00:02:53,617 --> 00:02:55,148
+been working as a hairstylist.
+
+58
+00:02:55,173 --> 00:02:56,609
+- Mm, she file
+any police reports
+
+59
+00:02:56,634 --> 00:02:58,093
+or restraining orders
+in the last few months?
+
+60
+00:02:58,117 --> 00:02:59,117
+- Negative.
+
+61
+00:02:59,142 --> 00:03:01,219
+There's not much of a social
+media presence, either.
+
+62
+00:03:01,328 --> 00:03:02,968
+By all accounts, looks
+like she was living
+
+63
+00:03:02,993 --> 00:03:04,180
+a pretty mundane existence.
+
+64
+00:03:04,205 --> 00:03:05,571
+- All right, well, let's
+get some video in the bath
+
+65
+00:03:05,595 --> 00:03:08,359
+and start scrubbing. I want pods,
+street cams, surveillance video.
+
+66
+00:03:08,384 --> 00:03:10,144
+This perp didn't just
+appear out of thin air.
+
+67
+00:03:10,184 --> 00:03:12,227
+- Elise, and pull Marta's
+last known address
+
+68
+00:03:12,252 --> 00:03:14,109
+and get it over to
+Tiff and Scola, please.
+
+69
+00:03:14,138 --> 00:03:15,444
+- Got it.
+
+70
+00:03:15,539 --> 00:03:16,424
+- Good morning.
+
+71
+00:03:16,449 --> 00:03:18,102
+It looks like we're
+starting from scratch.
+
+72
+00:03:18,187 --> 00:03:20,823
+- Yeah, a quiet part of
+town, especially at night.
+
+73
+00:03:20,872 --> 00:03:22,198
+There's not a lot of
+surveillance cameras
+
+74
+00:03:22,222 --> 00:03:24,315
+down there, either.
+- Forensics?
+
+75
+00:03:24,340 --> 00:03:26,472
+- OA and Nina are at the
+M.E.'s office right now.
+
+76
+00:03:32,064 --> 00:03:34,153
+- Cause of death
+is strangulation.
+
+77
+00:03:34,178 --> 00:03:36,093
+You can see the
+bruising under the neck.
+
+78
+00:03:36,118 --> 00:03:39,208
+Hyoid bone was crushed,
+cutting off the flow of oxygen.
+
+79
+00:03:39,233 --> 00:03:40,669
+- What about the
+marks on her wrist?
+
+80
+00:03:40,694 --> 00:03:41,760
+- Ratchet marks.
+
+81
+00:03:42,115 --> 00:03:43,421
+- The killer used handcuffs.
+
+82
+00:03:43,446 --> 00:03:44,792
+- Looks like it.
+
+83
+00:03:44,817 --> 00:03:46,097
+- So that he could strangle her?
+
+84
+00:03:46,122 --> 00:03:47,307
+- So he could rape her.
+
+85
+00:03:47,332 --> 00:03:49,769
+There's significant
+tearing and abrasions.
+
+86
+00:03:50,384 --> 00:03:52,256
+He leave
+any DNA behind?
+
+87
+00:03:52,281 --> 00:03:53,909
+- No, unfortunately.
+
+88
+00:03:53,934 --> 00:03:55,066
+- Nothing under the fingernails?
+
+89
+00:03:55,090 --> 00:03:56,221
+- Nothing.
+
+90
+00:03:56,246 --> 00:03:58,393
+I wish I had more
+answers for you.
+
+91
+00:03:58,628 --> 00:03:59,803
+- So do we.
+
+92
+00:04:14,911 --> 00:04:16,913
+Hi. Mrs. Muñoz?
+- Yes?
+
+93
+00:04:16,938 --> 00:04:20,767
+- Hi, we're Special
+Agents Chase and Zidan.
+
+94
+00:04:20,877 --> 00:04:22,182
+- What's going on?
+
+95
+00:04:22,207 --> 00:04:24,775
+Has something happened?
+
+96
+00:04:24,800 --> 00:04:26,759
+- Yes, I'm afraid so.
+
+97
+00:04:27,134 --> 00:04:28,483
+- Oh, my God.
+
+98
+00:04:28,508 --> 00:04:31,337
+It's Marta, isn't it?
+
+99
+00:04:31,448 --> 00:04:32,884
+- I'm sorry to
+say, your daughter
+
+100
+00:04:32,909 --> 00:04:34,610
+was killed this morning.
+
+101
+00:04:35,080 --> 00:04:37,663
+- Hey. I got you. I got you.
+
+102
+00:04:43,758 --> 00:04:47,153
+- Marta was a good
+girl, a good daughter.
+
+103
+00:04:47,178 --> 00:04:49,093
+- Was she having any problems?
+
+104
+00:04:49,118 --> 00:04:51,860
+Was anybody threatening
+her, maybe an ex-boyfriend?
+
+105
+00:04:52,102 --> 00:04:54,017
+- No, nothing like that.
+
+106
+00:04:54,089 --> 00:04:56,048
+She wasn't dating anyone.
+
+107
+00:04:56,073 --> 00:04:58,815
+And her last boyfriend
+was very nice.
+
+108
+00:04:58,870 --> 00:05:01,089
+He moved to Texas, I think.
+
+109
+00:05:01,114 --> 00:05:03,766
+- Okay, did she mention
+anything unusual lately?
+
+110
+00:05:04,023 --> 00:05:05,317
+- Like what?
+
+111
+00:05:05,342 --> 00:05:08,725
+- Did she mention somebody
+who might have been scary,
+
+112
+00:05:08,750 --> 00:05:10,982
+anybody following
+her, watching her?
+
+113
+00:05:11,332 --> 00:05:13,160
+- Last week.
+
+114
+00:05:13,256 --> 00:05:14,910
+She said that some
+guy was watching her
+
+115
+00:05:14,935 --> 00:05:17,241
+when she closed up the salon.
+
+116
+00:05:17,468 --> 00:05:19,644
+I told her she should
+start taking taxis.
+
+117
+00:05:19,926 --> 00:05:22,538
+It's too dangerous to take the
+subway at that time of night,
+
+118
+00:05:22,563 --> 00:05:25,435
+but she wanted to save money.
+
+119
+00:05:25,460 --> 00:05:27,578
+She kept talking about
+buying a house up
+
+120
+00:05:27,603 --> 00:05:29,040
+in Westchester someday.
+
+121
+00:05:34,238 --> 00:05:38,068
+Did this man, did he...
+
+122
+00:05:38,093 --> 00:05:40,574
+Did he do more
+than just kill her?
+
+123
+00:05:43,497 --> 00:05:44,497
+- Yes.
+
+124
+00:05:55,710 --> 00:05:58,234
+- We are gonna find the
+man that hurt Marta.
+
+125
+00:05:58,423 --> 00:05:59,642
+Okay?
+
+126
+00:05:59,667 --> 00:06:01,422
+He's gonna pay for what he did.
+
+127
+00:06:03,611 --> 00:06:04,611
+I promise.
+
+128
+00:06:09,735 --> 00:06:11,911
+I'm so sorry.
+
+129
+00:06:15,216 --> 00:06:16,779
+- All right, listen
+up, Yankee fans.
+
+130
+00:06:16,804 --> 00:06:19,111
+Marta told her mother
+someone was watching her
+
+131
+00:06:19,136 --> 00:06:21,660
+near the salon around
+closing time last week.
+
+132
+00:06:21,685 --> 00:06:22,997
+So let's start pulling video
+
+133
+00:06:23,022 --> 00:06:25,372
+near the Left Bank Hair
+Salon on East 8th Street.
+
+134
+00:06:26,054 --> 00:06:28,100
+- Hey, you got a sec?
+
+135
+00:06:28,125 --> 00:06:29,170
+- Yeah.
+
+136
+00:06:35,616 --> 00:06:37,638
+- I just got off the phone
+with Detective Chavez
+
+137
+00:06:37,663 --> 00:06:39,099
+at the 27th precinct.
+
+138
+00:06:39,188 --> 00:06:40,972
+I am so sorry. I had no idea.
+
+139
+00:06:40,997 --> 00:06:42,935
+- I'm fine.
+
+140
+00:06:43,888 --> 00:06:45,763
+- I don't care how long
+you've been on the job.
+
+141
+00:06:45,788 --> 00:06:47,311
+Being robbed at gunpoint...
+
+142
+00:06:47,336 --> 00:06:48,896
+- It was not a big deal.
+
+143
+00:06:49,734 --> 00:06:51,780
+He asked for my wallet.
+I gave it to him.
+
+144
+00:06:52,007 --> 00:06:53,574
+That was that.
+
+145
+00:06:53,668 --> 00:06:56,932
+- Well, NYPD has offered
+to let us handle the case.
+
+146
+00:06:56,957 --> 00:06:58,437
+So if you...
+- No, no, no.
+
+147
+00:06:58,462 --> 00:07:00,142
+I appreciate that, but
+it was a few addicts
+
+148
+00:07:00,167 --> 00:07:01,499
+trying to make a quick buck.
+
+149
+00:07:01,524 --> 00:07:02,482
+Isobel, that's it.
+
+150
+00:07:02,507 --> 00:07:04,248
+- I'm not so sure about that.
+
+151
+00:07:04,273 --> 00:07:05,970
+Case detective thinks
+that these two perps
+
+152
+00:07:05,995 --> 00:07:09,041
+are responsible for at
+least ten other robberies.
+
+153
+00:07:09,246 --> 00:07:11,161
+- Okay. Well, that's your call.
+
+154
+00:07:11,186 --> 00:07:12,404
+But I'm good.
+
+155
+00:07:13,774 --> 00:07:15,515
+- If that's what you want, okay.
+
+156
+00:07:19,779 --> 00:07:21,216
+- If you don't
+mind, I would prefer
+
+157
+00:07:21,241 --> 00:07:23,547
+to keep this private, though.
+
+158
+00:07:23,727 --> 00:07:24,815
+- Yeah, of course.
+
+159
+00:07:30,841 --> 00:07:32,544
+- Hey. How'd it
+go with the boss?
+
+160
+00:07:32,569 --> 00:07:34,244
+- Good, she just needs
+me to clean up a report.
+
+161
+00:07:34,268 --> 00:07:36,183
+- Oh, fun. Well,
+it'll have to wait.
+
+162
+00:07:36,521 --> 00:07:38,653
+The JOC pulled
+street cam footage,
+
+163
+00:07:38,678 --> 00:07:41,420
+and they found the dude
+who was following Marta.
+
+164
+00:07:41,445 --> 00:07:44,666
+We ran facial rec, and that
+is him... Norm Carver, 35.
+
+165
+00:07:44,691 --> 00:07:47,302
+He has two priors, one
+for forcible touching,
+
+166
+00:07:47,327 --> 00:07:49,634
+and one for stalking
+in the third degree.
+
+167
+00:07:49,659 --> 00:07:51,339
+He has warrants out
+for his arrest on both.
+
+168
+00:07:51,588 --> 00:07:53,677
+Also, he's a security
+guard off and on,
+
+169
+00:07:53,709 --> 00:07:55,233
+so he owns his own handcuffs.
+
+170
+00:07:55,258 --> 00:07:57,987
+- Okay. We have an address?
+
+171
+00:07:58,763 --> 00:08:01,374
+- 2311, 2313...
+
+172
+00:08:01,399 --> 00:08:04,315
+- It's gonna be right up here.
+
+173
+00:08:04,340 --> 00:08:05,602
+- Hey.
+
+174
+00:08:05,627 --> 00:08:07,651
+I think I spot him at our two.
+
+175
+00:08:08,814 --> 00:08:09,989
+- Same height, same build.
+
+176
+00:08:12,719 --> 00:08:14,269
+Yep, that's him.
+
+177
+00:08:22,862 --> 00:08:24,933
+Stay put.
+
+178
+00:08:37,968 --> 00:08:39,448
+- Whoa!
+
+179
+00:08:43,360 --> 00:08:45,623
+Norm Carver, you're
+under arrest.
+
+180
+00:08:45,648 --> 00:08:47,040
+Hey! Hey.
+
+181
+00:08:49,401 --> 00:08:51,293
+I've had enough,
+okay? I've had enough.
+
+182
+00:08:51,318 --> 00:08:52,844
+Do you understand?
+- Hey.
+
+183
+00:08:52,869 --> 00:08:54,622
+Hey, hey, hey. Is
+everything okay?
+
+184
+00:08:54,647 --> 00:08:55,865
+- Yeah, everything's fine.
+
+185
+00:08:55,890 --> 00:08:57,641
+Norm here just doesn't
+like to listen.
+
+186
+00:08:58,029 --> 00:08:59,943
+- Let's give him
+a chance to, OA.
+
+187
+00:09:03,854 --> 00:09:05,856
+- Yeah, okay.
+
+188
+00:09:05,881 --> 00:09:08,362
+- Are you gonna cooperate?
+- Yeah.
+
+189
+00:09:08,387 --> 00:09:10,258
+- Hands behind your back.
+
+190
+00:09:12,274 --> 00:09:13,274
+Let's go.
+
+191
+00:09:25,859 --> 00:09:27,730
+- No. Don't know her.
+
+192
+00:09:27,755 --> 00:09:29,180
+- You sure?
+
+193
+00:09:30,019 --> 00:09:32,456
+- Sure as I can be about
+something like that.
+
+194
+00:09:32,481 --> 00:09:34,092
+- What the hell is
+that supposed to mean?
+
+195
+00:09:34,428 --> 00:09:35,690
+- Means I meet lots of women.
+
+196
+00:09:35,871 --> 00:09:37,786
+Some I remember, some I don't.
+
+197
+00:09:38,162 --> 00:09:39,234
+- Okay.
+
+198
+00:09:39,259 --> 00:09:43,002
+So just to be clear, you don't
+remember ever meeting her?
+
+199
+00:09:43,408 --> 00:09:44,617
+- Correct.
+
+200
+00:09:45,497 --> 00:09:46,716
+- Okay.
+
+201
+00:09:48,553 --> 00:09:50,207
+Well, this is last week.
+
+202
+00:09:50,232 --> 00:09:51,687
+That's you and that's Marta.
+
+203
+00:09:53,787 --> 00:09:55,571
+- A man's allowed to
+walk down the street.
+
+204
+00:09:56,073 --> 00:09:57,335
+- Why are you lying, Norm?
+
+205
+00:09:57,422 --> 00:09:58,656
+- Lying?
+
+206
+00:09:58,681 --> 00:10:00,240
+- You just said that
+you don't know her.
+
+207
+00:10:00,264 --> 00:10:01,569
+- I don't.
+
+208
+00:10:01,655 --> 00:10:03,353
+Doesn't mean I've
+never seen her before.
+
+209
+00:10:03,378 --> 00:10:05,510
+- You might want to
+rethink your strategy here.
+
+210
+00:10:05,698 --> 00:10:08,031
+Okay, we are
+investigating a murder.
+
+211
+00:10:10,384 --> 00:10:11,820
+- What are you talking about?
+
+212
+00:10:11,845 --> 00:10:14,151
+- She's dead. Someone
+strangled her.
+
+213
+00:10:14,176 --> 00:10:16,874
+- You're on the short list of
+people who could have done it.
+
+214
+00:10:17,032 --> 00:10:19,426
+- I... I thought this was
+about my outstanding warrants.
+
+215
+00:10:19,527 --> 00:10:21,773
+I got nothing to do
+with any of this.
+
+216
+00:10:22,750 --> 00:10:24,316
+On my mother.
+
+217
+00:10:24,341 --> 00:10:26,126
+- I'm sure you love
+your mother very much,
+
+218
+00:10:26,151 --> 00:10:27,587
+but we're gonna
+need more than that.
+
+219
+00:10:29,625 --> 00:10:31,844
+- Look, I remember walking home,
+
+220
+00:10:32,048 --> 00:10:34,181
+and I saw her near a hair salon.
+
+221
+00:10:34,206 --> 00:10:36,556
+She was cute, so I
+followed her, hoping to,
+
+222
+00:10:36,580 --> 00:10:38,368
+you know, start
+up a conversation.
+
+223
+00:10:38,607 --> 00:10:39,739
+I'm old-school.
+
+224
+00:10:39,764 --> 00:10:41,331
+I like to chat up
+ladies face to face...
+
+225
+00:10:41,356 --> 00:10:43,706
+Don't like all that swiping
+left and right nonsense.
+
+226
+00:10:44,010 --> 00:10:46,012
+- You like to look them
+in the eye, is that it?
+
+227
+00:10:46,037 --> 00:10:48,822
+- That's the best part,
+seeing the twinkle.
+
+228
+00:10:49,136 --> 00:10:51,539
+- I'm sure you love to
+watch the twinkle disappear,
+
+229
+00:10:51,564 --> 00:10:53,520
+too, right... The
+life leave their eyes?
+
+230
+00:10:53,545 --> 00:10:54,368
+- No!
+
+231
+00:10:54,393 --> 00:10:56,544
+I followed that lady
+for a few blocks,
+
+232
+00:10:56,569 --> 00:10:59,659
+said hello, then I tried
+to start up a conversation,
+
+233
+00:10:59,684 --> 00:11:01,425
+but she was scared,
+so I stopped talking
+
+234
+00:11:01,450 --> 00:11:02,756
+and walked away.
+
+235
+00:11:03,022 --> 00:11:05,111
+- Because you're a gentleman?
+- Exactly.
+
+236
+00:11:05,136 --> 00:11:06,877
+- Gentlemen don't have
+priors for stalking
+
+237
+00:11:06,902 --> 00:11:08,730
+and forceable touching, Norm.
+
+238
+00:11:08,972 --> 00:11:10,626
+- That's all in the past.
+
+239
+00:11:10,666 --> 00:11:12,711
+I had a crazy ex-girlfriend.
+
+240
+00:11:12,736 --> 00:11:14,956
+She got wasted and
+called the police.
+
+241
+00:11:15,183 --> 00:11:17,185
+- You got a second?
+
+242
+00:11:22,173 --> 00:11:24,250
+So NYPD just found another body,
+
+243
+00:11:24,275 --> 00:11:25,776
+same MO as Marta's murder...
+
+244
+00:11:25,801 --> 00:11:27,001
+Sexual assault, strangulation,
+
+245
+00:11:27,031 --> 00:11:28,337
+handcuffs on the
+wrist this time.
+
+246
+00:11:28,518 --> 00:11:30,955
+- Time of death?
+- An hour ago.
+
+247
+00:11:30,980 --> 00:11:33,504
+Prince Charming is not our guy.
+- Okay, are we sure about that?
+
+248
+00:11:33,529 --> 00:11:35,361
+I mean, there's more than one
+angry white dude in the city.
+
+249
+00:11:35,385 --> 00:11:37,365
+- Yeah, we checked his phone's
+location, pulled video.
+
+250
+00:11:37,389 --> 00:11:39,020
+He was in Bed-Stuy at the
+time of Marta's murder,
+
+251
+00:11:39,044 --> 00:11:40,563
+so he's not our guy.
+
+252
+00:11:40,588 --> 00:11:42,480
+But I'll make sure he gets
+booked on those warrants.
+
+253
+00:11:42,504 --> 00:11:43,984
+You guys head down
+to the scene, okay?
+
+254
+00:11:44,152 --> 00:11:46,055
+- Okay.
+- Thanks.
+
+255
+00:11:46,186 --> 00:11:50,110
+- Female, white, age 27,
+name's Andrea Morris.
+
+256
+00:11:50,135 --> 00:11:52,616
+- Any witnesses?
+- No... not yet, anyway.
+
+257
+00:11:52,641 --> 00:11:54,860
+- But we're on it. We have
+agents out canvassing.
+
+258
+00:11:55,060 --> 00:11:56,540
+- We got to stop
+meeting like this.
+
+259
+00:11:56,565 --> 00:11:58,294
+- I couldn't agree more.
+- What's the matter?
+
+260
+00:11:58,318 --> 00:11:59,720
+You guys don't have
+enough resources?
+
+261
+00:11:59,744 --> 00:12:01,344
+Forgot how to solve
+a simple murder case?
+
+262
+00:12:01,369 --> 00:12:03,141
+- What did you say?
+
+263
+00:12:03,932 --> 00:12:05,157
+- What the hell are
+you talking about?
+
+264
+00:12:05,181 --> 00:12:06,879
+- We are doing
+everything we can...
+
+265
+00:12:06,904 --> 00:12:08,964
+Everything, do you understand?
+
+266
+00:12:08,989 --> 00:12:10,446
+- Get out of my face.
+- Or what?
+
+267
+00:12:10,471 --> 00:12:11,670
+- Whoa, whoa,
+whoa. Omar, chill.
+
+268
+00:12:11,694 --> 00:12:13,513
+- Okay. All right.
+
+269
+00:12:13,710 --> 00:12:16,539
+That's enough. Back off.
+- He's out of line.
+
+270
+00:12:16,564 --> 00:12:17,924
+He's got no right
+talking that way.
+
+271
+00:12:17,949 --> 00:12:19,700
+- Yeah, maybe we stop
+with the jokes, okay?
+
+272
+00:12:19,725 --> 00:12:20,900
+We have two dead bodies.
+
+273
+00:12:28,116 --> 00:12:29,640
+Hey.
+
+274
+00:12:29,665 --> 00:12:30,837
+What was that all about?
+
+275
+00:12:30,862 --> 00:12:32,211
+I mean, the guy was joking.
+
+276
+00:12:32,236 --> 00:12:33,890
+A bad joke, sure, but still.
+
+277
+00:12:33,915 --> 00:12:36,265
+- You do not joke
+about stuff like this.
+
+278
+00:12:36,290 --> 00:12:37,726
+- OA's right.
+
+279
+00:12:37,751 --> 00:12:39,274
+That was out of line.
+
+280
+00:12:39,299 --> 00:12:41,107
+- You good, Omar?
+
+281
+00:12:42,275 --> 00:12:44,495
+- Yeah, I'm fine.
+
+282
+00:12:49,089 --> 00:12:50,404
+- Poor girl.
+
+283
+00:12:50,813 --> 00:12:52,904
+I can't imagine how
+scared she must have felt.
+
+284
+00:12:53,821 --> 00:12:56,529
+You know, being so
+alone and so vulnerable.
+
+285
+00:12:58,361 --> 00:12:59,667
+- This guy knows
+what he's doing.
+
+286
+00:12:59,966 --> 00:13:02,621
+He filed the serial number
+off of the handcuffs.
+
+287
+00:13:05,171 --> 00:13:07,560
+- The ADIC is getting
+anxious, and the mayor wants
+
+288
+00:13:07,585 --> 00:13:09,450
+to set up a press
+conference, so please,
+
+289
+00:13:09,475 --> 00:13:11,825
+tell me something good.
+- I wish I could.
+
+290
+00:13:11,850 --> 00:13:13,983
+ERT came up empty at
+the second crime scene.
+
+291
+00:13:14,008 --> 00:13:15,305
+- No forensics.
+
+292
+00:13:15,330 --> 00:13:17,312
+The killer's obviously
+using condoms and gloves.
+
+293
+00:13:17,337 --> 00:13:19,091
+- Okay. What about
+the handcuffs?
+
+294
+00:13:19,116 --> 00:13:21,075
+- Still being processed.
+- All right.
+
+295
+00:13:21,100 --> 00:13:22,383
+You two get over
+to the crime lab
+
+296
+00:13:22,408 --> 00:13:24,039
+and light a fire
+under their asses.
+
+297
+00:13:24,064 --> 00:13:26,980
+We have got two murders in
+two days and not one clue.
+
+298
+00:13:27,074 --> 00:13:30,164
+- Hmm, hate to say
+it, but he's good.
+
+299
+00:13:30,548 --> 00:13:32,375
+- Now, maybe.
+
+300
+00:13:32,627 --> 00:13:35,021
+What about before?
+- What do you mean?
+
+301
+00:13:35,139 --> 00:13:37,013
+- Well, he didn't just
+wake up two days ago
+
+302
+00:13:37,038 --> 00:13:38,997
+and become a killer, right?
+
+303
+00:13:39,022 --> 00:13:42,516
+This guy had a life before.
+So what was he doing?
+
+304
+00:13:42,541 --> 00:13:44,898
+What kinds of crimes
+was he committing?
+
+305
+00:13:44,923 --> 00:13:46,848
+He didn't go from model
+citizen to killer overnight.
+
+306
+00:13:46,872 --> 00:13:48,696
+- Right, he worked his
+way up to the big leagues,
+
+307
+00:13:48,720 --> 00:13:51,273
+started small.
+- Harassment, stalking.
+
+308
+00:13:51,424 --> 00:13:52,773
+- Yeah, and then moved on
+
+309
+00:13:52,798 --> 00:13:54,582
+to more serious
+crimes, like rape.
+
+310
+00:13:54,607 --> 00:13:56,837
+- And got better along the
+way, learned from his mistakes.
+
+311
+00:13:56,861 --> 00:13:57,648
+- Right.
+
+312
+00:13:57,673 --> 00:13:59,504
+All right, people,
+let's start digging
+
+313
+00:13:59,529 --> 00:14:01,898
+into recent sexual assault
+cases in the Lower East Side.
+
+314
+00:14:01,952 --> 00:14:03,606
+Scrub any and all police reports
+
+315
+00:14:03,631 --> 00:14:04,881
+within the last three months.
+
+316
+00:14:04,906 --> 00:14:06,319
+Look for victims that
+match the profile
+
+317
+00:14:06,343 --> 00:14:07,867
+of our two recent
+murder victims.
+
+318
+00:14:07,892 --> 00:14:09,305
+All right, grab your
+hoes and spades.
+
+319
+00:14:09,329 --> 00:14:10,112
+Get to work.
+
+320
+00:14:16,481 --> 00:14:19,945
+- Detective Chavez, I
+don't have a lot of time.
+
+321
+00:14:20,055 --> 00:14:21,666
+I'm in the middle
+of an investigation.
+
+322
+00:14:21,722 --> 00:14:22,961
+- I won't be long, promise.
+
+323
+00:14:22,986 --> 00:14:24,626
+I just want to go over
+your police report,
+
+324
+00:14:24,651 --> 00:14:27,305
+see if you remember anything
+that might be helpful.
+
+325
+00:14:27,330 --> 00:14:28,828
+- What does that mean?
+
+326
+00:14:29,373 --> 00:14:31,157
+- Excuse me?
+
+327
+00:14:31,341 --> 00:14:32,995
+- I told the cop
+everything that happened.
+
+328
+00:14:33,262 --> 00:14:34,828
+- I know, it's just
+that, sometimes,
+
+329
+00:14:34,853 --> 00:14:36,899
+people remember things
+down the road, you know?
+
+330
+00:14:37,722 --> 00:14:39,854
+In the moment, there's
+so many emotions.
+
+331
+00:14:39,879 --> 00:14:42,609
+It's like, you can't really
+process what just happened.
+
+332
+00:14:43,079 --> 00:14:45,952
+- Yeah, I get it. I
+do this for a living.
+
+333
+00:14:46,086 --> 00:14:48,436
+- No, you solve
+cases for a living.
+
+334
+00:14:48,461 --> 00:14:50,463
+It's, uh... it's different.
+
+335
+00:14:50,488 --> 00:14:53,099
+- Okay, well, like I said,
+I don't have a lot of time.
+
+336
+00:14:53,428 --> 00:14:55,126
+- You told the
+responding officer that
+
+337
+00:14:55,151 --> 00:14:56,935
+you didn't see either
+of the perps' faces.
+
+338
+00:14:56,960 --> 00:14:58,312
+Is that true?
+
+339
+00:14:59,064 --> 00:15:02,677
+- Of course I did, I...
+It just happened fast.
+
+340
+00:15:02,920 --> 00:15:05,270
+- You described the
+female assailant as white,
+
+341
+00:15:05,295 --> 00:15:07,773
+thin build, average height.
+
+342
+00:15:08,418 --> 00:15:12,074
+Anything else you want
+to add... Tattoos, scars?
+
+343
+00:15:12,099 --> 00:15:13,320
+- Uh, no.
+
+344
+00:15:13,345 --> 00:15:15,172
+That's, uh, everything
+that I remember.
+
+345
+00:15:15,711 --> 00:15:17,625
+- And the male assailant,
+
+346
+00:15:17,650 --> 00:15:19,290
+wearing a hoodie,
+medium height and build?
+
+347
+00:15:19,315 --> 00:15:20,625
+- That's correct.
+
+348
+00:15:20,816 --> 00:15:22,914
+- And you said neither
+one actually attacked you.
+
+349
+00:15:22,939 --> 00:15:26,414
+They just asked for your
+wallet and you handed it over?
+
+350
+00:15:27,594 --> 00:15:28,769
+- Yep.
+
+351
+00:15:30,666 --> 00:15:31,972
+- Hmm.
+
+352
+00:15:34,650 --> 00:15:37,566
+Look, Omar, these two perps
+have been pretty active,
+
+353
+00:15:37,738 --> 00:15:39,538
+and they're getting more
+and more violent too.
+
+354
+00:15:39,751 --> 00:15:43,232
+They're flashing guns,
+pistol-whipping people.
+
+355
+00:15:43,421 --> 00:15:45,467
+We need to get them
+off the streets.
+
+356
+00:15:45,492 --> 00:15:47,624
+- And I wish I could
+help you. I really do.
+
+357
+00:15:47,649 --> 00:15:50,203
+But I saw what I saw.
+
+358
+00:15:50,525 --> 00:15:52,702
+- Would you be willing
+to look at some photos?
+
+359
+00:15:52,727 --> 00:15:53,852
+- I told you, I saw what I saw.
+
+360
+00:15:53,876 --> 00:15:55,312
+- I know you didn't get a
+good look at their faces,
+
+361
+00:15:55,336 --> 00:15:57,073
+but sometimes, seeing
+a picture stimulates
+
+362
+00:15:57,098 --> 00:15:58,752
+a victim's recollection.
+
+363
+00:15:58,777 --> 00:16:00,843
+Helps people remember things
+that they wouldn't remember.
+
+364
+00:16:00,867 --> 00:16:04,654
+- Detective, I did not get
+a good look at their faces.
+
+365
+00:16:04,816 --> 00:16:06,006
+Okay?
+
+366
+00:16:06,157 --> 00:16:08,486
+You can save this
+victim self-help crap
+
+367
+00:16:08,511 --> 00:16:09,511
+for someone else.
+
+368
+00:16:18,990 --> 00:16:20,608
+- This guy is
+picking up the pace
+
+369
+00:16:20,641 --> 00:16:22,351
+and we are no closer
+to identifying him.
+
+370
+00:16:22,376 --> 00:16:24,158
+- Where are we at with
+the prior police reports?
+
+371
+00:16:24,182 --> 00:16:25,415
+Any similarities worth chasing?
+
+372
+00:16:25,439 --> 00:16:27,595
+- We might have something.
+
+373
+00:16:27,620 --> 00:16:30,448
+NYPD filed a report
+three weeks ago
+
+374
+00:16:30,473 --> 00:16:32,562
+about a young woman
+who was assaulted.
+
+375
+00:16:35,118 --> 00:16:36,250
+- Uh-huh.
+- Hmm.
+
+376
+00:16:36,275 --> 00:16:39,125
+Those abrasions certainly look
+like they're from restraints.
+
+377
+00:16:39,150 --> 00:16:40,570
+Who is she and what do we know?
+
+378
+00:16:40,595 --> 00:16:44,119
+- Citra Susanti, 25,
+claims a guy in a ski mask
+
+379
+00:16:44,144 --> 00:16:45,773
+dragged her into an alley,
+
+380
+00:16:45,798 --> 00:16:47,539
+used a zip tie to
+bind her hands.
+
+381
+00:16:47,564 --> 00:16:48,912
+- All right, good.
+I mean, zip ties,
+
+382
+00:16:48,936 --> 00:16:50,635
+not handcuffs, but close enough.
+
+383
+00:16:50,660 --> 00:16:52,053
+It still fits the
+killer's profile.
+
+384
+00:16:52,078 --> 00:16:54,123
+- Then what happened?
+- Nothing.
+
+385
+00:16:54,148 --> 00:16:56,258
+According to the report, she
+managed to fight him off.
+
+386
+00:16:56,282 --> 00:16:58,458
+- Anyone identified or taken
+into custody behind it?
+
+387
+00:16:58,483 --> 00:17:00,833
+- Negative... the cop who wrote
+the report noted the victim
+
+388
+00:17:00,858 --> 00:17:02,469
+was reluctant to
+file a complaint.
+
+389
+00:17:02,494 --> 00:17:03,930
+The only reason she did was,
+
+390
+00:17:03,955 --> 00:17:05,659
+a witness heard her
+screaming, called the police.
+
+391
+00:17:05,683 --> 00:17:06,922
+- Understandable.
+
+392
+00:17:06,947 --> 00:17:09,036
+It's not easy coming forward
+after being attacked.
+
+393
+00:17:09,328 --> 00:17:11,156
+- All right, why don't you two
+go talk to this young lady?
+
+394
+00:17:11,180 --> 00:17:13,547
+Kelly, send them the address.
+- Sure.
+
+395
+00:17:13,572 --> 00:17:15,523
+- Maybe she saw
+something that'll help.
+
+396
+00:17:18,751 --> 00:17:22,015
+- My memory of that day is
+a little foggy, I'm sorry.
+
+397
+00:17:22,040 --> 00:17:23,433
+- I understand.
+
+398
+00:17:23,458 --> 00:17:25,492
+We just still need to
+ask you some questions.
+
+399
+00:17:25,517 --> 00:17:27,084
+- What do you want to know?
+
+400
+00:17:27,320 --> 00:17:30,366
+- Can you tell us what
+happened from the beginning?
+
+401
+00:17:34,062 --> 00:17:36,456
+- I was out to
+dinner with friends,
+
+402
+00:17:36,481 --> 00:17:39,963
+and I was walking
+home when I saw him.
+
+403
+00:17:40,245 --> 00:17:42,836
+He just moved toward me.
+
+404
+00:17:43,229 --> 00:17:44,317
+- Did you see his face?
+
+405
+00:17:44,505 --> 00:17:47,291
+- No. He was
+wearing a ski mask.
+
+406
+00:17:47,316 --> 00:17:48,703
+- Okay.
+
+407
+00:17:49,125 --> 00:17:50,561
+What happened next?
+
+408
+00:17:54,732 --> 00:17:56,453
+- He grabbed me.
+
+409
+00:17:56,478 --> 00:17:58,828
+And then he dragged
+me behind a building.
+
+410
+00:17:58,853 --> 00:18:01,648
+He tried to bind my
+hands, so I bit him.
+
+411
+00:18:01,930 --> 00:18:05,455
+But he had gloves on, so I
+had to bite down really hard.
+
+412
+00:18:05,847 --> 00:18:07,430
+He... he ran away.
+
+413
+00:18:07,455 --> 00:18:08,652
+- Is there a problem?
+
+414
+00:18:08,739 --> 00:18:11,047
+- No, not at all.
+
+415
+00:18:11,072 --> 00:18:12,746
+We're just trying to
+understand what happened.
+
+416
+00:18:12,770 --> 00:18:13,989
+- She just told you.
+
+417
+00:18:14,014 --> 00:18:15,703
+- I know that.
+
+418
+00:18:15,908 --> 00:18:18,911
+But the crime scene photos
+tell a different story.
+
+419
+00:18:19,318 --> 00:18:23,409
+They show that Citra's
+wrists had abrasions.
+
+420
+00:18:23,434 --> 00:18:27,133
+- Are you saying she's lying?
+- No, absolutely not.
+
+421
+00:18:27,158 --> 00:18:28,884
+We're just saying that
+injuries like that
+
+422
+00:18:28,909 --> 00:18:31,031
+indicate that she
+was fully restrained.
+
+423
+00:18:31,135 --> 00:18:32,516
+- What difference does it make?
+
+424
+00:18:32,541 --> 00:18:34,017
+A man attacked her,
+but she's still alive.
+
+425
+00:18:34,041 --> 00:18:35,125
+End of story.
+
+426
+00:18:35,150 --> 00:18:37,219
+- It's not as simple
+as that, ma'am.
+
+427
+00:18:37,244 --> 00:18:40,080
+We believe the man who attacked
+Citra may have also just
+
+428
+00:18:40,105 --> 00:18:43,108
+killed two other women,
+so we were hoping
+
+429
+00:18:43,133 --> 00:18:47,888
+for some sort of information
+to help us identify him.
+
+430
+00:18:48,468 --> 00:18:50,470
+I just want to be clear, okay?
+
+431
+00:18:52,429 --> 00:18:53,925
+This man didn't hurt you?
+
+432
+00:18:53,950 --> 00:18:55,169
+- No.
+
+433
+00:18:55,194 --> 00:18:58,197
+Like I said, I bit
+him and he ran.
+
+434
+00:18:58,573 --> 00:18:59,630
+- Okay.
+
+435
+00:18:59,655 --> 00:19:02,774
+I know you didn't see his face,
+but did you see his skin color?
+
+436
+00:19:02,799 --> 00:19:06,368
+Do you remember his height
+or his build, anything?
+
+437
+00:19:06,713 --> 00:19:08,693
+- I remember seeing his wrist.
+
+438
+00:19:08,917 --> 00:19:12,312
+He was white or light-skinned.
+
+439
+00:19:12,337 --> 00:19:16,297
+And he was average height
+and weight, I think.
+
+440
+00:19:16,322 --> 00:19:18,568
+It's hard to remember.
+
+441
+00:19:19,423 --> 00:19:22,382
+I honestly can't remember
+a lot about that night.
+
+442
+00:19:22,407 --> 00:19:23,669
+- For the better.
+
+443
+00:19:27,122 --> 00:19:29,224
+- Can you just...
+- We understand.
+
+444
+00:19:30,064 --> 00:19:31,646
+And we appreciate your help.
+
+445
+00:19:33,519 --> 00:19:36,779
+If you remember anything
+else, please give us a call.
+
+446
+00:19:42,490 --> 00:19:44,186
+- There's more
+than she's saying.
+
+447
+00:19:44,211 --> 00:19:46,169
+- It's possible,
+but she needs time.
+
+448
+00:19:46,240 --> 00:19:48,764
+- Look, I'm not judging
+her, OA, trust me,
+
+449
+00:19:48,789 --> 00:19:49,789
+but she's holding back.
+
+450
+00:19:49,818 --> 00:19:51,559
+I can see it in her eyes.
+
+451
+00:19:51,584 --> 00:19:53,020
+- Well, maybe it's pain.
+
+452
+00:19:53,045 --> 00:19:54,960
+Or maybe it's fear
+or humiliation,
+
+453
+00:19:54,985 --> 00:19:56,608
+or the fact that her parents
+are hovering over her,
+
+454
+00:19:56,632 --> 00:19:59,766
+forcing her to pretend
+that it never happened.
+
+455
+00:20:00,124 --> 00:20:01,444
+All right, that
+can't help either.
+
+456
+00:20:01,532 --> 00:20:02,505
+Right?
+- Yeah.
+
+457
+00:20:02,530 --> 00:20:04,474
+Yeah, you're right, but...
+- But what?
+
+458
+00:20:04,499 --> 00:20:07,295
+- But it doesn't mean
+that I'm wrong, okay?
+
+459
+00:20:07,445 --> 00:20:10,448
+And I'm not trying to blame
+her or revictimize her.
+
+460
+00:20:10,911 --> 00:20:13,479
+I'm just frustrated, okay,
+because I wanted more answers
+
+461
+00:20:13,504 --> 00:20:15,506
+so that we can catch
+this guy before he hurts
+
+462
+00:20:15,531 --> 00:20:16,531
+or kills other women.
+
+463
+00:20:23,570 --> 00:20:25,101
+- Still got a
+killer on the loose,
+
+464
+00:20:25,126 --> 00:20:27,625
+so we're hoping for good
+news and good news only.
+
+465
+00:20:27,650 --> 00:20:30,087
+- Well, I am doing
+my best, but...
+
+466
+00:20:30,227 --> 00:20:32,711
+- Not the start
+I was hoping for.
+
+467
+00:20:33,335 --> 00:20:35,206
+- No fingerprints
+on the handcuffs.
+
+468
+00:20:35,231 --> 00:20:37,930
+Did find DNA, but it belongs
+to our victim, Andrea Morris.
+
+469
+00:20:37,962 --> 00:20:40,921
+- So we got nothing.
+- Not exactly.
+
+470
+00:20:41,249 --> 00:20:42,555
+Serial number was filed off,
+
+471
+00:20:42,580 --> 00:20:43,922
+which initially
+made it difficult
+
+472
+00:20:43,947 --> 00:20:45,427
+to determine the place of sale.
+
+473
+00:20:45,728 --> 00:20:47,382
+- Initially?
+- Yeah.
+
+474
+00:20:47,407 --> 00:20:49,496
+I remedied it by
+using a technique
+
+475
+00:20:49,521 --> 00:20:51,226
+we normally use on firearms...
+
+476
+00:20:51,684 --> 00:20:54,695
+Applied some reagents,
+etched the metal.
+
+477
+00:20:55,245 --> 00:20:57,609
+The number reappeared.
+- Hmm.
+
+478
+00:20:57,634 --> 00:20:59,101
+We're gonna need
+that serial number
+
+479
+00:20:59,126 --> 00:21:00,547
+to ascertain the seller.
+
+480
+00:21:01,131 --> 00:21:02,476
+- That's nice work.
+
+481
+00:21:02,738 --> 00:21:06,306
+A slow start, but
+finished with a flourish.
+
+482
+00:21:12,631 --> 00:21:14,062
+- Interesting.
+
+483
+00:21:14,087 --> 00:21:16,008
+I've never been in one
+of these stores before.
+
+484
+00:21:16,033 --> 00:21:17,867
+- Me neither.
+
+485
+00:21:18,263 --> 00:21:20,526
+Special Agent Scola. This
+is Special Agent Wallace.
+
+486
+00:21:20,551 --> 00:21:22,162
+We need to ask you
+a few questions.
+
+487
+00:21:22,343 --> 00:21:23,487
+- What about?
+
+488
+00:21:23,512 --> 00:21:25,401
+- A pair of handcuffs
+that were sold here
+
+489
+00:21:25,426 --> 00:21:26,992
+used in a crime.
+
+490
+00:21:27,017 --> 00:21:28,581
+- What kind of crime?
+
+491
+00:21:29,111 --> 00:21:32,288
+- We can't say, but your
+cooperation is important.
+
+492
+00:21:32,437 --> 00:21:34,961
+- Look, I'm as pro law
+enforcement as they come,
+
+493
+00:21:34,986 --> 00:21:36,640
+but if you won't tell
+me what happened,
+
+494
+00:21:36,868 --> 00:21:38,435
+I can't help you, can I?
+
+495
+00:21:38,481 --> 00:21:39,525
+- It's simple, sir.
+
+496
+00:21:39,550 --> 00:21:41,376
+We just need to know who
+bought these handcuffs.
+
+497
+00:21:41,400 --> 00:21:43,315
+- And that means we're
+gonna need access
+
+498
+00:21:43,340 --> 00:21:45,353
+to your sales records,
+any video footage you have
+
+499
+00:21:45,378 --> 00:21:47,674
+covering the cash register area.
+
+500
+00:21:48,244 --> 00:21:50,899
+- Yeah, sorry. That's
+not gonna happen.
+
+501
+00:21:50,924 --> 00:21:52,659
+I mean, my boss would kill me.
+
+502
+00:21:52,684 --> 00:21:55,121
+The dude is super against any
+sort of government overreach.
+
+503
+00:21:55,146 --> 00:21:58,018
+So unless you got a
+warrant, I can't help you.
+
+504
+00:21:58,285 --> 00:21:59,285
+- We do.
+
+505
+00:22:01,951 --> 00:22:04,096
+- Do you mind if I take a look?
+- Please.
+
+506
+00:22:04,121 --> 00:22:06,515
+You can read it, frame it,
+
+507
+00:22:06,984 --> 00:22:09,393
+put it on your wall if you want.
+
+508
+00:22:10,151 --> 00:22:12,196
+We're not leaving until
+we have those records
+
+509
+00:22:12,221 --> 00:22:14,267
+and that footage.
+
+510
+00:22:14,690 --> 00:22:15,799
+Are we clear?
+
+511
+00:22:16,821 --> 00:22:17,821
+- Yeah.
+
+512
+00:22:20,070 --> 00:22:22,282
+- Kelly, where are we at
+with that surplus store info?
+
+513
+00:22:22,307 --> 00:22:24,613
+- Well, the inventory list
+shows only one pair of cuffs
+
+514
+00:22:24,638 --> 00:22:26,466
+was sold in the past two weeks.
+
+515
+00:22:26,491 --> 00:22:28,427
+Trouble is, I've been
+scouring credit card receipts
+
+516
+00:22:28,451 --> 00:22:30,025
+and can't find any
+charges that matches
+
+517
+00:22:30,050 --> 00:22:31,269
+the purchase of the cuffs.
+
+518
+00:22:31,294 --> 00:22:32,774
+- Well, maybe he paid in cash.
+
+519
+00:22:32,799 --> 00:22:34,394
+- What about the cameras
+covering the cash register?
+
+520
+00:22:34,418 --> 00:22:36,376
+- Yeah, I think I
+might have something.
+
+521
+00:22:36,401 --> 00:22:38,776
+Obviously, there's no audio
+to go with the footage.
+
+522
+00:22:38,818 --> 00:22:40,847
+- That's all right. A picture's
+worth a thousand words.
+
+523
+00:22:40,871 --> 00:22:42,379
+Throw it up. Let's
+see this guy.
+
+524
+00:22:42,404 --> 00:22:44,323
+- Well, it's not a guy.
+
+525
+00:22:48,521 --> 00:22:50,142
+- Does she pop on facial rec?
+
+526
+00:22:50,715 --> 00:22:52,717
+- Yes. Got an immediate hit.
+
+527
+00:22:53,116 --> 00:22:55,988
+Barbie Simmons, 35,
+
+528
+00:22:56,013 --> 00:22:58,842
+has two prior arrests
+for solicitation.
+
+529
+00:22:58,867 --> 00:23:00,478
+- What else do we
+know about Barbie?
+
+530
+00:23:00,503 --> 00:23:03,114
+- Um, arrests were made
+by undercover vice cops
+
+531
+00:23:03,139 --> 00:23:06,289
+conducting sex-for-hire stings.
+
+532
+00:23:06,314 --> 00:23:10,144
+She apparently specializes
+in bondage and roleplaying.
+
+533
+00:23:10,169 --> 00:23:12,082
+- Hmm. Do we have
+an address on her?
+
+534
+00:23:12,107 --> 00:23:14,457
+- Yes, an apartment
+over in Queens.
+
+535
+00:23:14,482 --> 00:23:16,402
+- All right, well, obviously
+she's not our rapist,
+
+536
+00:23:16,426 --> 00:23:18,221
+but send Tiff and
+Scola over nonetheless.
+
+537
+00:23:18,246 --> 00:23:19,160
+- Yeah.
+
+538
+00:23:25,234 --> 00:23:27,008
+- FBI, open the door.
+
+539
+00:23:27,450 --> 00:23:29,690
+- Jubal says her phone is
+still pinging at this location.
+
+540
+00:23:29,818 --> 00:23:31,188
+Come on, Barbie.
+
+541
+00:23:31,213 --> 00:23:33,039
+You can open it up, or
+we can kick it down.
+
+542
+00:23:33,063 --> 00:23:34,453
+It's your choice.
+
+543
+00:23:34,571 --> 00:23:35,836
+- What's going on?
+
+544
+00:23:35,861 --> 00:23:37,789
+- The woman who stays
+here, you seen her today?
+
+545
+00:23:37,991 --> 00:23:39,341
+- No, sorry.
+
+546
+00:23:39,366 --> 00:23:40,758
+- And where's the super stay?
+
+547
+00:23:40,783 --> 00:23:42,176
+- You're looking at him.
+
+548
+00:23:42,201 --> 00:23:44,638
+- You got the key?
+- Sure do.
+
+549
+00:23:50,045 --> 00:23:51,568
+- FBI.
+
+550
+00:23:55,164 --> 00:23:57,166
+- Barbie Simmons?
+
+551
+00:23:57,191 --> 00:23:59,086
+Anybody home?
+
+552
+00:24:07,453 --> 00:24:08,889
+The closet's clear.
+
+553
+00:24:18,429 --> 00:24:19,429
+- We got a body.
+
+554
+00:24:24,716 --> 00:24:26,544
+I'm guessing that's Barbie.
+
+555
+00:24:33,104 --> 00:24:35,727
+- Death appears to be from
+a violent strangulation,
+
+556
+00:24:35,752 --> 00:24:38,364
+and based on the advanced
+levels of decomposition,
+
+557
+00:24:38,389 --> 00:24:41,609
+I'd estimate she was
+killed about two weeks ago.
+
+558
+00:24:41,634 --> 00:24:45,160
+Hard to determine exactly when
+until I get her on the table.
+
+559
+00:24:45,185 --> 00:24:46,857
+- What about the
+trauma to her face?
+
+560
+00:24:46,882 --> 00:24:48,493
+Was that before or after death?
+
+561
+00:24:48,518 --> 00:24:51,651
+- Looks like it was
+inflicted post-mortem.
+
+562
+00:24:51,676 --> 00:24:53,172
+- Son of a bitch
+couldn't get enough
+
+563
+00:24:53,197 --> 00:24:54,633
+even after she was dead.
+
+564
+00:24:56,201 --> 00:24:58,781
+- Probably got upset she
+died, so he got angry
+
+565
+00:24:58,806 --> 00:25:00,446
+and started punching her.
+
+566
+00:25:00,471 --> 00:25:03,387
+- Who knows what was
+in this guy's head.
+
+567
+00:25:03,801 --> 00:25:05,769
+- The good news is,
+looks like he left behind
+
+568
+00:25:05,794 --> 00:25:07,993
+some leather fragments.
+
+569
+00:25:08,190 --> 00:25:10,672
+- So he was wearing gloves?
+- It appears that way.
+
+570
+00:25:10,697 --> 00:25:12,305
+I'll run them for DNA.
+
+571
+00:25:12,330 --> 00:25:14,767
+It's a long shot, but
+uh, you never know.
+
+572
+00:25:15,027 --> 00:25:16,464
+- Thanks, Neil.
+
+573
+00:25:18,822 --> 00:25:20,780
+- Any luck with ERT?
+- Nothing.
+
+574
+00:25:20,805 --> 00:25:22,938
+No working security
+cameras in the building.
+
+575
+00:25:22,963 --> 00:25:25,096
+They think that the suspect
+wiped the apartment down
+
+576
+00:25:25,121 --> 00:25:26,266
+with liquid bleach.
+
+577
+00:25:26,291 --> 00:25:28,360
+They found a bottle
+discarded in the kitchen.
+
+578
+00:25:28,608 --> 00:25:30,654
+- He left the windows
+open, too, to air it out
+
+579
+00:25:30,679 --> 00:25:32,313
+and delay the discovery.
+
+580
+00:25:32,338 --> 00:25:34,296
+- This guy's always thinking.
+
+581
+00:25:34,335 --> 00:25:36,066
+- Well, it's time to
+stop admiring his work
+
+582
+00:25:36,091 --> 00:25:37,658
+and nail his ass.
+
+583
+00:25:39,714 --> 00:25:42,227
+- Yeah, I appreciate it.
+
+584
+00:25:42,729 --> 00:25:44,905
+Okay, so the medical
+examiner just confirmed
+
+585
+00:25:44,930 --> 00:25:47,759
+that Barbie Simmons was killed
+approximately 12 days ago.
+
+586
+00:25:48,017 --> 00:25:50,976
+So that makes her
+our first victim.
+
+587
+00:25:51,149 --> 00:25:52,249
+- Okay.
+
+588
+00:25:52,274 --> 00:25:53,844
+Where are we with
+the leather fibers?
+
+589
+00:25:53,869 --> 00:25:56,176
+- Uh, they found two samples,
+one was Barbie Simmons,
+
+590
+00:25:56,201 --> 00:25:58,393
+and the other one
+was an unknown female
+
+591
+00:25:58,418 --> 00:26:00,351
+of Southeast Asian descent.
+
+592
+00:26:00,376 --> 00:26:02,742
+- So we're thinking Citra?
+- I mean, it has to be.
+
+593
+00:26:02,767 --> 00:26:04,900
+She said she bit down hard
+on her attacker's glove.
+
+594
+00:26:04,987 --> 00:26:07,511
+- Hey, uh, there's
+a Detective Chavez
+
+595
+00:26:07,536 --> 00:26:09,325
+waiting in the boardroom,
+says he wants to talk to you
+
+596
+00:26:09,349 --> 00:26:11,133
+about a photo array.
+
+597
+00:26:11,158 --> 00:26:12,329
+- A photo array?
+
+598
+00:26:12,354 --> 00:26:14,922
+- Uh, yeah, unrelated
+to this case.
+
+599
+00:26:20,421 --> 00:26:22,341
+- You couldn't call before
+showing up, detective?
+
+600
+00:26:22,366 --> 00:26:24,673
+- Tried. You didn't pick up.
+
+601
+00:26:24,698 --> 00:26:27,048
+- That is because I am in
+the middle of an active case.
+
+602
+00:26:27,716 --> 00:26:28,984
+- So am I.
+
+603
+00:26:29,454 --> 00:26:31,717
+Patrol units just called
+me a few minutes ago.
+
+604
+00:26:32,031 --> 00:26:33,662
+Looks like the two
+perps that attacked you
+
+605
+00:26:33,686 --> 00:26:35,209
+just robbed another guy.
+
+606
+00:26:35,234 --> 00:26:36,540
+- Okay. You can talk to him.
+
+607
+00:26:36,937 --> 00:26:39,305
+- Can't. They shot him.
+
+608
+00:26:39,853 --> 00:26:41,071
+- What?
+
+609
+00:26:41,096 --> 00:26:42,820
+- He's in bad shape, too.
+
+610
+00:26:42,845 --> 00:26:45,148
+On the operating
+table as we speak.
+
+611
+00:26:45,173 --> 00:26:47,937
+So with all due respect,
+showing up unannounced
+
+612
+00:26:47,962 --> 00:26:49,921
+isn't my biggest concern.
+
+613
+00:26:49,968 --> 00:26:51,404
+- You are correct.
+
+614
+00:26:51,429 --> 00:26:53,914
+My apologies. I am sorry.
+
+615
+00:26:54,566 --> 00:26:57,081
+- I put together a photo
+array of potential suspects
+
+616
+00:26:57,106 --> 00:26:58,374
+hoping you'll take a look.
+
+617
+00:26:58,399 --> 00:26:59,922
+Might jog your memory.
+
+618
+00:26:59,947 --> 00:27:01,427
+It's called guided
+visualization...
+
+619
+00:27:01,452 --> 00:27:03,193
+Pictures, objects, locations.
+
+620
+00:27:03,218 --> 00:27:05,916
+Seeing them sometimes
+jogs repressed memories.
+
+621
+00:27:09,258 --> 00:27:10,520
+Give it a shot, Omar.
+
+622
+00:27:12,664 --> 00:27:14,274
+What's the harm in looking?
+
+623
+00:27:17,753 --> 00:27:20,974
+- Um, I will.
+
+624
+00:27:20,999 --> 00:27:22,348
+I'm a little
+distracted right now.
+
+625
+00:27:22,373 --> 00:27:24,680
+We just got a lead on our
+serial killer, but today.
+
+626
+00:27:26,375 --> 00:27:28,812
+I promise, you have my word.
+
+627
+00:27:28,977 --> 00:27:30,593
+- I appreciate that, Omar.
+
+628
+00:27:30,618 --> 00:27:32,620
+- No, thank you.
+
+629
+00:27:34,407 --> 00:27:35,407
+- Thank you.
+
+630
+00:27:37,610 --> 00:27:39,134
+- Hey.
+- Hey, what's going on?
+
+631
+00:27:39,651 --> 00:27:40,913
+- Nothing.
+
+632
+00:27:41,094 --> 00:27:42,617
+- Come on, don't do that.
+
+633
+00:27:44,307 --> 00:27:47,031
+- Do what?
+- Pretend like nothing's wrong.
+
+634
+00:27:47,056 --> 00:27:49,493
+I'm your partner. Just tell me.
+
+635
+00:27:53,657 --> 00:27:56,164
+- Two punks tried to
+rob me this morning.
+
+636
+00:27:56,376 --> 00:27:58,200
+The detective has some photos.
+
+637
+00:27:58,225 --> 00:28:00,335
+He wants me to take a look,
+see if I can identify anybody,
+
+638
+00:28:00,359 --> 00:28:01,711
+but like I told
+him this morning,
+
+639
+00:28:01,736 --> 00:28:04,870
+I didn't get a good look,
+because it was not a big deal.
+
+640
+00:28:05,814 --> 00:28:07,407
+- Okay, well, I'm
+sorry that you...
+
+641
+00:28:07,432 --> 00:28:09,608
+OA, where are you going?
+
+642
+00:28:09,633 --> 00:28:10,993
+- I want to go talk
+to Citra again,
+
+643
+00:28:11,018 --> 00:28:12,455
+alone this time,
+if you don't mind.
+
+644
+00:28:12,480 --> 00:28:13,785
+The detective gave
+me a new angle
+
+645
+00:28:13,810 --> 00:28:15,421
+that we haven't tried yet.
+
+646
+00:28:15,549 --> 00:28:16,637
+I think it can work.
+
+647
+00:28:16,662 --> 00:28:17,967
+- Okay.
+
+648
+00:28:24,376 --> 00:28:25,942
+- I don't know what
+else I can tell you.
+
+649
+00:28:25,967 --> 00:28:27,534
+My memory of that
+night is limited.
+
+650
+00:28:27,627 --> 00:28:28,976
+- I'm sure that it is.
+
+651
+00:28:29,001 --> 00:28:30,634
+But like I said, the
+man that attacked you
+
+652
+00:28:30,658 --> 00:28:32,486
+killed three other women.
+
+653
+00:28:32,511 --> 00:28:33,642
+This is important.
+
+654
+00:28:33,667 --> 00:28:35,626
+- I get it, I do.
+
+655
+00:28:35,651 --> 00:28:37,218
+But I never saw
+the person's face,
+
+656
+00:28:37,243 --> 00:28:40,551
+and I already told
+you what I remember.
+
+657
+00:28:40,685 --> 00:28:42,211
+- I know.
+
+658
+00:28:42,861 --> 00:28:46,430
+But maybe we can try again,
+because Citra, sometimes,
+
+659
+00:28:46,516 --> 00:28:48,909
+when something
+like this happens,
+
+660
+00:28:48,934 --> 00:28:51,459
+your brain plays a trick on you.
+
+661
+00:28:51,484 --> 00:28:55,183
+Like it deletes some memory
+so that you don't have to deal
+
+662
+00:28:55,333 --> 00:28:58,295
+with what really happened, so
+that you don't have to talk
+
+663
+00:28:58,320 --> 00:29:00,584
+about it with your
+friends or your family,
+
+664
+00:29:00,609 --> 00:29:03,176
+and feel the embarrassment
+or the judgment,
+
+665
+00:29:03,201 --> 00:29:06,988
+as if, somehow, you getting
+attacked was your fault.
+
+666
+00:29:07,254 --> 00:29:09,386
+- I know what you mean.
+
+667
+00:29:09,411 --> 00:29:12,979
+I keep replaying that night,
+wondering why he picked me.
+
+668
+00:29:13,004 --> 00:29:14,354
+- I know.
+
+669
+00:29:14,379 --> 00:29:16,493
+I get it, trust me, but
+
+670
+00:29:16,729 --> 00:29:19,819
+you know that this was
+not your fault, right?
+
+671
+00:29:19,883 --> 00:29:22,320
+- No, I don't.
+
+672
+00:29:22,345 --> 00:29:25,046
+I... I was in
+inappropriate clothing.
+
+673
+00:29:25,071 --> 00:29:26,383
+- No.
+
+674
+00:29:27,409 --> 00:29:30,063
+There is no such thing. Okay?
+
+675
+00:29:30,088 --> 00:29:31,823
+You can wear whatever you
+want, wherever you want to.
+
+676
+00:29:31,847 --> 00:29:33,806
+- It was sinful.
+
+677
+00:29:35,907 --> 00:29:39,911
+- Even if it was,
+okay, the Koran says,
+
+678
+00:29:40,240 --> 00:29:42,029
+we are all forgiven
+our trespass,
+
+679
+00:29:42,054 --> 00:29:44,333
+and that we must tell the truth.
+
+680
+00:29:45,127 --> 00:29:46,607
+Right?
+
+681
+00:29:46,632 --> 00:29:48,721
+So now that we are here,
+
+682
+00:29:48,746 --> 00:29:52,786
+in the place where
+he first grabbed you,
+
+683
+00:29:54,328 --> 00:29:55,932
+I need you to try and
+remember that night
+
+684
+00:29:55,957 --> 00:29:56,958
+one more time.
+
+685
+00:30:01,185 --> 00:30:04,188
+- I don't want to.
+- Please?
+
+686
+00:30:04,213 --> 00:30:05,974
+Just try.
+
+687
+00:30:06,585 --> 00:30:09,153
+It's called guided
+visualization.
+
+688
+00:30:09,553 --> 00:30:11,120
+And I think it might help.
+
+689
+00:30:30,111 --> 00:30:33,169
+- He didn't just grab me.
+
+690
+00:30:33,869 --> 00:30:38,134
+He tried to assault
+me s... sexually.
+
+691
+00:30:38,681 --> 00:30:42,685
+He... he zip tied me and
+pushed me to the ground,
+
+692
+00:30:42,710 --> 00:30:46,627
+and he... he took his pants off.
+
+693
+00:30:49,356 --> 00:30:50,923
+But then I bit him.
+
+694
+00:30:50,972 --> 00:30:53,017
+And I scratched him too.
+
+695
+00:30:53,042 --> 00:30:55,349
+I must have cut him, because
+later, when I got home,
+
+696
+00:30:55,374 --> 00:30:56,984
+I saw his blood on my blouse.
+
+697
+00:30:58,866 --> 00:31:00,912
+- He got his blood
+on your shirt?
+
+698
+00:31:04,282 --> 00:31:07,035
+Did you wash it?
+- No.
+
+699
+00:31:07,060 --> 00:31:08,865
+It's at the bottom of my closet.
+
+700
+00:31:10,644 --> 00:31:12,167
+- That's really good, Citra.
+
+701
+00:31:14,202 --> 00:31:15,508
+Citra, thank you.
+
+702
+00:31:17,292 --> 00:31:18,292
+Thank you.
+
+703
+00:31:21,148 --> 00:31:23,150
+The lab is running the
+blood on Citra's blouse.
+
+704
+00:31:23,175 --> 00:31:25,134
+We should know something soon.
+- Fingers crossed.
+
+705
+00:31:25,159 --> 00:31:27,168
+Hey, do you really think
+that she didn't remember
+
+706
+00:31:27,193 --> 00:31:29,620
+until today, or she just
+didn't want to talk about it?
+
+707
+00:31:29,645 --> 00:31:32,431
+- Uh, I don't know.
+
+708
+00:31:32,556 --> 00:31:34,166
+Maybe both.
+
+709
+00:31:34,574 --> 00:31:36,445
+But I'm gonna go talk to Chavez.
+
+710
+00:31:36,477 --> 00:31:37,622
+- Yeah?
+
+711
+00:31:37,647 --> 00:31:39,605
+I thought you said you
+didn't get a good look.
+
+712
+00:31:40,127 --> 00:31:41,738
+- I didn't.
+
+713
+00:31:41,763 --> 00:31:44,722
+Nina, I didn't, or I
+didn't think I did,
+
+714
+00:31:44,747 --> 00:31:48,316
+but after talking to
+Citra, I got to try.
+
+715
+00:31:48,341 --> 00:31:51,953
+- Yeah, maybe you
+just needed more time.
+
+716
+00:31:52,079 --> 00:31:54,778
+It's not easy being a victim.
+
+717
+00:31:54,803 --> 00:31:56,848
+Really messes with the
+way you see things.
+
+718
+00:31:58,885 --> 00:32:02,541
+I'm not trying to
+upset you. I...
+
+719
+00:32:02,705 --> 00:32:04,028
+- It's not that.
+
+720
+00:32:05,951 --> 00:32:07,262
+- What?
+
+721
+00:32:08,391 --> 00:32:10,567
+- The perps that
+mugged me shot someone.
+
+722
+00:32:12,392 --> 00:32:14,176
+He's in critical condition.
+
+723
+00:32:14,201 --> 00:32:17,115
+The detective doesn't know
+if he's gonna make it, and...
+
+724
+00:32:18,319 --> 00:32:20,615
+he's got a family, and...
+
+725
+00:32:21,422 --> 00:32:24,338
+- Hey, go easy on yourself.
+
+726
+00:32:24,479 --> 00:32:27,526
+You were mugged. And
+you are a victim.
+
+727
+00:32:27,942 --> 00:32:30,138
+And I don't care who
+you are or what you do,
+
+728
+00:32:30,163 --> 00:32:32,470
+that's really heavy stuff.
+
+729
+00:32:41,921 --> 00:32:42,921
+- There.
+
+730
+00:32:45,056 --> 00:32:46,630
+That's him.
+
+731
+00:32:47,639 --> 00:32:48,950
+- You sure?
+
+732
+00:32:49,341 --> 00:32:50,575
+- I'm positive.
+
+733
+00:32:52,686 --> 00:32:53,861
+- Okay. Good.
+
+734
+00:32:57,252 --> 00:32:59,907
+- And that is her,
+the female perp.
+
+735
+00:33:00,128 --> 00:33:01,607
+No doubt about it.
+
+736
+00:33:04,315 --> 00:33:06,230
+- These were the two
+we've been tracking.
+
+737
+00:33:06,255 --> 00:33:08,173
+We just wanted one
+more positive ID
+
+738
+00:33:08,198 --> 00:33:10,060
+before getting a warrant.
+
+739
+00:33:10,497 --> 00:33:12,802
+- I'm sorry that
+it took so long.
+
+740
+00:33:13,889 --> 00:33:15,536
+- Is what it is.
+
+741
+00:33:16,038 --> 00:33:17,866
+- The victim that
+they shot, how is he?
+
+742
+00:33:18,009 --> 00:33:19,208
+- I'm not sure.
+
+743
+00:33:19,233 --> 00:33:21,232
+The last I checked, he
+was in rough shape...
+
+744
+00:33:21,281 --> 00:33:23,224
+Touch and go.
+
+745
+00:33:24,104 --> 00:33:26,193
+Thanks for your help, Omar.
+- Yeah.
+
+746
+00:33:31,143 --> 00:33:33,624
+- Thank you. Hey,
+DNA came back.
+
+747
+00:33:33,649 --> 00:33:34,786
+We got a hit.
+
+748
+00:33:35,112 --> 00:33:38,202
+Looks like this son of a bitch
+was hiding in plain sight.
+
+749
+00:33:39,321 --> 00:33:41,454
+It's the clerk from
+the surplus store.
+
+750
+00:33:51,405 --> 00:33:52,426
+- FBI.
+
+751
+00:33:52,451 --> 00:33:54,366
+Hands where we can see them.
+
+752
+00:33:54,876 --> 00:33:56,685
+Federal agents.
+
+753
+00:33:56,710 --> 00:33:58,263
+Where's Jason?
+- Why? He in trouble?
+
+754
+00:33:58,288 --> 00:33:59,440
+- Answer the question.
+- He left.
+
+755
+00:33:59,464 --> 00:34:01,372
+He got off shift
+like, ten minutes ago.
+
+756
+00:34:01,570 --> 00:34:03,052
+- On foot?
+- Yeah.
+
+757
+00:34:03,077 --> 00:34:04,896
+- What direction did he go in?
+- I'm not sure.
+
+758
+00:34:04,921 --> 00:34:06,068
+- He's not here.
+
+759
+00:34:06,093 --> 00:34:08,705
+- I saw him talking to a girl
+shopping for some cargo pants.
+
+760
+00:34:08,730 --> 00:34:10,573
+- Did she leave with him?
+- I guess.
+
+761
+00:34:10,598 --> 00:34:12,438
+I got a little busy, but
+definitely looked like
+
+762
+00:34:12,463 --> 00:34:14,553
+they were vibing, so probably.
+
+763
+00:34:14,578 --> 00:34:16,124
+- Jubal, Jason's not here.
+
+764
+00:34:16,149 --> 00:34:17,789
+He left with a girl
+about ten minutes ago.
+
+765
+00:34:17,930 --> 00:34:19,409
+- Copy that. Standby.
+
+766
+00:34:19,434 --> 00:34:20,848
+Elise, when you
+pinged Jason's phone,
+
+767
+00:34:20,872 --> 00:34:22,232
+he was at the
+surplus store, right?
+
+768
+00:34:22,257 --> 00:34:24,268
+- Yes, or at least
+in that general area.
+
+769
+00:34:24,293 --> 00:34:26,208
+- Yeah. Can you ping it again?
+
+770
+00:34:26,233 --> 00:34:28,081
+- Cell coverage in that
+area is a little spotty,
+
+771
+00:34:28,105 --> 00:34:30,151
+so I can't give you
+an exact location,
+
+772
+00:34:30,176 --> 00:34:31,753
+but it shows he's still
+within a few hundred yards
+
+773
+00:34:31,777 --> 00:34:33,300
+of the surplus store.
+
+774
+00:34:33,325 --> 00:34:36,131
+- OA, his cell is still
+pinging off the same tower,
+
+775
+00:34:36,156 --> 00:34:38,057
+so he's still
+somewhere in that area.
+
+776
+00:34:38,605 --> 00:34:40,912
+- Copy that. Okay.
+Let's split up.
+
+777
+00:34:40,944 --> 00:34:42,417
+Check restaurants,
+bodegas, anywhere this guy
+
+778
+00:34:42,441 --> 00:34:43,472
+could be with this girl, yeah?
+
+779
+00:34:46,894 --> 00:34:49,549
+- Excuse me, sir? Have
+you seen this person?
+
+780
+00:34:50,044 --> 00:34:51,828
+- No.
+- All right.
+
+781
+00:35:00,946 --> 00:35:03,600
+- Excuse me? Have
+you seen this guy?
+
+782
+00:35:20,775 --> 00:35:22,211
+- Guys, I just
+heard a woman scream
+
+783
+00:35:22,236 --> 00:35:23,716
+one block east of
+the surplus store.
+
+784
+00:35:23,741 --> 00:35:26,570
+I'm checking it out now.
+- Okay. Copy that. On my way.
+
+785
+00:35:28,655 --> 00:35:30,797
+- I think it came from one
+of the shipping containers.
+
+786
+00:35:30,822 --> 00:35:32,203
+- I'm right behind you.
+
+787
+00:35:35,313 --> 00:35:37,359
+Shut up! Shut up!
+
+788
+00:35:37,384 --> 00:35:39,734
+- Hey! FBI!
+
+789
+00:35:39,759 --> 00:35:41,336
+Show me your hands!
+
+790
+00:35:41,956 --> 00:35:43,566
+Here's here, guys. Send backup.
+
+791
+00:35:43,591 --> 00:35:44,636
+Help is coming.
+
+792
+00:35:44,747 --> 00:35:46,531
+- Hey. I got her. Go.
+
+793
+00:35:58,025 --> 00:36:00,549
+- Let's get these
+off. I got you, okay?
+
+794
+00:36:00,574 --> 00:36:02,663
+It's all right.
+
+795
+00:36:09,120 --> 00:36:10,726
+- NYPD is arriving on the scene.
+
+796
+00:36:10,751 --> 00:36:12,953
+They should have it contained
+in the next few minutes.
+
+797
+00:36:12,978 --> 00:36:14,762
+- Where are you exactly?
+
+798
+00:36:16,717 --> 00:36:18,327
+- I'm in the rear
+of the warehouse.
+
+799
+00:36:18,422 --> 00:36:19,597
+I lost sight of the suspect,
+
+800
+00:36:19,622 --> 00:36:21,232
+but he's got to be
+in here somewhere.
+
+801
+00:36:21,312 --> 00:36:23,444
+- Hold your position.
+We're headed towards you.
+
+802
+00:37:14,575 --> 00:37:15,875
+- What's the matter, Jason?
+
+803
+00:37:15,900 --> 00:37:17,740
+You don't like being on
+the other side of this?
+
+804
+00:37:17,970 --> 00:37:20,625
+- Hey, hey, hey! OA, OA, OA!
+
+805
+00:37:20,797 --> 00:37:22,240
+Enough, enough, enough.
+
+806
+00:37:22,265 --> 00:37:23,945
+Back off.
+- Okay, okay, okay.
+
+807
+00:37:23,970 --> 00:37:25,309
+- You got him. You got him.
+
+808
+00:37:26,911 --> 00:37:29,304
+- I got him.
+- You got him. It's good.
+
+809
+00:37:36,941 --> 00:37:39,063
+- Is the girl okay?
+- Yeah, she's fine.
+
+810
+00:37:39,088 --> 00:37:41,781
+Come on. Take a
+breather. It's over.
+
+811
+00:37:46,588 --> 00:37:48,187
+You did good.
+
+812
+00:37:48,494 --> 00:37:50,191
+Thank God you got
+the bloody shirt
+
+813
+00:37:50,232 --> 00:37:53,018
+from Citra, otherwise that
+girl would have been dead.
+
+814
+00:37:53,269 --> 00:37:54,879
+- I could have
+gotten it earlier.
+
+815
+00:37:56,903 --> 00:37:58,339
+If she didn't block it out.
+
+816
+00:37:58,364 --> 00:38:00,236
+If she gave it to us earlier.
+- Hey. Hey.
+
+817
+00:38:00,261 --> 00:38:02,089
+No. Don't say that.
+
+818
+00:38:02,114 --> 00:38:03,336
+- It's the truth.
+
+819
+00:38:07,785 --> 00:38:10,007
+If she gave NYPD
+the bloody shirt
+
+820
+00:38:10,032 --> 00:38:11,372
+at the beginning, if she...
+
+821
+00:38:13,165 --> 00:38:16,940
+If she remembered,
+then three other girls
+
+822
+00:38:16,965 --> 00:38:18,013
+would be alive right now.
+
+823
+00:38:18,038 --> 00:38:19,474
+- She did the best
+that she could.
+
+824
+00:38:19,499 --> 00:38:22,415
+She was humiliated
+and traumatized
+
+825
+00:38:22,440 --> 00:38:24,233
+and scared to tell the
+people that she loves
+
+826
+00:38:24,258 --> 00:38:26,247
+what actually happened to her.
+
+827
+00:38:27,450 --> 00:38:28,929
+OA.
+
+828
+00:38:32,027 --> 00:38:34,290
+I think she's amazing.
+
+829
+00:38:34,533 --> 00:38:36,013
+And I don't blame her,
+
+830
+00:38:36,038 --> 00:38:38,138
+not one minute,
+for what happened.
+
+831
+00:38:40,504 --> 00:38:42,114
+Okay, she worked
+through her pain
+
+832
+00:38:42,139 --> 00:38:44,794
+and her fear and her anger,
+
+833
+00:38:44,819 --> 00:38:47,691
+and she found the courage to
+remember what happened to her.
+
+834
+00:38:58,607 --> 00:38:59,652
+- You're right.
+
+835
+00:39:03,174 --> 00:39:04,653
+Thank you.
+
+836
+00:39:17,922 --> 00:39:19,678
+Hi, I'm looking for a patient
+
+837
+00:39:19,703 --> 00:39:21,923
+who sustained a gunshot
+injury earlier today.
+
+838
+00:39:21,948 --> 00:39:23,775
+I'm not sure his name.
+
+839
+00:39:24,096 --> 00:39:27,011
+- Um, Peter Atkins.
+
+840
+00:39:27,255 --> 00:39:28,604
+- And he's still here?
+
+841
+00:39:28,629 --> 00:39:32,099
+- He's in the ICU,
+recovery room 4A.
+
+842
+00:39:32,315 --> 00:39:34,796
+- Okay. Any idea
+how he's doing?
+
+843
+00:39:34,821 --> 00:39:36,127
+- No, I'm sorry.
+
+844
+00:39:36,283 --> 00:39:38,067
+- All right, thank you.
+
+845
+00:39:52,028 --> 00:39:53,334
+- What are you doing here?
+
+846
+00:39:56,886 --> 00:39:59,062
+- I, uh, I just wanted to
+make sure that he was okay.
+
+847
+00:39:59,087 --> 00:40:00,677
+What about you?
+
+848
+00:40:00,702 --> 00:40:03,139
+- We just collared the perps.
+
+849
+00:40:03,164 --> 00:40:05,482
+I just came here to
+deliver the good news.
+
+850
+00:40:06,564 --> 00:40:08,088
+- Nice.
+
+851
+00:40:12,685 --> 00:40:14,731
+- End of the day,
+we're just people.
+
+852
+00:40:14,756 --> 00:40:16,062
+Badge or no badge.
+
+853
+00:40:16,087 --> 00:40:17,661
+You know what I mean?
+
+854
+00:40:18,628 --> 00:40:19,629
+- Yeah.
